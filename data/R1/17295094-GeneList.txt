@@ -1,0 +1,270 @@
+Nr	Gene Symbol	Gene Name	Description	LocusLink-ID
+1	ADD1	ADDA/MGC3339/MGC44427	adducin 1 (alpha)	118
+2	ADM	AM	adrenomedulllin	133
+3	AGPAT2	1-AGPAT2/BSCL	1-acylglycerol-3-phosphate O-acyltransferase 2 (lysophosphatidic acid acyltrasferase, beta)	10555
+4	AGTPBP1	DKFZp686M20191/NNA1	ATP/GTP binding protein 1	23287
+5	ANGPTL4	ANGPTL2/ARP4	Angiopoietin-like 4	51129
+6	ARD1A	ARD1/DXS707	ARD1 homologA, N-acetyltransferase (S.cerevisiae)	8260
+7	ARNT2	KIAA0307	aryl-hydrocarbon receptor nuclear translocator 2	9915
+8	AZU1	AZAMP/AZU	azurocidin 1 (cationic antimicrobial protein 37)	566
+9	BAX	Bax zeta	BCL2-associated X protein	581
+10	BCL2	Bcl-2	B-cell CLL/lymphoma 2	596
+11	BHLHB2	DEC1/SHARP-2/STRA13/STRA14	basic helix-loop-helix domain containing, class B, 2	8553
+12	BIRC5	APIA/ERP-1	baculoviral IAP repeat-containing 5 (survivin)	332
+13	CA1	CA1	carbonic anhydrase I	759
+14	CA12	CAXII/HsT18816	carbonic anhydrase XII	771
+15	CA9	MN	carbonic anhydrase IX	768
+16	CAMK2G	CAMK/CAMK-II	calcium/calmodulin-dependent protein kinase (CaM Kinase) II gamma	818
+17	CASP1	ICE/IL1BC	caspase1, apoptosis-related cystein peptidase (interleukin 1, beta, convertase)	834
+18	CAT	MGC138422	catalase	847
+19	CDC42	CDC42Hs/G25K	cell division cycle 42 (GTP binding protein, 25kDA)	998
+20	CHGA	CGA	chromogranin A (parathyroid secretory protein 1)	1113
+21	COL1A1	OI4/aa 694-711	collagen, type1, alpha	1277
+22	CREBBP	CBP/RSTS	CREB binding protein (Rubistein-Taybi syndrome)	1387
+23	CSTB	CST6/EPM11	cystatin B (stefin B)	1476
+24	CTGF	CCN2/IGFBP8	connective tissue growth factor	1490
+25	CYGB	HGB/STAP	cytoglobin	114757
+26	DAPK3	ZIP/ZIPK	death-associated protein kinase 3	1613
+27	DCTN2	DCTN50/DYNAMITIN	dynactin 2 (p50)	10540
+28	DNAJB1	HSPF1/Hsp40	DnaJ (Hsp40) homolog, subfamily B, member 1	3337
+29	DR1	NC2/NC2-BETA	down-regulator of transcription 1, TBP-binding (negative cofactor 2)	1810
+30	ECE1	ECE	endothelin converting enzyme 1	1889
+31	EEF1A1	EEF-1/EEF1A	eukaryotic translation elongation factor 1 alpha 1	1915
+32	EGFR	ERBB/ERBB1	epidermal growth factor receptor (erythroblastic leukemia viral (v-erb-b oncogene homolog, avian)	1956
+33	EGLN2	DKFZp434E026/EIT6	egl nin homolog 2 (C.elegans)	112398
+34	ENO1	ENO1L1/MBP-1	enolase 1, (alpha)	2023
+35	EP300	p300	E1A binding protein p300	2033
+36	EPAS1	HIF2A/HLF	endothelial PAS domain protein 1; Hif-1alpha-like factor	2034
+37	EPO	EP	erythropoietin	2056
+38	FOS	c-fos	v-fos FBJ murine osteosarcoma viral oncogene homolog	2353
+39	GAP43	B-50/PP46	growth associated protein 43	2596
+40	GNA11	GNA-11	guanine binding protein (G protein), alpha 11 (Gq class)	2767
+41	GPI	AMF/GNPI	glucose phosphate isomerase	2821
+42	GPX1	GSHPX1	glutathione peroxidase 1	2876
+43	GSTO1	DKFZp686H13163/GSTTLp28	glutathione S-transferase omega 1	9446
+44	HBB	CD113t-C/HBD	hemoglobin, beta	3043
+45	HIF1A	HIF-1alpha/HIF1-ALPHA	Hypoxia-inducible factor 1, alpha subunit (basic helix-loop-helix transcription factor)	3091
+46	HIF1AN	DKFZp762F1811/FIH1	Hypoxia-inducible factor 1, alpha subunit inhibitor	55662
+47	HIF3A	HIF-3A/HIF-3A4	hypoxia inducible factor 3, alpha subunit	64344
+48	HK2	DKFZp686M1669/HKII	hexokinase 2	3099
+49	HMOX1	HO-1/bK286B10	heme oxygenase (decycling)	3162
+50	HTATIP	ESA1/HTATIP1	HIV-1 Tat interacting protein, 60kDA	10524
+51	HYOU1	DKFZp686N08236/ORP150	hypoxia up-regulated 1	10525
+52	ID1	ID	inhibitor of DNA binding 1, dominant negative helix-loop-helix protein	3397
+53	ID2	GIG8/ID2A	inhibitor of DNA binding 2, dominant negative helix-loop-helix protein	3398
+54	IGF2	FLJ44734	insulin-like growth factor 2 (somatomedin A)	3481
+55	IGFBP1	AFBP/IBP1	insulin-like growth factor binding protein 1	3484
+56	IL1A	IL-1A/IL1	interleukin 1, alpha	3552
+57	IL1B	IL-1/IL1-BETA	interleukin 1, beta	3553
+58	IL6	BSF2/HGF	interleukin 6 (interferon, beta 2)	3569
+59	IL6ST	CD130/CDw130	interleukin 6 signal transducer (gp130, oncostatin M receptor)	3572
+60	IL8	3-10C/AMCF-I	interleukin 8	3576
+61	IQGAP1	HUMORFA01/SAR1	IQ motif containing GTPase activating protein 1	8826
+62	KHSRP	FBP2/FUBP2	KH-type splicing regulatory protein (FUSE binding protein 2)	8570
+63	KIT	C-Kit/CD117	v-kit-Hardy-Zuckerman 4 feline sarcoma viral oncogene homolog	3815
+64	LCT	LAC/LPH	lactase	3938
+65	LEP	OB/OBS	leptin (obesity homolog, mouse)	3952
+66	LIPE	HSL/LHS	lipase, hormone-sensitive	3991
+67	MAN2B1	LAMAN/MANB	mannosidase, alpha, class 2B, member1	4125
+68	MARS	METRS/MTRNS	methionine-tRNA-synthetase	4141
+69	MMP14	MMP-X1/MT1-MMP	matrix metallopeptidase 14 (membrane-inserted)	4323
+70	MOCS3	MGC9252	molybdenum cofactor synthesis 3	27304
+71	MT3	GIF/GIFB	metallothionein 3 (growth inhibitory factor (neurotrophic))	4504
+72	MYBL2	BMYB	v-myb myeloblastosis viral oncogene homolog (avian)-like 2	4605
+73	MYCN	MODED/N-myc	v-myc myelocytomatosis viral related oncogene, neuroblastoma derived (avian)	4613
+74	MYLPF	DKFZp779C0757/MRLC2	fast skeletal myosin light chain 2	29895
+75	NOS2A	HEP-NOS/INOS	nitric oxide synthase 2A (inducible, hepatocytes)	4843
+76	NOTCH1	TAN1/hN1	Notch homolog 1, translocation-associated	4851
+77	NPY	PYY4	neuropeptide Y	4852
+78	NUDT2	APAH1	nudix (nucleoside diphosphate linked moiety X)-type motif 2	318
+79	PDIA2	PDA2/PDI	protein disulfide isomerase family A, member 2	64714
+80	PEA15	HMAT1/HUMMAT1H	phosphoprotein enriched in astrocytes 15	8682
+81	PIP3-E	IPCEF1	phosphoinositide-binding protein PIP3-E	26034
+82	PLAU	ATF/UPA	plasminogen activator, urokinase	5328
+83	PLOD3	LH3	procollagen-lysine, 2-oxoglutarate 5-dioxygenase 3	8985
+84	PPARA	NR1C1/PPAR	peroxisome proliferative activated receptor, alpha	5465
+85	PPP2CB	PP2CB	protein phosphatase 2 (formerly 2A), catalytic subunit, beta isoform	5516
+86	PRKAA1	1/AMPK	protein kinase, AMP-activated, alpha 1 catalytic subunit	5562
+87	PRPF40A	FBP-11/FBP11	prp40 pre-mRNA processing factor 40 homolog A (yeast)	55660
+88	PSMB3	HC10-II	proteasome (prosome, macropain) subunit, beta type, 3	5691
+89	PSME2	PA28B/PA28beta	proteasome (prosome, macropain) activator subunit 2 (PA28 beta)	5721
+90	PTX3	TNFAIP5/TSG-14	pentraxin-related gene, rapidly induced by IL-1 beta	5806
+91	RARA	NR1B1/RAR	retinoic acid receptor, alpha	5914
+92	RPL28	RPL28	ribosomal protein L28	6158
+93	RPL32	PP9932	ribosomal protein L32	6161
+94	RPL37	DKFZp686G1699	ribosomal protein L37	6167
+95	RPS2	LLREP3	ribosomal protein S2	6187
+96	RPS7	RPS7	ribosomal protein S7	6201
+97	RPS8	RPS8	ribosomal protein S8	6202
+98	SAE1	AOS1/HSPC140	SUMO-1 activating enzyme subunit 1	10055
+99	SLC2A1	GLUT/GLUT1	solute carrier family 2 (facilitated glucose transporter), member 1	6513
+100	SLC2A4	GLUT4	solute carrier family 2 (facilitated glucose transporter), member 4	6517
+101	SLC2A8	GLUT8/GLUTX1	solute carrier family 2 (facilitated glucose transporter), member 8	29988
+102	SNRP70	RNPU1Z/RPU1	small nuclear ribonucleoprotein 70kDA polypeptide (RNP antigen)	6625
+103	SOD2	IPO-B/MNSOD	superoxide dismutase 2, mitochondrial	6648
+104	SORD	SORD1	sorbitol dehydrogenase	6652
+105	SPTBN1	SPTB2	spectrin, beta, non-erythrocytic 1	6711
+106	SSSCA1	p27	Sjogrens syndrome/scleroderma autoantigen 1	10534
+107	SUMO2	HSMT3/SMT3B	SMT3 suppressor of mif two 3 homolog 2 (S.cerevisiae)	6613
+108	TH	TYH	tyrosine hydroxylase	7054
+109	TST	RDS	thiosulfate sulfurtransferase (rhodanese)	7263
+110	TUBA1	H2-ALPHA	tubulin, alpha 1 (testis specific)	7277
+111	UCP2	SLC25A8/UCPH	uncoupling protein 2 (mitochondrial, proton carrier)	7351
+112	VARS	G7A/VARS2	valyl-tRNA synthetase	7407
+113	VEGF	VEGFA/VPF	vascular endothelial growth factor	7422
+114	PGRMC1	Progesterone receptor membrane component 1	Progesterone receptor membrane component 1	10857
+115	ERO1L	ERO1-like (S.cerevisiae)/ERO1-alpha	ERO1-like (S.cerevisiae)	30001
+116	HN1	ARM2/HN1A/androgen-regulated protein 2	hematological and neurological expressed 1	51155
+117	CDC34	E2-CDC34/UBE2R1	cell division cycle 34	997
+118	C14orf151	MGC13251/hypothetical protein LOC84800	chromosome 14 open reading frame 151	84800
+119	ZNF135	ZNF61,pHZ-17	zinc finger proten 135 (clone pHZ-17)	7694
+120	RHOBTB3	KIAA0878	Rho-related BTB domain containing 3	22836
+121	TRGV9	MGC47828; T-cell receptor, gamma,variable region V9, TRGV9,V2	T cell receptor gamma variable 9	6983
+122	FCRH3	FCRL3/IFGP3,IRTA3,SPAP2	Fc receptor-like 3	115352
+123	CST7	CMAP, cystsatin F	cystatin F (leukocystatin)	8530
+124	TOP1	RP3-511B24.2/TOPI	topoisomerase (DNA) I	7150
+125	TRA@	T-cell antigen receptor, alpha polypeptide/T-cell receptor alpha/FLJ22602/MGC117436/MGC22624/MGC23964/MGC71411/TCRA/TCRD/TRA/TRDD3	T cell receptor alpha locus	6955
+126	CAMTA1	RP3-467L1.1/KIAA0833	calmodulin binding transcription activator 1	23261
+127	GYS1		glycogen synthase 1 (muscle)	2997
+128	PFKP		phosphofructokinase, platelet	5214
+129	MIX1		mix1 homeobox-like 1 (xenopus laevis)	83881
+130	LOX		lysyl oxidase	4015
+131	BNIP3L		BCL2/adnovirus E1B 19KDa interacting protein 3-like	665
+132	P4HA1		prolyl 4-hydroxylase, alpha polypeptide 1	5033
+133	P4HA2		prolyl 4-hydroxylase, alpha polypeptide 2	8974
+134	NDRG1		N-myc downstream regulated gene 1	10397
+135	HIG2		Hypoxia-inducible protein 2	29923
+136	LDHA		lactate dehydrogenase A	3939
+137	PGK1		phosphoglycerate kinase 1	5230
+138	fam13A1		family with sequence similarity 13, member A1	10144
+139	SLC2A3	GLUT3	solute carrier family 2 (facilitated glucose transporter), member 3	6515
+140	RNASE4		ribonuclease, Rnase A family, 4	6038
+141	CCND1		cyclin D1	595
+142	PCNA		proliferating cell nuclear antigen	5111
+143	CDC25	RASGRF1	Ras protein-specific guanine nucleotide-releasing factor 1	5923
+144	E2F3		E2F transcription factor 3	1871
+145	CCRK		cell cycle related kinase	23552
+146	CYP181			niet gevonden
+147	CXCL1	gro1, Groa, MGSA, MGSAalpha, MGSA-a	chemokine (C-X-C motif) ligand 1 (melanoma growth stimulating activity, alpha)	2919
+148	CXCL3		chemokine (C-X-C motif) ligand 3	2921
+149	E2F6		E2F transcription factor 6	1876
+150	ADAMTS1	C3-C5/METH1	ADAM metallopeptidase with thrombospondin type 1 motif,1	9510
+151	ADAMTS8	ADAM-TS8/METH2	ADAM metallopeptidase with thrombospondin type 1 motif,8	11095
+152	AMOT	KIAA1071	angiomotin	154796
+153	ANG	RNASE4/RNASES5	angiogenin, ribonuclease, Rnase A family, 5	283
+154	ANGPT1	AGP1/AGPT	angiopoietin 1	284
+155	ANGPT2	AGPT2/ANG2	angiopoietin 2	285
+156	CCL2	GDCF-2/GDCF-2 HC11	chemokine (C-C motif) ligand 2	6347
+157	CD36	FAT/GP3B	CD36 molecule (thrombospondin receptor)	948
+158	CDH5	7B4	cadherin 5, type 2, VE-cadherin (vascular epithelium)	1003
+159	COL18A1	KNO	collagen, type XVIII, alpha 1	80781
+160	CSF3	G-CSF/GCSF	colony stimulating factor 3 (granulocyte)	1440
+161	EDG1	CHEDG1/D1S3362	endothelial differentiation, sphingolipid G-protein-coupled receptor, 1	1901
+162	EFNA2	ELF-1/EPLG6	ephrin-A2	1943
+163	EFNA5	AF1/EFL5	ephrin-A5	1946
+164	EFNB2	EPLG5/HTKL	ephrin-B2	1948
+165	EGF	URG	epidermal growth factor (beta-urogastrone)	1950
+166	ENG	CD105/END	endoglin (Osler-Rendu-Weber syndrome 1)	2022
+167	EPHB4	HTK/MYK1	EPH receptor B4	2050
+168	ERBB2	HER-2/HER-2	v-erb-b2 erythroblastic leukemia viral oncogene homolog 2, neuro/glioblastoma derived oncogene homolog (avian)	2064
+169	ETS1	ETS-1/EWSR2	v-ets erythroblastosis virus E26 oncogene homolog 1 (avian)	2113
+170	F2	PT	coagulation factor II (thrombin)	2147
+171	FGF1	AFGF/ECGF	fibroblast growth factor 1 (acidic)	2246
+172	FGF2	BFGF/FGFB	fibroblast growth factor 2 (basic)	2247
+173	FGF4	HBGF-4/HST	fibroblast growth factor 4 (heparin secretory transforming protein 1, Kaposi sarcoma oncogene)	2249
+174	FGF6	HBGF-6/HST2	fibroblast growth factor 6	2251
+175	FGF7	HBGF-7/KGF	fibroblast growth factor 7 (keratinocyte growth factor)	2252
+176	FGFR1	BFGFR/C-FGR	fibroblast growth factor receptor 1 (fms-related kinase 2, Pfeiffer syndrome)	2260
+177	FGFR2	BEK/BFR-1	fibroblast growth factor receptor 2 (bacteria-expressed kinase, keratinocyte growth factor receptor, craniofacial dysostosis 1, Crouzon syndrome, Pfeiffer syndrome, Jackson-Weiss syndrome)	2263
+178	FGFR3	ACH/CEK2	fibroblast growth factor receptor 3 (achondroplasia, thanatophoric dwarfism)	2261
+179	FGFR4	JTK2/TKF	fibroblast growth factor receptor 4	2264
+180	FIGF	VEGF-D/VEGFD	c-fos induced growth factor (vascular endothelial growth factor D)	2277
+181	FLT1	FLT/VEGFR1	fms-related tyrosine kinase 1 (vascular endothelial growth factor/vascular permeability factor receptor)	2321
+182	FN1	CIG/DKFZp686F10164	fibronectin 1	2335
+183	HGF	F-TCF/HGFB	hepatocyte growth factor (hepapoietin A; scatter factor)	3082
+184	HPSE	HPA/HPR1	heparanase	10855
+185	ID3	HEIR-1	inhibitor of DNA binding 3, dominant negative helix-loop-helix protein	3399
+186	IFNA1	IFL/IFN	interferon, alpha 1	3439
+187	IFNB1	IFB/IFF	interferon, beta 1, fibroblast	3456
+188	IFNG	IFG/IFI	interferon, gamma	3458
+189	IGF1	IGFI	insulin-like growth factor 1 (somatomedin C)	3479
+190	IL10	CSIF/IL-10	interleukin 10	3586
+191	IL12A	CLMF/IL-12A	interleukin 12A (natural killer cell stimulatory factor 1, cytotoxic lymphocyte maturation factor 1, p35)	3592
+192	ITGA5	CD49e/FNRA	integrin, alpha 5 (fibronectin receptor, alpha polypeptide)	3678
+193	ITGAV	CD51/MSK8	integrin, alpha V (vitronectin receptor, alpha polypeptide, antigen CD51)	3685
+194	ITGB3	CD61/GP3A	integrin, beta 3 (platelet glycoprotein IIIa, antigen CD61)	3690
+195	KDR	FLK1/VEGFR	kinase insert domain receptor (a type III receptor tyrosine kinase)	3791
+196	MDK	MK/NEGF2	midkine (neurite growth-promoting factor 2)	4192
+197	MMP2	CLG4/CLG4A	matrix metallopeptidase 2 (gelatinase A, 72kDa gelatinase, 72kDa type IV collagenase)	4313
+198	MMP9	CLG4B/GELB	matrix metallopeptidase 9 (gelatinase B, 92kDa gelatinase, 92 kDa type IV collagenase)	4318
+199	MSR1	CD204/SCARA1	macrophage scavenger receptor 1	4481
+200	NOS3	ECNOS/NOS III	nitric oxide synthase 3 (endothelial cell)	4846
+201	NRP1	DKFZp686A03134/DKFZp781F1414	neuropilin 1	8829
+202	PDGFA	PDGF-A/PDGF1	platelet-derived growth factor alpha polypeptide	5154
+203	PDGFB	PDGF2/SIS	platelet-derived growth factor beta polypeptide	5155
+204	PDGFRA	CD140A/PDGFR2	platelet-derived growth factor receptor, alpha polypeptide	5156
+205	PDGFRB	CD140B/JTK12	platelet-derived growth factor receptor, beta polypeptide	5159
+206	PECAM1	CD31/PECAM-1	platelet/endothelial cell adhesion molecule (CD31 antigen)	5175
+207	PF4	CXCL4/SCYB4	platelet factor 4 (chemokine (C-X-C motif) ligand 4)	5196
+208	PGF	PLGF/PIGF-2	placental growth factor, vascular endothelial growth factor-related protein	5228
+209	PPIA	CYPA/CYPH	peptidylprolyl isomerase A (cyclophilin A)	5478
+210	PRL	PRL	prolactin	5617
+211	PTGS1	COX1/COX3	prostaglandin-endoperoxide synthase 1 (prostaglandin G/H synthase and cyclooxygenase)	5742
+212	PTGS2	COX-2/COX2	prostaglandin-endoperoxide synthase 2 (prostaglandin G/H synthase and cyclooxygenase)	5743
+213	PTN	HARP/HBGF8	pleiotrophin (heparin binding growth factor 8, neurite, growth-promoting factor 1)	5764
+214	RPL13A	RPL13A	ribosomal protein L13A	23521
+215	RSN	CLIP/CLIP-170	restin (Reed-Steinberg cell-expressed intermediate filament-associated protein)	6249
+216	SERPINB5	PI5/maspin	serpin peptidase inhibitor, clade B (ovalbumin) member 5	5268
+217	SERPINF1	EPC-1/PEDF	serpin peptidase inhibitor, clade F (alpha-2 antiplasmin, pigment epithelium derived factor), member 1	5176
+218	SMAD1	BSP1/JV4-1	SMAD, mothers against DPP homolog 1 (Drosophila)	4086
+219	SPARC	ON	secreted protein, acidic, cystein-rich (osteonectin)	6678
+220	SPP1	BNSP/BSPI	secrreted phosphoprotein 1 (osteopontin, bone sialoprotein I, early T-lymphocyte activation 1)	6696
+221	TEK	CD202B/TIE-2	TEK tyrosine kinase, endothelial (venous malformations, multiple cutaneous and mucosal)	7010
+222	TGFA	TFGA	transforming growth factor, alpha	7039
+223	TGFB1	CED/DPD1	transforming growth factor, beta 1 (Camurati-Engelmann disease)	7040
+224	TGFB2	TGF-beta2	transforming growth factor, beta 2	7042
+225	TGFB3	TGF-beta3	transforming growth factor, beta 3	7043
+226	TGFBR1	ACVRLK4/ALK-5	transforming growth factor, beta receptor I (activin A receptor type II-like kinase, 53 kDa)	7046
+227	TGFBR2	HNPCC6/MFS2	transforming growth factor, beta receptor II (70/80kDa)	7048
+228	TGFBR3	300KD	transforming growth factor, beta receptor III (betaglycan, 300kDa)	7049
+229	THBS1	THBS/TSP	thrombospondin 1	7057
+230	THBS2	TSP2	thrombospondin 2	7058
+231	THBS3	TSP3	thrombospondin 3	7059
+232	THBS4	TSP4	thrombospondin 4	7060
+233	TIE1	JTK14/TIE	tyrosine kinase with immunoglobulin-like and EGF-like domains 1	7075
+234	TIMP1	CLGI/EPA	TIMP metallopeptidase inhibitor 1	7076
+235	TIMP2	CSC-21K	TIMP metallopeptidase inhibitor 2	7077
+236	TNF	DIF/TNF-alpha	tumor necrosis factor (TNF superfamily, member 2)	7124
+237	TNFSF15	TL1/TL1A	tumor necrosis factor (ligand) superfamily, member 15	9966
+238	VEGFB	VEGFL/VRF	vascular endothelial growth factor B	7423
+239	VEGFC	Flt4-L/VRP	vascular endothelial growth factor C	7424
+240	PROX1	Prox-1	prospero-related homeobox 1	5629
+241	XLKD1	CRSBP-1/HAR/LYVE-1	extracellular link domain containing 1	10894
+242	PDPN	CTA-520D8.1/GP36/GP49/T1A/T1A-2	podoplanin	10630
+243	smad5	MADH5, JV5-1, DKFZp781C1895	SMAD, mothers against DPP homolog 5 (Drosophila)	4090
+244	smad7	MADH8, MADH7, FLJ16482	SMAD, mothers against DPP homolog 7 (Drosophila)	4092
+246	AURKB	aik2, aim-1, aim1, ark2, aurB, stk5	aurorakinaseB; serine/threonine kinase 5	9212
+247	NOTCH4	DAQB-143M3.4/INT3/MGC74442/NOTCH3	notch homolog 4 (drosophila)	4855
+248	TNNI3	CMH7/MGC116817/TNNC1	troponin I type 3 (cardiac)	7137
+249	NPPB	BNP	natriuretic peptide precursor B	4879
+250	col4A3	tumstatin/goodpasture antigen/alpha3 type IV collagen	collagen, type IV, alpha 3 (goodpasture antigen)	1285
+251	klk3	aps, klk2A1, psa, hK3	kallikrein 3, (prostate specific antigen)	354
+252	ANGPTL3	ANGPT5	angiopoietin-like 3	27329
+253	BTG1		B-cell translocation gene 1, anti-proliferative	694
+254	RHOB	oncogene RHO H6, aplysia RAS-related homolog 6	ras homolog gene family, member B	388
+255	KRT1	CK1/EHK1/K1/KRT1A	keratin 1 (epidermolytic hyperkeratosis)	3848
+256	TMPRSS6		transmembrane protease, serine 6	164656
+257	HAND2	DHAND2/FLJ16260/Hed/Thing2/dHand	heart and neural crest derivatives expressed 2	9464
+258	SH2D2A	TSAd	SH2 domain protein 2A	9047
+259	NRP2	VEGF165R2/PRO2714/NPN2/NP2	neuropilin 2	8828
+260	PLXDC1	TEM3/TEM7/DKFZp686F0937	plexin domain containing 1	57125
+261	TNFAIP2	B94	tumor necrosis factor, alpha-induced protein 2	7127
+262	AGGF1	VG5Q/HUS84971	angiogenic factor with G patch and FHA domains 1	55109
+263	MMP19	mmp18/rasI-1	matrix metallopeptidase 19	4327
+264	IL18	IGIF, IL-18, IL-1g, IL1F4	interleukin18(interferon-gamma-inducing factor)	3606
+265	TNFRSF12A	CD266/FN14/TWEAKR	tumor necrosis factor receptor superfamily, member 12A	51330
+266	EREG	ER	epiregulin	2069
+267	EGFL7	zneu1	egf-like-domain, multiple 7	51162
+268	ECGF1	MNGIE, PDECGF,TP, hPD-ECGF	endothelial cell growth factor 1 (platelet-derived)	1890
+269	CEACAM1	BGP,BGP1,BGPI,CD66a	carcinomembryonic antigen-related cell adhesion molecule 1 (billiary glycoprotein)	634
+270	ANPEP	CD13/LAP1/PEPN,gp150	alanyl (membrane) aminopeptidase (aminopeptidase N, aminopeptidase M, microsomal aminopeptidase, CD13, p150)	290

@@ -1,0 +1,43 @@
+Gene Symbol	Gene Name	Fold Change SCLC vs. NT	q-value	Gene Function
+RFC4	replication factor C (activator 4)	5.56	0.09	proliferation
+p16 / CDKN2A	cyclin-dependent kinase inhibitor 2A	5.15	0.23	proliferation
+CENPA	centromere protein A	4.68	0.09	proliferation
+CCNE	Cyclin E	4.48	0.09	proliferation
+CCNB2	Cyclin B2	4.43	0.09	proliferation
+PRC1	protein regulator of cytokinesis 1	4.23	0.28	proliferation
+CENPF	centromere protein F	4.01	0.23	proliferation
+MAD2L1	mitotic arrest deficient-like 1	3.78	0.09	proliferation
+HEC1	kinetochore associated 2	3.66	0.09	proliferation
+PIR51	RAD51 associated protein1	3.6	0.09	proliferation
+BUB1B	budding uninhibited by benzimidazoles 1 homolog beta	3.51	0.09	proliferation
+CDC2	cell division cycle 2	3.42	0.28	proliferation
+PCNA	proliferating cell nuclear antigen	3.12	0.09	proliferation
+RFC3	replication factor C (activator 3)	2.58	0.09	proliferation
+RFC5	replication factor C (activator 5)	2.55	0.09	proliferation
+CDK4	cyclin-dependent kinase 4	2.55	0.09	proliferation
+NEK2	never in mitosis gene a-related kinase 2	2.48	0.09	proliferation
+CDK2	cyclin-dependent kinase 2	2.41	0.09	proliferation
+BUB1	budding uninhibited by benzimidazoles 1 homolog	2.38	0.09	proliferation
+CENPE	centromere protein E	2.38	0.09	proliferation
+ENC1	ectodermal-neural cortex 1	2.32	0.23	proliferation
+MSH2	mutS homolog 2	2.31	0.09	proliferation
+FANCG	Fanconi anemia, complementation G	2.22	0.09	proliferation
+MSH6	mutS homolog 6	2.09	0.09	proliferation
+CCNA2	Cyclin A2	2.07	0.09	proliferation
+FOXG1B	Forkhead BOX G1B, QIN oncogene	16.76	0.09	oncogenesis
+STMN1	stathmin 1/oncoprotein 18	4.98	0.16	oncogenesis
+FYN	fyn oncogene related to src, fgr, yes	3.91	0.16	oncogenesis
+MAGED4	melanoma antigen, family D, 4	3.51	0.28	oncogenesis
+PTTG1	pituitary tumor-transforming 1	2.56	0.09	oncogenesis
+RACGAP1	Rac GTPase activating protein 1	3.3	0.09	oncogenesis
+DEK	DEK oncogene (DNA binding)	2.49	0.16	oncogenesis
+RAN	Ras-Related Nuclear Protein	2.39	0.16	oncogenesis
+RANBP1	RAN binding protein 1	2.39	0.16	oncogenesis
+TPD52	tumor protein D52	2.08	0.16	oncogenesis
+RABL2B	Rab-like 2B	0.44	0.09	oncogenesis
+RABL2	Rab-like 2A	0.4	0.09	oncogenesis
+NCAM1	neural cell adhesion molecule 1	12.75	0.16	Cell adhesion
+NRCAM	neuronal cell adhesion molecule	9.43	0.09	Cell adhesion
+CDH2	N-cadherin	5.41	0.09	Cell adhesion
+CELSR3	cadherin, EGF LAG seven-pass G-type receptor 3	2.46	0.09	Cell adhesion
+TJP3	tight junction protein 3, zona occludens 3	0.45	0.09	Cell adhesion

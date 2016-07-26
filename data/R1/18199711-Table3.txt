@@ -1,0 +1,230 @@
+Gene name	Gene ID	Symbol	GO no.	Molecular function GO no.	Padjusted	Fold increase/decrease
+    BCL2-associated X protein	AI565203	BAX	GO:0006915	GO:0005515	0.023	2.65	Apoptosis
+    CASP2 and RIPK1	AA285065	CRADD	GO:0042981	GO:0005515	0.004	1.89	Apoptosis
+    TNF receptor–associated factor 1	R71691	TRAF1	GO:0006915	GO:0006461	0.017	1.72	Apoptosis
+    TIA1 cytotoxic granule-associated RNA binding protein	R82978	TIA1	GO:0006915	GO:0000166	0.017	1.56	Apoptosis
+    TNFRSF1A-associated via death domain	AA916906	TRADD	GO:0006915	GO:0005515	0.027	1.42	Apoptosis
+    Protein phosphatase 1F	AA806330	PPM1F	GO:0006915	GO:0016787	0.014	1.35	Apoptosis
+    Mdm4	AI310969	MDM4	GO:0006915	GO:0004842	0.013	–1.25	Apoptosis
+    Programmed cell death	AA416757	PDCD5	GO:0006915	GO:0005554	0.001	–2.15	Apoptosis
+    Baculoviral inhibitor of apoptosis protein repeat–containing 6	H10434	BIRC6	GO:0006916	GO:0004840	0.013	–1.26	Antiapoptosis
+    BCL2-associated athanogene 4	H22928	BAG4	GO:0006916	GO:0005057	0.026	–1.27	Antiapoptosis
+    Sema domain	AA436152	SEMA5A	GO:0007155	GO:0004872	0.05	1.81	Cell adhesion
+    Fibulin 5	H17615	FBLN5	GO:0007160	GO:0004888	0.01	1.79	Cell adhesion
+    Intercellular adhesion molecule 3	W95068	ICAM3	GO:0016337	GO:0005178	0.019	1.7	Cell adhesion
+    Formin binding protein 4	N49573	FNBP4	GO:0007155	GO:0005198	0.027	1.29	Cell adhesion
+    Sidekick homologue 1 (chicken)	N23940	SDK1	GO:0007155	GO:0005515	0.026	1.26	Cell adhesion
+    Epithelial V-like antigen 1	AA668897	EVA1	GO:0007155	GO:0005515	0.011	1.25	Cell adhesion
+    Neuropilin 1	AA098867	NRP1	GO:0007155	GO:0004872	0.017	1.25	Cell adhesion
+    Discs, large homologue 5 (Drosophila)	AA478949	DLG5	GO:0016337	GO:0005515	0.013	–1.80	Cell adhesion
+    Collagen, type XVI, 1	AA088202	COL16A1	GO:0007155	GO:0005198	0.01	–1.78	Cell adhesion
+    Down syndrome cell adhesion molecule	N53145	DSCAM	GO:0007155	GO:0005515	0.012	–2.10	Cell adhesion
+    Laminin, 1 (formerly LAMB2)	AA599005	LAMC1	GO:0007155	GO:0005515	0.001	–2.91	Cell adhesion
+    Egf-like module containing	AI174266	EMR2	GO:0007165	GO:0004872	0.011	1.51	Cell signaling-signal transduction
+    Low-density lipoprotein receptor–related protein 5	R83038	LRP5	GO:0016055	GO:0004872	0.014	1.4	Cell signaling-signal transduction
+    G protein–coupled receptor kinase interactor 1	AI079118	GIT1	GO:0008277	GO:0005096	0.012	1.35	Cell signaling-signal transduction
+    Insulin receptor substrate 1	AA456306	IRS1	GO:0007165	GO:0004871	0.022	1.29	Cell signaling-signal transduction
+    Cornichon homologue 2 (Drosophila)	R42919	CNIH2	GO:0007242	GO:0005554	0.01	1.25	Cell signaling-signal transduction
+    Ankyrin 2, neuronal	AI018106	ANK2	GO:0007165	GO:0005200	0.014	1.25	Cell signaling-signal transduction
+    Galanin receptor 2	N75473	GALR2	GO:0007186	GO:0004966	0.03	1.2	Cell signaling-signal transduction
+    Development and differentiation enhancing factor 2	AI054096	DDEF2	GO:0043087	GO:0005096	0.013	–1.30	Cell signaling-signal transduction
+    BRCA2 and CDKN1A interacting protein	AI033172	BCCIP	GO:0000079	GO:0005554	0.007	–1.37	Cell signaling-signal transduction
+    Rap guanine nucleotide exchange factor (GEF) 6	AA911005	RAPGEF6	GO:0007264	GO:0005085	0.002	–1.40	Cell signaling-signal transduction
+    Endothelin receptor type A	AA909960	EDNRA	GO:0007186	GO:0001599	0.011	–1.45	Cell signaling-signal transduction
+    Neuropeptide Y receptor Y1	R43817	NPY1R	GO:0007165	GO:0001584	0.019	–1.46	Cell signaling-signal transduction
+    Neuropeptide S receptor 1	H91700	NPSR1	GO:0007165	GO:0004872	0.014	–1.46	Cell signaling-signal transduction
+    GIPC PDZ domain containing family, member 1	AI094796	GIPC1	GO:0007186	GO:0005515	0.011	–1.55	Cell signaling-signal transduction
+    RAB27A, member RAS oncogene family	AI309109	RAB27A	GO:0007264	GO:0000166	0.005	–1.85	Cell signaling-signal transduction
+    Ankyrin repeat and death domain containing 1A	AI053438	ANKDD1A	GO:0007165	GO:0005515|	0.009	–2.31	Cell signaling-signal transduction
+Small inducible cytokine subfamily E	H05323	SCYE1	GO:0007267	GO:0005125	0.002	–3.87	Cell signaling-signal transduction
+    Coiled-coil domain containing 132	R49442	CCDC132	GO:0000160	GO:0000155	0.002	–3.89	Cell signaling-signal transduction
+    Homeodomain interacting protein kinase 2	N38891	HIPK2	GO:0000074	GO:0000166	0.007	1.87	Cell cycle and growth
+    Retinoblastoma binding protein 6	AA398302	RBBP6	GO:0000074	GO:0003676	0.012	1.58	Cell cycle and growth
+    DnaJ (Hsp40) homologue, subfamily A, member 2	AI273537	DNAJA2	GO:0000074	GO:0008270	0.002	1.56	Cell cycle and growth
+    Dynactin 1 (p150, glued homologue, Drosophila)	AA488168	DCTN1	GO:0007067	GO:0003774	0.011	1.48	Cell cycle and growth
+    Transmembrane and coiled-coil domains 7	AI057241	TMCO7	GO:0007076	GO:0005488	0.011	–1.60	Cell cycle and growth
+    Sestrin 3	AI190194	SESN3	GO:0007050	GO:0005554	0.002	–1.90	Cell cycle and growth
+    LATS, large tumor suppressor, homologue 1	AI023733	LATS1	GO:0000086	GO:0000166	0.009	–1.98	Cell cycle and growth
+    Transforming, acidic coiled-coil containing protein 1	AA598796	TACC1	GO:0007049	GO:0005515	0.007	–2.17	Cell cycle and growth
+    Protein phosphatase 2	H09640	PPP2R1B	GO:0000074	GO:0000158	0.019	–2.35	Cell cycle and growth
+    Katanin p60 subunit A 1	T47614	KATNA1	GO:0007049	GO:0000166	0.005	–2.66	Cell cycle and growth
+    G1 to S phase transition 1	R62452	GSPT1	GO:0000082	GO:0000166	0	–3.50	Cell cycle and growth
+    Chromosome 10 open reading frame 59	AI093491	C10orf59	GO:0006725	GO:0004497	0.013	1.93	Response to exogenous agents
+    Thioredoxin reductase 1	AA464849	TXNRD1	GO:0045454	GO:0015036	0.006	1.92	Response to exogenous agents
+    Epoxide hydrolase 1, microsomal (xenobiotic)	AA838691	EPHX1	GO:0006805	GO:0004301	0.012	1.78	Response to exogenous agents
+    Retinol dehydrogenase 11 (all-trans/9-cis/11-cis)	H82421	RDH11	GO:0008152	GO:0016491	0.016	1.64	Response to exogenous agents
+    N-Acetyltransferase 2 (arylamine N-acetyltransferase)	AI460128	NAT2	GO:0008152	GO:0004060	0.009	1.5	Response to exogenous agents
+    Immunoglobulin (CD79A) binding protein 1	AA463498	IGBP1	GO:0042113	GO:0008601	0.005	1.38	Response to exogenous agents
+    Calcium binding atopy-related autoantigen 1	AA992324	CBARA1	GO:0006952	GO:0005509	0.013	1.38	Response to exogenous agents
+    Toll-interleukin 1 receptor	AI279454	TIRAP	GO:0006954	GO:0004888	0.009	1.38	Response to exogenous agents
+    Epoxide hydrolase 1, microsomal (xenobiotic)	AA838691	EPHX1	GO:0006805	GO:0004301	0.012	1.25	Response to exogenous agents
+    Glutathione S-transferase 1	T64869	GSTT1	GO:0006950	GO:0004364	0.013	1.24	Response to exogenous agents
+    Armadillo repeat containing 1	AA490502	ARMC1	GO:0030001	GO:0046872	0.0122	1.65	Cell transport
+    Solute carrier family 19, member 3	AA707858	SLC19A3	GO:0006810	GO:0005386	0.0232	1.64	Cell transport
+    Translocation protein 1	T98628	TLOC1	GO:0015031	GO:0004872	0.012	1.63	Cell transport
+    SH3KBP1 binding protein 1	AA457723	SHKBP1	GO:0006813	GO:0005216	0.0232	1.63	Cell transport
+    Tweety homologue 1 (Drosophila)	R56769	TTYH1	GO:0006826	GO:0005381	0.0232	1.6	Cell transport
+    Solute carrier family 22	AA705565	SLC22A9	GO:0006810	GO:0005215	0.0119	1.56	Cell transport
+    Translocated promoter region	AA064778	TPR	GO:0006810	GO:0005554	0.0069	1.53	Cell transport
+    UDP-N-acetyl--D-galactosamine	AA598949	GALNT10	GO:0005794	GO:0003779	0.0071	1.47	Cell transport
+    HIV-1 Rev binding protein	AA927604	HRB	GO:0006406	GO:0003677	0.0124	1.4	Cell transport
+    Chloride channel 6	H72322	CLCN6	GO:0006811	GO:0005247	0.022	1.35	Cell transport
+    Transient receptor potential cation channel	AI167481	TRPM1	GO:0006812	GO:0005262	0.0144	1.24	Cell transport
+    Dysbindin domain containing 2	AA598970	DBNDD2	GO:0015031	GO:0005515	0.0247	–1.31	Cell transport
+    Frequenin homologue (Drosophila)	H16821	FREQ	GO:0005794	GO:0005509	0.0174	–1.42	Cell transport
+    Sorting nexin 11	H16467	SNX11	GO:0007242	GO:0005554	0.0247	–1.46	Cell transport
+    Acyl-CoA oxidase 1, palmitoyl	AI079148	ACOX1	GO:0006118	GO:0003995	0.0101	–1.53	Cell transport
+    Ficolin (collagen/fibrinogen domain containing) 1	AI349250	FCN1	GO:0006817	GO:0003823	0.0084	–1.66	Cell transport
+    Cytochrome b5 reductase 4	AI053851	CYB5R4	GO:0006118	GO:0004128	0.0139	–1.70	Cell transport
+    Solute carrier family 20 (phosphate transporter)	AA933776	SLC20A2	GO:0006810	GO:0004872	0.0108	–1.71	Cell transport
+    Stonin 2	AA992626	STON2	GO:0006886	GO:0005515	0.0056	–1.72	Cell transport
+    RAP1B, member of RAS oncogene family	AA598864	RAP1B	GO:0006886	GO:0005525	0.0142	–1.81	Cell transport
+    Kelch-like 2, Mayven (Drosophila)	AI348818	KLHL2	GO:0006886	GO:0005515	0.0106	–2.05	Cell transport
+    -Aminobutyric acid A receptor	R43452	GABRB3	GO:0006811	GO:0004890	0.0042	–2.36	Cell transport
+    Ras-GTPase–activating protein SH3 domain binding	AA598628	G3BP	GO:0006810	GO:0000166	0.002	–3.82	Cell transport
+    SET domain containing 1A	AA459896	SETD1A	GO:0016568	GO:0003723	0.016	1.87	Chromatin modification
+    Histone cluster 1, H2ac	N50797	HIST1H2AC	GO:0007001	GO:0003677	0.027	1.27	Chromatin modification
+    Dopey family member 2	W15495	DOPEY2	GO:0007275	GO:0005554	0.012	2.57	Development-morphogenesis
+    DiGeorge syndrome critical region gene 14	AI369125	DGCR14	GO:0007399	GO:0005554	0.004	2.32	Development-morphogenesis
+    Fibroblast growth factor 11	AA936128	FGF11	GO:0007399	GO:0008083	0.004	2.26	Development-morphogenesis
+    Dishevelled, dsh homologue 2 (Drosophila)	R38325	DVL2	GO:0007275	GO:0004871	0.007	2.07	Development-morphogenesis
+    Latent transforming growth factor ? binding protein 4	R87406	LTBP4	GO:0007275	GO:0008083	0.007	1.99	Development-morphogenesis
+    Ephrin-B3	AA485665	EFNB3	GO:0030154	GO:0005005	0	1.64	Development-morphogenesis
+    Twist homologue 1	AI220198	TWIST1	GO:0009653	GO:0003677	0.003	–1.25	Development-morphogenesis
+    Bruno-like 4, RNA binding protein (Drosophila)	R52541	BRUNOL4	GO:0009790	GO:0003676	0.0143	–1.34	Development-morphogenesis
+    Cysteine-rich transmembrane BMP regulator 1	R78638	CRIM1	GO:0007399	GO:0004867	0.012	–1.35	Development-morphogenesis
+    Protein inhibitor of activated STAT, 2	AI151206	PIAS2	GO:0007275	GO:0003677	0.001	–1.50	Development-morphogenesis
+    Hepatic leukemia factor	R59192	HLF	GO:0007275	GO:0003690	0.012	–1.50	Development-morphogenesis
+    Dual specificity phosphatase 22	AA454636	DUSP22	GO:0000188	GO:0008138	0.006	–1.64	Development-morphogenesis
+    Split hand/foot malformation (ectrodactyly) type 1	R38516	SHFM1	GO:0030326	GO:0005515	0.012	–1.72	Development-morphogenesis
+    Tropomyosin 3	AA206591	TPM3	GO:0007517	GO:0003779	0.002	–2.23	Development-morphogenesis
+    Microtubule-associated protein 1B	H17493	MAP1B	GO:0007517	GO:0005198	0.003	–2.64	Development-morphogenesis
+    Translin	AA460927	TSN	GO:0006310	GO:0003677	0.065	1.94	DNA repair and replication
+    RAD51-like 3 (S. cerevisiae)	N29765	RAD51L3	GO:0006284	GO:0005524	0.024	1.92	DNA repair and replication
+    Nth endonuclease III-like 1 (E. coli)	AI369190	NTHL1	GO:0006284	GO:0003677	0.009	1.92	DNA repair and replication
+    Ankyrin repeat domain 17	R37816	ANKRD17	GO:0006298	GO:0003676	0.055	1.78	DNA repair and replication
+    Three prime repair exonuclease 1	AI352447	TREX1	GO:0006281	GO:0003697	0.011	1.54	DNA repair and replication
+    Polymerase (DNA-directed)	AI017254	POLD3	GO:0000731	GO:0003891	0.007	1.5	DNA repair and replication
+    Excision repair cross-complementing rodent repair deficiency	N49276	ERCC8	GO:0006281	GO:0003702	0.04	1.25	DNA repair and replication
+    Ubiquitin-activating enzyme E1	AA598670	UBE1	GO:0006260	GO:0000166	0.044	–1.25	DNA repair and replication
+    Structural maintenance of chromosomes 2	AA598549	SMC2	GO:0000067	GO:0000166	0.016	–1.61	DNA repair and replication
+    Diaphanous homologue 3 (Drosophila)	AI018026	DIAPH3	GO:0016043	GO:0003779	0.004	2.22	Miscellaneous processes
+    Thrombospondin, type I, domain containing 4	AA120866	THSD4	GO:0031012	GO:0008233	0.009	1.85	Miscellaneous processes
+    Carcinoembryonic antigen-related cell adhesion	AI242105	CEACAM4	GO:0005887	GO:0005554	0.01	1.65	Miscellaneous processes
+    Sarcospan (Kras oncogene-associated gene)	AA458998	SSPN	GO:0006936	GO:0005554	0.006	1.59	Miscellaneous processes
+    Annexin A5	AI269079	ANXA5	GO:0007596	GO:0004859	0.007	–1.39	Miscellaneous processes
+    Lactamase, ?	AI273225	LACTB	GO:0046677	GO:0016787	0.002	–1.81	Miscellaneous processes
+    DEAD (Asp-Glu-Ala-Asp) box polypeptide 17	H82870	DDX17	GO:0006396	GO:0008026	0.003	3.02	RNA processing
+    Tetratricopeptide repeat domain 8	W37689	TTC8	GO:0007600	GO:0005488	0.016	1.87	RNA processing
+    Survival of motor neuron protein interacting protein 1	N26026	SIP1	GO:0000245	GO:0031202	0.017	1.74	RNA processing
+    Eukaryotic translation initiation factor 4A, isoform 3	N79030	EIF4A3	GO:0006364	GO:0005524	0.021	1.71	RNA processing
+    Processing of precursor 7	H71218	POP7	GO:0008033	GO:0003676	0.01	1.54	RNA processing
+    Pseudouridylate synthase 7 homologue (S. cerevisiae)	AA434411	PUS7	GO:0008033	GO:0004730	0.017	1.44	RNA processing
+    BMS1-like, ribosome assembly protein (yeast)	AA915891	BMS1L	GO:0007046	GO:0000166	0.002	–1.69	RNA processing
+    Brix domain containing 2	AI025116	BXDC2	GO:0007046	GO:0005554	0	–2.10	RNA processing
+    Splicing factor, arginine/serine-rich 10	AI583623	SFRS10	GO:0000398	GO:0000166	0.002	–2.20	RNA processing
+    Dihydrolipoamide branched chain transacylase E2	AI004719	DBT	GO:0008152	GO:0005515	0.002	2.98	Metabolism
+    Homer homologue 1 (Drosophila)	AA903860	HOMER1	GO:0007206	GO:0005515	0.005	2.02	Metabolism
+    Heparan sulfate (glucosamine) 3-O-sulfotransferase 4	AA973808	HS3ST4	GO:0030201	GO:0008467	0.046	1.98	Metabolism
+    Dehydrodolichyl diphosphate synthase	AA995913	DHDDS	GO:0008152	GO:0016740	0.009	1.96	Metabolism
+    Acyl-CoA synthetase short-chain family member 1	N67766	ACSS1	GO:0008152	GO:0003824	0.022	1.76	Metabolism
+    Fumarylacetoacetate hydrolase	AA010559	FAH	GO:0006559	GO:0000287	0.028	1.29	Metabolism
+    SID1 transmembrane family, member 2	T98941	SIDT2	GO:0016042	GO:0003847	0.018	1.27	Metabolism
+    Protein tyrosine phosphatase, receptor type, B	N66422	PTPRB	GO:0006796	GO:0005529	0.014	1.26	Metabolism
+    Acyl-CoA synthetase long-chain family member 3	AI206454	ACSL3	GO:000663	GO:0003824	0.012	–1.25	Metabolism
+    Amylase, 1A; salivary	R64129	AMY1A	GO:0005975	GO:0004556	0.009	–125	Metabolism
+    Lysyl oxidase	H80737	LOX	GO:0006464	GO:0004720	0.002	3.67	Protein biosynthesis and metabolism
+    Tubulin tyrosine ligase-like family, member 5	R34225	TTLL5	GO:0006464	GO:0004835	0.011	3.2	Protein biosynthesis and metabolism
+    Vacuolar protein sorting 13 homologue C (S. cerevisiae)	AA663968	VPS13C	GO:0008104	GO:0005554	0.004	2.39	Protein biosynthesis and metabolism
+    Protein tyrosine phosphatase, receptor type, C	AA703526	PTPRC	GO:0006470	GO:0004725	0.007	1.32	Protein biosynthesis and metabolism
+    Ribosomal protein L9	AI199007	RPL9	GO:0006412	GO:0003723	0.011	1.26	Protein biosynthesis and metabolism
+    GrpE-like 1, mitochondrial (E. coli)	AA449720	GRPEL1	GO:0006457	GO:0000774	0.011	1.25	Protein biosynthesis and metabolism
+    Protein tyrosine phosphatase, nonreceptor type 21	W72293	PTPN21	GO:0006470	GO:0004725	0.028	1.25	Protein biosynthesis and metabolism
+    ?-site APP-cleaving enzyme 2	AA457119	BACE2	GO:0006464	GO:0004194	0.028	1.24	Protein biosynthesis and metabolism
+    Hypothetical protein MGC42105	AA416627	MGC42105	GO:0006468	GO:0046872	0.022	1.24	Protein biosynthesis and metabolism
+    Eukaryotic translation initiation factor 2B	AI174400	EIF2B1	GO:0006412	GO:0003743	0.001	–1.45	Protein biosynthesis and metabolism
+    Par-3 partitioning defective 3 homologue (C. elegans)	AA902790	PARD3	GO:0006461	GO:0005515	0.002	–1.55	Protein biosynthesis and metabolism
+    Transient receptor potential cation channel	AA598596	TRPC4AP	GO:0006461	GO:0005524	0.007	–1.57	Protein biosynthesis and metabolism
+    GrpE-like 2, mitochondrial (E. coli)	AA598831	GRPEL2	GO:0006457	GO:0000774	0.019	–1.61	Protein biosynthesis and metabolism
+    Mitochondrial ribosomal protein S16	AA887401	MRPS16	GO:0006412	GO:0003735	0.001	–1.67	Protein biosynthesis and metabolism
+    Collagen, type IV	AA971606	COL4A3BP	GO:0006468	GO:0004674	0.013	–1.67	Protein biosynthesis and metabolism
+    Mitochondrial ribosomal protein S11	AI032875	MRPS11	GO:0006412	GO:0003735	0.013	–1.67	Protein biosynthesis and metabolism
+    Farnesyltransferase, CAAX box,	AA283874	FNTA	GO:0018347	GO:0004660	0.024	–1.72	Protein biosynthesis and metabolism
+    Tryptophanyl tRNA synthetase 2 (mitochondrial)	R43272	WARS2	GO:0006412	GO:0000166	0.017	–1.72	Protein biosynthesis and metabolism
+    Capping protein (actin filament) muscle Z-line	W92769	CAPZA1	GO:0006461	GO:0003779	0.004	–1.78	Protein biosynthesis and metabolism
+    Lipase, hepatic	AI054269	LIPC	GO:0006487	GO:0004806	0.0028	–2.13	Protein biosynthesis and metabolism
+    Eukaryotic translation initiation factor 1A	AI214283	EIF1AY	GO:0006412	GO:0003723	0.013	–2.15	Protein biosynthesis and metabolism
+    Serine/threonine/tyrosine interacting-like 1	AI205036	STYXL1	GO:0006470	GO:0008138	0.0066	–2.69	Protein biosynthesis and metabolism
+    Cathepsin B	AI091648	CTSB	GO:0006508	GO:0004213	0.004	2.16	Proteolysis and ubiquitination
+    E3 ubiquitin protein ligase	W86992	EDD1	GO:0006511	GO:0004840	0.016	1.66	Proteolysis and ubiquitination
+    Dipeptidyl-peptidase 3	AA430361	DPP3	GO:0006508	GO:0004177	0.007	1.54	Proteolysis and ubiquitination
+    Peptidase D	AA481543	PEPD	GO:0006508	GO:0004251	0.031	1.42	Proteolysis and ubiquitination
+    Ring finger protein 44	AI675516	RNF44	GO:0016567	GO:0004842	0.014	1.32	Proteolysis and ubiquitination
+    Gem (nuclear organelle) associated protein 4	AA041254	GEMIN4	GO:0000398	GO:0005515	0.028	1.3	Proteolysis and ubiquitination
+    Arginyltransferase 1	AI015417	ATE1	GO:0006512	GO:0004057	0.009	1.26	Proteolysis and ubiquitination
+    Heterogeneous nuclear ribonucleoprotein R	AA779191	HNRPR	GO:0006397	GO:0000166	0.013	1.25	Proteolysis and ubiquitination
+    SUMO-1 activating enzyme subunit 1	AA598486	SAE1	GO:0016567	GO:0004839	0.017	–1.58	Proteolysis and ubiquitination
+    Ubiquitin specific peptidase 30	AI055850	USP30	GO:0006511	GO:0004197	0	–1.77	Proteolysis and ubiquitination
+    TRIAD3 protein	AI051657	TRIAD3	GO:0006512	GO:0008270	0.005	–2.04	Proteolysis and ubiquitination
+    Ubiquitin-conjugating enzyme E2E 1	AA197307	UBE2E1	GO:0006511	GO:0004840	0.013	–2.07	Proteolysis and ubiquitination
+    Ariadne homologue	AI185068	ARIH1	GO:0006511	GO:0004842	0.003	–2.14	Proteolysis and ubiquitination
+    AFG3 ATPase family gene 3-like 2 (yeast)	AI219905	AFG3L2	GO:0006508	GO:0000166	0.001	–2.18	Proteolysis and ubiquitination
+    Suppressor of Ty 5 homologue (S. cerevisiae)	R21511	SUPT5H	GO:0000122	GO:0003711	0.043	2.15	Transcription
+    Inhibitor of DNA binding 4	AA464856	ID4	GO:0006357	GO:0003714	0.001	2.1	Transcription
+    Bromodomain PHD finger transcription factor	AA704421	BPTF	GO:0000122	GO:0005515	0.066	2	Transcription
+    Zinc finger protein 498	W94267	ZNF498	GO:0006355	GO:0003676	0.005	2	Transcription
+    SRY (sex determining region Y)-box 10	AA976578	SOX10	GO:0006350	GO:0003677	0.028	1.93	Transcription
+    Zinc finger protein 710	AI025842	ZNF710	GO:0006355	GO:0003676	0.005	1.9	Transcription
+    General transcription factor IIB	H23978	GTF2B	GO:0006355	GO:0016251	0.009	1.54	Transcription
+    Zinc finger protein 26	R97944	ZNF26	GO:0006355	GO:0003676	0.017	1.53	Transcription
+    Zinc finger protein 268	AI277336	ZNF268	GO:0006355	GO:0008270	0.014	1.5	Transcription
+    Protein inhibitor of activated STAT, 1	N91175	PIAS1	GO:0006350	GO:0003677	0.028	1.31	Transcription
+    Kv channel interacting protein 3, calsenilin	H39123	KCNIP3	GO:0006350	GO:0003677	0.024	1.3	Transcription
+    Zinc finger protein 275	AA406125	ZNF275	GO:0006355	GO:0003677	0.032	1.28	Transcription
+    Homeobox D1	W68537	HOXD1	GO:0006355	GO:0003700	0.032	1.26	Transcription
+    HIR histone cell cycle regulation defective homologue A	AA609365	HIRA	GO:0006357	GO:0003700	0.022	1.26	Transcription
+    Forkhead box K2	AA136472	FOXK2	GO:0006350	GO:0003700	0.014	1.26	Transcription
+    Transducin-like enhancer of split 3 (E(sp1) homologue)	AI216623	TLE3	GO:0006355	GO:0005554	0.013	1.25	Transcription
+    p300/CBP-associated factor	N74637	PCAF	GO:0006350	0.001368735	0.05	1.25	Transcription
+    Zinc finger protein 544	AA885065	ZNF544	GO:0006355	GO:0003676	0.01	1.25	Transcription
+    Regulatory factor X-associated protein	AI365571	RFXAP	GO:0006366	GO:0003700	0.013	1.24	Transcription
+    Bromodomain adjacent to zinc finger domain, 2A	AA699460	BAZ2A	GO:0006355	GO:0003677	0.015	1.24	Transcription
+    Zinc finger protein 16	H17016	ZNF16	GO:0006350	GO:0003677	0.012	1.23	Transcription
+    Ring finger protein 12	AA598809	RNF12	GO:0006350	GO:0003714	0.007	–1.25	Transcription
+    POU domain, class 6, transcription factor 1	AI123130	POU6F1	GO:0006355	GO:0003700	0.008	–1.37	Transcription
+    RAR-related orphan receptor A	AI022327	RORA	GO:0006350	GO:0003700	0.011	–1.40	Transcription
+    Myeloid/lymphoid or mixed-lineage leukemia	AI197974	MLLT6	GO:0006355	GO:0005515	0.009	–1.41	Transcription
+    Zinc finger protein 425	H20279	ZNF425	GO:0006355	GO:0003676	0.005	–1.62	Transcription
+    PBX/knotted 1 homeobox 2	AI024125	PKNOX2	GO:0006355	GO:0003700	0.004	–1.64	Transcription
+    D4, zinc and double PHD fingers family 2	AA496782	DPF2	GO:0006350	GO:0003676	0.016	–1.69	Transcription
+    General transcription factor IIIC	AI184450	GTF3C4	GO:0006350	GO:0003677	0.002	–1.87	Transcription
+    GATA zinc finger domain containing 2A	AA458840	GATAD2A	GO:0006306	GO:0030674	0.022	–1.97	Transcription
+    SRY (sex determining region Y)-box 3	AI359981	SOX3	GO:0006355	GO:0003677	0.004	–2.11	Transcription
+    HDAC8	AI053481	HDAC8	GO:0000122	GO:0004407	0.002	–2.20	Transcription
+    Methyl-CpG binding domain protein 3	AI017865	MBD3	GO:0006350	GO:0003677	0.002	–3.17	Transcription
+    DEAH (Asp-Glu-Ala-Asp/His) box polypeptide 57	AI125363	DHX57	GO:0000004	GO:0003697	0.012	2.96	Biological process unknown
+    Frequenin homologue (Drosophila)	AA918755	FREQ	GO:0000004	GO:0005509	0.008	1.98	Biological process unknown
+    WD repeat domain 44	W80619	WDR44	GO:0000004	GO:0008270	0.016	1.86	Biological process unknown
+    Fibulin 2	AA452840	FBLN2	GO:0000004	GO:0005509	0.008	1.83	Biological process unknown
+    Ectonucleoside triphosphate diphosphohydrolase 3	AI247824	ENTPD3	GO:0000004	GO:0004050	0.023	1.26	Biological process unknown
+    Zinc finger, DHHC-type containing 9	AI346102	ZDHHC9	GO:0000004	GO:0000166	0.028	1.24	Biological process unknown
+    Docking protein 5	R39924	DOK5	GO:0000004	GO:0005158	0.026	–1.25	Biological process unknown
+    Progesterone receptor membrane component 2	AA456304	PGRMC2	GO:0000004	GO:0003707	0.011	–1.25	Biological process unknown
+    RB1-inducible coiled-coil 1	R38102	RB1CC1	GO:0000004	GO:0016301	0.026	–1.30	Biological process unknown
+    B-Cell CLL/lymphoma 7A	H90147	BCL7A	GO:0000004	GO:0003779	0.013	–1.30	Biological process unknown
+    Dedicator of cytokinesis 5	AA932511	DOCK5	GO:0000004	GO:0005085	0.004	–1.37	Biological process unknown
+    Zinc finger protein 320	AI025436	ZNF320	GO:0000004	GO:0003676	0.012	–1.50	Biological process unknown
+    Heterogeneous nuclear ribonucleoprotein M	AI220112	HNRPM	GO:0000004	GO:0003723	0.001	–1.73	Biological process unknown
+    Hypothetical protein MGC4562	AI184226	MGC4562	GO:0000004	GO:0003723	0.006	–1.85	Biological process unknown
+    Phosphatase and actin regulator 1	R99333	PHACTR1	GO:0000004	GO:0005096	0.005	–1.91	Biological process unknown
+    DEAD (Asp-Glu-Ala-Asp) box polypeptide 46	AI003503	DDX46	GO:0000004	GO:0000166	0.002	–2.19	Biological process unknown
+    ORM1-like 1 (S. cerevisiae)	AA437132	ORMDL1	GO:0000004	GO:0005554	0.002	3.02	Biological process and molecular function unknown
+    Ankyrin repeat domain 12	AA938440	ANKRD12	GO:0000004	GO:0005554	0.005	1.89	Biological process and molecular function unknown
+    Transmembrane protein 27	AA999850	TMEM27	GO:0000004	GO:0005554	0.005	1.78	Biological process and molecular function unknown
+    DKFZp434A0131 protein	AA032084	DKFZP434A0131	GO:0000004	GO:0005554	0.028	1.25	Biological process and molecular function unknown
+    Vitamin K epoxide reductase complex	AI279477	VKORC1L1	GO:0000004	GO:0005554	0.01	–1.66	Biological process and molecular function unknown
+    Zinc finger, RAN-binding domain containing 1	AI033098	ZRANB1	GO:0000004	GO:0005554	0.005	–1.85	Biological process and molecular function unknown
+    Family with sequence similarity 57, member A	H23091	FAM57A	GO:0000004	GO:0005554	0.024	–3.86	Biological process and molecular function unknown
+    Microcephaly, primary autosomal recessive 1	AA156424	MCPH1	GO:0000004	GO:0005554	0.01	–3.94	Biological process and molecular function unknown
+    Transmembrane protein 32	AA251026	TMEM32	GO:0000004	GO:0005554	0.004	–4.43	Biological process and molecular function unknown
+    Neurensin 2	AI199579	NRSN2	GO:0000004	GO:0005554	0.002	–4.85	Biological process and molecular function unknown

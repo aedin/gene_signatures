@@ -1,0 +1,48 @@
+Function	Gene	OMIM	Accession no.	p-value	Gene description
+Apoptosis	PDCD4	608610	NM_014456.1	0.032	Programmed cell death 4 (neoplastic transformation inhibitor)
+Apoptosis	FAS	604306	NM_000043.1	0.044	Fas (TNF receptor superfamily, member 6)
+Apoptosis	CASP7	601761	NM_001227.1	0.05	Caspase 7, apoptosis-related cysteine protease
+Transport	SLC30A10		NM_018713.1	0.036	Solute carrier family 30, member 10 (zinc transport?)
+Transport	SLC9A2	600530	AF073299.1	0.041	Solute carrier family 9 (sodium/hydrogen exchanger), member 2
+Transport	SLC4A4	603345	AF069510.1	0.041	Solute carrier family 4, sodium bicarbonate cotransporter, member 4
+Transport	SLC26A3	126650	NM_000111.1	0.044	Solute carrier family 26, member 3
+Transport	SLC26A2	606718	AI025519	0.044	Solute carrier family 26 (sulfate transporter), member 2
+Transport	SGK2	607589	NM_016276.1	0.038	Serum glucocorticoid regul. kinase 2 (potassium channel activation)
+Transport	KIF5C	604593	NM_004522.1	0.04	Kinesin family member 5C (intracellu-lar transport)
+Transport	KIF13B	607350	NM_015254.1	0.046	Kinesin family member 13B (intracel-lular transport)
+Transport	VAPA	605703	AF154847.1	0.047	VAMP (vesicle-associated membrane protein)-assoc. protein A,33 kDa
+Transport	MAP2K4	601335	NM_022129.1	0.033	Mitogen-activated protein kinase kinase 4 (MAPK signaling pathway)
+Transport	RPS6KA5	603608	AF074393.1	0.04	Ribos. prot. S6 kinase, 90 kDa, polyp. 5(MAPK signalling pathway)
+Transport	MEF2C	600662	L08895.1	0.033	MADS box transcr. enhancer factor 2, (MAPK signalling pathway)
+Transport	PPP2R3A	604944	NM_002718.1	0.037	Protein phosphatase 2, regulatory sub-unit B, alpha (Wnt signalling)
+Transport	PDE9A	602973	NM_002606.1	0.04	Phosphodiesterase 9A (signal transduc-tion)
+Transport	PPAP2A	607124	AF014403.1	0.042	Phosphatidic acid phosphatase type 2A (signal transduction)
+Transport	MUC4	158372	AJ242547.1	0.044	Mucin 4 (Erb2 signalling pathway)
+Transport	DSCR1	602917	AL049369.1	0.045	Down syndrome critical region gene 1 (signal transduction)
+Transport	SHOC2	602775	NM_007373.1	0.046	Soc-2 suppressor of clear homolog (MAPK signaling pathway)
+Transport	SOCS2	605117	NM_003877.1	0.049	Suppressor of cytokine signaling 2 (GH/IGF1 signaling pathway)
+Transport	SMAD2	601366	NM_005901.1	0.049	SMAD, homolog 2 (Drosophila) (TGF-beta_signaling)
+Cell-surface signalling	TSPAN7	300096	NM_004615.1	0.036	Tetraspanin 7
+Cell-surface signalling	EDG2	602282	NM_001401.1	0.041	Lysophosphatidic acid G-protein-coupled receptor, 2
+Cell-surface signalling	TMPRSS2	602060	AF270487.1	0.046	Transmembrane protease, serine 2
+Cell-surface signalling	CEACAM7		NM_006890.1	0.047	Carcinoembryonic antigen-related cell adhesion molecule 7
+Cell adhesion	DSC2	125645	NM_004949.1	0.045	Desmocollin 2
+Cell differentiation	NDRG2	605272	NM_016250.1	0.038	NDRG family member 2
+Cell differentiation	EPB41L3	605331	NM_012307.1	0.044	Erythrocyte membrane protein band 4.1-like 3 (suppressor gene?)
+Cell differentiation	MTUS1	609589	NM_024307.1	0.045	Mitochondrial tumor suppressor 1
+Metabolism	HMGCL	246450	NM_000191.1	0.04	3-hydroxymethyl-3-methylglutaryl-Coenzyme A lyase
+Metabolism	UGDH	603370	NM_003359.1	0.041	UDP-glucose dehydrogenase
+Metabolism	CA12	603263	NM_001218.2	0.044	Carbonic anhydrase XII
+Metabolism	CA2	259730	NM_000067.1	0.049	Carbonic anhydrase II
+Metabolism	CA4	114760	NM_000717.2	0.05	Carbonic anhydrase IV
+Metabolism	CA1	114800	NM_001738.1	0.05	Carbonic anhydrase I
+Metabolism	CA7	114770	NM_005182.1	0.05	Carbonic anhydrase VII
+Metabolism	HPGD	601688	U63296.1	0.046	Hydroxyprostaglandin dehydrogenase 15-(NAD)
+Metabolism	FUCA1	230000	NM_000147.1	0.047	Fucosidase, alpha-L-1, tissue
+Metabolism	ACAT1	607809	NM_000019.1	0.048	Acetyl-Coenzyme A acetyltransferase 1
+Metabolism	ADH1C	103730	NM_000669.2	0.048	Alcohol dehydrogenase3 (class I), gamma polypeptide
+Metabolism	AQP8	603750	NM_001169.1	0.05	Aquaporin 8
+Cell growth	FAM107A	608295	NM_007177.1	0.04	Family with sequence similarity 107, member A (TU3A)
+Cell growth	EMP1	602333	NM_001423.1	0.047	Epithelial membrane protein 1 (growth arrest)
+Cell growth	BTG1	109580	NM_00173 1.1	0.05	B-cell translocation gene 1, anti-proliferative
+Cell growth	KLF4	602253	NM_004235.1	0.05	Kruppel-like factor 4 (gut)

@@ -1,0 +1,26 @@
+Common name	Description	Correlation coefficient, r	Coefficient of determination, r2	P	Biological function
+SLC30A1	Solute carrier family 30 (zinc transporter), member 1	0.13	0.02	0.068	Cation transport
+NUP8-8	Nucleoporin 88 kDa	0.99	0.98	<0.0001	Transporter activity
+Yeats 2	YEATS domain containing 2	0.9	0.81	<0.0001	Regulation of transcription, DNA-dependent
+MCCC2	Methylcrotonoyl-coenzyme A carboxylase 2 (beta)	0.4	0.16	0.197	Ligase activity
+HSPC05-6	Armadillo repeat containing 8	0.68	0.46	0.0149	Binding
+XRCC5	X-ray repair complementing defective repair in Chinese hamster cells 5	0.85	0.72	0.0005	ATP-dependent DNA helicase activity
+DDHD1	DDHD domain containing 1	0.57	0.33	0.0529	Metal ion binding; hydrolase activity
+CCNG2	Cyclin G2	0.93	0.86	<0.0001	Cell cycle checkpoint
+IFITM1	IFN-induced transmembrane protein 1 (9-27)	0.87	0.75	0.0002	Receptor signaling protein activity; protein binding
+ARID2	AT-rich interactive domain 2 (ARID, RFX-like)	0.78	0.61	0.0028	DNA binding; protein binding
+NUP15-3	Nucleoporin 153 kDa	–0.08	0.01	0.8	DNA binding; transporter activity
+MLLT10	Myeloid/lymphoid or mixed-lineage leukemia	0.98	0.96	<0.0001	Transcription factor activity; binding
+ARF1	ADP-ribosylation factor 1	0.26	0.07	0.414	Receptor signaling protein activity; GTPase activity; binding
+CTGLF1	Centaurin, gamma-like family, member 1	0.64	0.41	0.025	GTPase activator activity; binding
+FLJ3871		0.73	0.53	0.007
+KHDRBS1	KH domain containing, RNA binding, signal transduction associated 1	0.62	0.39	0.032	Binding; SH3/SH2 adaptor activity
+MGC4126	Leucine-rich repeats and calponin homology domain containing 3	0.97	0.94	<0.0001	Protein binding
+TPMT	Thiopurine S-methyltransferase	0.93	0.87	<0.0001	Thiopurine S-methyltransferase activity
+BIRC6	Baculoviral IAP repeat-containing 6 (apollon)	0.46	0.21	0.132	Ligase activity; cysteine protease inhibitor activity
+C2orf4	Chromosome 2 open reading frame 4	0.67	0.45	0.0171
+DKFZp547E087	Hypothetical gene LOC283846	0.67	0.45	0.0171
+LOC439987		0.76	0.57	0.0041
+MBNL1	Muscleblind-like (Drosophila)	0.53	0.28	0.0763	Nucleic acid binding; ion binding
+Sec31L1	SEC31 homologue A (Saccharomyces cerevisiae)	0.42	0.18	0.163	Protein binding
+ZCCHC7	Zinc finger, CCHC domain containing 7	0.54	0.29	0.0699	Nucleic acid binding; ion binding

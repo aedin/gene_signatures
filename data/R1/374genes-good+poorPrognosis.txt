@@ -1,0 +1,379 @@
+# PMID: 17899371
+# Filename:374genes-good+poorPrognosis.txt
+# URL: http://www.springerlink.com/content/e50736413n45v338/
+# Description: A 374 genes list compiled from a meta-analysis of 44 published studies from Lauss et al., 2007.
+Symbol	Name	Accessions	UniGeneId	GeneId	Overlaps	Score	Found in 1076 patients	Centroid Good	Centroid Poor
+MYBL2	V-myb myeloblastosis viral oncogene homolog (avian)-like 2	NM_002466	Hs.179718	4605	11	65	Yes	-0.195597599	0.057792542
+MKI67	Antigen identified by monoclonal antibody Ki-67	NM_002417	Hs.80976	4288	7	50	Yes	-0.029682099	0.054902606
+MAD2L1	MAD2 mitotic arrest deficient-like 1 (yeast)	NM_002358	Hs.591697	4085	7	47	Yes	-0.004215536	0.135697528
+AURKA	Aurora kinase A	NM_198433 NM_003600 NM_198434 NM_198436 NM_198435 NM_198437	Hs.250822	6790	7	46	Yes	-0.047981937	0.066216648
+BCL2	B-cell CLL/lymphoma 2	NM_000633 NM_000657	Hs.150749	596	8	45	Yes	0.011838151	-0.141354609
+BUB1	BUB1 budding uninhibited by benzimidazoles 1 homolog (yeast)	NM_004336	Hs.469649	699	6	44	Yes	-0.051736302	0.027916018
+BIRC5	Baculoviral IAP repeat-containing 5 (survivin)	NM_001012271 NM_001168 NM_001012270	Hs.514527	332	8	42	Yes	-0.031296504	0.05492344
+ESR1	Estrogen receptor 1	NM_000125	Hs.598504	2099	8	41	No	NA	NA
+CENPN	Centromere protein N	NM_018455	Hs.55028	55839	6	41	No	NA	NA
+ERBB2	"V-erb-b2 erythroblastic leukemia viral oncogene homolog 2, neuro/glioblastoma derived oncogene homolog (avian)"	NM_001005862 NM_004448	Hs.446352	2064	7	40	Yes	0.053191859	0.186579707
+CCNB1	Cyclin B1	NM_031966	Hs.23960	891	6	40	Yes	-0.034419627	0.048346499
+NUDT1	Nudix (nucleoside diphosphate linked moiety X)-type motif 1	NM_198949 NM_198952 NM_198954 NM_198948 NM_198950 NM_198953 NM_002452	Hs.534331	4521	6	39	Yes	-0.020423379	0.077976165
+MLF1IP	MLF1 interacting protein	NM_024629	Hs.575032	79682	5	39	No	NA	NA
+RNASE4	"Ribonuclease, RNase A family, 4"	NM_194430 NM_002937 NM_194431 NM_001145	Hs.283749	6038	8	38	Yes	0.038859845	-0.038672529
+PLK1	Polo-like kinase 1 (Drosophila)	NM_005030	Hs.592049	5347	6	38	No	NA	NA
+GGH	"Gamma-glutamyl hydrolase (conjugase, folylpolygammaglutamyl hydrolase)"	NM_003878	Hs.78619	8836	5	38	Yes	-0.033349075	0.062109991
+CKS2	CDC28 protein kinase regulatory subunit 2	NM_001827	Hs.83758	1164	6	37	Yes	-0.042111736	0.032502869
+RRM2	Ribonucleotide reductase M2 polypeptide	NM_001034	Hs.226390	6241	6	37	No	NA	NA
+CDKN3	Cyclin-dependent kinase inhibitor 3 (CDK2-associated dual specificity phosphatase)	NM_005192	Hs.84113	1033	6	36	Yes	-0.044212181	0.116447906
+MCM4	MCM4 minichromosome maintenance deficient 4 (S. cerevisiae)	NM_005914 NM_182746	Hs.460184	4173	5	36	No	NA	NA
+C16orf61	Chromosome 16 open reading frame 61	NM_020188	Hs.388255	56942	5	35	No	NA	NA
+DLG7	"Discs, large homolog 7 (Drosophila)"	NM_014750	Hs.77695	9787	5	35	No	NA	NA
+H2AFZ	"H2A histone family, member Z"	NM_002106	Hs.119192	3015	6	34	No	NA	NA
+KPNA2	"Karyopherin alpha 2 (RAG cohort 1, importin alpha 1)"	NM_002266	Hs.594238	3838	5	34	Yes	-0.01585253	0.11109927
+PFKP	"Phosphofructokinase, platelet"	NM_002627	Hs.26010	5214	5	34	Yes	-0.035706405	0.067352272
+GATA3	GATA binding protein 3	NM_001002295 NM_002051	Hs.524134	2625	8	33	Yes	-0.013322304	-0.356789627
+CENPF	"Centromere protein F, 350/400ka (mitosin)"	NM_016343	Hs.497741	1063	5	33	Yes	-0.081965506	0.040661401
+KRT18	Keratin 18	NM_000224 NM_199187	Hs.406013	3875	7	32	No	NA	NA
+KRT5	"Keratin 5 (epidermolysis bullosa simplex, Dowling-Meara/Kobner/Weber-Cockayne types)"	NM_175053 NM_000424 NM_005554 NM_033448 NM_058242 NM_005555 NM_173086 NM_080747	Hs.433845	3852	5	32	Yes	-0.001625623	0.067934792
+MELK	Maternal embryonic leucine zipper kinase	NM_014791	Hs.184339	9833	5	31	No	NA	NA
+CCNE2	Cyclin E2	NM_057749 NM_057735	Hs.567387	9134	4	31	No	NA	NA
+CCND1	Cyclin D1	NM_053056	Hs.523852	595	6	30	No	NA	NA
+MCM6	"MCM6 minichromosome maintenance deficient 6 (MIS5 homolog, S. pombe) (S. cerevisiae)"	NM_005915	Hs.444118	4175	5	30	Yes	-0.030070845	0.094779194
+TRIP13	Thyroid hormone receptor interactor 13	NM_004237	Hs.436187	9319	5	30	Yes	-0.023230831	0.10044605
+CX3CR1	Chemokine (C-X3-C motif) receptor 1	NM_001337	Hs.78913	1524	4	30	Yes	0.058237085	-0.033335364
+CENPA	Centromere protein A	NM_001809	Hs.1594	1058	5	29	No	NA	NA
+UBE2S	Ubiquitin-conjugating enzyme E2S	NM_014501	Hs.396393	27338	5	29	Yes	-0.021420095	0.118201513
+PDIA4	"Protein disulfide isomerase family A, member 4"	NM_004911	Hs.93659	9601	4	29	Yes	0.009305163	0.005541689
+NCF1	"Neutrophil cytosolic factor 1, (chronic granulomatous disease, autosomal 1)"	NM_023005 NM_032408 NM_003388 NM_032421 NM_032999 NM_033000 NM_033001 NM_001518 NM_001003795 NM_173537 NM_016328 NM_002314 NM_032951 NM_032953 NM_032952 NM_032954 NM_005685 NM_012453 NM_001039145 NM_022170 NM_032317 NM_031992 NM_030798 NM_003508 NM_000501 NM_022040 NM_032463 NM_004603 NM_178125 NM_014146 NM_001305 NM_018044 NM_181471 NM_001707 NM_148956 NM_031295 NM_002914 NM_003602 NM_148912 NM_148915 NM_148913 NM_000265 NM_001040003 NM_001025202 NM_001306 NM_017528 NM_138707 NM_152559 NM_182504 NM_174930 NM_148916 NM_148914	Hs.520943	4687	7	28	Yes	-0.005932845	0.004439403
+TGFB3	"Transforming growth factor, beta 3"	NM_003239	Hs.592317	7043	6	28	Yes	0.009455857	-0.093997755
+CDC25B	Cell division cycle 25B	NM_021873 NM_004358 NM_021872	Hs.153752	994	5	28	Yes	-0.002671631	0.174785876
+HMMR	Hyaluronan-mediated motility receptor (RHAMM)	NM_012484 NM_012485	Hs.72550	3161	4	28	Yes	-0.046160935	0.064428421
+PSMD2	"Proteasome (prosome, macropain) 26S subunit, non-ATPase, 2"	NM_002808	Hs.518464	5708	4	28	Yes	-0.024551185	0.053198888
+PGR	Progesterone receptor	NM_000926	Hs.368072	5241	4	28	No	NA	NA
+XBP1	X-box binding protein 1	NM_005080	Hs.437638	7494	8	27	Yes	-0.035664579	-0.307227078
+PRAME	Preferentially expressed antigen in melanoma	NM_206953 NM_206955 NM_206956 NM_006115 NM_206954	Hs.30743	23532	4	27	Yes	0.046690419	0.335760469
+TROAP	Trophinin associated protein (tastin)	NM_005480	Hs.524399	10024	4	27	Yes	-0.016614048	0.081176602
+KNTC2	Kinetochore associated 2	NM_006101	Hs.414407	10403	3	27	No	NA	NA
+KRT8	Keratin 8	NM_002272 NM_015848 NM_057088 NM_175834 NM_002273 NM_173352	Hs.533782	3856	6	26	Yes	0.004426554	0.014094336
+BTG2	"BTG family, member 2"	NM_006763	Hs.519162	7832	6	26	Yes	0.003644361	-0.080281833
+FOXM1	Forkhead box M1	NM_202002 NM_021953 NM_202003	Hs.239	2305	4	26	Yes	-0.04387204	0.085186123
+NME1	"Non-metastatic cells 1, protein (NM23A) expressed in"	NM_001018136 NM_198175 NM_002512 NM_000269 NM_001018137 NM_001018138 NM_001018139	Hs.463456	4830	6	25	Yes	0.016566647	0.106651043
+KYNU	Kynureninase (L-kynurenine hydrolase)	NM_003937 NM_001032998	Hs.470126	8942	4	25	Yes	0.033133131	0.17824675
+MCM3	MCM3 minichromosome maintenance deficient 3 (S. cerevisiae)	NM_002388	Hs.179565	4172	4	25	Yes	-0.014722792	0.084847623
+IGFBP5	Insulin-like growth factor binding protein 5	NM_000599	Hs.369982	3488	4	24	No	NA	NA
+NUSAP1	Nucleolar and spindle associated protein 1	NM_016359 NM_018454	Hs.615092	51203	4	24	No	NA	NA
+CDC2	"Cell division cycle 2, G1 to S and G2 to M"	NM_001786 NM_033379	Hs.334562	983	4	24	Yes	-0.044066653	0.044142831
+PCTK1	PCTAIRE protein kinase 1	NM_033018 NM_006201	Hs.496068	5127	3	24	Yes	-0.021353587	0.053751423
+ERBB3	V-erb-b2 erythroblastic leukemia viral oncogene homolog 3 (avian)	NM_001982 NM_001005915	Hs.118681	2065	3	24	No	NA	NA
+UBE2C	Ubiquitin-conjugating enzyme E2C	NM_181802 NM_181801 NM_007019 NM_181799 NM_181800 NM_181803	Hs.93002	11065	5	23	Yes	-0.056945683	0.060863284
+MUC1	"Mucin 1, cell surface associated"	NM_002456 NM_001018016 NM_001018017 NM_001018021	Hs.89603	4582	5	23	No	NA	NA
+PRC1	Protein regulator of cytokinesis 1	NM_003981 NM_199413 NM_199414	Hs.567385	9055	4	23	No	NA	NA
+CSE1L	CSE1 chromosome segregation 1-like (yeast)	NM_001316	Hs.90073	1434	4	23	Yes	-0.009035558	0.055567146
+PTTG1	Pituitary tumor-transforming 1	NM_004219	Hs.350966	9232	4	23	No	NA	NA
+BRRN1	Barren homolog 1 (Drosophila)	NM_015341	Hs.308045	23397	4	23	No	NA	NA
+TOP2A	Topoisomerase (DNA) II alpha 170kDa	NM_001067	Hs.156346	7153	5	22	Yes	-0.019075845	0.073782655
+RARRES3	Retinoic acid receptor responder (tazarotene induced) 3	NM_004585	Hs.17466	5920	5	22	No	NA	NA
+BBC3	BCL2 binding component 3	NM_014417	Hs.467020	27113	4	22	No	NA	NA
+KIF23	Kinesin family member 23	NM_138555 NM_004856	Hs.270845	9493	4	22	No	NA	NA
+SLPI	Secretory leukocyte peptidase inhibitor	NM_003064	Hs.517070	6590	4	22	Yes	0.033153385	0.140804558
+PPP2R5C	"Protein phosphatase 2, regulatory subunit B (B56), gamma isoform"	NM_002719 NM_178586 NM_178587 NM_178588	Hs.368264	5527	4	22	Yes	-0.02280619	-0.007429016
+PIR	Pirin (iron-binding nuclear protein)	NM_003662 NM_001018109	Hs.495728	8544	3	22	Yes	-0.020192313	0.120530144
+CCT4	"Chaperonin containing TCP1, subunit 4 (delta)"	NM_006430	Hs.421509	10575	3	22	Yes	-0.03963529	0.023615027
+KIF14	Kinesin family member 14	NM_014875	Hs.3104	9928	3	22	No	NA	NA
+CDK2	Cyclin-dependent kinase 2	NM_001798 NM_052827	Hs.19192	1017	3	22	No	NA	NA
+CTSC	Cathepsin C	NM_148170 NM_001814	Hs.128065	1075	5	21	Yes	-0.014231395	0.085424353
+RHOC	"Ras homolog gene family, member C"	NM_005167 NM_175744	Hs.502659	389	4	21	No	NA	NA
+NP	Nucleoside phosphorylase	NM_000270	Hs.75514	4860	4	21	Yes	-0.035027806	0.053717046
+DCK	Deoxycytidine kinase	NM_000788	Hs.709	1633	3	21	Yes	-0.00874728	0.035396163
+GMPS	Guanine monphosphate synthetase	NM_003875	Hs.591314	8833	3	21	Yes	-0.018924135	0.090405279
+FABP5	Fatty acid binding protein 5 (psoriasis-associated)	NM_001444	Hs.408061	2171	3	21	Yes	-0.006913	0.069991812
+IL32	Interleukin 32	NM_001012631 NM_001012718 NM_004221 NM_001012632 NM_001012633 NM_001012634 NM_001012635 NM_001012636	Hs.943	9235	3	21	Yes	-0.033693581	0.058712393
+VEGF	Vascular endothelial growth factor	NM_001025366 NM_003376 NM_001025367 NM_001025368 NM_001025369 NM_001033756 NM_001025370	Hs.73793	7422	3	21	Yes	-0.0000383	0.089756258
+DKFZp762E1312	Hypothetical protein DKFZp762E1312	NM_018410	Hs.532968	55355	3	21	No	NA	NA
+FLJ21062	Hypothetical protein FLJ21062	NM_001039706	Hs.521012	79846	3	21	No	NA	NA
+YIF1A	Yip1 interacting factor homolog A (S. cerevisiae)	NM_020470	Hs.446445	10897	3	21	No	NA	NA
+EZH2	Enhancer of zeste homolog 2 (Drosophila)	NM_004456 NM_152998	Hs.444082	2146	3	21	No	NA	NA
+CCNB2	Cyclin B2	NM_004701	Hs.194698	9133	3	21	No	NA	NA
+HMGB3	High-mobility group box 3	NM_005342	Hs.19114	3149	3	21	No	NA	NA
+MET	Met proto-oncogene (hepatocyte growth factor receptor)	NM_000245	Hs.132966	4233	3	21	Yes	-0.014154129	-0.005687664
+CST3	Cystatin C (amyloid angiopathy and cerebral hemorrhage)	NM_000099	Hs.304682	1471	5	20	No	NA	NA
+ID3	"Inhibitor of DNA binding 3, dominant negative helix-loop-helix protein"	NM_002167	Hs.76884	3399	4	20	No	NA	NA
+CDC20	CDC20 cell division cycle 20 homolog (S. cerevisiae)	NM_001255	Hs.524947	991	4	20	No	NA	NA
+IGFBP2	"Insulin-like growth factor binding protein 2, 36kDa"	NM_000597	Hs.438102	3485	4	20	Yes	0.003019597	-0.087324838
+IFI30	"Interferon, gamma-inducible protein 30"	NM_006332	Hs.14623	10437	4	20	Yes	-0.012952083	0.046131988
+TIMP2	TIMP metallopeptidase inhibitor 2	NM_003255	Hs.104839	7077	4	20	Yes	-0.055607772	0.003412723
+RFC4	"Replication factor C (activator 1) 4, 37kDa"	NM_002916 NM_181573	Hs.591322	5984	3	20	No	NA	NA
+GSTM3	Glutathione S-transferase M3 (brain)	NM_000849	Hs.2006	2947	3	20	Yes	0.027800645	-0.015504202
+SLC25A5	"Solute carrier family 25 (mitochondrial carrier; adenine nucleotide translocator), member 5"	NM_001152	Hs.632282	292	3	20	Yes	-0.040822343	0.032284007
+EIF4A1	"Eukaryotic translation initiation factor 4A, isoform 1"	NM_001251 NM_001040059 NM_001416	Hs.129673	1973	3	20	Yes	-0.011737881	0.003746242
+CENPE	"Centromere protein E, 312kDa"	NM_001813	Hs.75573	1062	3	20	Yes	-0.212327946	0.017861934
+CCNA2	Cyclin A2	NM_001237	Hs.58974	890	3	20	Yes	-0.056855095	0.068260504
+GPSM2	"G-protein signalling modulator 2 (AGS3-like, C. elegans)"	NM_013296	Hs.584901	29899	3	20	No	NA	NA
+SLC7A5	"Solute carrier family 7 (cationic amino acid transporter, y+ system), member 5"	NM_003486	Hs.513797	8140	3	20	Yes	-0.004628474	0.156189675
+CCNE1	Cyclin E1	NM_001238 NM_057182	Hs.244723	898	3	20	Yes	-0.041632768	0.108612094
+TACC2	"Transforming, acidic coiled-coil containing protein 2"	NM_206862 NM_206861 NM_006997 NM_206860	Hs.501252	10579	2	20	No	NA	NA
+KRT17	Keratin 17	NM_000226 NM_153490 NM_002275 NM_002274 NM_005557 NM_000526 NM_002276 NM_000422	Hs.2785	3872	5	19	Yes	-0.00428994	-0.007876893
+TFF3	Trefoil factor 3 (intestinal)	NM_003226	Hs.82961	7033	4	19	Yes	-0.026801371	-0.16316111
+EXT1	Exostoses (multiple) 1	NM_000127	Hs.492618	2131	3	19	Yes	0.001877919	0.053001554
+YWHAZ	"Tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, zeta polypeptide"	NM_145690 NM_003406	Hs.492407	7534	3	19	Yes	-0.014795377	0.039730996
+LETMD1	LETM1 domain containing 1	NM_014033 NM_015416 NM_001024668 NM_001024669 NM_001024670 NM_001024671	Hs.288771	25875	3	19	No	NA	NA
+PSMB7	"Proteasome (prosome, macropain) subunit, beta type, 7"	NM_002799	Hs.213470	5695	3	19	Yes	-0.015475431	0.043152456
+ACADSB	"Acyl-Coenzyme A dehydrogenase, short/branched chain"	NM_001609	Hs.81934	36	3	19	Yes	0.026960103	-0.028138385
+GATM	Glycine amidinotransferase (L-arginine:glycine amidinotransferase)	NM_001482	Hs.75335	2628	3	19	Yes	0.037415121	-0.000649371
+MCM2	"MCM2 minichromosome maintenance deficient 2, mitotin (S. cerevisiae)"	NM_004526	Hs.477481	4171	3	19	No	NA	NA
+CNKSR1	Connector enhancer of kinase suppressor of Ras 1	NM_006314	Hs.16232	10256	3	19	Yes	0.017624784	-0.032713076
+SMC4	SMC4 structural maintenance of chromosomes 4-like 1 (yeast)	NM_005496 NM_001002800 NM_001002799	Hs.58992	10051	2	19	No	NA	NA
+RPS4X	"Ribosomal protein S4, X-linked"	NM_001007	Hs.446628	6191	2	19	No	NA	NA
+ATAD2	"ATPase family, AAA domain containing 2"	NM_014109	Hs.370834	29028	2	19	No	NA	NA
+COL3A1	"Collagen, type III, alpha 1 (Ehlers-Danlos syndrome type IV, autosomal dominant)"	NM_000090	Hs.443625	1281	6	18	No	NA	NA
+SCUBE2	"Signal peptide, CUB domain, EGF-like 2"	NM_020974	Hs.523468	57758	4	18	No	NA	NA
+LRRC17	Leucine rich repeat containing 17	NM_005824 NM_001031692	Hs.567412	10234	4	18	Yes	0.038624817	-0.022502401
+HPN	"Hepsin (transmembrane protease, serine 1)"	NM_182983 NM_002151	Hs.182385	3249	4	18	No	NA	NA
+PLAUR	"Plasminogen activator, urokinase receptor"	NM_002659 NM_001005376 NM_001005377	Hs.466871	5329	3	18	Yes	0.002792935	0.017009279
+AURKB	Aurora kinase B	NM_004217	Hs.442658	9212	3	18	Yes	-0.04921153	0.059608959
+PCNA	Proliferating cell nuclear antigen	NM_002592 NM_182649	Hs.147433	5111	3	18	Yes	-0.032242421	0.036764369
+TFDP1	Transcription factor Dp-1	NM_007111	Hs.79353	7027	3	18	Yes	-0.016194671	0.053592952
+ABCD3	"ATP-binding cassette, sub-family D (ALD), member 3"	NM_002858	Hs.76781	5825	3	18	Yes	0.014669512	-0.037778213
+LMNB2	Lamin B2	NM_032737	Hs.538286	84823	3	18	No	NA	NA
+DDOST	Dolichyl-diphosphooligosaccharide-protein glycosyltransferase	NM_005216	Hs.523145	1650	3	18	Yes	-0.015756091	0.007845702
+NDP	Norrie disease (pseudoglioma)	NM_000266	Hs.522615	4693	3	18	Yes	0.236249437	0.062163282
+MAPRE1	"Microtubule-associated protein, RP/EB family, member 1"	NM_012325	Hs.472437	22919	3	18	No	NA	NA
+KIFC1	Kinesin family member C1	NM_002263	Hs.436912	3833	3	18	No	NA	NA
+YY1	YY1 transcription factor	NM_003403	Hs.388927	7528	3	18	Yes	-0.002456258	-0.001765416
+PEX12	Peroxisomal biogenesis factor 12	NM_000286	Hs.591190	5193	2	18	Yes	0.022684067	-0.026745835
+FEN1	Flap structure-specific endonuclease 1	NM_004111	Hs.409065	2237	2	18	Yes	-0.031036236	0.093540339
+TP53	Tumor protein p53 (Li-Fraumeni syndrome)	NM_000546	Hs.408312	7157	2	18	Yes	0.010379381	0.011992694
+GTSE1	G-2 and S-phase expressed 1	NM_016426	Hs.386189	51512	2	18	No	NA	NA
+PTDSS1	Phosphatidylserine synthase 1	NM_014754	Hs.292579	9791	2	18	Yes	-0.008573813	0.124111488
+POLQ	"Polymerase (DNA directed), theta"	NM_199420	Hs.241517	10721	2	18	No	NA	NA
+TCEAL1	Transcription elongation factor A (SII)-like 1	NM_004780 NM_001006640 NM_001006639	Hs.95243	9338	5	17	Yes	0.080219796	-0.026281464
+MSN	Moesin	NM_002444	Hs.87752	4478	4	17	Yes	-0.005450637	0.044013304
+CDC6	CDC6 cell division cycle 6 homolog (S. cerevisiae)	NM_001254	Hs.405958	990	4	17	Yes	-0.017615931	0.096759503
+CD24	CD24 molecule	NM_013230	Hs.375108	934	4	17	No	NA	NA
+TUBA1	"Tubulin, alpha 1 (testis specific)"	NM_006000	Hs.75318	7277	3	17	Yes	-0.017874341	0.015364453
+VIL2	Villin 2 (ezrin)	NM_003379	Hs.642735	7430	3	17	No	NA	NA
+SFRS10	"Splicing factor, arginine/serine-rich 10 (transformer 2 homolog, Drosophila)"	NM_004593	Hs.533122	6434	3	17	No	NA	NA
+SFRS7	"Splicing factor, arginine/serine-rich 7, 35kDa"	NM_001031684	Hs.309090	6432	3	17	Yes	-0.019337258	-0.012858915
+SDC1	Syndecan 1	NM_001006946 NM_002997	Hs.224607	6382	3	17	Yes	-0.0668537	-0.0107226
+CYBRD1	Cytochrome b reductase 1	NM_024843	Hs.221941	79901	3	17	No	NA	NA
+KIF2C	Kinesin family member 2C	NM_006845	Hs.69360	11004	3	17	No	NA	NA
+CDCA3	Cell division cycle associated 3	NM_031299	Hs.524216	83461	3	17	No	NA	NA
+NPY1R	Neuropeptide Y receptor Y1	NM_000909	Hs.519057	4886	3	17	Yes	0.347502706	0.086870462
+MYO10	Myosin X	NM_012334	Hs.481720	4651	3	17	No	NA	NA
+CTSL	Cathepsin L	NM_001912 NM_145918 NM_001023564	Hs.418123	1514	3	17	Yes	-0.032435026	0.040074464
+PTPLB	"Protein tyrosine phosphatase-like (proline instead of catalytic arginine), member b"	NM_198402	Hs.477367	201562	2	17	No	NA	NA
+ASPM	"Asp (abnormal spindle)-like, microcephaly associated (Drosophila)"	NM_018136	Hs.121028	259266	2	17	No	NA	NA
+FAM64A	"Family with sequence similarity 64, member A"	NM_019013	Hs.592116	54478	2	17	No	NA	NA
+C1orf198	Chromosome 1 open reading frame 198	NM_032800	Hs.568242	84886	2	17	No	NA	NA
+CNAP1	Chromosome condensation-related SMC-associated protein 1	NM_014865	Hs.5719	9918	4	16	No	NA	NA
+PLOD2	"Procollagen-lysine, 2-oxoglutarate 5-dioxygenase 2"	NM_182943 NM_000935	Hs.477866	5352	4	16	Yes	-0.029151629	0.02169456
+C1S	"Complement component 1, s subcomponent"	NM_201442 NM_001734	Hs.458355	716	3	16	No	NA	NA
+DUSP4	Dual specificity phosphatase 4	NM_057158 NM_001394	Hs.417962	1846	3	16	Yes	-0.040777456	-0.145616226
+LRP8	"Low density lipoprotein receptor-related protein 8, apolipoprotein e receptor"	NM_004631 NM_001018054 NM_033300 NM_017522	Hs.576154	7804	3	16	Yes	-0.065521631	0.065069908
+IFITM1	Interferon induced transmembrane protein 1 (9-27)	NM_003641	Hs.458414	8519	3	16	No	NA	NA
+CKS1B	CDC28 protein kinase regulatory subunit 1B	NM_001826	Hs.374378	1163	3	16	No	NA	NA
+FABP7	"Fatty acid binding protein 7, brain"	NM_001446	Hs.26770	2173	3	16	Yes	0.02942524	0.192813272
+CCT5	"Chaperonin containing TCP1, subunit 5 (epsilon)"	NM_012073	Hs.1600	22948	2	16	No	NA	NA
+ITPR3	"Inositol 1,4,5-triphosphate receptor, type 3"	NM_002224	Hs.65758	3710	2	16	Yes	-0.021833587	0.034901647
+SESN1	Sestrin 1	NM_014454	Hs.591336	27244	2	16	No	NA	NA
+CP	Ceruloplasmin (ferroxidase)	NM_000096	Hs.558314	1356	2	16	No	NA	NA
+TFRC	"Transferrin receptor (p90, CD71)"	NM_003234	Hs.529618	7037	2	16	Yes	-0.043135252	0.025192185
+KIT	V-kit Hardy-Zuckerman 4 feline sarcoma viral oncogene homolog	NM_000222	Hs.479754	3815	2	16	Yes	0.042373002	0.022906613
+SLC35A1	"Solute carrier family 35 (CMP-sialic acid transporter), member A1"	NM_006416	Hs.423163	10559	2	16	No	NA	NA
+NDRG1	N-myc downstream regulated gene 1	NM_006096	Hs.372914	10397	2	16	Yes	0.020552371	0.150180474
+SAT	Spermidine/spermine N1-acetyltransferase	NM_002970	Hs.28491	6303	2	16	Yes	0.00169147	0.036144339
+TLE3	"Transducin-like enhancer of split 3 (E(sp1) homolog, Drosophila)"	NM_005078	Hs.287362	7090	3	15	No	NA	NA
+PDAP1	PDGFA associated protein 1	NM_014891	Hs.632296	11333	3	15	No	NA	NA
+F3	"Coagulation factor III (thromboplastin, tissue factor)"	NM_001993	Hs.62192	2152	3	15	No	NA	NA
+SNRPA1	Small nuclear ribonucleoprotein polypeptide A'	NM_003090	Hs.528763	6627	3	15	No	NA	NA
+RACGAP1	Rac GTPase activating protein 1	NM_013277	Hs.505469	29127	3	15	No	NA	NA
+CDH1	"Cadherin 1, type 1, E-cadherin (epithelial)"	NM_004360	Hs.461086	999	3	15	Yes	-0.05533819	-0.005160332
+PRLR	Prolactin receptor	NM_000949	Hs.368587	5618	3	15	Yes	0.014721034	-0.022387922
+ESPL1	Extra spindle poles like 1 (S. cerevisiae)	NM_012291	Hs.153479	9700	3	15	No	NA	NA
+RAB6A	"RAB6A, member RAS oncogene family"	NM_016577	Hs.12152	5870	2	15	Yes	0.014727581	0.087782339
+TXNRD1	Thioredoxin reductase 1	NM_003330 NM_182742 NM_182729 NM_182743 NM_001008394	Hs.567352	7296	2	15	Yes	-0.00500973	0.07639797
+CD44	CD44 molecule (Indian blood group)	NM_000610 NM_001001389 NM_001001390 NM_001001391 NM_001001392	Hs.502328	960	2	15	No	NA	NA
+SOD2	"Superoxide dismutase 2, mitochondrial"	NM_000636 NM_001024465 NM_001024466	Hs.487046	6648	2	15	No	NA	NA
+OMD	Osteomodulin	NM_005014	Hs.94070	4958	2	15	Yes	0.102719893	-0.020231586
+SPRR2C	Small proline-rich protein 2C	M21539	Hs.592363	6702	2	15	No	NA	NA
+INSR	Insulin receptor	NM_000208	Hs.591381	3643	2	15	Yes	0.017481431	0.009219391
+C4orf18	Chromosome 4 open reading frame 18	NM_016613 NM_001031700	Hs.567498	51313	2	15	No	NA	NA
+ADAMTS1	"ADAM metallopeptidase with thrombospondin type 1 motif, 1"	NM_006988	Hs.534115	9510	2	15	No	NA	NA
+UBR2	Ubiquitin protein ligase E3 component n-recognin 2	NM_015255	Hs.529925	23304	2	15	Yes	0.006486044	-0.022663135
+PTPRT	"Protein tyrosine phosphatase, receptor type, T"	NM_133170 NM_007050	Hs.526879	11122	2	15	Yes	0.012732621	-0.060195973
+FBXO5	F-box protein 5	NM_012177	Hs.520506	26271	2	15	No	NA	NA
+SLC3A2	"Solute carrier family 3 (activators of dibasic and neutral amino acid transport), member 2"	NM_001012661 NM_001012662 NM_002394 NM_001012663 NM_001012664 NM_001013251	Hs.502769	6520	2	15	Yes	-0.006599901	0.048759133
+FADS2	Fatty acid desaturase 2	NM_004265	Hs.502745	9415	2	15	No	NA	NA
+IER2	Immediate early response 2	NM_004907	Hs.501629	9592	2	15	Yes	0.070384891	0.02155344
+PPP1R12A	"Protein phosphatase 1, regulatory (inhibitor) subunit 12A"	NM_002480	Hs.49582	4659	2	15	Yes	0.003300722	-0.008825798
+FKBP1A	"FK506 binding protein 1A, 12kDa"	NM_000801 NM_080489 NM_015685 NM_054014	Hs.471933	2280	2	15	Yes	-0.027928593	0.017730092
+CTSL2	Cathepsin L2	NM_001333	Hs.434529	1515	2	15	No	NA	NA
+CCNC	Cyclin C	NM_005190 NM_001013399	Hs.430646	892	2	15	Yes	-0.018832238	0.047908782
+CCT7	"Chaperonin containing TCP1, subunit 7 (eta)"	NM_006429 NM_001009570	Hs.368149	10574	2	15	Yes	-0.021210133	0.047316407
+SCAP1	Src family associated phosphoprotein 1	NM_003726	Hs.316931	8631	2	15	Yes	0.010736069	-0.0117934
+C16orf35	Chromosome 16 open reading frame 35	NM_001039476	Hs.19699	8131	2	15	Yes	0.026048675	0.027357211
+SLC25A1	"Solute carrier family 25 (mitochondrial carrier; citrate transporter), member 1"	NM_005984	Hs.111024	6576	2	15	Yes	-0.007032002	0.026287346
+GABBR1	"Gamma-aminobutyric acid (GABA) B receptor, 1"	NM_001470 NM_021905 NM_021904 NM_021903	Hs.167017	2550	3	14	Yes	-0.04171223	-0.047708201
+ZNF43	Zinc finger protein 43	NM_003423	Hs.534365	7594	3	14	No	NA	NA
+PBXIP1	Pre-B-cell leukemia transcription factor interacting protein 1	NM_020524	Hs.505806	57326	3	14	No	NA	NA
+LDHA	Lactate dehydrogenase A	NM_144972 NM_005566 NM_002301 NM_017448	Hs.2795	3939	3	14	Yes	-0.037564784	0.014805099
+GRB7	Growth factor receptor-bound protein 7	NM_005310 NM_001030002	Hs.86859	2886	3	14	Yes	0.030288665	0.24236729
+CFB	Complement factor B	NM_001710	Hs.69771	629	3	14	Yes	-0.026923651	-0.096483917
+F10	Coagulation factor X	NM_000504	Hs.361463	2159	3	14	No	NA	NA
+BRCA1	"Breast cancer 1, early onset"	NM_007295 NM_007294 NM_007296 NM_007302 NM_007297 NM_007299 NM_007300 NM_007304 NM_007303 NM_007305 NM_007298	Hs.194143	672	3	14	Yes	-0.007410343	0.037678671
+SHMT2	Serine hydroxymethyltransferase 2 (mitochondrial)	NM_005412	Hs.75069	6472	2	14	Yes	-0.039492583	0.045357613
+HIPK2	Homeodomain interacting protein kinase 2	NM_022740	Hs.397465	28996	2	14	No	NA	NA
+DHFR	Dihydrofolate reductase	NM_000791	Hs.83765	1719	2	14	No	NA	NA
+LMNB1	Lamin B1	NM_005573	Hs.89497	4001	2	14	No	NA	NA
+KIF11	Kinesin family member 11	NM_004523	Hs.8878	3832	2	14	No	NA	NA
+SNRPB	Small nuclear ribonucleoprotein polypeptides B and B1	NM_003091 NM_198216	Hs.83753	6628	2	14	Yes	-0.009899679	0.064734149
+RAD21	RAD21 homolog (S. pombe)	NM_006265	Hs.81848	5885	2	14	Yes	-0.01668328	0.039944693
+FRY	Furry homolog (Drosophila)	NM_023037	Hs.591225	10129	2	14	Yes	0.019621823	-0.019240659
+SYNCRIP	"Synaptotagmin binding, cytoplasmic RNA interacting protein"	NM_006372	Hs.571177	10492	2	14	No	NA	NA
+VASH1	Vasohibin 1	NM_014909	Hs.525479	22846	2	14	Yes	0.017588333	-0.02828602
+EXO1	Exonuclease 1	NM_130398 NM_006027 NM_003686	Hs.498248	9156	2	14	No	NA	NA
+PTMA	"Prothymosin, alpha (gene sequence 28)"	NM_002823	Hs.459927	5757	2	14	Yes	-0.034378933	0.02092332
+EIF2C2	"Eukaryotic translation initiation factor 2C, 2"	NM_012154	Hs.449415	27161	2	14	No	NA	NA
+EIF4EBP1	Eukaryotic translation initiation factor 4E binding protein 1	NM_004095	Hs.411641	1978	2	14	No	NA	NA
+RLN1	Relaxin 1	NM_006911	Hs.368996	6013	2	14	No	NA	NA
+IDI1	Isopentenyl-diphosphate delta isomerase 1	NM_004508	Hs.283652	3422	2	14	Yes	-0.014385234	0.030666549
+ZMYM4	"Zinc finger, MYM-type 4"	NM_005095	Hs.269211	9202	2	14	Yes	0.007270268	-0.015982577
+FAM89B	"Family with sequence similarity 89, member B"	NM_152832 NM_006396	Hs.25723	23625	2	14	No	NA	NA
+TPX2	"TPX2, microtubule-associated, homolog (Xenopus laevis)"	NM_012112	Hs.244580	22974	2	14	No	NA	NA
+CEP55	Centrosomal protein 55kDa	NM_018131	Hs.14559	55165	2	14	No	NA	NA
+FUT8	"Fucosyltransferase 8 (alpha (1,6) fucosyltransferase)"	NM_178155 NM_178156 NM_178154 NM_004480 NM_178157	Hs.118722	2530	2	14	Yes	0.013209734	-0.089741234
+FCGRT	"Fc fragment of IgG, receptor, transporter, alpha"	NM_004107	Hs.111903	2217	2	14	Yes	0.032444788	0.003126052
+SPARC	"Secreted protein, acidic, cysteine-rich (osteonectin)"	NM_003118	Hs.111779	6678	5	13	Yes	-0.011853585	-0.050377085
+COL6A1	"Collagen, type VI, alpha 1"	NM_001848	Hs.474053	1291	4	13	Yes	0.02226424	0.006553348
+SLC39A6	"Solute carrier family 39 (zinc transporter), member 6"	NM_012319	Hs.79136	25800	3	13	Yes	0.042585978	-0.011177597
+CXCL9	Chemokine (C-X-C motif) ligand 9	NM_002416	Hs.77367	4283	3	13	No	NA	NA
+ACTB	"Actin, beta"	NM_001101	Hs.520640	60	3	13	No	NA	NA
+CIRBP	Cold inducible RNA binding protein	NM_001280	Hs.501309	1153	3	13	No	NA	NA
+DNAJC12	"DnaJ (Hsp40) homolog, subfamily C, member 12"	NM_021800 NM_201262	Hs.260720	56521	3	13	No	NA	NA
+H3F3B	"H3 histone, family 3B (H3.3B)"	NM_005324	Hs.180877	3021	3	13	No	NA	NA
+DIAPH3	Diaphanous homolog 3 (Drosophila)	NM_030932	Hs.283127	81624	2	13	No	NA	NA
+ECT2	Epithelial cell transforming sequence 2 oncogene	NM_018098	Hs.518299	1894	2	13	No	NA	NA
+ALDH4A1	"Aldehyde dehydrogenase 4 family, member A1"	NM_003748 NM_170726	Hs.77448	8659	2	13	No	NA	NA
+DTL	Denticleless homolog (Drosophila)	NM_016448	Hs.632496	51514	2	13	No	NA	NA
+PALM2-AKAP2	PALM2-AKAP2 protein	NM_053016 NM_001037293 NM_007203 NM_001004065 NM_147150	Hs.591908	445815	2	13	No	NA	NA
+GNAZ	"Guanine nucleotide binding protein (G protein), alpha z polypeptide"	NM_002073	Hs.584760	2781	2	13	Yes	-0.02097426	0.004869575
+MS4A7	"Membrane-spanning 4-domains, subfamily A, member 7"	NM_021201 NM_206939 NM_206938 NM_206940 NM_032597 NM_139249	Hs.530735	58475	2	13	No	NA	NA
+C20orf46	Chromosome 20 open reading frame 46	NM_018354	Hs.516834	55321	2	13	No	NA	NA
+AP2B1	"Adaptor-related protein complex 2, beta 1 subunit"	NM_001030006 NM_001282	Hs.514819	163	2	13	No	NA	NA
+ORC6L	"Origin recognition complex, subunit 6 like (yeast)"	NM_014321	Hs.49760	23594	2	13	No	NA	NA
+MTDH	Metadherin	NM_178812	Hs.377155	92140	2	13	No	NA	NA
+CDC42BPA	CDC42 binding protein kinase alpha (DMPK-like)	NM_003607 NM_014826	Hs.35433	8476	2	13	No	NA	NA
+GPR126	G protein-coupled receptor 126	NM_020455 NM_198569 NM_001032394 NM_001032395	Hs.318894	57211	2	13	No	NA	NA
+OXCT1	3-oxoacid CoA transferase 1	NM_000436	Hs.278277	5019	2	13	Yes	-0.00911328	0.017237425
+QSCN6L1	Quiescin Q6-like 1	NM_181701	Hs.144073	169714	2	13	No	NA	NA
+LOC286052	Hypothetical protein LOC286052	AK095104	Hs.100691	286052	2	13	No	NA	NA
+C17orf27	Chromosome 17 open reading frame 27	NM_020914	Hs.195642	57674	2	13	No	NA	NA
+SCD	Stearoyl-CoA desaturase (delta-9-desaturase)	NM_005063	Hs.558396	6319	2	13	Yes	-0.017072944	0.040751586
+TUBA3	"Tubulin, alpha 3"	NM_006082 NM_006009	Hs.524390	7846	2	13	No	NA	NA
+LAPTM4B	Lysosomal associated protein transmembrane 4 beta	NM_018407	Hs.492314	55353	2	13	No	NA	NA
+ARPC4	"Actin related protein 2/3 complex, subunit 4, 20kDa"	NM_015644 NM_001025930 NM_005718 NM_001024959 NM_001024960	Hs.323342	10093	2	13	Yes	-0.012815536	0.018437675
+ERRFI1	ERBB receptor feedback inhibitor 1	NM_018948	Hs.11169	54206	2	13	No	NA	NA
+SLC16A1	"Solute carrier family 16 (monocarboxylic acid transporters), member 1"	NM_003051	Hs.75231	6566	2	13	No	NA	NA
+CDH3	"Cadherin 3, type 1, P-cadherin (placental)"	NM_001793	Hs.554598	1001	2	13	Yes	-0.010268714	0.074199863
+RP13-297E16.1	"DNA segment on chromosome X and Y (unique) 155 expressed sequence, isoform 1"	NM_005088 NM_004043	Hs.522572	8227	2	13	Yes	-0.008239714	0.002916307
+TK1	"Thymidine kinase 1, soluble"	NM_003258	Hs.515122	7083	2	13	No	NA	NA
+EDN1	Endothelin 1	NM_001955	Hs.511899	1906	2	13	No	NA	NA
+TBX19	T-box 19	NM_005149 NM_199344	Hs.507978	9095	2	13	No	NA	NA
+YBX1	Y box binding protein 1	NM_004559	Hs.473583	4904	2	13	Yes	-0.036861905	0.060162419
+ABLIM1	Actin binding LIM protein 1	NM_001003408 NM_001003407 NM_002313 NM_006720	Hs.438236	3983	2	13	No	NA	NA
+F2	Coagulation factor II (thrombin)	NM_014741 NM_024741 NM_000506	Hs.410092	2147	2	13	Yes	-0.009530177	-0.004940702
+COL2A1	"Collagen, type II, alpha 1 (primary osteoarthritis, spondyloepiphyseal dysplasia, congenital)"	NM_001844 NM_033150	Hs.408182	1280	2	13	No	NA	NA
+MT1X	Metallothionein 1X	NM_005952	Hs.374950	4501	2	13	No	NA	NA
+FGFR1	"Fibroblast growth factor receptor 1 (fms-related tyrosine kinase 2, Pfeiffer syndrome)"	NM_023110 NM_015850 NM_023111 NM_023105 NM_023106 NM_023107 NM_023108	Hs.264887	2260	2	13	Yes	0.03477326	0.032002323
+C14orf45	Chromosome 14 open reading frame 45	NM_025057	Hs.260555	80127	2	13	No	NA	NA
+AP2A2	"Adaptor-related protein complex 2, alpha 2 subunit"	NM_012305	Hs.19121	161	2	13	No	NA	NA
+FUT3	"Fucosyltransferase 3 (galactoside 3(4)-L-fucosyltransferase, Lewis blood group)"	NM_000149	Hs.169238	2525	2	13	No	NA	NA
+CYP2J2	"Cytochrome P450, family 2, subfamily J, polypeptide 2"	NM_000775	Hs.152096	1573	2	13	Yes	-0.031118091	0.009581078
+CCL18	Chemokine (C-C motif) ligand 18 (pulmonary and activation-regulated)	NM_002988	Hs.143961	6362	2	13	No	NA	NA
+SHCBP1	SHC SH2-domain binding protein 1	NM_024745	Hs.123253	79801	2	13	No	NA	NA
+TACC3	"Transforming, acidic coiled-coil containing protein 3"	NM_006342	Hs.104019	10460	2	13	No	NA	NA
+COL1A2	"Collagen, type I, alpha 2"	NM_000089	Hs.489142	1278	4	12	No	NA	NA
+GREM1	"Gremlin 1, cysteine knot superfamily, homolog (Xenopus laevis)"	NM_013372	Hs.40098	26585	4	12	No	NA	NA
+ENO1	"Enolase 1, (alpha)"	NM_001428	Hs.517145	2023	3	12	No	NA	NA
+SRM	Spermidine synthase	NM_003132	Hs.76244	6723	3	12	No	NA	NA
+C14orf132	Chromosome 14 open reading frame 132	NM_020215	Hs.6434	56967	3	12	No	NA	NA
+MT2A	Metallothionein 2A	NM_175617 NM_005953	Hs.534330	4502	3	12	No	NA	NA
+TSPAN1	Tetraspanin 1	NM_005727	Hs.38972	10103	3	12	No	NA	NA
+MSX2	Msh homeobox homolog 2 (Drosophila)	NM_002449	Hs.89404	4488	2	12	Yes	0.006998577	-0.015562901
+C10orf116	Chromosome 10 open reading frame 116	NM_006829	Hs.642660	10974	2	12	Yes	-0.000402635	-0.089074515
+TUBB	"Tubulin, beta"	NM_178014	Hs.533059	203068	2	12	No	NA	NA
+HIF1A	"Hypoxia-inducible factor 1, alpha subunit (basic helix-loop-helix transcription factor)"	NM_001530 NM_181054	Hs.509554	3091	2	12	Yes	-0.043490839	0.022857503
+CRABP1	Cellular retinoic acid binding protein 1	NM_004378	Hs.346950	1381	2	12	Yes	0.061259149	0.193502787
+PGK1	Phosphoglycerate kinase 1	NM_000291	Hs.78771	5230	2	12	No	NA	NA
+PLOD1	"Procollagen-lysine 1, 2-oxoglutarate 5-dioxygenase 1"	NM_000302	Hs.75093	5351	2	12	Yes	0.030601147	0.138791314
+HRB	HIV-1 Rev binding protein	NM_004504	Hs.591619	3267	2	12	Yes	-0.020089077	0.031647098
+MMP23B	Matrix metallopeptidase 23B	NM_006983	Hs.584829	8510	2	12	No	NA	NA
+MAPRE2	"Microtubule-associated protein, RP/EB family, member 2"	NM_014268	Hs.532824	10982	2	12	Yes	-0.013291752	0.009706616
+TIMP1	TIMP metallopeptidase inhibitor 1	NM_003254	Hs.522632	7076	2	12	Yes	-0.014474046	-0.022705012
+GEMIN4	Gem (nuclear organelle) associated protein 4	NM_015721	Hs.499620	50628	2	12	Yes	-0.011501165	0.014028902
+GOLPH2	Golgi phosphoprotein 2	NM_016548 NM_177937	Hs.494337	51280	2	12	No	NA	NA
+STK3	"Serine/threonine kinase 3 (STE20 homolog, yeast)"	NM_006281	Hs.492333	6788	2	12	Yes	-0.003021782	0.061545277
+TP53INP1	Tumor protein p53 inducible nuclear protein 1	NM_033285	Hs.492261	94241	2	12	No	NA	NA
+CTPS	CTP synthase	NM_001905	Hs.473087	1503	2	12	No	NA	NA
+ADM	Adrenomedullin	NM_001124	Hs.441047	133	2	12	No	NA	NA
+CDC25A	Cell division cycle 25A	NM_001789 NM_201567	Hs.437705	993	2	12	Yes	-0.024658867	0.040036664
+MAP3K8	Mitogen-activated protein kinase kinase kinase 8	NM_005204	Hs.432453	1326	2	12	Yes	0.013024161	0.016837561
+SORBS1	Sorbin and SH3 domain containing 1	NM_001034954 NM_001034955 NM_001034956 NM_015385 NM_024991 NM_001034957 NM_006434	Hs.38621	10580	2	12	No	NA	NA
+CHI3L1	Chitinase 3-like 1 (cartilage glycoprotein-39)	NM_001276	Hs.382202	1116	2	12	Yes	-0.022651772	0.082413796
+CAD	"Carbamoyl-phosphate synthetase 2, aspartate transcarbamylase, and dihydroorotase"	NM_004341	Hs.377010	790	2	12	Yes	-0.030642518	0.037169295
+ZBTB4	Zinc finger and BTB domain containing 4	NM_020899	Hs.35096	57659	2	12	No	NA	NA
+FOXC1	Forkhead box C1	NM_001453	Hs.348883	2296	2	12	No	NA	NA
+MMP7	"Matrix metallopeptidase 7 (matrilysin, uterine)"	NM_002423	Hs.2256	4316	2	12	Yes	-0.002599254	0.110467131
+STMN1	Stathmin 1/oncoprotein 18	NM_203401 NM_005563 NM_203399	Hs.209983	3925	2	12	No	NA	NA
+BLM	Bloom syndrome	NM_000057	Hs.169348	641	2	12	No	NA	NA
+TGFB1	"Transforming growth factor, beta 1 (Camurati-Engelmann disease)"	NM_000660	Hs.155218	7040	2	12	Yes	0.009413786	0.022319259
+NFIB	Nuclear factor I/B	NM_005596	Hs.370359	4781	4	11	Yes	-0.020942351	0.029538568
+NAT1	N-acetyltransferase 1 (arylamine N-acetyltransferase)	NM_000662	Hs.591847	9	4	11	Yes	-0.052989998	-0.1425666
+TRA@	T cell receptor alpha locus	X73617	Hs.74647	6955	3	11	No	NA	NA
+CELSR2	"Cadherin, EGF LAG seven-pass G-type receptor 2 (flamingo homolog, Drosophila)"	NM_001408	Hs.57652	1952	3	11	Yes	0.080718071	-0.003790513
+HMGA1	High mobility group AT-hook 1	NM_145904 NM_145899 NM_002131 NM_145901 NM_145905 NM_145902 NM_145903	Hs.518805	3159	3	11	No	NA	NA
+FBP1	"Fructose-1,6-bisphosphatase 1"	NM_000507	Hs.494496	2203	3	11	No	NA	NA
+WISP1	WNT1 inducible signaling pathway protein 1	NM_003882 NM_080838	Hs.492974	8840	2	11	No	NA	NA
+PGAM1	Phosphoglycerate mutase 1 (brain)	NM_002629	Hs.447492	5223	2	11	No	NA	NA
+NOLA2	"Nucleolar protein family A, member 2 (H/ACA small nucleolar RNPs)"	NM_017838 NM_001034833	Hs.27222	55651	2	11	Yes	0.003587331	0.024454004
+HDGFRP3	"Hepatoma-derived growth factor, related protein 3"	NM_016073	Hs.513954	50810	2	11	No	NA	NA
+BDH2	"3-hydroxybutyrate dehydrogenase, type 2"	NM_020139	Hs.124696	56898	2	11	No	NA	NA
+HTATIP2	"HIV-1 Tat interactive protein 2, 30kDa"	NM_006410	Hs.90753	10553	2	11	Yes	-0.010513873	0.063002892
+MMP1	Matrix metallopeptidase 1 (interstitial collagenase)	NM_002421	Hs.83169	4312	2	11	Yes	-0.037663274	0.219026844
+CCT6A	"Chaperonin containing TCP1, subunit 6A (zeta 1)"	NM_001762 NM_001009186	Hs.82916	908	2	11	No	NA	NA
+HSPB2	Heat shock 27kDa protein 2	NM_001541	Hs.78846	3316	2	11	No	NA	NA
+CKAP4	Cytoskeleton-associated protein 4	NM_006825	Hs.74368	10970	2	11	No	NA	NA
+SQLE	Squalene epoxidase	NM_003129	Hs.71465	6713	2	11	Yes	-0.015628365	0.065824281
+APP	"Amyloid beta (A4) precursor protein (peptidase nexin-II, Alzheimer disease)"	NM_000484 NM_201413 NM_201414	Hs.642685	351	2	11	Yes	-0.006408935	-0.012081467
+ADCY3	Adenylate cyclase 3	NM_024322	Hs.642633	109	2	11	No	NA	NA
+HNRPAB	Heterogeneous nuclear ribonucleoprotein A/B	NM_031266 NM_004499	Hs.591731	3182	2	11	No	NA	NA
+PSMD14	"Proteasome (prosome, macropain) 26S subunit, non-ATPase, 14"	NM_005805	Hs.567410	10213	2	11	Yes	-0.027429512	0.043636934
+RNASEH2A	"Ribonuclease H2, large subunit"	NM_006397	Hs.532851	10535	2	11	No	NA	NA
+TNFAIP2	"Tumor necrosis factor, alpha-induced protein 2"	NM_006291	Hs.525607	7127	2	11	No	NA	NA
+CDCA8	Cell division cycle associated 8	NM_018101	Hs.524571	55143	2	11	No	NA	NA
+APOD	Apolipoprotein D	NM_001647	Hs.522555	347	2	11	Yes	0.003759095	-0.007160339
+SATB1	Special AT-rich sequence binding protein 1 (binds to nuclear matrix/scaffold-associating DNA's)	NM_002971	Hs.517717	6304	2	11	Yes	0.034846599	0.033956636
+ACSS2	Acyl-CoA synthetase short-chain family member 2	NM_018677 NM_139274	Hs.517034	55902	2	11	No	NA	NA
+APBA2BP	"Amyloid beta (A4) precursor protein-binding, family A, member 2 binding protein"	NM_005225 NM_031232 NM_031231 NM_007238 NM_183397	Hs.516986	63941	2	11	No	NA	NA
+TAS2R5	"Taste receptor, type 2, member 5"	NM_018980 NM_016943 NM_016944 NM_003143	Hs.490394	54429	2	11	Yes	-0.019286651	0.029927782
+EGFR	"Epidermal growth factor receptor (erythroblastic leukemia viral (v-erb-b) oncogene homolog, avian)"	NM_005228 NM_201284 NM_201282 NM_201283	Hs.488293	1956	2	11	Yes	-0.01744231	0.01524094
+DEPDC1B	DEP domain containing 1B	NM_018369	Hs.482233	55789	2	11	No	NA	NA
+BCL6	B-cell CLL/lymphoma 6 (zinc finger protein 51)	NM_138931 NM_001706	Hs.478588	604	2	11	Yes	0.013871321	0.000418401
+SEC14L1	SEC14-like 1 (S. cerevisiae)	NM_001039573 NM_003003	Hs.464184	6397	2	11	No	NA	NA
+DYNLT1	"Dynein, light chain, Tctex-type 1"	NM_006519	Hs.445999	6993	2	11	No	NA	NA
+PAXIP1	PAX interacting (with transcription-activation domain) protein 1	NM_007349	Hs.443881	22976	2	11	Yes	0.026424016	0.0000305
+TSPAN4	Tetraspanin 4	NM_020376 NM_173584 NM_004357 NM_139029 NM_139030 NM_001039490 NM_001025237 NM_001025236 NM_001025234 NM_001025235 NM_003271 NM_001025239 NM_001025238 NM_001004	Hs.437594	7106	2	11	Yes	0.019954008	-0.007008883
+EEF1A2	Eukaryotic translation elongation factor 1 alpha 2	NM_001958	Hs.433839	1917	2	11	No	NA	NA
+S100A8	S100 calcium binding protein A8 (calgranulin A)	NM_002964	Hs.416073	6279	2	11	No	NA	NA
+SFRP4	Secreted frizzled-related protein 4	NM_003014	Hs.416007	6424	2	11	Yes	0.051954125	-0.026536567
+STRA13	Stimulated by retinoic acid 13 homolog (mouse)	NM_144998	Hs.37616	201254	2	11	No	NA	NA
+CDKN1A	"Cyclin-dependent kinase inhibitor 1A (p21, Cip1)"	NM_078467 NM_000389	Hs.370771	1026	2	11	No	NA	NA
+HDAC2	Histone deacetylase 2	NM_001527	Hs.3352	3066	2	11	Yes	-0.026549802	0.074469973
+MRPS6	Mitochondrial ribosomal protein S6	NM_006933 NM_032476	Hs.302742	64968	2	11	No	NA	NA
+SMS	Spermine synthase	NM_004595	Hs.288487	6611	2	11	No	NA	NA
+ARF1	ADP-ribosylation factor 1	NM_001024227 NM_001024228 NM_001024226 NM_001658	Hs.286221	375	2	11	Yes	-0.014880986	0.007718897
+CES2	"Carboxylesterase 2 (intestine, liver)"	NM_003869 NM_198061	Hs.282975	8824	2	11	Yes	0.010246444	-0.004211318
+TUBG1	"Tubulin, gamma 1"	NM_016437 NM_001070	Hs.279669	7283	2	11	Yes	0.01565945	0.022236023
+JUNB	Jun B proto-oncogene	NM_002229	Hs.25292	3726	2	11	Yes	0.063781851	0.009205178
+PSMA7	"Proteasome (prosome, macropain) subunit, alpha type, 7"	NM_002792	Hs.233952	5688	2	11	No	NA	NA
+PTGS2	Prostaglandin-endoperoxide synthase 2 (prostaglandin G/H synthase and cyclooxygenase)	NM_000963	Hs.196384	5743	2	11	Yes	-0.058289063	-0.020156039
+TMEM45A	Transmembrane protein 45A	NM_018004	Hs.126598	55076	2	11	No	NA	NA
+CTSF	Cathepsin F	NM_003793	Hs.11590	8722	2	11	No	NA	NA
+SC4MOL	Sterol-C4-methyl oxidase-like	NM_006745 NM_001017369	Hs.105269	6307	2	11	Yes	0.05108924	0.109463618

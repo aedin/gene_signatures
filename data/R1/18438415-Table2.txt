@@ -1,0 +1,27 @@
+Agilent ProbeID	Symbol	Gene name	Chromosome	P value (logistic regression)	Transcript description	KEGG pathways	Gene ontology processes
+A_23_P133445	GZMA	GZMA	5q11-q12	0.02	Granzyme A (granzyme 1; cytotoxic T lymphocyte–associated serine esterase-3)	Neuroactive ligand-receptor interaction	Apoptosis, cleavage of lamin, cytolysis, immune response, proteolysis
+A_32_P163247	CD8A	CD8A	2p12	0.04	CD8a (CD8; MAL; p32; Leu2)	Antigen processing and presentation, cell adhesion molecules (CAMs), hematopoietic cell lineage, T cell receptor signaling pathway	T cell activation, antigen processing and presentation, immune response, transmembrane receptor protein tyrosine kinase signaling pathway
+A_23_P352861	TRBV5-4	TRBV5-4	7q34	0.05	T cell receptor variable 5-4 (TRBV5-4)	 	 
+A_23_P85800	CD52	CD52	1p36	0.02	CD52 (CDW52; CAMPATH-1 antigen)	 	Elevation of cytosolic calcium ion concentration, respiratory burst
+A_23_P34676	CD247	CD247	1q22-q23	0.03	CD247 (CD3H; CD3Q; CD3Z; TCRZ; CD3-ZETA)	Natural killer cell–mediated cytotoxicity; T cell receptor signaling pathway	Cell surface receptor–linked signal transduction
+A_23_P74145	CD48	CD48	1q21.3-q22	0.03	CD48 (BCM1; BLAST; hCD48; mCD48; BLAST1; SLAMF2; MEM-102)	Natural killer cell–mediated cytotoxicity	Defense response
+A_23_P209678	PLEK	PLEK	2p14	0.06	Pleckstrin (P47; FLJ27168)	 	Intracellular signaling cascade
+A_23_P51231	RUNX3	RUNX3	1p36	0.06	Runt-related transcription factor-3 (AML2; CBFA3; PEBP2aC; FLJ34510; MGC16070)	 	Cell proliferation, induction of apoptosis, negative regulation of epithelial cell proliferation, negative regulation of progression through cell cycle, regulation of transcription (DNA-dependent), transcription, transcription from RNA polymerase II promoter
+A_23_P42588	GIMAP5	GIMAP5	7q36.1	0.05	GTPase, IMAP family member 5 (IAN4; IAN5; IMAP3; hIAN5; HIMAP3; IAN4L1; FLJ11296)	 	 
+A_23_P204847	LCP1	LCP1	13q14.3	0.08	Lymphocyte cytosolic protein-1 (L-plastin) (CP64; PLS2; LC64P; FLJ25423; FLJ26114; FLJ39956; L-PLASTIN; DKFZp781A23186)	 	Actin filament bundle formation
+A_32_P60065	F2RL2	F2RL2	5q13	0.03	Coagulation factor II (thrombin) receptor-like 2 (PAR3)	Neuroactive ligand–receptor interaction	G protein–coupled receptor protein signaling pathway, blood coagulation, response to wounding, signal transduction
+A_23_P102391	SLC40A1	SLC40A1	2q32	0.02	Solute carrier family 40 (iron-regulated transporter) member-1 (FPN1; HFE4; MTP1; IREG1; MST079; MSTP079; SLC11A3)	 	Anatomical structure morphogenesis, cellular iron ion homeostasis, ion transport, iron ion transport
+A_23_P363778	FRZB	FRZB	2qter	0.06	Frizzled-related protein (FRE; FZRB; hFIZ; FRITZ; FRP-3; FRZB1; SFRP3; SRFP3; FRZB-1; FRZB-PEN)	 	Wnt receptor signaling pathway, cell differentiation, multicellular organismal development, negative regulation of Wnt receptor signaling pathway, skeletal development
+A_23_P254165	RAI2	RAI2	Xp22	0.03	Retinoic acid–induced-2	 	Embryonic development
+A_24_P77904	HOXA10	HOXA10	7p15-p14	0.05	Homeobox A10 (PL; HOX1; HOX1H; HOX1.8; MGC12859)	 	Multicellular organismal development, regulation of transcription (DNA-dependent), spermatogenesis, transcription
+A_23_P408363	ITGBL1	ITGBL1 (AL359052)	13q33	0.07	Homo sapiens mRNA full-length insert cDNA clone EUROIMAGE 1968422 OR integrin, beta-like 1 (with EGF-like repeat domains) (OSCP; TIED)	 	Cell adhesion, cell-matrix adhesion, integrin-mediated signaling pathway
+A_23_P82990	OGN	OGN	9q22	0.04	Osteoglycin (mimecan; OIF; SLRR3A; DKFZP586P2421)	 	 
+A_32_P188953	C21orf34	C21orf34	21q21.1	0.05	Chromosome 21 open reading frame 34 (C21orf35; FLJ38295; hypothetical protein LOC388815)	 	 
+A_23_P138706	ADRA2A	ADRA2A	10q24-q26	0.04	Adrenergic a-2A-, receptor (ADRA2; ADRAR; ZNF32; ADRA2R; ALPHA2AAR)	Neuroactive ligand-receptor interaction	G protein–coupled receptor protein signaling pathway, Rho protein signal transduction, actin cytoskeleton organization and biogenesis, activation of MAPK activity, cell motility, fear response, negative regulation of adenylate cyclase activity, positive regulation of cell proliferation, signal transduction
+A_23_P213745	CXCL14	CXCL14	5q31	0.05	Chemokine (C-X-C motif) ligand-14 (KS1; Kec; BMAC; BRAK; NJAC; MIP-2g; SCYB14; MGC10687; bolekine)	Cytokine-cytokine receptor interaction, leukocyte transendothelial migration	Cell-cell signaling, chemotaxis, immune response, inflammatory response, signal transduction
+A_23_P7313	SPP1	SPP1	4q21-q25	0.04	Secreted phosphoprotein-1 (osteopontin, bone sialoprotein I, early T lymphocyte activation 1) (OPN; BNSP; BSPI; ETA-1; MGC110940)	Cell communication, ECM-receptor interaction, focal adhesion	Cell adhesion, cell-matrix adhesion, negative regulation of bone mineralization, ossification
+A_23_P57658	HRASLS	HRASLS	3q29	0.03	HRAS-like suppressor (A-C1; HSD28; HRASLS1; H-REV107)	 	 
+A_23_P253123	VGLL1	VGLL1	Xq26.3	0.04	Vestigial-like-1 (Drosophila) (TDU; VGL1)	 	Regulation of transcription (DNA-dependent)
+A_23_P127948	ADM	ADM	11p15.4	0.02	Adrenomedullin (AM)	 	cAMP biosynthetic process, cell-cell signaling, circulation, excretion, female pregnancy, heart development, positive regulation of cell proliferation, progesterone biosynthetic process, response to wounding, signal transduction
+A_32_P74964	C6orf168	C6orf168 (A_32_P74964)	6q16.2	0.02	Chromosome 6 open reading frame 168	 	 
+A_32_P49764	SNTG2	SNTG2 (A_32_P49764)	2p25.3	0.02	Syntrophin, 2 (SYN5; G2SYN; MGC133174)	 	Central nervous system development

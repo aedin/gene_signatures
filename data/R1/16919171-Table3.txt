@@ -1,0 +1,46 @@
+Function	Gene	OMIM	Accession no.	p-value	Gene description
+Cell cycle: mitosis (spindle checkpoint)	TTK	604092	NM_003318.1	0.029	Threonine-tyrosine kinase
+Cell cycle: mitosis (spindle checkpoint)	BUB1	602452	AF043294.2	0.035	Budding uninhibited by benzimidazoles 1 homolog (yeast)
+Cell cycle: mitosis (spindle checkpoint)	BUB3	603719	NM_004725.1	0.037	Budding uninhibited by benzimidazoles 3 homolog (yeast)
+Cell cycle: mitosis (spindle checkpoint)	CDC20	603618	NM_001255.1	0.044	Cell division cycle 20
+Cell cycle: mitosis (spindle checkpoint)	MAD2L1	602686	NM_002358.2	0.049	MAD2 (mitotic arrest deficient, yeast, homolog) like-1
+Cell cycle: mitosis (spindle checkpoint)	BUB1B	602860	NM_001211.2	0.05	Budding uninhibited by benzimidazoles 1 homolog beta (yeast)
+Cell cycle: G0/G1 transition	INSIG1	602055	NM_005542.1	0.039	Insulin induced gene 1 (cell division cycle, G0 to G1)
+Cell cycle: mitosis (G1/S checkpoint)	CKS2	116901	NM_001827.1	0.047	CDC28 protein kinase regulatory subunit 2
+Cell cycle: mitosis (G1/S checkpoint)	CKS1B	116900	NM_001826.1	0.046	CDC28 protein kinase regulatory subunit 1B
+Cell cycle: mitosis (G1/S checkpoint)	SKP2	601436	BG105365	0.05	S-phase kinase-associated protein 2 (p45)
+Cell cycle: mitosis (G1/S checkpoint)	FOXM1	602341	NM_021953.1	0.045	Forkhead box M1
+Cell cycle: mitosis (G1/S checkpoint)	MCM4	602638	AA 604621	0.036	Minichromosome maintenance deficient (S. cerevisiae) 4
+Cell cycle: mitosis (G1/S checkpoint)	MCM3	602693	NM_002388.2	0.048	Minichromosome maintenance deficient (S. cerevisiae) 3
+Cell cycle: mitosis (G1/S checkpoint)	MCM7	600592	D55716.1	0.048	Minichromosome maintenance deficient 7 (S. cerevisiae)
+Cell cycle: mitosis (G1/S checkpoint)	MCM2	116945	NM_004526.1	0.049	Minichromosome maintenance deficient (S. cerevisiae) 2
+Cell cycle: mitosis (G1/S checkpoint)	MCM6	601806	NM_005915.2	0.05	Minichromosome maintenance deficient (S. pombe) 6
+Cell cycle: mitosis (G1/S and G2/M checkpoints)	CRKRS		M68520.1	0.039	Cdc2-related kinase, arginine/serine-rich
+Cell cycle: mitosis (G1/S and G2/M checkpoints)	CDC2/CDK1	116940	NM_001786.1	0.044	Cell division cycle 2, G1 to S and G2 to M
+Cell cycle: mitosis (G1/S and G2/M checkpoints)	CDC25A	116947	NM_001789.1	0.05	Cell division cycle 25A
+Cell cycle: mitosis (G1/S and G2/M checkpoints)	CDC25B	116949	NM_021873.1	0.05	Cell division cycle 25B
+Cell cycle: mitosis (G1/S and G2/M checkpoints)	CCNA2	123835	NM_001237.1	0.05	Cyclin A2
+Cell cycle: mitosis (G2/M checkpoint)	CCNB1	123836	Hs.23960	0.047	Cyclin B1(cell division cycle, G2 to M)
+Cell cycle: mitosis (G2/M checkpoint)	CCNB2	602755	NM_004701.2	0.047	Cyclin B2 (cell division cycle, G2 to M)
+Cell cycle: mitosis (G2/M checkpoint)	NEK2	604043	NM_002497.1	0.037	NIMA (never in mitosis gene a)-related kinase 2
+Cell cycle: mitosis	STK15	602687	NM_003600.1	0.039	Serine/threonine kinase 6 (chr segregation)
+Cell cycle: mitosis	SRPK1	601939	NM_003137.1	0.046	SFRS protein kinase 1 (chr segregation)
+Cell cycle: mitosis	TOP2A	126430	NM_001067.1	0.05	Topoisomerase (DNA) II alpha (170 kD) (chr segregation)
+Cell cycle: mitosis	KIF4A	300521	NM_012310.2	0.035	Kinesin family member 4A (spindle formation/chr condensation)
+Cell cycle: mitosis	CNAP1	609689	NM_014865	0.046	Chromosome condensation-related SMC-associated protein 1
+Cell cycle: mitosis	SMC4L1		NM_005496.1	0.048	SMC4 structural maintenance of chromosomes 4-like 1 (yeast)
+Cell cycle: mitosis	HCAP-G	606280	NM_022346.1	0.042	Chromosome condensation protein G (chr condensation)
+Signal transduction	TDGF1	187395	NM_003212.1	0.048	Teratocarcinoma-derived growth factor 1 (EGF signaling)
+Signal transduction	ENC1	605173	NM_003633.1	0.048	Pig 10, ectodermal-neural cortex (WNT//beta-catenin pathway)
+Transcription	SOX9	608160	NM_000346.1	0.045	Sex determining region Y-box 9
+Transcription	MYC	190080	NM_002467.1	0.047	V-myc avian myelocytomatosis viral oncogene homolog
+Transcription	HGFR/MET	164860	NM_002467.1	0.047	Met proto-oncogene
+Transport: intracellular	NUP62	605815	NM_012346.1	0.039	Nucleoporin 62 kD
+Transport: intracellular	NUPL1	607615	NM_007342.1	0.05	Nucleoporin-like 1
+Transport: intracellular	NUP155	606694	NM_004298.1	0.045	Nucleoporin 155 kD (NUP155)
+Transport: intracellular	KPNA2	600685	NM_002266.1	0.045	Karyopherin alpha 2 (RAG cohort 1, importin alpha 1)
+Transport: intracellular	RANBP5	602008	NM_002271.1	0.05	RAN binding protein 5 or karyopherin (importin) beta 3
+Transport: intracellular	CSE1L/CAS	601342	NM_001316	0.05	CSE1 chromosome segregation 1-like (yeast)
+Transport: intracellular	NXT1	605811	NM_005796.1	0.05	Nuclear transport factor 2 (NTF2)
+Transport: intracellular	RANBP1	601180	NM_002882.2	0.048	RAN binding protein 1
+Transport	SLCO4A1	605495	NM_016354.1	0.048	Solute carrier family 21 (organic anion transporter)

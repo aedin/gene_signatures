@@ -1,0 +1,32 @@
+#Table II. Stromal Genes Differentially Expressed between IBC and Non-IBC1				
+Gene symbol	Affymetrix ID	GenBank ID	Fold-change	p value2
+#Expressed at higher levels in IBC				
+DUSP2	204794_at	NM_004418	1.51	9.26E-04
+LAMC2	202267_at	NM_005562	1.58	3.10E-04
+#Expressed at lower levels in IBC				
+TSPYL1	221493_at	NM_003309	0.63	9.17E-06
+SLC2A10	221024_s	NM_030777	0.45	1.35E-05
+UBE2J1	217826_s	NM_016021	0.62	1.53E-05
+	217825_s	AF151039	0.77	1.31E-03
+TTC3	210645_s	D83077	0.66	2.17E-05
+	208073_x	NM_003316	0.7	1.41E-04
+ITGBL1	205422_s	NM_004791	0.37	3.91E-05
+UBQLN2	215884_s	NM_013444	0.66	1.05E-04
+SEL1L	202061_s	NM_005065	0.66	1.10E-04
+GALNT1	201722_s	NM_020474	0.66	1.16E-04
+DHX29	212648_at	NM_019030	0.66	1.46E-04
+LGALS8	208933_s	AI659005	0.63	1.97E-04
+LUM	201744_s	NM_002345	0.57	2.20E-04
+RAB2	208731_at	AU158062	0.67	2.89E-04
+C6orf211	218195_at	NM_024573	0.55	4.66E-04
+AGL	203566_s	NM_000645	0.67	5.32E-04
+SPOCK	202363_at	NM_004598	0.63	5.38E-04
+GALC	204417_at	NM_000153	0.64	6.09E-04
+CAMK2N1	218309_at	NM_018584	0.6	6.41E-04
+PGRMC2	213227_at	BE879873	0.66	6.51E-04
+CREBL2	201990_s	NM_001310	0.63	7.69E-04
+STS	203767_s	NM_000351	0.66	9.03E-04
+#  1 The cutoff point for genes to be included in the table is an expression change 1.5-fold and p < 0.001 for a corresponding probe set (Affymetrix ID) using moderated t-scores. These genes are not significantly differentially expressed in the tumor epithelium at the p 0.01 cutoff point for our gene lists.				
+ # 2 Two-sided Welch t-test.				
+				
+				

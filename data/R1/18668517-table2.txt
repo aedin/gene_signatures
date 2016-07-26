@@ -1,0 +1,16 @@
+Gene name	Probe description on MG 430 2.0 Chip	Accession number	Avg microarray LCB	Avg microarray FC	QRT-PCR result	QRT-PCR p value
+Hip 1	Huntingtin interacting protein 1	NM_146001	1.57	2.24	No difference	0.45
+Ccna2	Cyclin A2	NM_009828	8.79	16.92	Upregulated	<0.01
+Ccnb1	Cyclin B1	NM_172301	3.97	17.9	Upregulated	<0.01
+Ccnb2	Cyclin B2	NM_007630	7.4	15.25	Upregulated	0.02
+Ccnd2	Cyclin D2	NM_009829	-1.42	-2.16	Downregulated	0.03
+Ccnd3	Cyclin D3	NM_007632	-1.33	-1.68	No difference	0.29
+Ccne1	Cyclin E1	NM_007633	2.96	1.71	Upregulated	<0.01
+Ccne2	Cyclin E2	NM_001037134	4.14	8.58	Upregulated	0.05
+Ccnf	Cyclin F	NM_007634	3.84	8.29	Upregulated	0.04
+Aurka	Aurora kinase A	NM_011497	3.31	6.71	Upregulated	<0.01
+Aurkb	Aurora kinase B	NM_011496	6.03	14.72	Upregulated	0.01
+Pbsn	Probasin	NM_017471	-41.9	-120	Downregulated	<0.01
+Dnmt1	DNA methyltransferase (cytosine-5) 1	NM_010066	3.42	5.84	No difference	0.23
+Mmp2	Matrix metallopeptidase 2	NM_008610	1.37	2.25	No difference	0.69
+FoxM1	Forkhead box M1	NM_008021	43.16	340.3	Upregulated	<0.01

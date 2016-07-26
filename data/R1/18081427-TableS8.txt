@@ -1,0 +1,982 @@
+Rank	Fold difference of geom means (Transfected/Control cell lines)	Probe set	Gene symbol	Description
+1	0.002	1430162_at	3830417A13Rik	RIKEN cDNA 3830417A13 gene
+2	0.018	1415983_at	Lcp1	lymphocyte cytosolic protein 1
+3	0.032	1418004_a_at	1810009M01Rik	RIKEN cDNA 1810009M01 gene
+4	0.033	1448160_at	Lcp1	lymphocyte cytosolic protein 1
+5	0.036	1416666_at	Serpine2	serine (or cysteine) proteinase inhibitor, clade E, member 2
+6	0.043	1450678_at	Itgb2	integrin beta 2
+7	0.045	1423909_at	0610011I04Rik	RIKEN cDNA 0610011I04 gene
+8	0.049	1418664_at	Mpdz	multiple PDZ domain protein
+9	0.058	1417848_at		glucocorticoid induced gene 1
+10	0.062	1453152_at	Mamdc2	MAM domain containing 2
+11	0.063	1434442_at	D5Ertd593e	DNA segment, Chr 5, ERATO Doi 593, expressed
+12	0.063	1428891_at	9130213B05Rik	RIKEN cDNA 9130213B05 gene
+13	0.066	1426858_at	Inhbb	inhibin beta-B
+14	0.068	1434465_x_at	Vldlr	very low density lipoprotein receptor
+15	0.073	1450107_a_at	Renbp	renin binding protein
+16	0.074	1448303_at	Gpnmb	glycoprotein (transmembrane) nmb
+17	0.075	1417061_at	Slc40a1	solute carrier family 40 (iron-regulated transporter), member 1
+18	0.088	1451461_a_at	Aldoc	aldolase 3, C isoform
+19	0.09	1434920_a_at	Evl	Ena-vasodilator stimulated phosphoprotein
+20	0.094	1421063_s_at	Snrpn /// Snurf	small nuclear ribonucleoprotein N /// SNRPN upstream reading frame
+21	0.097	1450044_at	Fzd7	frizzled homolog 7 (Drosophila)
+22	0.1	1416855_at	Gas1	growth arrest specific 1
+23	0.104	1434372_at
+24	0.106	1436838_x_at	Cotl1	coactosin-like 1 (Dictyostelium)
+25	0.112	1420851_at	Pard6g	par-6 partitioning defective 6 homolog gamma (C. elegans)
+26	0.116	1449896_at	Mlph	melanophilin
+27	0.116	1417900_a_at	Vldlr	very low density lipoprotein receptor
+28	0.119	1434191_at	A530016O06Rik	RIKEN cDNA A530016O06 gene
+29	0.124	1450455_s_at	Akr1c12	aldo-keto reductase family 1, member C12
+30	0.125	1445597_s_at	Hrasls3	HRAS like suppressor 3
+31	0.127	1418910_at	Bmp7	bone morphogenetic protein 7
+32	0.132	1422000_at	Akr1c12	aldo-keto reductase family 1, member C12
+33	0.132	1439345_at	Gpnmb	glycoprotein (transmembrane) nmb
+34	0.135	1417292_at	Ifi47	interferon gamma inducible protein 47
+35	0.136	1451611_at	Hrasls3	HRAS like suppressor 3
+36	0.14	1424692_at	2810055F11Rik	RIKEN cDNA 2810055F11 gene
+37	0.143	1438211_s_at	Dbp	D site albumin promoter binding protein
+38	0.143	1417602_at	Per2	period homolog 2 (Drosophila)
+39	0.146	1434914_at	Rab6b	RAB6B, member RAS oncogene family
+40	0.147	1435758_at	B4galt6	UDP-Gal:betaGlcNAc beta 1,4-galactosyltransferase, polypeptide 6
+41	0.148	1428394_at	Phyhd1 /// Lrrc8	phytanoyl-CoA dioxygenase domain containing 1 /// leucine rich repeat containing 8
+42	0.15	1420903_at	St6galnac3	ST6 (alpha-N-acetyl-neuraminyl-2,3-beta-galactosyl-1,3)-N-acetylgalactosaminide alpha-2,6-sialyltransferase 3
+43	0.15	1460329_at	B4galt6	UDP-Gal:betaGlcNAc beta 1,4-galactosyltransferase, polypeptide 6
+44	0.151	1452145_at	H6pd	hexose-6-phosphate dehydrogenase (glucose 1-dehydrogenase)
+45	0.153	1436425_at	Ankrd38	ankyrin repeat domain 38
+46	0.153	1416046_a_at	Fuca2	fucosidase, alpha-L- 2, plasma
+47	0.153	1435906_x_at	Gbp2	guanylate nucleotide binding protein 2
+48	0.156	1429830_a_at	Cd59a	CD59a antigen
+49	0.157	1429351_at	4930429H24Rik	RIKEN cDNA 4930429H24 gene
+50	0.157	1455422_x_at	39329	septin 4
+51	0.158	1416619_at	4632428N05Rik	RIKEN cDNA 4632428N05 gene
+52	0.16	1429359_s_at	Rbpms	RNA binding protein gene with multiple splicing
+53	0.161	1437284_at	Fzd1	frizzled homolog 1 (Drosophila)
+54	0.163	1448729_a_at	39329	septin 4
+55	0.164	1430051_at	4930486L24Rik	RIKEN cDNA 4930486L24 gene
+56	0.167	1415947_at	Creg1	cellular repressor of E1A-stimulated genes 1
+57	0.17	1427201_at	Mustn1	musculoskeletal, embryonic nuclear protein 1
+58	0.171	1417872_at	Fhl1	four and a half LIM domains 1
+59	0.172	1430388_a_at	Sulf2	sulfatase 2
+60	0.172	1418752_at	Aldh3a1	aldehyde dehydrogenase family 3, subfamily A1
+61	0.173	1415948_at	Creg1	cellular repressor of E1A-stimulated genes 1
+62	0.174	1437161_x_at	Rbpms	RNA binding protein gene with multiple splicing
+63	0.174	1436002_at	C230013L11Rik	RIKEN cDNA C230013L11 gene
+64	0.176	1451054_at	Orm1	orosomucoid 1
+65	0.18	1418240_at	Gbp2	guanylate nucleotide binding protein 2
+66	0.182	1449303_at	Sesn3	sestrin 3
+67	0.186	1434957_at	Cdon	cell adhesion molecule-related/down-regulated by oncogenes
+68	0.196	1451804_a_at	Lrrc16	leucine rich repeat containing 16
+69	0.197	1451793_at	4930429H24Rik	RIKEN cDNA 4930429H24 gene
+70	0.198	1436068_at	Zbtb10	zinc finger and BTB domain containing 10
+71	0.2	1424393_s_at	Adhfe1	alcohol dehydrogenase, iron containing, 1
+72	0.2	1426971_at	Ube1l	ubiquitin-activating enzyme E1-like
+73	0.202	1452935_at	LOC546143	hypothetical protein LOC546143
+74	0.202	1418509_at	Cbr2	carbonyl reductase 2
+75	0.203	1449519_at	Gadd45a	growth arrest and DNA-damage-inducible 45 alpha
+76	0.203	1455106_a_at	Ckb	creatine kinase, brain
+77	0.204	1428141_at	Gga2	golgi associated, gamma adaptin ear containing, ARF binding protein 2
+78	0.205	1436544_at	Atp10d	ATPase, Class V, type 10D
+79	0.205	1451204_at	4933425F03Rik	RIKEN cDNA 4933425F03 gene
+80	0.206	1425652_s_at	Rbpms	RNA binding protein gene with multiple splicing
+81	0.206	1453282_at	Cxadr	coxsackievirus and adenovirus receptor
+82	0.207	1418359_at	Wbscr27	Williams Beuren syndrome chromosome region 27 (human)
+83	0.208	1429012_at	Arhgef6	Rac/Cdc42 guanine nucleotide exchange factor (GEF) 6
+84	0.209	1418174_at	Dbp	D site albumin promoter binding protein
+85	0.214	1451290_at	Map1lc3a	microtubule-associated protein 1 light chain 3 alpha
+86	0.216	1417009_at	C1r	complement component 1, r subcomponent
+87	0.217	1424770_at	Cald1	caldesmon 1
+88	0.221	1416188_at	Gm2a	GM2 ganglioside activator protein
+89	0.222	1448471_a_at	Ctla2a	cytotoxic T lymphocyte-associated protein 2 alpha
+90	0.223	1426743_at		Dip3 beta
+91	0.224	1418099_at	Tnfrsf1b	tumor necrosis factor receptor superfamily, member 1b
+92	0.228	1429028_at	Dock11	dedicator of cytokinesis 11
+93	0.228	1438684_at	Nuak1	ZNUAK family, SNF1-like kinase, 1
+94	0.23	1418569_at	Fblim1	filamin binding LIM protein 1
+95	0.233	1442005_at	AW987390	expressed sequence AW987390
+96	0.234	1418663_at	Mpdz	multiple PDZ domain protein
+97	0.235	1454800_at		protein containing single MORN motif in testis
+98	0.236	1416811_s_at	Ctla2a /// Ctla2b	cytotoxic T lymphocyte-associated protein 2 alpha /// cytotoxic T lymphocyte-associated protein 2 beta
+99	0.237	1447602_x_at	Sulf2	sulfatase 2
+100	0.237	1436067_at	Zbtb10	zinc finger and BTB domain containing 10
+101	0.238	1417294_at	Akr7a5	aldo-keto reductase family 7, member A5 (aflatoxin aldehyde reductase)
+102	0.239	1455048_at	Igsf3	immunoglobulin superfamily, member 3
+103	0.24	1435043_at	Plcb1	phospholipase C, beta 1
+104	0.241	1434089_at	Synpo	synaptopodin
+105	0.241	1448494_at	Gas1	growth arrest specific 1
+106	0.244	1453313_at	Sesn3	sestrin 3
+107	0.246	1439087_a_at	1500004A08Rik	RIKEN cDNA 1500004A08 gene
+108	0.246	1428547_at	Nt5e	5 nucleotidase, ecto
+109	0.247	1417600_at	Slc15a2	solute carrier family 15 (H+/peptide transporter), member 2
+110	0.249	1422645_at	Hfe	hemochromatosis
+111	0.251	1417849_at		glucocorticoid induced gene 1
+112	0.252	1436320_at		CDNA clone IMAGE:1328649
+113	0.258	1426272_at	Lmbr1	limb region 1
+114	0.259	1418346_at	Insl6	insulin-like 6
+115	0.263	1427165_at	Il13ra1	interleukin 13 receptor, alpha 1
+116	0.263	1417305_at	Apeg1	aortic preferentially expressed gene 1
+117	0.264	1423680_at	Fads1	fatty acid desaturase 1
+118	0.267	1449141_at	Fblim1	filamin binding LIM protein 1
+119	0.269	1416411_at	Gstm2	glutathione S-transferase, mu 2
+120	0.272	1451148_at	Pink1	PTEN induced putative kinase 1
+121	0.273	1418710_at	Cd59a	CD59a antigen
+122	0.273	1450696_at	Psmb9	proteosome (prosome, macropain) subunit, beta type 9 (large multifunctional protease 2)
+123	0.274	1425895_a_at	Id1	inhibitor of DNA binding 1
+124	0.275	1451775_s_at	Il13ra1	interleukin 13 receptor, alpha 1
+125	0.276	1427164_at	Il13ra1	interleukin 13 receptor, alpha 1
+126	0.278	1418981_at	Casp12	caspase 12
+127	0.278	1433575_at	Sox4	SRY-box containing gene 4
+128	0.278	1434172_at	Cnr1	cannabinoid receptor 1 (brain)
+129	0.278	1432410_a_at	Bmp7	bone morphogenetic protein 7
+130	0.278	1428343_at	Rcor3	REST corepressor 3
+131	0.281	1454783_at	Il13ra1	interleukin 13 receptor, alpha 1
+132	0.282	1452789_at	Snn	stannin
+133	0.282	1428446_at		dynein 2 light intermediate chain
+134	0.283	1424392_at	Adhfe1	alcohol dehydrogenase, iron containing, 1
+135	0.284	1455582_at	C1qtnf1	C1q and tumor necrosis factor related protein 1
+136	0.284	1419584_at	AI428795	expressed sequence AI428795
+137	0.285	1447864_s_at	Pogk	pogo transposable element with KRAB domain
+138	0.286	1452646_at	Trp53inp2	tumor protein p53 inducible nuclear protein 2
+139	0.286	1429001_at	Pir	pirin
+140	0.286	1449168_a_at	Akap2	A kinase (PRKA) anchor protein 2
+141	0.288	1423753_at	Bambi	BMP and activin membrane-bound inhibitor, homolog (Xenopus laevis)
+142	0.288	1436736_x_at	D0H4S114	DNA segment, human D4S114
+143	0.289	1423298_at	Add3	adducin 3 (gamma)
+144	0.29	1426574_a_at	Add3	adducin 3 (gamma)
+145	0.291	1451450_at	2010011I20Rik	RIKEN cDNA 2010011I20 gene
+146	0.291	1416441_at		plasma glutamate carboxypeptidase
+147	0.292	1448241_at	Gm2a	GM2 ganglioside activator protein
+148	0.292	1421791_at	Ang3	angiogenin, ribonuclease A family, member 3
+149	0.293	1460617_s_at	Rab6b	RAB6B, member RAS oncogene family
+150	0.293	1419978_s_at	D10Ertd610e	DNA segment, Chr 10, ERATO Doi 610, expressed
+151	0.293	1419323_at	Padi1	peptidyl arginine deiminase, type I
+152	0.294	1452352_at	Ctla2b	cytotoxic T lymphocyte-associated protein 2 beta
+153	0.299	1435893_at	Vldlr	very low density lipoprotein receptor
+154	0.299	1425225_at	Fcgr3a	Fc fragment of IgG, low affinity IIIa, receptor
+155	0.3	1452330_a_at	Mxra8	matrix-remodelling associated 8
+156	0.3	1428332_at	1500004A08Rik	RIKEN cDNA 1500004A08 gene
+157	0.302	1448104_at	Aldh6a1	aldehyde dehydrogenase family 6, subfamily A1
+158	0.303	1447883_x_at	Map1lc3a	microtubule-associated protein 1 light chain 3 alpha
+159	0.303	1456133_x_at	Itgb5	integrin beta 5
+160	0.305	1454685_at		Transcribed locus
+161	0.305	1428695_at	9130227C08Rik	RIKEN cDNA 9130227C08 gene
+162	0.305	1418243_at	Fcna	ficolin A
+163	0.306	1455242_at	Foxp1	Forkhead box P1
+164	0.307	1448664_a_at	Apeg1	aortic preferentially expressed gene 1
+165	0.307	1435456_at	AI428795	expressed sequence AI428795
+166	0.308	1453289_at	Eif2c4	eukaryotic translation initiation factor 2C, 4
+167	0.311	1435222_at	Foxp1	forkhead box P1
+168	0.311	1447260_at	H2-Bl /// LOC547349	histocompatibility 2, blastocyst /// similar to MHC class I antigen precursor
+169	0.312	1419495_at	Immp2l	inner mitochondrial membrane peptidase 2-like (S. cerevisiae)
+170	0.312	1429104_at	0610025L06Rik	RIKEN cDNA 0610025L06 gene
+171	0.313	1448143_at	Aldh2	aldehyde dehydrogenase 2, mitochondrial
+172	0.314	1435078_at	3526402J09Rik	RIKEN cDNA 3526402J09 gene
+173	0.315	1436614_at	AI843639	expressed sequence AI843639
+174	0.315	1417533_a_at	Itgb5	integrin beta 5
+175	0.316	1418192_at	Mnt	max binding protein
+176	0.318	1431429_a_at	Arl4	ADP-ribosylation factor-like 4
+177	0.321	1454967_at	A930001N09Rik	RIKEN cDNA A930001N09 gene
+178	0.322	1433804_at	Jak1	Janus kinase 1
+179	0.323	1429053_at	1110012J17Rik	RIKEN cDNA 1110012J17 gene
+180	0.325	1422178_a_at	Rab17	RAB17, member RAS oncogene family
+181	0.327	1428758_at	1810054O13Rik	RIKEN cDNA 1810054O13 gene
+182	0.327	1421840_at	Abca1	ATP-binding cassette, sub-family A (ABC1), member 1
+183	0.328	1460273_a_at	Birc1b	baculoviral IAP repeat-containing 1b
+184	0.33	1435776_at	LOC545365	similar to novel protein
+185	0.33	1436515_at	E030004N02Rik	RIKEN cDNA E030004N02 gene
+186	0.331	1450106_a_at	Evl	Ena-vasodilator stimulated phosphoprotein
+187	0.331	1456005_a_at	Bcl2l11	BCL2-like 11 (apoptosis facilitator)
+188	0.332	1428651_at	4930429H24Rik	RIKEN cDNA 4930429H24 gene
+189	0.333	1449526_a_at	Gdpd3	glycerophosphodiester phosphodiesterase domain containing 3
+190	0.333	1438081_at		Transcribed locus
+191	0.334	1424988_at	Mylip	myosin regulatory light chain interacting protein
+192	0.334	1423495_at	Decr2	2-4-dienoyl-Coenzyme A reductase 2, peroxisomal
+193	0.335	1449271_a_at	Hebp2	heme binding protein 2
+194	0.336	1423584_at	Igfbp7	insulin-like growth factor binding protein 7
+195	0.336	1418072_at	Hist1h2bc	histone 1, H2bc
+196	0.337	1422504_at	Glrb	glycine receptor, beta subunit
+197	0.338	1417018_at	Efemp2	epidermal growth factor-containing fibulin-like extracellular matrix protein 2
+198	0.339	1449454_at	Bst1	bone marrow stromal cell antigen 1
+199	0.339	1423297_at	Add3	adducin 3 (gamma)
+200	0.341	1430526_a_at	Smarca2	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 2
+201	0.342	1428207_at	Bcl7a	B-cell CLL/lymphoma 7A
+202	0.342	1417534_at	Itgb5	integrin beta 5
+203	0.343	1450626_at	Manba	mannosidase, beta A, lysosomal
+204	0.343	1418412_at	Tpd52l1	tumor protein D52-like 1
+205	0.343	1429387_at	Grap	GRB2-related adaptor protein
+206	0.344	1441259_s_at	Wdr10	WD repeat domain 10
+207	0.347	1421938_at	Serhl	serine hydrolase-like
+208	0.347	1427692_a_at	Cask	calcium/calmodulin-dependent serine protein kinase (MAGUK family)
+209	0.348	1439341_at	AK220484	cDNA sequence AK220484
+210	0.348	1441937_s_at	Pink1	PTEN induced putative kinase 1
+211	0.349	1418925_at	Celsr1	cadherin EGF LAG seven-pass G-type receptor 1
+212	0.349	1425605_a_at	Lmbr1	limb region 1
+213	0.35	1417010_at	Zfp238	zinc finger protein 238
+214	0.351	1425534_at	Stau2	staufen (RNA binding protein) homolog 2 (Drosophila)
+215	0.351	1449949_a_at	Cxadr	coxsackievirus and adenovirus receptor
+216	0.352	1420772_a_at	Tsc22d3	TSC22 domain family 3
+217	0.352	1449556_at	H2-T23	histocompatibility 2, T region locus 23
+218	0.352	1417962_s_at	Ghr	growth hormone receptor
+219	0.353	1449453_at	Bst1	bone marrow stromal cell antigen 1
+220	0.354	1419402_at	Mns1	meiosis-specific nuclear structural protein 1
+221	0.355	1431322_at	Igsf3	immunoglobulin superfamily, member 3
+222	0.355	1435169_at	A930001N09Rik	RIKEN cDNA A930001N09 gene
+223	0.355	1427050_at	5730420B22Rik	RIKEN cDNA 5730420B22 gene
+224	0.356	1456393_at	2310002J21Rik	RIKEN cDNA 2310002J21 gene
+225	0.356	1424413_at	Ogfrl1	opioid growth factor receptor-like 1
+226	0.358	1423959_at	Ropn1l	ropporin 1-like
+227	0.358	1455793_at	BC035537	cDNA sequence BC035537
+228	0.358	1435092_at	Arl4	ADP-ribosylation factor-like 4
+229	0.359	1456377_x_at	0610025L06Rik	RIKEN cDNA 0610025L06 gene
+230	0.359	1417500_a_at	Tgm2	transglutaminase 2, C polypeptide
+231	0.36	1428021_at	Mccc2	methylcrotonoyl-Coenzyme A carboxylase 2 (beta)
+232	0.362	1423894_a_at	Dalrd3	DALR anticodon binding domain containing 3
+233	0.362	1417706_at	Naglu	alpha-N-acetylglucosaminidase (Sanfilippo disease IIIB)
+234	0.363	1451322_at	2310016A09Rik	RIKEN cDNA 2310016A09 gene
+235	0.366	1454931_at	Cri2	CREBBP/EP300 inhibitory protein 2
+236	0.367	1438183_x_at	Sdh1	sorbitol dehydrogenase 1
+237	0.367	1455936_a_at	Rbpms	RNA binding protein gene with multiple splicing
+238	0.367	1428513_at	Calcoco1	calcium binding and coiled coil domain 1
+239	0.368	1435836_at	Pdk1	Pyruvate dehydrogenase kinase, isoenzyme 1
+240	0.369	1455087_at	D7Ertd715e	DNA segment, Chr 7, ERATO Doi 715, expressed
+241	0.369	1434002_at	Ches1	checkpoint supressor 1
+242	0.369	1422184_a_at	Ak1	adenylate kinase 1
+243	0.369	1424420_at	Ccpg1	cell cycle progression 1
+244	0.371	1424768_at	Cald1	caldesmon 1
+245	0.372	1421899_a_at	Mr1	major histocompatibility complex, class I-related
+246	0.372	1416401_at	Kai1	kangai 1 (suppression of tumorigenicity 6, prostate)
+247	0.372	1449442_at	Pex11a	peroxisomal biogenesis factor 11a
+248	0.372	1449297_at	Casp12	caspase 12
+249	0.373	1433837_at	8430408G22Rik	RIKEN cDNA 8430408G22 gene
+250	0.373	1445574_at		Transcribed locus
+251	0.374	1416289_at	Plod1	procollagen-lysine, 2-oxoglutarate 5-dioxygenase 1
+252	0.374	1438477_a_at	Mcee	methylmalonyl CoA epimerase
+253	0.374	1450784_at	Reck	reversion-inducing-cysteine-rich protein with kazal motifs
+254	0.375	1435260_at	Sdccag8	Serologically defined colon cancer antigen 8
+255	0.376	1433805_at	Jak1	Janus kinase 1
+256	0.376	1436617_at	Cetn4	centrin 4
+257	0.376	1455467_at		Similar to CG14142-PA
+258	0.378	1421011_at	Dhrs8	dehydrogenase/reductase (SDR family) member 8
+259	0.38	1435448_at	Bcl2l11	BCL2-like 11 (apoptosis facilitator)
+260	0.381	1416522_a_at	Grcc10	gene rich cluster, C10 gene
+261	0.381	1452416_at	Il6ra	interleukin 6 receptor, alpha
+262	0.381	1445275_at		Transcribed locus
+263	0.381	1423475_at	Cnnm2	cyclin M2
+264	0.384	1418176_at	Vdr	vitamin D receptor
+265	0.384	1429514_at	Ppap2b	phosphatidic acid phosphatase type 2B
+266	0.384	1428115_a_at	Rab2b	RAB2B, member RAS oncogene family
+267	0.386	1456412_a_at		putative phosphatase
+268	0.387	1424168_a_at
+269	0.387	1453960_a_at	Capzb	capping protein (actin filament) muscle Z-line, beta
+270	0.387	1421140_a_at	Foxp1	forkhead box P1
+271	0.388	1426624_a_at	Ypel3	yippee-like 3 (Drosophila)
+272	0.388	1422438_at	Ephx1	epoxide hydrolase 1, microsomal
+273	0.389	1425586_a_at	Mlph	melanophilin
+274	0.389	1418962_at	1110005F07Rik	RIKEN cDNA 1110005F07 gene
+275	0.389	1437829_s_at	Eef2k	eukaryotic elongation factor-2 kinase
+276	0.39	1449520_at	AI428795	expressed sequence AI428795
+277	0.39	1416002_x_at	Cotl1	coactosin-like 1 (Dictyostelium)
+278	0.392	1432276_at	4930519F16Rik	RIKEN cDNA 4930519F16 gene
+279	0.394	1424242_at	Bphl	biphenyl hydrolase-like (serine hydrolase, breast epithelial mucin-associated antigen)
+280	0.394	1416630_at	Id3	inhibitor of DNA binding 3
+281	0.395	1422965_at	Agtrap	angiotensin II, type I receptor-associated protein
+282	0.395	1441944_s_at		Transcribed locus
+283	0.396	1417259_a_at	Capzb	capping protein (actin filament) muscle Z-line, beta
+284	0.396	1460623_at	Scap2	Src family associated phosphoprotein 2
+285	0.397	1433819_s_at	Agpat3	1-acylglycerol-3-phosphate O-acyltransferase 3
+286	0.397	1434642_at	Dhrs8	dehydrogenase/reductase (SDR family) member 8
+287	0.398	1455049_at	Igsf3	immunoglobulin superfamily, member 3
+288	0.398	1416354_at	Rbmx	RNA binding motif protein, X chromosome
+289	0.399	1419767_at	Padi3	peptidyl arginine deiminase, type III
+290	0.399	1454840_at	Mccc2	methylcrotonoyl-Coenzyme A carboxylase 2 (beta)
+291	0.399	1448095_at		Transcribed locus
+292	0.4	1448477_at	Chst12	carbohydrate sulfotransferase 12
+293	0.401	1451364_at	Polr3gl	polymerase (RNA) III (DNA directed) polypeptide G like
+294	0.401	1452527_a_at	P2rx4	purinergic receptor P2X, ligand-gated ion channel 4
+295	0.401	1418175_at	Vdr	vitamin D receptor
+296	0.403	1424354_at	1110007F12Rik	RIKEN cDNA 1110007F12 gene
+297	0.403	1451361_a_at	BC027342	cDNA sequence BC027342
+298	0.404	1416795_at	Cryl1	crystallin, lamda 1
+299	0.404	1426734_at	BC022623	cDNA sequence BC022623
+300	0.406	1416612_at	Cyp1b1	cytochrome P450, family 1, subfamily b, polypeptide 1
+301	0.406	1427357_at	Cda	cytidine deaminase
+302	0.406	1438294_at	Sca1	spinocerebellar ataxia 1 homolog (human)
+303	0.406	1417635_at	Spa17	sperm autoantigenic protein 17
+304	0.408	1449383_at	Adssl1	adenylosuccinate synthetase like 1
+305	0.408	1429816_at	Armc3	armadillo repeat containing 3
+306	0.408	1459850_x_at	Glrb	glycine receptor, beta subunit
+307	0.408	1427321_s_at	Cxadr	coxsackievirus and adenovirus receptor
+308	0.409	1417211_a_at	1110032A03Rik	RIKEN cDNA 1110032A03 gene
+309	0.41	1424922_a_at	Brd4	bromodomain containing 4
+310	0.41	1452024_a_at	Ldb1	LIM domain binding 1
+311	0.41	1459896_at	Pogk	pogo transposable element with KRAB domain
+312	0.411	1425525_a_at	P2rx4	purinergic receptor P2X, ligand-gated ion channel 4
+313	0.412	1425533_a_at	Stau2	staufen (RNA binding protein) homolog 2 (Drosophila)
+314	0.412	1437537_at	Casp9	caspase 9
+315	0.413	1417501_at	Fbxo6b	F-box only protein 6b
+316	0.414	1418840_at	Pdcd4	programmed cell death 4
+317	0.414	1433571_at	A130038L21Rik	RIKEN cDNA A130038L21 gene
+318	0.414	1417066_at	Cabc1	chaperone, ABC1 activity of bc1 complex like (S. pombe)
+319	0.415	1424866_at	Usp43	ubiquitin specific protease 43
+320	0.415	1435221_at	Foxp1	Forkhead box P1
+321	0.417	1417879_at	Nenf	neuron derived neurotrophic factor
+322	0.417	1451803_a_at	Vegfb	vascular endothelial growth factor B
+323	0.418	1455558_at	Gm114	gene model 114, (NCBI)
+324	0.418	1430421_a_at	BC010787	cDNA sequence BC010787
+325	0.418	1458324_x_at		16 days embryo head cDNA, RIKEN full-length enriched library, clone:C130051K14 product:unknown EST, full insert sequence
+326	0.419	1421027_a_at	Mef2c	myocyte enhancer factor 2C
+327	0.42	1434784_s_at	D15Ertd405e	DNA segment, Chr 15, ERATO Doi 405, expressed
+328	0.42	1421141_a_at	Foxp1	forkhead box P1
+329	0.42	1439108_at	Mll5	myeloid/lymphoid or mixed-lineage leukemia 5
+330	0.421	1425523_at	2600011C06Rik	RIKEN cDNA 2600011C06 gene
+331	0.421	1450611_at	Orm3	orosomucoid 3
+332	0.421	1418025_at	Bhlhb2	basic helix-loop-helix domain containing, class B2
+333	0.421	1435485_at	C230096C10Rik	RIKEN cDNA C230096C10 gene
+334	0.422	1426146_a_at	Chpt1	choline phosphotransferase 1
+335	0.422	1454658_at	Ilvbl	ilvB (bacterial acetolactate synthase)-like
+336	0.422	1456316_a_at	Acbd3	acyl-Coenzyme A binding domain containing 3
+337	0.424	1452817_at	Smyd3	SET and MYND domain containing 3
+338	0.424	1434034_at	Cerk	ceramide kinase
+339	0.425	1426280_at	AV249152	expressed sequence AV249152
+340	0.425	1435155_at	Cgn	cingulin
+341	0.426	1425281_a_at	Tsc22d3	TSC22 domain family 3
+342	0.426	1453913_a_at	Tap2	transporter 2, ATP-binding cassette, sub-family B (MDR/TAP)
+343	0.427	1422293_a_at	Kctd1	potassium channel tetramerisation domain containing 1
+344	0.427	1434783_at	D15Ertd405e	DNA segment, Chr 15, ERATO Doi 405, expressed
+345	0.429	1434387_at	AI429612	expressed sequence AI429612
+346	0.43	1435280_at	AI452195	expressed sequence AI452195
+347	0.43	1452540_a_at	Hist1h2bc /// Hist1h2be /// Hist1h2bl /// Hist1h2bm /// Hist1h2bp	histone 1, H2bc /// histone 1, H2be /// histone 1, H2bl /// histone 1, H2bm /// histone 1, H2bp
+348	0.431	1451912_a_at	Fgfrl1	fibroblast growth factor receptor-like 1
+349	0.431	1429390_at	Acpl2	acid phosphatase-like 2
+350	0.432	1416493_at	Ddost	dolichyl-di-phosphooligosaccharide-protein glycotransferase
+351	0.432	1460328_at	Brd3	bromodomain containing 3
+352	0.432	1453573_at	Hist1h3d	histone1, H3d
+353	0.432	1439613_at		soluble adenylyl cyclase
+354	0.432	1425801_x_at	Cotl1	coactosin-like 1 (Dictyostelium)
+355	0.433	1433803_at	Jak1	Janus kinase 1
+356	0.434	1436591_at	BC023744	cDNA sequence BC023744
+357	0.434	1448410_at	Ube4b	ubiquitination factor E4B, UFD2 homolog (S. cerevisiae)
+358	0.434	1416926_at	Trp53inp1	transformation related protein 53 inducible nuclear protein 1
+359	0.435	1435142_at	SFT2 domain containing 2	SFT2 domain containing 2
+360	0.435	1424694_at	2010011I20Rik	RIKEN cDNA 2010011I20 gene
+361	0.435	1456026_at	8030451K01Rik	RIKEN cDNA 8030451K01 gene
+362	0.436	1431339_a_at	Efhd2	EF hand domain containing 2
+363	0.436	1455642_a_at	Tspan17	tetraspanin 17
+364	0.437	1435141_at	SFT2 domain containing 2	SFT2 domain containing 2
+365	0.437	1451574_at	Bcl9	B-cell CLL/lymphoma 9
+366	0.438	1432472_a_at	Mccc2	methylcrotonoyl-Coenzyme A carboxylase 2 (beta)
+367	0.438	1421571_a_at	Ly6c	lymphocyte antigen 6 complex, locus C
+368	0.438	1434145_s_at	Serhl	serine hydrolase-like
+369	0.44	1435994_at		Adult male corpus striatum cDNA, RIKEN full-length enriched library, clone:C030012J07 product:unknown EST, full insert sequence
+370	0.441	1423963_at	Wdr26	WD repeat domain 26
+371	0.441	1426584_a_at	Sdh1	sorbitol dehydrogenase 1
+372	0.441	1427564_at	Diap2	diaphanous homolog 2 (Drosophila)
+373	0.442	1417468_at	Nit1	nitrilase 1
+374	0.442	1449013_at	Eef2k	eukaryotic elongation factor-2 kinase
+375	0.442	1435716_x_at	Snrpn	small nuclear ribonucleoprotein N
+376	0.442	1428372_at	St5	suppression of tumorigenicity 5
+377	0.442	1450637_a_at	Aebp1	AE binding protein 1
+378	0.443	1448605_at	Rhoc	ras homolog gene family, member C
+379	0.443	1417034_at	Trappc6a	trafficking protein particle complex 6A
+380	0.444	1447278_at	BC027092	cDNA sequence BC027092
+381	0.444	1428326_s_at	Hrsp12	heat-responsive protein 12
+382	0.445	1437403_at	E130306M17Rik	RIKEN cDNA E130306M17 gene
+383	0.446	1424175_at	Tef	thyrotroph embryonic factor
+384	0.447	1438255_at	Ches1	checkpoint supressor 1
+385	0.447	1428791_at	Ube2h	ubiquitin-conjugating enzyme E2H
+386	0.447	1422774_at	1700088E04Rik	RIKEN cDNA 1700088E04 gene
+387	0.447	1417603_at	Per2	period homolog 2 (Drosophila)
+388	0.447	1416572_at	Mmp14	matrix metalloproteinase 14 (membrane-inserted)
+389	0.448	1418365_at	Ctsh	cathepsin H
+390	0.448	1416958_at	Nr1d2	nuclear receptor subfamily 1, group D, member 2
+391	0.448	1452668_x_at	Rab2b	RAB2B, member RAS oncogene family
+392	0.451	1428692_at	1110033O09Rik	RIKEN cDNA 1110033O09 gene
+393	0.452	1443897_at	Ddit3	DNA-damage inducible transcript 3
+394	0.452	1429174_at	Wdr34	WD repeat domain 34
+395	0.453	1448665_at	Dmd	dystrophin, muscular dystrophy
+396	0.453	1455962_at	Hhat	hedgehog acyltransferase
+397	0.454	1420731_a_at	Csrp2	cysteine and glycine-rich protein 2
+398	0.454	1448908_at	Ppap2b	phosphatidic acid phosphatase type 2B
+399	0.454	1433942_at	Myo6	myosin VI
+400	0.454	1433672_at	4732479N06Rik	RIKEN cDNA 4732479N06 gene
+401	0.454	1425476_at	Col4a5	procollagen, type IV, alpha 5
+402	0.454	1448710_at	Cxcr4	chemokine (C-X-C motif) receptor 4
+403	0.455	1419595_a_at	Ggh	gamma-glutamyl hydrolase
+404	0.455	1416584_at	Man2b2	mannosidase 2, alpha B2
+405	0.455	1449047_at	1600020H07Rik	RIKEN cDNA 1600020H07 gene
+406	0.456	1451126_at	Maf1	MAF1 homolog (S. cerevisiae)
+407	0.456	1448905_at	Nme3	expressed in non-metastatic cells 3
+408	0.456	1422473_at	Pde4b	phosphodiesterase 4B, cAMP specific
+409	0.457	1435348_at	D930009K15Rik	RIKEN cDNA D930009K15 gene
+410	0.457	1448951_at	Tnfrsf1b	tumor necrosis factor receptor superfamily, member 1b
+411	0.457	1428342_at	Rcor3	REST corepressor 3
+412	0.458	1418890_a_at	Rab3d	RAB3D, member RAS oncogene family
+413	0.458	1452106_at	Npnt	nephronectin
+414	0.459	1435763_at	Tbc1d16	TBC1 domain family, member 16
+415	0.459	1419283_s_at	Tns1	tensin 1
+416	0.459	1433593_at	Ypel5	yippee-like 5 (Drosophila)
+417	0.46	1416831_at	Neu1	neuraminidase 1
+418	0.46	1434301_at	D330050I23Rik	RIKEN cDNA D330050I23 gene
+419	0.461	1420375_at	Kif3a	kinesin family member 3A
+420	0.461	1452349_x_at	Ifi205 /// Mnda	interferon activated gene 205 /// myeloid cell nuclear differentiation antigen
+421	0.461	1424503_at	Rab22a	RAB22A, member RAS oncogene family
+422	0.462	1449147_at	Chst1	carbohydrate (keratan sulfate Gal-6) sulfotransferase 1
+423	0.464	1433668_at	Pnrc1	proline-rich nuclear receptor coactivator 1
+424	0.464	1438678_at	1500011K16Rik	RIKEN cDNA 1500011K16 gene
+425	0.464	1423549_at	Slc1a4	solute carrier family 1 (glutamate/neutral amino acid transporter), member 4
+426	0.465	1424414_at	Ogfrl1	opioid growth factor receptor-like 1
+427	0.465	1436795_at	9630058J23Rik	RIKEN cDNA 9630058J23 gene
+428	0.466	1450839_at	D0H4S114	DNA segment, human D4S114
+429	0.466	1450378_at	Tapbp	TAP binding protein
+430	0.467	1419365_at	Pex11a	peroxisomal biogenesis factor 11a
+431	0.467	1432073_at	1700113I22Rik	RIKEN cDNA 1700113I22 gene
+432	0.467	1424951_at	Baiap2l1	BAI1-associated protein 2-like 1
+433	0.468	1460307_at	Akt3	thymoma viral proto-oncogene 3
+434	0.468	1424412_at	Ogfrl1	opioid growth factor receptor-like 1
+435	0.468	1435479_at
+436	0.469	1428270_at	Glt8d1	glycosyltransferase 8 domain containing 1
+437	0.469	1421402_at	Mta3	metastasis associated 3
+438	0.469	1438315_x_at	Akr7a5	aldo-keto reductase family 7, member A5 (aflatoxin aldehyde reductase)
+439	0.469	1448383_at	Mmp14	matrix metalloproteinase 14 (membrane-inserted)
+440	0.47	1417298_at	Ebpl	emopamil binding protein-like
+441	0.47	1434223_at	1810007P19Rik	RIKEN cDNA 1810007P19 gene
+442	0.471	1439107_a_at	Mll5	myeloid/lymphoid or mixed-lineage leukemia 5
+443	0.471	1417133_at	Pmp22	peripheral myelin protein
+444	0.471	1417101_at	Hspa2	heat shock protein 2
+445	0.472	1451526_at	Arhgap12	Rho GTPase activating protein 12
+446	0.473	1428619_at	2310005N03Rik	RIKEN cDNA 2310005N03 gene
+447	0.473	1440984_at	5830435C13Rik	RIKEN cDNA 5830435C13 gene
+448	0.473	1435589_at	AI842788	expressed sequence AI842788
+449	0.473	1448330_at	Gstm1	glutathione S-transferase, mu 1
+450	0.474	1418448_at	Rras	Harvey rat sarcoma oncogene, subgroup R
+451	0.474	1417987_at	Btd	biotinidase
+452	0.474	1435449_at	Bcl2l11	BCL2-like 11 (apoptosis facilitator)
+453	0.475	1426992_at	Xpr1	xenotropic and polytropic retrovirus receptor 1
+454	0.475	1428467_at	Tardbp	TAR DNA binding protein
+455	0.475	1434133_s_at
+456	0.475	1426383_at	Cry2	cryptochrome 2 (photolyase-like)
+457	0.476	1453173_at	2310005E10Rik	RIKEN cDNA 2310005E10 gene
+458	0.476	1428650_at	Tns1	tensin 1
+459	0.476	1416798_a_at	Nme4	expressed in non-metastatic cells 4, protein
+460	0.477	1434567_at	4732496O08Rik	RIKEN cDNA 4732496O08 gene
+461	0.477	1422078_at	Akt3	thymoma viral proto-oncogene 3
+462	0.477	1418573_a_at	Raly	hnRNP-associated with lethal yellow
+463	0.478	1435879_at	Akt3	thymoma viral proto-oncogene 3
+464	0.478	1416808_at	Nid1	nidogen 1
+465	0.48	1452882_at	Pgrmc2	progesterone receptor membrane component 2
+466	0.48	1448407_at	4632428N05Rik	RIKEN cDNA 4632428N05 gene
+467	0.48	1451326_at	1810013B01Rik	RIKEN cDNA 1810013B01 gene
+468	0.481	1416418_at	Gabarapl1	gamma-aminobutyric acid (GABA(A)) receptor-associated protein-like 1
+469	0.481	1432499_a_at	Ube4b	ubiquitination factor E4B, UFD2 homolog (S. cerevisiae)
+470	0.482	1415972_at	Marcks	myristoylated alanine rich protein kinase C substrate
+471	0.482	1428852_at	Dock3	dedicator of cyto-kinesis 3
+472	0.483	1460387_a_at	Ysg2	yolk sac gene 2
+473	0.483	1418818_at	Aqp5	aquaporin 5
+474	0.484	1428983_at	Scx	scleraxis
+475	0.485	1453741_x_at	D1Ertd396e	DNA segment, Chr 1, ERATO Doi 396, expressed
+476	0.485	1452251_at	Nbea	neurobeachin
+477	0.486	1416344_at	Lamp2	lysosomal membrane glycoprotein 2
+478	0.486	1428340_s_at	Atp13a2	ATPase type 13A2
+479	0.487	1419053_at	Pex14	peroxisomal biogenesis factor 14
+480	0.487	1450967_at	4933428I03Rik	RIKEN cDNA 4933428I03 gene
+481	0.487	1433501_at	Ctso	cathepsin O
+482	0.487	1425616_a_at	2410005K17Rik	RIKEN cDNA 2410005K17 gene
+483	0.488	1431042_at	Paqr8	progestin and adipoQ receptor family member VIII
+484	0.488	1417636_at	Slc6a9	solute carrier family 6 (neurotransmitter transporter, glycine), member 9
+485	0.488	1418895_at	Scap2	src family associated phosphoprotein 2
+486	0.49	1418252_at	Padi2	peptidyl arginine deiminase, type II
+487	0.49	1422731_at	Limd1	LIM domains containing 1
+488	0.49	1456480_at	9330186A19Rik	RIKEN cDNA 9330186A19 gene
+489	0.491	1419668_at	Sgcb	sarcoglycan, beta (dystrophin-associated glycoprotein)
+490	0.491	1426855_at	D10Ertd610e	DNA segment, Chr 10, ERATO Doi 610, expressed
+491	0.491	1421830_at	Ak3l1	adenylate kinase 3 alpha-like 1
+492	0.492	1433558_at	Dab2ip	disabled homolog 2 (Drosophila) interacting protein
+493	0.494	1433468_at	6430527G18Rik	RIKEN cDNA 6430527G18 gene
+494	0.495	1432750_at	2810409C01Rik	RIKEN cDNA 2810409C01 gene
+495	0.495	1450187_a_at	Galt	galactose-1-phosphate uridyl transferase
+496	0.496	1424640_at	Arl10b	ADP-ribosylation factor-like 10B
+497	0.497	1448131_at	Mfn2	mitofusin 2
+498	0.497	1435498_at	Arfip2	ADP-ribosylation factor interacting protein 2
+499	0.498	1437785_at	Adamts9	a disintegrin-like and metalloprotease (reprolysin type) with thrombospondin type 1 motif, 9
+500	0.498	1416195_at		putative phosphatase
+501	0.498	1452137_at	Acbd3	acyl-Coenzyme A binding domain containing 3
+502	0.498	1423889_at	MGC5739	RIKEN cDNA 1700121I08 gene
+503	0.499	1434566_a_at	4732496O08Rik	RIKEN cDNA 4732496O08 gene
+504	0.499	1460367_at	Hbp1	high mobility group box transcription factor 1
+505	0.499	1417423_at	Grina	glutamate receptor, ionotropic, N-methyl D-asparate-associated protein 1 (glutamate binding)
+506	0.499	1421142_s_at	Foxp1	forkhead box P1
+507	0.5	1421898_a_at	Mr1	major histocompatibility complex, class I-related
+508	0.5	1419582_at	Cyp2c55	cytochrome P450, family 2, subfamily c, polypeptide 55
+509	0.5	1434643_at	Tbl1x	transducin (beta)-like 1 X-linked
+510	0.5	1416846_a_at	Pdzrn3	PDZ domain containing RING finger 3
+511	0.501	1460675_at	Igsf8	immunoglobulin superfamily, member 8
+512	0.501	1448490_at	Adck4	aarF domain containing kinase 4
+513	0.501	1417307_at	Dmd	dystrophin, muscular dystrophy
+514	0.501	1433616_a_at	2310028O11Rik	RIKEN cDNA 2310028O11 gene
+515	0.502	1417505_s_at	Il11ra1 /// Il11ra2	interleukin 11 receptor, alpha chain 1 /// interleukin 11 receptor, alpha chain 2
+516	0.502	1451096_at	Ndufs2	NADH dehydrogenase (ubiquinone) Fe-S protein 2
+517	0.502	1460241_a_at	St3gal5	ST3 beta-galactoside alpha-2,3-sialyltransferase 5
+518	0.502	1421861_at	Clstn1	calsyntenin 1
+519	0.502	1437122_at	Bcl2	B-cell leukemia/lymphoma 2
+520	0.502	1454988_s_at	Rab22a	RAB22A, member RAS oncogene family
+521	0.502	1431792_a_at	Stk11ip	serine/threonine kinase 11 interacting protein
+522	0.503	1422478_a_at	Acas2	acetyl-Coenzyme A synthetase 2 (ADP forming)
+523	0.505	1416419_s_at	Gabarapl1	gamma-aminobutyric acid (GABA(A)) receptor-associated protein-like 1
+524	0.505	1418942_at	Ccdc2	coiled-coil domain containing 2
+525	0.505	1455721_at	Gspt2	G1 to S phase transition 2
+526	0.506	1419927_s_at	Rabif	RAB interacting factor
+527	0.506	1425636_at	Hhat	hedgehog acyltransferase
+528	0.506	1435976_at
+529	0.506	1416303_at	Litaf	LPS-induced TN factor
+530	0.507	1423748_at	Pdk1	pyruvate dehydrogenase kinase, isoenzyme 1
+531	0.507	1435930_at	Zfp291	zinc finger protein 291
+532	0.508	1434441_at		Mus musculus, clone IMAGE:4015738, mRNA
+533	0.509	1416593_at	Glrx1	glutaredoxin 1 (thioltransferase)
+534	0.509	1453312_at	Iqwd1	IQ motif and WD repeats 1
+535	0.51	1418317_at	Lhx2	LIM homeobox protein 2
+536	0.51	1435772_at	Kif21b	kinesin family member 21B
+537	0.51	1448370_at	Ulk1	Unc-51 like kinase 1 (C. elegans)
+538	0.512	1423962_at	Wdr26	WD repeat domain 26
+539	0.512	1417455_at	Tgfb3	transforming growth factor, beta 3
+540	0.512	1427604_a_at	Atp9a	ATPase, class II, type 9A
+541	0.513	1416425_at	Pex19	peroxisome biogenesis factor 19
+542	0.513	1424595_at	F11r	F11 receptor
+543	0.513	1415727_at	Apoa1bp	apolipoprotein A-I binding protein
+544	0.513	1416315_at	Abhd4	abhydrolase domain containing 4
+545	0.513	1416416_x_at	Gstm1	glutathione S-transferase, mu 1
+546	0.514	1438061_at	4930523C07Rik	RIKEN cDNA 4930523C07 gene
+547	0.514	1425475_at	Col4a5	procollagen, type IV, alpha 5
+548	0.515	1453071_s_at	Kdelc2	KDEL (Lys-Asp-Glu-Leu) containing 2
+549	0.515	1423223_a_at	Prdx6	peroxiredoxin 6
+550	0.515	1434427_a_at	Rnf157	ring finger protein 157
+551	0.515	1434451_at	2900016G23Rik	RIKEN cDNA 2900016G23 gene
+552	0.516	1416766_at	Mosc2	MOCO sulphurase C-terminal domain containing 2
+553	0.517	1439965_at		Transcribed locus
+554	0.517	1452271_at	Xpr1	xenotropic and polytropic retrovirus receptor 1
+555	0.517	1428168_at	Mpzl1	myelin protein zero-like 1
+556	0.517	1429024_at	1110018J23Rik	RIKEN cDNA 1110018J23 gene
+557	0.517	1431126_a_at	0610011F06Rik	RIKEN cDNA 0610011F06 gene
+558	0.518	1452124_at	Ank3 /// 2900054D09Rik	ankyrin 3, epithelial /// RIKEN cDNA 2900054D09 gene
+559	0.518	1425196_a_at	Hint2	histidine triad nucleotide binding protein 2
+560	0.518	1435676_at	BC027092	cDNA sequence BC027092
+561	0.518	1455669_at	Wdr19	WD repeat domain 19
+562	0.518	1460634_at	Ralgds	ral guanine nucleotide dissociation stimulator
+563	0.518	1453159_at	Efhc1	EF-hand domain (C-terminal) containing 1
+564	0.519	1431469_a_at	Cxxc5	CXXC finger 5
+565	0.52	1437103_at	C330012H03Rik	RIKEN cDNA C330012H03 gene
+566	0.52	1424213_at	1200002M06Rik	RIKEN cDNA 1200002M06 gene
+567	0.52	1419298_at	Pon3	paraoxonase 3
+568	0.52	1449363_at	Atf3	activating transcription factor 3
+569	0.521	1417756_a_at	Lsp1	lymphocyte specific 1
+570	0.521	1439649_at	Adc	arginine decarboxylase
+571	0.522	1438416_at	Thrap5	thyroid hormone receptor associated protein 5
+572	0.522	1436038_a_at	Dscr5	Down syndrome critical region homolog 5 (human)
+573	0.522	1436818_a_at	Msi2h	Musashi homolog 2 (Drosophila)
+574	0.522	1438415_s_at	Yipf2	Yip1 domain family, member 2
+575	0.523	1424894_at	Rab13	RAB13, member RAS oncogene family
+576	0.523	1436318_at	Tardbp	TAR DNA binding protein
+577	0.523	1451357_at	E130307M08Rik	RIKEN cDNA E130307M08 gene
+578	0.524	1417435_at	Large	like-glycosyltransferase
+579	0.524	1455044_at	Tmem44	transmembrane protein 44
+580	0.525	1449376_at	Nicn1	nicolin 1
+581	0.525	1428769_at	Tatdn3	TatD DNase domain containing 3
+582	0.526	1448332_at	Pex19	peroxisome biogenesis factor 19
+583	0.526	1449841_at	Kif3a	kinesin family member 3A
+584	0.526	1424616_s_at
+585	0.527	1433518_at	Lcmt2	leucine carboxyl methyltransferase 2
+586	0.528	1416373_at	Nfs1	nitrogen fixation gene 1 (S. cerevisiae)
+587	0.528	1437398_a_at	Aldh9a1	aldehyde dehydrogenase 9, subfamily A1
+588	0.528	1417557_at	Ubxd1	UBX domain containing 1
+589	0.529	1420046_s_at	Maf1	MAF1 homolog (S. cerevisiae)
+590	0.529	1441967_at	BC023835	cDNA sequence, BC023835
+591	0.529	1437657_at	Zfp291	zinc finger protein 291
+592	0.529	1438010_at	D4Ertd429e	DNA segment, Chr 4, ERATO Doi 429, expressed
+593	0.529	1423038_at	Stx6	syntaxin 6
+594	0.529	1423068_at	4930553F24Rik	RIKEN cDNA 493055F24Rik
+595	0.529	1443832_s_at	Sdpr	serum deprivation response
+596	0.53	1417272_at	9130005N14Rik	RIKEN cDNA 9130005N14 gene
+597	0.53	1431694_a_at	Ctnnbip1	catenin beta interacting protein 1
+598	0.53	1419712_at	Il3ra	interleukin 3 receptor, alpha chain
+599	0.531	1451893_s_at	Magi1	membrane associated guanylate kinase, WW and PDZ domain containing 1
+600	0.531	1456756_at	E430016P22Rik	RIKEN cDNA E430016P22 gene
+601	0.532	1424614_at		FGF receptor activating protein 1
+602	0.532	1429065_at	1200009F10Rik	RIKEN cDNA 1200009F10 gene
+603	0.533	1423587_a_at	Exosc10	exosome component 10
+604	0.534	1428516_a_at	Spata11	spermatogenesis associated 11
+605	0.534	1440825_s_at	1700009P13Rik	RIKEN cDNA 1700009P13 gene
+606	0.534	1438401_at	Ubn1	Ubinuclein 1
+607	0.534	1460180_at	Hexb	hexosaminidase B
+608	0.535	1453004_at	3110004L20Rik	RIKEN cDNA 3110004L20 gene
+609	0.535	1426715_s_at	D11Ertd18e	DNA segment, Chr 11, ERATO Doi 18, expressed
+610	0.535	1415874_at	Spry1	sprouty homolog 1 (Drosophila)
+611	0.536	1455440_at	AI850629	Expressed sequence AI850629
+612	0.536	1418217_at	Nme7	non-metastatic cells 7, protein expressed in
+613	0.537	1424054_at	Btbd2	BTB (POZ) domain containing 2
+614	0.538	1417227_at	Mccc1	methylcrotonoyl-Coenzyme A carboxylase 1 (alpha)
+615	0.538	1428117_x_at
+616	0.539	1418318_at	Rnf128	ring finger protein 128
+617	0.54	1432143_a_at	Hbp1	high mobility group box transcription factor 1
+618	0.541	1439017_x_at	Adipor1	adiponectin receptor 1
+619	0.541	1455604_at	LOC545325	hypothetical protein LOC545325
+620	0.541	1419330_a_at	Gpa33	glycoprotein A33 (transmembrane)
+621	0.542	1427430_at	AI848100	expressed sequence AI848100
+622	0.542	1418000_a_at	Itm2b	integral membrane protein 2B
+623	0.542	1424263_at	2810003C17Rik	RIKEN cDNA 2810003C17 gene
+624	0.542	1437421_at	6330509M05Rik	RIKEN cDNA 6330509M05 gene
+625	0.542	1418005_at	Sdhb	succinate dehydrogenase complex, subunit B, iron sulfur (Ip)
+626	0.543	1427385_s_at	Actn1	actinin, alpha 1
+627	0.544	1433895_at	2310003P10Rik	RIKEN cDNA 2310003P10 gene
+628	0.544	1435634_at	A030012M09Rik	RIKEN cDNA A030012M09 gene
+629	0.544	1434177_at	Ece1	endothelin converting enzyme 1
+630	0.545	1449410_a_at	Gas5	growth arrest specific 5
+631	0.545	1437149_at	Slc6a6	solute carrier family 6 (neurotransmitter transporter, taurine), member 6
+632	0.545	1416778_at	Sdpr	serum deprivation response
+633	0.545	1459274_at		Transcribed locus
+634	0.546	1421018_at	1110018J18Rik	RIKEN cDNA 1110018J18 gene
+635	0.546	1451782_a_at	Slc29a1	solute carrier family 29 (nucleoside transporters), member 1
+636	0.546	1415904_at	Lpl	lipoprotein lipase
+637	0.547	1423141_at	Lip1	lysosomal acid lipase 1
+638	0.547	1425565_at	Rest	RE1-silencing transcription factor
+639	0.548	1419156_at	Sox4	SRY-box containing gene 4
+640	0.549	1416332_at	Cirbp	cold inducible RNA binding protein
+641	0.549	1454021_a_at	Exosc10	exosome component 10
+642	0.549	1424835_at	Gstm4	glutathione S-transferase, mu 4
+643	0.55	1417472_at	Myh9	myosin, heavy polypeptide 9, non-muscle
+644	0.55	1416942_at		type 1 tumor necrosis factor receptor shedding aminopeptidase regulator
+645	0.552	1451311_a_at	Adipor1	adiponectin receptor 1
+646	0.552	1415984_at	Acadm	acetyl-Coenzyme A dehydrogenase, medium chain
+647	0.552	1452620_at	Pck2	phosphoenolpyruvate carboxykinase 2 (mitochondrial)
+648	0.552	1424852_at	Mef2c	myocyte enhancer factor 2C
+649	0.552	1424745_at	2900006B13Rik	RIKEN cDNA 2900006B13 gene
+650	0.553	1448559_at	Flot1	flotillin 1
+651	0.553	1422938_at	Bcl2	B-cell leukemia/lymphoma 2
+652	0.553	1416654_at	Slc31a2	solute carrier family 31, member 2
+653	0.553	1454034_a_at	Usp21	ubiquitin specific protease 21
+654	0.553	1444396_at	Trp53inp2	Tumor protein p53 inducible nuclear protein 2
+655	0.553	1416779_at	Sdpr	serum deprivation response
+656	0.553	1418671_at	Capn5	calpain 5
+657	0.554	1427240_at	Dock6	dedicator of cytokinesis 6
+658	0.554	1423966_at	Cd99l2	Cd99 antigen-like 2
+659	0.554	1451891_a_at	Dysf	dysferlin
+660	0.555	1456641_at	1190007F08Rik	RIKEN cDNA 1190007F08 gene
+661	0.555	1433795_at	Tgfbr3	transforming growth factor, beta receptor III
+662	0.555	1419286_s_at	Cdv1	carnitine deficiency-associated gene expressed in ventricle 1
+663	0.555	1418474_at	1500005A01Rik	RIKEN cDNA 1500005A01 gene
+664	0.556	1433812_at	Lix1l	Lix1-like
+665	0.556	1428805_at	Slc35e3	solute carrier family 35, member E3
+666	0.556	1431190_x_at	Fahd2a	fumarylacetoacetate hydrolase domain containing 2A
+667	0.556	1449470_at	Dlx1	distal-less homeobox 1
+668	0.556	1428647_at	2310056B04Rik	RIKEN cDNA 2310056B04 gene
+669	0.557	1424646_at	Uckl1	uridine-cytidine kinase 1-like 1
+670	0.557	1456586_x_at	Mvp	major vault protein
+671	0.557	1428731_at	Usp54	ubiquitin specific protease 54
+672	0.557	1431680_a_at	Ptprk	protein tyrosine phosphatase, receptor type, K
+673	0.557	1449084_s_at	Sh3d19	SH3 domain protein D19
+674	0.557	1448956_at	Stard10	START domain containing 10
+675	0.557	1453365_at	Rabgap1l	RAB GTPase activating protein 1-like
+676	0.558	1437572_at	Dcp1b	DCP1 decapping enzyme homolog b (S. cerevisiae)
+677	0.558	1436596_at	H2afv	H2A histone family, member V
+678	0.558	1449418_s_at	Fbxo36	F-box only protein 36
+679	0.558	1452589_at	Ptk7	PTK7 protein tyrosine kinase 7
+680	0.559	1419667_at	Sgcb	sarcoglycan, beta (dystrophin-associated glycoprotein)
+681	0.559	1432494_a_at	1700019E19Rik	RIKEN cDNA 1700019E19 gene
+682	0.559	1420630_at	8430419L09Rik	RIKEN cDNA 8430419L09 gene
+683	0.56	1425684_at	2310005E10Rik	RIKEN cDNA 2310005E10 gene
+684	0.562	1451196_at	Ypel5	yippee-like 5 (Drosophila)
+685	0.562	1427927_at	AW049829	expressed sequence AW049829
+686	0.562	1420387_at	Mpv17	Mpv17 transgene, kidney disease mutant
+687	0.562	1448377_at	Slpi	secretory leukocyte protease inhibitor
+688	0.563	1423489_at	Mmd	monocyte to macrophage differentiation-associated
+689	0.563	1429896_at	5830408B19Rik	RIKEN cDNA 5830408B19 gene
+690	0.564	1425607_at	Hlcs	holocarboxylase synthetase (biotin- [propriony-Coenzyme A-carboxylase (ATP-hydrolysing)] ligase)
+691	0.564	1455038_at		Transcribed locus
+692	0.565	1435478_at	Wdr26	WD repeat domain 26
+693	0.565	1449554_at	Tle3	transducin-like enhancer of split 3, homolog of Drosophila E(spl)
+694	0.565	1455761_at	2310009B15Rik /// LOC545365	RIKEN cDNA 2310009B15 gene /// similar to novel protein
+695	0.565	1450769_s_at	Stard5	StAR-related lipid transfer (START) domain containing 5
+696	0.566	1418749_at	BC003498	cDNA sequence BC00398
+697	0.566	1448630_a_at	Sdhc	succinate dehydrogenase complex, subunit C, integral membrane protein
+698	0.566	1425699_a_at	Abhd14a	abhydrolase domain containing 14A
+699	0.566	1435549_at	Trpm4	transient receptor potential cation channel, subfamily M, member 4
+700	0.567	1439160_at	4732496O08Rik	RIKEN cDNA 4732496O08 gene
+701	0.567	1448067_at	AW011956	expressed sequence AW011956
+702	0.567	1452667_at	Rab2b	RAB2B, member RAS oncogene family
+703	0.568	1435473_at	Gm347	gene model 347, (NCBI)
+704	0.568	1460436_at	Ndst1	N-deacetylase/N-sulfotransferase (heparan glucosaminyl) 1
+705	0.568	1452370_s_at	B230208H17Rik	RIKEN cDNA B230208H17 gene
+706	0.569	1456767_at	Lrfn3	leucine rich repeat and fibronectin type III domain containing 3
+707	0.569	1431431_a_at	Nfs1	nitrogen fixation gene 1 (S. cerevisiae)
+708	0.569	1440771_at	Zkscan1	zinc finger with KRAB and SCAN domains 1
+709	0.569	1435475_at	Lman2l	lectin, mannose-binding 2-like
+710	0.57	1416946_a_at	Acaa1 /// MGC29978	acetyl-Coenzyme A acyltransferase 1 /// 3-ketoacyl-CoA thiolase B
+711	0.571	1448747_at	Fbxo32	F-box only protein 32
+712	0.572	1429321_at	Rnf149	ring finger protein 149
+713	0.572	1424615_at		FGF receptor activating protein 1
+714	0.572	1422563_at	Crry	complement receptor related protein
+715	0.572	1415973_at	Marcks	Myristoylated alanine rich protein kinase C substrate
+716	0.572	1435679_at	Optn	optineurin
+717	0.572	1426897_at	Rcc2	regulator of chromosome condensation 2
+718	0.573	1438971_x_at	Ube2h	ubiquitin-conjugating enzyme E2H
+719	0.574	1424695_at	2010011I20Rik	RIKEN cDNA 2010011I20 gene
+720	0.574	1443881_at	Pofut1	Protein O-fucosyltransferase 1
+721	0.575	1435596_at	A530088I07Rik	RIKEN cDNA A530088I07 gene
+722	0.575	1452621_at	Pcbd2	pterin 4 alpha carbinolamine dehydratase/dimerization cofactor of hepatocyte nuclear factor 1 alpha (TCF1) 2
+723	0.576	1418632_at	Ube2h	ubiquitin-conjugating enzyme E2H
+724	0.576	1419291_x_at	Gas5	growth arrest specific 5
+725	0.576	1435346_at	2310043N13Rik	RIKEN cDNA 2310043N13 gene
+726	0.577	1421873_s_at	Rab24	RAB24, member RAS oncogene family
+727	0.577	1451381_at	1810020D17Rik	RIKEN cDNA 1810020D17 gene
+728	0.577	1436866_at	Efna5	ephrin A5
+729	0.577	1417932_at	Il18	interleukin 18
+730	0.578	1419456_at	Dcxr	dicarbonyl L-xylulose reductase
+731	0.578	1416430_at	Cat	catalase
+732	0.578	1415971_at	Marcks	myristoylated alanine rich protein kinase C substrate
+733	0.579	1444503_at	Gbas	Glioblastoma amplified sequence
+734	0.579	1434134_at	Wdr42a	WD repeat domain 42A
+735	0.58	1452734_at	Rnaset2	ribonuclease T2
+736	0.58	1428382_at	Smarcc2	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily c, member 2
+737	0.581	1423745_at	1110031B06Rik	RIKEN cDNA 1110031B06 gene
+738	0.581	1427236_a_at	Mll5	myeloid/lymphoid or mixed-lineage leukemia 5
+739	0.581	1448427_at	Ndufa6	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 6 (B14)
+740	0.581	1428829_at	6820401H01Rik	RIKEN cDNA 6820401H01 gene
+741	0.582	1439496_at	4921524J06Rik	RIKEN cDNA 4921524J06 gene
+742	0.583	1450449_a_at	2900002H16Rik	RIKEN cDNA 2900002H16 gene
+743	0.583	1425968_s_at	Apeg1	aortic preferentially expressed gene 1
+744	0.583	1435085_at
+745	0.583	1424841_s_at	Rbks	ribokinase
+746	0.583	1429116_at	Slc17a5	solute carrier family 17 (anion/sugar transporter), member 5
+747	0.583	1423370_a_at	Csnk1g2	casein kinase 1, gamma 2
+748	0.583	1423224_at	4432405B04Rik	RIKEN cDNA 4432405B04 gene
+749	0.584	1437861_s_at
+750	0.584	1424625_a_at	6030446I19Rik	RIKEN cDNA 6030446I19 gene
+751	0.584	1417816_s_at	Tde1	tumor differentially expressed 1
+752	0.584	1425615_a_at	Pck2	phosphoenolpyruvate carboxykinase 2 (mitochondrial)
+753	0.584	1434225_at		SWA-70 protein
+754	0.584	1427951_s_at	1700009P13Rik	RIKEN cDNA 1700009P13 gene
+755	0.585	1449000_at	D10Jhu81e	DNA segment, Chr 10, Johns Hopkins University 81 expressed
+756	0.586	1455924_at	Rab6b	RAB6B, member RAS oncogene family
+757	0.587	1460346_at	Arsa	arylsulfatase A
+758	0.588	1455857_a_at	Rab2b	RAB2B, member RAS oncogene family
+759	0.588	1460167_at	Aldh7a1	aldehyde dehydrogenase family 7, member A1
+760	0.588	1417596_at	Eppb9	endothelial precursor protein B9
+761	0.588	1425028_a_at	Tpm2	tropomyosin 2, beta
+762	0.588	1437150_at	1700012H17Rik	RIKEN cDNA 1700012H17 gene
+763	0.589	1425312_s_at	D11Ertd636e	DNA segment, Chr 11, ERATO Doi 636, expressed
+764	0.589	1454978_at	Ttyh3	tweety homolog 3 (Drosophila)
+765	0.59	1430125_s_at	Pqlc1	PQ loop repeat containing 1
+766	0.59	1434021_at	C230096C10Rik	RIKEN cDNA C230096C10 gene
+767	0.59	1448986_x_at	Dnase2a	deoxyribonuclease II alpha
+768	0.591	1419924_at
+769	0.591	1418116_at		interferon alpha responsive gene
+770	0.591	1424654_at	Acp2	acid phosphatase 2, lysosomal
+771	0.591	1426968_a_at	Rdh10	retinol dehydrogenase 10 (all-trans)
+772	0.591	1453200_at	Rai1	retinoic acid induced 1
+773	0.592	1447277_s_at	Pcyox1	prenylcysteine oxidase 1
+774	0.592	1418996_a_at	4930469P12Rik	RIKEN cDNA 4930469P12 gene
+775	0.592	1416774_at	Wee1	wee 1 homolog (S. pombe)
+776	0.593	1451261_s_at	AW049765	expressed sequence AW049765
+777	0.593	1427844_a_at	Cebpb	CCAAT/enhancer binding protein (C/EBP), beta
+778	0.593	1431611_a_at	Igsf4a	immunoglobulin superfamily, member 4A
+779	0.593	1456056_a_at	D6Wsu116e	DNA segment, Chr 6, Wayne State University 116, expressed
+780	0.594	1438176_x_at	1110031B06Rik	RIKEN cDNA 1110031B06 gene
+781	0.594	1429559_at	Gnaq	guanine nucleotide binding protein, alpha q polypeptide
+782	0.595	1435401_at	9430097H08Rik	RIKEN cDNA 9430097H08 gene
+783	0.595	1455030_at		16 days neonate cerebellum cDNA, RIKEN full-length enriched library, clone:9630021C19 product:unknown EST, full insert sequence
+784	0.595	1423543_at		SWA-70 protein
+785	0.596	1415756_a_at	Snapap	SNAP-associated protein
+786	0.596	1451479_a_at	Tmem53	transmembrane protein 53
+787	0.596	1416304_at	Litaf	LPS-induced TN factor
+788	0.597	1444242_at		Transcribed locus
+789	0.598	1439539_at	Tram2	translocating chain-associating membrane protein 2
+790	0.598	1430533_a_at	Ctnnb1	catenin (cadherin associated protein), beta 1, 88kDa
+791	0.598	1419867_a_at	Ankhd1	ankyrin repeat and KH domain containing 1
+792	0.599	1428916_s_at	Sirt5	sirtuin 5 (silent mating type information regulation 2 homolog) 5 (S. cerevisiae)
+793	0.599	1421950_at	Pfdn2	prefoldin 2
+794	0.599	1420170_at	Myh9	myosin, heavy polypeptide 9, non-muscle
+795	0.6	1416662_at	Sardh	sarcosine dehydrogenase
+796	0.6	1435455_at	C79267	expressed sequence C79267
+797	0.6	1439478_at		mitochondrial acyl-CoA thioesterase 1
+798	0.601	1428714_at	Pgrmc2	progesterone receptor membrane component 2
+799	0.602	1428646_at	2310056B04Rik	RIKEN cDNA 2310056B04 gene
+800	0.602	1436560_at	AW124694	expressed sequence AW124694
+801	0.603	1417612_at	Ier5	immediate early response 5
+802	0.604	1448372_a_at	Tmem4	transmembrane protein 4
+803	0.605	1451525_at	Arhgap12	Rho GTPase activating protein 12
+804	0.605	1460211_a_at	Kdelr1	KDEL (Lys-Asp-Glu-Leu) endoplasmic reticulum protein retention receptor 1
+805	0.606	1424812_at	BC017158	cDNA sequence BC017158
+806	0.606	1451401_a_at	0610009K11Rik	RIKEN cDNA 0610009K11 gene
+807	0.607	1451040_at	Hars2	histidyl tRNA synthetase 2
+808	0.607	1448648_at	9130005N14Rik	RIKEN cDNA 9130005N14 gene
+809	0.607	1434193_at	Zfp258	zinc finger protein 258
+810	0.607	1451783_a_at	Kifap3	kinesin-associated protein 3
+811	0.609	1422054_a_at	Skil	SKI-like
+812	0.61	1422895_at	Vamp4	vesicle-associated membrane protein 4
+813	0.61	1444235_at		CDNA clone MGC:14005 IMAGE:3660311, complete cds
+814	0.61	1423965_at	Cd99l2	Cd99 antigen-like 2
+815	0.61	1424496_at	5133401N09Rik	RIKEN cDNA 5133401N09 gene
+816	0.61	1423426_at	1300012G16Rik	RIKEN cDNA 1300012G16 gene
+817	0.61	1452235_at	Man1b1	Mannosidase, alpha, class 1B, member 1
+818	0.61	1421872_at	Rab24	RAB24, member RAS oncogene family
+819	0.611	1452601_a_at	Acbd6	acyl-Coenzyme A binding domain containing 6
+820	0.611	1451036_at	Spg21	spastic paraplegia 21 homolog (human)
+821	0.612	1452603_at	5330431N19Rik	RIKEN cDNA 5330431N19 gene
+822	0.612	1436431_at	1700025G04Rik	RIKEN cDNA 1700025G04 gene
+823	0.612	1426587_a_at	Stat3	signal transducer and activator of transcription 3
+824	0.613	1415736_at	Pfdn5	prefoldin 5
+825	0.613	1434069_at	BC067047	cDNA sequence BC067047
+826	0.614	1452119_at	2600005C20Rik	RIKEN cDNA 2600005C20 gene
+827	0.614	1426235_a_at	Glul	glutamate-ammonia ligase (glutamine synthase)
+828	0.614	1451974_at	Osbpl2	oxysterol binding protein-like 2
+829	0.615	1437783_x_at	Tmem4	transmembrane protein 4
+830	0.615	1422821_s_at	Stard5	StAR-related lipid transfer (START) domain containing 5
+831	0.616	1420641_a_at	Sqrdl	sulfide quinone reductase-like (yeast)
+832	0.616	1416773_at	Wee1	wee 1 homolog (S. pombe)
+833	0.617	1424628_a_at	1500032D16Rik	RIKEN cDNA 1500032D16 gene
+834	0.618	1424148_a_at	AW049765	expressed sequence AW049765
+835	0.618	1456070_at	5430405N12Rik	RIKEN cDNA 5430405N12 gene
+836	0.618	1449198_a_at	St3gal5	ST3 beta-galactoside alpha-2,3-sialyltransferase 5
+837	0.619	1434130_at	Lhfpl2	lipoma HMGIC fusion partner-like 2
+838	0.619	1436546_at	6330549D23Rik	RIKEN cDNA 6330549D23 gene
+839	0.619	1448491_at	Ech1	enoyl coenzyme A hydratase 1, peroxisomal
+840	0.62	1452143_at	Spnb2	spectrin beta 2
+841	0.62	1456080_a_at	Tde1	Tumor differentially expressed 1
+842	0.62	1427195_at		Mus musculus, clone IMAGE:3983419, mRNA
+843	0.621	1417530_a_at	Srp9	signal recognition particle 9
+844	0.621	1449001_at	Ivd	isovaleryl coenzyme A dehydrogenase
+845	0.621	1431931_a_at	Rabl2a	RAB, member of RAS oncogene family-like 2A
+846	0.621	1452161_at	Tiparp	TCDD-inducible poly(ADP-ribose) polymerase
+847	0.622	1416857_at	Sdf2	stromal cell derived factor 2
+848	0.622	1429429_s_at	A030012M09Rik	RIKEN cDNA A030012M09 gene
+849	0.623	1424840_at	Rbks	ribokinase
+850	0.623	1452890_at	D630041K24Rik	RIKEN cDNA D630041K24 gene
+851	0.623	1431832_x_at	Exosc10	exosome component 10
+852	0.623	1460038_at	Pou3f1	POU domain, class 3, transcription factor 1
+853	0.623	1449283_a_at	Mapk12	mitogen-activated protein kinase 12
+854	0.623	1418929_at	Esrrbl1	estrogen-related receptor beta like 1
+855	0.624	1434548_at	Tde1	tumor differentially expressed 1
+856	0.624	1417062_at	2810037C14Rik	RIKEN cDNA 2810037C14 gene
+857	0.625	1416427_at	Ccni	cyclin I
+858	0.625	1424597_at	ORF19	open reading frame 19
+859	0.625	1426525_at	Arid2	AT rich interactive domain 2 (Arid-rfx like)
+860	0.627	1423263_at	H3f3a	H3 histone, family 3A
+861	0.627	1424530_at	Sec14l2	SEC14-like 2 (S. cerevisiae)
+862	0.627	1448847_at	Tde1	tumor differentially expressed 1
+863	0.628	1434062_at	Rabgap1l	RAB GTPase activating protein 1-like
+864	0.628	1415906_at	Tmsb4x	thymosin, beta 4, X chromosome
+865	0.628	1428743_at	Bri3bp	Bri3 binding protein
+866	0.629	1426362_at	5730537D05Rik	RIKEN cDNA 5730537D05 gene
+867	0.629	1448547_at	Rassf3	Ras association (RalGDS/AF-6) domain family 3
+868	0.63	1434865_a_at	Exoc7	exocyst complex component 7
+869	0.631	1418846_at	Ap4m1	adaptor-related protein complex AP-4, mu 1
+870	0.632	1417316_at	Them2	thioesterase superfamily member 2
+871	0.632	1419665_a_at	Nupr1	nuclear protein 1
+872	0.632	1421610_at	Cx3cl1	chemokine (C-X3-C motif) ligand 1
+873	0.632	1428556_at	2610022G08Rik	RIKEN cDNA 2610022G08 gene
+874	0.632	1448753_at	Srp9	signal recognition particle 9
+875	0.632	1416661_at	Eif3s10	eukaryotic translation initiation factor 3, subunit 10 (theta)
+876	0.633	1450843_a_at	Serpinh1	serine (or cysteine) proteinase inhibitor, clade H, member 1
+877	0.634	1434557_at	Hip1	huntingtin interacting protein 1
+878	0.634	1423532_at	Rnf44	ring finger protein 44
+879	0.635	1456502_at	Dyrk2	dual-specificity tyrosine-(Y)-phosphorylation regulated kinase 2
+880	0.635	1456733_x_at	Serpinh1	serine (or cysteine) proteinase inhibitor, clade H, member 1
+881	0.636	1428113_at	4930403J22Rik	RIKEN cDNA 4930403J22 gene
+882	0.636	1426312_at	Bre	brain and reproductive organ-expressed protein
+883	0.636	1426857_a_at	Hsdl2	hydroxysteroid dehydrogenase like 2
+884	0.636	1418258_s_at	6720463E02Rik	RIKEN cDNA 6720463E02 gene
+885	0.637	1428842_a_at	Ngfrap1	nerve growth factor receptor (TNFRSF16) associated protein 1
+886	0.638	1423061_at	Arvcf	armadillo repeat gene deleted in velo-cardio-facial syndrome
+887	0.638	1452711_at	Spg3a	spastic paraplegia 3A homolog (human)
+888	0.638	1449407_at	Cdv1	carnitine deficiency-associated gene expressed in ventricle 1
+889	0.638	1427574_s_at	Sh3d19	SH3 domain protein D19
+890	0.639	1455133_s_at	AI848100	expressed sequence AI848100
+891	0.639	1423779_at	Chchd6	coiled-coil-helix-coiled-coil-helix domain containing 6
+892	0.64	1437448_s_at	Ctnnd1	catenin (cadherin associated protein), delta 1
+893	0.641	1439038_at	9130227C08Rik	RIKEN cDNA 9130227C08 gene
+894	0.642	1428029_a_at	H2afv	H2A histone family, member V
+895	0.642	1417255_at	Wdtc2	WD and tetratricopeptide repeats 2
+896	0.643	1428608_at	Mylc2b	myosin light chain, regulatory B
+897	0.643	1450008_a_at	Ctnnb1	catenin (cadherin associated protein), beta 1, 88kDa
+898	0.643	1419666_x_at	Nupr1	nuclear protein 1
+899	0.643	1452258_at	6820402O20Rik	RIKEN cDNA 6820402O20 gene
+900	0.643	1416708_a_at	D7Bwg0611e	DNA segment, Chr 7, Brigham & Womens Genetics 0611 expressed
+901	0.644	1422785_at	Rasa2	RAS p21 protein activator 2
+902	0.644	1416830_at	0610031J06Rik	RIKEN cDNA 0610031J06 gene
+903	0.644	1427903_at	Phpt1	phosphohistidine phosphatase 1
+904	0.644	1423414_at	Ptgs1	prostaglandin-endoperoxide synthase 1
+905	0.645	1448422_at	Tmed4	transmembrane emp24 protein transport domain containing 4
+906	0.645	1427952_at	Aipl1	aryl hydrocarbon receptor-interacting protein-like 1
+907	0.647	1424349_a_at	Lpgat1	lysophosphatidylglycerol acyltransferase 1
+908	0.647	1448727_at	Tle6	transducin-like enhancer of split 6, homolog of Drosophila E(spl)
+909	0.648	1448546_at	Rassf3	Ras association (RalGDS/AF-6) domain family 3
+910	0.649	1427909_at	2410015M20Rik	RIKEN cDNA 2410015M20 gene
+911	0.649	1428214_at	Tomm7	translocase of outer mitochondrial membrane 7 homolog (yeast)
+912	0.649	1422286_a_at	Tgif	TG interacting factor
+913	0.649	1440920_at	Mmp14	Matrix metalloproteinase 14 (membrane-inserted)
+914	0.65	1451587_a_at	Tiprl	TIP41, TOR signalling pathway regulator-like (S. cerevisiae)
+915	0.651	1452832_s_at	Cds2	CDP-diacylglycerol synthase (phosphatidate cytidylyltransferase) 2
+916	0.651	1429181_at	1700009P17Rik	RIKEN cDNA 1700009P17 gene
+917	0.653	1432000_a_at	Dedd	death effector domain-containing
+918	0.653	1415798_at	Ddr1	discoidin domain receptor family, member 1
+919	0.653	1435394_s_at	Rhoc	ras homolog gene family, member C
+920	0.653	1416607_at	4931406C07Rik	RIKEN cDNA 4931406C07 gene
+921	0.653	1428579_at	Fmnl2	formin-like 2
+922	0.654	1416789_at	Idh3g	isocitrate dehydrogenase 3 (NAD+), gamma
+923	0.654	1431279_s_at	D630041K24Rik	RIKEN cDNA D630041K24 gene
+924	0.654	1450727_a_at	Poldip2	polymerase (DNA-directed), delta interacting protein 2
+925	0.654	1424753_at	Nudt14	nudix (nucleoside diphosphate linked moiety X)-type motif 14
+926	0.655	1456012_x_at	Rnaset2	ribonuclease T2
+927	0.655	1433604_x_at	Aldoa	aldolase 1, A isoform
+928	0.657	1449157_at	Nr2c1	nuclear receptor subfamily 2, group C, member 1
+929	0.657	1434129_s_at	Lhfpl2	lipoma HMGIC fusion partner-like 2
+930	0.658	1436918_at	1810038L18Rik	RIKEN cDNA 1810038L18 gene
+931	0.658	1440329_s_at	Gpatc2	G patch domain containing 2
+932	0.659	1416327_at	Ufc1	ubiquitin-fold modifier conjugating enzyme 1
+933	0.66	1452164_at	BC038286	cDNA sequence BC038286
+934	0.66	1434799_x_at	Aldoa	aldolase 1, A isoform
+935	0.661	1420160_s_at	Myo1e	myosin IE
+936	0.662	1423262_a_at	H3f3a	H3 histone, family 3A
+937	0.662	1431354_a_at	Fars2	phenylalanine-tRNA synthetase 2 (mitochondrial)
+938	0.662	1423833_a_at	Brp44	brain protein 44
+939	0.662	1423973_a_at	Arf3	ADP-ribosylation factor 3
+940	0.662	1419359_at	Hexim1	hexamethylene bis-acetamide inducible 1
+941	0.662	1417697_at	Soat1	sterol O-acyltransferase 1
+942	0.664	1448335_s_at	Ccni	cyclin I
+943	0.664	1449230_at	Idua	iduronidase, alpha-L-
+944	0.666	1423945_a_at	Pkig	protein kinase inhibitor, gamma
+945	0.666	1417892_a_at	Sirt3	sirtuin 3 (silent mating type information regulation 2, homolog) 3 (S. cerevisiae)
+946	0.667	1448063_at	Iqsec2	IQ motif and Sec7 domain 2
+947	0.667	1424795_a_at	1700001O22Rik	RIKEN cDNA 1700001O22 gene
+948	0.667	1418088_a_at	Stx8	syntaxin 8
+949	0.668	1415995_at	Casp6	caspase 6
+950	0.669	1434205_at	Ppp2r5c	protein phosphatase 2, regulatory subunit B (B56), gamma isoform
+951	0.671	1435259_s_at	D2Ertd217e	DNA segment, Chr 2, ERATO Doi 217, expressed
+952	0.671	1428197_at	Tspan9	tetraspanin 9
+953	0.672	1418901_at	Cebpb	CCAAT/enhancer binding protein (C/EBP), beta
+954	0.673	1452696_a_at	4933439C10Rik	RIKEN cDNA 4933439C10 gene
+955	0.677	1427879_at	1810031K17Rik	RIKEN cDNA 1810031K17 gene
+956	0.678	1456131_x_at	Dag1	dystroglycan 1
+957	0.678	1428429_at	Rgmb	RGM domain family, member B
+958	0.68	1418988_at	Pex7	peroxisome biogenesis factor 7
+959	0.68	1424403_a_at	D5Bwg0860e	DNA segment, Chr 5, Brigham & Womens Genetics 0860 expressed
+960	0.68	1418886_s_at	Idh3b	isocitrate dehydrogenase 3 (NAD+) beta
+961	0.681	1417691_at	Bin3	bridging integrator 3
+962	0.682	1451742_a_at	Ugp2	UDP-glucose pyrophosphorylase 2
+963	0.683	1437488_at	Slc9a9	solute carrier family 9 (sodium/hydrogen exchanger), isoform 9
+964	0.683	1428857_at	2610304F09Rik	RIKEN cDNA 2610304F09 gene
+965	0.685	1417785_at	Pla1a	phospholipase A1 member A
+966	0.686	1450885_at	Dffa	DNA fragmentation factor, alpha subunit
+967	0.688	1443951_at	C230076A16Rik	RIKEN cDNA C230076A16 gene
+968	0.688	1418419_at	4632423N09Rik	RIKEN cDNA 4632423N09 gene
+969	0.691	1435450_at	Cpne3	copine III
+970	0.693	1443000_at	D3Ertd300e	DNA segment, Chr 3, ERATO Doi 300, expressed
+971	0.696	1427069_at	Fbxo28	F-box protein 28
+972	0.696	1418101_a_at	Rtn3	reticulon 3
+973	0.696	1418885_a_at	Idh3b	isocitrate dehydrogenase 3 (NAD+) beta
+974	0.698	1439490_at		Transcribed locus
+975	0.699	1450084_s_at	Ivns1abp	influenza virus NS1A binding protein
+976	0.701	1451569_at	Nr2c2	nuclear receptor subfamily 2, group C, member 2
+977	0.706	1458536_at	Ccni	Cyclin I
+978	0.707	1455890_x_at	Snrpn /// LOC545062	small nuclear ribonucleoprotein N /// similar to small nuclear ribonucleoparticle-associated protein
+979	0.713	1428215_x_at	Tomm7	translocase of outer mitochondrial membrane 7 homolog (yeast)
+980	0.718	1416381_a_at	Prdx5	peroxiredoxin 5
+981	0.719	1455446_x_at	Acadsb	acyl-Coenzyme A dehydrogenase, short/branched chain
