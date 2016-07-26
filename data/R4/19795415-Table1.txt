@@ -1,0 +1,263 @@
+Annotation	Name	GenBank	Regulated genes d14(-) vrs d30(+) Rv WT	Regulated genes d14(-) vrs d30(+) Rv KO	Regulated genes d14(-) vrs d30(+) Ra WT	Regulated genes d14(-) vrs d30(+) Ra KO	Regulated genes Ra(-) vrs Rv(+) d14 WT	Regulated genes Ra(-) vrs Rv(+) d14 KO	Regulated genes Ra(-) vrs Rv(+) d30 WT	Regulated genes Ra(-) vrs Rv(+) d30 KO	Function
+toll-like receptor 1	TLR1	NM_030682		2.1						2.9	I. Host–pathogen interaction
+toll-like receptor 2	TLR2	NM_011905		4.1	4	4.6	2.6			2.4	I. Host–pathogen interaction
+toll-like receptor 5	TLR5	AF186107		2.7	7.1	7.2		2.2	-2.9		I. Host–pathogen interaction
+toll-like receptor 6	TLR6	NM_011604	2	4.4					2.1		I. Host–pathogen interaction
+peptidoglycan recognition protein 1	PGLYRP1	NM_009402		2.4						2.5	I. Host–pathogen interaction
+complement component 3a receptor 1 / CD11b	C3AR1	NM_009779	2.8	3.8						2.5	I. Host–pathogen interaction
+complement component 3 receptor 4 / CD11c	ITGAX	NM_021334			2.2	2.5			-2	2.1	I. Host–pathogen interaction
+complement component 3 receptor 3 / Mac-1	ITGAM	NM_008401		3.9	2.6			2.4		3.4	I. Host–pathogen interaction
+complement component 4B	C4B	NM_009780	-2.1			-2.5				3.4	I. Host–pathogen interaction
+complement component 3	C3	NM_009778			-2.4	-3.9		2.1	2.2	2.6	I. Host–pathogen interaction
+major histocompatibility complex, class II, DR beta 1	HLA-DRB1	NM_010382	2.4		2.1					2.1	I. Host–pathogen interaction
+major histocompatibility complex, class II, DO beta	HLA-DOB	NM_010389		-2.5						-3.4	I. Host–pathogen interaction
+major histocompatibility complex, class I, A	HLA-A	BC042572	-2.6	2.1	3.2	3.8	3.2	3	2.3	4.4	I. Host–pathogen interaction
+immunoglobulin kappa chain complex	IGK	BC002112	2.9	2.9		2		4.3		4.7	I. Host–pathogen interaction
+immunoglobulin heavy constant alpha 1	IGHA1	AF296432		2.3						4.2	I. Host–pathogen interaction
+immunoglobulin heavy constant mu	IGHM	AJ294737			6.4	7.3	3.6			3.7	I. Host–pathogen interaction
+MHC class II transactivator	CIITA	NM_007575		2.7						2.2	I. Host–pathogen interaction
+transporter 1, sub-family B (MDR/TAP)	TAP1	NM_013683		2.7	2.3	3	4.4	4.4		2.6	I. Host–pathogen interaction
+Fc fragment of IgG, high affinity Ia receptor / CD64	FCGR1A	BC025535		4.1	3	3.4	4.1	4.1	2.7	6.3	I. Host–pathogen interaction
+Fc fragment of IgE, high affinity I, receptor ? / CD23	FCER1G	NM_010185		4.1					2.5	6.3	I. Host–pathogen interaction
+Fc fragment of IgG, low affinity IIa receptor / CD32	FCGR2A	NM_010188	2.1	3.1	2.5					3.2	I. Host–pathogen interaction
+Fc fragment of IgG, low affinity IIb receptor / CD32	FCGR2B	NM_010187	2.2	4.2			2.4		2.4	4.9	I. Host–pathogen interaction
+Fc fragment of IgG, low affinity IIIa receptor / CD16a	FCGR3A	NM_144559	2.6		5	5.9	2	2.6			I. Host–pathogen interaction
+C-type lectin domain family 1, member A	CLEC1A	NM_175526		-4.9		2.3					I. Host–pathogen interaction
+C-type lectin domain family 1, member B	CLEC1B	NM_019985		-2.1	2.8	3.3			-2.1		I. Host–pathogen interaction
+C-type lectin domain family 4 member E / MINCLE	CLEC4E	NM_019948	6	6.9			3.6	3.4		2.3	I. Host–pathogen interaction
+C-type lectin domain family 4, member M / DC-SIGN	CLEC4M	NM_130904		-3.6							I. Host–pathogen interaction
+C-type lectin domain family 5 member A / MDL-1	CLEC5A	AK046600	3.6	5.4	5.5		3.5	2.6	2.4	3.1	I. Host–pathogen interaction
+C-type lectin domain family 7, member A / Dectin-1	CLEC7A	NM_020008	2.1		7.8	5.1	3.9				I. Host–pathogen interaction
+mannose receptor, C type 2	MRC2	AK028157	-3.1	-2.8						-2.4	I. Host–pathogen interaction
+formyl peptide receptor 1	FPR1	NM_013521		4.2						4.7	I. Host–pathogen interaction
+formyl peptide receptor 2	FPR2	NM_008039	3.5	7.2	3.4	4.9	2.7		3	3.3	I. Host–pathogen interaction
+peptidoglycan recognition protein 1	PGLYRP1	NM_009402		2.4						2.5	I. Host–pathogen interaction
+CD6 molecule	CD6	NM_009852	2	4.5	3.4	2.6	2.3	2.3		4.4	I. Host–pathogen interaction
+CD68 molecule	CD68	NM_009853	2.1	3	2.1					2.5	I. Host–pathogen interaction
+CD14 molecule, LPS receptor	CD14	NM_009841	2.6		2.3	2.6	2.1		2.7		I. Host–pathogen interaction
+lipopolysaccharide-induced TNF factor	LITAF	NM_019980			-2.1	-2.2			2.5	7	I. Host–pathogen interaction
+macrophage stimulating 1	MST1R	NM_009074	-2.9		-4.5	-4				4.1	I. Host–pathogen interaction
+nucleotide-binding oligomerization domain 1	NOD1	NM_172729	-2.1		-2.6	-2.9				4.1	I. Host–pathogen interaction
+nucleotide-binding oligomerization domain 2	NOD2	NM_145857		3.1						2.7	I. Host–pathogen interaction
+receptor-interacting serine-threonine kinase 2	RIPK2	NM_138952			-3.3				3.7	3.4	I. Host–pathogen interaction
+NLR family, CARD domain containing 3	NLRC3	AK084199			-2.4	-2.8			2.6	6.8	I. Host–pathogen interaction
+PYD and CARD domain containing 3	CARD3	NM_138952			-3.3				3.7	3.4	I. Host–pathogen interaction
+PYD and CARD domain containing 5	CARD5	NM_023258	3.1	2.5	6.5		2	2.8			I. Host–pathogen interaction
+pentraxin-related gene, rapidly induced by IL-1 beta	PTX3	NM_008987		6.4						7	I. Host–pathogen interaction
+CD8a molecule	CD8A	AK088414	2.5	5.1			2.5		3.3	4.4	II. Immune cell populations and activation
+CD8b molecule	CD8B	NM_009858	2.1	4.1			2.2		2.3	3.3	II. Immune cell populations and activation
+CD1d molecule	CD1D	NM_007639		2.3					3.1	5.2	II. Immune cell populations and activation
+natural killer tumor recognition sequence	NKTR	NM_010918			-2.7	-3.1			2.6	5.1	II. Immune cell populations and activation
+prosaposin	PSAP	NM_011179				-2.6				3.2	II. Immune cell populations and activation
+CD28 molecule	CD28	NM_007642	2.4	2.7	4.9	6.9				-3.2	II. Immune cell populations and activation
+T-bet	TBX21	NM_019507	2.2	3.1	5.2		2.3	2.2			II. Immune cell populations and activation
+Gata-3	GATA3	NM_008091		-2.1						-2.3	II. Immune cell populations and activation
+Thy-1 cell surface antigen	THY1	NM_009382	2.6	2.3	3.5	4.8	2.2	2.3		2.8	II. Immune cell populations and activation
+chemokine (C-C motif) receptor 1	CCR1	NM_009912	2.3		3.8	4.4				3.7	II. Immune cell populations and activation
+chemokine (C-C motif) receptor 5	CCR5	NM_009917	3.6	4.2			2.8	2.6			II. Immune cell populations and activation
+interleukin 8 receptor, beta	CXCR2	NM_009909		4						5.4	II. Immune cell populations and activation
+chemokine (C-X-C motif) receptor 3	CXCR3	NM_009910	2.5	2.9	5.9	6	2.7	2.8			II. Immune cell populations and activation
+chemokine (C-X3-C motif) receptor 1	CX3CR1	NM_009987				-2.4			2.5	2.5	II. Immune cell populations and activation
+CSF-3 receptor / G-CSF receptor	CSF3R	NM_007782		2.8						3.4	II. Immune cell populations and activation
+CSF-2 receptor, alpha / GM-CSF receptor	CSF2RA	NM_009970	-2.4		-2.4	-3.4	2.1			4.1	II. Immune cell populations and activation
+macrophage stimulating 1 receptor	MST1R	NM_009074	-2.9		-4.5	-4				4.1	II. Immune cell populations and activation
+macrophage stimulating 1 receptor	MST1R	NM_009074	-2.9		-4.5	-4				4.1	II. Immune cell populations and activation
+macrophage receptor with collagenous structure	MARCO	NM_010766		4.5	3.8	2.5				3	II. Immune cell populations and activation
+leukotriene B4 receptor	LTB4R	NM_008519		3.1						3	II. Immune cell populations and activation
+TNF receptor-associated factor 5	TRAF5	NM_011633			-2.3	-3				2.1	II. Immune cell populations and activation
+tumor necrosis factor receptor superfamily 1A	TNFRSF1A	NM_011609			-2.3	-2.4				3.9	II. Immune cell populations and activation
+tumor necrosis factor receptor superfamily 1B	TNFRSF1B	NM_011610		5.4	2.4	2.8				5	II. Immune cell populations and activation
+tumor necrosis factor receptor superfamily 4	TNFRSF4	NM_011659		3.3	2.2					3.2	II. Immune cell populations and activation
+tumor necrosis factor receptor superfamily 11b	TNFRSF11B	NM_008764		2.4						2.7	II. Immune cell populations and activation
+tumor necrosis factor ligand superfamily 13b	TNFSF13B	AK034121		2.5	4.9	4.6			-2.9	2.6	II. Immune cell populations and activation
+tumor necrosis factor receptor superfamily 17	TNFRSF17	NM_011608		-2.5	3.2	4.2			-2.5	-4.5	II. Immune cell populations and activation
+protein tyrosine phosphatase receptor C / B220	PTPRC	AK088215	2.9	2	3.4	3.4	2.6	2.4		-2.7	II. Immune cell populations and activation
+CD226 molecule	CD226	AF416980	3		4	5.2				-5.8	II. Immune cell populations and activation
+killer cell lectin-like receptor subfamily K 1	KLRK1	AF054819			4.9	7.1	2.9	2.5		-2.1	II. Immune cell populations and activation
+killer cell lectin-like receptor subfamily G 1	KLRG1	NM_016970	4.1		7.4			2.2		-2.7	II. Immune cell populations and activation
+killer cell lectin-like receptor family E 1	KLRE1	NM_153590	2.2		2.5	4					II. Immune cell populations and activation
+killer cell lectin-like receptor subfamily D 1	KLRD1	NM_010654	2.2		4.9	6				-4.5	II. Immune cell populations and activation
+killer cell lectin-like receptor subfamily B, 1C	KLRB1C	NM_008527				2.8				-4.8	II. Immune cell populations and activation
+killer cell lectin-like receptor, subfamily A 8	KLRA8	NM_010650		-2.5		3.1					II. Immune cell populations and activation
+killer cell lectin-like receptor, subfamily A 7	KLRA7	NM_014194		-4	2.5	4.1					II. Immune cell populations and activation
+killer cell lectin-like receptor, subfamily A 3	KLRA3	NM_010648		-2.5	3.3	5			-2.4	-5.8	II. Immune cell populations and activation
+killer cell lectin-like receptor, subfamily A 16	KLRA16	NM_013794		-5	4.7			2.5			II. Immune cell populations and activation
+natural cytotoxicity triggering receptor 1	NCR1	NM_010746		-3.5		2					II. Immune cell populations and activation
+complement component (3b/4b) receptor 1	CR1	AK017702	2.2		4	5.8				-4.2	II. Immune cell populations and activation
+interleukin 1 receptor, type II	IL1R2	NM_010555	2.2		4.5	3.3		2.5	2.1		II. Immune cell populations and activation
+interleukin 1 receptor-like 1	IL1RL1	NM_010743		6.4						4.3	II. Immune cell populations and activation
+interleukin 2 receptor, gamma	IL2RG	NM_013563				-2.1		2	2.5	3.7	II. Immune cell populations and activation
+interleukin 12 receptor, beta 1	IL12RB1	NM_008353		5.6			4.6	4.9		2.5	II. Immune cell populations and activation
+interleukin 13 receptor, alpha 1	IL13RA1	NM_133990		2.8						2.3	II. Immune cell populations and activation
+interleukin 15 receptor, alpha	IL15RA	NM_008358		2						2.2	II. Immune cell populations and activation
+interleukin 18 receptor accessory protein	IL18RAP	NM_010553		4					2.7	3.4	II. Immune cell populations and activation
+CD97 molecule	CD97	NM_011925	-3.4							3.1	II. Immune cell populations and activation
+CD177 molecule	CD177	NM_026862		5.5					2	6	II. Immune cell populations and activation
+leukocyte immunoglobulin-like receptor A5	LILRA5	XM_486062	3.2		4.9	5.3				-4.2	II. Immune cell populations and activation
+triggering receptor expressed on myeloid cells 1	TREM1	NM_021406		8		2.4				4.7	II. Immune cell populations and activation
+TRAF3 interacting protein 2	TRAF3IP2	NM_134000			-4	-3.7			2.4	3.4	II. Immune cell populations and activation
+interleukin 1, alpha	IL1A	NM_010554					2.3		2.9		III. Immune response
+interleukin 1, beta	IL1B	NM_008361			3.6	3.1	3.4				III. Immune response
+interleukin 1 family, member 9	IL1F9	NM_153511		4						4.1	III. Immune response
+interleukin 1 receptor antagonist	IL1RN	NM_031167		6.8			2	4.2	2.4	6.5	III. Immune response
+interleukin 4 induced 1	IL4I1	NM_010215	3.1	3.7	6.5	7.6	2.5	2.4			III. Immune response
+interleukin 6 (interferon, beta 2)	IL6	NM_031168		6			7.9	7.7		2.4	III. Immune response
+interleukin 11	IL11	NM_008350		5.6						4.6	III. Immune response
+interleukin 12A, p35	IL12A	NM_008351		2.1							III. Immune response
+interleukin 12B, p40	IL12B	NM_008352		-2.1	7.3	5.2	5.3	5.3		-2.4	III. Immune response
+interleukin 15	IL15	NM_008357								-2	III. Immune response
+interleukin 16	IL16	NM_010551								-2	III. Immune response
+interleukin 17A	IL17A	NM_010552	3.3								III. Immune response
+interleukin 17D / IL27a	IL17D	NM_145837		-2.3						-2.5	III. Immune response
+interleukin 18 binding protein	IL18BP	NM_010531	2.5	3.7	4.3	5.3	2.8	2.8		2.4	III. Immune response
+interleukin 21	IL21	NM_021782	5.2								III. Immune response
+Epstein-Barr virus-induced 3 / IL-27b, IL-35b	EBI3	NM_015766		2.5						2.9	III. Immune response
+tumor necrosis factor alpha	TNFalpha	NM_013693		5.7	2.7	3.2	3.5		2.1	4.2	III. Immune response
+tumor necrosis factor superfamily 11 / RANKL	TNFSF11	NM_011613	2.5	4.9				2.8			III. Immune response
+interferon, gamma	IFNG	NM_008337	2.5					2.5	6.2		III. Immune response
+interferon, gamma-inducible protein 16	IFI16	NM_008329		3.6	5.2		5	5.5	3.5		III. Immune response
+interferon, gamma-inducible protein 30	IFI30	NM_023065			-2.1	2.7	2.5	3.1	6.8		III. Immune response
+interferon gamma inducible protein 47 / IRG-47	IFI47	NM_008330		2.4	2.2	2.2	3.4	2.6	2.1	3.4	III. Immune response
+interferon gamma induced GTPase	IGTP	NM_018738		2.1	5.6	7.6			3.8		III. Immune response
+immunity-related GTPase family M / LRG-47	IRGM	NM_008326		2.5	4	3.8	7.6	5.4	2.6	4.5	III. Immune response
+interferon regulatory factor 1	IRF1	NM_008390		2.2	2.5	3.1	2.5	2	2.4		III. Immune response
+interleukin-1 receptor-associated kinase 1	IRAK1	NM_008363		-2.2	-2.8			2.4			III. Immune response
+interleukin-1 receptor-associated kinase 2	IRAK2	NM_172161		2.4		2.3		3			III. Immune response
+interleukin-1 receptor-associated kinase 3	IRAK3	NM_028679		4.3				2.5	6.1		III. Immune response
+signal transducer and activator of transcription 1	STAT1	AK041814	2.1	2.2		5.7	5.2	2.1	2.7		III. Immune response
+signal transducer and activator of transcription 2	STAT2	NM_019963	-2.2			3		4			III. Immune response
+signal transducer and activator of transcription 3	STAT3	NM_213659		2.1	-2.2			-2.3	2.5		III. Immune response
+inducible T cell costimulator	ICOS	AF327185	2.6	4	5.1	5.4	3.8	3.2	2.5		III. Immune response
+leukocyte immunoglobulin-like receptor, subfamily B, 4	LILRB4	NM_013532		3.5				2.1	3.8		III. Immune response
+lymphocyte-activation gene 3	LAG3	NM_008479		6.3				4.6			III. Immune response
+schlafen family member 1	SLFN1	NM_011407		3.4				2.4			III. Immune response
+schlafen family member 2	SLFN2	NM_011408		3.1	4.6	5.5	2.5	3.1	2		III. Immune response
+schlafen family member 4	SLFN4	NM_011410	-6	7.0 -3.8	-2.6	4.5	3.8	3.2			III. Immune response
+schlafen family member 5	SLFN5	NM_183201		2.1	-2	3.4		3.2			III. Immune response
+ATG3 autophagy related 3 homolog	ATG3	AK044184	2.8		3.3			-4.5			III. Immune response
+beclin 1, autophagy related	BECN1	NM_019584		-2.1	-2.6			2.5			III. Immune response
+a disintegrin and metallopeptidase domain 1a	ADAM1A	NM_172126	-4.4	-2.9	-5.2			3.9			III. Immune response
+ADAM metallopeptidase domain 8	ADAM8	NM_007403		3.2	-2.2			2.4 7.4			III. Immune response
+ADAM metallopeptidase (thrombospondin type 1), 2	ADAMTS2	NM_175643	-3.6	-4.2	-5.6			3.9			III. Immune response
+ADAM metallopeptidase (thrombospondin type 1), 8	ADAMTS8	NM_013906		-5.2		-2.1		-2.1	-5.3		III. Immune response
+ADAMTS-like 4	ADAMTSL4	NM_144899	-2.9					4.5			III. Immune response
+integrin, alpha 11	ITGA11	NM_176922	-2	-2.8	-2.2			3.3			III. Immune response
+vascular cell adhesion molecule 1	VCAM1	NM_011693					2.4	2.1	2.7		III. Immune response
+intercellular adhesion molecule 1	ICAM1	BC008626	-2.1	-2.5	-2.8		2.5	2.4	6.5		III. Immune response
+intercellular adhesion molecule 5, telencephalin	ICAM5	NM_008319	2	3.9	4.8			-2.1	-2.6		III. Immune response
+chemokine (C-X-C motif) ligand 1 / KC	CXCL1	NM_008176		4.6	3.7	3.8	6.6	3.8	4.5		IV. Inflammatory response
+chemokine (C-X-C motif) ligand 2 / MIP-2	CXCL2	NM_009140									IV. Inflammatory response
+chemokine (C-X-C motif) ligand 3	CXCL3	NM_203320	-2.5	4.9	2.9		4.7				IV. Inflammatory response
+chemokine (C-X-C motif) ligand 5 / LIX	CXCL5	NM_009141		4.5	3.5		7.3	4.5			IV. Inflammatory response
+chemokine (C-X-C motif) ligand 9 / Mig	CXCL9	NM_008599	3.7	4.4				2.3			IV. Inflammatory response
+chemokine (C-X-C motif) ligand 10, IP10	CXCL10	NM_021274						3.8			IV. Inflammatory response
+chemokine (C-X-C motif) ligand 11, IP-9	CXCL11	NM_019494	3.4	4.4				2.9			IV. Inflammatory response
+chemokine (C-X-C motif) ligand 12 / SDF-1	CXCL12	NM_021704	-2.8	3.1 -5.7			2		5.4		IV. Inflammatory response
+chemokine (C-X-C motif) ligand 13	CXCL13	NM_018866		5	4	5.9	3.4	5.4		5.6	IV. Inflammatory response
+chemokine (C-X-C motif) ligand 16	CXCL16	NM_023158	2.4	6		2.2	2.4		2.3		IV. Inflammatory response
+chemokine (C-X-C motif) ligand 17	CXCL17	NM_153576		2.8				2.1	3.1		IV. Inflammatory response
+chemokine (C-X3-C motif) ligand 1	CX3CL1	NM_009142		-3.1	-3.1				2.3		IV. Inflammatory response
+chemokine (C-C motif) ligand 2 / MCP-1	CCL2	NM_011331					6.9		-2.3		IV. Inflammatory response
+chemokine (C-C motif) ligand 3 / MIP-1 alpha	CCL3	NM_011337		2.6	3.1	3.6		2.3			IV. Inflammatory response
+chemokine (C-C motif) ligand 4 / MIP-1 beta	CCL4	NM_013652	2.5	3.8	5.2	2.9	2.6				IV. Inflammatory response
+chemokine (C-C motif) ligand 5 / RANTES	CCL5	NM_013653	3.4	4.9	2.9	2.1	2.4	2.2	4.5	6.5	IV. Inflammatory response
+chemokine (C-C motif) ligand 7 / MCP-3	CCL7	NM_013654		3							IV. Inflammatory response
+chemokine (C-C motif) ligand 8 / MCP-2	CCL8	NM_021443		4.8		4.9	4.7				IV. Inflammatory response
+chemokine (C-C motif) ligand 17	CCL17	NM_011332	2	4	2.8			-2.2	-3.7		IV. Inflammatory response
+chemokine (C-C motif) ligand 19	CCL19	NM_011888	2.4	2.2	2.2		2.6	2.1	2.9	2.4	IV. Inflammatory response
+chemokine (C-C motif) ligand 20	CCL20	NM_016960	7.3	5.8	4.8	4.5		3.1		3.3	IV. Inflammatory response
+chemokine (C-C motif) ligand 27	CCL27	NM_011336		-2.3						-3.4	IV. Inflammatory response
+chemokine (C-C motif) receptor-like 2	CCRL2	NM_017466		5.1						3	IV. Inflammatory response
+chemokine (C motif) ligand 1	XCL1	NM_008510	3.8							-5.3	IV. Inflammatory response
+colony stimulating factor 3 / G-CSF	CSF3	NM_009971								5.6	IV. Inflammatory response
+colony stimulating factor 1 / M-CSF	CSF1	NM_007778	-2.3	2			2.4			4.5	IV. Inflammatory response
+macrophage migration inhibitory factor	MIF	NM_010798	2.3	3.3						2.7	IV. Inflammatory response
+matrix metallopeptidase 2 (gelatinase A)	MMP2	NM_008610			-2.4	-2.7				2.7	IV. Inflammatory response
+matrix metallopeptidase 3 (stromelysin 1)	MMP3	NM_010809		3.8 -2.7	-3.2			2.8			IV. Inflammatory response
+matrix metallopeptidase 8 (neutrophil collagenase)	MMP8	NM_008611		6.7	2.4	3.2	2.4	2.8	6.5		IV. Inflammatory response
+matrix metallopeptidase 9 (gelatinase B)	MMP9	NM_013599	-2.5	3.7			5.2				IV. Inflammatory response
+matrix metallopeptidase 13 (collagenase 3)	MMP13	NM_008607	3	3	3.1	4					IV. Inflammatory response
+matrix metallopeptidase 14 (membrane-inserted)	MMP14	NM_008608		2.4				-2.6	5.3		IV. Inflammatory response
+acyloxyacyl hydrolase (neutrophil)	AOAH	AK033474		5.7	3	2.5			3.1	3.4	IV. Inflammatory response
+leukocyte cell-derived chemotaxin 2	LECT2	NM_010702		2.3					2.5		IV. Inflammatory response
+alpha-2-macroglobulin	A2M	NM_175628									IV. Inflammatory response
+TIMP metallopeptidase inhibitor 1	TIMP1	NM_011593		3	2.9	2.8	5.1	3.6		3.9	IV. Inflammatory response
+serpin peptidase inhibitor, clade A 1	SERPINA1	NM_009246			3.6			-2.9			IV. Inflammatory response
+serpin peptidase inhibitor, clade A 3	SERPINA3	NM_009252	-2.5	2.5 -2.2		2.2		2.2	3.9		IV. Inflammatory response
+serine (or cysteine) peptidase inhibitor, clade A 3K	SERPINA3K	NM_011458		2.8					2.4		IV. Inflammatory response
+serpin peptidase inhibitor, clade B 2	SERPINB2	NM_011111		7.4	2.6	7		2.6	-3.9	3	IV. Inflammatory response
+serpin peptidase inhibitor, clade B 4	SERPINB4	NM_009126		-3			6.9				IV. Inflammatory response
+serpin peptidase inhibitor, clade B 10	SERPINB10	NM_198028		-2.1					-2.5		IV. Inflammatory response
+serpin peptidase inhibitor, clade E 1	SERPINE1	AK040662		2.8					4.1		IV. Inflammatory response
+serpin peptidase inhibitor, clade G 1	SERPING1	NM_009776		2.1 -2.2	-2.7				3		IV. Inflammatory response
+cathepsin C	CTSC	NM_009982		2.9				2.1	3.9		V. Antimicrobials and lysosome function
+cathepsin G	CTSG	NM_007800		4.1			2.4				V. Antimicrobials and lysosome function
+cathepsin W	CTSW	NM_009985	2.5	3.4	3	3.2	2.1	2.3			V. Antimicrobials and lysosome function
+granzyme A	GZMA	NM_010370	2	3.2	4.7		-2.8				V. Antimicrobials and lysosome function
+granzyme B	GZMB	NM_013542		4	7	2.5	3.1	3.1			V. Antimicrobials and lysosome function
+granzyme C	GZMC	NM_010371	6.2	3.3		5.2	-4.2				V. Antimicrobials and lysosome function
+granzyme F	GZMF	NM_010374		7.4		3.2	2.1	7			V. Antimicrobials and lysosome function
+granzyme K	GZMK	NM_008196				3.4 4.4					V. Antimicrobials and lysosome function
+perforin 1 (pore forming protein)	PRF1	NM_011073		3.8			2.8				V. Antimicrobials and lysosome function
+vitamin D (1,25- dihydroxyvitamin D3) receptor	VDR	NM_009504		-2.9	-2.8		2.6 3.5				V. Antimicrobials and lysosome function
+cytochrome b-245, beta polypeptide / GP91-PHOX	NOX2	NM_007807	2.9	3.1	4.1	3.8	3.4	2.1	2.1		V. Antimicrobials and lysosome function
+cathelicidin antimicrobial peptide	CAMP	NM_009921		2	2.9						V. Antimicrobials and lysosome function
+secretory leukocyte peptidase inhibitor	SLPI	NM_011414		2.3	-2.7	2.4					V. Antimicrobials and lysosome function
+serum amyloid A1	SAA1	NM_011315	3.2	5.2			2.1	2.1			V. Antimicrobials and lysosome function
+serum amyloid A2	SAA2	NM_009117		5.1							V. Antimicrobials and lysosome function
+lactotransferrin	LTF	NM_008522		2.2		2.2	3.3	3.5	5		V. Antimicrobials and lysosome function
+transferrin	TF	NM_133977	-2.3	-3.7	-3.8		2.3				V. Antimicrobials and lysosome function
+lymphocyte cytosolic protein 1 (L-plastin)	LCP1	NM_008879		2.6		2.4	2.2	4.4			V. Antimicrobials and lysosome function
+lymphocyte cytosolic protein 2	LCP2	NM_010696		5.4			2.2	5.6			V. Antimicrobials and lysosome function
+lysozyme (renal amyloidosis)	LYZ	NM_017372	2.1	2.5	2.5		-2.2				V. Antimicrobials and lysosome function
+ATPase, H+ transporting, lysosomal V0 subunit A3	TCIRG1	NM_016921		2			2.8				V. Antimicrobials and lysosome function
+ATPase, H+ transporting, lysosomal V0 subunit c	ATP6V0C	NM_009729		4			2.2	4.8			V. Antimicrobials and lysosome function
+neutrophil cytosolic factor 1 / p47phox	NCF1	NM_010876	2.2	3.2	2.2	2.3		2.2			V. Antimicrobials and lysosome function
+neutrophil cytosolic factor 2 / p67phox	NCF2	NM_010877		2.1			2.1				V. Antimicrobials and lysosome function
+neutrophil cytosolic factor 4 / p40phox	NCF4	NM_008677	2	3.2	2.6	3.1		2.2			V. Antimicrobials and lysosome function
+superoxide dismutase 1, soluble	SOD1	AK080908		-2.5			-2.2				V. Antimicrobials and lysosome function
+superoxide dismutase 2, mitochondrial	SOD2	NM_013671		3.3			2.4	3.8			V. Antimicrobials and lysosome function
+peroxiredoxin 5	PRDX5	NM_012021	2.9	4.2	2.3	2.9		2.2			V. Antimicrobials and lysosome function
+peroxiredoxin 6	PRDX6	NM_007453	-2.1	2.5 -3.7	-4.4		2.4				V. Antimicrobials and lysosome function
+metallothionein 1E	MT1E	NM_008630		7.6			5.6				V. Antimicrobials and lysosome function
+metallothionein 1F	MT1F	NM_013602		3			2.6				V. Antimicrobials and lysosome function
+glutathione reductase	GSR	NM_010344		2.4			2.4				V. Antimicrobials and lysosome function
+xanthine dehydrogenase	XDH	NM_011723	-3.2	-4.3	-4.9	3.3	3.4	6.2			V. Antimicrobials and lysosome function
+myeloperoxidase	MPO	NM_010824		3.4	2.8	3.1		-2.4	3.3		V. Antimicrobials and lysosome function
+nitric oxide synthase 3 (endothelial cell)	NOS3	NM_008713	-2.6	-3.8	-3.9		3.4				V. Antimicrobials and lysosome function
+argininosuccinate synthetase 1	ASS1	NM_007494	2.9	5	2.5	2.6		2.3	4.1		V. Antimicrobials and lysosome function
+arginase, liver	ARG1	NM_007482	3.1		2.2	3.1	2.4				V. Antimicrobials and lysosome function
+arginase, type II	ARG2	NM_009705		4.4		2.4	2.3	5.1			V. Antimicrobials and lysosome function
+cystatin A (stefin A)	CSTA	AK089257	2.2	5		2.3					V. Antimicrobials and lysosome function
+transforming growth factor, beta 1	TGFB1	NM_011577		-2.9			2.0 3.7				VI. Immunosuppression and cell death
+TGFB-induced factor homeobox 1	TGIF1	NM_009372		2.4					2.4	3.5	VI. Immunosuppression and cell death
+transforming growth factor, beta-induced, 68kDa	TGFBI	NM_009369		3.5			2.3		3.5	7.6	VI. Immunosuppression and cell death
+transforming growth factor beta 1 induced 1	TGFB1I1	NM_009365	-2.5		-4.9	-5.1			2.3		VI. Immunosuppression and cell death
+SMAD family member 3	SMAD3	NM_016769			-3.7	-4.4			2.2 2.9		VI. Immunosuppression and cell death
+Fas ligand (TNF superfamily, member 6)	FASLG	NM_010177	4	2.9	5.8			2			VI. Immunosuppression and cell death
+Fas (TNF receptor superfamily, member 6)	FAS	AK086933	2.6	2.5	2.8	3.5			2.2		VI. Immunosuppression and cell death
+tumor necrosis factor superfamily 10 / TRAIL	TNFSF10	NM_009425			3.9	6.3				-3.5	VI. Immunosuppression and cell death
+tumor necrosis factor receptor superfamily, 14	TNFRSF14	BF580152	4.3	2.1	7.2					-2	VI. Immunosuppression and cell death
+tumor necrosis factor receptor superfamily 21 / DR6	TNFRSF21	NM_178589			-3.7	-2.7			2.4	2.1	VI. Immunosuppression and cell death
+indoleamine-pyrrole 2,3 dioxygenase	IDO	NM_008324	2	3					2.2		VI. Immunosuppression and cell death
+tryptophanyl-tRNA synthetase	WARS	NM_011710		3.5			2.5	3.5	2.6	6.6	VI. Immunosuppression and cell death
+BCL2-like 11 (apoptosis facilitator) / Bim	BCL2L11	NM_207680		4.2						5.7	VI. Immunosuppression and cell death
+B-cell translocation gene 1, anti-proliferative	BTG1	NM_007569		2.4					2.3	3.5	VI. Immunosuppression and cell death
+apoptotic chromatin condensation inducer 1	ACIN1	AK042374	2.7		2.8	3				-2.8	VI. Immunosuppression and cell death
+apoptotic peptidase activating factor 1	APAF1	AK220340		2.2						3	VI. Immunosuppression and cell death
+integrin, beta 3 / CD61	ITGB3	BY557806			-2.2	-2.4				2.6	VI. Immunosuppression and cell death
+caspase 9, apoptosis-related cysteine peptidase	CASP9	NM_015733			-3.1	-3.4				2.1	VI. Immunosuppression and cell death
+B-cell CLL/lymphoma 3	BCL3	NM_033601	-2.1	2.2			2.6		2.3	6.2	VI. Immunosuppression and cell death
+BCL6 co-repressor	BCOR	NM_175046			-2.3	-3			-2.1	-2.1	VI. Immunosuppression and cell death
+myeloid cell leukemia sequence 1 (BCL2-related)	MCL1	NM_008562		2.3						2.1	VI. Immunosuppression and cell death
+CASP8 and FADD-like apoptosis regulator	CFLAR	AK053567	2.1	4.3	2.9	3.3	2.1			2.5	VI. Immunosuppression and cell death
+hypoxia inducible factor 1, alpha subunit	HIF1A	NM_010431	2.2						2.1	2.5	VI. Immunosuppression and cell death
+apoptosis inhibitor 5	API5	AK078801			2.7	3.8				-2.6	VI. Immunosuppression and cell death
+suppressor of cytokine signaling 1	SOCS1	NM_009896	2.1	6	5.9		3.1	2		2.4	VI. Immunosuppression and cell death
+suppressor of cytokine signaling 6	SOCS6	AK053803		-2	2.3			2.5	-2.4		VI. Immunosuppression and cell death
+suppressor of cytokine signaling 7	SOCS7	NM_138657			2.5				-2.7		VI. Immunosuppression and cell death
+CD47 molecule	CD47	AA204140			-3.3	-3.9	-2.8			2.4	VI. Immunosuppression and cell death
+lysosomal multispanning membrane protein 5	LAPTM5	NM_010686			-2.3	-3.2			2.7	5.7	VI. Immunosuppression and cell death
+macrophage scavenger receptor 1	MSR1	AK028480	4	5.9			3.3	5		2.2	VI. Immunosuppression and cell death
+leukocyte immunoglobulin-like receptor, B4	LILRB4	NM_013532		3.5					2.1	3.8	VI. Immunosuppression and cell death
+chemokine binding protein 2	CCBP2	NM_021609	-2.2		-2.5	-2.7				3	VI. Immunosuppression and cell death

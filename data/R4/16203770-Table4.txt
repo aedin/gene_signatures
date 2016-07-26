@@ -1,0 +1,63 @@
+Gene symbol	Fold change	Description	ParametricP	Probe set	Gene ontology or relationship to IL-6
+ST3GALVI	3.44	?2,3-Sialyltransferase	0.0045	213355_at	PB, MB
+LUC7A	2.75	Cisplatin resistance–associated overexpressed protein	0.0007	220044_x_at	RC
+SF3B1	2.04	Splicing factor 3b, subunit 1, 155 kDa	0.0013	201071_x_at	RC
+KIAA0970	1.92	KIAA0970 protein	0.0031	202304_at	RC, SCR
+PNAS4	1.92	CGI-146 protein	0.0003	212371_at	RC, R
+SFRS11	1.91	Splicing factor, arginine/serine–rich 11	0.0035	200685_at	RC
+HNRPH3	1.73	Heterogeneous nuclear ribonucleoprotein H3 (2H9)	0.0011	208990_s_at	RC
+PTMA	1.59	Prothymosin, ? (gene sequence 28)	0.0017	200773_x_at	RC, SCR
+UBE3A	1.57	Ubiquitin protein ligase E3A (human papilloma virus E6-associated protein, Angelman syndrome)	0.0014	211575_s_at	PB
+SFRS7	1.56	Splicing factor, arginine/serine-rich 7, 35 kDa	0.0044	201129_at	RC
+FLJ10283	1.51	Hypothetical protein FLJ10283	0.0022	218534_s_at	RC
+EIF4EL3	0.73	Eukaryotic translation initiation factor 4E-like 3	0.0027	213571_s_at	PB
+NMT2	0.72	N-myristoyltransferase 2	0.0043	215069_at	PB
+COPS6	0.72	COP9 subunit 6 (MOV34 homologue, 34 kDa)	0.0032	213504_at	PB
+KIAA0759	0.71	KIAA0759 protein	0.0022	36865_at	PB, RC
+MRP63	0.66	Mitochondrial ribosomal protein 63	0.0039	221995_s_at	SCR
+MRPL20	0.65	Mitochondrial ribosomal protein L20	0.0002	220526_s_at	RC, SCR, PB
+HNRPA0	0.65	Heterogeneous nuclear ribonucleoprotein A0	0.0007	201055_s_at	RC
+EIF3S9	0.65	Eukaryotic translation initiation factor 3, subunit 9, ?, 116 kDa	0.0001	203462_x_at	PB
+RPL34	0.65	Ribosomal protein L34	0.001	200026_at	RC, SCR, PB
+RPL39	0.63	Ribosomal protein L39	0.0015	208695_s_at	RC, SCR, PB
+RPL36	0.6	Ribosomal protein L36	0.0045	219762_s_at	RC. SCR, PB
+RPS21	0.55	Ribosomal protein S21	0.0028	200834_s_at	RC, SCR, PB
+RPS14	0.53	Ribosomal protein S14	0.0006	208646_at	RC, SCR, PB
+RPL35A	0.53	Ribosomal protein L35a	0.0029	213687_s_at	RC, SCR, PB
+MRP63	0.51	Mitochondrial ribosomal protein 63	0.0009	204386_s_at	SCR
+	0.5	Similar to 40S ribosomal protein S18	0.0023	201049_s_at	RC, SCR, PB
+RPS16	0.45	Ribosomal protein S16	0.0046	213890_x_at	RC, SCR, PB
+RPS29	0.4	Ribosomal protein S29	0.0018	201094_at	RC, SCR, PB
+GADD45B	0.28	Growth arrest and DNA damage-inducible, ?	0.0031	207574_s_at	RC, SCR, PB
+GADD45G	0.23	Growth arrest and DNA damage-inducible, ?	0.0001	204121_at	RC, SCR, PB
+VWF	4.63	von Willebrand factor	0.0014	202112_at	ECM, CAMA
+CSPG2	3.1	Chondroitin sulfate proteoglycan 2 (versican)	0.001	204619_s_at	ECM
+CDH11	3.1	Cadherin 11, type 2, OB-cadherin (osteoblast)	0.0004	207173_x_at	CAMA
+LAMB1	3.01	Laminin, ?1	0.0047	201505_at	ECM, CAMA
+ASPN	2.87	Asporin (LRR class 1)	0.0017	219087_at	ECM
+FN1	2.72	Fibronectin 1	0.0007	211719_x_at	ECM, CAMA
+COL15A1	2.67	Collagen, type XV, ?1	0.0006	203477_at	ECM, CAMA
+PECAM1	2.62	Platelet/endothelial cell adhesion molecule (CD31)	0.0001	208982_at	CAMA
+FLJ20736	2.46	Hypothetical protein FLJ20736	0.0022	218244_at	ECM
+COL5A2	2.3	Collagen, type V, ?2	0.0043	221729_at	ECM
+SPARC	2.29	Secreted protein, acidic, cysteine-rich (osteonectin)	0.0045	212667_at	ECM
+ECM2	2.25	ECM protein 2, female organ and adipocyte specific	0.004	206101_at	ECM
+THBS1	2.18	Thrombospondin 1	0.0038	201108_s_at	ECM, CAMA
+LAMA4	2.13	Laminin, ?4	0.004	202202_s_at	ECM, CAMA
+LTBP2	1.61	Latent transforming growth factor-? binding protein 2	0.005	204682_at	ECM
+GNE	0.67	UDP-N-acetylglucosamine-2-epimerase/N-acetylmannosamine kinase	0.0027	205042_at	CAMA
+ICAM3	0.6	Intercellular adhesion molecule 3	0.0043	204949_at	CAMA
+CD84	0.58	CD84 antigen (leukocyte antigen)	0.0032	211189__x__at	CAMA
+BAIAP2	0.4	BAI1-associated protein 2	0.0012	209502_s_at	CAMA
+IL6	0.62	Interleukin-6 (IFN, ?2)	0.0034	205207_at
+JAK1	2.3	Janus kinase 1 (a protein tyrosine kinase)	0.0009	201648_at	Signal transduction (27)
+STAT5B	0.71	Signal transducer and activator of transcription 5B	0.0001	212550_at	Signal transduction (27)
+JUNB	0.45	junB proto-oncogene	0.0035	201473_at	Gene expression (31)
+JUND	0.39	junD proto-oncogene	0.0002	203752_s_at	Gene expression (31)
+MCL1	0.48	Myeloid cell leukemia sequence 1 (BCL2-related)	0.0005	200797_s_at	Gene expression (30)
+SDC2	3.13	Syndecan-2 (heparan sulfate proteoglycan 1, cell surface–associated, fibroglycan)	0.0008	212158_at	Gene expression (32)
+LUC7A	2.75	Cisplatin resistance–associated overexpressed protein	0.0007	220044_x_at	Chemosensitivity (67)
+KLK2	0.53	Kallikrein-2, prostatic	0.0011	210339_s__at	AR activation (33)
+KLK3	0.29	Kallikrein-3 (prostate-specific antigen)	0.0006	204582_s_at	AR activation (68)
+GADD45B	0.26	Growth arrest and DNA-damage inducible, ?	0.0031	207574_s_at	AR activation (33)
+GADD45G	0.23	Growth arrest and DNA-damage inducible, ?	0.0001	204121_at	AR activation (33)

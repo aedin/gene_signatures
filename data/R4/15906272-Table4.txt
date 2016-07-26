@@ -1,0 +1,46 @@
+Function	Gene name	Accession number	Absolute expression wt norm	wt hyp	HIF ?/? norm	HIF ?/? hyp	HIF ?/? vs wt2Log	Hyp vs norm2Log	Interaction HIF-1/hyp2Log	HIF-1 regulated
+Glycolysis	Phosphofructokinase, liver, B-type	J03928	415.71	1876.83	441.95	223.82	?1.49	0.6	?1.58	+
+Glycolysis	Phosphofructokinase, platelet	AI853802	87.04	359.17	81.66	54.27	?1.41	0.73	?1.32	+
+Glycolysis	Lactate dehydrogenase 1, A chain	M17516	936.71	3198.15	1071.14	847.25	?0.86	0.72	?1.06	+
+Glycolysis	Aldolase 1, A isoform	AV102 160	266.69	844.21	328.9	330.87	?0.52	0.84	?0.83	+
+Glycolysis	Phosphoglycerate kinase 1	M15668	923.73	2923.63	995.68	958.7	?0.75	0.8	?0.86	+
+Glycolysis	Aldolase 3, C isoform	AW121 134	115.15	359.33	53.48	3.87	?3.82	?1.07	?2.72	+
+Glycolysis	Glucose phosphate isomerase 1 complex	M14220	234.31	648.98	321.53	413.5	?0.10	0.92	?0.55	+
+Glycolysis	Enolase 1, alpha non-neuron	AI841389	1298.57	3039.08	1657.77	1452.29	?0.36	0.52	?0.71	+
+Glycolysis	Aldolase	AA144642	784.79	2167.57	905.76	666.69	?0.75	0.51	?0.95	+
+Glycolysis	Triosephosphate isomerase	L31777	1786.92	4876.85	2429.01	2159.11	?0.37	0.64	?0.81	+
+Glycolysis	Aldolase 1, A isoform	Y00 516	1501.07	3664.96	1562.77	1371.76	?0.68	0.55	?0.74	+
+Glycolysis	Pyruvate kinase 3	AV368 209	1484.94	3474.73	1422.91	985.33	?0.94	0.35	?0.88	+
+Glycolysis	Hexokinase 2	Y11 666	32.96	141.36	55.06	64.04	?0.20	1.16	?0.94	+
+Metabolism	Glycosylation-dependent cell adhesion molecule 1	AA691492	161.54	682.39	112.02	53.78	?2.10	0.51	?1.57	+
+Metabolism	Galactokinase	AB027012	262.88	940.66	436.34	446.11	?0.17	0.94	?0.90	+
+Metabolism	Adenylate kinase 4	AW061 337	86.27	235.55	54.28	20.93	?2.08	0.04	?1.41	+
+Metabolism	Glyoxylate reductase/hydroxypyruvate reductase	AI844995	200.65	532.26	204.86	195.52	?0.71	0.67	?0.74	+
+Metabolism	Glycogen synthase 1, muscle	U53 218	237.62	557.13	250.71	244.1	?0.56	0.6	?0.63	+
+Prolyl hydroxylase	Expressed sequence AA407196	AV370 017	160.19	582.29	161.34	126.2	?1.10	0.75	?1.11	+
+Prolyl hydroxylase	EGL nine homologue 1 (C. elegans)	AI850202	238.97	772.62	291.36	214.95	?0.78	0.63	?1.07	+
+Prolyl hydroxylase	Procollagen-proline	U16 163	226.92	648.87	196.47	160.19	?1.11	0.61	?0.91	+
+Apoptosis	BNIP3	AF041054	47.06	227.74	53.46	47.18	?1.04	1.05	?1.23	+
+Cytoskeleton	Capping protein (actin filament), gelsolin-like	AV225 548	156.36	393.92	210.7	226.9	?0.18	0.72	?0.61	+
+Cytoskeleton	PDZ and LIM domain 1 (elfin)	AV149 007	142.73	322.02	179.09	199.42	?0.18	0.66	?0.51	+
+Cytoskeleton	Keratin complex 1, acidic, gene 17	M13805	389.57	933.91	470.25	227.63	?0.88	0.11	?1.15	+
+Cytoskeleton	Plectin 1	AW123 286	213.02	462.46	355.58	407.13	0.28	0.66	?0.46	?
+Cytoskeleton	Keratin complex 1, acidic, gene 19	AU040563	923.26	1938.23	980.4	485.99	?0.96	0.03	?1.04	+
+Cytoskeleton	RhoA proto-oncogene	AI846668	770.76	1534.5	1092.22	948.88	?0.10	0.4	?0.60	+
+Differentiation	Small proline-rich protein 1A	AF057156	210.5	884.43	627.72	436.11	0.28	0.77	?1.30	+
+Differentiation	N-myc downstream regulated-like	U52 073	663.47	2120.35	370.29	263.46	?1.93	0.59	?1.08	+
+Pre-mRNA splicing factor	Lectin, galactose binding, soluble 3/galectin-3	X16 834	121.65	277.31	95.76	89.28	?0.99	0.54	?0.64	+
+Amine transporter	Solute carrier family 6	U76 306	445.13	1081.65	963.24	850.18	0.38	0.55	?0.73	+
+Nucleosome formation	H3 histone, family 2	U62 674	195.92	452.98	279.4	483.64	0.3	1	?0.21	?
+Immune system	MHC class I	M20985	265.5	517.73	385.29	823.43	0.6	1.03	0.07	?
+Immune system	Complement component 3	K02782	584.79	1176.06	849.76	499.49	?0.35	0.12	?0.89	+
+Myogenesis	Cysteine-rich protein 3	D88791	277.72	550.63	233.95	122.06	?1.21	0.02	?0.96	+
+Known	Hypoxia-induced gene 1	AI836820	34.97	112.98	27.11	14.01	?1.69	0.37	?1.32	+
+Known	SRBC	AW048 944	591.71	1334.28	586.92	515.78	?0.69	0.49	?0.68	+
+Known	LKHA leukotrine A-4 hydrolase	AI835242	196.2	386.58	312.31	256.4	0.04	0.35	?0.63	+
+Unknown	RIKEN cDNA 2 310 056P07 gene	AW123 751	159.67	665.93	112.18	62.55	?1.96	0.61	?1.45	+
+Unknown	RIKEN cDNA 2 610 020G18 gene	AI842432	369.79	1097.72	366.24	304.29	?0.93	0.65	?0.92	+
+Unknown	Expressed sequence AI173274	AI642389	127.8	322.06	195.33	242.03	0.1	0.82	?0.51	+
+Unknown	Glutamine synthetase pseudogene 1	M60803	254.47	520.68	252.06	163.85	?0.84	0.21	?0.83	+
+Unknown	RIKEN cDNA 2 010 315L10 gene	AI835662	148.28	315.96	169.3	302.89	0.07	0.97	?0.13	?
+Unknown	Cluster Incl AI853863	AI853863	291.84	605.23	284.61	302.61	?0.52	0.57	?0.48	?

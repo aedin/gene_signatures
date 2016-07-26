@@ -1,0 +1,59 @@
+GenBank	Gene name	-Fold change (mean ± S.D.) 8 h	24 h	72 h	qa %	U95	Function
+NM_001924	GADD45b	2.77 ± 0.09	3.71 ± 0.13	4.02 ± 0.15	2.6	?	Cell cycle and apoptosis
+NM_003914	Cyclin A1b	–1.63 ± 0.11	–1.17 ± 0.21	2.58 ± 0.18	1.1	?	Cell cycle and apoptosis
+NM_003810	TRAIL	2.76 ± 0.02	2.69 ± 0.10	2.31 ± 0.17	1.5	?	Cell cycle and apoptosis
+NM_003840	TRAIL-R4	1.85 ± 0.13	2.83 ± 0.44	3.00 ± 0.40	4.6	?	Cell cycle and apoptosis
+NM_004675	Ras homolog gene family member I (ARHI)	1.78 ± 0.44	2.43 ± 0.11	6.51 ± 0.25	1.2	?	Oncogene and tumor suppressors
+NM_022337	RAB38, Ras oncogene family	–1.01 ± 0.20	2.01 ± 0.28	2.70 ± 0.19	1.6	N/Ac	Oncogene and tumor suppressors
+NM_005252	Fos	6.79 ± 0.64	9.42 ± 0.23	10.61 ± 0.08	4.1	?	Oncogene and tumor suppressors
+NM_004442	EphB2	–1.05 ± 0.30	2.98 ± 0.50	9.38 ± 0.47	1.6	?	Oncogene and tumor suppressors
+NM_006408	Anterior gradient 2 homolog	2.77 ± 0.12	4.11 ± 0.27	7.00 ± 0.21	0.6	N/A	Oncogene and tumor suppressors
+NM_000782	24-Hydroxylaseb	46.8 ± 0.05	54.94 ± 0.24	55.91 ± 0.19	0.6	?	Enzymes
+NM_002774	Kallikrein 6	2.60 ± 0.09	5.56 ± 0.14	7.21 ± 0.18	0.6	?	Enzymes
+NM_005308	G protein-coupled receptor kinase 5 (GPRK5)b	4.17 ± 0.25	8.80 ± 0.27	13.34 ± 0.10	1.1	?	Enzymes
+NM_007207	Dual specificity phosphatase 10 (DUSP10)b	2.92 ± 0.11	4.23 ± 0.08	3.67 ± 0.08	0.6	?	Enzymes
+NM_015170	Sulfatase 1	1.29 ± 0.14	2.64 ± 0.15	3.65 ± 0.16	0.9	?	Enzymes
+NM_000402	Glucose-6-phosphate dehydrogenase (G6PD)b	1.41 ± 0.12	3.23 ± 0.11	5.01 ± 0.20	0.6	?	Enzymes
+NM_003784	Serine proteinase inhibitor clade B, 7	1.99 ± 0.55	10.11 ± 0.20	21.30 ± 0.08	0.6	N/A	Enzymes
+NM_016931	NADPH oxidase 4 (NOX4)	1.27 ± 0.35	2.63 ± 0.25	3.21 ± 0.14	4.6	N/A	Enzymes
+NM_002168	Mitochondrial isocitrate dehydrogenase 2 (NADP+)	1.05 ± 0.12	1.92 ± 0.13	2.50 ± 0.19	1.1	?	Enzymes
+NM_002849	Protein-tyrosine phosphatase, receptor type, Rb	1.50 ± 0.02	1.95 ± 0.27	2.66 ± 0.32	0.6	N/A	Enzymes
+NM_012232	RNA polymerase I and transcript release factor	1.20 ± 0.16	2.22 ± 0.24	2.98 ± 0.08	1.1	N/A	Enzymes
+NM_001056	Sulfotransferase family, cytosolic, 1C, member 1	1.32 ± 0.42	2.48 ± 0.28	2.75 ± 0.09	4.6	N/A	Enzymes
+NM_000904	NAD(P)H dehydrogenase, quinone 2	1.49 ± 0.16	2.24 ± 0.09	2.95 ± 0.17	4.6	N/A	Enzymes
+NM_006741	Protein phosphatase 1, regulatory (inhibitor) subunit 1A	1.53 ± 0.24	3.03 ± 0.27	2.80 ± 0.11	4.6	N/A	Enzymes
+NM_001977	Glutamyl aminopeptidase (aminopeptidase A)	1.88 ± 0.27	3.41 ± 0.03	2.73 ± 0.18	1.5	N/Cd	Enzymes
+NM_006105	Rap guanine nucleotide exchange factor (GEF) 3	2.58 ± 0.17	3.52 ± 0.05	2.69 ± 0.25	2.7	N/A	Enzymes
+NM_001993	Coagulation factor III	1.61 ± 0.18	1.81 ± 0.18	2.51 ± 0.21	4.6	N/A	Enzymes
+NM_004626	Wingless-type MMTV integration site, 11 (WNT11)	1.60 ± 0.15	12.15 ± 0.24	32.85 ± 0.18	0.6	?	Signal transducers, growth factors, and receptors
+NM_000728	Calcitonin-related polypeptide ?	3.13 ± 0.17	4.60 ± 0.27	6.40 ± 0.17	2.6	?	Signal transducers, growth factors, and receptors
+NM_001401	Endothelial differentiation, lysophosphatidic acid G-protein-coupled receptor 2 (Edg2)	2.00 ± 0.31	3.99 ± 0.43	5.28 ± 0.15	0.6	?	Signal transducers, growth factors, and receptors
+M37435	Human macrophage-specific colony-stimulating factor	1.43 ± 0.09	2.41 ± 0.06	2.50 ± 0.15	0.6	?	Signal transducers, growth factors, and receptors
+NM_021784	Forkhead box A2	1.66 ± 0.23	3.52 ± 0.25	3.24 ± 0.17	1.5	N/A	Transcription factors
+NM_005257	GATA-6	3.37 ± 0.09	3.87 ± 0.17	4.31 ± 0.13	4.6	?	Transcription factors
+NM_004345	Cathelicidin antimicrobial peptide	10.72 ± 0.32	28.19 ± 0.10	35.89 ± 0.10	0.6	N/A	Immunity proteins, structural proteins, cell adhesion molecules, and cytoskeleton
+NM_001845	Collagen, type IV, ?1	1.85 ± 0.13	3.16 ± 0.12	3.08 ± 0.09	1.5	?	Immunity proteins, structural proteins, cell adhesion molecules, and cytoskeleton
+NM_001846	Collagen, type IV, ?2	1.46 ± 0.09	2.25 ± 0.03	2.78 ± 0.11	1.2	?	Immunity proteins, structural proteins, cell adhesion molecules, and cytoskeleton
+NM_001003407	Actin binding LIM protein 1 (ABLIM)	1.38 ± 0.01	3.17 ± 0.25	3.23 ± 0.21	0.9	N/A	Immunity proteins, structural proteins, cell adhesion molecules, and cytoskeleton
+AL832563	Neural cell adhesion molecule 1	1.70 ± 0.21	2.64 ± 0.21	3.23 ± 0.17	4	N/A	Immunity proteins, structural proteins, cell adhesion molecules, and cytoskeleton
+NM_000582	Nephropontinb	2.12 ± 0.34	2.74 ± 0.02	6.11 ± 0.06	3.3	N/A	Immunity proteins, structural proteins, cell adhesion molecules, and cytoskeleton
+NM_005554	Keratin 6A	1.02 ± 0.37	1.96 ± 0.32	4.27 ± 0.14	0.6	?	Immunity proteins, structural proteins, cell adhesion molecules, and cytoskeleton
+NM_001407	Cadherin, EGF LAG seven-pass G-type receptor 3	–1.18 ± 0.64	1.11 ± 0.88	3.05 ± 0.14	3.3	N/A	Immunity proteins, structural proteins, cell adhesion molecules, and cytoskeleton
+NM_005261	GTP-binding protein overexpressed in skeletal muscle (GEM)b	1.36 ± 0.08	1.97 ± 0.20	3.16 ± 0.21	2.6	?	Immunity proteins, structural proteins, cell adhesion molecules, and cytoskeleton
+NM_000138	Fibrillin 1 (FBN1)	1.16 ± 0.45	3.33 ± 0.52	5.38 ± 0.27	4.6	?	Immunity proteins, structural proteins, cell adhesion molecules, and cytoskeleton
+XM_378901	Filaggrin gene	1.31 ± 0.04	2.42 ± 0.23	5.08 ± 0.12	0.6	?	Others
+NM_002888	Retinoic acid receptor responder 1 (RARRES1)b	3.04 ± 0.23	5.71 ± 0.21	9.73 ± 0.13	0.6	?	Others
+AK092245	Clone 141H5 contains parts of a novel chordin-like protein	1.46 ± 0.05	2.95 ± 0.06	3.81 ± 0.00	0.6	?	Others
+NM_017724	Leucine-rich repeat interacting protein 2	1.53 ± 0.09	2.65 ± 0.26	3.28 ± 0.13	1.5	N/A	Others
+NM_018431	Docking protein 5	2.08 ± 0.07	3.19 ± 0.03	3.26 ± 0.14	0.6	?	Others
+AF191019	Estradiol-induced (E2IG4)	2.63 ± 0.17	3.68 ± 0.02	3.44 ± 0.16	0.6	N/A	Others
+NM_017734	Palmdelphin	4.52 ± 0.12	6.51 ± 0.06	7.55 ± 0.28	0.6	N/A	Others
+NM_030915	Likely ortholog of mouse limb-bud and heart gene	1.96 ± 0.13	2.77 ± 0.07	3.08 ± 0.13	0.6	N/A	Others
+D84109	RBP-MS/type 3	1.55 ± 0.09	1.79 ± 0.25	2.63 ± 0.10	0.3	?	Others
+NM_020182	Transmembrane prostate androgen-induced RNA (TMEPAI)	1.75 ± 0.57	6.08 ± 0.60	3.98 ± 0.10	4.6	N/A	Others
+AL049370	cDNA DKFZp586D0918	1.07 ± 0.28	1.21 ± 0.21	2.51 ± 0.12	0.6	N/C	Others
+NM_134264	WD repeat and SOCS box-containing 1	2.56 ± 0.25	1.82 ± 0.10	2.10 ± 0.37	0.6	N/A	Others
+NM_000039	Apolipoprotein A-I	1.30 ± 0.86	2.75 ± 0.26	3.96 ± 0.18	0.9	N/A	Others
+NM_138444	Potassium channel tetramerization domain containing 12	2.53 ± 0.16	3.50 ± 0.10	3.78 ± 0.14	0.6	N/A	Others
+NM_003982	Solute carrier family 7 (cationic amino acid transporter, y+ system), member 7	1.21 ± 0.13	2.14 ± 0.22	3.57 ± 0.42	4	N/A	Others
+NM_002343	Lactotransferrin	1.17 ± 0.09	2.83 ± 0.87	3.37 ± 0.44	2.2	N/A	Others

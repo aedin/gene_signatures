@@ -1,0 +1,61 @@
+Accession no. Genbank/Refseq	Gene symbol	Gene description	Mean M (log2) early/late fold change	Expression in early tumor vs normal adult brain	Expression in late tumor vs normal adult brain	Function
+D12513	top2a	Topoisomerase (DNA) II alpha	1.51	+++	+++	Cell cycle and growth regulators
+X15666	Rrm2	Ribonucleotide reductase M2	1.33	+++	+	Cell cycle and growth regulators
+U02025	Igfbp5	Insulin-like growth factor binding protein 5	-2.04	ND	ND	Cell cycle and growth regulators
+U10120	Nsf	N-ethylmaleimide sensitive fusion protein	-1.77	- - -	-	Cell cycle and growth regulators
+U60593	Ndrg1	N-myc downstream regulated 1	-1.55	- - -	- -	Cell cycle and growth regulators
+AB033921	Ndrg2	N-myc downstream regulated 2	-1.43	- -	-	Cell cycle and growth regulators
+X76066	Igfbp4	Insulin-like growth factor binding protein 4	-1.3	NC	+	Cell cycle and growth regulators
+D76440	Ndn	Necdin	-1.22	- -	-	Cell cycle and growth regulators
+J00370	Fos	FBJ osteosarcoma oncogene	1.29	++	+	Transcription
+NM_144919	Hdac11	Histone deacetylase 11	-1.88	- - -	- -	Transcription
+AK009518	Tef	Thyrotroph embryonic factor	-1.51	- -	-	Transcription
+NM_145473	AI481750	RNA-binding protein pippin	-1.22	- -	-	Transcription
+AF212321	Racgap1	Rac GTPase-activating protein 1	1.2	++	+	Receptors and signal transduction
+M61896	Gja1	Gap junction protein alpha 1 (connexin 43)	-2.22	- -	NC	Receptors and signal transduction
+AF316872	Pink	PTEN-induced putative kinase	-2	- -	NC	Receptors and signal transduction
+AK007182	Chn1	Chimerin 1	-1.67	- - -	- -	Receptors and signal transduction
+NM_023168	Grina	Glutamate receptor, ionotropic, NMDA associated protein 1	-1.44	- -	-	Receptors and signal transduction
+NM_009790	Calm1	Calmodulin 1	-1.43	- - -	- -	Receptors and signal transduction
+AK003400	Drd1ip	Dopamine receptor D1 interacting protein, Calcyon	-1.31	- - -	- -	Receptors and signal transduction
+AF189817	Plekhb2	Pleckstrin homology domain containing family B (evectin) membrane 2	-1.29	- -	-	Receptors and signal transduction
+NM_007874	Dp1	Deleted in polyposis 1	-1.25	- -	-	Receptors and signal transduction
+X67469	Lrp1	Low density lipoprotein receptor related protein 1	-1.2	+	++	Receptors and signal transduction
+AK078311	Camk2g	Calcium/calmodulin dependent protein kinase II gamma	-1.2	- -	-	Receptors and signal transduction
+NM_175217	Mmd2	Monocyte to macrophage differentiation associated 2	-1.05	-	+	Receptors and signal transduction
+AY519501	Gnas	Guanine nucleotide binding protein, alpha stimulating (Gs alpha protein)	-1.02	-	+	Receptors and signal transduction
+U76253	Itm2b	Integral membrane protein 2B	-1.44	-	+	Apoptosis
+M73741	Cryab	Alpha B-crystallin	-2.04	-	+	Stress or inflammatory response
+L05670	Clu	Clusterin	-1.81	- -	NC	Stress or inflammatory response
+AK051454	Pla2g7	Phospholipase A2 group VII	-1.3	-	NC	Stress or inflammatory response
+AY043479	B3Gnt1	UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 1	2.59	++	+	Protein biosynthesis/degradation
+AF229257	Usp29	Ubiquitin specific protease 29	1.96	++	+	Protein biosynthesis/degradation
+U77630	Adm	Adrenomedullin	1.25	++	+	ECM or ECM associated
+X99807	Sepp1	Selenoprotein P, plasma, 1	-1.86	-	+	ECM or ECM associated
+X53929	Dcn	Decorin	-1.22	NC	+	ECM or ECM associated
+AF466704	Dnah5	Dynein heavy chain 5	2.64	++	NC	Cytoskeleton and cytoskeletal organization
+AF093542	Tacc3	Transforming acidic coiled-coil protein 3	1.26	+++	+	Cytoskeleton and cytoskeletal organization
+AB017026	Osbpl1a	Oxysterol binding protein-like 1A	-1.34	- - -	- -	Cytoskeleton and cytoskeletal organization
+U77330	Sparcl1	SPARC-like 1 (mast9, hevin)	-2.4	- -	NC	Cell adhesion, motility or invasion
+M59470	Cst3	Cystatin C	-1.96	- -	NC	Cell adhesion, motility or invasion
+X52886	Ctsd	Cathepsin D	-1.9	++	+++	Cell adhesion, motility or invasion
+J289016	Clstn1	Calsyntenin 1	-1.65	- - -	- -	Cell adhesion, motility or invasion
+X04017	Sparc	Secreted acidic cysteine rich glycoprotein (osteonectin)	-1.49	NC	++	Cell adhesion, motility or invasion
+M15442	Plp	Proteolipid protein (myelin)	-2.7	- - -	-	Cell differentiation
+AK039267	Aldo3/ ZebrinII	Aldolase 3, C isoform	-2.02	- -	NC	Glucose or lipid metabolism
+NM_153781	Pygb	Brain glycogen phosphorylase	-1.78	- - -	-	Glucose or lipid metabolism
+AF249894	Pfkm	Phosphofructokinase	-1.72	- -	-	Glucose or lipid metabolism
+X51905	Ldh2	Lactate dehydrogenase 2, B chain	-1.45	- -	-	Glucose or lipid metabolism
+AB049821	Bach	Brain acyl-CoA hydrolase	-1.23	- - -	- -	Glucose or lipid metabolism
+AB050554	Lpd	Lipidosis-related protein lipidosin (bubblegum)	-1.13	-	+	Glucose or lipid metabolism
+X16646	Atp1b1	ATPase, Na+/K+ transporting, beta 1 polypeptide	-1.75	- - -	- -	Cell homeostasis/ion transport
+M60170	Fth	Ferritin heavy chain	-1.69	-	+	Cell homeostasis/ion transport
+AJ223584	Atp2a2	ATPase, Ca++ transporting	-1.25	- - -	- -	Cell homeostasis/ion transport
+NM_011986	Ncdn	Neurochondrin	-2.27	- - -	- -	Other
+J04632	Gstm1	Glutathione S-transferase, mu 1	-2.08	- - -	NC	Other
+NM_024236	Qdpr	Quininoid dihydropteridine reductase	-1.47	- -	-	Other
+NM_134017	Mat2b	Methionine adenosyltransferase II, beta	-1.03	- -	-	Other
+AK013267	2810439F02Rik	2810439F02Rik	1.61	++	+	Unknown
+AK078094	D7Ertd715e	DNA segment, Chr 7, ERATO Doi 715,	1.54	++	+	Unknown
+NM_178874	1110063G11Rik	1110063G11Rik	-1.58	- - -	- -	Unknown
+AF412297	Ghitm	Growth hormone inducible transmembrane protein	-1.56	- -	-	Unknown

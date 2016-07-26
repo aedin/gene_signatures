@@ -1,0 +1,11 @@
+Rank	Gene name	Gene Bank Nr.	Signal intensity	Regulation factor	s.d.	P-value	Pathway
+ 4	Myristoylated alanine-rich protein kinase C substrate (MARCKS, 80K-L)	gb:NM_002356.4	412.67	7.42	0.69	P<0.001	Stress signalling
+ 8	Dystrophin (muscular dystrophy, Duchenne and Becker types)	gb:NM_004010.1	270.33	4.59	0.53	P<0.001	Stress resistance
+22	Heat shock 70 kDa aprotein 1B	gb:NM_005346.2	1122.9	3.39	0.51	P<0.001	Antiapoptotic; stress signalling
+45	Bag-1 (BCL2-associated athanogene)	gb:AF116273.1	675.1	3.11	0.49	P<0.001	Antiapoptotic
+55	Glutathione peroxidase 3	gb:AW149846	1225.3	2.9	0.54	P<0.001	Stress resistance/ROS-metabolism
+67	Heme oxygenase 1 (HMOX1)	gb:NM_002133.1	343.6	2.66	0.2	P<0.001	Stress resistance/ROS-metabolism
+70	Mitogen-activated protein kinase kinase 6	gb:NM_002758.1	314.9	2.62	0.21	P<0.001	Stress signalling
+81	Glutathione-S-transferase A4 (GSTA4)	gb:NM_001512.1	303.9	2.41	0.29	P<0.001	Stress resistance/ROS-metabolism
+84	Diaphorase (cytochrome b-5 reductase)	gb:NM_000903.1	3834.2	2.37	0.09	P<0.001	Stress resistance/ROS-metabolism
+87	Calmodulin 2 (phosphorylase kinase, delta)	gb:BC000454.1	2925.4	2.29	0.25	P<0.001	Stress signalling

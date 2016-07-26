@@ -1,0 +1,53 @@
+Gene Symbol	Symbol Accession	Ratio I/R 0-h	Ratio I/R 1-h	Ratio I/R 3-h	Ratio I/R 6-h	Ratio I/R 24-h	GO Term
+Tnfsf6	NM_012908.1	1.652	2.906	3.67	1.101	0.932	Cytokine
+Tnfsf10	NM_145681.1	2.856	2.23	1.187	0.171	0.795	Cytokine
+Tnfrsf4	NM_013049.1	2.5	1.164	1.218	1.978	0.725	Cytokine
+Irf1	NM_012591.1	1.395	2.276	1.685	1.529	1.653	Cytokine
+Il6	NM_012589.1	0.93	5.843	6.147	1.971	0.933	Cytokine
+Il10	NM_012854.1	4.223	3.207	3.789	2.16	0.927	Cytokine
+Il8rb	NM_017183.1	0.727	2.909	3.789	10.837	2.314	Cytokine
+Cxcl11	NM_182952.2	81.448	10.058	6.644	16.6	3.237	Adhesion molecule
+Ccl4	NM_053858.1	13.429	2.197	7.595	12.641	3.19	Adhesion molecule
+Cxcl10	NM_139089.1	26.849	11.924	7.225	11.669	0.868	Adhesion molecule
+Itgb6	NM_001004263.1	0.575	1.15	0.633	2.825	0.821	Growth factor and apoptosis-related factor
+Tgfb2	NM_031131.1	0.854	0.799	0.544	2.241	0.885	Growth factor and apoptosis-related factor
+Igfbp3	NM_012588.1	0.419	2.31	1.792	2.402	1.232	Growth factor and apoptosis-related factor
+Igfbp2	NM_013122.1	0.441	0.359	0.166	0.476	0.23	Growth factor and apoptosis-related factor
+Fgfr3	NM_053429.1	0.814	0.647	0.718	0.442	1.127	Growth factor and apoptosis-related factor
+Vegfa	NM_031836.1	0.726	1.152	0.62	0.225	0.326	Growth factor and apoptosis-related factor
+Egr1	NM_012551.1	1.03	1.552	1.309	0.202	0.406	Growth factor and apoptosis-related factor
+Nell1	NM_031069.1	0.331	0.35	0.082	0.115	0.085	Growth factor and apoptosis-related factor
+Nrp1	NM_145098.2	0.855	0.871	0.728	0.263	0.462	Growth factor and apoptosis-related factor
+Gzmb	NM_138517.2	14.984	6.069	17.038	3.05	0.569	Growth factor and apoptosis-related factor
+Bcl2a1	NM_133416.1	5.476	2.179	3.045	3.82	2.182	Growth factor and apoptosis-related factor
+Tnfsf10	NM_145681.1	2.855	2.23	1.186	0.171	0.795	Growth factor and apoptosis-related factor
+Birc3	NM_023987.2	2.232	3.069	4.665	4.91	1.857	Growth factor and apoptosis-related factor
+Bnip	NM_053420.2	1.119	1.261	0.471	0.654	1.178	Growth factor and apoptosis-related factor
+Gstm1	NM_017014.1	0.52	0.854	1.1	0.479	0.806	Oxidation and antioxidation molecule
+Gstt1	NM_053293.2	0.724	0.854	0.901	0.404	1.205	Oxidation and antioxidation molecule
+Sod2	NM_017051.2	1.203	1.575	1.996	5.08	2.23	Oxidation and antioxidation molecule
+HO-1	NM_012580.1	4.152	1.982	2.882	8.944	5.107	Oxidation and antioxidation molecule
+S100a8	NM_053822.1	0.256	1.158	1.151	1.897	1.521	Oxidation and antioxidation molecule
+S100a9	NM_053587.1	0.397	2.033	2.431	7.958	3.202	Oxidation and antioxidation molecule
+Mt3	NM_053968.2	0.136	1.928	2.978	3.266	0.647	Oxidation and antioxidation molecule
+Prdx5	NM_053610.1	2.06	1.404	1.413	2.735	2.091	Oxidation and antioxidation molecule
+Hk2	NM_012735.1	1.183	2.479	1.84	2.101	0.767	Metabolic enzyme
+Pfkfb1	NM_012621.3	0.578	0.698	0.275	0.293	0.663	Metabolic enzyme
+Pla2g2a	NM_031598.1	0.857	1.022	2.463	1.852	2.375	Metabolic enzyme
+Pla2g7	NM_001009353.1	1.579	2.258	1.757	4.2	2.233	Metabolic enzyme
+COX-2	NM_017232.2	1.047	2.129	2.973	2.172	2.144	Metabolic enzyme
+Aldh9a1	NM_022407.3	0.804	0.777	0.688	0.371	0.656	Metabolic enzyme
+Aldh1a1	NM_022407.3	0.553	0.877	0.545	0.283	0.702	Metabolic enzyme
+Aqp4	NM_012825.1	0.243	1.003	0.479	0.189	0.259	Ion channel and aquapori
+Aqp5	NM_012779.1	0.889	1.099	0.659	0.336	0.792	Ion channel and aquapori
+Fxyd6	NM_022005.1	0.695	0.881	0.745	0.276	0.562	Ion channel and aquapori
+Kcnb1	NM_013186.1	0.634	1.005	0.705	0.221	1.258	Ion channel and aquapori
+Scn3b	NM_139097.3	0.768	0.412	0.327	1.307	0.73	Ion channel and aquapori
+Atp1a2	NM_012505.1	0.425	0.559	0.282	0.152	0.582	Ion channel and aquapori
+Cacna2d1	NM_012919.2	0.485	0.825	0.703	0.511	0.385	Ion channel and aquapori
+Ccl2	NM_031530.1	2.857	3.325	0.439	10.293	1.861	Signal transduction molecule
+Ccr2	NM_021866.1	3.487	4.803	2.014	3.342	2.037	Signal transduction molecule
+Iapp	NM_012586.1	1.479	1.683	0.973	4.575	5.817	Signal transduction molecule
+Tollip_predicted	XM_341961.2	3.225	1.043	1.071	1.889	1.215	Signal transduction molecule
+Myd88	NM_198130.1	1.28	1.853	1.937	2.459	1.507	Signal transduction molecule
+Tlr4	NM_019178.1	6.411	1.426	1.337	5.139	4.454	Signal transduction molecule

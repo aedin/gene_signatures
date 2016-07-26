@@ -1,0 +1,43 @@
+Clone ID	Abbrev.	Title	Wilcoxon	t test	Putative functiona	Wilcoxon 13 cr vs.11 nr	t test	Relative expressionb
+195458	EST	EST	0.00004	0.00003	Unknown	0.0004	0.00031	Suppressed
+768496	EBI3	EBI3	0.00004	0.00051	IL-12 facilitator	0.00005	0.00138	Enhanced
+269815	INHBA	Inhibin, ?A	0.00008	0.00013	TGF-? family	0.00312	0.00344	Enhanced
+280752	RBL2	Retinoblastoma-like 2 (p130)	0.00018	0.0001	Putative tumor suppressor	0.02035	0.005	Suppressed
+811116	EST	EST	0.00029	0.00022	Unknown	0.00479	0.0052	Enhanced
+504469	ODF2	Outer dense fibre of sperm tails 2	0.0004	0.00019	Cell migration	0.00885	0.00606	Enhanced
+588637	ACTG1	Actin-cytoskeleton ? actin	0.0004	0.00022	Cell migration	0.00389	0.00184	Suppressed
+323917	EHD1	EH domain containing 1	0.00044	0.00554	Ligand-induced endocytosis	0.00056	0.00397	Enhanced
+365098	BNIP3L	BCL2/adenovirus E1B 19kD-interacting protein 3-like	0.00047	0.00027	Putative tumor suppressor	0.00092	0.00138	Suppressed
+814095	LTA4H	Leukotriene A4 hydrolase	0.00047	0.00146	Immediate hypersensitivity	0.00385	0.00743	Suppressed
+321739	IRF2	IFN-? regulatory factor 2	0.00055	0.00019	IFN expression regulation	0.00727	0.00289	Enhanced
+109316	Serpina3	?1-antichymotrypsin	0.00055	0.00872	Proteinase inhibitor	0.01075	NSc	Enhanced
+1457955	EST	EST	0.00076	0.00019	Unknown	0.00385	0.00175	Suppressed
+51463	BIRC1	Neuronal apoptosis inhibitory protein	0.00095	0.00129	Apoptosis regulator	0.00562	0.01252	Suppressed
+323371	APP	Amyloid ? (A4) precursor protein	0.001	0.00099	Intracellular signaling	0.00594	0.00402	Enhanced
+142259	FIP2	Tumor necrosis factor ?-inducible cellular protein	0.00118	0.00041	TNF pathway	0.00727	0.00441	Suppressed
+854138	CSNK1E	Casein kinase 1, epsilon	0.00118	0.01792	DNA replication repair	0.0003	0.00258	Enhanced
+322160	PTEN	MMAC1-PTEN-Tumor suppressor gene	0.00118	0.00067	Putative tumor suppressor	0.00482	0.00338	Suppressed
+796297	KIAA1605	KIAA1605	0.00136	0.00051	Unknown	0.00092	0.00055	Enhanced
+345935	MADH	MADH3	0.00157	0.00044	TGF-? response regulator	0.00053	0.0003	Enhanced
+588915	IFI27	IFN, ?-inducible protein 27	0.00176	0.01109	IFN-induced tumor suppressor	0.00098	NS	Suppressed
+344080	SHMT2	Serine hydroxymethyltransferase mitochondrial precursor	0.00206	0.00097	Cell metabolism	0.00474	0.02665	Enhanced
+240109	FLJ10632	Homo sapiens cDNA FLJ10632	0.00216	0.00065	Unknown	0.01587	0.0143	Suppressed
+725284	PHKG2	Phosphorylase kinase, gamma 2	0.00238	0.00301	Kinase	0.00219	0.00091	Enhanced
+240099	EST	EST	0.00327	0.01459	Unknown	0.00086	0.00514	Suppressed
+324210	SR-BP1	Sigma receptor (SR31747 binding protein 1)	0.00354	0.00271	Cell proliferation regulation	0.00197	0.00085	Enhanced
+43884	PPIF	Peptidylprolyl isomerase F (cyclophilin F)	0.00402	0.00099	Cell metabolism	NS	0.04096	Enhanced
+563423	JAK1	JAK1	0.0083	0.01792	IL-2 receptor regulation	0.00008	0.00007	Suppressed
+136218	TIA1	TIA1 cytotoxic granule-associated RNA-binding protein	0.01111	0.00642	CTL-mediated cytolysis	0.00056	0.00168	Enhanced
+1103633	KIAA0515	KIAA0515	0.02179	0.03866	Unknown	0.00053	NS	Suppressed
+322961	CAPZB	Capping protein (actin filament) muscle Z-line, beta	0.03756	0.02295	Cell migration	0.00055	0.00027	Enhanced
+221846	CHES1	Checkpoint suppressor 1	0.04612	0.04285	DNA-damage checkpoint	0.00154	0.00071	Suppressed
+148421	TXK	TXK tyrosine kinase	NS	NS	T-cell regulation	0.00156	0.00012	Suppressed
+377560	CD3 delta	CD3 ?	ND	0.46798	T-cell marker	ND	0.5	Equal
+306841	TCR	T cell receptor beta locus	ND	0.68111	T-cell marker	ND	0.75879	Equal
+771258	CD8 alpha	CD8 ? chain	ND	0.85709	Cytotoxic T-cell marker	ND	0.39163	Equal
+86189	CD4	CD4 (p55)	ND	0.09511	Helper T-cell marker	ND	0.34623	Equal
+282679	CD16	CD16-Fc? receptor IIIa	ND	0.62066	NK cell marker	ND	0.95314	Equal
+154015	CD11A	CD11A-Integrin, ? L-LFA-1 ? chain	ND	0.84775	Leukocyte-associated marker	ND	0.80301	Equal
+435434	CD14	CD14	ND	0.42577	Macrophage marker	ND	0.56275	Equal
+50214	CD86	CD86, B72, CD28/CTLA-4 ligand	ND	0.37608	Macrophage/B-cell marker	ND	0.97991	Equal
+564503	CD83	CD83-B-G antigen IgV domain homolog-HB15	ND	0.38766	Activated B cells and dendritic cells	ND	0.69852	Equal

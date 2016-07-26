@@ -1,0 +1,61 @@
+Affymetrix Probe ID	Gene name	Gene symbol	p16 siRNA vs control siRNA UV  12 h	24 h	48 h	p16 siRNA vs control siRNA w/o UV 24 h	48 h	72 h	Function
+202387_at	BCL2-associated athanogene	BAG1	NC	__	__	NC	NC	NC	Anti-apoptosis
+201150_s_at	Tissue inhibitor of metalloproteinase 3	TIMP3	NC	__	__	NC	NC	NC	Anti-apoptosis
+207163_s_at	v-Akt murine thymoma viral oncogene homologue 1	AKT1	NC	__	__	NC	NC	NC	Anti-apoptosis
+200798_x_at	Myeloid cell leukemia sequence 1 (BCL2-related)	MCL1	NC	__	__	NC	NC	NC	Anti-apoptosis
+220643_s_at	Fas apoptotic inhibitory molecule	FAIM	NC	__	__	NC	NC	NC	Anti-apoptosis
+211300_s_at	Tumor protein p53 (Li–Fraumeni syndrome)	TP53	++	++	++	++	++	++	Apoptosis - p53 immediate downstream regulated genes
+203120_at	Tumor protein p53 binding protein, 2	TP53BP2	NC	++	++	NC	NC	NC	Apoptosis - p53 immediate downstream regulated genes
+204531_s_at	breast cancer 1, early onset	BRCA1	NC	++	++	NC	NC	NC	Apoptosis - p53 immediate downstream regulated genes
+202981_x_at	SIAH1 seven in absentia homologue 1 (Drosophila)	SIAH1	NC	++	++	NC	NC	++	Apoptosis - p53 immediate downstream regulated genes
+204947_at	E2F transcription factor 1	E2F1	++	++	++	NC	NC	NC	Apoptosis - p53 immediate downstream regulated genes
+202284_s_at	CDK inhibitor 1A (p21, Cip1)	CDKN1A	NC	++	++	NC	NC	NC	Apoptosis - p53 immediate downstream regulated genes
+209112_at	CDK inhibitor 1B (p27, Kip1)	CDKN1B	NC	++	++	NC	++	NC	Apoptosis - p53 immediate downstream regulated genes
+205516_x_at	CDKN1A interacting zinc-finger protein 1	CIZ1	NC	++	++	NC	NC	NC	Apoptosis - p53 immediate downstream regulated genes
+208878_s_at	p21 (CDKN1A)-activated kinase 2	PAK2	NC	++	++	NC	NC	NC	Apoptosis - p53 immediate downstream regulated genes
+33814_at	p21(CDKN1A)-activated kinase 4	PAK4	NC	++	++	NC	NC	NC	Apoptosis - p53 immediate downstream regulated genes
+201202_at	Proliferating cell nuclear antigen	PCNA	NC	++	++	NC	NC	NC	Apoptosis - p53 immediate downstream regulated genes
+203725_at	GADD45A growth arrest and DNA-damage-inducible, 	GADD45A	NC	++	++	NC	NC	NC	Apoptosis - p53 immediate downstream regulated genes
+209970_x_at	Caspase 1, apoptosis-related cysteine protease	CASP1	++	++	++	NC	NC	NC	Apoptosis – intrinsic (mitochondrial) pathway
+208050_s_at	Caspase 2, apoptosis-related cysteine protease	CASP2	++	++	++	NC	NC	NC	Apoptosis – intrinsic (mitochondrial) pathway
+210026_s_at	Caspase recruitment domain family, member 10	CARD10	NC	++	++	NC	NC	NC	Apoptosis – intrinsic (mitochondrial) pathway
+205263_at	B-cell CLL/lymphoma 10	BCL10	++	++	++	NC	NC	NC	Apoptosis – intrinsic (mitochondrial) pathway
+206665_s_at	BCL2-like 1	BCL2L1	++	++	++	NC	NC	NC	Apoptosis – intrinsic (mitochondrial) pathway
+222343_at	BCL2-like 11 (apoptosis facilitator)	BCL2L11	++	++	++	NC	NC	NC	Apoptosis – intrinsic (mitochondrial) pathway
+211725_s_at	BH3 interacting domain death agonist	BID	NC	++	++	NC	NC	NC	Apoptosis – intrinsic (mitochondrial) pathway
+202985_s_at	BAG5 BCL2-associated athanogene 5	BAG5	NC	++	++	NC	NC	NC	Apoptosis – intrinsic (mitochondrial) pathway
+201101_s_at	BCL2-associated transcription factor 1	BCLAF1	NC	++	++	NC	NC	NC	Apoptosis – intrinsic (mitochondrial) pathway
+218732_at	Bcl-2 inhibitor of transcription	BIT1	NC	++	++	NC	NC	NC	Apoptosis – intrinsic (mitochondrial) pathway
+209308_s_at	BCL2/adenovirus E1B 19 kDa interacting protein 2	BNIP2	NC	++	++	NC	NC	NC	Apoptosis – intrinsic (mitochondrial) pathway
+201848_s_at	BCL2/adenovirus E1B 19 kDa interacting protein 3	BNIP3	NC	++	++	NC	NC	NC	Apoptosis – intrinsic (mitochondrial) pathway
+208905_at	Cytochrome c, somatic	CYCS	++	++	++	NC	NC	NC	Apoptosis – intrinsic (mitochondrial) pathway
+204859_s_at	Apoptotic protease activating factor	APAF1	NC	++	++	NC	NC	NC	Apoptosis – intrinsic (mitochondrial) pathway
+219350_s_at	Diablo homologue (Drosophila)	DIABLO	NC	++	++	NC	NC	NC	Apoptosis – intrinsic (mitochondrial) pathway
+213373_s_at	Caspase 8, apoptosis-related cysteine protease	CASP8	NC	++	++	NC	NC	NC	Apoptosis – extrinsic (death receptor) pathway
+209939_x_at	CASP8 and FADD-like apoptosis regulator	CFLAR	NC	++	++	NC	NC	NC	Apoptosis – extrinsic (death receptor) pathway
+215719_x_at	Fas (TNF receptor superfamily, member 6)	FAS	NC	++	++	NC	NC	NC	Apoptosis – extrinsic (death receptor) pathway
+202535_at	Fas (TNFRSF6)-associated via death domain	FADD	NC	++	++	NC	NC	NC	Apoptosis – extrinsic (death receptor) pathway
+208315_x_at	TNF receptor-associated factor 3	TRAF3	++	++	++	NC	NC	NC	Apoptosis – extrinsic (death receptor) pathway
+202871_at	TNF receptor-associated factor 4	TRAF4	NC	++	++	NC	NC	NC	Apoptosis – extrinsic (death receptor) pathway
+204352_at	TNF receptor-associated factor 5	TRAF5	NC	++	++	NC	NC	NC	Apoptosis – extrinsic (death receptor) pathway
+206907_at	TNF (ligand) superfamily, member 9	TNFSF9	NC	++	++	NC	NC	NC	Apoptosis – extrinsic (death receptor) pathway
+209294_x_at	TNF receptor superfamily, member 10b	TNFRSF10B	NC	++	++	NC	NC	NC	Apoptosis – extrinsic (death receptor) pathway
+210654_at	TNF receptor superfamily, member 10d	TNFRSF10D	NC	++	++	NC	NC	NC	Apoptosis – extrinsic (death receptor) pathway
+202643_s_at	TNF, alpha-induced protein 3	TNFAIP3	NC	++	++	NC	NC	NC	Apoptosis – extrinsic (death receptor) pathway
+218368_s_at	TNF receptor superfamily, member 12A	TNFRSF12A	++	++	++	NC	NC	NC	Apoptosis – extrinsic (death receptor) pathway
+201502_s_at	NFKBIA nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, alpha	NFKBIA	++	++	++	NC	NC	NC	Apoptosis – extrinsic (death receptor) pathway
+202731_at	Programmed-cell death 4 (neoplastic transformation inhibitor)	PDCD4	NC	++	++	NC	NC	NC	Apoptosis-related Genes
+203415_at	Programmed-cell death 6	PDCD6	NC	++	++	NC	NC	NC	Apoptosis-related Genes
+212422_at	Programmed-cell death 11	PDCD11	NC	++	++	NC	NC	NC	Apoptosis-related Genes
+217746_s_at	Programmed-cell death 6 interacting protein	PDCD6IP	NC	++	++	NC	NC	NC	Apoptosis-related Genes
+201715_s_at	Apoptotic chromatin condensation inducer 1	ACIN1	NC	++	++	NC	NC	NC	Apoptosis-related Genes
+204004_at	PRKC, apoptosis, WT1, regulator	PAWR	NC	++	++	NC	NC	NC	Apoptosis-related Genes
+201095_at	Death-associated protein	DAP	NC	++	++	NC	NC	NC	Apoptosis-related Genes
+208791_at	Clusterin	CLU	NC	++	++	NC	NC	NC	Apoptosis-related Genes
+218350_s_at	Geminin, DNA replication inhibitor	GMNN	NC	++	++	NC	NC	NC	Apoptosis-related Genes
+220864_s_at	Cell death-regulatory protein GRIM19	GRIM19	NC	++	++	NC	NC	NC	Apoptosis-related Genes
+202431_s_at	v-myc myelocytomatosis viral oncogene homologue (avian)	MYC	NC	++	++	NC	NC	NC	Apoptosis-related Genes
+201710_at	v-myb myeloblastosis viral oncogene homologue (avian)-like 2	MYBL2	++	++	++	NC	NC	NC	Apoptosis-related Genes
+203359_s_at	c-myc binding protein	MYCBP	NC	++	++	NC	NC	NC	Apoptosis-related Genes
+212099_at	RHOB ras homologue gene family, member B	RHOB	++	++	++	NC	NC	NC	Apoptosis-related Genes
+200607_s_at	RAD21 RAD21 homologue (S. pombe)	RAD21	NC	++	++	NC	NC	++	Apoptosis-related Genes

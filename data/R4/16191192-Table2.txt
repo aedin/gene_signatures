@@ -1,0 +1,69 @@
+Function	Name	GenBank	Locus	Pr(F)	Cluster
+Anti-apoptosis	BID	AF042083	22q11.1	1.00E-07	Middle
+Anti-apoptosis	BIRC2	U37547	11q22	0.00017	Middle
+Anti-apoptosis	TNFAIP3	M59465	6q23	4.67E-11	Early
+Cytokine	IL8	M28130	4q13	4.02E-08	Early
+Cytokine	IL6	X04430	7p21	8.89E-08	Early
+Cytokine	TNF	X02910	6p21.3	0.002926	Early
+Cytokine	CXCL1/Gro-a	X54489	4q21	6.04E-07	Early
+Cytokine	CXCL3/Gro-g	M36821	4q21	4.62E-08	Early
+Cytokine	CXCL2/Gro-b	M36820	4q21	9.88E-15	Early
+Cytokine	CCL20/Exodus-1	U64197	2q33	1.96E-07	Early
+Growth Factors/Secreted Proteins	TNFAIP2/B94	M92357	14q32	1.20E-09	Middle
+Growth Factors/Secreted Proteins	Comp B	L15702	6p21.3	1.20E-08	Middle
+Growth Factors/Secreted Proteins	EFNA1	M57730	1q21	8.34E-05	Early
+Growth Factors/Secreted Proteins	Follistatin	M19481	5q11.2	2.26E-05	Paradox
+Growth Factors/Secreted Proteins	CTGF	X78947	6q23.1	3.60E-06	Paradox
+Growth Factors/Secreted Proteins	SCGF	AF020044	19q13.3	0.002939	Paradox
+Metabolic	SOD2	X07834	6q25.3	2.98E-07	Middle
+Metabolic	GCH1	U19523	14q22.1	3.93E-07	Middle
+Metabolic	GFPT2	AB016789	5q34-q35	8.00E-10	Middle
+Metabolic	TIMP2	U44385	17q25	0.009703	Paradox
+Metabolic	HES1	L19314	3q28	0.000133	Paradox
+Metabolic	CYB5	L39945	18q23	0.005638	Biphasic
+Metabolic	PSMB9	AA808961	6p21.3	1.00E-09	Biphasic
+Metabolic	PSMB8	X87344	6p21.3	0.007828	Biphasic
+Receptor/cell surface	KLRC3	AJ001685	12p13	0.000029	Middle
+Receptor/cell surface	SDC4	D79206	20q12	6.60E-08	Middle
+Receptor/cell surface	SLC7A2	D29990	8p22	0.004933	Middle
+Receptor/cell surface	CD83	Z11697	6p23	1.50E-11	Middle
+Receptor/cell surface	IFNGR2	U05875	21q22.11	4.18E-06	Middle
+Receptor/cell surface	ECE1	Z35307	1p36.1	0.004074	Middle
+Receptor/cell surface	KLRC2	AJ001684	12p13	0.000822	Late
+Receptor/cell surface	ICAM1	M24283	19p13.3	0.000124	Late
+Receptor/cell surface	IL27RA	AI263885	19p13.11	6.00E-09	Late
+Receptors	TAP1	X57522	6p21.3	1.00E-08	Late
+Receptors	TAPBP	AF029750	6p21.3	1.20E-07	Late
+Receptors	NK4	AA631972	16p13.3	4.00E-08	Late
+Receptors	KCNG1	AL050404	20q13	1.21E-10	Paradox
+Receptors	ITGB5	X53002	3q21.2	0.003318	Paradox
+Receptors	GPR49	AF062006	12q22	0.006668	Paradox
+Receptors	CHRNB4	U48861	15q24	0.00637	Paradox
+Receptors	F2RL1	U67058	5q13	2.67E-05	Paradox
+Receptors	AQP3	N74607	9p13	0.008818	Biphasic
+Signaling	IkBe	U91616	6p21.1	1.10E-10	Middle
+Signaling	BCL3	U05681	19q13.1	8.44E-05	Middle
+Signaling	TRAF2	U12597	9q34	0.001067	Middle
+Signaling	TRAF1	U19261	9q33-q34	5.87E-07	Late
+Signaling	TRAF3	U21092	14q32.33	0.000139	Late
+Signaling	IkBa	M69043	14q13	5.55E-15	Early
+Signaling	PTGS2	U04636	1q25.2	3.43E-08	Early
+Signaling	PPP1R3C	N36638	10q23-q24	0.000734	Paradox
+Signaling	DUSP4	U48807	8p12	8.40E-06	Paradox
+Signaling	PTGES	AF010316	9q34.3	0.002286	Late
+Transcription factor	NF-kB1	M58603	4q24	1.73E-08	Middle
+Transcription factor	RELB	M83221	19q13.32	4.00E-14	Middle
+Transcription factor	NFKB2	X61498	10q24	3.62E-14	Late
+Transcription factor	REL	X75042	2p13	0.00011	Early
+Transcription factor	IRF1	L05072	5q31.1	1.79E-06	Early
+Transcription factor	TRIM16	AF096870	17p11.2	0.000221	Late
+Unknown	Unknown	HG371-HT26388	-	7.53E-05	Late
+Unknown	TNIP1/Naf-1	AJ011896	5q32	1.00E-11	Late
+Unknown	PLAU	X02419	10q24	0.000399	Early
+Unknown	OLFML2A	AL050002	9q34.11	0.000027	Paradox
+Unknown	HBE1	AI349593	11p15.5	2.00E-07	Paradox
+Unknown	chimeric	Y15915	-	0.005238	Paradox
+Unknown	DLX2	U51003	2q32	0.008043	Paradox
+Unknown	Transgelin	D17409	11q23.2	0.00012	Paradox
+Unknown	IFI35	U72882	17q21	0.004532	Biphasic
+Unknown	MVP	X79882	16p13.1	0.004212	Biphasic

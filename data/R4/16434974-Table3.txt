@@ -1,0 +1,68 @@
+GenBank	Symbol	Gene/protein	Epidermis	NHEK	Function
+NM_003914.1	CCNA1	Cyclin A1	=	+	Cell cycle
+NM_001759.1	CCND2	Cyclin D2	+	-	Cell cycle
+NM_004701.2	CCNB2	Cyclin B2	+	-	Cell cycle
+AW134535	CCNG2	Cyclin G2	+	-	Cell cycle
+NM_000946	PRIM1	DNA primase, G1 to S cell-cycle reactome	+	=	Cell cycle
+NM_001269	CHC1	Chromosome condensation 1, (G1/S transition of mitotic cell cycle DNA packaging)	+	=	Cell cycle
+N33167	CDKN1C	Cyclin-dependent kinase inhibitor 1C (p57, Kip2)	-	+	Cell cycle
+NM_005197	CHES1	Checkpoint suppressor 1	-	=	Cell cycle
+M68520	CDK2	Cyclin-dependent kinase 2	-	=	Cell cycle
+U49844	ATR	Ataxia telangiectasia and Rad3 related	-	-	Cell cycle
+NM_000380.1	XPA	Xeroderma pigmentosum, complementation group A	=	-	Repair
+D21089.1	XPC	Xeroderma pigmentosum, complementation group C	+	=	Repair
+NM_000107	DDB2	Damage-specific DNA-binding protein 2, nucleotide-excision repair	+	=	Repair
+NM_002691	POLD1	Polymerase delta 1, DNA replication DNA repair response to UV	+	=	Repair
+NM_006297	XRCC1	X-ray repair complementing defective repair	+	=	Repair
+AL080203	POLE	Polymerase (DNA directed), epsilon; DNA replication and DNA repair	+	=	Repair
+AJ243797	TREX1	Three prime repair exonuclease 1	+		Repair
+NM_002690	POLB	Polymerase (DNA directed), beta (DNA replication and DNA repair)	=	+	Repair
+NM_001983	ERCC1	Excision repair cross-complementing rodent repair deficiency, complementation group 1	=	+	Repair
+NM_002412	MGMT	O-6-methylguanine-DNA methyltransferase; DNA ligation, DNA repair	=	+	Repair
+M14745	Bcl-2		=	+	Apoptosis
+NM_004052	BNIP3	BCL2/adenovirus E1B-interacting protein 3 (antiapoptosis)	+	=	Apoptosis
+AL117381	BCL2L1	BCL2-like 1 (antiapoptosis)	+	=	Apoptosis
+M59465	TNFAIP3	TNF- induced protein 3	-	+	Apoptosis
+NM_001066	TNFRSF1B	Tumor necrosis factor receptor superfamily, member 1B	=	+	Apoptosis
+BF439983	CASP8	Caspase 8, apoptosis-related cysteine protease	+	-	Apoptosis
+U13699	CASP1	Caspase 1, apoptosis-related cysteine protease	=	+	Apoptosis
+AK024029	MOAP1	Modulator of apoptosis 1	=	+	Apoptosis
+U83981	PPP1R15A	Protein phosphatase 1, apoptosis response to DNA damage stimulus	=	+	Apoptosis
+BF686824	DAPK3	Death-associated protein kinase 3	-	=	Apoptosis
+NM_001166	BIRC2	Baculoviral IAP repeat-containing 2 (antiapoptosis)	=	-	Apoptosis
+NM_015675.1	GADD45B	Growth arrest and DNA-damage-inducible, beta	=	+	p53 target genes
+NM_000389.1	CDKN1A	Cyclin-dependent kinase inhibitor 1A (p21, Cip1)	=	+	p53 target genes
+NM_001924.2	GADD45A	Growth arrest and DNA-damage-inducible, alpha	=	+	p53 target genes
+M31159.1	IGFBP3	Insulin-like growth factor-binding protein 3	-	=	p53 target genes
+NM_005426.1	TP53BP2	Tumor protein p53-binding protein, 2	-	=	p53 target genes
+NM_003922.1	HERC1	Hect (homologous to the E6-AP (UBE3A) carboxyl terminus) domain and RCC1 (CHC1)-like domain (RLD) 1	-	=	p53 target genes
+NM_002656.1	PLAGL1	Pleiomorphic adenoma gene-like 1	-	=	p53 target genes
+NM_005657.1	TP53BP1	Tumor protein p53-binding protein, 1	=	-	p53 target genes
+NM_002467.1	MYC	v-Myc myelocytomatosis viral oncogene homolog (avian)	-	-	Growth factors and oncogenes
+NM_001953.2	ECGF1	Endothelial cell growth factor 1 (platelet-derived)	+	+	Growth factors and oncogenes
+NM_002965.2	S100A9	S100 calcium-binding protein A9 (calgranulin B)	+	+	Epidermal differentiation complex, calcium-binding proteins
+NM_017445.1	H2BFT	H2B histone family, member T	+	+	Histones
+NM_003528.1	H2BFQ	H2B histone family, member Q	+	+	Histones
+AA451996	H2AFO	H2A histone family, member O	+	+	Histones
+NM_003522.1	H2BFG	H2B histone family, member G	+	+	Histones
+BC000893.1	H2BFT	H2B histone family, member T	+	+	Histones
+NM_021052.1	H2AFA	H2A histone family, member A	+	+	Histones
+BC002649.1	H1F2	H1 histone family, member 2	+	+	Histones
+NM_006026.1	H1FX	H1 histone family, member X	+	+	Histones
+AF119873.1	SERPINA1	Serine (or cysteine) proteinase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1	+	=	Serpins (Serine proteases inhibitors)
+AI554300	SERPINB1	Serine (or cysteine) proteinase inhibitor, clade B (ovalbumin), member 1	+	=	Serpins (Serine proteases inhibitors)
+BC005224.1	SERPINB3 SCCA1	Serine (or cysteine) proteinase inhibitor, clade B (ovalbumin), member 3	+	=	Serpins (Serine proteases inhibitors)
+NM_005532.1	IFI27	Interferon, alpha-inducible protein 27	+	+	Cytokines and chemokines
+NM_003856.1	IL1RL1	Interleukin 1 receptor-like 1	+	+	Cytokines and chemokines
+NM_004591.1	CCL20	Chemokine (C-C motif) ligand 20	+	+	Cytokines and chemokines
+NM_001560.1	IL13RA1	Interleukin 13 receptor, alpha 1	+	+	Cytokines and chemokines
+AF043337.1	IL8	Interleukin 8	+	+	Cytokines and chemokines
+NM_001562.1	IL18	Interleukin 18	-	-	Cytokines and chemokines
+NM_002421.2	MMP1	Matrix metalloproteinase 1 (interstitial collagenase)	+	+	Extracellular matrix affecting factors
+NM_001814.1	CTSC	Cathepsin C	+	+	Extracellular matrix affecting factors
+NM_003254.1	TIMP1	Tissue inhibitor of metalloproteinase 1	+	+	Extracellular matrix affecting factors
+NM_002084.2	GPX3	Glutathione peroxidase 3 (plasma)	+	+	Oxidative stress related
+NM_000581.1	GPX1	Glutathione peroxidase 1	+	+	Oxidative stress related
+NM_002083.1	GPX2	Glutathione peroxidase 2 (gastrointestinal)	+	+	Oxidative stress related
+NM_001752.1	CAT	Catalase	-	-	Oxidative stress related
+X51757	HSPA6	Heat shock 70 kDa protein 6 (HSP70B)	-	-	Heat shock

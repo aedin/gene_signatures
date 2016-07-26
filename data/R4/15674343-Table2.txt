@@ -1,0 +1,23 @@
+Gene symbol	Gene description	Gene function according to Gene Ontology (GO) terms	IMAGE clone ID	Fold change	q-value(%)	Sample
+HOXB5	Homeo box B5	Transcription factor activity, transcription factor activity	150702	2.3	0.32	FLT3-LM vs wt samples
+HBA2	Hemoglobin, alpha 2	Oxygen transporter activity	292475	2.1	0.32	FLT3-LM vs wt samples
+MBD1	Methyl-CpG-binding domain protein 1	Methyl-CpG binding, transcription factor activity, DNA binding, zinc ion binding	134257	2.1	0.32	FLT3-LM vs wt samples
+WEE1	WEE1 homologue	Regulation of cell cycle, mitosis, transferase activity, protein-tyrosine kinase activity, ATP binding, protein serine/threonine kinase activity	183173	-2.1	0.32	FLT3-LM vs wt samples
+RPS3	Homo sapiens ribosomal protein S3	Structural constituent of ribosome	1008786	-2.2	0.32	FLT3-LM vs wt samples
+RAC2	Ras-related C3 botulinum toxin substrate 2 (rho family, small GTP-binding protein Rac2)	Rho small monomeric GTPase activity	346333	-2.2	0.32	FLT3-LM vs wt samples
+PKMYT1	Membrane-associated tyrosine- and threonine-specific cdc2-inhibitory kinase	Transferase activity, protein serine/threonine kinase activity, ATP binding, protein amino-acid phosphorylation	730977	-2.3	0.32	FLT3-LM vs wt samples
+KIF23	Kinesin family member 23	Cell cycle, mitosis, mitotic spindle elongation, microtubule motor activity	1988721	-2.3	0.32	FLT3-LM vs wt samples
+RPL28	Ribosomal protein L28	Structural constituent of ribosome	42131	-2.6	0.32	FLT3-LM vs wt samples
+LDHB	Lactate dehydrogenase B	Oxidoreductase activity, l-lactate dehydrogenase activity, glycolysis	610907	-2.7	0.32	FLT3-LM vs wt samples
+CDC14A	CDC14 cell division cycle 14 homologue A	Phosphoprotein phosphatase activity, protein tyrosine phosphatase activity, protein tyrosine/serine/threonine phosphatase activity	22306	-2.9	0.32	FLT3-LM vs wt samples
+FOXA1	Forkhead box A1	Regulation of transcription, transcription factor activity	941910	2.7	0.78	FLT3-TKD vs wt samples
+SMG1	PI-3-kinase-related kinase SMG-1	Inositol/phosphatidylinositol kinase activity	261580	2.5	0.78	FLT3-TKD vs wt samples
+CDK9	Cyclin-dependent kinase 9 (CDC2-related kinase)	Regulation of cell cycle, protein serine/threonine kinase activity, positive transcription elongation factor activity	324698	2.3	0.78	FLT3-TKD vs wt samples
+LFNG	Lunatic fringe homolog	Transferase activity	40887	2.2	0.78	FLT3-TKD vs wt samples
+CCT8	Chaperonin containing TCP1, subunit 8 (theta)	Chaperonin ATPase activity	5583911	-2.7	0.78	FLT3-TKD vs wt samples
+SERPINH1	Serine (or cysteine) proteinase inhibitor, clade H (heat-shock protein 47), member 1	Heat-shock protein activity, serine-type endopeptidase inhibitor activity, collagen binding	202146	-2.7	0.78	FLT3-TKD vs wt samples
+FOXA1	Forkhead box A1	Regulation of transcription, transcription factor activity	941910	2.4	0.21	NRAS-PM vs wt samples
+SMG1	PI-3-kinase-related kinase SMG-1	Inositol/phosphatidylinositol kinase activity	261580	2.3	0.21	NRAS-PM vs wt samples
+CCRK	Cell cycle related kinase	Regulation of cell cycle, transferase activity, protein-tyrosine kinase activity, ATP binding, protein serine/threonine kinase activity	33430	2.1	0.21	NRAS-PM vs wt samples
+CYP2J2	Cytochrome P450, family 2, subfamily J, polypeptide 2	Electron transport, oxidoreductase activity, icosanoid metabolism	245490	-2.1	0.21	NRAS-PM vs wt samples
+HSPA5	Heat-shock 70 kDa protein 5 (glucose-regulated protein, 78 kDa)	ATP binding, Hsp70/Hsp90 organizing protein activity	366350	-2.9	0.21	NRAS-PM vs wt samples

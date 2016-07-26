@@ -1,0 +1,102 @@
+Symbol	Gene name	Accession2	Ratio3	n4	p-value	Expression
+ELK4	ELK4, ETS-domain protein (SRF accessory protein 1)	H61758	1,55	7	0,024	Up-regulated
+CEBPD	CCAAT/enhancer binding protein (C/EBP), delta	AA043506	1,55	7	0,01	Up-regulated
+MAT2A	methionine adenosyltransferase II, alpha	T59286	1,53	6	0,04	Up-regulated
+ACTG2	actin, gamma 2, smooth muscle, enteric	T60048	1,52	8	0,016	Up-regulated
+NCOA3	nuclear receptor coactivator 3	AA156793	1,48	8	0,001	Up-regulated
+ATF4	activating transcription factor 4 (tax-responsive enhancer element B67)	AA600217	1,46	8	0,005	Up-regulated
+LGALS3BP	lectin, galactoside-binding, soluble, 3 binding protein (galectin 6 binding protein)	AA485353	1,45	8	0,001	Up-regulated
+GTF2F1	general transcription factor IIF, polypeptide 1 (74kD subunit)	AA282092	1,45	8	0,008	Up-regulated
+CCNI	cyclin I	AA434408	1,42	7	0,002	Up-regulated
+LAMR1	laminin receptor 1 (67kD, ribosomal protein SA)	AA629897	1,41	8	0,001	Up-regulated
+MLF2	Myeloid leukemia factor 2	AA480835	1,4	8	0,001	Up-regulated
+MAPK4	Mitogen-activated protein kinase 4	AA401035	1,4	8	0,003	Up-regulated
+CYP2C8	cytochrome P450, subfamily IIC (mephenytoin 4-hydroxylase), polypeptide 8	N53136	1,39	8	0,018	Up-regulated
+NFE2L1	nuclear factor (erythroid-derived 2)-like 1	AA496576	1,38	8	<0.001	Up-regulated
+MCM3	minichromosome maintenance deficient (S. cerevisiae) 3	AA455786	1,38	8	0,001	Up-regulated
+CAMP	cathelicidin antimicrobial peptide	AA609759	1,36	8	0,001	Up-regulated
+NFATC1	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 1	AA679278	1,36	7	0,011	Up-regulated
+MYPT2	myosin phosphatase, target subunit 2	AA463926	1,36	7	0,004	Up-regulated
+GSTT1	glutathione S-transferase theta 1	H99813	1,36	8	0,004	Up-regulated
+HSRTSBETA	rTS beta protein	N66132	1,35	8	0,002	Up-regulated
+ANXA4	Annexin A4	AA419108	1,35	6	0,034	Up-regulated
+ACADVL	acyl-Coenzyme A dehydrogenase, very long chain	AA464163	1,33	8	0,001	Up-regulated
+CSDA	cold shock domain protein A	AA465019	1,33	4	0,03	Up-regulated
+PPIG	Peptidyl-prolyl isomerase G (cyclophilin G)	AA458502	1,33	8	0,008	Up-regulated
+BCKDHA	branched chain keto acid dehydrogenase E1, alpha polypeptide (maple syrup urine disease)	AA477298	1,33	8	0,019	Up-regulated
+MAP1B	microtubule-associated protein 1B	AA219045	1,33	8	0,001	Up-regulated
+IGF2R	insulin-like growth factor 2 receptor	T62547	1,32	8	0,028	Up-regulated
+LMO2	LIM domain only 2 (rhombotin-like 1)	AA464644	1,32	8	0,002	Up-regulated
+GSTM5	glutathione S-transferase M5	AA056232	1,31	8	0,004	Up-regulated
+NP	nucleoside phosphorylase	AA430382	1,3	8	0,002	Up-regulated
+DSP	desmoplakin (DPI, DPII)	H90899	1,3	7	0,031	Up-regulated
+BAK1	BCL2-antagonist/killer 1	H52673	1,29	8	0,017	Up-regulated
+STK12	serine/threonine kinase 12	AA071486	1,28	8	0,006	Up-regulated
+TJ6	TJ6 protein	N70122	1,28	7	0,003	Up-regulated
+ANXA11	Annexin A11	AA465051	1,27	8	0,023	Up-regulated
+DPYD	dihydropyrimidine dehydrogenase	AA428170	1,27	8	0,008	Up-regulated
+PCDH1	protocadherin 1 (cadherin-like 1)	AA443557	1,27	8	<0.001	Up-regulated
+SYPL	synaptophysin-like protein	AA430698	1,27	8	0,004	Up-regulated
+PDGFRA	platelet-derived growth factor receptor, alpha polypeptide	H23235	1,27	8	0,019	Up-regulated
+CDC6	CDC6 (cell division cycle 6, S. cerevisiae) homolog	H59203	1,26	8	0,008	Up-regulated
+CIN85	c-Cbl-interacting protein	AA989257	1,26	8	0,008	Up-regulated
+HLA-C	major histocompatibility complex, class I, C	AA464246	1,26	8	0,002	Up-regulated
+MRPS21	mitochondrial ribosomal protein S21	AA443497	1,26	8	0,002	Up-regulated
+MDH1	malate dehydrogenase 1, NAD (soluble)	AA403295	1,26	8	0,017	Up-regulated
+GSK3B	Glycogen synthase kinase 3 beta	R93911	1,26	7	0,041	Up-regulated
+ACTN3	actinin, alpha 3	AA196000	1,25	8	0,044	Up-regulated
+COL1A2	Collagen, type I, alpha 2	AA490172	1,25	6	0,026	Up-regulated
+IL2RB	interleukin 2 receptor, beta	AA057156	0,46	8	0,005	Down-regulated
+PIM1	pim-1 oncogene	AA453663	0,49	6	0,035	Down-regulated
+CD164	CD164 antigen, sialomucin	AA598561	0,55	8	0,01	Down-regulated
+TIMP3	tissue inhibitor of metalloproteinase 3 (Sorsby fundus dystrophy, pseudoinflammatory)	AA099153	0,56	8	0,018	Down-regulated
+GNRH1	gonadotropin-releasing hormone 1 (leutinizing-releasing hormone)	AA043996	0,57	8	0,011	Down-regulated
+FHL1	four and a half LIM domains 1	AA456394	0,59	8	0,021	Down-regulated
+CCR1	chemokine (C-C motif) receptor 1	AA036881	0,6	8	0,021	Down-regulated
+TRAF6	TNF receptor-associated factor 6	AA456692	0,6	8	0,028	Down-regulated
+CGI-204	CGI-204 protein	AA410394	0,61	8	0,005	Down-regulated
+KIAA0421	KIAA0421 protein	H98694	0,62	8	0,019	Down-regulated
+EPS15	epidermal growth factor receptor pathway substrate 15	AA490223	0,63	8	0,001	Down-regulated
+CDH11	Cadherin 11, type 2, OB-cadherin (osteoblast)	AA136983	0,65	8	0,001	Down-regulated
+PFKM	phosphofructokinase, muscle	AA099169	0,66	8	0,001	Down-regulated
+MIG	monokine induced by gamma interferon	AA131406	0,66	8	0,011	Down-regulated
+BDNF	brain-derived neurotrophic factor	AA262988	0,66	8	0,015	Down-regulated
+FRDA	Friedreich ataxia	AA253413	0,67	8	0,035	Down-regulated
+ALAS1	aminolevulinate, delta-, synthase 1	AA453691	0,67	8	0,02	Down-regulated
+TNFRSF11B	tumor necrosis factor receptor superfamily, member 11b (osteoprotegerin)	AA194983	0,67	8	0,001	Down-regulated
+ADA	adenosine deaminase	AA683578	0,67	8	0,029	Down-regulated
+FCGR2A	Fc fragment of IgG, low affinity IIa, receptor for (CD32)	AA634109	0,68	8	0,003	Down-regulated
+SNRPB	small nuclear ribonucleoprotein polypeptides B and B1	AA599116	0,69	8	0,047	Down-regulated
+NID2	Nidogen 2	AA479199	0,69	8	0,007	Down-regulated
+GTF2B	general transcription factor IIB	H23978	0,69	8	0,046	Down-regulated
+SCYA16	small inducible cytokine subfamily A (Cys-Cys), member 16	T58775	0,7	8	0,002	Down-regulated
+SPOP	speckle-type POZ protein	AA256459	0,7	8	0,001	Down-regulated
+MEIS2	Meis (mouse) homolog 2	AA148641	0,71	8	0,013	Down-regulated
+UBE2E1	ubiquitin-conjugating enzyme E2E 1 (homologous to yeast UBC4/5)	AA044025	0,72	8	0,001	Down-regulated
+ACAA2	acetyl-Coenzyme A acyltransferase 2 (mitochondrial 3-oxoacyl-Coenzyme A thiolase)	H07926	0,72	8	0,031	Down-regulated
+LAMA5	laminin, alpha 5	AA459519	0,72	8	0,021	Down-regulated
+SDC4	Syndecan 4 (amphiglycan, ryudocan)	AA148736	0,72	7	0,047	Down-regulated
+TCEB1L	transcription elongation factor B (SIII), polypeptide 1-like	AA136533	0,73	8	0,047	Down-regulated
+UVRAG	UV radiation resistance associated gene	AA490771	0,73	8	0,025	Down-regulated
+INPP5A	inositol polyphosphate-5-phosphatase, 40kD	T58773	0,73	7	0,008	Down-regulated
+MGST1	microsomal glutathione S-transferase 1	AA495936	0,73	8	0,045	Down-regulated
+HMOX1	heme oxygenase (decycling) 1	T71757	0,73	8	0,025	Down-regulated
+JUND	jun D proto-oncogene	AA418670	0,74	8	0,015	Down-regulated
+COL4A5	Collagen, type IV, alpha 5 (Alport syndrome)	AA029997	0,74	8	0,023	Down-regulated
+LOC51042	zinc finger protein	AA033532	0,74	5	0,033	Down-regulated
+CD58	CD58 antigen, (lymphocyte function-associated antigen 3)	AA136359	0,75	8	0,015	Down-regulated
+GEM	GTP-binding protein overexpressed in skeletal muscle	AA418077	0,75	8	0,028	Down-regulated
+RAB18	RAB18, member RAS oncogene family	AA156821	0,75	8	0,003	Down-regulated
+TSC22	transforming growth factor beta-stimulated protein TSC-22	AA664389	0,75	6	0,014	Down-regulated
+LOC51177	CK2 interacting protein 1; HQ0024c protein	AA490216	0,76	8	0,028	Down-regulated
+WT1	Wilms tumor 1	AA130187	0,76	8	0,046	Down-regulated
+KIAA0203	KIAA0203 gene product	AA047435	0,76	8	0,009	Down-regulated
+HCLS1	hematopoietic cell-specific Lyn substrate 1	AA424575	0,77	7	0,041	Down-regulated
+EIF2S2	eukaryotic translation initiation factor 2, subunit 2 (beta, 38kD )	AA027240	0,77	8	0,025	Down-regulated
+SIAH2	seven in absentia (Drosophila) homolog 2	AA029041	0,77	7	0,003	Down-regulated
+STATI2	STAT induced STAT inhibitor-2	AA137031	0,78	8	0,01	Down-regulated
+ITGAV	integrin, alpha V (vitronectin receptor, alpha polypeptide, antigen CD51)	AA029934	0,78	8	0,001	Down-regulated
+TOB1	transducer of ERBB2, 1	AA490213	0,79	8	0,005	Down-regulated
+CX3CR1	chemokine (C-X3-C) receptor 1	N51278	0,8	8	0,005	Down-regulated
+BIRC1	baculoviral IAP repeat-containing 1	AA621150	0,8	8	0,022	Down-regulated
+CD163	CD163 antigen	AA401693	0,8	8	0,015	Down-regulated

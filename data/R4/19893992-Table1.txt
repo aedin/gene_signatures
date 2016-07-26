@@ -1,0 +1,59 @@
+Viruses	KEGG pathways	z-score	UniGene ID	Symbol	Fold differrence	Up/Down
+HBV-HCC vs HCV-HCC	Glycan structures-biosynthesis 1	2.02	Hs.8910	MAN1C1	2.23	Up
+HBV-HCC vs HCV-HCC	Glycan structures-biosynthesis 1	2.02	Hs.2134215	CHSY1	2.4	Up
+HBV-HCC vs HCV-HCC	Glycan structures-biosynthesis 1	2.02	Hs.443716	GALNTL5	2.06	Up
+HBV-HCC vs HCV-HCC	O-glycan biosynthesis	2.62	Hs.398039	GALNTL4	2.21	Up
+HBV-HCC vs HCV-HCC	O-glycan biosynthesis	2.62	Hs.411308	GALNTL2	0.37	Down
+HBV-HCC vs HCV-HCC	Valine, leucine and isoleucine degradation	2.09	Hs.81886	AUH	2.36	Up
+HBV-HCC vs HCV-HCC	Valine, leucine and isoleucine degradation	2.09	Hs.356894	HSD17B4	3.18	Up
+HBV-HCC vs HCV-HCC	Valine, leucine and isoleucine degradation	2.09	Hs.167531	MCCC2	2.57	Up
+HBV-HCC/HCV-HCC vs NV-HCC	Amyotrophic lateral sclerosis	2.86	Hs.27669	ALS2	2.57	Up
+HBV-HCC/HCV-HCC vs NV-HCC	Amyotrophic lateral sclerosis	2.86	Hs.458657	NEFM	0.41	Down
+HBV-HCC/HCV-HCC vs NV-HCC	Amyotrophic lateral sclerosis	2.86	Hs.409223	SSR4	2.69	Up
+HBV-HCC/HCV-HCC vs NV-HCC	Apoptosis	2.7	Hs.1519	PRKAR1B	0.41	Down
+HBV-HCC/HCV-HCC vs NV-HCC	Apoptosis	2.7	Hs.694	IL3	0.35	Down
+HBV-HCC/HCV-HCC vs NV-HCC	Apoptosis	2.7	Hs.460433	IL3RA	0.33	Down
+HBV-HCC/HCV-HCC vs NV-HCC	Apoptosis	2.7	Hs.401745	TNFRSF10A	0.11	Down
+HBV-HCC/HCV-HCC vs NV-HCC	Butanoate metabolism	2.44	Hs.231829	GAD2	0.36	Down
+HBV-HCC/HCV-HCC vs NV-HCC	Small cell lung cancer	2.45	Hs.413513	IKBKB	0.46	Down
+HBV-HCC/HCV-HCC vs NV-HCC	Ubiquitin mediated proteolysis	3.59		EDD1	0.07	Down
+HBV-HCC/HCV-HCC vs NV-HCC	Ubiquitin mediated proteolysis	3.59	Hs.373992	RBX1	2.67	Up
+HBV-HCC/HCV-HCC vs NV-HCC	Wnt signaling pathway	2.72	Hs.12248	CXX4	0.32	Down
+HBV-HCC/HCV-HCC vs NV-HCC	Wnt signaling pathway	2.72	Hs.270804	CREBBP	0.22	Down
+HBV-HCC/HCV-HCC vs NV-HCC	Wnt signaling pathway	2.72	Hs.3260	PSEN1	0.39	Down
+HBV-HCC/HCV-HCC vs NV-HCC	Wnt signaling pathway	2.72	Hs.356537	DAAM1	0.33	Down
+HBV-HCC/HCV-HCC vs NV-HCC	Wnt signaling pathway	2.72	Hs.91985	WNT10B	0.41	Down
+HBV-HCC/HCV-HCC vs NV-HCC	Wnt signaling pathway	2.72	Hs.12436	CAMK2G	2.27	Up
+HBV-HCC/HCV-HCC vs NV-HCC	Wnt signaling pathway	2.72	Hs.169294	TCF7	0.28	Down
+HBV-HCC vs NV-HCC	Aminosugars metabolism	2.12	Hs.274424	NANS	3.16	Up
+HBV-HCC vs NV-HCC	Bile acid biosynthesis	2.57	Hs.177687	AKR1C4	3.08	Up
+HBV-HCC vs NV-HCC	Bile acid biosynthesis	2.57		SOAT1	4.48	Up
+HBV-HCC vs NV-HCC	Butanoate metabolism	3.43	Hs.120	PRDX6	3.34	Up
+HBV-HCC vs NV-HCC	Glycan structures degradation	2.48	Hs.302018	HPSE2	0.33	Down
+HBV-HCC vs NV-HCC	Glycan structures degradation	2.48	Hs.121494	SPAM1	0.19	Down
+HBV-HCC vs NV-HCC	Glycosaminoglycan degradation	3.89	Hs.69293	HEXB	3.15	Up
+HBV-HCC vs NV-HCC	Heparan sulfate biosynthesis	3.24	Hs.20894	NDST1	2.35	Up
+HBV-HCC vs NV-HCC	Heparan sulfate biosynthesis	3.24	Hs.20028	NDST3	0.43	Down
+HBV-HCC vs NV-HCC	Heparan sulfate biosynthesis	3.24	Hs.183006	GLCE	2.74	Up
+HBV-HCC vs NV-HCC	Lysine degradation	2.16	Hs.160208	SETD7	3.85	Up
+HBV-HCC vs NV-HCC	Lysine degradation	2.16	Hs.289848	DOT1L	0.44	Down
+HBV-HCC vs NV-HCC	Small cell lung cancer	3.9	Hs.436873	ITGAV	2.58	Up
+HBV-HCC vs NV-HCC	Toll-like receptor signaling pathway	2.64	Hs.181315	IFNAR1	2.44	Up
+HBV-HCC vs NV-HCC	Toll-like receptor signaling pathway	2.64	Hs.432466	TBK1	0.34	Down
+HBV-HCC vs NV-HCC	Toll-like receptor signaling pathway	2.64		TICAM2	6.86	Up
+HBV-HCC vs NV-HCC	Ubiquitin mediated proteolysis	3.59	Hs.413133	FZR1	2.93	Up
+HCV-HCC vs NV-HCC	Calcium signaling pathway	2.44	Hs.512612	PHKG1	0.3	Down
+HCV-HCC vs NV-HCC	Calcium signaling pathway	2.44	Hs.25804	PLCE1	0.43	Down
+HCV-HCC vs NV-HCC	Calcium signaling pathway	2.44	Hs.144465	SLC8A1	0.45	Down
+HCV-HCC vs NV-HCC	Calcium signaling pathway	2.44	Hs.32945	GRM1	0.42	Down
+HCV-HCC vs NV-HCC	Calcium signaling pathway	2.44	Hs.272458	PPP3CA	2.14	Up
+HCV-HCC vs NV-HCC	Calcium signaling pathway	2.44	Hs.3022	TRHR	0.29	Down
+HCV-HCC vs NV-HCC	Fructose and mannose metabolism	2.72	Hs.75835	PMM1	4.81	Up
+HCV-HCC vs NV-HCC	Fructose and mannose metabolism	2.72	Hs.404119	TSTA3	2.62	Up
+HCV-HCC vs NV-HCC	Glyoxylate and dicarboxylate metabolism	2.11	Hs.4415543	MTHFD1L	2.84	Up
+HCV-HCC vs NV-HCC	Glyoxylate and dicarboxylate metabolism	2.11	Hs.430606	CS	2.06	Up
+HCV-HCC vs NV-HCC	Nicotinate and nicotinamide metabolism	4.11	Hs.58251	NMNAT1	2.49	Up
+HCV-HCC vs NV-HCC	Nicotinate and nicotinamide metabolism	4.11	Hs.375214	SIRT2	3.44	Up
+HCV-HCC vs NV-HCC	Nicotinate and nicotinamide metabolism	4.11	Hs.151135	FN3K	0.43	Down
+HCV-HCC vs NV-HCC	Pyrimidine metabolism	4.68	Hs.67201	NT5C	2.59	Up
+HCV-HCC vs NV-HCC	RNA polymerase	7.71	Hs.57813	ZNRD1	3.66	Up

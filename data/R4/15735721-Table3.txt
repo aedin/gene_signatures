@@ -1,0 +1,138 @@
+Function	Gene	Accession	Fold change
+Cell cycle	CEBPD	NM_005195	3.01762
+Cell cycle	SFN	BC000329	2.26209
+Cell cycle	MYC	NM_002467	1.72323
+Cell cycle	CDKN1B	BC001971	0.63824
+Apoptosis	IGFBP1	NM_000596	4.11986
+Apoptosis	NFIL3	NM_005384	1.95134
+Apoptosis	ATF3	NM_001674	2.8937
+Apoptosis	TRAF4	NM_004295	1.56184
+Apoptosis	GADD45B	NM_015675	2.01087
+Apoptosis	BCL2A1	NM_004049	1.75704
+Apoptosis	CASP4	U25804	1.59452
+Apoptosis	STK17A	AW194730	1.5387
+Apoptosis	PDCD2	BF446180	0.58867
+Signaling	BCL3	NM_005178	2.10195
+Signaling	SOCS3	BG035761	3.92949
+Signaling	JUNB	NM_002229	1.92353
+Signaling	DUSP5	U16996	2.11909
+Signaling	FOSL1	BG251266	2.10867
+Signaling	FOSL2	N36408	1.90471
+Signaling	IL6R	NM_000565	1.71201
+Signaling	TNFRSF12A	NM_016639	1.6742
+Signaling	IL1R1	NM_000877	1.82161
+Signaling	TIEG2	AA149594	2.083
+Signaling	RAB27A	U38654	1.62739
+Signaling	JUN	NM_002228	2.17961
+Signaling	DUSP1	NM_004417	1.82851
+Signaling	LYN	NM_002350	1.52019
+Signaling	EGFR	AW157070	1.51298
+Signaling	JAK2	AF001362	1.51837
+Signaling	IRF1	NM_002198	1.61695
+Angiogenesis	ADM	NM_001124	2.63547
+Angiogenesis	ANGPTL4	NM_016109	1.99292
+Angiogenesis	EPAS1	AF052094	1.56013
+Coagulation	FGA	NM_000508	5.4178
+Coagulation	FGB	BG545288	5.86271
+Coagulation	FGG	NM_000509	6.31786
+Coagulation	PLAU	K03226	1.71778
+Coagulation	THBD	NM_000361	1.95048
+Coagulation	PLAUR	U08839	1.82458
+Coagulation	SERPINE1	NM_000602	1.81434
+Coagulation	THBS1	NM_003246	2.0796
+Coagulation	TFPI2	L27624	1.57622
+Lipids	ABCA1	NM_005502	3.88478
+Lipids	LDLR	NM_000527	2.82377
+Lipids	UGCG	NM_003358	3.40843
+Lipids	NPC1	NM_000271	3.42023
+Lipids	VLDLR	L22431	1.71423
+Lipids	HM74	NM_006018	1.60217
+Invasion	FGA	NM_000508	5.4178
+Invasion	FGB	BG545288	5.86271
+Invasion	FGG	NM_000509	6.31786
+Invasion	CTSB	NM_001908	2.0828
+Invasion	SERPINE2	AL541302	1.64229
+Invasion	CTSL	NM_001912	1.79108
+Invasion	CCL2	S69738	4.11116
+Invasion	RAB27A	U38654	1.62739
+Invasion	NDRG1	NM_006096	2.05333
+Invasion	PLAU	K03226	1.71778
+Invasion	ICAM1	NM_000201	2.50961
+Invasion	PLEKHC1	Z24725	1.75166
+Invasion	FLRT3	NM_013281	1.75891
+Invasion	SERPINA3	NM_001085	1.82817
+Invasion	SERPINB3	BC005224	2.26622
+Invasion	COL5A1	AI983428	1.65357
+Invasion	SERPINB4	U19557	1.91011
+Invasion	PLAUR	U08839	1.82458
+Invasion	CXCL2	M57731	1.67439
+Invasion	THBD	NM_000361	1.95048
+Invasion	ANGPTL4	NM_016109	1.99292
+Invasion	SERPINB1	NM_030666	1.75773
+Invasion	CEACAM1	X16354	1.66495
+Invasion	SERPINE1	NM_000602	1.81434
+Invasion	THBS1	NM_003246	2.0796
+Invasion	SERPINB9	BC002538	1.52483
+Invasion	TFPI2	L27624	1.57622
+Inflammation/immunity	SOD2	X15132	3.07171
+Inflammation/immunity	BCL3	NM_005178	2.10195
+Inflammation/immunity	TRAF4	NM_004295	1.56184
+Inflammation/immunity	GG2-1	BC005352	1.59366
+Inflammation/immunity	CXCL2	M57731	1.67439
+Inflammation/immunity	EFNB2	BF001670	3.2662
+Inflammation/immunity	LBP	NM_004139	4.54253
+Inflammation/immunity	CCL2	S69738	4.11116
+Inflammation/immunity	C3	NM_000064	2.15312
+Inflammation/immunity	EFNA1	NM_004428	2.59892
+Inflammation/immunity	ICAM1	NM_000201	2.50961
+Inflammation/immunity	IL4R	NM_000418	1.91542
+Inflammation/immunity	IL6R	NM_000565	1.71201
+Inflammation/immunity	IL1R1	NM_000877	1.82161
+Inflammation/immunity	C1S	M18767	1.62531
+Inflammation/immunity	C1R	AL573058	1.64849
+Inflammation/immunity	IRF1	NM_002198	1.61695
+Transcription factors	BCL6	NM_001706	2.50233
+Transcription factors	CEBPD	NM_005195	3.01762
+Transcription factors	BCL3	NM_005178	2.10195
+Transcription factors	MAFF	AL021977	2.87145
+Transcription factors	NFIL3	NM_005384	1.95134
+Transcription factors	ATF3	NM_001674	2.8937
+Transcription factors	JUNB	NM_002229	1.92353
+Transcription factors	FOSL1	BG251266	2.10867
+Transcription factors	ETS2	NM_005239	1.94842
+Transcription factors	FOSL2	N36408	1.90471
+Transcription factors	MYC	NM_002467	1.72323
+Transcription factors	PLAGL1	BG547855	1.79162
+Transcription factors	CITED2	AF109161	1.77378
+Transcription factors	JUN	NM_002228	2.17961
+Transcription factors	GATA6	D87811	1.6521
+Transcription factors	ATBF1	NM_006885	1.57761
+Transcription factors	MAFK	NM_002360	1.69499
+Interferon signaling	IFIT1	NM_001548	0.09117
+Interferon signaling	MX1	NM_002462	0.18045
+Interferon signaling	MDA5	NM_022168	0.2016
+Interferon signaling	TRIM22	AA083478	0.22661
+Interferon signaling	G1P2	NM_005101	0.22809
+Interferon signaling	OAS1	NM_002534	0.26107
+Interferon signaling	IFI44	NM_006417	0.2746
+Interferon signaling	IFI27	NM_005532	0.28058
+Interferon signaling	OASL	NM_003733	0.28894
+Interferon signaling	IFIT4	NM_001549	0.30546
+Interferon signaling	OAS2	NM_016817	0.33235
+Interferon signaling	CEB1	NM_016323	0.34414
+Interferon signaling	TRIM14	NM_014788	0.37021
+Interferon signaling	IFITM1	AA749101	0.39253
+Interferon signaling	SP110	AA969194	0.42548
+Interferon signaling	RI58	N47725	0.42724
+Interferon signaling	IRF7	NM_004030	0.43228
+Interferon signaling	OAS3	NM_006187	0.45127
+Interferon signaling	TNFSF10	NM_003810	0.46383
+Interferon signaling	STAT1	BC002704	0.46874
+Interferon signaling	TRIM5	AF220028	0.49974
+Interferon signaling	IFI35	BC001356	0.50389
+Interferon signaling	PRKR	NM_002759	0.58871
+Interferon signaling	G1P3	NM_022873	0.60681
+Interferon signaling	MX2	NM_002463	0.62577
+Interferon signaling	PLSCR1	NM_021105	0.64449
+Interferon signaling	HLA-DMA	X76775	0.6455
+Interferon signaling	ISG20	NM_002201	0.65778

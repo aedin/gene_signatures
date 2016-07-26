@@ -1,0 +1,33 @@
+Gene symbol	Full name	Accession no.	Main function(s) of gene product	Hypoxic down-regulation (fold change) Array 1 (Affymetrix)	Array 2 (Illumina)	Functional Category
+CD36	CD36 molecule (thrombospondin receptor)	NM_000072	A multifunctional class B scavenger receptor; binds thrombospondin, apoptotic cells, and LDLs	0.16	0.17	Cell adhesion and cell junction molecules
+VCL	Vinculin	NM_014000	A cytoskeletal protein associated with cell-cell and cell-matrix junctions; involved in cell adhesion, cell morphology, and locomotion	0.42	0.65	Cell adhesion and cell junction molecules
+PECAM1	Platelet/endothelial cell adhesion molecule (CD31 antigen)	NM_000442	Surface receptor expressed by endothelial cells, platelets, and various other cells; helps macrophages to remove aged neutrophils	0.62	0.52	Cell adhesion and cell junction molecules
+ACAT1	Acetyl-coenzyme A acetyltransferase 1	NM_000019	Plays a role in lipoprotein assembly and dietary cholesterol absorption	0.25	0.38	Cell metabolism
+NME1	Nonmetastatic cells 1 protein (NM23A)	NM_000269	A nucleoside diphosphate kinase linked to metastasis suppression in some cell types	0.29	0.58	Cell metabolism
+PDHB	Pyruvate dehydrogenase (lipoamide) ?	NM_000925	Catalyzes the overall conversion of pyruvate to acetyl-CoA and CO(2)	0.37	0.49	Cell metabolism
+ST3GAL5	ST3 ?-galactoside ?-2,3-sialyltransferase 5	NM_003896	Promotes cell differentiation, modulation of cell proliferation, signal transduction, and integrin-mediated cell adhesion	0.4	0.54	Cell metabolism
+LYPLA3	Lysophospholipase 3 (lysosomal phospholipase A2)	NM_012320	Regulates the multifunctional lysophospholipids in cell membranes	0.49	0.48	Cell metabolism
+TOMM22	Translocase of outer mitochondrial membrane 22 homolog (yeast)	NM_020243	Mitochondrial membrane protein; imports cytosolic preproteins into the mitochondrion	0.26	0.53	Intracellular transport
+HLA-DMB	Major histocompatibility complex, class II, DM ?	NM_002118	Plays a central role in the peptide loading of MHC class II molecules	0.29	0.6	Intracellular transport
+SLC17A5	Solute carrier family 17 (anion/sugar transporter), member 5	NM_012434	Primary solute translocator for anionic substances	0.34	0.57	Intracellular transport
+ST6GAL1	ST6 ?-galactosamide ?-2,6-sialyl-transferase 1	NM_003032	Transfers sialic acid from the donor of substrate CMP-sialic acid to galactose-containing acceptor substrates	0.42	0.31	Intracellular transport
+MRPL3	Mitochondrial ribosomal protein L3	NM_007208	Helps with protein synthesis within the mitochondrion	0.47	0.5	Intracellular transport
+TNFSF13B	Tumor necrosis factor (ligand) superfamily, member 13b	NM_006573	Promotes cell proliferation	0.39	0.39	Receptors and cell signaling
+RASGRP3	RAS guanyl-releasing protein 3 (calcium and DAG-regulated)	NM_015376	Guanine nucleotide exchange factor (GEF) for Ras and Rap1	0.13	0.38	Receptors and cell signaling
+TFRC	Transferrin receptor (p90, CD71)	NM_003234	Regulates cellular uptake of iron and iron metabolism	0.25	0.19	Receptors and cell signaling
+HIF-1A	Hypoxia-inducible factor-? subunit (HIF-2?)	NM_001530	Regulates response of cells to hypoxia	0.36	0.21	Receptors and cell signaling
+EPAS1	Endothelial PAS domain protein 1 (HIF-2?)	NM_001430	Regulates response of cells to hypoxia	0.33	0.21	Receptors and cell signaling
+TLR4	Toll-like receptor 4	NM_003266	Cell surface receptor that binds many ligands, including bacterial LPS and fibrinogen	0.26	0.63	Receptors and cell signaling
+MAPRE2	Microtubule-associated protein, RP/EB family, member 2	NM_014268	Involved in microtubule polymerization, cell migration	0.35	0.52	Receptors and cell signaling
+CTSC	Cathepsin C	NM_001814	A lysosomal cysteine proteinase that activates many serine proteinases in immune/inflammatory cells	0.41	0.48	Receptors and cell signaling
+PRCP	Prolylcarboxypeptidase (angiotensinase C)	NM_005040	A lysosomal prolylcarboxypeptidase, which cleaves C-terminal amino acids linked to proline in peptides	0.43	0.48	Receptors and cell signaling
+SPARC	Secreted protein, acidic, cysteine-rich (osteonectin)	NM_003118	A calcium binding glycoprotein that also binds ECM constituents, such as collagen	0.46	0.26	Receptors and cell signaling
+PEPD	Peptidase D	NM_000285	Collagen metabolism	0.6	0.58	Receptors and cell signaling
+RTN3	Reticulon 3	NM_006054	May induce caspase-8 cascade and apoptosis	0.61	0.48	Receptors and cell signaling
+PSEN2	Presenilin 2 (Alzheimer disease 4)	NM_000447	Cytoplasmic partitioning of proteins	0.61	0.57	Receptors and cell signaling
+CAT	Catalase	NM_001752	Protects cells from the toxic effects of hydrogen peroxide	0.48	0.47	Cell viability
+PRDX6	Peroxiredoxin 6	NM_004905	Involved in redox regulation of the cell, protection against oxidative injury	0.61	0.57	Cell viability
+POLE3	Polymerase (DNA directed), ? 3 (p17 subunit)	NM_017443	Interacts with other histone-fold proteins to bind DNA in a sequence-independent manner	0.47	0.66	Transcription, RNA processing and translation
+LSM7	LSM7 homolog, U6 small nuclear RNA associated (S. cerevisiae)	NM_016199	Pre-mRNA splicing	0.48	0.53	Transcription, RNA processing and translation
+SRM	Spermidine synthase	NM_003132	Involved in numerous pre-mRNA processing events	0.48	0.28	Transcription, RNA processing and translation
+TCEAL4	Transcription elongation factor A (SII)-like 4	NM_024863	A nuclear phosphoprotein that may modulate gene transcription	0.62	0.54	Transcription, RNA processing and translation

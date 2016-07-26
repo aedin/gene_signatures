@@ -1,0 +1,929 @@
+ProbeID	Ratio	REF.MACS	WT.MACS	p-value	qvalue	Accession	Symbol	geneID	UniGene	Name	Chr	Pathway
+1435748_at	5.30E+00	12.7514	7.4468	3.97E-13	4.66E-09	AW911807	Gda	14544	Mm.45054	guanine deaminase	chr19 B|19 15.5 cM	Purine metabolism // KEGG
+1435749_at	5.34E+00	12.8522	7.5072	3.24E-13	4.66E-09	AW911807	Gda	14544	Mm.45054	guanine deaminase	chr19 B|19 15.5 cM	Purine metabolism // KEGG
+1427482_a_at	7.22E+00	12.6222	5.3977	1.35E-12	1.06E-08	X61397	Car8 /// LOC676792	12319 /// 676792	Mm.119320	carbonic anhydrase 8 /// similar to Carbonic anhyd	chr4 A1|4 7.7 cM	---
+1427357_at	5.17E+00	11.8379	6.6711	5.17E-12	3.04E-08	AK008793	Cda	72269	Mm.46182	cytidine deaminase	chr4 D3	Pyrimidine metabolism // KEGG
+1460259_s_at	3.48E+00	13.3057	9.8263	9.65E-12	4.54E-08	AF108501	Clca1 /// Clca2	12722 /// 80797	Mm.275745	chloride channel calcium activated 1 /// chloride	chr3 H2-H3|3 72.5 cM /// chr3 H2	---
+1441962_at	5.02E+00	11.9556	6.9399	1.97E-11	7.71E-08	BB079625	Alox5	11689	Mm.41072	arachidonate 5-lipoxygenase	chr6 F1|6 53.2 cM	Eicosanoid_Synthesis // GenMAPP /// Arachidonic acid metabolism // KEGG /// Linoleic acid metabolism // KEGG
+1417852_x_at	3.25E+00	13.0001	9.7455	3.03E-11	9.16E-08	AF047838	Clca1	12722	Mm.275745	chloride channel calcium activated 1	chr3 H2-H3|3 72.5 cM	---
+1452324_at	2.16E+00	12.1616	9.9987	3.12E-11	9.16E-08	BE956863	Pvt1	19296	Mm.4608	plasmacytoma variant translocation 1	chr15 D2-D3|15 32.0 cM	---
+1422868_s_at	4.09E+00	9.9663	5.8774	6.21E-11	1.62E-07	NM_010266	Gda	14544	Mm.45054	guanine deaminase	chr19 B|19 15.5 cM	Purine metabolism // KEGG
+1427221_at	4.20E+00	12.0737	7.8779	1.22E-10	2.86E-07	AJ428067	Xtrp3s1	102680	Mm.41963	X transporter protein 3 similar 1 gene	chr9 F|9 71.0 cM	---
+1417853_at	3.20E+00	10.3725	7.168	1.54E-10	3.01E-07	AF047838	Clca1	12722	Mm.275745	chloride channel calcium activated 1	chr3 H2-H3|3 72.5 cM	---
+1427049_s_at	-3.52E+00	6.1546	9.6699	1.51E-10	3.01E-07	AW555326	Smo	319757	Mm.29279	smoothened homolog (Drosophila)	chr6 A3.3	GPCRDB_Other // GenMAPP /// GPCRDB_Other // GenMAPP /// GPCRDB_Other // GenMAPP
+1449848_at	2.47E+00	11.2831	8.8093	2.38E-10	4.31E-07	NM_008137	Gna14	14675	Mm.313181	guanine nucleotide binding protein, alpha 14	chr19 A-B|19 9.0 cM	G_Protein_Signaling // GenMAPP /// G_Protein_Signaling // GenMAPP /// G_Protein_Signaling // GenMAPP /// G_Protein_Signaling // GenMAPP
+1419692_a_at	3.72E+00	8.7798	5.0562	3.58E-10	5.38E-07	NM_008521	Ltc4s	17001	Mm.245151	leukotriene C4 synthase	chr11 B1.1-B1.2	Eicosanoid_Synthesis // GenMAPP /// Eicosanoid_Synthesis // GenMAPP
+1429064_at	2.75E+00	9.4931	6.748	3.66E-10	5.38E-07	AK013596	Dip2c	208440	Mm.217326	DIP2 disco-interacting protein 2 homolog C (Drosop	chr13 A1	---
+1436155_at	3.66E+00	9.7922	6.1296	3.29E-10	5.38E-07	BB398185	Nmnat2	226518	Mm.40548	nicotinamide nucleotide adenylyltransferase 2	chr1 G3	---
+1434184_s_at	-2.69E+00	5.4808	8.1667	6.41E-10	8.36E-07	BQ175905	9430080K19Rik	68120	Mm.19073	RIKEN cDNA 9430080K19 gene	---	---
+1456072_at	-2.53E+00	6.5637	9.0927	6.25E-10	8.36E-07	AU067663	Ppp1r9a	243725	Mm.332901	protein phosphatase 1, regulatory (inhibitor) subu	chr6 A1|6 0.5 cM	---
+1417837_at	4.12E+00	10.7554	6.6321	8.35E-10	9.89E-07	NM_009434	Phlda2	22113	Mm.334344	pleckstrin homology-like domain, family A, member	chr7 F5|7 69.5 cM	---
+1425458_a_at	-4.64E+00	6.8536	11.4985	8.42E-10	9.89E-07	AF022072	Grb10	14783	Mm.273117	growth factor receptor bound protein 10	chr11 A1|11 8.0 cM	---
+1434273_at	3.83E+00	11.0301	7.2011	9.64E-10	1.08E-06	BG073439	A830073O21Rik	320262	Mm.271969	RIKEN cDNA A830073O21 gene	chr7 D1	---
+1439739_at	-3.07E+00	5.3856	8.4518	1.04E-09	1.11E-06	BB295899	1700112C13Rik /// Tsp50	235631 /// 74306	Mm.87419	RIKEN cDNA 1700112C13 gene /// testes-specific pro	chr9 F3|9 63.98 cM /// chr9 F3|9 63.99 cM	---
+1420944_at	4.58E+00	10.1373	5.5534	1.30E-09	1.33E-06	AK014497	Zfp185	22673	Mm.1161	zinc finger protein 185	chrX A7.3|X 28.95 cM	---
+1434091_at	3.51E+00	8.5186	5.0087	1.92E-09	1.80E-06	BB189927	Faah	14073	Mm.256025	fatty acid amide hydrolase	chr4 D1|4 56.5 cM	---
+1449111_a_at	2.20E+00	12.5138	10.3129	1.90E-09	1.80E-06	BG064712	Grb2	14784	Mm.383426	growth factor receptor bound protein 2	chr11 E2|11 75.0 cM	Integrin-mediated_cell_adhesion_KEGG // GenMAPP
+1428284_at	2.07E+00	10.3925	8.3195	2.37E-09	2.15E-06	AK018446	8430427H17Rik	329540	Mm.50600	RIKEN cDNA 8430427H17 gene	chr2 H1	---
+1418106_at	3.62E+00	8.6631	5.0419	2.87E-09	2.32E-06	NM_013904	Hey2	15214	Mm.103573	hairy/enhancer-of-split related with YRPW motif 2	chr10 A4	---
+1433110_at	-2.68E+00	6.0249	8.7004	2.69E-09	2.32E-06	AK018053	5830474E16Rik	76094	---	RIKEN cDNA 5830474E16 gene	---	---
+1433465_a_at	2.08E+00	13.9193	11.8408	2.85E-09	2.32E-06	BB234337	AI467606	101602	Mm.284102	expressed sequence AI467606	chr7 F3	---
+1438322_x_at	2.43E+00	12.7911	10.3652	2.99E-09	2.35E-06	BB028312	Fdft1	14137	Mm.386760	farnesyl diphosphate farnesyl transferase 1	chr14 D1|14 3.0 cM	Cholesterol_Biosynthesis // GenMAPP /// Cholesterol_Biosynthesis // GenMAPP
+1450780_s_at	-1.94E+00	6.9409	8.8789	3.21E-09	2.43E-06	X58380	Hmga2	15364	Mm.157190	high mobility group AT-hook 2	chr10 D2|10 67.5 cM	---
+1429881_at	-4.14E+00	5.1596	9.2956	3.58E-09	2.54E-06	AK018058	Arhgap15	76117	Mm.217350	Rho GTPase activating protein 15	chr2 B	---
+1435374_at	-2.54E+00	4.7888	7.3329	3.68E-09	2.54E-06	BG071670	---	---	Mm.269151	Transcribed locus	---	---
+1450700_at	-4.41E+00	6.297	10.7021	3.53E-09	2.54E-06	BB012489	Cdc42ep3	260409	Mm.140601	CDC42 effector protein (Rho GTPase binding) 3	chr17 E3	---
+1419573_a_at	-4.33E+00	8.1595	12.4868	3.88E-09	2.61E-06	NM_008495	Lgals1	16852	Mm.43831	lectin, galactose binding, soluble 1	chr15 E|15 44.9 cM	---
+1426887_at	4.40E+00	9.2567	4.8607	4.06E-09	2.65E-06	BQ174833	Nudt11	58242	Mm.41198	nudix (nucleoside diphosphate linked moiety X)-typ	chrX A1.1	---
+1417777_at	-3.99E+00	7.5568	11.5454	4.25E-09	2.70E-06	BC014865	Ltb4dh	67103	Mm.34497	leukotriene B4 12-hydroxydehydrogenase	chr4 C1	---
+1420385_at	1.98E+00	9.6914	7.7113	5.01E-09	3.10E-06	NM_008137	Gna14	14675	Mm.313181	guanine nucleotide binding protein, alpha 14	chr19 A-B|19 9.0 cM	G_Protein_Signaling // GenMAPP /// G_Protein_Signaling // GenMAPP /// G_Protein_Signaling // GenMAPP /// G_Protein_Signaling // GenMAPP
+1426044_a_at	3.08E+00	10.2925	7.2134	5.60E-09	3.38E-06	AB062122	Prkcq	18761	Mm.329993	protein kinase C, theta	chr2 A1|2 2.0 cM	G_Protein_Signaling // GenMAPP /// Wnt_Signaling // GenMAPP /// Calcium_regulation_in_cardiac_cells // GenMAPP /// Smooth_muscle_contraction // GenMAPP /// G_Protein_Signaling // GenMAPP /// G_Protein_Signaling // GenMAPP /// Wnt_Signaling // GenMAPP /// Wnt_Signaling // GenMAPP /// Calcium_regulation_in_cardiac_cells // GenMAPP /// Calcium_regulation_in_cardiac_cells // GenMAPP /// Smooth_muscle_contraction // GenMAPP /// Smooth_muscle_contraction // GenMAPP
+1431352_s_at	2.31E+00	11.0515	8.7423	6.26E-09	3.68E-06	BI453402	Pvt1	19296	Mm.4608	plasmacytoma variant translocation 1	chr15 D2-D3|15 32.0 cM	---
+1417104_at	1.99E+00	13.2103	11.2248	6.46E-09	3.70E-06	BC001999	Emp3	13732	Mm.20829	epithelial membrane protein 3	chr7 B3|7 24.5 cM	---
+1424135_at	1.68E+00	11.7226	10.0398	7.22E-09	4.04E-06	BG073177	Rspry1	67610	Mm.109074	ring finger and SPRY domain containing 1	chr8 C5	---
+1416368_at	-4.01E+00	6.008	10.0191	8.08E-09	4.04E-06	NM_010357	Gsta4	14860	Mm.2662	glutathione S-transferase, alpha 4	chr9 E1	---
+1417429_at	3.96E+00	9.561	5.6008	8.37E-09	4.04E-06	BC011229	Fmo1	14261	Mm.976	flavin containing monooxygenase 1	chr1 H1|1 92.6 cM	---
+1428229_at	-3.71E+00	6.0306	9.7437	7.81E-09	4.04E-06	BF160591	Prkcn	75292	Mm.252776	protein kinase C, nu	chr17 E3	---
+1428667_at	-2.53E+00	6.8788	9.4047	7.91E-09	4.04E-06	AW986246	Maoa	17161	Mm.21108	monoamine oxidase A	chrX A2|X 5.2 cM	Biogenic_Amine_Synthesis // GenMAPP /// Glycine, serine and threonine metabolism // KEGG /// Arginine and proline metabolism // KEGG /// Histidine metabolism // KEGG /// Tyrosine metabolism // KEGG /// Phenylalanine metabolism // KEGG /// Tryptophan metabolism // KEGG
+1433466_at	2.09E+00	11.6158	9.5305	8.32E-09	4.04E-06	BB234337	AI467606	101602	Mm.284102	expressed sequence AI467606	chr7 F3	---
+1434990_at	2.64E+00	9.459	6.8206	8.43E-09	4.04E-06	BB346082	Ppm1e	320472	Mm.341988	protein phosphatase 1E (PP2C domain containing)	chr11 C	---
+1447791_s_at	2.06E+00	9.1402	7.0792	7.72E-09	4.04E-06	AV230778	Gna14	14675	Mm.313181	guanine nucleotide binding protein, alpha 14	chr19 A-B|19 9.0 cM	G_Protein_Signaling // GenMAPP /// G_Protein_Signaling // GenMAPP /// G_Protein_Signaling // GenMAPP /// G_Protein_Signaling // GenMAPP
+1419137_at	2.72E+00	12.1853	9.4619	8.77E-09	4.04E-06	NM_021423	Shank3	58234	Mm.146855	SH3/ankyrin domain gene 3	chr15 E3	---
+1420641_a_at	-3.31E+00	5.4128	8.7231	8.66E-09	4.04E-06	AF174535	Sqrdl	59010	Mm.28986	sulfide quinone reductase-like (yeast)	chr2 F2	---
+1458159_at	2.52E+00	7.8586	5.3352	1.05E-08	4.74E-06	BB486509	Gnaq	14682	Mm.391165	Guanine nucleotide binding protein, alpha q polype	chr19 A|19 9.0 cM	G_Protein_Signaling // GenMAPP /// Smooth_muscle_contraction // GenMAPP
+1445837_at	-2.27E+00	6.6883	8.9589	1.24E-08	5.51E-06	BB461843	Ga17	98221	Mm.336519	Dendritic cell protein GA17	chr2 E2	---
+1427929_a_at	-2.00E+00	8.0643	10.0646	1.39E-08	6.06E-06	BG063905	Pdxk	216134	Mm.206159	pyridoxal (pyridoxine, vitamin B6) kinase	chr10 C1|10 42.1 cM	---
+1417420_at	-2.72E+00	7.2706	9.9922	1.53E-08	6.55E-06	NM_007631	Ccnd1	12443	Mm.273049	cyclin D1	chr7 F5|7 72.3 cM	G1_to_S_cell_cycle_Reactome // GenMAPP /// Wnt_Signaling // GenMAPP
+1426812_a_at	2.73E+00	10.9055	8.1722	1.57E-08	6.57E-06	BF166604	9130404D14Rik	227737	Mm.301646	RIKEN cDNA 9130404D14 gene	chr2 B	---
+1449424_at	2.80E+00	10.7419	7.944	1.62E-08	6.57E-06	NM_013738	Plek2	27260	Mm.103380	pleckstrin 2	chr12 D2	---
+1453317_a_at	-2.41E+00	5.1106	7.5252	1.62E-08	6.57E-06	AK014353	Khdrbs3	13992	Mm.17964	KH domain containing, RNA binding, signal transduc	chr15 D3|15 37.5 cM	---
+1425967_a_at	-3.24E+00	5.0689	8.305	2.03E-08	8.08E-06	BC026198	Mcpt4	17227	Mm.266575	mast cell protease 4	chr14 C3|14 20.0 cM	---
+1440275_at	-3.07E+00	6.2822	9.3546	2.15E-08	8.43E-06	AV233043	Runx3	12399	Mm.378894	runt related transcription factor 3	chr4 D3|4 65.7 cM	TGF_Beta_Signaling_Pathway // GenMAPP /// TGF_Beta_Signaling_Pathway // GenMAPP
+1452232_at	-3.77E+00	6.5043	10.2776	2.46E-08	9.47E-06	AV302406	Galnt7	108150	Mm.62886	UDP-N-acetyl-alpha-D-galactosamine: polypeptide N-	chr8 B3.2	---
+1428347_at	-2.73E+00	6.4196	9.1521	2.53E-08	9.59E-06	AK005148	Cyfip2	76884	Mm.154358	cytoplasmic FMR1 interacting protein 2	chr11 B1.2	---
+1422079_at	3.58E+00	9.8005	6.2163	2.57E-08	9.60E-06	NM_008856	Prkch	18755	Mm.341677	protein kinase C, eta	chr12 C3-D1	G_Protein_Signaling // GenMAPP /// Wnt_Signaling // GenMAPP /// Calcium_regulation_in_cardiac_cells // GenMAPP /// Smooth_muscle_contraction // GenMAPP /// G_Protein_Signaling // GenMAPP /// Wnt_Signaling // GenMAPP /// Calcium_regulation_in_cardiac_cells // GenMAPP /// Smooth_muscle_contraction // GenMAPP
+1426389_at	2.20E+00	7.4897	5.2864	2.96E-08	1.09E-05	BG071931	Camk1d	227541	Mm.191949	calcium/calmodulin-dependent protein kinase ID	chr2 A1	---
+1419156_at	-3.25E+00	5.0631	8.3146	3.23E-08	1.17E-05	AI428101	Sox4 /// LOC672274	20677 /// 672274	Mm.240627	SRY-box containing gene 4 /// similar to Transcrip	chr13 A3-A5|13 20.0 cM	---
+1417749_a_at	1.55E+00	12.0914	10.5445	3.28E-08	1.17E-05	NM_009386	Tjp1	21872	Mm.4342	tight junction protein 1	chr7 C|7 28.5 cM	---
+1431351_at	2.01E+00	9.0307	7.0231	3.44E-08	1.21E-05	BI453402	Pvt1	19296	Mm.4608	plasmacytoma variant translocation 1	chr15 D2-D3|15 32.0 cM	---
+1453366_at	-3.35E+00	5.036	8.3817	3.51E-08	1.21E-05	AK012596	Tdrkh	72634	Mm.331198	tudor and KH domain containing protein	chr3 F2	---
+1452833_at	-2.85E+00	6.0803	8.9316	3.63E-08	1.24E-05	AK018008	Rapgef2	76089	Mm.31220	Rap guanine nucleotide exchange factor (GEF) 2	chr3 E3	---
+1416229_at	3.21E+00	13.8215	10.6135	4.00E-08	1.34E-05	NM_019437	Rfk	54391	Mm.7013	riboflavin kinase	chr19 B	Riboflavin metabolism // KEGG
+1422804_at	2.01E+00	10.4001	8.3867	4.23E-08	1.37E-05	NM_011454	Serpinb6b	20708	Mm.36526	serine (or cysteine) peptidase inhibitor, clade B,	chr13 A3.2|13 12.3 cM	---
+1428786_at	-2.10E+00	7.3505	9.4473	4.25E-08	1.37E-05	BM238906	Nckap1l	105855	Mm.30805	NCK associated protein 1 like	chr15 F3	---
+1437621_x_at	-3.58E+00	8.8744	12.4523	4.18E-08	1.37E-05	AV216768	Phgdh /// LOC668771 /// LOC671972 /// LOC673015	236539 /// 668771 /// 671972 /// 673015	Mm.16898	3-phosphoglycerate dehydrogenase /// similar to 3-	chr3 E1 /// chr7 F3	---
+1421307_at	2.52E+00	10.6441	8.1243	4.87E-08	1.48E-05	AK010166	Car13	71934	Mm.158776	carbonic anhydrase 13	chr3 A2	---
+1422808_s_at	-2.28E+00	6.3182	8.603	4.75E-08	1.48E-05	NM_033374	Dock2	94176	Mm.217288	dedicator of cyto-kinesis 2	chr11 A5	---
+1435645_at	-2.19E+00	6.2452	8.4379	4.84E-08	1.48E-05	AA472735	Mmd /// LOC676546	67468 /// 676546	Mm.277518	monocyte to macrophage differentiation-associated	chr11 C	---
+1435697_a_at	2.27E+00	11.275	9.0065	4.81E-08	1.48E-05	BB503614	Pscdbp	227929	Mm.273905	pleckstrin homology, Sec7 and coiled-coil domains,	chr2 C1.1	---
+1457191_at	2.51E+00	7.4278	4.9204	4.90E-08	1.48E-05	AV264602	---	---	---	---	---	---
+1423294_at	4.70E+00	11.3607	6.6592	5.06E-08	1.50E-05	AW555393	Mest	17294	Mm.335639	mesoderm specific transcript	chr6 B1|6 7.5 cM	Arachidonic acid metabolism // KEGG /// Tetrachloroethene degradation // KEGG /// Metabolism of xenobiotics by cytochrome P450 // KEGG
+1455439_a_at	-4.27E+00	8.9407	13.2096	5.66E-08	1.66E-05	AI642438	Lgals1	16852	Mm.43831	lectin, galactose binding, soluble 1	chr15 E|15 44.9 cM	---
+1420943_at	3.72E+00	8.6405	4.9196	5.77E-08	1.68E-05	AK014497	Zfp185	22673	Mm.1161	zinc finger protein 185	chrX A7.3|X 28.95 cM	---
+1417164_at	2.03E+00	8.6761	6.6427	6.53E-08	1.87E-05	NM_022019	Dusp10	63953	Mm.266191	dual specificity phosphatase 10	chr1 H5	Calcium signaling pathway // KEGG /// Apoptosis // KEGG /// Wnt signaling pathway // KEGG /// TGF-beta signaling pathway // KEGG /// Axon guidance // KEGG /// VEGF signaling pathway // KEGG /// Focal adhesion // KEGG /// Tight junction // KEGG /// T cell receptor signaling pathway // KEGG /// B cell receptor signaling pathway // KEGG /// Long-term potentiation // KEGG /// Long-term depression // KEGG /// Insulin signaling pathway // KEGG /// Cell adhesion molecules (CAMs) // KEGG /// Adherens junction // KEGG /// Jak-STAT signaling pathway // KEGG /// T cell receptor signaling pathway // KEGG /// B cell receptor signaling pathway // KEGG /// Leukocyte transendothelial migration // KEGG /// Insulin signaling pathway // KEGG /// Adipocytokine signaling pathway // KEGG /// Type I diabetes mellitus // KEGG /// Epithelial cell signaling in Helicobacter pylori // KEGG
+1417849_at	-2.09E+00	5.1684	7.261	6.90E-08	1.94E-05	AW413620	Gig1	170753	Mm.212908	glucocorticoid induced gene 1	chr3 A1	---
+1455079_at	-1.98E+00	5.1425	7.1273	6.93E-08	1.94E-05	BQ176904	Dcun1d4	100737	Mm.220312	DCN1, defective in cullin neddylation 1, domain co	chr5 C3.3	---
+1418480_at	-3.98E+00	6.9813	10.9576	7.20E-08	1.99E-05	NM_023785	Cxcl7	57349	Mm.293614	chemokine (C-X-C motif) ligand 7	chr5 E2	---
+1450995_at	3.79E+00	10.1163	6.3234	7.39E-08	2.02E-05	BG245669	Folr1	14275	Mm.2135	folate receptor 1 (adult)	chr7 E2	---
+1455786_at	-3.16E+00	4.8704	8.0264	7.81E-08	2.11E-05	BB476620	2610036F08Rik	628054	Mm.271252	RIKEN cDNA 2610036F08 gene	chr17 A3.2	---
+1432466_a_at	3.94E+00	13.3531	9.4136	8.07E-08	2.16E-05	AK019319	Apoe	11816	Mm.305152	apolipoprotein E	chr7 A3|7 4.0 cM	Statin_Pathway_PharmGKB // GenMAPP /// Statin_Pathway_PharmGKB // GenMAPP
+1419470_at	1.82E+00	11.1638	9.3411	8.66E-08	2.26E-05	BI713933	Gnb4	14696	Mm.139192	guanine nucleotide binding protein, beta 4	chr3 B	G_Protein_Signaling // GenMAPP /// Calcium_regulation_in_cardiac_cells // GenMAPP /// Smooth_muscle_contraction // GenMAPP
+1424410_at	-2.05E+00	5.2536	7.3061	8.67E-08	2.26E-05	BC017523	Ttc8	76260	Mm.282660	tetratricopeptide repeat domain 8	chr12 E	---
+1443231_at	2.27E+00	9.333	7.065	9.54E-08	2.46E-05	BG064470	Magi1	14924	Mm.217216	Membrane associated guanylate kinase, WW and PDZ d	chr6 D3	---
+1420116_s_at	1.56E+00	12.097	10.5396	9.73E-08	2.49E-05	AW413496	Golph3	66629	Mm.250936	golgi phosphoprotein 3	chr15 A1	---
+1434248_at	2.84E+00	10.3891	7.5536	9.91E-08	2.51E-05	BM243756	Prkch	18755	Mm.341677	protein kinase C, eta	chr12 C3-D1	G_Protein_Signaling // GenMAPP /// Wnt_Signaling // GenMAPP /// Calcium_regulation_in_cardiac_cells // GenMAPP /// Smooth_muscle_contraction // GenMAPP /// G_Protein_Signaling // GenMAPP /// Wnt_Signaling // GenMAPP /// Calcium_regulation_in_cardiac_cells // GenMAPP /// Smooth_muscle_contraction // GenMAPP
+1435959_at	-2.97E+00	6.6955	9.6679	1.04E-07	2.60E-05	BM246535	Arhgap15	76117	Mm.217350	Rho GTPase activating protein 15	chr2 B	---
+1460436_at	-2.72E+00	6.803	9.5222	1.06E-07	2.61E-05	BI652065	Ndst1	15531	Mm.181862	N-deacetylase/N-sulfotransferase (heparan glucosam	chr18 D2	---
+1421308_at	2.72E+00	9.7937	7.0708	1.12E-07	2.74E-05	AK010166	Car13	71934	Mm.158776	carbonic anhydrase 13	chr3 A2	---
+1423064_at	-2.55E+00	5.2672	7.8203	1.16E-07	2.80E-05	BB795491	Dnmt3a	13435	Mm.5001	DNA methyltransferase 3A	chr12 A2-A3	---
+1452251_at	2.84E+00	8.5678	5.7303	1.21E-07	2.86E-05	AA986379	Nbea	26422	---	neurobeachin	chr3 C|3 28.9 cM	---
+1458738_at	1.75E+00	9.2465	7.4977	1.20E-07	2.86E-05	C87678	Gna14	14675	Mm.313181	Guanine nucleotide binding protein, alpha 14	chr19 A-B|19 9.0 cM	G_Protein_Signaling // GenMAPP /// G_Protein_Signaling // GenMAPP /// G_Protein_Signaling // GenMAPP /// G_Protein_Signaling // GenMAPP
+1416046_a_at	-3.24E+00	7.8163	11.0573	1.25E-07	2.90E-05	BM054266	Fuca2	66848	Mm.26625	fucosidase, alpha-L- 2, plasma	chr10 A2	N-Glycan degradation // KEGG /// Glycan structures - degradation // KEGG
+1434196_at	2.21E+00	9.6364	7.4241	1.24E-07	2.90E-05	BQ176119	Dnaja4	58233	Mm.52319	DnaJ (Hsp40) homolog, subfamily A, member 4	chr9 A5.3	---
+1460121_at	-4.10E+00	6.4804	10.5796	1.26E-07	2.90E-05	BI076710	9630010G10Rik	399612	---	RIKEN cDNA 9630010G10 gene	---	---
+1434129_s_at	-3.36E+00	6.0968	9.4537	1.30E-07	2.97E-05	BG917242	Lhfpl2	218454	Mm.316553	lipoma HMGIC fusion partner-like 2	chr13 D1	---
+1434277_a_at	3.81E+00	10.4459	6.6364	1.34E-07	3.00E-05	BG069663	6430570G24	327989	Mm.191894	hypothetical protein 6430570G24	chr11 C	---
+1457759_at	-3.09E+00	5.6251	8.7116	1.33E-07	3.00E-05	BM244095	A630081D01Rik	98754	Mm.404411	RIKEN cDNA A630081D01 gene	---	---
+1416230_at	3.22E+00	13.592	10.3725	1.36E-07	3.02E-05	NM_019437	Rfk	54391	Mm.7013	riboflavin kinase	chr19 B	Riboflavin metabolism // KEGG
+1424367_a_at	-3.47E+00	5.1633	8.6318	1.38E-07	3.03E-05	AB017136	Homer2	26557	Mm.228	homer homolog 2 (Drosophila)	chr7 D3	---
+1434130_at	-3.24E+00	5.3642	8.6079	1.39E-07	3.03E-05	BG917242	Lhfpl2	218454	Mm.316553	lipoma HMGIC fusion partner-like 2	chr13 D1	---
+1456014_s_at	1.14E+00	14.7806	13.6415	1.42E-07	3.07E-05	BB113173	BC032204	108101	Mm.157591	cDNA sequence BC032204	chr19 A	---
+1425581_s_at	-3.27E+00	5.7131	8.9844	1.52E-07	3.14E-05	AF349573	Galnt7	108150	Mm.62886	UDP-N-acetyl-alpha-D-galactosamine: polypeptide N-	chr8 B3.2	---
+1428230_at	-3.95E+00	5.993	9.9456	1.47E-07	3.14E-05	BF160591	Prkcn	75292	Mm.252776	protein kinase C, nu	chr17 E3	---
+1435285_at	3.52E+00	9.7638	6.2451	1.51E-07	3.14E-05	BB731805	Mpped2	77015	Mm.45628	metallophosphoesterase domain containing 2	chr2 E3|2 59.0 cM	---
+1451210_at	-3.00E+00	6.2706	9.2695	1.49E-07	3.14E-05	BC010332	Ppap2c	50784	Mm.28873	phosphatidic acid phosphatase type 2c	chr10 C1|10 42.0 cM	---
+1459923_at	-2.14E+00	5.6249	7.7657	1.51E-07	3.14E-05	AA185889	Bex6	328660	---	brain expressed gene 6	chr16 B2	---
+1421969_a_at	2.72E+00	8.7715	6.0512	1.63E-07	3.28E-05	U82536	Faah	14073	Mm.256025	fatty acid amide hydrolase	chr4 D1|4 56.5 cM	---
+1433626_at	2.01E+00	8.1908	6.1792	1.65E-07	3.28E-05	BB826296	Plscr4	235527	Mm.55289	phospholipid scramblase 4	chr9 E3.3	---
+1440041_at	-1.95E+00	6.0456	8	1.64E-07	3.28E-05	AV363424	Tgfbr3	21814	Mm.200775	Transforming growth factor, beta receptor III	chr5 E5	TGF_Beta_Signaling_Pathway // GenMAPP
+1453572_a_at	-1.99E+00	8.9695	10.9642	1.61E-07	3.28E-05	AK012816	Plp2	18824	Mm.18565	proteolipid protein 2	chrX A2-A3.1|X 1.6 cM	---
+1418508_a_at	2.05E+00	10.4647	8.4174	1.68E-07	3.32E-05	BG064712	Grb2	14784	Mm.383426	growth factor receptor bound protein 2	chr11 E2|11 75.0 cM	Integrin-mediated_cell_adhesion_KEGG // GenMAPP
+1432431_s_at	1.54E+00	9.7857	8.246	1.80E-07	3.53E-05	AK004072	2900006F19Rik	72899	Mm.229466	RIKEN cDNA 2900006F19 gene	chr2 F3	---
+1451206_s_at	2.46E+00	10.3147	7.8529	1.92E-07	3.73E-05	BC007144	Pscdbp	227929	Mm.273905	pleckstrin homology, Sec7 and coiled-coil domains,	chr2 C1.1	---
+1437821_at	1.75E+00	11.4778	9.7309	1.96E-07	3.77E-05	BB408240	Diap1	13367	Mm.195916	Diaphanous homolog 1 (Drosophila)	chr18 B3|18 16.0 cM	G13_Signaling_Pathway // GenMAPP /// G13_Signaling_Pathway // GenMAPP
+1418436_at	1.25E+00	10.8571	9.6083	2.01E-07	3.84E-05	AB019212	Stx7	53331	Mm.248042	syntaxin 7	chr10 A3	---
+1422303_a_at	2.55E+00	10.0336	7.4818	2.06E-07	3.85E-05	AF229434	Tnfrsf18	21936	Mm.3180	tumor necrosis factor receptor superfamily, member	chr4 E	---
+1426908_at	-3.92E+00	5.9814	9.9016	2.08E-07	3.85E-05	AV302406	Galnt7	108150	Mm.62886	UDP-N-acetyl-alpha-D-galactosamine: polypeptide N-	chr8 B3.2	---
+1454714_x_at	-3.40E+00	8.714	12.1177	2.07E-07	3.85E-05	AA561726	Phgdh /// LOC668771 /// LOC670155 /// LOC671972 /// LOC673015	236539 /// 668771 /// 670155 /// 671972 /// 673015	Mm.16898	3-phosphoglycerate dehydrogenase /// similar to 3-	chr3 E1 /// chr7 F3	---
+1456020_at	-2.71E+00	5.7111	8.4254	2.06E-07	3.85E-05	BB487775	Sh3tc2	225608	Mm.262320	SH3 domain and tetratricopeptide repeats 2	chr18 E1	---
+1424134_at	1.65E+00	12.6016	10.9476	2.10E-07	3.86E-05	BG073177	Rspry1	67610	Mm.109074	ring finger and SPRY domain containing 1	chr8 C5	---
+1428306_at	2.65E+00	10.2044	7.5586	2.13E-07	3.88E-05	AK017926	Ddit4	74747	Mm.21697	DNA-damage-inducible transcript 4	chr10 B3	---
+1423025_a_at	3.10E+00	10.5073	7.4059	2.15E-07	3.89E-05	NM_013928	Schip1	30953	Mm.331064	schwannomin interacting protein 1	chr3 E2	---
+1418398_a_at	1.15E+00	11.8018	10.6516	2.19E-07	3.93E-05	AF175771	Tspan32	27027	Mm.28172	tetraspanin 32	chr7 F5|7 69.0 cM	---
+1422642_at	-2.66E+00	6.7528	9.4117	2.22E-07	3.95E-05	BB012489	Cdc42ep3	260409	Mm.140601	CDC42 effector protein (Rho GTPase binding) 3	chr17 E3	---
+1417848_at	-2.72E+00	6.3241	9.0448	2.25E-07	3.98E-05	AW413620	Gig1	170753	Mm.212908	glucocorticoid induced gene 1	chr3 A1	---
+1454628_at	2.00E+00	9.524	7.5269	2.28E-07	4.00E-05	BE957307	A930037G23Rik	320678	Mm.129415	RIKEN cDNA A930037G23 gene	chr6 F3	---
+1450786_x_at	1.98E+00	9.4584	7.4763	2.35E-07	4.10E-05	NM_019808	LOC669660	669660	---	similar to PDZ and LIM domain protein 5 (Enigma ho	---	---
+1456891_at	2.24E+00	9.7681	7.5271	2.37E-07	4.10E-05	BB786084	Dennd2c	329727	Mm.293641	DENN/MADD domain containing 2C	chr3 F2.2	---
+1449273_at	-2.54E+00	6.3011	8.8426	2.49E-07	4.28E-05	NM_133769	Cyfip2	76884	Mm.154358	cytoplasmic FMR1 interacting protein 2	chr11 B1.2	---
+1426530_a_at	-3.18E+00	6.6201	9.7979	2.57E-07	4.35E-05	BM120233	Klhl5	71778	Mm.10281	kelch-like 5 (Drosophila)	chr5 C3.1	---
+1429028_at	2.20E+00	11.9362	9.74	2.59E-07	4.35E-05	AK017170	Dock11	75974	Mm.32873	dedicator of cytokinesis 11	chrX A3.1-A3.2	---
+1442166_at	4.41E+00	11.5577	7.146	2.58E-07	4.35E-05	BB273427	Cpne5	240058	Mm.39905	copine V	chr17 A3.3	---
+1426662_at	1.90E+00	13.0468	11.1469	2.86E-07	4.73E-05	AJ006215	Cmas	12764	Mm.3820	cytidine monophospho-N-acetylneuraminic acid synth	chr6 G3|6 74.0 cM	---
+1446038_at	3.11E+00	9.6391	6.5324	2.85E-07	4.73E-05	BB124954	Hnrpa1	15382	Mm.390233	Heterogeneous nuclear ribonucleoprotein A1	chr15 F3|15 61.7 cM	mRNA_processing_binding_Reactome // GenMAPP /// GPCRDB_Class_A_Rhodopsin-like // GenMAPP /// Peptide_GPCRs // GenMAPP
+1440285_at	-2.15E+00	6.6435	8.7895	2.92E-07	4.75E-05	BF472950	Ppp1r9a	243725	Mm.332901	protein phosphatase 1, regulatory (inhibitor) subu	chr6 A1|6 0.5 cM	---
+1448130_at	2.19E+00	11.679	9.4854	2.93E-07	4.75E-05	NM_010191	Fdft1	14137	Mm.386760	farnesyl diphosphate farnesyl transferase 1	chr14 D1|14 3.0 cM	Cholesterol_Biosynthesis // GenMAPP /// Cholesterol_Biosynthesis // GenMAPP
+1448595_a_at	-2.63E+00	6.1034	8.7323	2.90E-07	4.75E-05	NM_009052	Bex1	19716	Mm.422943	brain expressed gene 1	chrX F1|X 57.5 cM	---
+1449083_at	-2.17E+00	6.366	8.5407	3.00E-07	4.83E-05	AA067702	Ccdc91	67015	Mm.209774	coiled-coil domain containing 91	chr6 G3	---
+1453286_at	-2.45E+00	6.5116	8.9611	3.02E-07	4.83E-05	BB085537	Plxna2	18845	Mm.2251	plexin A2	---	---
+1418586_at	2.16E+00	10.2367	8.0754	3.09E-07	4.85E-05	NM_009624	Adcy9	11515	Mm.310036	adenylate cyclase 9	chr16 B1|16 2.0 cM	G_Protein_Signaling // GenMAPP /// Calcium_regulation_in_cardiac_cells // GenMAPP /// Smooth_muscle_contraction // GenMAPP /// Purine metabolism // KEGG /// Calcium signaling pathway // KEGG /// Gap junction // KEGG /// Long-term potentiation // KEGG /// Olfactory transduction // KEGG /// Taste transduction // KEGG
+1426657_s_at	-3.64E+00	7.2146	10.8505	3.10E-07	4.85E-05	L21027	Phgdh /// LOC666422 /// LOC666875 /// LOC669985 /// LOC671102 /// LOC673015 /// LOC675010	236539 /// 666422 /// 666875 /// 669985 /// 671102 /// 673015 /// 675010	Mm.16898	3-phosphoglycerate dehydrogenase /// similar to 3-	chr3 E1 /// chr8 A2 /// chr15 A2	---
+1454709_at	1.49E+00	12.812	11.3218	3.09E-07	4.85E-05	BG075363	Tmem64	100201	Mm.38877	transmembrane protein 64	chr4 A2	---
+1416389_a_at	2.01E+00	11.2632	9.2517	3.16E-07	4.90E-05	NM_134083	Rcbtb2	105670	Mm.280068	regulator of chromosome condensation (RCC1) and BT	chr14 D2	---
+1436902_x_at	-3.60E+00	8.2948	11.8905	3.19E-07	4.90E-05	BB096368	Tmsb10	19240	Mm.3532	thymosin, beta 10	chr6 C1	---
+1452291_at	2.16E+00	8.504	6.342	3.17E-07	4.90E-05	AV375176	Centd1	212285	Mm.244403	centaurin, delta 1	chr5 C3.1	---
+1419595_a_at	-2.78E+00	5.9979	8.7731	3.49E-07	5.30E-05	NM_010281	Ggh /// LOC667301	14590 /// 667301	Mm.20461	gamma-glutamyl hydrolase /// similar to Gamma-glut	chr4 A3-A5 /// chr4 A3	---
+1439185_x_at	2.12E+00	11.4636	9.3481	3.47E-07	5.30E-05	BB433489	D430028G21Rik	228607	Mm.287226	RIKEN cDNA D430028G21 gene	chr2 F1	---
+1431751_a_at	3.57E+00	10.1025	6.5286	3.61E-07	5.44E-05	AK012553	Mpped2	77015	Mm.45628	metallophosphoesterase domain containing 2	chr2 E3|2 59.0 cM	---
+1428285_at	1.86E+00	8.9794	7.119	3.69E-07	5.49E-05	AK018446	8430427H17Rik	329540	Mm.50600	RIKEN cDNA 8430427H17 gene	chr2 H1	---
+1448027_at	1.57E+00	9.2871	7.7177	3.69E-07	5.49E-05	AI428254	2010305B15Rik	72110	Mm.392483	RIKEN cDNA 2010305B15 gene	---	---
+1429778_at	2.06E+00	10.9405	8.8853	3.80E-07	5.61E-05	AK015354	Optn	71648	Mm.116942	optineurin	chr2 A1|2 0.5 cM	---
+1418587_at	-2.64E+00	6.3176	8.9595	3.84E-07	5.64E-05	U21050	Traf3	22031	Mm.27431	Tnf receptor-associated factor 3	chr12 F|12 55.0 cM	Apoptosis // GenMAPP /// Apoptosis_KEGG // GenMAPP
+1415737_at	2.59E+00	13.6705	11.0797	3.87E-07	5.65E-05	NM_019437	Rfk	54391	Mm.7013	riboflavin kinase	chr19 B	Riboflavin metabolism // KEGG
+1451821_a_at	1.65E+00	9.5612	7.9066	4.07E-07	5.91E-05	U83636	Sp100	20684	Mm.290906	nuclear antigen Sp100	chr1 C5|1 50.0 cM	---
+1434307_at	1.47E+00	10.5625	9.0882	4.13E-07	5.95E-05	AW489972	Tmem64	100201	Mm.38877	transmembrane protein 64	chr4 A2	---
+1417526_at	1.44E+00	9.6147	8.1795	4.28E-07	6.13E-05	NM_021568	Pcbp3	59093	Mm.272803	poly(rC) binding protein 3	chr10 B5.1-B5.3	mRNA_processing_binding_Reactome // GenMAPP /// mRNA_processing_binding_Reactome // GenMAPP
+1423066_at	-1.87E+00	5.1995	7.0735	4.43E-07	6.28E-05	BB795491	Dnmt3a	13435	Mm.5001	DNA methyltransferase 3A	chr12 A2-A3	---
+1435679_at	1.77E+00	10.8244	9.0549	4.44E-07	6.28E-05	BB770843	Optn	71648	Mm.116942	optineurin	chr2 A1|2 0.5 cM	---
+1421947_at	-2.76E+00	6.8374	9.6008	4.55E-07	6.38E-05	NM_025278	Gng12	14701	Mm.234342	guanine nucleotide binding protein (G protein), ga	chr6 C1|6 30.0 cM	G_Protein_Signaling // GenMAPP /// Calcium_regulation_in_cardiac_cells // GenMAPP /// Smooth_muscle_contraction // GenMAPP
+1449249_at	2.14E+00	9.6978	7.5542	4.56E-07	6.38E-05	NM_018764	Pcdh7	54216	Mm.357762	protocadherin 7	chr5 C3-D	---
+1435343_at	-4.29E+00	6.5335	10.8262	4.63E-07	6.44E-05	BF715043	Dock10 /// LOC630691	210293 /// 630691	Mm.133473	dedicator of cytokinesis 10 /// similar to Dedicat	chr1 C4	---
+1417419_at	-3.17E+00	6.4136	9.5827	4.79E-07	6.61E-05	NM_007631	Ccnd1	12443	Mm.273049	cyclin D1	chr7 F5|7 72.3 cM	G1_to_S_cell_cycle_Reactome // GenMAPP /// Wnt_Signaling // GenMAPP
+1438018_at	-3.24E+00	5.7418	8.981	4.83E-07	6.61E-05	BB463518	Hook1	77963	Mm.49994	hook homolog 1 (Drosophila)	chr4 C5|4 45.5 cM	---
+1440665_at	2.70E+00	8.8728	6.1713	4.83E-07	6.61E-05	AV304014	---	---	---	---	---	---
+1444878_at	-2.52E+00	5.8325	8.3531	4.98E-07	6.73E-05	BM247032	Dock10	210293	Mm.133473	Dedicator of cytokinesis 10	chr1 C4	---
+1448167_at	-1.76E+00	8.6891	10.4489	4.98E-07	6.73E-05	NM_010511	Ifngr1	15979	Mm.549	interferon gamma receptor 1	chr10 A3|10 15.0 cM	---
+1421898_a_at	1.79E+00	8.2366	6.4504	5.16E-07	6.94E-05	BB210729	Mr1	15064	Mm.7580	major histocompatibility complex, class I-related	chr1 H1	---
+1455626_at	-3.55E+00	6.4601	10.0069	5.32E-07	7.10E-05	AA987181	Hoxa9	15405	Mm.4694	homeo box A9	chr6 B3|6 26.32 cM	---
+1450522_a_at	-3.32E+00	6.476	9.7983	5.55E-07	7.37E-05	NM_008197	H1f0	14958	Mm.24350	H1 histone family, member 0	chr15 E1|15 46.75 cM	---
+1433963_a_at	1.45E+00	12.9879	11.5355	5.64E-07	7.41E-05	BG066664	BC032204	108101	Mm.157591	cDNA sequence BC032204	chr19 A	---
+1454629_at	1.98E+00	8.8623	6.8826	5.64E-07	7.41E-05	BE957307	A930037G23Rik	320678	Mm.129415	RIKEN cDNA A930037G23 gene	chr6 F3	---
+1422638_s_at	-2.60E+00	7.1201	9.7185	5.76E-07	7.52E-05	NM_018750	Rassf5	54354	Mm.248291	Ras association (RalGDS/AF-6) domain family 5	chr1 E4|1 69.1 cM	---
+1416968_a_at	2.32E+00	11.4714	9.1505	5.92E-07	7.69E-05	NM_133943	Hsd3b7	101502	Mm.157103	hydroxy-delta-5-steroid dehydrogenase, 3 beta- and	chr7 F3	---
+1427475_a_at	1.64E+00	10.7765	9.1398	6.01E-07	7.76E-05	BC002020	LOC669660	669660	---	similar to PDZ and LIM domain protein 5 (Enigma ho	---	---
+1417112_at	1.63E+00	11.9026	10.2726	6.35E-07	8.15E-05	NM_024191	Arl2bp	107566	Mm.139700	ADP-ribosylation factor-like 2 binding protein	chr8 C5	---
+1435281_at	1.37E+00	8.8046	7.4331	6.44E-07	8.22E-05	BE956581	Cpt1c	78070	Mm.231465	carnitine palmitoyltransferase 1c	chr7 B2	---
+1419193_a_at	-2.74E+00	7.0904	9.8275	6.58E-07	8.36E-05	NM_022024	Gmfg	63986	Mm.194536	glia maturation factor, gamma	chr7 A3	---
+1428796_at	1.20E+00	9.4239	8.2217	6.89E-07	8.66E-05	AK017436	5530401J07Rik	74503	Mm.392614	RIKEN cDNA 5530401J07 gene	---	---
+1455900_x_at	-3.27E+00	7.3299	10.6015	6.89E-07	8.66E-05	BB041811	Tgm2	21817	Mm.330731	transglutaminase 2, C polypeptide	chr2 H1|2 89.0 cM	---
+1446631_at	-1.78E+00	4.9707	6.7526	6.94E-07	8.68E-05	BB102620	9430083I22	329514	Mm.207315	hypothetical protein 9430083I22	chr2 F1	---
+1425702_a_at	2.84E+00	10.6415	7.797	7.18E-07	8.92E-05	BC011294	Enpp5	83965	Mm.30145	ectonucleotide pyrophosphatase/phosphodiesterase 5	chr17 C|17 23.5 cM	---
+1423160_at	-2.28E+00	7.56	9.8369	7.62E-07	9.43E-05	BQ044290	Spred1	114715	Mm.392726	sprouty protein with EVH-1 domain 1, related seque	chr2 E5	---
+1433575_at	-4.33E+00	7.1775	11.5043	7.89E-07	9.70E-05	BG083485	LOC672274	672274	---	similar to Transcription factor SOX-4	---	---
+1438561_x_at	-2.57E+00	7.0621	9.6278	8.02E-07	9.82E-05	BB400326	4930538D17Rik	75146	Mm.159290	RIKEN cDNA 4930538D17 gene	chr19 D1	---
+1419322_at	1.54E+00	9.4977	7.9549	8.19E-07	9.98E-05	NM_053072	Fgd6	13998	Mm.269596	FYVE, RhoGEF and PH domain containing 6	chr10 C3	---
+1441249_at	-2.32E+00	5.1109	7.434	8.39E-07	1.02E-04	AV259068	4930403D09Rik	319208	---	RIKEN cDNA 4930403D09 gene	---	---
+1417219_s_at	-3.64E+00	7.951	11.5877	8.47E-07	1.02E-04	NM_025284	Tmsb10	19240	Mm.3532	thymosin, beta 10	chr6 C1	---
+1428938_at	2.25E+00	9.5463	7.2958	8.77E-07	1.05E-04	W41916	Gnaq	14682	Mm.391165	guanine nucleotide binding protein, alpha q polype	chr19 A|19 9.0 cM	G_Protein_Signaling // GenMAPP /// Smooth_muscle_contraction // GenMAPP
+1427048_at	-3.08E+00	5.9476	9.026	9.25E-07	1.09E-04	AW555326	Smo	319757	Mm.29279	smoothened homolog (Drosophila)	chr6 A3.3	GPCRDB_Other // GenMAPP /// GPCRDB_Other // GenMAPP /// GPCRDB_Other // GenMAPP
+1433767_at	1.31E+00	11.1974	9.8915	9.25E-07	1.09E-04	AV257687	1110018G07Rik	68497	Mm.24446	RIKEN cDNA 1110018G07 gene	chr12 D2	---
+1448765_at	-3.10E+00	5.7008	8.804	9.62E-07	1.12E-04	NM_008054	Fyn	14360	Mm.4848	Fyn proto-oncogene	chr10 B1|10 25.0 cM	Integrin-mediated_cell_adhesion_KEGG // GenMAPP /// Integrin-mediated_cell_adhesion_KEGG // GenMAPP
+1455862_at	-2.40E+00	5.7104	8.1089	9.59E-07	1.12E-04	BB131620	9630054F20Rik	327900	Mm.260956	RIKEN cDNA 9630054F20 gene	chr11 A4	---
+1436124_at	1.56E+00	9.9799	8.4173	9.92E-07	1.15E-04	BE996519	Pcyt1b	236899	Mm.166467	phosphate cytidylyltransferase 1, choline, beta is	chrX C3	Aminophosphonate metabolism // KEGG /// Glycerophospholipid metabolism // KEGG
+1460377_a_at	1.30E+00	9.0493	7.7473	9.88E-07	1.15E-04	BC005722	Tmem8	60455	Mm.304656	transmembrane protein 8 (five membrane-spanning do	chr17 B1	---
+1417050_at	2.63E+00	8.4286	5.797	1.01E-06	1.16E-04	NM_026161	C1qtnf4	67445	Mm.258993	C1q and tumor necrosis factor related protein 4	chr2 E1	---
+1422612_at	-1.94E+00	6.4321	8.376	1.02E-06	1.16E-04	NM_013820	Hk2	15277	Mm.255848	hexokinase 2	chr6 C3|6 34.5 cM	Glycolysis_and_Gluconeogenesis // GenMAPP /// Glycolysis / Gluconeogenesis // KEGG /// Fructose and mannose metabolism // KEGG /// Galactose metabolism // KEGG /// Starch and sucrose metabolism // KEGG /// Streptomycin biosynthesis // KEGG /// Aminosugars metabolism // KEGG
+1439610_at	2.12E+00	9.6209	7.4995	1.02E-06	1.16E-04	BE980253	Rab27b	80718	Mm.100092	RAB27b, member RAS oncogene family	chr18 E2|18 45.0 cM	---
+1423349_at	-1.87E+00	6.3722	8.2462	1.10E-06	1.25E-04	AA510713	Socs5	56468	Mm.126885	suppressor of cytokine signaling 5	chr17 E4	---
+1457777_at	1.58E+00	6.66	5.0787	1.11E-06	1.26E-04	AV240142	Gsdm1	57911	Mm.86870	gasdermin 1	chr11 D	---
+1418459_at	-2.21E+00	5.0626	7.2736	1.15E-06	1.28E-04	AA067702	Ccdc91	67015	Mm.209774	coiled-coil domain containing 91	chr6 G3	---
+1447584_s_at	-1.70E+00	4.8923	6.5888	1.15E-06	1.28E-04	AI642973	Myct1	68632	Mm.338242	myc target 1	chr10 A1	---
+1436977_at	2.89E+00	7.9651	5.0728	1.16E-06	1.29E-04	BM213788	Eps8	13860	Mm.235346	Epidermal growth factor receptor pathway substrate	chr6 G1|6 66.0 cM	---
+1422474_at	-2.47E+00	5.601	8.0749	1.22E-06	1.34E-04	BM246564	Pde4b	18578	Mm.20181	phosphodiesterase 4B, cAMP specific	chr4 C6|4 46.8 cM	Smooth_muscle_contraction // GenMAPP /// Smooth_muscle_contraction // GenMAPP /// Smooth_muscle_contraction // GenMAPP /// Smooth_muscle_contraction // GenMAPP /// Smooth_muscle_contraction // GenMAPP /// Smooth_muscle_contraction // GenMAPP
+1449155_at	-1.11E+00	8.7197	9.8269	1.21E-06	1.34E-04	NM_026190	Polr3g	67486	Mm.279781	polymerase (RNA) III (DNA directed) polypeptide G	chr13 C3	---
+1455069_x_at	-3.14E+00	9.4584	12.5998	1.21E-06	1.34E-04	BF225398	Slc25a4	11739	Mm.16228	solute carrier family 25 (mitochondrial carrier, a	chr8 B1.1|8 26.0 cM	Electron_Transport_Chain // GenMAPP /// mRNA_processing_binding_Reactome // GenMAPP /// Electron_Transport_Chain // GenMAPP /// mRNA_processing_binding_Reactome // GenMAPP
+1416872_at	-1.96E+00	6.6404	8.6022	1.25E-06	1.36E-04	NM_019656	Tspan6	56496	Mm.46701	tetraspanin 6	chrX E3	---
+1447947_at	1.54E+00	8.3215	6.7777	1.26E-06	1.37E-04	BM220786	Zfyve16	218441	Mm.259585	zinc finger, FYVE domain containing 16	chr13 C3	---
+1456380_x_at	-2.98E+00	7.7808	10.7642	1.27E-06	1.38E-04	BB490338	Cnn3	71994	Mm.275555	calponin 3, acidic	chr3 G1	---
+1451024_at	1.44E+00	10.5977	9.157	1.31E-06	1.41E-04	AV081616	Edg6	13611	Mm.33065	endothelial differentiation, G-protein-coupled rec	chr10 C1	Small_ligand_GPCRs // GenMAPP
+1436954_at	-2.20E+00	7.1133	9.3167	1.36E-06	1.45E-04	C76969	Waspip	215280	Mm.223504	Wiskott-Aldrich syndrome protein interacting prote	chr2 C3|2 43.0 cM	---
+1455450_at	-1.48E+00	6.3936	7.8765	1.36E-06	1.45E-04	AV231357	Ptpn3	545622	Mm.246552	protein tyrosine phosphatase, non-receptor type 3	chr4 B3	---
+1450696_at	-1.72E+00	7.8615	9.5834	1.39E-06	1.47E-04	NM_013585	Psmb9	16912	Mm.390983	proteosome (prosome, macropain) subunit, beta type	chr17 B1|17 18.59 cM	Proteasome_Degradation // GenMAPP /// Proteasome_Degradation // GenMAPP
+1428222_at	1.50E+00	8.3485	6.8487	1.41E-06	1.48E-04	AK018179	Dcamkl2	70762	Mm.44490	doublecortin and CaM kinase-like 2	chr3 F1	---
+1424572_a_at	-1.21E+00	10.4481	11.6613	1.43E-06	1.50E-04	AF171080	H2afy	26914	Mm.283802	H2A histone family, member Y	chr13 B2	---
+1419194_s_at	-3.32E+00	7.7806	11.0968	1.46E-06	1.52E-04	NM_022024	Gmfg	63986	Mm.194536	glia maturation factor, gamma	chr7 A3	---
+1437277_x_at	-3.24E+00	7.559	10.8018	1.52E-06	1.58E-04	BB550124	Tgm2	21817	Mm.330731	transglutaminase 2, C polypeptide	chr2 H1|2 89.0 cM	---
+1417155_at	-2.58E+00	5.4705	8.0506	1.75E-06	1.81E-04	BC005453	Mycn	18109	Mm.16469	v-myc myelocytomatosis viral related oncogene, neu	chr12 A3-B|12 4.0 cM	---
+1428454_at	1.39E+00	8.941	7.5471	1.75E-06	1.81E-04	AK011603	Bcas3	192197	Mm.287663	breast carcinoma amplified sequence 3	chr11 C	---
+1416330_at	-3.94E+00	8.4682	12.4108	1.90E-06	1.94E-04	NM_133655	Cd81	12520	Mm.806	CD 81 antigen	chr7 F5|7 69.3 cM	---
+1423702_at	-3.31E+00	6.551	9.8564	1.90E-06	1.94E-04	BC003830	H1f0	14958	Mm.24350	H1 histone family, member 0	chr15 E1|15 46.75 cM	---
+1451702_at	-2.39E+00	5.9941	8.3837	2.03E-06	2.07E-04	BC026773	Cmtm7	102545	Mm.35600	CKLF-like MARVEL transmembrane domain containing 7	chr9 F3	---
+1448501_at	-3.25E+00	5.7259	8.9787	2.08E-06	2.10E-04	NM_019656	Tspan6	56496	Mm.46701	tetraspanin 6	chrX E3	---
+1454901_at	3.09E+00	8.9147	5.8275	2.09E-06	2.10E-04	BG069663	6430570G24	327989	Mm.191894	hypothetical protein 6430570G24	chr11 C	---
+1455729_at	2.28E+00	10.1988	7.9202	2.09E-06	2.10E-04	AV154513	Gnaq	14682	Mm.391165	guanine nucleotide binding protein, alpha q polype	chr19 A|19 9.0 cM	G_Protein_Signaling // GenMAPP /// Smooth_muscle_contraction // GenMAPP
+1440772_x_at	-2.36E+00	4.9445	7.3087	2.13E-06	2.13E-04	BB257157	9530077C05Rik	68283	Mm.280669	RIKEN cDNA 9530077C05 gene	chr9 A3	---
+1451154_a_at	-2.43E+00	7.0345	9.4605	2.14E-06	2.13E-04	BB644164	Cugbp2	14007	Mm.147091	CUG triplet repeat, RNA binding protein 2	chr2 A2-A3	mRNA_processing_binding_Reactome // GenMAPP /// mRNA_processing_binding_Reactome // GenMAPP /// mRNA_processing_binding_Reactome // GenMAPP /// mRNA_processing_Reactome // GenMAPP
+1456984_at	-2.83E+00	5.4234	8.2558	2.22E-06	2.20E-04	AV322078	Scml2	107815	Mm.159173	sex comb on midleg-like 2 (Drosophila)	chrX F4	---
+1434219_at	1.19E+00	10.3252	9.137	2.30E-06	2.27E-04	BB004503	Stim2	116873	Mm.265985	stromal interaction molecule 2	chr5 C1|5 34.0 cM	---
+1442320_at	2.70E+00	10.4042	7.7061	2.30E-06	2.27E-04	BB364132	LOC553096	553096	---	hypothetical LOC553096	---	---
+1422823_at	3.94E+00	9.0163	5.0734	2.39E-06	2.34E-04	NM_007945	Eps8	13860	Mm.235346	epidermal growth factor receptor pathway substrate	chr6 G1|6 66.0 cM	---
+1448154_at	5.14E+00	11.5471	6.409	2.45E-06	2.39E-04	NM_013864	Ndrg2	29811	Mm.26722	N-myc downstream regulated gene 2	chr14 C1	---
+1458588_at	2.23E+00	8.2877	6.0558	2.61E-06	2.53E-04	BB091802	Schip1	30953	Mm.331064	Schwannomin interacting protein 1	chr3 E2	---
+1426481_at	-2.60E+00	7.4516	10.0525	2.62E-06	2.53E-04	BB126112	Klhl22	224023	Mm.282807	kelch-like 22 (Drosophila)	chr16 A3|16 10.2 cM	---
+1418741_at	2.79E+00	9.8497	7.0559	2.63E-06	2.54E-04	NM_013566	Itgb7	16421	Mm.58	integrin beta 7	chr15 F3|15 61.1 cM	Integrin-mediated_cell_adhesion_KEGG // GenMAPP
+1428167_a_at	-1.97E+00	5.3447	7.3191	2.66E-06	2.55E-04	AK003513	Mpzl1	68481	Mm.46438	myelin protein zero-like 1	chr1 H2.3	---
+1453139_at	-1.36E+00	7.9464	9.3064	2.67E-06	2.55E-04	AK018117	Nudt12	67993	Mm.36507	nudix (nucleoside diphosphate linked moiety X)-typ	chr17 E1.1	---
+1429950_at	1.95E+00	10.0203	8.0672	2.78E-06	2.63E-04	AK010945	Unc5cl	76589	Mm.311629	unc-5 homolog C (C. elegans)-like	chr17 C	---
+1433885_at	-1.85E+00	9.3671	11.2209	2.78E-06	2.63E-04	BM240173	Iqgap2	544963	Mm.38878	IQ motif containing GTPase activating protein 2	chr13 D1	GPCRDB_Class_A_Rhodopsin-like // GenMAPP /// GPCRDB_Class_A_Rhodopsin-like // GenMAPP
+1433428_x_at	-3.84E+00	7.1984	11.0355	2.81E-06	2.65E-04	AW321975	Tgm2	21817	Mm.330731	transglutaminase 2, C polypeptide	chr2 H1|2 89.0 cM	---
+1452001_at	1.42E+00	12.6867	11.2697	2.83E-06	2.66E-04	L09600	Nfe2	18022	Mm.255151	nuclear factor, erythroid derived 2	chr15 F3|15 61.7 cM	---
+1416796_at	-1.89E+00	6.9602	8.8495	2.93E-06	2.72E-04	NM_010879	Nck2	17974	Mm.233951	non-catalytic region of tyrosine kinase adaptor pr	chr1 C1	---
+1420295_x_at	-1.90E+00	7.636	9.5366	2.98E-06	2.72E-04	T25545	Clcn5	12728	Mm.254370	chloride channel 5	chrX A1.1|X 0.8 cM	---
+1434940_x_at	-2.36E+00	6.0891	8.4478	2.95E-06	2.72E-04	BB233670	Rgs19	56470	Mm.274366	regulator of G-protein signaling 19	chr2 H4|2 45.0 cM	Calcium_regulation_in_cardiac_cells // GenMAPP /// Calcium_regulation_in_cardiac_cells // GenMAPP /// Calcium_regulation_in_cardiac_cells // GenMAPP /// Calcium_regulation_in_cardiac_cells // GenMAPP /// Smooth_muscle_contraction // GenMAPP /// Smooth_muscle_contraction // GenMAPP /// Smooth_muscle_contraction // GenMAPP /// Smooth_muscle_contraction // GenMAPP
+1437811_x_at	-1.94E+00	5.795	7.7325	2.91E-06	2.72E-04	AV312368	Cotl1	72042	Mm.141741	Coactosin-like 1 (Dictyostelium)	chr8 E1	---
+1439112_at	1.69E+00	8.8098	7.1243	2.99E-06	2.72E-04	BE456545	2810442I21Rik	72735	Mm.268598	RIKEN cDNA 2810442I21 gene	chr11 A2	---
+1455063_at	-2.00E+00	5.0368	7.0392	2.99E-06	2.72E-04	AW061290	4921513D11Rik /// AW061290	381110 /// 70923	Mm.293063	RIKEN cDNA 4921513D11 gene /// expressed sequence	chr17 E3	---
+1455970_at	-1.65E+00	4.9118	6.5648	2.99E-06	2.72E-04	BE370618	Pde5a	242202	Mm.134911	Phosphodiesterase 5A, cGMP-specific	chr3 G1	---
+1420851_at	-2.01E+00	6.3623	8.3692	3.01E-06	2.73E-04	NM_053117	Pard6g	93737	Mm.24678	par-6 partitioning defective 6 homolog gamma (C. e	chr18 E3	---
+1450394_at	1.32E+00	12.4688	11.1503	3.04E-06	2.75E-04	AV174110	Golph3	66629	Mm.250936	golgi phosphoprotein 3	chr15 A1	---
+1424338_at	-3.55E+00	5.6031	9.1517	3.07E-06	2.76E-04	BC023117	Slc6a13	14412	Mm.258596	solute carrier family 6 (neurotransmitter transpor	chr6 F1	---
+1426794_at	-3.47E+00	5.8587	9.3314	3.13E-06	2.77E-04	BE980029	Ptprs	19280	Mm.258771	protein tyrosine phosphatase, receptor type, S	chr17 D|17 33.8 cM	---
+1430564_at	1.88E+00	8.6446	6.7605	3.13E-06	2.77E-04	AK003346	Mobkl1a	68473	Mm.35764	MOB1, Mps One Binder kinase activator-like 1A (yea	chr5 E2	---
+1444603_at	1.75E+00	6.6282	4.8763	3.11E-06	2.77E-04	AI648973	2810030D12Rik	78335	Mm.235042	RIKEN cDNA 2810030D12 gene	---	---
+1454847_at	-1.61E+00	7.3916	9.0013	3.09E-06	2.77E-04	BG917242	Lhfpl2	218454	Mm.316553	lipoma HMGIC fusion partner-like 2	chr13 D1	---
+1432530_s_at	2.38E+00	7.72	5.3378	3.17E-06	2.80E-04	AK016125	Boll	75388	Mm.293080	bol, boule-like (Drosophila)	chr1 C1	mRNA_processing_binding_Reactome // GenMAPP
+1423858_a_at	4.95E+00	11.1729	6.2245	3.22E-06	2.83E-04	BC014714	Hmgcs2	15360	Mm.289131	3-hydroxy-3-methylglutaryl-Coenzyme A synthase 2	chr3 F2.2|3 48.0 cM	---
+1418250_at	2.65E+00	8.064	5.4095	3.30E-06	2.88E-04	NM_025404	Arfl4	66182	Mm.266840	ADP-ribosylation factor 4-like	chr11 D	---
+1454787_at	1.35E+00	8.752	7.3983	3.29E-06	2.88E-04	AI875447	Zdhhc9	208884	Mm.207367	zinc finger, DHHC domain containing 9	chrX A4	---
+1449056_at	-1.54E+00	6.9413	8.4827	3.34E-06	2.91E-04	NM_133929	E330009J07Rik	243780	Mm.333006	RIKEN cDNA E330009J07 gene	chr6 B1	---
+1416740_at	1.54E+00	13.4646	11.9198	3.37E-06	2.91E-04	AW744319	Col5a1	12831	Mm.7281	procollagen, type V, alpha 1	chr2 A2-B|2 18.0 cM	---
+1418322_at	1.77E+00	9.2148	7.441	3.36E-06	2.91E-04	AI467599	Crem	12916	Mm.5244	cAMP responsive element modulator	chr18 A	---
+1435409_at	1.70E+00	6.5358	4.8387	3.38E-06	2.91E-04	AV226721	---	---	Mm.2479	Transcribed locus	---	---
+1434960_at	1.09E+00	10.4532	9.362	3.43E-06	2.94E-04	AW555571	Taf9b	407786	Mm.19440	TAF9B RNA polymerase II, TATA box binding protein	chrX D	---
+1436591_at	2.14E+00	8.0685	5.924	3.47E-06	2.97E-04	BE553782	BC023744	231668	Mm.298603	cDNA sequence BC023744	chr5 F	---
+1429824_at	2.90E+00	8.2237	5.3209	3.50E-06	2.98E-04	AK016083	4930550C14Rik	75311	Mm.26078	RIKEN cDNA 4930550C14 gene	chr9 A5.3	---
+1459962_at	1.50E+00	8.2142	6.7137	3.57E-06	3.03E-04	BM123926	4930523C07Rik	67647	Mm.171518	RIKEN cDNA 4930523C07 gene	chr1 H2.1	---
+1423319_at	1.87E+00	11.9711	10.1009	3.61E-06	3.03E-04	AK014111	Hhex	15242	Mm.33896	hematopoietically expressed homeobox	chr19 D1|19 47.5 cM	---
+1426658_x_at	-2.43E+00	8.8175	11.2447	3.61E-06	3.03E-04	L21027	Phgdh /// LOC673015	236539 /// 673015	Mm.16898	3-phosphoglycerate dehydrogenase /// similar to 3-	chr3 E1	---
+1428789_at	-2.12E+00	6.2001	8.3181	3.61E-06	3.03E-04	AK008856	Ralgps2	78255	Mm.28376	Ral GEF with PH domain and SH3 binding motif 2	chr1 H1	---
+1422510_at	-2.63E+00	5.2386	7.8729	3.68E-06	3.08E-04	NM_133710	Ctdspl	69274	Mm.47093	CTD (carboxy-terminal domain, RNA polymerase II, p	chr9 F4	---
+1451596_a_at	1.48E+00	13.4918	12.0132	3.74E-06	3.11E-04	AF068749	Sphk1	20698	Mm.20944	sphingosine kinase 1	chr11 E2	S1P_Signaling // GenMAPP /// S1P_Signaling // GenMAPP /// S1P_Signaling // GenMAPP /// S1P_Signaling // GenMAPP
+1437291_at	-2.30E+00	5.8921	8.1939	3.77E-06	3.13E-04	AV131166	2700081O15Rik	108899	Mm.386838	RIKEN cDNA 2700081O15 gene	chr19 A	---
+1417558_at	-2.65E+00	6.5141	9.1679	3.79E-06	3.13E-04	NM_008054	Fyn	14360	Mm.4848	Fyn proto-oncogene	chr10 B1|10 25.0 cM	Integrin-mediated_cell_adhesion_KEGG // GenMAPP /// Integrin-mediated_cell_adhesion_KEGG // GenMAPP
+1427142_s_at	1.52E+00	9.2651	7.7423	3.83E-06	3.16E-04	BC019446	Jarid1b	75605	Mm.28995	jumonji, AT rich interactive domain 1B (Rbp2 like)	chr1 E4|1 72.0 cM	---
+1420604_at	-2.71E+00	6.3152	9.0209	3.98E-06	3.27E-04	NM_010420	Hesx1	15209	Mm.4802	homeo box gene expressed in ES cells	chr14 A3-B	---
+1421297_a_at	2.85E+00	7.9351	5.0862	4.13E-06	3.32E-04	NM_009781	Cacna1c	12288	Mm.236039	calcium channel, voltage-dependent, L type, alpha	chr6 F1|6 56.0 cM	Calcium_regulation_in_cardiac_cells // GenMAPP
+1434088_at	-2.78E+00	6.5873	9.3686	4.13E-06	3.32E-04	BM119467	Zfp496	268417	Mm.239793	zinc finger protein 496	chr11 B1.3	---
+1434285_at	1.22E+00	10.5281	9.3055	4.10E-06	3.32E-04	BB701578	Frmd4a	209630	Mm.37932	FERM domain containing 4A	chr2 A1	---
+1435461_at	-1.96E+00	5.226	7.1866	4.07E-06	3.32E-04	BF180812	Magi3	99470	Mm.264849	membrane associated guanylate kinase, WW and PDZ d	chr3 F2.2|3 53.0 cM	---
+1436913_at	-2.05E+00	5.9842	8.0367	4.09E-06	3.32E-04	BB479310	Cdc14a	229776	Mm.17647	CDC14 cell division cycle 14 homolog A (S. cerevis	chr3 G1	---
+1451899_a_at	-3.14E+00	5.427	8.5629	4.08E-06	3.32E-04	AF343349	Gtf2ird1	57080	Mm.332735	general transcription factor II I repeat domain-co	chr5 G2|5 7.0 cM	---
+1455184_at	1.75E+00	11.7749	10.0205	4.13E-06	3.32E-04	BG071991	Mobkl1a	68473	Mm.392493	MOB1, Mps One Binder kinase activator-like 1A (yea	chr5 E2	---
+1422536_at	3.20E+00	8.1042	4.9065	4.17E-06	3.34E-04	NM_009406	Tnni3	21954	Mm.27674	troponin I, cardiac	chr7 A1|7 9.0 cM	Striated_muscle_contraction // GenMAPP
+1437185_s_at	-3.14E+00	10.8213	13.9562	4.25E-06	3.38E-04	AV148480	Tmsb10	19240	Mm.3532	thymosin, beta 10	chr6 C1	---
+1427650_a_at	2.59E+00	8.6008	6.0068	4.31E-06	3.41E-04	D13802	Runx1	12394	Mm.4081	runt related transcription factor 1	chr16 C4|16 62.2 cM	---
+1448870_at	-2.64E+00	5.5893	8.2318	4.31E-06	3.41E-04	AF022889	Ltbp1	268977	Mm.269747	latent transforming growth factor beta binding pro	chr17 E3	TGF_Beta_Signaling_Pathway // GenMAPP /// TGF_Beta_Signaling_Pathway // GenMAPP /// TGF_Beta_Signaling_Pathway // GenMAPP /// TGF_Beta_Signaling_Pathway // GenMAPP
+1427143_at	1.44E+00	11.2751	9.8335	4.33E-06	3.42E-04	BC019446	Jarid1b	75605	Mm.28995	jumonji, AT rich interactive domain 1B (Rbp2 like)	chr1 E4|1 72.0 cM	---
+1423488_at	-2.73E+00	6.2458	8.9728	4.41E-06	3.46E-04	BC021914	Mmd	67468	Mm.277518	monocyte to macrophage differentiation-associated	chr11 C	---
+1452614_at	-2.23E+00	5.1043	7.3366	4.41E-06	3.46E-04	BG243248	Gm566	229672	Mm.297245	gene model 566, (NCBI)	chr3 F2.2	---
+1452817_at	-1.30E+00	8.2215	9.5188	4.46E-06	3.48E-04	AK010447	Smyd3	69726	Mm.222338	SET and MYND domain containing 3	chr1 H3|1 97.59 cM	---
+1424194_at	-1.52E+00	6.6794	8.1998	4.50E-06	3.50E-04	BC025872	Rcsd1	226594	Mm.265552	RCSD domain containing 1	chr1 H2.3	---
+1450355_a_at	-1.73E+00	6.5858	8.3172	4.57E-06	3.55E-04	NM_007599	Capg	12332	Mm.18626	capping protein (actin filament), gelsolin-like	chr6 C3	---
+1460253_at	-3.41E+00	7.086	10.5009	4.63E-06	3.58E-04	NM_133978	Cmtm7	102545	Mm.35600	CKLF-like MARVEL transmembrane domain containing 7	chr9 F3	---
+1451755_a_at	1.71E+00	8.9879	7.277	4.68E-06	3.60E-04	BC003792	Apobec1	11810	Mm.3333	apolipoprotein B editing complex 1	chr6 F1|6 54.5 cM	---
+1422962_a_at	-2.69E+00	7.4574	10.1497	4.72E-06	3.63E-04	NM_010724	Psmb8	16913	Mm.180191	proteosome (prosome, macropain) subunit, beta type	chr17 B1|17 18.61 cM	Proteasome_Degradation // GenMAPP
+1424562_a_at	-3.06E+00	9.6015	12.6598	4.83E-06	3.70E-04	BC026925	Slc25a4	11739	Mm.16228	solute carrier family 25 (mitochondrial carrier, a	chr8 B1.1|8 26.0 cM	Electron_Transport_Chain // GenMAPP /// mRNA_processing_binding_Reactome // GenMAPP /// Electron_Transport_Chain // GenMAPP /// mRNA_processing_binding_Reactome // GenMAPP
+1454979_at	1.63E+00	11.9129	10.2815	4.86E-06	3.71E-04	BM120370	Diap1 /// LOC671545	13367 /// 671545	Mm.195916	diaphanous homolog 1 (Drosophila) /// similar to P	chr18 B3|18 16.0 cM	G13_Signaling_Pathway // GenMAPP /// G13_Signaling_Pathway // GenMAPP
+1448952_at	1.79E+00	8.869	7.0829	4.90E-06	3.72E-04	AK002962	A030009H04Rik	80515	Mm.5324	RIKEN cDNA A030009H04 gene	chr11 B3	---
+1434674_at	1.54E+00	9.4539	7.9104	4.94E-06	3.74E-04	BB463428	Lyst	17101	Mm.342337	lysosomal trafficking regulator	chr13 A1|13 7.0 cM	---
+1422824_s_at	4.02E+00	9.773	5.7512	4.96E-06	3.75E-04	NM_007945	Eps8	13860	Mm.235346	epidermal growth factor receptor pathway substrate	chr6 G1|6 66.0 cM	---
+1416009_at	-2.45E+00	6.8833	9.3378	4.99E-06	3.76E-04	NM_019793	Tspan3	56434	Mm.28484	tetraspanin 3	chr9 C	---
+1426724_at	-2.64E+00	8.7043	11.34	5.03E-06	3.78E-04	AI314104	Cnn3	71994	Mm.275555	calponin 3, acidic	chr3 G1	---
+1444273_at	1.71E+00	10.5649	8.8504	5.20E-06	3.89E-04	AW555355	AW555355	99413	---	expressed sequence AW555355	---	---
+1460346_at	1.56E+00	10.5247	8.9604	5.29E-06	3.94E-04	BC011284	Arsa	11883	Mm.620	arylsulfatase A	chr15 E	Glycosphingolipid metabolism // KEGG
+1443641_at	1.65E+00	9.8662	8.2202	5.33E-06	3.97E-04	BF318304	---	---	---	---	---	---
+1448954_at	4.43E+00	10.2419	5.8101	5.41E-06	4.01E-04	NM_020610	Nrip3	78593	Mm.275374	nuclear receptor interacting protein 3	chr7 E3	---
+1419469_at	1.83E+00	10.4511	8.6214	5.48E-06	4.02E-04	BI713933	Gnb4	14696	Mm.139192	guanine nucleotide binding protein, beta 4	chr3 B	G_Protein_Signaling // GenMAPP /// Calcium_regulation_in_cardiac_cells // GenMAPP /// Smooth_muscle_contraction // GenMAPP
+1422317_a_at	1.95E+00	8.548	6.6025	5.48E-06	4.02E-04	NM_010743	Il1rl1	17082	Mm.289824	interleukin 1 receptor-like 1	chr1 B|1 20.0 cM	---
+1445391_at	1.69E+00	10.2151	8.5275	5.47E-06	4.02E-04	AW554652	Diap1 /// LOC671545	13367 /// 671545	Mm.195916	diaphanous homolog 1 (Drosophila) /// similar to P	chr18 B3|18 16.0 cM	G13_Signaling_Pathway // GenMAPP /// G13_Signaling_Pathway // GenMAPP
+1435740_at	1.16E+00	10.7053	9.5433	5.72E-06	4.17E-04	AV286259	Rai17	328365	Mm.392057	Retinoic acid induced 17	chr14 A3	---
+1434690_at	-1.76E+00	7.3558	9.1128	5.82E-06	4.24E-04	BM237177	Lycat	225010	Mm.329194	lysocardiolipin acyltransferase	chr17 E1.3	---
+1451244_a_at	-2.55E+00	7.7202	10.2666	5.84E-06	4.24E-04	BC018339	Zfp422	67255	Mm.18810	zinc finger protein 422	chr6 E3	---
+1418591_at	1.77E+00	10.0828	8.3079	5.88E-06	4.25E-04	NM_021422	Dnaja4	58233	Mm.52319	DnaJ (Hsp40) homolog, subfamily A, member 4	chr9 A5.3	---
+1426511_at	-2.28E+00	5.4471	7.7268	5.91E-06	4.26E-04	AK004703	Susd2	71733	Mm.247956	sushi domain containing 2	chr10 B5.3	---
+1450344_a_at	3.08E+00	11.8952	8.8185	6.03E-06	4.33E-04	NM_011196	Ptger3	19218	Mm.30424	prostaglandin E receptor 3 (subtype EP3)	chr3 H4|3 82.0 cM	Prostaglandin_synthesis_regulation // GenMAPP /// GPCRDB_Class_A_Rhodopsin-like // GenMAPP /// Small_ligand_GPCRs // GenMAPP
+1455991_at	-2.00E+00	6.6013	8.6024	6.09E-06	4.35E-04	BG094881	Ccbl2	229905	Mm.289643	cysteine conjugate-beta lyase 2	chr3 H1	---
+1457180_at	1.73E+00	6.9044	5.1727	6.09E-06	4.35E-04	BM238597	Dip2c	208440	Mm.217326	DIP2 disco-interacting protein 2 homolog C (Drosop	chr13 A1	---
+1455771_at	1.79E+00	8.832	7.0444	6.17E-06	4.40E-04	BB467799	Bzrap1	207777	Mm.240548	benzodiazapine receptor associated protein 1	chr11 C	---
+1423608_at	-2.52E+00	6.1255	8.641	6.24E-06	4.41E-04	BI966443	Itm2a	16431	Mm.193	integral membrane protein 2A	chrX A2-A3	---
+1428939_s_at	2.08E+00	9.3457	7.269	6.24E-06	4.41E-04	W41916	Gnaq	14682	Mm.391165	guanine nucleotide binding protein, alpha q polype	chr19 A|19 9.0 cM	G_Protein_Signaling // GenMAPP /// Smooth_muscle_contraction // GenMAPP
+1457898_at	-2.33E+00	5.3907	7.7209	6.22E-06	4.41E-04	BM243944	Ga17	98221	Mm.336519	Dendritic cell protein GA17	chr2 E2	---
+1422637_at	-2.44E+00	6.314	8.7545	6.37E-06	4.47E-04	NM_018750	Rassf5	54354	Mm.248291	Ras association (RalGDS/AF-6) domain family 5	chr1 E4|1 69.1 cM	---
+1449913_at	-1.71E+00	4.9417	6.6546	6.35E-06	4.47E-04	NM_009550	Zfp2	22678	Mm.259230	zinc finger protein 2	chr11 B1.3|11 45.0 cM	---
+1452716_at	2.02E+00	12.766	10.7479	6.43E-06	4.50E-04	AK017688	5730469M10Rik	70564	Mm.27227	RIKEN cDNA 5730469M10 gene	chr14 B	---
+1454937_at	1.27E+00	9.2242	7.9556	6.68E-06	4.66E-04	BB329261	B630005N14Rik	101148	Mm.354863	RIKEN cDNA B630005N14 gene	chr6 A1	---
+1433647_s_at	-3.01E+00	6.0668	9.0813	6.76E-06	4.70E-04	BM942043	Rhobtb3	73296	Mm.276200	Rho-related BTB domain containing 3	chr13 C1	---
+1455633_at	-2.82E+00	6.9882	9.8096	6.85E-06	4.75E-04	BB040500	Zfp647	239546	Mm.183650	zinc finger protein 647	chr15 D3	---
+1436210_at	-1.87E+00	4.9621	6.8301	6.98E-06	4.81E-04	AV095337	C330018K18Rik	235533	Mm.213651	RIKEN cDNA C330018K18 gene	chr9 E3.3	---
+1439933_at	2.33E+00	8.1124	5.7844	7.00E-06	4.81E-04	BB328402	B430316J06Rik	402749	---	RIKEN cDNA B430316J06 gene	---	---
+1449823_at	-1.83E+00	5.1684	6.9971	6.99E-06	4.81E-04	NM_033605	Dach2	93837	Mm.79760	dachshund 2 (Drosophila)	chrX E1|X 50.0 cM	---
+1421027_a_at	-2.95E+00	5.9786	8.9237	7.08E-06	4.85E-04	AI595932	Mef2c	17260	Mm.24001	myocyte enhancer factor 2C	chr13 C3|13 45.0 cM	---
+1423634_at	2.19E+00	7.645	5.4588	7.15E-06	4.89E-04	AI506986	Gsdm1	57911	Mm.86870	gasdermin 1	chr11 D	---
+1428787_at	-1.54E+00	7.4876	9.0314	7.19E-06	4.89E-04	BM238906	Nckap1l	105855	Mm.30805	NCK associated protein 1 like	chr15 F3	---
+1432808_at	3.27E+00	9.3425	6.0685	7.23E-06	4.90E-04	AK017949	5830426K05Rik	76053	---	RIKEN cDNA 5830426K05 gene	---	---
+1460338_a_at	-1.31E+00	9.4768	10.7916	7.23E-06	4.90E-04	BB161253	Crlf3	54394	Mm.272093	cytokine receptor-like factor 3	chr11 B5|11 47.21 cM	---
+1416779_at	-2.79E+00	5.5231	8.3085	7.35E-06	4.96E-04	BE197945	Sdpr	20324	Mm.255909	serum deprivation response	chr1 C1.1	---
+1450790_at	1.71E+00	6.6058	4.8925	7.42E-06	4.99E-04	NM_009375	Tgn	21819	Mm.390823	thyroglobulin	chr15 D3-E|15 36.4 cM	---
+1456035_at	1.86E+00	7.2638	5.4073	7.46E-06	4.99E-04	BM236468	Nxf3	245610	Mm.336244	nuclear RNA export factor 3	chrX F1|X 53.3 cM	---
+1456480_at	1.71E+00	8.9636	7.2542	7.45E-06	4.99E-04	BB527078	Fry	320365	Mm.216590	furry homolog (Drosophila)	chr5 G3	---
+1434111_at	-2.49E+00	6.405	8.8938	7.55E-06	5.04E-04	BG966339	Lphn2	99633	Mm.9776	latrophilin 2	chr3 H3	---
+1433735_a_at	1.24E+00	12.4586	11.2181	7.64E-06	5.09E-04	BG075363	Tmem64	100201	Mm.38877	transmembrane protein 64	chr4 A2	---
+1452008_at	1.25E+00	9.0865	7.8402	7.83E-06	5.20E-04	AK018685	9130422G05Rik	66819	Mm.389571	RIKEN cDNA 9130422G05 gene	chr4 C3	---
+1449620_s_at	1.57E+00	9.0684	7.4989	7.92E-06	5.24E-04	AW125421	D16Wsu65e	28001	Mm.393582	DNA segment, Chr 16, Wayne State University 65, ex	chr16|16 1.7 cM	---
+1438354_x_at	-2.05E+00	5.9665	8.0142	8.04E-06	5.31E-04	BB705075	Cnn3	71994	Mm.275555	Calponin 3, acidic	chr3 G1	---
+1424477_at	2.97E+00	10.1402	7.1748	8.10E-06	5.33E-04	BC019731	BC019731	231832	Mm.46582	cDNA sequence BC019731	chr5 G2	---
+1433694_at	-3.38E+00	7.12	10.4973	8.44E-06	5.52E-04	AV270888	Pde3b	18576	---	phosphodiesterase 3B, cGMP-inhibited	chr7 F1|7 53.3 cM	---
+1438629_x_at	1.37E+00	11.4049	10.0348	8.55E-06	5.58E-04	AV166504	Grn	14824	Mm.1568	granulin	chr11 D|11 60.0 cM	---
+1419259_at	1.04E+00	12.5515	11.5077	8.61E-06	5.59E-04	NM_009105	Rsu1	20163	Mm.905	Ras suppressor protein 1	chr2 A1	---
+1426664_x_at	1.96E+00	9.6267	7.669	8.61E-06	5.59E-04	BC024519	Slc45a3	212980	Mm.200307	solute carrier family 45, member 3	chr1 E4	---
+1418109_at	2.37E+00	8.7449	6.3729	8.80E-06	5.68E-04	NM_008179	Gspt2	14853	Mm.20826	G1 to S phase transition 2	chrX B1	---
+1456842_at	1.86E+00	6.963	5.1013	8.83E-06	5.69E-04	BQ174097	---	---	Mm.120579	PREDICTED: Mus musculus hypothetical protein LOC62	---	---
+1421129_a_at	2.47E+00	9.7377	7.2637	9.07E-06	5.78E-04	NM_016745	Atp2a3	53313	Mm.6306	ATPase, Ca++ transporting, ubiquitous	chr11 B4	Calcium_regulation_in_cardiac_cells // GenMAPP /// Calcium_regulation_in_cardiac_cells // GenMAPP /// Calcium_regulation_in_cardiac_cells // GenMAPP /// Calcium_regulation_in_cardiac_cells // GenMAPP /// Calcium_regulation_in_cardiac_cells // GenMAPP /// Smooth_muscle_contraction // GenMAPP /// Smooth_muscle_contraction // GenMAPP /// Smooth_muscle_contraction // GenMAPP /// Smooth_muscle_contraction // GenMAPP /// Smooth_muscle_contraction // GenMAPP
+1435554_at	3.63E+00	9.6959	6.0624	9.03E-06	5.78E-04	BB771888	Tmcc3	319880	Mm.23047	transmembrane and coiled coil domains 3	chr10 C2	---
+1439946_at	-2.61E+00	5.326	7.9385	9.06E-06	5.78E-04	BM221121	Mef2c	17260	Mm.24001	Myocyte enhancer factor 2C	chr13 C3|13 45.0 cM	---
+1423182_at	-2.43E+00	5.4736	7.9056	9.10E-06	5.78E-04	AK004668	Tnfrsf13b	57916	Mm.265915	tumor necrosis factor receptor superfamily, member	chr11 B2	---
+1423306_at	1.97E+00	10.1348	8.1648	9.17E-06	5.81E-04	BI963682	2010002N04Rik	106878	Mm.273197	RIKEN cDNA 2010002N04 gene	chr18 D3	---
+1451535_at	-1.77E+00	5.005	6.7722	9.35E-06	5.91E-04	AB083111	Il31ra	218624	Mm.380801	interleukin 31 receptor A	chr13 D2.2	---
+1434873_a_at	-1.49E+00	7.0738	8.5625	9.39E-06	5.92E-04	BB115902	Centb1	216859	Mm.288671	centaurin, beta 1	chr11 B3	---
+1419403_at	-2.54E+00	5.6742	8.2162	9.63E-06	5.95E-04	NM_133214	BC017612	170748	Mm.86572	cDNA sequence BC017612	chr9 A2	---
+1422851_at	-2.52E+00	5.7001	8.2197	9.57E-06	5.95E-04	X58380	Hmga2	15364	Mm.157190	high mobility group AT-hook 2	chr10 D2|10 67.5 cM	---
+1438331_at	2.43E+00	8.2501	5.822	9.63E-06	5.95E-04	BB491630	Ypel2	77864	Mm.390380	Yippee-like 2 (Drosophila)	chr11 C	---
+1442700_at	-2.30E+00	6.0714	8.3729	9.59E-06	5.95E-04	BG793493	Pde4b	18578	Mm.20181	phosphodiesterase 4B, cAMP specific	chr4 C6|4 46.8 cM	Smooth_muscle_contraction // GenMAPP /// Smooth_muscle_contraction // GenMAPP /// Smooth_muscle_contraction // GenMAPP /// Smooth_muscle_contraction // GenMAPP /// Smooth_muscle_contraction // GenMAPP /// Smooth_muscle_contraction // GenMAPP
+1447448_s_at	2.75E+00	9.0074	6.256	9.58E-06	5.95E-04	C86813	Klf6	23849	Mm.275036	Kruppel-like factor 6	chr13 A1	---
+1453414_at	1.73E+00	6.7622	5.0343	9.48E-06	5.95E-04	BB133023	Ypel2	77864	Mm.390380	yippee-like 2 (Drosophila)	chr11 C	---
+1430632_at	1.70E+00	9.2984	7.6003	9.92E-06	6.12E-04	AI597257	Asb1	65247	Mm.234152	ankyrin repeat and SOCS box-containing protein 1	chr1 D|1 57.0 cM	---
+1416741_at	1.49E+00	10.1123	8.6226	1.02E-05	6.30E-04	AW744319	Col5a1	12831	Mm.7281	Procollagen, type V, alpha 1	chr2 A2-B|2 18.0 cM	---
+1449193_at	3.21E+00	8.2129	5.0015	1.03E-05	6.33E-04	NM_009690	Cd5l	11801	Mm.6676	CD5 antigen-like	chr3 F1	---
+1456567_x_at	1.53E+00	10.3415	8.8081	1.03E-05	6.33E-04	BB000455	Grn	14824	Mm.1568	granulin	chr11 D|11 60.0 cM	---
+1440234_at	1.16E+00	8.6155	7.4551	1.04E-05	6.36E-04	BM250236	1810012P15Rik	66274	Mm.258932	RIKEN cDNA 1810012P15 gene	chr11 B5	---
+1418483_a_at	-2.34E+00	6.3746	8.7147	1.06E-05	6.45E-04	AF297615	Ggta1	14594	Mm.281124	glycoprotein galactosyltransferase alpha 1, 3	chr2 B|2 25.0 cM	---
+1445640_at	1.40E+00	8.6567	7.2589	1.11E-05	6.70E-04	AW610715	Hlcs	110948	Mm.30921	Holocarboxylase synthetase (biotin- [propriony-Coe	chr16 67.8 cM	Biotin metabolism // KEGG /// Biotin metabolism // KEGG /// Biotin metabolism // KEGG /// Biotin metabolism // KEGG
+1449353_at	2.85E+00	10.4505	7.6042	1.11E-05	6.71E-04	NM_009517	Wig1	22401	---	wild-type p53-induced gene 1	chr3 B	---
+1420919_at	1.03E+00	11.8349	10.8072	1.13E-05	6.78E-04	BB768208	Sgk3	170755	Mm.336410	serum/glucocorticoid regulated kinase 3	chr1 A2|1 7.5 cM	---
+1419217_at	1.11E+00	9.495	8.3857	1.13E-05	6.82E-04	NM_013789	Sergef	27414	Mm.76659	secretion regulating guanine nucleotide exchange f	chr7 B3	---
+1449279_at	2.00E+00	8.0536	6.0552	1.15E-05	6.87E-04	NM_030677	Gpx2	14776	Mm.371561	glutathione peroxidase 2	chr12 C3|12 36.0 cM	Glutathione metabolism // KEGG /// Arachidonic acid metabolism // KEGG
+1456509_at	2.06E+00	8.7081	6.6447	1.16E-05	6.91E-04	BB382807	1110032F04Rik	68725	Mm.45741	RIKEN cDNA 1110032F04 gene	chr3 E1	---
+1418100_at	1.43E+00	7.9549	6.5202	1.17E-05	6.96E-04	AK002962	A030009H04Rik	80515	Mm.5324	RIKEN cDNA A030009H04 gene	chr11 B3	---
+1430386_at	2.27E+00	9.2323	6.9606	1.18E-05	7.00E-04	BM240254	E030024N20Rik	595139	---	RIKEN cDNA E030024N20 gene	chr19 A	---
+1425145_at	2.29E+00	13.1749	10.8815	1.20E-05	7.06E-04	D13695	Il1rl1	17082	Mm.289824	interleukin 1 receptor-like 1	chr1 B|1 20.0 cM	---
+1430079_at	1.72E+00	8.9188	7.1993	1.19E-05	7.06E-04	AK020272	5033406O09Rik	77675	Mm.98331	RIKEN cDNA 5033406O09 gene	chr12 F1	---
+1416072_at	-2.62E+00	5.5235	8.1464	1.20E-05	7.07E-04	NM_133654	Cd34	12490	Mm.29798	CD34 antigen	chr1 H6|1 106.6 cM	---
+1424958_at	2.18E+00	7.8432	5.6617	1.21E-05	7.07E-04	BC010773	Car8	12319	Mm.119320	carbonic anhydrase 8	chr4 A1|4 7.7 cM	---
+1450070_s_at	-1.94E+00	6.117	8.062	1.21E-05	7.07E-04	BF456404	Pak1	18479	Mm.260227	p21 (CDKN1A)-activated kinase 1	chr7 E1|7 46.5 cM	Integrin-mediated_cell_adhesion_KEGG // GenMAPP
+1458309_at	2.35E+00	9.1619	6.8094	1.21E-05	7.07E-04	BM122422	---	---	Mm.412892	Transcribed locus	---	---
+1447788_s_at	-1.88E+00	7.08	8.9604	1.24E-05	7.23E-04	BB308532	Tspyl3	241732	Mm.277243	TSPY-like 3	chr2 H1	---
+1437873_at	-2.00E+00	5.8846	7.8805	1.25E-05	7.26E-04	BB044772	6030490I01Rik	240064	Mm.30675	RIKEN cDNA 6030490I01 gene	chr17 B1	---
+1446421_at	3.22E+00	8.5179	5.3	1.26E-05	7.32E-04	BB470737	Schip1	30953	Mm.331064	Schwannomin interacting protein 1	chr3 E2	---
+1421287_a_at	2.34E+00	8.6983	6.3593	1.27E-05	7.33E-04	NM_008816	Pecam1	18613	Mm.343951	platelet/endothelial cell adhesion molecule 1	chr11 E1	---
+1434929_at	-2.07E+00	7.4239	9.4898	1.27E-05	7.36E-04	BI076809	BC035044	232406	Mm.30745	cDNA sequence BC035044	chr6 F3	---
+1422527_at	-2.62E+00	6.3109	8.9299	1.29E-05	7.43E-04	NM_010386	H2-DMa	14998	Mm.16373	histocompatibility 2, class II, locus DMa	chr17 B1|17 18.56 cM	Circadian_Exercise // GenMAPP /// Circadian_Exercise // GenMAPP /// Circadian_Exercise // GenMAPP /// Circadian_Exercise // GenMAPP /// Circadian_Exercise // GenMAPP /// Circadian_Exercise // GenMAPP /// Circadian_Exercise // GenMAPP /// Circadian_Exercise // GenMAPP /// Circadian_Exercise // GenMAPP /// Circadian_Exercise // GenMAPP /// Circadian_Exercise // GenMAPP
+1421477_at	2.99E+00	9.3798	6.39	1.31E-05	7.51E-04	NM_009946	Cplx2	12890	Mm.268902	complexin 2	chr13 B1	---
+1446537_at	-2.22E+00	5.6447	7.8631	1.31E-05	7.51E-04	BB162318	Ga17	98221	Mm.336519	Dendritic cell protein GA17	chr2 E2	---
+1452841_at	1.48E+00	11.0713	9.5864	1.33E-05	7.60E-04	BG073164	Pgm2l1	70974	Mm.57225	phosphoglucomutase 2-like 1	chr7 F1	---
+1433715_at	4.99E+00	10.0681	5.0738	1.35E-05	7.69E-04	BB426433	Cpne7	102278	Mm.36434	copine VII	chr8 E1	---
+1434743_x_at	1.18E+00	9.0465	7.8653	1.36E-05	7.73E-04	BB222846	Rusc1	72296	Mm.27687	RUN and SH3 domain containing 1	chr3 F2	---
+1453065_at	2.14E+00	7.4736	5.335	1.36E-05	7.73E-04	BQ175320	Aldh5a1	214579	Mm.393311	aldhehyde dehydrogenase family 5, subfamily A1	chr13 A3.1	---
+1419311_at	1.48E+00	11.7909	10.3076	1.39E-05	7.85E-04	NM_011280	Trim10	19824	Mm.299155	tripartite motif protein 10	chr17 B1	---
+1439620_at	2.29E+00	8.0122	5.723	1.41E-05	7.98E-04	AI326425	---	---	---	---	---	---
+1440462_at	1.29E+00	8.7974	7.5124	1.42E-05	7.99E-04	AV339681	B930068K11Rik	320622	---	RIKEN cDNA B930068K11 gene	---	---
+1452214_at	-2.53E+00	7.2426	9.7726	1.42E-05	7.99E-04	AK018608	Skil	20482	Mm.15406	SKI-like	chr3 A3|3 13.0 cM	TGF_Beta_Signaling_Pathway // GenMAPP /// TGF_Beta_Signaling_Pathway // GenMAPP
+1434897_a_at	-3.23E+00	9.6157	12.8497	1.44E-05	8.06E-04	AV327862	Slc25a4	11739	Mm.16228	solute carrier family 25 (mitochondrial carrier, a	chr8 B1.1|8 26.0 cM	Electron_Transport_Chain // GenMAPP /// mRNA_processing_binding_Reactome // GenMAPP /// Electron_Transport_Chain // GenMAPP /// mRNA_processing_binding_Reactome // GenMAPP
+1417786_a_at	-2.02E+00	6.7381	8.7533	1.49E-05	8.34E-04	BC003838	Rgs19	56470	Mm.274366	regulator of G-protein signaling 19	chr2 H4|2 45.0 cM	Calcium_regulation_in_cardiac_cells // GenMAPP /// Calcium_regulation_in_cardiac_cells // GenMAPP /// Calcium_regulation_in_cardiac_cells // GenMAPP /// Calcium_regulation_in_cardiac_cells // GenMAPP /// Smooth_muscle_contraction // GenMAPP /// Smooth_muscle_contraction // GenMAPP /// Smooth_muscle_contraction // GenMAPP /// Smooth_muscle_contraction // GenMAPP
+1420788_at	2.07E+00	8.0609	5.9906	1.49E-05	8.34E-04	NM_016970	Klrg1	50928	Mm.20434	killer cell lectin-like receptor subfamily G, memb	chr6 F1|6 59.2 cM	---
+1419811_at	1.99E+00	9.698	7.7079	1.51E-05	8.40E-04	AW125421	D16Wsu65e	28001	Mm.393582	DNA segment, Chr 16, Wayne State University 65, ex	chr16|16 1.7 cM	---
+1460303_at	-1.27E+00	9.1581	10.4233	1.51E-05	8.40E-04	NM_008173	Nr3c1	14815	Mm.129481	nuclear receptor subfamily 3, group C, member 1	chr18 B3|18 20.0 cM	Apoptosis_KEGG // GenMAPP /// Nuclear_Receptors // GenMAPP
+1449523_at	-1.38E+00	8.4069	9.7909	1.52E-05	8.45E-04	NM_009746	Bcl7c	12055	Mm.89667	B-cell CLL/lymphoma 7C	chr7 F4	---
+1434400_at	-1.13E+00	8.09	9.2207	1.53E-05	8.46E-04	AW556273	Tgif2	228839	Mm.315625	TGFB-induced factor 2	chr2 H1	---
+1439066_at	-2.40E+00	6.3907	8.7946	1.53E-05	8.46E-04	BB453314	Angpt1	11600	Mm.309336	angiopoietin 1	chr15 B3.1|15 14.3 cM	---
+1452009_at	1.28E+00	8.4656	7.1871	1.58E-05	8.67E-04	AK018685	9130422G05Rik	66819	Mm.389571	RIKEN cDNA 9130422G05 gene	chr4 C3	---
+1434339_at	1.82E+00	9.475	7.6533	1.60E-05	8.77E-04	AW548221	Fnbp1l	214459	Mm.209491	formin binding protein 1-like	chr3 G1	---
+1452050_at	2.25E+00	8.2327	5.9832	1.63E-05	8.89E-04	BG071931	Camk1d	227541	Mm.191949	calcium/calmodulin-dependent protein kinase ID	chr2 A1	---
+1437886_at	1.47E+00	11.0767	9.6018	1.64E-05	8.92E-04	BM247104	Klhl6	239743	Mm.86699	kelch-like 6 (Drosophila)	chr16 A3	---
+1429144_at	1.56E+00	10.7441	9.1889	1.64E-05	8.93E-04	AV291259	Prei4	74182	Mm.211211	preimplantation protein 4	chr2 F3	---
+1448929_at	-2.39E+00	6.3872	8.7754	1.64E-05	8.93E-04	NM_028784	F13a1	74145	Mm.235105	coagulation factor XIII, A1 subunit	chr13 A3.3	---
+1428669_at	-2.21E+00	5.6564	7.8637	1.66E-05	8.98E-04	AK012810	Bmyc	107771	Mm.330057	brain expressed myelocytomatosis oncogene	chr2 A3	---
+1451117_a_at	1.03E+00	11.0019	9.969	1.67E-05	9.00E-04	BC004710	Tom1l1	71943	Mm.167868	target of myb1-like 1 (chicken)	chr11 D|11 53.0 cM	---
+1456377_x_at	-2.56E+00	7.6106	10.1737	1.67E-05	9.00E-04	AV010467	Limd2 /// LOC632329	632329 /// 67803	Mm.21687	LIM domain containing 2 /// similar to epithelial	chr11 E1	---
+1429759_at	-2.49E+00	5.2757	7.7635	1.70E-05	9.12E-04	BB449218	Rps6ka6	67071	Mm.37617	ribosomal protein S6 kinase polypeptide 6	chrX E1	---
+1420772_a_at	1.80E+00	8.2087	6.41	1.72E-05	9.19E-04	NM_010286	Tsc22d3	14605	Mm.22216	TSC22 domain family 3	chrX F1	---
+1443349_at	-1.80E+00	5.9464	7.7425	1.73E-05	9.23E-04	BB211894	Dock10	210293	Mm.133473	Dedicator of cytokinesis 10	chr1 C4	---
+1446688_at	1.80E+00	8.7533	6.9577	1.73E-05	9.23E-04	BI076801	Gnaq	14682	Mm.391165	Guanine nucleotide binding protein, alpha q polype	chr19 A|19 9.0 cM	G_Protein_Signaling // GenMAPP /// Smooth_muscle_contraction // GenMAPP
+1434378_a_at	1.29E+00	9.2784	7.992	1.74E-05	9.25E-04	BG868949	Mxd4	17122	Mm.391777	Max dimerization protein 4	chr5 B2|5 20.0 cM	---
+1416335_at	-1.10E+00	12.4844	13.5829	1.75E-05	9.28E-04	NM_010798	Mif	17319	Mm.2326	macrophage migration inhibitory factor	chr10 C1|10 40.9 cM	---
+1429859_a_at	1.48E+00	11.9431	10.4597	1.77E-05	9.37E-04	AK006418	Arl2bp	107566	Mm.139700	ADP-ribosylation factor-like 2 binding protein	chr8 C5	---
+1437700_at	2.19E+00	8.7659	6.5713	1.80E-05	9.47E-04	BB137599	Schip1	30953	Mm.331064	Schwannomin interacting protein 1	chr3 E2	---
+1456735_x_at	-1.88E+00	5.8012	7.6776	1.80E-05	9.47E-04	BB458645	Acpl2	235534	Mm.233031	acid phosphatase-like 2	chr9 E3.3	---
+1458438_at	-2.01E+00	5.8097	7.8165	1.81E-05	9.49E-04	AW554226	4933415L06Rik	108811	Mm.102168	RIKEN cDNA 4933415L06 gene	chr14 D3	---
+1447640_s_at	1.27E+00	11.2018	9.932	1.82E-05	9.55E-04	BB554874	Pbx3	18516	Mm.239941	pre B-cell leukemia transcription factor 3	chr2 B|2 22.0 cM	---
+1431383_at	1.48E+00	8.1016	6.6202	1.83E-05	9.57E-04	AK003943	1110028F11Rik	68690	---	RIKEN cDNA 1110028F11 gene	---	---
+1427903_at	-1.42E+00	9.7269	11.1464	1.90E-05	9.91E-04	BB650419	Phpt1	75454	Mm.177990	phosphohistidine phosphatase 1	chr2 A3	---
+1424182_at	1.08E+00	10.1916	9.1124	1.91E-05	9.97E-04	BG070487	Acat1	110446	Mm.293233	acetyl-Coenzyme A acetyltransferase 1	chr9 30.0 cM	Fatty acid metabolism // KEGG /// Synthesis and degradation of ketone bodies // KEGG /// Valine, leucine and isoleucine degradation // KEGG /// Lysine degradation // KEGG /// Tryptophan metabolism // KEGG /// Pyruvate metabolism // KEGG /// Benzoate degradation via CoA ligation // KEGG /// Propanoate metabolism // KEGG /// Butanoate metabolism // KEGG /// Two-component system - General // KEGG
+1459894_at	-2.56E+00	6.8784	9.4381	1.94E-05	1.01E-03	BE631962	Iqgap2	544963	Mm.38878	IQ motif containing GTPase activating protein 2	chr13 D1	GPCRDB_Class_A_Rhodopsin-like // GenMAPP /// GPCRDB_Class_A_Rhodopsin-like // GenMAPP
+1428676_at	2.50E+00	8.4313	5.9358	1.95E-05	1.01E-03	AK004939	Tmprss6	71753	Mm.34056	transmembrane serine protease 6	chr15 E2	---
+1447340_at	1.45E+00	7.6751	6.2291	1.96E-05	1.01E-03	BB748429	---	---	Mm.235511	Adult male kidney cDNA, RIKEN full-length enriched	---	---
+1435879_at	1.32E+00	9.033	7.7126	2.03E-05	1.05E-03	BB521695	Akt3	23797	Mm.235194	thymoma viral proto-oncogene 3	chr1 H4-H6	Integrin-mediated_cell_adhesion_KEGG // GenMAPP /// S1P_Signaling // GenMAPP
+1426663_s_at	1.90E+00	9.969	8.0675	2.05E-05	1.05E-03	BC024519	Slc45a3	212980	Mm.200307	solute carrier family 45, member 3	chr1 E4	---
+1455161_at	-2.56E+00	6.2314	8.7939	2.05E-05	1.05E-03	BB202185	AI504432	229694	Mm.347584	expressed sequence AI504432	chr3 F2.3	---
+1459919_a_at	1.85E+00	8.1187	6.2642	2.06E-05	1.05E-03	BE288498	Mobkl2c	100465	Mm.35571	MOB1, Mps One Binder kinase activator-like 2C (yea	chr4 D1	---
+1423065_at	-1.82E+00	5.4356	7.2537	2.11E-05	1.07E-03	BB795491	Dnmt3a	13435	Mm.5001	DNA methyltransferase 3A	chr12 A2-A3	---
+1454717_at	1.37E+00	11.3716	10.0005	2.11E-05	1.07E-03	BB401190	Ankrd27	245886	Mm.272620	Ankyrin repeat domain 27 (VPS9 domain)	chr7 B2	---
+1456150_at	1.06E+00	10.4218	9.3634	2.12E-05	1.07E-03	BM238680	A630082K20Rik	338523	---	RIKEN cDNA A630082K20 gene	chr6 B1	---
+1419063_at	2.26E+00	10.3903	8.1347	2.18E-05	1.10E-03	NM_011674	Ugt8a	22239	Mm.306021	UDP galactosyltransferase 8A	chr3 E3-F1	---
+1429673_at	-2.03E+00	6.5334	8.5629	2.24E-05	1.12E-03	BB234837	5830407E08Rik	76013	---	RIKEN cDNA 5830407E08 gene	---	---
+1439790_at	1.40E+00	8.326	6.9288	2.26E-05	1.13E-03	BE686716	Serpinb9	20723	Mm.272569	serine (or cysteine) peptidase inhibitor, clade B,	chr13 A3.2|13 12.4 cM	---
+1440192_at	1.55E+00	8.7344	7.1844	2.28E-05	1.14E-03	BB259628	1810054D07Rik	69863	Mm.5540	RIKEN cDNA 1810054D07 gene	chr4 C3	---
+1428854_at	1.00E+00	10.3632	9.3586	2.29E-05	1.14E-03	AK018286	Tmed8	382620	Mm.374912	transmembrane emp24 domain containing 8	chr12 D2	---
+1448862_at	1.42E+00	11.8521	10.4352	2.30E-05	1.14E-03	NM_010494	Icam2	15896	Mm.394	intercellular adhesion molecule 2	chr11 E1|11 63.0 cM	---
+1419155_a_at	-2.58E+00	5.8555	8.4372	2.36E-05	1.17E-03	AI428101	Sox4 /// LOC672274	20677 /// 672274	Mm.240627	SRY-box containing gene 4 /// similar to Transcrip	chr13 A3-A5|13 20.0 cM	---
+1436199_at	-1.56E+00	5.8115	7.372	2.36E-05	1.17E-03	AU042532	---	---	---	---	---	---
+1455038_at	-2.88E+00	5.5166	8.3953	2.40E-05	1.18E-03	AV299818	LOC632764	632764	Mm.330721	similar to melanoma antigen	---	---
+1428643_at	1.75E+00	9.8788	8.1338	2.46E-05	1.21E-03	AK015544	Mgat5	107895	Mm.391592	mannoside acetylglucosaminyltransferase 5	chr1 E3	---
+1422817_at	2.54E+00	11.7223	9.1786	2.49E-05	1.22E-03	NM_008148	Gp5	14729	Mm.3519	glycoprotein 5 (platelet)	chr16 B2	---
+1417741_at	1.59E+00	10.9231	9.3316	2.50E-05	1.22E-03	NM_133198	Pygl	110095	Mm.256926	liver glycogen phosphorylase	chr12 C2|12 30.0 cM	Glycogen_Metabolism // GenMAPP /// Glycogen_Metabolism // GenMAPP /// Glycogen_Metabolism // GenMAPP
+1417215_at	1.99E+00	8.849	6.8625	2.51E-05	1.23E-03	BB121269	Rab27b	80718	Mm.246753	RAB27b, member RAS oncogene family	chr18 E2|18 45.0 cM	---
+1420981_a_at	-2.21E+00	6.4035	8.6164	2.53E-05	1.24E-03	NM_010723	Lmo4	16911	Mm.29187	LIM domain only 4	chr3 H2|3 73.1 cM	---
+1455721_at	1.60E+00	7.4553	5.8559	2.54E-05	1.24E-03	BB441361	Gspt2	14853	Mm.20826	G1 to S phase transition 2	chrX B1	---
+1453144_at	1.86E+00	7.3622	5.5031	2.55E-05	1.24E-03	AK007420	4933439C20Rik	236604	---	RIKEN cDNA 4933439C20 gene	chr11 A1	---
+1416868_at	1.19E+00	10.5927	9.3987	2.57E-05	1.24E-03	BC027026	Cdkn2c	12580	Mm.1912	cyclin-dependent kinase inhibitor 2C (p18, inhibit	chr4 C7|4 24.7 cM	G1_to_S_cell_cycle_Reactome // GenMAPP /// G1_to_S_cell_cycle_Reactome // GenMAPP
+1455037_at	-1.93E+00	5.7063	7.6344	2.59E-05	1.25E-03	BB002869	Plxna2	18845	Mm.392736	plexin A2	---	---
+1423271_at	-2.46E+00	6.2508	8.7127	2.61E-05	1.26E-03	AV239646	Gjb2	14619	Mm.390683	gap junction membrane channel protein beta 2	chr14 D1-E1|14 21.0 cM	Calcium_regulation_in_cardiac_cells // GenMAPP
+1457904_at	2.76E+00	7.8212	5.0607	2.61E-05	1.26E-03	BB125515	Car8	12319	Mm.119320	carbonic anhydrase 8	chr4 A1|4 7.7 cM	---
+1443158_at	-1.41E+00	6.3933	7.7983	2.65E-05	1.27E-03	BB035643	Scmh1	29871	Mm.388903	Sex comb on midleg homolog 1	chr4 D1-D2|4 56.5 cM	---
+1438673_at	-1.27E+00	9.3595	10.6271	2.67E-05	1.28E-03	AW555750	---	---	Mm.405786	Transcribed locus	---	---
+1447774_x_at	1.95E+00	11.2351	9.2899	2.70E-05	1.29E-03	AV332575	5730469M10Rik	70564	Mm.27227	RIKEN cDNA 5730469M10 gene	chr14 B	---
+1417624_at	-2.38E+00	7.7047	10.089	2.72E-05	1.30E-03	NM_008667	Nab1	17936	Mm.25903	Ngfi-A binding protein 1	chr1 C1.1|1 27.0 cM	---
+1422611_s_at	-1.75E+00	6.7387	8.4921	2.71E-05	1.30E-03	NM_023670	Igf2bp3	140488	Mm.281018	insulin-like growth factor 2 mRNA binding protein	chr6 B2.3|6 20.3 cM	mRNA_processing_binding_Reactome // GenMAPP /// mRNA_processing_binding_Reactome // GenMAPP
+1427140_at	1.65E+00	9.0944	7.441	2.74E-05	1.30E-03	BE956863	Pvt1	19296	Mm.4608	plasmacytoma variant translocation 1	chr15 D2-D3|15 32.0 cM	---
+1451566_at	-2.03E+00	6.1933	8.223	2.76E-05	1.31E-03	BC005471	BC005471	235050	Mm.306038	cDNA sequence BC005471	chr9 A3	---
+1459497_at	1.32E+00	9.0447	7.7275	2.76E-05	1.31E-03	AU019852	Fdft1	14137	Mm.386760	Farnesyl diphosphate farnesyl transferase 1	chr14 D1|14 3.0 cM	Cholesterol_Biosynthesis // GenMAPP /// Cholesterol_Biosynthesis // GenMAPP
+1438840_x_at	1.77E+00	6.8053	5.0367	2.78E-05	1.31E-03	AI527359	Apoa1	11806	Mm.26743	apolipoprotein A-I	chr9 A2-A4|9 27.0 cM	Statin_Pathway_PharmGKB // GenMAPP /// Statin_Pathway_PharmGKB // GenMAPP
+1417978_at	-2.11E+00	5.7481	7.8572	2.81E-05	1.32E-03	BC027014	Eif4e3	66892	Mm.32889	eukaryotic translation initiation factor 4E member	chr6 D3	mRNA_processing_binding_Reactome // GenMAPP /// mRNA_processing_binding_Reactome // GenMAPP
+1419298_at	1.73E+00	10.1007	8.3664	2.82E-05	1.32E-03	NM_008897	Pon3	269823	Mm.9122	paraoxonase 3	chr6 A1|6 0.5 cM	gamma-Hexachlorocyclohexane degradation // KEGG
+1451803_a_at	-1.40E+00	7.6106	9.0144	2.82E-05	1.32E-03	U48800	Vegfb	22340	Mm.15607	vascular endothelial growth factor B	chr19 B	---
+1417090_at	-3.11E+00	6.4098	9.5187	2.83E-05	1.33E-03	NM_009037	Rcn1	19672	Mm.4876	reticulocalbin 1	chr2 E3|2 58.0 cM	---
+1448489_at	1.92E+00	10.1429	8.2242	2.93E-05	1.37E-03	NM_133880	Pafah2	100163	Mm.22116	platelet-activating factor acetylhydrolase 2	chr4 D3	Glycerophospholipid metabolism // KEGG
+1419985_s_at	-2.24E+00	5.1502	7.3854	2.98E-05	1.39E-03	C87579	Ccdc69	52570	Mm.22361	coiled-coil domain containing 69	chr11 B1.3|11 28.5 cM	---
+1421231_at	1.75E+00	6.7813	5.0266	3.02E-05	1.41E-03	BI696168	Msi2	76626	---	Musashi homolog 2 (Drosophila)	chr11 B5-C	---
+1423895_a_at	-2.05E+00	5.6975	7.7508	3.04E-05	1.41E-03	BB644164	Cugbp2	14007	Mm.147091	CUG triplet repeat, RNA binding protein 2	chr2 A2-A3	mRNA_processing_binding_Reactome // GenMAPP /// mRNA_processing_binding_Reactome // GenMAPP /// mRNA_processing_binding_Reactome // GenMAPP /// mRNA_processing_Reactome // GenMAPP
+1438317_a_at	-1.16E+00	8.6761	9.8387	3.04E-05	1.41E-03	AV104666	Endog	13804	Mm.371558	endonuclease G	chr2 B	---
+1449983_a_at	-1.06E+00	8.8552	9.9146	3.04E-05	1.41E-03	NM_020282	Nqo2	18105	Mm.264036	NAD(P)H dehydrogenase, quinone 2	chr13 A4|13 13.8 cM	---
+1422293_a_at	-1.57E+00	6.3194	7.8886	3.11E-05	1.43E-03	NM_134112	Kctd1	106931	Mm.329299	potassium channel tetramerisation domain containin	chr18 A1	---
+1438061_at	1.66E+00	9.2729	7.6167	3.13E-05	1.44E-03	AV272196	4930523C07Rik	67647	Mm.392311	RIKEN cDNA 4930523C07 gene	chr1 H2.1	---
+1424719_a_at	2.80E+00	10.0519	7.2535	3.20E-05	1.47E-03	M18775	Mapt	17762	Mm.1287	microtubule-associated protein tau	chr11 E1|11 64.0 cM	---
+1428615_at	2.27E+00	10.4729	8.2035	3.20E-05	1.47E-03	AK008952	P2ry5	67168	Mm.390681	purinergic receptor P2Y, G-protein coupled, 5	chr14 D2	Nucleotide_GPCRs // GenMAPP
+1428952_at	-1.40E+00	8.8623	10.2648	3.22E-05	1.47E-03	AK007743	Pdia2	69191	Mm.32631	protein disulfide isomerase associated 2	chr17 A3.3	---
+1426906_at	-2.96E+00	7.0882	10.0437	3.24E-05	1.48E-03	M74124	Ifi203	15950	Mm.261270	interferon activated gene 203	chr1 H3|1 95.31 cM	---
+1442655_at	-2.31E+00	5.7422	8.0548	3.28E-05	1.49E-03	BB202790	Dnmt3b	13436	Mm.89772	DNA methyltransferase 3B	chr2 A2-A3	---
+1452389_at	-1.35E+00	5.2414	6.5939	3.29E-05	1.50E-03	L24495	Tnfrsf7	21940	Mm.367714	tumor necrosis factor receptor superfamily, member	chr6 F3|6 60.35 cM	---
+1416441_at	-2.50E+00	6.3279	8.8241	3.31E-05	1.50E-03	BB468025	Pgcp	54381	Mm.158251	plasma glutamate carboxypeptidase	chr15 B3.2	---
+1458985_at	1.86E+00	8.1868	6.3309	3.32E-05	1.50E-03	BG067701	Fry	320365	Mm.216590	furry homolog (Drosophila)	chr5 G3	---
+1448724_at	2.27E+00	9.8799	7.6075	3.38E-05	1.53E-03	NM_009895	Cish	12700	Mm.4592	cytokine inducible SH2-containing protein	chr9 F1|9 59.0 cM	---
+1418592_at	1.91E+00	9.3411	7.4286	3.42E-05	1.54E-03	NM_021422	Dnaja4	58233	Mm.52319	DnaJ (Hsp40) homolog, subfamily A, member 4	chr9 A5.3	---
+1436998_at	1.37E+00	9.3426	7.971	3.46E-05	1.56E-03	BB428991	Ankrd43	237761	Mm.390413	ankyrin repeat domain 43	chr11 B1.3	---
+1457635_s_at	-1.22E+00	8.6411	9.862	3.48E-05	1.56E-03	BB096079	Nr3c1	14815	Mm.129481	nuclear receptor subfamily 3, group C, member 1	chr18 B3|18 20.0 cM	Apoptosis_KEGG // GenMAPP /// Nuclear_Receptors // GenMAPP
+1445966_at	-1.75E+00	6.5492	8.3038	3.50E-05	1.57E-03	BG075586	Igf2r	16004	Mm.26553	Insulin-like growth factor 2 receptor	chr17 A-C|17 7.35 cM	---
+1417500_a_at	-2.67E+00	6.9202	9.5932	3.52E-05	1.57E-03	BC016492	Tgm2	21817	Mm.330731	transglutaminase 2, C polypeptide	chr2 H1|2 89.0 cM	---
+1431597_a_at	3.47E+00	8.272	4.8047	3.52E-05	1.57E-03	AK020731	Nrip3	78593	Mm.275374	nuclear receptor interacting protein 3	chr7 E3	---
+1450410_a_at	1.51E+00	11.8752	10.3635	3.53E-05	1.57E-03	BC022913	4930570C03Rik	67739	Mm.28955	RIKEN cDNA 4930570C03 gene	chr15 F2	---
+1437935_at	-1.50E+00	5.1012	6.6046	3.56E-05	1.57E-03	BB821151	4930486G11Rik	75033	---	RIKEN cDNA 4930486G11 gene	chr9 E1	---
+1447275_at	-1.03E+00	8.5595	9.5885	3.55E-05	1.57E-03	AI449447	Gm1805	241950	---	gene model 1805, (NCBI)	chr3 B	---
+1458039_at	2.29E+00	7.9788	5.6882	3.54E-05	1.57E-03	BM210032	Ncoa3	17979	Mm.1011	Nuclear receptor coactivator 3	chr2 H2-H4	---
+1423214_at	-1.96E+00	6.3639	8.3258	3.61E-05	1.59E-03	BB476707	Plxnc1	54712	Mm.256712	plexin C1	chr10 C3	---
+1458341_x_at	-1.84E+00	5.3281	7.173	3.65E-05	1.60E-03	BB397841	---	---	---	---	---	---
+1416383_a_at	1.55E+00	9.0763	7.5295	3.67E-05	1.61E-03	NM_008797	Pcx	18563	Mm.1845	pyruvate carboxylase	chr19 A|19 0.0 cM	Fatty_Acid_Synthesis // GenMAPP /// Glycolysis_and_Gluconeogenesis // GenMAPP /// Krebs-TCA_Cycle // GenMAPP /// Fatty_Acid_Synthesis // GenMAPP /// Fatty_Acid_Synthesis // GenMAPP /// Glycolysis_and_Gluconeogenesis // GenMAPP /// Glycolysis_and_Gluconeogenesis // GenMAPP /// Krebs-TCA_Cycle // GenMAPP /// Krebs-TCA_Cycle // GenMAPP /// Citrate cycle (TCA cycle) // KEGG /// Alanine and aspartate metabolism // KEGG /// Pyruvate metabolism // KEGG
+1452166_a_at	-1.98E+00	6.2758	8.2549	3.71E-05	1.62E-03	AK014360	Krt1-10	16661	Mm.22662	keratin complex 1, acidic, gene 10	chr11 D|11 57.95 cM	---
+1417267_s_at	-1.72E+00	6.3136	8.0374	3.72E-05	1.62E-03	NM_024169	Fkbp11	66120	Mm.30729	FK506 binding protein 11	chr15 F2	Calcium signaling pathway // KEGG
+1415892_at	-2.78E+00	5.3243	8.0995	3.73E-05	1.62E-03	NM_009163	Sgpl1	20397	Mm.200373	sphingosine phosphate lyase 1	chr10 B4|10 32.0 cM	---
+1416824_at	-2.37E+00	8.227	10.5936	3.76E-05	1.63E-03	NM_026592	B230118H07Rik	68170	Mm.31263	RIKEN cDNA B230118H07 gene	chr2 E2|2 56.0 cM	---
+1447421_at	-1.76E+00	5.6445	7.4019	3.77E-05	1.63E-03	BI499978	---	---	Mm.365751	Transcribed locus	---	---
+1423269_a_at	-1.69E+00	6.1461	7.8404	3.79E-05	1.64E-03	BB663717	Nedd4l	83814	Mm.98668	neural precursor cell expressed, developmentally d	chr18 E1	---
+1460541_at	-2.28E+00	5.872	8.15	3.79E-05	1.64E-03	BB547620	Slc7a6	330836	Mm.46749	solute carrier family 7 (cationic amino acid trans	chr8 D3	---
+1457161_at	1.20E+00	12.4979	11.3005	3.82E-05	1.65E-03	BB111383	9530029O12Rik	399629	---	RIKEN cDNA 9530029O12 gene	---	---
+1416390_at	1.43E+00	8.1604	6.7296	3.83E-05	1.65E-03	NM_134083	Rcbtb2	105670	Mm.280068	regulator of chromosome condensation (RCC1) and BT	chr14 D2	---
+1419082_at	4.19E+00	10.1814	5.9931	3.87E-05	1.66E-03	NM_011111	Serpinb2	18788	Mm.271870	serine (or cysteine) peptidase inhibitor, clade B,	chr1 E2.1|1 61.1 cM	Blood_Clotting_Cascade // GenMAPP
+1433506_at	-2.80E+00	5.4583	8.2614	3.90E-05	1.67E-03	BB315861	Lrrc8d	231549	Mm.23837	leucine rich repeat containing 8D	chr5 E5	---
+1448698_at	-2.11E+00	7.1538	9.262	3.90E-05	1.67E-03	NM_007631	Ccnd1	12443	Mm.273049	cyclin D1	chr7 F5|7 72.3 cM	G1_to_S_cell_cycle_Reactome // GenMAPP /// Wnt_Signaling // GenMAPP
+1444028_s_at	-2.21E+00	5.8633	8.0753	3.93E-05	1.68E-03	AA410148	Dock9 /// LOC670309	105445 /// 670309	Mm.373976	dedicator of cytokinesis 9 /// similar to Dedicato	chr14 E5|14 67.0 cM	---
+1451680_at	2.03E+00	8.496	6.4657	3.94E-05	1.68E-03	BC011325	Srxn1	76650	Mm.218639	sulfiredoxin 1 homolog (S. cerevisiae)	chr2 H1	---
+1428737_s_at	3.55E+00	9.1116	5.5585	3.95E-05	1.68E-03	AV259880	Gramd3	107022	Mm.24356	GRAM domain containing 3	chr18 D2	---
+1415943_at	-2.28E+00	5.2999	7.5818	3.99E-05	1.69E-03	BI788645	Sdc1	20969	Mm.2580	syndecan 1	chr12 A1.1|12 1.0 cM	---
+1416689_at	-2.20E+00	5.7835	7.9849	3.99E-05	1.69E-03	NM_011656	Tuft1	22156	Mm.10214	tuftelin 1	chr3 F2	---
+1437868_at	1.63E+00	11.2444	9.6125	4.07E-05	1.72E-03	BE687858	BC023892	212943	Mm.74610	cDNA sequence BC023892	chr9 E3.1	---
+1415793_at	-1.25E+00	9.3611	10.6126	4.11E-05	1.74E-03	NM_134021	Pnpo	103711	Mm.254704	pyridoxine 5-phosphate oxidase	chr11 D	Vitamin B6 metabolism // KEGG
+1424443_at	-2.14E+00	5.8085	7.9485	4.12E-05	1.74E-03	AV378394	Hdgfrp3 /// Tm6sf1	107769 /// 29877	Mm.221412	hepatoma-derived growth factor, related protein 3	chr7 D3 /// chr7 D1	---
+1425760_a_at	1.78E+00	8.4141	6.6308	4.17E-05	1.76E-03	AF006467	Pitpnm1	18739	Mm.1860	phosphatidylinositol membrane-associated 1	chr19 B1|19 2.0 cM	---
+1430820_a_at	1.35E+00	10.1745	8.8291	4.24E-05	1.78E-03	BC024449	Bbx	70508	Mm.28940	bobby sox homolog (Drosophila)	chr16 B5	---
+1457528_at	-1.57E+00	8.4077	9.9798	4.26E-05	1.79E-03	BB454531	Slc4a7	218756	Mm.258893	solute carrier family 4, sodium bicarbonate cotran	chr14 A1	---
+1419125_at	-1.09E+00	8.0067	9.0923	4.30E-05	1.80E-03	NM_011206	Ptpn18	19253	Mm.361	protein tyrosine phosphatase, non-receptor type 18	chr1 B|1 17.3 cM	Cell adhesion molecules (CAMs) // KEGG /// Adherens junction // KEGG /// Jak-STAT signaling pathway // KEGG /// T cell receptor signaling pathway // KEGG /// B cell receptor signaling pathway // KEGG /// Leukocyte transendothelial migration // KEGG /// Insulin signaling pathway // KEGG /// Adipocytokine signaling pathway // KEGG /// Type I diabetes mellitus // KEGG /// Epithelial cell signaling in Helicobacter pylori // KEGG
+1433964_s_at	1.19E+00	11.7234	10.5356	4.37E-05	1.83E-03	BG066664	BC032204	108101	Mm.157591	cDNA sequence BC032204	chr19 A	---
+1423812_s_at	1.16E+00	10.8366	9.6769	4.42E-05	1.84E-03	BC024822	AW146242	232023	Mm.24642	expressed sequence AW146242	chr6 B3	---
+1433914_at	-2.30E+00	5.7157	8.011	4.41E-05	1.84E-03	BM246193	AI747699	381236	Mm.329814	expressed sequence AI747699	chr19 C1	---
+1455452_x_at	-2.43E+00	7.8676	10.2959	4.42E-05	1.84E-03	AW552116	AI449310	101584	---	expressed sequence AI449310	---	---
+1433826_at	-1.37E+00	6.597	7.9662	4.46E-05	1.85E-03	AV325152	Tspyl3	241732	Mm.277243	TSPY-like 3	chr2 H1	---
+1424902_at	1.63E+00	10.0711	8.4435	4.49E-05	1.86E-03	AF378760	Plxdc1	72324	Mm.39617	plexin domain containing 1	chr11 D	---
+1421441_at	-2.08E+00	5.6246	7.7028	4.52E-05	1.87E-03	NM_009640	Angpt1	11600	Mm.309336	angiopoietin 1	chr15 B3.1|15 14.3 cM	---
+1419456_at	1.15E+00	8.802	7.6521	4.56E-05	1.89E-03	BC012247	Dcxr	67880	Mm.231091	dicarbonyl L-xylulose reductase	chr11 E2	---
+1423917_a_at	1.33E+00	11.7511	10.4199	4.59E-05	1.89E-03	BC011434	Cttn	13043	Mm.205601	cortactin	chr7 F5	---
+1440154_at	1.63E+00	7.6224	5.9971	4.59E-05	1.89E-03	BB333077	Pbx3	18516	Mm.239941	Pre B-cell leukemia transcription factor 3	chr2 B|2 22.0 cM	---
+1449124_at	1.88E+00	7.2164	5.3337	4.62E-05	1.90E-03	NM_016846	Rgl1	19731	Mm.245270	ral guanine nucleotide dissociation stimulator,-li	chr1 G2	---
+1434881_s_at	-1.97E+00	6.1283	8.0971	4.63E-05	1.90E-03	BM220945	Kctd12	239217	Mm.246466	potassium channel tetramerisation domain containin	chr14 E2.3	---
+1456478_at	1.41E+00	11.5588	10.1477	4.82E-05	1.97E-03	BB183423	Pgm2l1	70974	Mm.57225	phosphoglucomutase 2-like 1	chr7 F1	---
+1434058_at	1.00E+00	10.3248	9.3202	4.85E-05	1.98E-03	BB667459	Mtmr12	268783	Mm.54460	Vmyotubularin related protein 12	chr15 A1	---
+1448781_at	-2.20E+00	5.8676	8.068	4.86E-05	1.98E-03	NM_008667	Nab1	17936	Mm.25903	Ngfi-A binding protein 1	chr1 C1.1|1 27.0 cM	---
+1457883_at	-1.89E+00	5.0145	6.906	4.91E-05	2.00E-03	BB225963	---	---	Mm.372465	Adult male aorta and vein cDNA, RIKEN full-length	---	---
+1453006_at	-1.58E+00	7.4401	9.018	4.98E-05	2.02E-03	AI506568	2610306H15Rik	72514	Mm.41674	RIKEN cDNA 2610306H15 gene	chr19 C2	---
+1435560_at	-1.10E+00	6.7422	7.8395	5.04E-05	2.04E-03	BI554446	Itgal /// LOC671163	16408 /// 671163	Mm.1618	integrin alpha L /// similar to Integrin alpha-L p	chr7 F3|7 60.0 cM	Integrin-mediated_cell_adhesion_KEGG // GenMAPP /// Integrin-mediated_cell_adhesion_KEGG // GenMAPP /// Integrin-mediated_cell_adhesion_KEGG // GenMAPP
+1429830_a_at	2.04E+00	11.1637	9.1211	5.22E-05	2.11E-03	AK005507	Cd59a	12509	Mm.247265	CD59a antigen	chr2 E2-E4|2 55.0 cM	---
+1424062_at	-2.01E+00	6.4167	8.4301	5.24E-05	2.11E-03	BC019464	Ube2d1	216080	Mm.270530	ubiquitin-conjugating enzyme E2D 1, UBC4/5 homolog	chr10 B5.3	---
+1425457_a_at	-1.74E+00	6.0169	7.7531	5.24E-05	2.11E-03	AF022072	Grb10	14783	Mm.273117	growth factor receptor bound protein 10	chr11 A1|11 8.0 cM	---
+1417214_at	1.96E+00	9.9454	7.988	5.36E-05	2.15E-03	BB121269	Rab27b	80718	Mm.246753	RAB27b, member RAS oncogene family	chr18 E2|18 45.0 cM	---
+1425351_at	1.31E+00	7.5514	6.2403	5.38E-05	2.16E-03	BC011325	Srxn1	76650	Mm.218639	sulfiredoxin 1 homolog (S. cerevisiae)	chr2 H1	---
+1435028_at	1.14E+00	11.1146	9.9772	5.53E-05	2.21E-03	BB795506	Wdr7	104082	Mm.30850	WD repeat domain 7	chr18 D1-E3	---
+1428416_at	-1.44E+00	5.3715	6.8155	5.64E-05	2.24E-03	BE198251	3110050N22Rik	67306	Mm.332366	RIKEN cDNA 3110050N22 gene	chr3 A1	---
+1433908_a_at	1.24E+00	13.4672	12.2301	5.64E-05	2.24E-03	AV009769	Cttn	13043	Mm.205601	cortactin	chr7 F5	---
+1440121_at	1.07E+00	10.644	9.5769	5.64E-05	2.24E-03	BM238086	St6galnac3	20447	Mm.296453	ST6 (alpha-N-acetyl-neuraminyl-2,3-beta-galactosyl	chr3 H4	---
+1456122_at	2.03E+00	7.8854	5.8514	5.64E-05	2.24E-03	BM196783	---	---	---	---	---	---
+1428736_at	3.79E+00	10.1286	6.3375	5.66E-05	2.25E-03	AV259880	Gramd3	107022	Mm.24356	GRAM domain containing 3	chr18 D2	---
+1449127_at	-1.99E+00	7.1327	9.123	5.68E-05	2.25E-03	NM_009151	Selpl	20345	Mm.332590	selectin, platelet (p-selectin) ligand	chr5 F|5 64.0 cM	---
+1460172_at	-1.27E+00	7.3653	8.6396	5.68E-05	2.25E-03	NM_025670	5730403B10Rik	66626	Mm.157648	RIKEN cDNA 5730403B10 gene	chr16 A1|16 2.7 cM	---
+1440037_at	-1.83E+00	6.7562	8.5884	5.79E-05	2.29E-03	BB480970	Pbx1	18514	Mm.43358	pre B-cell leukemia transcription factor 1	chr1 H2.3|1 88.1 cM	---
+1423613_at	-1.65E+00	6.9222	8.5764	5.84E-05	2.30E-03	BB033597	---	---	---	---	---	---
+1428535_at	-1.59E+00	7.9758	9.5669	5.91E-05	2.32E-03	AK004276	9430020K01Rik	240185	Mm.33179	RIKEN cDNA 9430020K01 gene	chr18 A1	---
+1436073_at	1.39E+00	9.444	8.0532	5.91E-05	2.32E-03	BB370775	A630007B06Rik /// LOC671029	213993 /// 671029	Mm.131555	RIKEN cDNA A630007B06 gene /// similar to oocyte-t	chr19 D2	---
+1419286_s_at	-1.27E+00	5.4008	6.6684	5.95E-05	2.33E-03	NM_009879	Ift81	12589	Mm.10125	intraflagellar transport 81 homolog (Chlamydomonas	chr5 F|5 65.0 cM	---
+1423072_at	-2.46E+00	5.5144	7.9705	5.94E-05	2.33E-03	AW549928	6720475J19Rik /// LOC670480	670480 /// 68157	Mm.273536	RIKEN cDNA 6720475J19 gene /// similar to putative	chr19 A	---
+1449514_at	1.44E+00	8.6569	7.2136	5.95E-05	2.33E-03	BC019379	Gprk5	14773	Mm.279400	G protein-coupled receptor kinase 5	chr19 D3|19 55.0 cM	Calcium_regulation_in_cardiac_cells // GenMAPP /// Smooth_muscle_contraction // GenMAPP
+1415846_a_at	1.91E+00	7.1069	5.1938	6.00E-05	2.34E-03	NM_013580	Ldhc	16833	Mm.16563	lactate dehydrogenase C	chr7 B3|7 23.5 cM	Glycolysis_and_Gluconeogenesis // GenMAPP /// Glycolysis_and_Gluconeogenesis // GenMAPP /// Glycolysis_and_Gluconeogenesis // GenMAPP /// Glycolysis_and_Gluconeogenesis // GenMAPP
+1438643_at	1.73E+00	9.2073	7.4791	6.03E-05	2.35E-03	BB230839	Camk1d	227541	Mm.191949	Calcium/calmodulin-dependent protein kinase ID	chr2 A1	---
+1417602_at	-1.12E+00	7.4017	8.5263	6.06E-05	2.36E-03	AF035830	Per2	18627	Mm.218141	period homolog 2 (Drosophila)	chr1 C5	Circadian_Exercise // GenMAPP /// Circadian_Exercise // GenMAPP /// Circadian_Exercise // GenMAPP /// Circadian_Exercise // GenMAPP
+1456901_at	-1.73E+00	5.7539	7.4867	6.10E-05	2.37E-03	AI450842	Adamts20	223838	---	a disintegrin-like and metallopeptidase (reprolysi	chr15 E3|15 44.4 cM	---
+1451753_at	-2.19E+00	5.6113	7.8047	6.13E-05	2.38E-03	D86949	Plxna2	18845	Mm.2251	plexin A2	---	---
+1458942_at	-1.93E+00	4.9916	6.9244	6.14E-05	2.38E-03	BB384972	C230037E05Rik	30910	---	RIKEN cDNA C230037E05 gene	---	---
+1441531_at	-1.88E+00	5.5328	7.4114	6.15E-05	2.38E-03	BB143801	Plcb4	18798	Mm.38009	phospholipase C, beta 4	chr2 F3|2 77.0 cM	Inositol phosphate metabolism // KEGG /// Calcium signaling pathway // KEGG /// Phosphatidylinositol signaling system // KEGG /// Wnt signaling pathway // KEGG /// VEGF signaling pathway // KEGG /// Gap junction // KEGG /// Fc epsilon RI signaling pathway // KEGG /// Leukocyte transendothelial migration // KEGG /// Long-term potentiation // KEGG /// Long-term depression // KEGG /// Epithelial cell signaling in Helicobacter pylori // KEGG
+1455570_x_at	-3.75E+00	8.0371	11.7832	6.21E-05	2.40E-03	BB833102	Cnn3	71994	Mm.275555	calponin 3, acidic	chr3 G1	---
+1417894_at	-1.77E+00	6.4989	8.2732	6.25E-05	2.41E-03	NM_025309	Gpr97	54672	Mm.27995	G protein-coupled receptor 97	chr8 D1	---
+1428940_at	1.62E+00	8.4446	6.8213	6.26E-05	2.41E-03	W41916	Gnaq	14682	Mm.391165	guanine nucleotide binding protein, alpha q polype	chr19 A|19 9.0 cM	G_Protein_Signaling // GenMAPP /// Smooth_muscle_contraction // GenMAPP
+1423315_at	1.82E+00	9.1115	7.2952	6.27E-05	2.41E-03	AW489168	Bbc3	170770	Mm.7660	Bcl-2 binding component 3	chr7 A2	---
+1425891_a_at	1.20E+00	8.7915	7.5955	6.30E-05	2.41E-03	AF329833	Grtp1	66790	Mm.34901	GH regulated TBC protein 1	chr8 A1.1	---
+1451469_at	-2.29E+00	6.5027	8.7881	6.30E-05	2.41E-03	BC027370	D530005L17Rik	338349	Mm.235934	RIKEN cDNA D530005L17 gene	chr4 C4	---
+1449152_at	2.88E+00	7.9663	5.0905	6.31E-05	2.41E-03	AF059567	Cdkn2b	12579	Mm.423094	cyclin-dependent kinase inhibitor 2B (p15, inhibit	chr4 C3-C6|4 42.7 cM	G1_to_S_cell_cycle_Reactome // GenMAPP
+1452156_a_at	-1.02E+00	10.3903	11.4073	6.44E-05	2.45E-03	AY032852	Nisch	64652	Mm.298728	nischarin	chr14 B	---
+1427891_at	-1.94E+00	5.6553	7.5939	6.50E-05	2.47E-03	BB667753	Gimap6	231931	Mm.321047	GTPase, IMAP family member 6	chr6 B2.3	---
+1423222_at	2.37E+00	7.6331	5.2592	6.56E-05	2.49E-03	AV261931	Cap2	67252	Mm.44529	CAP, adenylate cyclase-associated protein, 2 (yeas	chr13 A5	---
+1434454_at	1.57E+00	8.6581	7.0882	6.59E-05	2.49E-03	BB795229	D16Wsu65e	28001	Mm.393582	DNA segment, Chr 16, Wayne State University 65, ex	chr16|16 1.7 cM	---
+1422741_a_at	1.29E+00	7.5829	6.2907	6.61E-05	2.49E-03	BF319769	Bbx	70508	Mm.28940	bobby sox homolog (Drosophila)	chr16 B5	---
+1459464_at	-1.03E+00	6.8958	7.9304	6.61E-05	2.49E-03	BG069189	---	---	Mm.394818	Transcribed locus	---	---
+1449037_at	1.77E+00	9.7616	7.9904	6.65E-05	2.50E-03	AI467599	Crem	12916	Mm.5244	cAMP responsive element modulator	chr18 A	---
+1417806_at	1.36E+00	9.7656	8.4011	6.78E-05	2.55E-03	NM_022318	Popdc2	64082	Mm.390856	popeye domain containing 2	chr16 B3	---
+1437959_at	1.47E+00	8.8543	7.3862	7.04E-05	2.64E-03	BB277175	Zfp324	243834	Mm.133086	zinc finger protein 324	chr7 A1	---
+1436750_a_at	-1.96E+00	8.591	10.5534	7.09E-05	2.65E-03	AV213379	Oxct1	67041	Mm.13445	3-oxoacid CoA transferase 1	chr15 A1	Synthesis and degradation of ketone bodies // KEGG /// Valine, leucine and isoleucine degradation // KEGG /// Butanoate metabolism // KEGG
+1416416_x_at	-2.01E+00	5.8679	7.8807	7.14E-05	2.67E-03	NM_010358	Gstm1	14862	Mm.37199	glutathione S-transferase, mu 1	chr3 F2.3	Circadian_Exercise // GenMAPP
+1428644_at	1.57E+00	9.307	7.7388	7.20E-05	2.69E-03	AK015544	Mgat5	107895	---	mannoside acetylglucosaminyltransferase 5	chr1 E3	---
+1442867_at	1.15E+00	7.86	6.7115	7.21E-05	2.69E-03	BQ174216	---	---	---	---	---	---
+1450985_a_at	-1.43E+00	6.5738	8.0066	7.22E-05	2.69E-03	NM_011597	Tjp2	21873	Mm.104744	tight junction protein 2	---	---
+1442261_at	1.81E+00	6.933	5.1198	7.24E-05	2.69E-03	BB354676	Gpr150	238725	Mm.167172	G protein-coupled receptor 150	chr13 C1	---
+1460694_s_at	-2.32E+00	7.981	10.2961	7.28E-05	2.70E-03	BM203457	Svil	225115	Mm.136791	supervillin	chr18 A1	---
+1417485_at	1.01E+00	6.3448	5.3312	7.31E-05	2.70E-03	L20232	Ibsp	15891	Mm.4987	integrin binding sialoprotein	chr5 E5|5 56.0 cM	---
+1429389_at	-1.33E+00	6.9466	8.2803	7.31E-05	2.70E-03	AK017895	Setmar	74729	Mm.56539	SET domain and mariner transposase fusion gene	chr6 E1	---
+1424859_at	1.54E+00	8.3916	6.8516	7.43E-05	2.74E-03	BC005773	Homer3	26558	---	homer homolog 3 (Drosophila)	chr8 C1	---
+1437282_at	-1.70E+00	5.5049	7.2084	7.51E-05	2.76E-03	BM239048	Dock2	94176	Mm.380679	Dedicator of cyto-kinesis 2	chr11 A5	---
+1449288_at	1.31E+00	11.8569	10.5467	7.51E-05	2.76E-03	NM_008108	Gdf3	14562	Mm.299742	growth differentiation factor 3	chr6 F1|6 60.6 cM	---
+1416226_at	-1.36E+00	8.4956	9.8534	7.54E-05	2.77E-03	BE979985	Arpc1b	11867	Mm.30010	actin related protein 2/3 complex, subunit 1B	chr5 G2	---
+1433725_at	3.49E+00	10.8673	7.3763	7.62E-05	2.79E-03	BQ043509	Acvr1b	11479	Mm.308467	activin A receptor, type 1B	chr15 F2|15 60.4 cM	---
+1448611_at	-1.90E+00	5.9569	7.8572	7.63E-05	2.79E-03	NM_133791	Wwc2	52357	Mm.235074	WW, C2 and coiled-coil domain containing 2	chr8 B1.2|8 30.0 cM	---
+1446212_at	-2.02E+00	5.6491	7.672	7.68E-05	2.81E-03	BB204400	Ga17	98221	Mm.336519	Dendritic cell protein GA17	chr2 E2	---
+1422610_s_at	-1.73E+00	8.1723	9.9067	7.71E-05	2.81E-03	NM_023670	Igf2bp3	140488	Mm.281018	insulin-like growth factor 2 mRNA binding protein	chr6 B2.3|6 20.3 cM	mRNA_processing_binding_Reactome // GenMAPP /// mRNA_processing_binding_Reactome // GenMAPP
+1436171_at	-2.01E+00	6.9583	8.9677	7.76E-05	2.83E-03	BM244999	Arhgap30	226652	Mm.251048	Rho GTPase activating protein 30	chr1 H3	---
+1423679_at	1.04E+00	11.1401	10.0973	7.81E-05	2.84E-03	BC013800	2810432L12Rik	67063	Mm.24564	RIKEN cDNA 2810432L12 gene	chr4 B1	---
+1429300_at	1.95E+00	8.561	6.6142	7.87E-05	2.85E-03	AK010867	Ankrd9	74251	Mm.250989	ankyrin repeat domain 9	chr12 F1	---
+1427742_a_at	2.54E+00	9.4409	6.8968	7.90E-05	2.86E-03	AF072403	Klf6	23849	Mm.275036	Kruppel-like factor 6	chr13 A1	---
+1417575_at	1.61E+00	9.9826	8.3708	7.91E-05	2.86E-03	AK006346	Otub2	68149	Mm.127378	OTU domain, ubiquitin aldehyde binding 2	chr12 E	---
+1455333_at	-3.05E+00	6.337	9.3909	8.03E-05	2.89E-03	AI315031	Tns3	319939	Mm.337820	tensin 3	chr11 A1	---
+1422124_a_at	-3.20E+00	7.6059	10.808	8.05E-05	2.90E-03	NM_011210	Ptprc	19264	Mm.130953	protein tyrosine phosphatase, receptor type, C	chr1 E4|1 74.0 cM	Cell adhesion molecules (CAMs) // KEGG /// Adherens junction // KEGG /// Jak-STAT signaling pathway // KEGG /// T cell receptor signaling pathway // KEGG /// B cell receptor signaling pathway // KEGG /// Leukocyte transendothelial migration // KEGG /// Insulin signaling pathway // KEGG /// Adipocytokine signaling pathway // KEGG /// Type I diabetes mellitus // KEGG /// Epithelial cell signaling in Helicobacter pylori // KEGG
+1452239_at	-1.16E+00	8.7288	9.8894	8.09E-05	2.91E-03	U83174	Gt26Sor	14910	Mm.280950	gene trap ROSA 26, Philippe Soriano	chr6|6 48.7 cM	---
+1437226_x_at	-2.27E+00	7.1422	9.4115	8.16E-05	2.93E-03	AV110584	Marcksl1	17357	Mm.17918	MARCKS-like 1	chr4 D2.2|4 59.0 cM	---
+1450992_a_at	-2.11E+00	5.7137	7.8255	8.28E-05	2.97E-03	AW547821	Meis1	17268	Mm.356578	myeloid ecotropic viral integration site 1	chr11 A3.1|11 11.0 cM	---
+1451050_at	1.28E+00	13.2044	11.9248	8.32E-05	2.98E-03	AV037573	Nt5c3	107569	Mm.158936	5-nucleotidase, cytosolic III	chr6 B3	Purine metabolism // KEGG /// Pyrimidine metabolism // KEGG /// Nicotinate and nicotinamide metabolism // KEGG
+1419157_at	-2.07E+00	5.6986	7.7688	8.42E-05	3.00E-03	AI428101	Sox4 /// LOC672274	20677 /// 672274	Mm.240627	SRY-box containing gene 4 /// similar to Transcrip	chr13 A3-A5|13 20.0 cM	---
+1422977_at	-2.30E+00	5.7348	8.0313	8.41E-05	3.00E-03	NM_010327	Gp1bb	14724	Mm.422874	glycoprotein Ib, beta polypeptide	chr16 A3|16 11.4 cM	---
+1455350_at	1.19E+00	8.8562	7.662	8.39E-05	3.00E-03	BB667368	Tmem62	96957	Mm.315212	transmembrane protein 62	chr2 E5	---
+1424181_at	-1.13E+00	7.0954	8.2299	8.47E-05	3.01E-03	BC010489	6-Sep	56526	Mm.260036	septin 6	chrX A2	---
+1441573_at	-1.79E+00	6.5405	8.3277	8.70E-05	3.09E-03	BB297140	Scmh1	29871	Mm.388903	Sex comb on midleg homolog 1	chr4 D1-D2|4 56.5 cM	---
+1429278_at	-1.33E+00	8.5463	9.8761	8.80E-05	3.12E-03	AK010827	Nubpl	76826	Mm.244781	nucleotide binding protein-like	chr12 C1	---
+1435771_at	-2.13E+00	7.2136	9.3386	8.89E-05	3.14E-03	BM730668	Plcb4	18798	Mm.38009	phospholipase C, beta 4	chr2 F3|2 77.0 cM	Inositol phosphate metabolism // KEGG /// Calcium signaling pathway // KEGG /// Phosphatidylinositol signaling system // KEGG /// Wnt signaling pathway // KEGG /// VEGF signaling pathway // KEGG /// Gap junction // KEGG /// Fc epsilon RI signaling pathway // KEGG /// Leukocyte transendothelial migration // KEGG /// Long-term potentiation // KEGG /// Long-term depression // KEGG /// Epithelial cell signaling in Helicobacter pylori // KEGG
+1439651_at	-1.57E+00	5.191	6.7584	8.90E-05	3.14E-03	AV370006	Lmo4	16911	Mm.29187	LIM domain only 4	chr3 H2|3 73.1 cM	---
+1450069_a_at	-1.84E+00	7.2178	9.0579	8.89E-05	3.14E-03	BB667096	Cugbp2	14007	Mm.147091	CUG triplet repeat, RNA binding protein 2	chr2 A2-A3	mRNA_processing_binding_Reactome // GenMAPP /// mRNA_processing_binding_Reactome // GenMAPP /// mRNA_processing_binding_Reactome // GenMAPP /// mRNA_processing_Reactome // GenMAPP
+1434043_a_at	-2.06E+00	6.3768	8.4333	9.00E-05	3.17E-03	AV286809	---	---	---	---	---	---
+1448775_at	-2.00E+00	6.6326	8.634	9.03E-05	3.17E-03	NM_008328	Ifi203	15950	Mm.261270	interferon activated gene 203	chr1 H3|1 95.31 cM	---
+1426875_s_at	1.92E+00	9.1939	7.2756	9.15E-05	3.21E-03	BM210600	Srxn1	76650	Mm.218639	sulfiredoxin 1 homolog (S. cerevisiae)	chr2 H1	---
+1455451_at	-2.14E+00	6.688	8.8307	9.16E-05	3.21E-03	AW552116	AI449310	101584	---	expressed sequence AI449310	---	---
+1457484_at	2.15E+00	11.2056	9.0545	9.14E-05	3.21E-03	BB529208	D930050J11	414326	---	hypothetical D930050J11	---	---
+1426893_at	1.75E+00	6.6518	4.8974	9.43E-05	3.29E-03	BC023470	C230093N12Rik	98952	Mm.4065	RIKEN cDNA C230093N12 gene	chr2 B	---
+1441071_at	-2.39E+00	5.3386	7.7302	9.60E-05	3.34E-03	BB181225	Kcnq5	226922	Mm.403737	potassium voltage-gated channel, subfamily Q, memb	chr1 A5	---
+1451783_a_at	-2.20E+00	6.3313	8.5338	9.61E-05	3.34E-03	D50366	Kifap3	16579	Mm.4651	kinesin-associated protein 3	chr1 H1	---
+1425587_a_at	1.62E+00	7.0057	5.3821	9.63E-05	3.34E-03	BI155210	Ptprj	19271	Mm.330393	protein tyrosine phosphatase, receptor type, J	chr2 E1-2|2 49.5 cM	Cell adhesion molecules (CAMs) // KEGG /// Adherens junction // KEGG /// Jak-STAT signaling pathway // KEGG /// T cell receptor signaling pathway // KEGG /// B cell receptor signaling pathway // KEGG /// Leukocyte transendothelial migration // KEGG /// Insulin signaling pathway // KEGG /// Adipocytokine signaling pathway // KEGG /// Type I diabetes mellitus // KEGG /// Epithelial cell signaling in Helicobacter pylori // KEGG
+1438036_x_at	-1.76E+00	5.3376	7.1019	9.75E-05	3.37E-03	BB748934	AW061290	381110	Mm.293063	expressed sequence AW061290	chr17 E3	---
+1433508_at	2.28E+00	8.9904	6.7078	9.83E-05	3.38E-03	AV025472	Klf6	23849	Mm.275036	Kruppel-like factor 6	chr13 A1	---
+1453012_at	1.31E+00	7.8392	6.5341	9.82E-05	3.38E-03	AK017449	Tsc22d2	72033	Mm.218409	TSC22 domain family 2	chr3 D	---
+1443467_at	2.03E+00	8.2161	6.191	9.86E-05	3.39E-03	BB068803	Dock11	75974	Mm.32873	dedicator of cytokinesis 11	chrX A3.1-A3.2	---
+1431185_at	2.40E+00	8.1235	5.7233	9.94E-05	3.41E-03	AK015685	4930503B20Rik	75015	Mm.250432	RIKEN cDNA 4930503B20 gene	chr3 H2	---
+1456634_at	1.06E+00	9.1952	8.1389	9.97E-05	3.42E-03	BB093445	9830001H06Rik	320706	Mm.79466	RIKEN cDNA 9830001H06 gene	chr2 H1	---
+1418831_at	2.18E+00	8.8318	6.6535	1.02E-04	3.50E-03	AW475993	Pkp3	56460	Mm.350037	plakophilin 3	chr7 F5	---
+1428209_at	1.22E+00	13.3659	12.1455	1.03E-04	3.50E-03	AK010400	Bex4	406217	Mm.336245	brain expressed gene 4	chrXE3	---
+1420903_at	1.32E+00	9.0533	7.7302	1.05E-04	3.57E-03	BQ176193	St6galnac3	20447	Mm.296453	ST6 (alpha-N-acetyl-neuraminyl-2,3-beta-galactosyl	chr3 H4	---
+1454882_at	-1.94E+00	5.725	7.6678	1.05E-04	3.57E-03	BB022070	L3mbtl3	237339	Mm.338439	l(3)mbt-like 3 (Drosophila)	chr10 A4	---
+1430614_at	1.19E+00	9.2947	8.1072	1.05E-04	3.57E-03	BG962576	4632415K11Rik	74347	Mm.358759	RIKEN cDNA 4632415K11 gene	chr8 E1	---
+1445546_at	1.97E+00	9.1699	7.1951	1.06E-04	3.58E-03	AI844685	AI844685	106267	---	expressed sequence AI844685	---	---
+1417707_at	-2.13E+00	6.621	8.7472	1.07E-04	3.59E-03	NM_133898	B230342M21Rik	100637	Mm.279932	RIKEN cDNA B230342M21 gene	chr5 G3	---
+1425571_at	4.52E+00	10.1721	5.6555	1.07E-04	3.59E-03	BB132695	Slamf1	27218	Mm.103648	signaling lymphocytic activation molecule family m	chr1 H3|1 93.3 cM	---
+1427890_a_at	-1.25E+00	7.0746	8.3267	1.06E-04	3.59E-03	AW553222	Lrrc56	70552	Mm.45104	leucine rich repeat containing 56	chr7 F5	---
+1447869_x_at	-2.06E+00	5.4707	7.533	1.06E-04	3.59E-03	AV047988	Rhobtb3	73296	Mm.276200	Rho-related BTB domain containing 3	chr13 C1	---
+1435661_at	-1.27E+00	7.3916	8.6575	1.07E-04	3.59E-03	BB018660	Als2cr4	381259	Mm.261275	amyotrophic lateral sclerosis 2 (juvenile) chromos	chr1 C1.3	---
+1422601_at	1.70E+00	9.6567	7.9551	1.07E-04	3.59E-03	NM_009256	Serpinb9	20723	Mm.272569	serine (or cysteine) peptidase inhibitor, clade B,	chr13 A3.2|13 12.4 cM	---
+1436953_at	-1.77E+00	7.1486	8.9175	1.09E-04	3.63E-03	C76969	Waspip	215280	Mm.223504	Wiskott-Aldrich syndrome protein interacting prote	chr2 C3|2 43.0 cM	---
+1417279_at	-1.49E+00	7.2128	8.7025	1.10E-04	3.64E-03	NM_010585	Itpr1	16438	Mm.227912	inositol 1,4,5-triphosphate receptor 1	chr6 E1-E2|6 48.0 cM	G_Protein_Signaling // GenMAPP /// G_Protein_Signaling // GenMAPP /// G_Protein_Signaling // GenMAPP /// Calcium_regulation_in_cardiac_cells // GenMAPP /// Calcium_regulation_in_cardiac_cells // GenMAPP /// Calcium_regulation_in_cardiac_cells // GenMAPP /// Smooth_muscle_contraction // GenMAPP /// Smooth_muscle_contraction // GenMAPP /// Smooth_muscle_contraction // GenMAPP
+1442710_at	1.61E+00	9.6266	8.0141	1.09E-04	3.64E-03	AV352204	Pdlim5	56376	Mm.117709	PDZ and LIM domain 5	chr3 H3	---
+1443671_x_at	-1.39E+00	5.7374	7.13	1.10E-04	3.64E-03	AI451392	2010001J22Rik	70113	Mm.247273	RIKEN cDNA 2010001J22 gene	chr15 E3	---
+1444260_at	-1.45E+00	5.0899	6.5366	1.09E-04	3.64E-03	BF661746	---	---	Mm.125896	Transcribed locus, weakly similar to XP_573711.1 P	---	---
+1446509_at	1.73E+00	7.7436	6.0095	1.09E-04	3.64E-03	BB541614	Smox	228608	Mm.136586	spermine oxidase	chr2 F1	---
+1449856_at	-2.88E+00	7.1041	9.9811	1.10E-04	3.66E-03	BB139986	Rgs18	64214	Mm.253927	regulator of G-protein signaling 18	chr1 F|1 78.5 cM	Calcium_regulation_in_cardiac_cells // GenMAPP /// Smooth_muscle_contraction // GenMAPP
+1448812_at	-1.76E+00	7.3362	9.1001	1.11E-04	3.67E-03	NM_016677	Hpcal1	53602	Mm.313619	hippocalcin-like 1	chr12 A1.2	---
+1434479_at	1.10E+00	11.7241	10.6248	1.11E-04	3.68E-03	AV246911	Col5a1	12831	Mm.7281	Procollagen, type V, alpha 1	chr2 A2-B|2 18.0 cM	---
+1436759_x_at	-4.03E+00	7.6757	11.7046	1.12E-04	3.70E-03	AV172168	Cnn3	71994	Mm.275555	calponin 3, acidic	chr3 G1	---
+1428604_at	-1.82E+00	5.3132	7.1296	1.12E-04	3.71E-03	AK011986	2610305D13Rik	112422	---	RIKEN cDNA 2610305D13 gene	chr4 E1	---
+1460719_a_at	1.57E+00	8.3562	6.784	1.13E-04	3.71E-03	NM_008771	P2rx1	18436	Mm.25722	purinergic receptor P2X, ligand-gated ion channel,	chr11 B4|11 40.0 cM	---
+1455672_s_at	2.54E+00	8.6867	6.1441	1.13E-04	3.72E-03	BE946238	Cplx2	12890	Mm.268902	complexin 2	chr13 B1	---
+1416008_at	-2.15E+00	5.2425	7.394	1.14E-04	3.74E-03	AV172776	Satb1	20230	Mm.311655	special AT-rich sequence binding protein 1	chr17 C	---
+1416382_at	-2.07E+00	8.3579	10.4238	1.14E-04	3.74E-03	NM_009982	Ctsc	13032	Mm.322945	cathepsin C	chr7 D3-E1.1	---
+1443184_at	-1.40E+00	5.5457	6.9477	1.14E-04	3.74E-03	BB151822	Cdc14a	229776	Mm.17647	CDC14 cell division cycle 14 homolog A (S. cerevis	chr3 G1	---
+1425179_at	-1.22E+00	8.1367	9.3564	1.16E-04	3.80E-03	AF237702	Shmt1	20425	Mm.364956	serine hydroxymethyl transferase 1 (soluble)	chr11 B2	---
+1439814_at	-1.51E+00	7.0828	8.5953	1.17E-04	3.82E-03	BM246630	Atp8b4	241633	Mm.222235	ATPase, class I, type 8B, member 4	chr2 F1	---
+1424086_at	-2.78E+00	7.5575	10.3413	1.17E-04	3.83E-03	BC025514	D9Ucla1	102644	Mm.246479	DNA segment, Chr 9, University of California at Lo	chr9 A5.1|9 23.0 cM	---
+1434714_at	1.57E+00	8.9203	7.354	1.18E-04	3.84E-03	BB234316	Ero1lb	67475	Mm.326609	ERO1-like beta (S. cerevisiae)	chr13 A1	---
+1447314_at	-1.53E+00	6.5278	8.0608	1.19E-04	3.85E-03	AI480643	Tgfbr3	21814	Mm.200775	Transforming growth factor, beta receptor III	chr5 E5	TGF_Beta_Signaling_Pathway // GenMAPP
+1423489_at	-2.44E+00	6.0915	8.5298	1.19E-04	3.86E-03	BC021914	Mmd	67468	Mm.277518	monocyte to macrophage differentiation-associated	chr11 C	---
+1428777_at	-1.34E+00	6.0314	7.3761	1.19E-04	3.86E-03	AK017680	Spred1	114715	Mm.392726	sprouty protein with EVH-1 domain 1, related seque	chr2 E5	---
+1428821_at	-2.16E+00	5.8478	8.012	1.22E-04	3.94E-03	AK010891	Agpat2	67512	Mm.24244	1-acylglycerol-3-phosphate O-acyltransferase 2 (ly	chr2 A3	Glycerolipid metabolism // KEGG /// Glycerophospholipid metabolism // KEGG
+1436836_x_at	-3.70E+00	9.4356	13.1374	1.29E-04	4.15E-03	BB724741	Cnn3	71994	Mm.275555	calponin 3, acidic	chr3 G1	---
+1418003_at	-2.27E+00	9.049	11.3224	1.31E-04	4.21E-03	NM_025427	1190002H23Rik	66214	Mm.29811	RIKEN cDNA 1190002H23 gene	chr14 D3	---
+1451314_a_at	2.21E+00	7.388	5.177	1.31E-04	4.22E-03	L08431	Vcam1	22329	Mm.76649	vascular cell adhesion molecule 1	chr3 G1|3 50.8 cM	---
+1449256_a_at	1.16E+00	12.1017	10.9425	1.32E-04	4.24E-03	BC010722	Rab11a	53869	Mm.422785	RAB11a, member RAS oncogene family	chr9 C	---
+1455257_at	-2.64E+00	5.0644	7.6995	1.33E-04	4.27E-03	AV352983	Itgb3	16416	Mm.392070	integrin beta 3	chr11 E1|11 68.0 cM	---
+1455886_at	-1.35E+00	8.946	10.2953	1.34E-04	4.27E-03	BB385581	Cbl	12402	Mm.266871	Casitas B-lineage lymphoma	chr9 A5.2|9 26.0 cM	---
+1421943_at	2.70E+00	9.2277	6.5327	1.35E-04	4.30E-03	M92420	---	---	---	---	---	---
+1441145_at	1.26E+00	6.7732	5.5138	1.36E-04	4.33E-03	BB448266	D030065N23Rik	399586	---	RIKEN cDNA D030065N23 gene	---	---
+1423350_at	-1.63E+00	5.9895	7.6213	1.38E-04	4.39E-03	AA510713	Socs5	56468	Mm.126885	suppressor of cytokine signaling 5	chr17 E4	---
+1422576_at	-1.20E+00	9.965	11.1612	1.39E-04	4.41E-03	NM_016843	Atxn10	54138	Mm.248906	ataxin 10	chr15 E2	---
+1427646_a_at	1.07E+00	7.8945	6.8261	1.39E-04	4.41E-03	X95761	Arhgef2	16800	Mm.239329	rho/rac guanine nucleotide exchange factor (GEF) 2	chr3 F1	---
+1421193_a_at	1.22E+00	9.4391	8.2204	1.41E-04	4.46E-03	NM_016768	Pbx3	18516	Mm.239941	pre B-cell leukemia transcription factor 3	chr2 B|2 22.0 cM	---
+1435450_at	-1.32E+00	7.2074	8.5224	1.42E-04	4.48E-03	BB398005	Cpne3	70568	Mm.38390	copine III	chr4 A3	---
+1419493_a_at	-1.42E+00	7.2196	8.642	1.43E-04	4.51E-03	BC002036	Tpd52	21985	Mm.371590	tumor protein D52	chr3 A1-A2	---
+1438294_at	-2.18E+00	5.4324	7.6107	1.43E-04	4.51E-03	BG067317	Atxn1	20238	Mm.342686	ataxin 1	chr13 A5|13 28.0 cM	mRNA_processing_binding_Reactome // GenMAPP /// mRNA_processing_binding_Reactome // GenMAPP
+1433593_at	1.74E+00	8.9949	7.2562	1.44E-04	4.51E-03	BB316456	Ypel5	383295	Mm.277533	yippee-like 5 (Drosophila)	chr17 E2	---
+1428418_s_at	-2.09E+00	5.8274	7.9125	1.44E-04	4.52E-03	BE198251	3110050N22Rik	67306	Mm.332366	RIKEN cDNA 3110050N22 gene	chr3 A1	---
+1430887_s_at	-1.82E+00	5.4563	7.2773	1.46E-04	4.56E-03	BB246912	1700112E06Rik	76633	Mm.361010	RIKEN cDNA 1700112E06 gene	chr14 B	---
+1437449_at	-1.43E+00	6.8875	8.3194	1.47E-04	4.58E-03	BB818348	Rsad1	237926	Mm.342275	radical S-adenosyl methionine domain containing 1	chr11 D	---
+1447379_at	1.22E+00	6.4022	5.1817	1.47E-04	4.59E-03	BB295722	Sap30l	50724	Mm.340083	SAP30-like	chr11 B2	---
+1429234_s_at	-1.45E+00	8.9026	10.3557	1.47E-04	4.59E-03	BM120495	11-Sep	52398	Mm.236587	septin 11	chr5 E3|5 52.0 cM	---
+1452796_at	1.19E+00	10.8423	9.6561	1.48E-04	4.61E-03	AK010356	Def6	23853	Mm.204731	differentially expressed in FDCP 6	chr17 A3.3	---
+1425548_a_at	-2.17E+00	5.6099	7.7803	1.49E-04	4.64E-03	U72644	Lst1	16988	Mm.19379	leukocyte specific transcript 1	chr17 B1|17 19.06 cM	---
+1450981_at	-1.92E+00	6.3975	8.3138	1.49E-04	4.64E-03	BI663014	Cnn2	12798	Mm.157770	calponin 2	chr10 C1	Smooth_muscle_contraction // GenMAPP /// Smooth_muscle_contraction // GenMAPP
+1429672_at	-2.33E+00	5.8452	8.1771	1.50E-04	4.64E-03	BB234837	5830407E08Rik	76013	---	RIKEN cDNA 5830407E08 gene	---	---
+1424759_at	-2.11E+00	5.726	7.84	1.51E-04	4.66E-03	BC017528	Arrdc4	66412	---	arrestin domain containing 4	chr7 C	Statin_Pathway_PharmGKB // GenMAPP /// Statin_Pathway_PharmGKB // GenMAPP
+1448663_s_at	1.66E+00	7.4325	5.7728	1.51E-04	4.66E-03	NM_138656	Mvd	192156	Mm.28146	mevalonate (diphospho) decarboxylase	chr8 E1	Cholesterol_Biosynthesis // GenMAPP /// Cholesterol_Biosynthesis // GenMAPP /// Cholesterol_Biosynthesis // GenMAPP
+1418704_at	1.44E+00	10.1663	8.7294	1.52E-04	4.67E-03	NM_009113	S100a13	20196	Mm.6523	S100 calcium binding protein A13	chr3 F1-F2|3 43.6 cM	---
+1420117_at	1.62E+00	10.2166	8.5927	1.53E-04	4.67E-03	AW413496	---	---	Mm.400785	Transcribed locus	---	---
+1426640_s_at	-2.26E+00	8.1684	10.4249	1.53E-04	4.67E-03	BB354684	Trib2	217410	Mm.266679	tribbles homolog 2 (Drosophila)	chr12 A1.1	---
+1434352_at	1.23E+00	9.1473	7.9211	1.52E-04	4.67E-03	BB329261	B630005N14Rik	101148	Mm.354863	RIKEN cDNA B630005N14 gene	chr6 A1	---
+1436208_at	1.40E+00	10.2693	8.8725	1.52E-04	4.67E-03	BG075316	Asb1	65247	Mm.234152	ankyrin repeat and SOCS box-containing protein 1	chr1 D|1 57.0 cM	---
+1456532_at	-1.19E+00	5.112	6.3058	1.55E-04	4.72E-03	BB428671	Pdgfd	71785	Mm.390122	Platelet-derived growth factor, D polypeptide	chr9 A1	---
+1417706_at	1.29E+00	6.9648	5.6741	1.56E-04	4.75E-03	NM_013792	Naglu	27419	Mm.95452	alpha-N-acetylglucosaminidase (Sanfilippo disease	chr11 D	Glycosaminoglycan degradation // KEGG /// Glycan structures - degradation // KEGG
+1452626_a_at	1.03E+00	9.1827	8.1528	1.58E-04	4.80E-03	AK007494	1810014F10Rik	69064	Mm.41915	RIKEN cDNA 1810014F10 gene	chr7 F4	---
+1423071_x_at	-1.39E+00	8.04	9.4289	1.59E-04	4.82E-03	AW549928	LOC270335 /// LOC434328 /// LOC544983 /// LOC545175 /// LOC619711 /// LOC622782 /// LOC623857 /// LOC624831 /// LOC665837 /// LOC666017 /// LOC666200 /// LOC666464 /// LOC668524 /// LOC670117 /// LOC670242	270335 /// 434328 /// 544983 /// 545175 /// 619711 /// 622782 /// 623857 /// 624831 /// 665837 /// 666017 /// 666200 /// 666464 /// 668524 /// 670117 /// 670242	---	hypothetical gene supported by BC019681; BC027236	chr7 B4 /// chr8 B3.3 /// chr16 C3.3 /// chr14 B /// chr1 E1.1 /// chr5 F /// chr10 C1 /// chr4 A1 /// chr12 A1.3	---
+1426782_at	-1.56E+00	5.6174	7.1799	1.61E-04	4.87E-03	BC019649	Gpr125	70693	Mm.272974	G protein-coupled receptor 125	chr5 B3	---
+1428140_at	-1.76E+00	8.6315	10.3875	1.61E-04	4.87E-03	AK010029	---	---	---	---	---	---
+1454721_at	1.50E+00	10.2779	8.7756	1.61E-04	4.87E-03	AV257687	1110018G07Rik	68497	Mm.24446	RIKEN cDNA 1110018G07 gene	chr12 D2	---
+1421182_at	-2.03E+00	6.5564	8.5854	1.62E-04	4.89E-03	NM_019985	Clec1b	56760	Mm.30700	C-type lectin domain family 1, member b	chr6 F3	---
+1441746_at	1.55E+00	7.3058	5.7553	1.67E-04	5.03E-03	BM115624	---	---	---	---	---	---
+1437424_at	-1.90E+00	6.4173	8.3179	1.69E-04	5.08E-03	BG069296	Syde2 /// LOC639654	214804 /// 639654	Mm.268854	synapse defective 1, Rho GTPase, homolog 2 (C. ele	chr3 H2	---
+1423161_s_at	-2.53E+00	6.537	9.0684	1.70E-04	5.11E-03	BQ044290	Spred1	114715	Mm.392726	sprouty protein with EVH-1 domain 1, related seque	chr2 E5	---
+1424463_at	-1.65E+00	6.4594	8.1094	1.75E-04	5.24E-03	BF225441	2210010L05Rik	98682	Mm.269793	RIKEN cDNA 2210010L05 gene	chr1 C1.1	---
+1426586_at	1.52E+00	11.8452	10.3262	1.75E-04	5.24E-03	AI647500	Slc25a11	67863	Mm.296082	solute carrier family 25 (mitochondrial carrier ox	chr11 B4|11 42.0 cM	---
+1435823_x_at	-1.81E+00	6.6282	8.4356	1.77E-04	5.29E-03	AW491662	Egfl7	353156	Mm.268933	EGF-like domain 7	chr2 B	---
+1419186_a_at	1.46E+00	10.2653	8.8023	1.79E-04	5.32E-03	NM_009183	St8sia4	20452	Mm.306228	ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltra	chr1 D	---
+1450906_at	-2.10E+00	7.1025	9.2023	1.82E-04	5.39E-03	BB476707	Plxnc1	54712	Mm.256712	plexin C1	chr10 C3	---
+1425338_at	-1.13E+00	5.524	6.651	1.84E-04	5.43E-03	BB224034	Plcb4	18798	Mm.38009	phospholipase C, beta 4	chr2 F3|2 77.0 cM	Inositol phosphate metabolism // KEGG /// Calcium signaling pathway // KEGG /// Phosphatidylinositol signaling system // KEGG /// Wnt signaling pathway // KEGG /// VEGF signaling pathway // KEGG /// Gap junction // KEGG /// Fc epsilon RI signaling pathway // KEGG /// Leukocyte transendothelial migration // KEGG /// Long-term potentiation // KEGG /// Long-term depression // KEGG /// Epithelial cell signaling in Helicobacter pylori // KEGG
+1452340_at	-1.87E+00	5.9619	7.8322	1.85E-04	5.47E-03	BB667188	6820424L24Rik	100515	Mm.38277	RIKEN cDNA 6820424L24 gene	chr5 B3	---
+1450744_at	-1.36E+00	10.3781	11.7376	1.86E-04	5.49E-03	NM_138953	Ell2	192657	Mm.21288	elongation factor RNA polymerase II 2	chr13 C1	---
+1442971_at	1.82E+00	8.5642	6.745	1.86E-04	5.50E-03	BG069765	Baz2b	407823	Mm.228071	bromodomain adjacent to zinc finger domain, 2B	chr2 C1.1	---
+1451127_at	1.02E+00	10.1392	9.1185	1.89E-04	5.56E-03	BC024822	AW146242	232023	Mm.24642	expressed sequence AW146242	chr6 B3	---
+1440347_at	-1.62E+00	5.5665	7.1913	1.90E-04	5.58E-03	BG074665	Arhgap10	78514	Mm.165974	Rho GTPase activating protein 10	chr8 C2	---
+1416379_at	-2.41E+00	5.5656	7.9745	1.91E-04	5.59E-03	NM_019482	Panx1	55991	Mm.142253	pannexin 1	chr9 A2	---
+1450852_s_at	1.84E+00	12.1531	10.3117	1.93E-04	5.66E-03	BQ173958	F2r	14062	Mm.24816	coagulation factor II (thrombin) receptor	chr13 D1|13 47.0 cM	GPCRDB_Class_A_Rhodopsin-like // GenMAPP
+1451335_at	-2.72E+00	9.1611	11.8846	1.94E-04	5.68E-03	AF263458	Plac8	231507	Mm.34609	placenta-specific 8	chr5 E3|5 54.0 cM	---
+1422863_s_at	1.42E+00	8.5428	7.1228	1.96E-04	5.70E-03	NM_019808	LOC669660	669660	---	similar to PDZ and LIM domain protein 5 (Enigma ho	---	---
+1429404_at	-1.58E+00	7.3576	8.934	1.97E-04	5.70E-03	AK008577	2010317E24Rik	72080	Mm.250293	RIKEN cDNA 2010317E24 gene	chr2 A3	---
+1442183_at	-1.28E+00	8.6546	9.9355	1.96E-04	5.70E-03	AW555202	LOC236069	236069	---	similar to carnitine deficiency-associated gene ex	chr4 E1	---
+1445919_at	-2.48E+00	5.7571	8.2419	1.97E-04	5.70E-03	BG063063	AA409261	101942	---	expressed sequence AA409261	---	---
+1460735_at	-1.63E+00	8.3372	9.9706	1.96E-04	5.70E-03	BM203457	Svil	225115	Mm.136791	supervillin	chr18 A1	---
+1460118_at	-1.80E+00	5.0253	6.8214	2.03E-04	5.87E-03	BF455409	---	---	Mm.401203	Transcribed locus	---	---
+1434388_at	-1.37E+00	7.3834	8.7556	2.04E-04	5.90E-03	BB023868	Mobkl2a	208228	Mm.49309	MOB1, Mps One Binder kinase activator-like 2A (yea	chr10 C1	---
+1425281_a_at	1.42E+00	8.1643	6.7463	2.09E-04	5.99E-03	AF201289	Tsc22d3	14605	Mm.22216	TSC22 domain family 3	chrX F1	---
+1434736_at	-1.03E+00	5.7474	6.7781	2.08E-04	5.99E-03	BB744589	Hlf	217082	Mm.158903	hepatic leukemia factor	chr11 C-D|11 52.0 cM	---
+1448902_at	1.82E+00	7.875	6.0558	2.08E-04	5.99E-03	NM_025905	Ttc23	67009	Mm.249356	tetratricopeptide repeat domain 23	chr7 C	---
+1449052_a_at	-1.86E+00	8.8658	10.7263	2.09E-04	5.99E-03	NM_010068	Dnmt3b	13436	Mm.89772	DNA methyltransferase 3B	chr2 A2-A3	---
+1449481_at	-3.18E+00	6.2856	9.4649	2.08E-04	5.99E-03	BC016571	Slc25a13	50799	Mm.24513	solute carrier family 25 (mitochondrial carrier, a	chr6 A1	---
+1455359_at	-1.22E+00	6.9633	8.1837	2.09E-04	5.99E-03	BB794593	C130080N23Rik	226829	Mm.103369	RIKEN cDNA C130080N23 gene	chr1 H6	---
+1417196_s_at	-1.63E+00	5.8965	7.5276	2.11E-04	6.04E-03	NM_133791	Wwc2	52357	Mm.390033	WW, C2 and coiled-coil domain containing 2	chr8 B1.2|8 30.0 cM	---
+1453255_at	1.41E+00	11.7721	10.362	2.12E-04	6.04E-03	AK011417	Slc43a1	72401	Mm.22716	solute carrier family 43, member 1	chr2 E1	---
+1434252_at	3.23E+00	8.1971	4.9652	2.12E-04	6.04E-03	BB711990	Tmcc3	319880	Mm.23047	transmembrane and coiled coil domains 3	chr10 C2	---
+1429559_at	2.07E+00	9.5372	7.4629	2.12E-04	6.05E-03	AK003474	Gnaq	14682	Mm.391165	guanine nucleotide binding protein, alpha q polype	chr19 A|19 9.0 cM	G_Protein_Signaling // GenMAPP /// Smooth_muscle_contraction // GenMAPP
+1417094_at	-1.76E+00	7.2263	8.9872	2.14E-04	6.09E-03	NM_133348	Acot7	70025	Mm.296191	acyl-CoA thioesterase 7	chr4 E2	---
+1422861_s_at	1.40E+00	8.3379	6.9411	2.14E-04	6.09E-03	NM_019808	LOC669660	669660	---	similar to PDZ and LIM domain protein 5 (Enigma ho	---	---
+1418710_at	1.99E+00	10.898	8.9079	2.15E-04	6.09E-03	NM_007652	Cd59a	12509	Mm.247265	CD59a antigen	chr2 E2-E4|2 55.0 cM	---
+1424975_at	-1.25E+00	5.4464	6.6918	2.16E-04	6.12E-03	AF293371	Siglecf	233186	Mm.290569	sialic acid binding Ig-like lectin F	chr7 B3	---
+1436034_at	-1.03E+00	9.2117	10.2388	2.16E-04	6.13E-03	AW550283	Cep68	216543	Mm.260314	centrosomal protein 68	chr11 A3.1|11 10.91 cM	---
+1433732_x_at	-1.25E+00	7.806	9.0512	2.17E-04	6.13E-03	BG092043	Igf2bp3	140488	Mm.281018	insulin-like growth factor 2 mRNA binding protein	chr6 B2.3|6 20.3 cM	mRNA_processing_binding_Reactome // GenMAPP /// mRNA_processing_binding_Reactome // GenMAPP
+1419654_at	1.11E+00	7.8157	6.7079	2.18E-04	6.16E-03	NM_009389	Tle3	21887	Mm.24255	transducin-like enhancer of split 3, homolog of Dr	---	---
+1418262_at	-1.76E+00	5.7884	7.5486	2.24E-04	6.28E-03	AW907526	Syk	20963	Mm.375031	spleen tyrosine kinase	chr13 B-C2|13 37.0 cM	---
+1448184_at	-2.20E+00	7.8302	10.0298	2.23E-04	6.28E-03	AF483488	Fkbp1a	14225	Mm.278458	FK506 binding protein 1a	chr2 G3	TGF_Beta_Signaling_Pathway // GenMAPP
+1422699_at	-1.59E+00	5.9603	7.5496	2.24E-04	6.29E-03	BB554189	Alox12	11684	Mm.12286	arachidonate 12-lipoxygenase	chr11 B3|11 40.0 cM	Eicosanoid_Synthesis // GenMAPP /// Eicosanoid_Synthesis // GenMAPP /// Arachidonic acid metabolism // KEGG
+1451490_at	-2.22E+00	6.0445	8.2661	2.26E-04	6.34E-03	BC027340	Lyplal1	226791	Mm.257116	lysophospholipase-like 1	chr1 H5	---
+1424718_at	1.92E+00	7.0062	5.0833	2.27E-04	6.35E-03	M18775	Mapt	17762	Mm.1287	microtubule-associated protein tau	chr11 E1|11 64.0 cM	---
+1419480_at	-1.64E+00	6.0355	7.6743	2.29E-04	6.39E-03	M36005	Sell	20343	Mm.1461	selectin, lymphocyte	chr1 H2.2|1 86.6 cM	---
+1417936_at	-2.38E+00	6.0625	8.4465	2.30E-04	6.40E-03	AF128196	Ccl9	20308	Mm.2271	chemokine (C-C motif) ligand 9	chr11 C|11 47.4 cM	---
+1435225_s_at	-1.97E+00	6.3247	8.2982	2.30E-04	6.40E-03	BB728354	Brpf3	268936	Mm.291877	bromodomain and PHD finger containing, 3	chr17 A3.3	---
+1434895_s_at	1.70E+00	10.4667	8.767	2.30E-04	6.40E-03	BG064715	Ppp1r13b	21981	Mm.313076	protein phosphatase 1, regulatory (inhibitor) subu	chr12 F2	---
+1437176_at	-1.09E+00	6.3119	7.404	2.33E-04	6.49E-03	AV277444	AI451557	102084	Mm.334720	expressed sequence AI451557	chr8 C5	---
+1418243_at	2.29E+00	9.0012	6.7098	2.35E-04	6.52E-03	NM_007995	Fcna	14133	Mm.10510	ficolin A	chr2 A3	---
+1430373_at	-1.98E+00	5.0621	7.04	2.36E-04	6.55E-03	AI645098	5430427O19Rik	71398	Mm.185296	RIKEN cDNA 5430427O19 gene	chrX B	---
+1438653_x_at	-1.16E+00	11.1737	12.3325	2.37E-04	6.55E-03	AV309164	Atxn10	54138	Mm.248906	ataxin 10	chr15 E2	---
+1428043_a_at	3.03E+00	9.0992	6.0717	2.38E-04	6.55E-03	AB061276	Cmah	12763	Mm.8396	cytidine monophospho-N-acetylneuraminic acid hydro	chr13 A3.2	---
+1437798_at	-1.74E+00	5.2942	7.0353	2.38E-04	6.55E-03	BB051012	6720422M22Rik	99946	---	RIKEN cDNA 6720422M22 gene	---	---
+1433467_at	-1.77E+00	6.5719	8.3437	2.40E-04	6.60E-03	BB547620	Slc7a6	330836	Mm.46749	solute carrier family 7 (cationic amino acid trans	chr8 D3	---
+1418104_at	3.29E+00	8.7805	5.4902	2.41E-04	6.61E-03	NM_020610	Nrip3	78593	Mm.275374	nuclear receptor interacting protein 3	chr7 E3	---
+1433986_at	-1.26E+00	9.8229	11.0852	2.45E-04	6.70E-03	AV152395	BC024659	108934	Mm.38578	cDNA sequence BC024659	chr13A4	---
+1434763_at	1.59E+00	8.2476	6.656	2.47E-04	6.74E-03	BF457736	A730041O15Rik	269717	---	RIKEN cDNA A730041O15 gene	chr5 G2	---
+1434260_at	-1.84E+00	6.857	8.6958	2.49E-04	6.81E-03	BB461848	Fchsd2	207278	Mm.263041	FCH and double SH3 domains 2	chr7 E2	---
+1434497_at	-1.79E+00	7.5494	9.3441	2.52E-04	6.88E-03	BB754142	---	---	---	---	---	---
+1441620_at	-1.70E+00	5.2996	6.9947	2.53E-04	6.88E-03	BB481004	Grb10	14783	Mm.273117	Growth factor receptor bound protein 10	chr11 A1|11 8.0 cM	---
+1458240_at	1.52E+00	6.3911	4.8665	2.53E-04	6.88E-03	AV326943	Magi1	14924	Mm.217216	Membrane associated guanylate kinase, WW and PDZ d	chr6 D3	---
+1439554_at	-1.96E+00	6.001	7.9569	2.54E-04	6.89E-03	AV323498	Scmh1	29871	Mm.388903	sex comb on midleg homolog 1	chr4 D1-D2|4 56.5 cM	---
+1424358_at	-1.52E+00	6.1261	7.6419	2.55E-04	6.90E-03	BC016265	Ube2e2	218793	Mm.23551	ubiquitin-conjugating enzyme E2E 2 (UBC4/5 homolog	chr14 A2	---
+1429254_at	-1.03E+00	8.0409	9.066	2.55E-04	6.90E-03	BF472491	Aqp11	66333	Mm.29756	aquaporin 11	chr7 E1	---
+1443394_at	-1.60E+00	5.6565	7.2531	2.57E-04	6.93E-03	BG060698	Hmga2	15364	Mm.157190	High mobility group AT-hook 2	chr10 D2|10 67.5 cM	---
+1442270_at	1.11E+00	10.3295	9.216	2.57E-04	6.93E-03	BB053254	Pbx3	18516	Mm.239941	Pre B-cell leukemia transcription factor 3	chr2 B|2 22.0 cM	---
+1416795_at	-1.95E+00	7.0852	9.0372	2.60E-04	6.97E-03	NM_030004	Cryl1	68631	Mm.25539	crystallin, lamda 1	chr14 C3|14 20.0 cM	---
+1431833_a_at	1.54E+00	7.9192	6.3753	2.59E-04	6.97E-03	AK004902	Hmgcs2	15360	Mm.289131	3-hydroxy-3-methylglutaryl-Coenzyme A synthase 2	chr3 F2.2|3 48.0 cM	---
+1449269_at	-1.78E+00	5.4118	7.1888	2.60E-04	6.97E-03	NM_007976	F5	14067	Mm.12900	coagulation factor V	chr1 H2.2|1 86.6 cM	Blood_Clotting_Cascade // GenMAPP
+1455446_x_at	1.57E+00	8.4498	6.8758	2.59E-04	6.97E-03	BF228057	Acadsb	66885	Mm.334274	acyl-Coenzyme A dehydrogenase, short/branched chai	chr7 F4	Fatty_Acid_Degradation // GenMAPP /// Fatty_Acid_Degradation // GenMAPP /// Fatty acid metabolism // KEGG /// Valine, leucine and isoleucine degradation // KEGG /// beta-Alanine metabolism // KEGG /// Propanoate metabolism // KEGG
+1419757_at	-1.44E+00	7.0172	8.4562	2.60E-04	6.99E-03	NM_011256	Pitpnm2	19679	Mm.44261	phosphatidylinositol transfer protein, membrane-as	chr5 F|5 68.0 cM	---
+1451353_at	-2.12E+00	5.9546	8.0697	2.62E-04	7.02E-03	AV378394	Tm6sf1	107769	---	transmembrane 6 superfamily member 1	chr7 D1	---
+1438404_at	-2.17E+00	6.8881	9.0563	2.63E-04	7.02E-03	BB125272	Rnf144	108089	Mm.214932	ring finger protein 144	chr12 A3	---
+1449602_at	-1.64E+00	4.9872	6.6314	2.63E-04	7.03E-03	AI785329	Klhl5	71778	Mm.10281	Kelch-like 5 (Drosophila)	chr5 C3.1	---
+1440431_at	-1.80E+00	5.7372	7.54	2.63E-04	7.03E-03	BB053468	Meis1	17268	Mm.356578	Myeloid ecotropic viral integration site 1	chr11 A3.1|11 11.0 cM	---
+1433209_at	-1.76E+00	5.9892	7.7454	2.65E-04	7.07E-03	AK008743	2210017G18Rik	70386	---	RIKEN cDNA 2210017G18 gene	---	---
+1451428_x_at	-3.11E+00	6.5513	9.6566	2.66E-04	7.08E-03	BC024610	Egfl7	353156	Mm.268933	EGF-like domain 7	chr2 B	---
+1416832_at	-2.74E+00	8.6883	11.4288	2.67E-04	7.08E-03	NM_026228	Slc39a8	67547	Mm.30239	solute carrier family 39 (metal ion transporter),	chr3 G3|3 66.0 cM	---
+1459647_at	-1.55E+00	5.543	7.0885	2.67E-04	7.08E-03	BF148993	Pold3	67967	Mm.37562	Polymerase (DNA-directed), delta 3, accessory subu	chr7 F1	DNA_replication_Reactome // GenMAPP /// DNA_replication_Reactome // GenMAPP
+1438958_x_at	-1.79E+00	8.8372	10.624	2.68E-04	7.09E-03	BB058341	Fkbp1a	14225	Mm.278458	FK506 binding protein 1a	chr2 G3	TGF_Beta_Signaling_Pathway // GenMAPP
+1435176_a_at	1.65E+00	9.2274	7.575	2.71E-04	7.16E-03	BF019883	Id2	15902	Mm.34871	inhibitor of DNA binding 2	chr12 B|12 7.0 cM	---
+1454670_at	-1.35E+00	7.945	9.2988	2.71E-04	7.16E-03	AW556696	Rere	68703	Mm.291274	arginine glutamic acid dipeptide (RE) repeats	chr4 E2|4 78.0 cM	---
+1450872_s_at	-1.04E+00	9.2977	10.3355	2.74E-04	7.24E-03	AI596237	Lip1	16889	Mm.157545	lysosomal acid lipase 1	chr19 C1	---
+1458709_a_at	1.13E+00	8.5905	7.4589	2.74E-04	7.24E-03	AV274704	Atxn7l1	380753	Mm.310519	ataxin 7-like 1	chr12 A3	---
+1455032_at	-1.01E+00	6.6327	7.6468	2.75E-04	7.24E-03	BQ176303	9630037P07Rik	227210	Mm.39706	RIKEN cDNA 9630037P07 gene	chr1 C2	---
+1458602_at	1.45E+00	7.5005	6.0544	2.76E-04	7.28E-03	BM235738	Bbx	70508	Mm.28940	bobby sox homolog (Drosophila)	chr16 B5	---
+1435517_x_at	-1.33E+00	6.095	7.4251	2.78E-04	7.30E-03	BB465250	Ralb	64143	Mm.27832	v-ral simian leukemia viral oncogene homolog B (ra	chr1 E2	---
+1437279_x_at	-2.47E+00	5.5871	8.0527	2.79E-04	7.31E-03	BB533095	Sdc1	20969	Mm.2580	syndecan 1	chr12 A1.1|12 1.0 cM	---
+1420980_at	-1.75E+00	5.605	7.3568	2.79E-04	7.32E-03	BF456404	Pak1	18479	Mm.260227	p21 (CDKN1A)-activated kinase 1	chr7 E1|7 46.5 cM	Integrin-mediated_cell_adhesion_KEGG // GenMAPP
+1456414_at	1.11E+00	6.7518	5.6407	2.80E-04	7.33E-03	BB703378	---	---	Mm.100443	In vitro fertilized eggs cDNA, RIKEN full-length e	---	---
+1438439_at	-2.03E+00	5.1955	7.221	2.81E-04	7.35E-03	BB229616	Gpr171	229323	Mm.123648	G protein-coupled receptor 171	chr3 D	---
+1455564_at	-1.04E+00	6.4264	7.4655	2.81E-04	7.35E-03	BQ176236	Bcr	110279	Mm.333722	breakpoint cluster region homolog	chr10 B5.3-C1|10 40.5 cM	---
+1416125_at	-1.85E+00	7.2024	9.0496	2.83E-04	7.39E-03	U16959	Fkbp5	14229	Mm.276405	FK506 binding protein 5	chr17 A3.3|17 13.0 cM	Calcium signaling pathway // KEGG
+1453300_at	1.25E+00	7.5221	6.2687	2.85E-04	7.43E-03	AK017526	Slc35d2 /// LOC674340	674340 /// 70484	Mm.133731	solute carrier family 35, member D2 /// similar to	chr13 B3	---
+1436387_at	1.29E+00	9.1206	7.8333	2.86E-04	7.44E-03	BB398124	C330006P03Rik	320588	---	RIKEN cDNA C330006P03 gene	---	---
+1421415_s_at	-1.07E+00	5.6219	6.6907	2.87E-04	7.44E-03	NM_008105	Gcnt2	14538	Mm.314757	glucosaminyl (N-acetyl) transferase 2, I-branching	chr13 A5|13 17.0 cM	---
+1448482_at	-1.96E+00	7.1246	9.0838	2.86E-04	7.44E-03	NM_026228	Slc39a8	67547	Mm.30239	solute carrier family 39 (metal ion transporter),	chr3 G3|3 66.0 cM	---
+1434246_at	-1.67E+00	5.381	7.0517	2.89E-04	7.48E-03	BB022070	L3mbtl3	237339	Mm.338439	l(3)mbt-like 3 (Drosophila)	chr10 A4	---
+1443249_at	1.53E+00	9.5152	7.9867	2.91E-04	7.53E-03	BM247240	3-Mar	320253	Mm.312623	Membrane-associated ring finger (C3HC4) 3	chr18 D2	---
+1436777_at	1.00E+00	8.2187	7.2164	2.93E-04	7.56E-03	BG063871	---	---	---	---	---	---
+1439441_x_at	-1.42E+00	6.8929	8.3087	2.96E-04	7.63E-03	BB134767	Lats2	50523	Mm.347899	large tumor suppressor 2	chr14 C3	---
+1449456_a_at	-2.21E+00	6.7339	8.9434	2.96E-04	7.63E-03	NM_010780	Cma1	17228	Mm.1252	chymase 1, mast cell	chr14 C3|14 20.0 cM	---
+1417874_at	1.00E+00	11.2096	10.2095	2.98E-04	7.67E-03	NM_020050	Tmem9b	56786	Mm.240668	TMEM9 domain family, member B	chr7 E3	---
+1453025_at	1.17E+00	8.2519	7.0769	3.03E-04	7.78E-03	AK011824	2900006F19Rik	72899	Mm.229466	RIKEN cDNA 2900006F19 gene	chr2 F3	---
+1427153_at	-1.39E+00	8.4668	9.8572	3.05E-04	7.82E-03	AW047304	Bckdhb	12040	Mm.12819	branched chain ketoacid dehydrogenase E1, beta pol	chr9 E2	---
+1459224_at	1.51E+00	8.5289	7.0225	3.05E-04	7.82E-03	BB005980	Ppp1r13b	21981	Mm.313076	Protein phosphatase 1, regulatory (inhibitor) subu	chr12 F2	---
+1450641_at	-2.84E+00	7.7839	10.6251	3.07E-04	7.87E-03	M24849	Vim	22352	Mm.268000	vimentin	chr2 A2|2 7.0 cM	Striated_muscle_contraction // GenMAPP
+1416554_at	-1.72E+00	10.3467	12.0645	3.08E-04	7.87E-03	NM_016861	Pdlim1	54132	Mm.5567	PDZ and LIM domain 1 (elfin)	chr19 D1	---
+1421413_a_at	1.44E+00	8.5434	7.1043	3.08E-04	7.87E-03	NM_022554	Pdlim5 /// LOC669660	56376 /// 669660	Mm.117709	PDZ and LIM domain 5 /// similar to PDZ and LIM do	chr3 H3	---
+1457583_at	1.56E+00	10.2183	8.6608	3.09E-04	7.87E-03	BM219171	St6galnac3	20447	Mm.296453	ST6 (alpha-N-acetyl-neuraminyl-2,3-beta-galactosyl	chr3 H4	---
+1433491_at	-1.69E+00	5.3008	6.9904	3.09E-04	7.87E-03	BE951907		13822	Mm.306026	erythrocyte protein band 4.1-like 2	chr10 A4|10 18.0 cM	---
+1452696_a_at	-1.79E+00	5.6101	7.3977	3.12E-04	7.91E-03	AK017115	4933439C10Rik	74476	Mm.390337	RIKEN cDNA 4933439C10 gene	chr11 B1.3	---
+1441971_at	-1.19E+00	6.6542	7.8441	3.12E-04	7.93E-03	AW543723	---	---	Mm.25647	Transcribed locus	---	---
+1423063_at	-1.86E+00	5.7439	7.6014	3.15E-04	7.98E-03	BB795491	Dnmt3a	13435	Mm.5001	DNA methyltransferase 3A	chr12 A2-A3	---
+1454764_s_at	-1.88E+00	9.8383	11.7224	3.15E-04	7.98E-03	BF165681	Slc38a1	105727	Mm.393579	solute carrier family 38, member 1	chr15 F1	---
+1437436_s_at	1.08E+00	12.6811	11.6009	3.17E-04	8.01E-03	BB461269	Gprk6	26385	Mm.10193	G protein-coupled receptor kinase 6	chr13 B1-3|13 35.0 cM	Calcium_regulation_in_cardiac_cells // GenMAPP /// Smooth_muscle_contraction // GenMAPP /// Calcium_regulation_in_cardiac_cells // GenMAPP /// Calcium_regulation_in_cardiac_cells // GenMAPP /// Smooth_muscle_contraction // GenMAPP /// Smooth_muscle_contraction // GenMAPP
+1444408_at	-1.09E+00	6.6029	7.696	3.18E-04	8.03E-03	BB295604	B130040O20Rik	320962	---	RIKEN cDNA B130040O20 gene	chr11 B1.3	---
+1440284_at	-1.44E+00	6.2831	7.7245	3.20E-04	8.07E-03	AI506066	---	---	Mm.31030	Transcribed locus, weakly similar to XP_576460.1 P	---	---
+1422473_at	-2.44E+00	5.7872	8.2229	3.25E-04	8.16E-03	BM246564	Pde4b	18578	Mm.20181	phosphodiesterase 4B, cAMP specific	chr4 C6|4 46.8 cM	Smooth_muscle_contraction // GenMAPP /// Smooth_muscle_contraction // GenMAPP /// Smooth_muscle_contraction // GenMAPP /// Smooth_muscle_contraction // GenMAPP /// Smooth_muscle_contraction // GenMAPP /// Smooth_muscle_contraction // GenMAPP
+1419494_a_at	-1.53E+00	6.6237	8.1521	3.29E-04	8.25E-03	BC002036	Tpd52	21985	Mm.371590	tumor protein D52	chr3 A1-A2	---
+1440139_at	-1.42E+00	5.4289	6.8493	3.32E-04	8.27E-03	BB729836	Nedd4l	83814	Mm.98668	Neural precursor cell expressed, developmentally d	chr18 E1	---
+1444203_at	2.37E+00	8.4473	6.081	3.31E-04	8.27E-03	AI661342	---	---	Mm.38280	PREDICTED: Mus musculus similar to HYPOTHETICAL PR	---	---
+1451794_at	2.49E+00	7.6484	5.1543	3.30E-04	8.27E-03	BC026867	Tmcc3	319880	Mm.23047	transmembrane and coiled coil domains 3	chr10 C2	---
+1448160_at	-1.65E+00	6.8466	8.4924	3.37E-04	8.38E-03	NM_008879	Lcp1	18826	Mm.153911	lymphocyte cytosolic protein 1	chr14 D3|14 42.0 cM	---
+1418344_at	1.27E+00	9.5932	8.3221	3.40E-04	8.42E-03	NM_021793	Tmem8	60455	Mm.304656	transmembrane protein 8 (five membrane-spanning do	chr17 B1	---
+1459327_at	-1.21E+00	6.5264	7.734	3.39E-04	8.42E-03	BB076113	4931406I20Rik	66743	Mm.318331	RIKEN cDNA 4931406I20 gene	chr4 D1	---
+1453328_at	2.12E+00	7.9196	5.8038	3.41E-04	8.45E-03	AW495672	2700008G24Rik	72545	Mm.32071	RIKEN cDNA 2700008G24 gene	chr14 C3	---
+1417883_at	-2.15E+00	6.8387	8.9906	3.43E-04	8.47E-03	BC012707	Gstt2	14872	Mm.24118	glutathione S-transferase, theta 2	chr10 B5-C1|10 40.9 cM	---
+1456292_a_at	-2.71E+00	7.2447	9.9512	3.44E-04	8.51E-03	AV147875	Vim	22352	Mm.268000	vimentin	chr2 A2|2 7.0 cM	Striated_muscle_contraction // GenMAPP
+1419076_a_at	-1.10E+00	9.6522	10.7509	3.46E-04	8.51E-03	NM_009765	Brca2	12190	Mm.236256	breast cancer 2	chr5 G3|5 84.0 cM	---
+1434723_at	-1.10E+00	6.636	7.7397	3.45E-04	8.51E-03	BF472685	AI426748	103206	---	expressed sequence AI426748	---	---
+1450905_at	-2.26E+00	8.0168	10.2719	3.45E-04	8.51E-03	BB476707	Plxnc1	54712	Mm.256712	plexin C1	chr10 C3	---
+1457356_at	-1.95E+00	6.7647	8.7113	3.50E-04	8.58E-03	BI793602	Igf2r	16004	Mm.26553	Insulin-like growth factor 2 receptor	chr17 A-C|17 7.35 cM	---
+1455033_at	1.06E+00	9.9806	8.9239	3.51E-04	8.60E-03	BB325849	B430201A12Rik	329739	Mm.69013	RIKEN cDNA B430201A12 gene	chr3 F3	---
+1429639_at	1.39E+00	9.0927	7.7063	3.53E-04	8.62E-03	AK009137	Prei4	74182	Mm.211211	preimplantation protein 4	chr2 F3	---
+1417890_at	-1.72E+00	7.1298	8.8459	3.54E-04	8.64E-03	NM_020271	Pdxp	57028	Mm.263169	pyridoxal (pyridoxine, vitamin B6) phosphatase	chr15 E1	---
+1420965_a_at	-1.92E+00	6.6197	8.5357	3.54E-04	8.64E-03	BM120053	Enc1	13803	Mm.241073	ectodermal-neural cortex 1	chr13 D1	---
+1451507_at	-1.51E+00	6.1256	7.6383	3.54E-04	8.64E-03	BB280300	Mef2c	17260	Mm.392750	myocyte enhancer factor 2C	chr13 C3|13 45.0 cM	---
+1437861_s_at	1.24E+00	7.4314	6.1957	3.56E-04	8.65E-03	BB335101	Prkce	18754	---	protein kinase C, epsilon	chr17 E4	---
+1439173_at	-1.49E+00	5.2365	6.723	3.56E-04	8.65E-03	AV240656	Hook1	77963	Mm.49994	hook homolog 1 (Drosophila)	chr4 C5|4 45.5 cM	---
+1456196_x_at	-2.15E+00	8.8952	11.0409	3.55E-04	8.65E-03	AV038603	Fkbp1a	14225	Mm.278458	FK506 binding protein 1a	chr2 G3	TGF_Beta_Signaling_Pathway // GenMAPP
+1422737_at	1.66E+00	8.4258	6.7682	3.58E-04	8.65E-03	NM_008679	Ncoa3	17979	Mm.1011	nuclear receptor coactivator 3	chr2 H2-H4	---
+1426784_at	2.71E+00	8.3329	5.6244	3.57E-04	8.65E-03	AV077293	Trim47	217333	Mm.347770	tripartite motif protein 47	chr11 E2	---
+1433795_at	-2.93E+00	7.8962	10.8232	3.58E-04	8.65E-03	BM122301	Tgfbr3	21814	Mm.200775	transforming growth factor, beta receptor III	chr5 E5	TGF_Beta_Signaling_Pathway // GenMAPP
+1440243_at	3.47E+00	9.353	5.8795	3.57E-04	8.65E-03	BB431014	Cpne7	102278	Mm.36434	copine VII	chr8 E1	---
+1458077_at	1.17E+00	9.322	8.154	3.58E-04	8.65E-03	BB525358	Baz2b	407823	Mm.228071	Bromodomain adjacent to zinc finger domain, 2B	chr2 C1.1	---
+1453053_at	-1.01E+00	8.6683	9.6781	3.61E-04	8.72E-03	BF453953	2610036L11Rik	66311	Mm.251779	RIKEN cDNA 2610036L11 gene	chr10 A4	---
+1455292_x_at	-2.00E+00	5.5083	7.5074	3.64E-04	8.78E-03	BE989616	Rsl1	380855	Mm.284988	Regulator of sex limited protein-Slp 1	chr13 B3	---
+1460370_at	-1.12E+00	7.2033	8.3223	3.64E-04	8.78E-03	AF362952	Top1mt	72960	Mm.182401	DNA topoisomerase 1, mitochondrial	chr15 E1	---
+1439935_at	-1.76E+00	5.2415	6.9969	3.66E-04	8.81E-03	BG067944	Tmem122	225922	Mm.26881	transmembrane protein 122	chr19 A	---
+1438032_at	-1.54E+00	6.7653	8.3054	3.67E-04	8.82E-03	BB755336	Lrch1	380916	Mm.288868	leucine-rich repeats and calponin homology (CH) do	chr14 D3	---
+1450409_a_at	1.38E+00	11.0075	9.6227	3.72E-04	8.91E-03	BC022913	4930570C03Rik	67739	Mm.28955	RIKEN cDNA 4930570C03 gene	chr15 F2	---
+1437406_x_at	-2.35E+00	6.2595	8.6115	3.74E-04	8.95E-03	BB787243	Igfbp4	16010	Mm.233799	insulin-like growth factor binding protein 4	chr11 D	Smooth_muscle_contraction // GenMAPP /// Smooth_muscle_contraction // GenMAPP
+1439502_at	1.06E+00	9.3831	8.3236	3.76E-04	9.00E-03	BM936645	4930573I19Rik	104859	---	RIKEN cDNA 4930573I19 gene	chr12 F1	---
+1438118_x_at	-2.70E+00	8.4641	11.1602	3.77E-04	9.00E-03	AV147875	Vim	22352	Mm.268000	vimentin	chr2 A2|2 7.0 cM	Striated_muscle_contraction // GenMAPP
+1452231_x_at	-2.19E+00	7.6871	9.8812	3.80E-04	9.06E-03	M74124	Ifi203	15950	Mm.261270	interferon activated gene 203	chr1 H3|1 95.31 cM	---
+1435527_at	1.53E+00	8.7376	7.2079	3.85E-04	9.16E-03	BB533448	Nfic	18029	Mm.5104	nuclear factor I/C	chr10 C1|10 43.0 cM	---
+1416956_at	-2.60E+00	6.7045	9.3033	3.86E-04	9.17E-03	U31908	Kcnab2	16498	Mm.388924	potassium voltage-gated channel, shaker-related su	chr4 E2|4 78.4 cM	---
+1434705_at	-2.22E+00	8.478	10.6987	3.86E-04	9.17E-03	BG072903	Ctbp2 /// Zranb1	13017 /// 360216	Mm.397069	C-terminal binding protein 2 /// zinc finger, RAN-	chr7 F3|7 66.0 cM /// chr7 F3	---
+1454269_s_at	-1.95E+00	5.9738	7.9248	3.88E-04	9.20E-03	AK015845	4930519L02Rik	75085	Mm.399271	RIKEN cDNA 4930519L02 gene	chr3 H1	---
+1419669_at	-2.23E+00	7.993	10.224	3.89E-04	9.21E-03	U97073	Prtn3	19152	Mm.2364	proteinase 3	chr10 C1|10 43.0 cM	---
+1441775_at	1.38E+00	7.4536	6.0686	3.90E-04	9.21E-03	BB748650	Wdr7	104082	Mm.30850	WD repeat domain 7	chr18 D1-E3	---
+1442757_at	-1.21E+00	6.9971	8.2093	3.90E-04	9.22E-03	AI552548	Lrch1	380916	Mm.288868	leucine-rich repeats and calponin homology (CH) do	chr14 D3	---
+1434600_at	-1.81E+00	5.7873	7.5925	3.93E-04	9.26E-03	BB758095	Tjp2	21873	Mm.104744	tight junction protein 2	---	---
+1458963_at	1.44E+00	8.0344	6.5965	3.93E-04	9.26E-03	BB397062	1810054D07Rik	69863	Mm.5540	RIKEN cDNA 1810054D07 gene	chr4 C3	---
+1448111_at	-1.26E+00	7.8131	9.0709	3.94E-04	9.28E-03	NM_018737	Ctps2	55936	Mm.2065	cytidine 5-triphosphate synthase 2	chrX F5	Pyrimidine metabolism // KEGG
+1433563_s_at	1.06E+00	10.8582	9.7998	3.95E-04	9.28E-03	AV310010	Derl1	67819	Mm.289387	Der1-like domain family, member 1	chr15 D2	---
+1418267_at	1.30E+00	8.0195	6.715	3.97E-04	9.29E-03	NM_008243	Mst1	15235	Mm.8369	macrophage stimulating 1 (hepatocyte growth factor	chr9 F2|9 60.0 cM	---
+1428333_at	-2.70E+00	5.2889	7.984	3.98E-04	9.31E-03	AK013740	2900062L11Rik	76976	Mm.328305	RIKEN cDNA 2900062L11 gene	chrX F1	---
+1424824_at	-1.49E+00	4.954	6.4432	3.99E-04	9.32E-03	BB704967	9630044O09Rik	105439	Mm.27548	RIKEN cDNA 9630044O09 gene	chr14 E2.3	---
+1423753_at	-1.13E+00	5.7459	6.8778	4.02E-04	9.38E-03	AF153440	Bambi	68010	Mm.284863	BMP and activin membrane-bound inhibitor, homolog	chr18 A1	TGF_Beta_Signaling_Pathway // GenMAPP
+1418712_at	2.11E+00	8.1586	6.045	4.04E-04	9.41E-03	NM_021454	Cdc42ep5	58804	Mm.34268	CDC42 effector protein (Rho GTPase binding) 5	chr7 A1	---
+1445952_at	1.60E+00	7.2942	5.6948	4.04E-04	9.41E-03	BG076125	Magi1	14924	Mm.217216	Membrane associated guanylate kinase, WW and PDZ d	chr6 D3	---
+1455422_x_at	-1.84E+00	6.6904	8.5314	4.06E-04	9.44E-03	AW208509	4-Sep	18952	Mm.2214	septin 4	chr11 C	---
+1435203_at	-1.80E+00	5.9234	7.7217	4.06E-04	9.44E-03	BB794673	Man2a2	140481	---	mannosidase 2, alpha 2	chr7 D2	---
+1417181_a_at	-1.54E+00	5.5962	7.137	4.07E-04	9.45E-03	AV213603	Kifap3	16579	Mm.4651	kinesin-associated protein 3	chr1 H1	---
+1437117_at	-1.38E+00	6.8314	8.2078	4.09E-04	9.47E-03	BB757196	Centb1	216859	Mm.288671	centaurin, beta 1	chr11 B3	---
+1450753_at	-1.88E+00	5.4666	7.3449	4.09E-04	9.47E-03	NM_024253	Nkg7	72310	Mm.34613	natural killer cell group 7 sequence	chr7 B2	---
+1415857_at	-2.33E+00	7.1756	9.5033	4.14E-04	9.57E-03	BG064842	Emb	13723	Mm.274926	embigin	chr13 D2.3	---
+1425388_a_at	-1.19E+00	7.3897	8.5818	4.17E-04	9.64E-03	BC023354	Tpk1	29807	Mm.320979	thiamin pyrophosphokinase	chr6 B2	---
+1428083_at	1.85E+00	10.5119	8.6584	4.17E-04	9.64E-03	AK018202	2310043N10Rik	66961	Mm.281895	RIKEN cDNA 2310043N10 gene	---	---
+1433490_s_at	-1.52E+00	6.8349	8.3594	4.21E-04	9.65E-03	BE951907		13822	Mm.306026	erythrocyte protein band 4.1-like 2	chr10 A4|10 18.0 cM	---
+1435705_at	-1.34E+00	5.2709	6.6156	4.21E-04	9.65E-03	BB305660	LOC232875	232875	Mm.333573	similar to hypothetical protein FLJ12895	chr7 A1	---
+1450698_at	-1.76E+00	5.6657	7.4284	4.19E-04	9.65E-03	L11330	Dusp2	13537	Mm.4729	dual specificity phosphatase 2	chr2 F1	Calcium signaling pathway // KEGG /// Apoptosis // KEGG /// Wnt signaling pathway // KEGG /// TGF-beta signaling pathway // KEGG /// Axon guidance // KEGG /// VEGF signaling pathway // KEGG /// Focal adhesion // KEGG /// Tight junction // KEGG /// T cell receptor signaling pathway // KEGG /// B cell receptor signaling pathway // KEGG /// Long-term potentiation // KEGG /// Long-term depression // KEGG /// Insulin signaling pathway // KEGG /// Cell adhesion molecules (CAMs) // KEGG /// Adherens junction // KEGG /// Jak-STAT signaling pathway // KEGG /// T cell receptor signaling pathway // KEGG /// B cell receptor signaling pathway // KEGG /// Leukocyte transendothelial migration // KEGG /// Insulin signaling pathway // KEGG /// Adipocytokine signaling pathway // KEGG /// Type I diabetes mellitus // KEGG /// Epithelial cell signaling in Helicobacter pylori // KEGG
+1452847_at	1.75E+00	8.4323	6.6829	4.20E-04	9.65E-03	AK010455	2410008K03Rik	71962	Mm.7852	RIKEN cDNA 2410008K03 gene	chr11 A1	---
+1416778_at	-2.70E+00	6.0749	8.771	4.25E-04	9.65E-03	BE197945	Sdpr	20324	Mm.255909	serum deprivation response	chr1 C1.1	---
+1424929_a_at	1.41E+00	8.0746	6.6653	4.24E-04	9.65E-03	AF230395	Trim26	22670	Mm.34587	tripartite motif protein 26	chr17 B1|17 20.4 cM	---
+1439824_at	-1.38E+00	7.6307	9.0141	4.22E-04	9.65E-03	BB263701	Chm	12662	---	choroidermia	chrX E1	---
+1440517_x_at	1.98E+00	7.3679	5.3849	4.24E-04	9.65E-03	BB667991	Cmah	12763	Mm.8396	cytidine monophospho-N-acetylneuraminic acid hydro	chr13 A3.2	---
+1448561_at	-1.58E+00	6.3456	7.9208	4.23E-04	9.65E-03	NM_010877	Ncf2	17970	Mm.270307	neutrophil cytosolic factor 2	chr1 G3|1 76.1 cM	---
+1418146_a_at	1.09E+00	9.5603	8.4698	4.30E-04	9.75E-03	NM_011250	Rbl2 /// LOC635075	19651 /// 635075	Mm.235580	retinoblastoma-like 2 /// similar to retinoblastom	chr8 C5|8 40.99 cM	---
+1436614_at	1.20E+00	11.0001	9.799	4.31E-04	9.75E-03	AI843639	AI843639	106945	---	expressed sequence AI843639	---	---
+1442956_at	1.46E+00	8.1287	6.6649	4.32E-04	9.75E-03	BG075869	Ppp1r13b	21981	Mm.313076	Protein phosphatase 1, regulatory (inhibitor) subu	chr12 F2	---
+1448511_at	-2.21E+00	7.3641	9.5717	4.32E-04	9.75E-03	NM_016933	Ptprcap	19265	Mm.329686	protein tyrosine phosphatase, receptor type, C pol	chr19 B|19 0.5 cM	Ribosomal_Proteins // GenMAPP /// Ribosomal_Proteins // GenMAPP /// Ribosomal_Proteins // GenMAPP
+1422780_at	1.07E+00	9.3292	8.2613	4.38E-04	9.88E-03	NM_021534	Pxmp4	59038	Mm.24673	peroxisomal membrane protein 4	chr2 H2	---
+1424650_at	-2.13E+00	6.1207	8.2552	4.38E-04	9.88E-03	BC009151	Pdia5	72599	Mm.71015	protein disulfide isomerase associated 5	chr16 B3	---
+1442691_at	1.02E+00	7.6618	6.6417	4.45E-04	1.00E-02	BE852159	---	---	Mm.407332	0 day neonate lung cDNA, RIKEN full-length enriche	---	---
+1434330_at	1.39E+00	10.1088	8.7178	4.47E-04	1.00E-02	BB540721	Lrrc35	272589	Mm.34483	leucine rich repeat containing 35	chr9 A5.1	---
+1437722_x_at	1.12E+00	8.7454	7.6223	4.48E-04	1.00E-02	BB559884	Pcbp3	59093	Mm.272803	Poly(rC) binding protein 3	chr10 B5.1-B5.3	mRNA_processing_binding_Reactome // GenMAPP /// mRNA_processing_binding_Reactome // GenMAPP
+1450792_at	-1.93E+00	7.483	9.4087	4.47E-04	1.00E-02	NM_011662	Tyrobp	22177	Mm.46301	TYRO protein tyrosine kinase binding protein	chr7 B|7 10.0 cM	---

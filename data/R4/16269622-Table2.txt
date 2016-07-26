@@ -1,0 +1,32 @@
+Genes	Description	FeatureID	Average log 2 ratio PECs, Unt vs LPS	TAMs, Unt vs LPS	TAM-LPS vs PEC-LPS	Functional Category
+Tnf	Tumor necrosis factor	1327679	3.57	1.62	0.20	Cytokines/chemokines/growthfactors
+Il1b	Interleukin 1 beta	1139544	4.94	2.18	0.14	Cytokines/chemokines/growthfactors
+Saa3	Serum amyloid A 3	1264951	2.85	1.78	0.21	Cytokines/chemokines/growthfactors
+Ccl3	Chemokine (C-C motif) ligand 3	751833	4.94	2.53	0.08	Cytokines/chemokines/growthfactors
+Ccl5	Chemokine (C-C motif) ligand 5	832342	4.35	4.54	2.71	Cytokines/chemokines/growthfactors
+Ccl6	Chemokine (C-C motif) ligand 6	1077529	4.04	0.30	0.14	Cytokines/chemokines/growthfactors
+Ccl9	Chemokine (C-C motif) ligand 9	1148463	2.61	0.30	0.14	Cytokines/chemokines/growthfactors
+Cxcl10	Chemokine (C-X-C motif) ligand 10	1446589	3.99	3.48	2.55	Cytokines/chemokines/growthfactors
+Tgfbi	Transforming growth factor, beta induced	734101	3.20	1.80	9.45	Cytokines/chemokines/growthfactors
+Il12b	Interleukin 12 beta	RT-PCR	11059.75	151.70	0.01	Cytokines/chemokines/growthfactors
+Il10	Interleukin 10	RT-PCR	4.31	12.37	2.87	Cytokines/chemokines/growthfactors
+Sod2	Superoxide dismutase 2, mitochondrial	791140	2.26	1.10	0.34	ROI/RNImetabolism
+Nos2	Nitric oxide synthase 2, inducible, macrophage	922250	3.57	4.11	1.16	ROI/RNImetabolism
+Atox1	ATX1 (antioxidant protein 1) homolog 1 (yeast)	479066	1.74	0.69	0.83	ROI/RNImetabolism
+Mt1	Metallothionein 1	1037652	3.43	0.48	1.05	ROI/RNImetabolism
+Mt2	Metallothionein 2	334351	3.58	1.30	0.45	ROI/RNImetabolism
+Lyzs	Lysozyme	1382758	1.52	0.32	0.22	ROI/RNImetabolism
+Il17r	Interleukin 17 receptor	1139646	2.31	0.23	0.18	Surfacemolecules/receptors
+Tnfrsf1b	Tumor necrosis factor receptor superfamily, member 1b	437512	4.54	3.22	0.30	Surfacemolecules/receptors
+Tnfrsf5	Tumor necrosis factor receptor superfamily, member 5	477641	2.77	2.13	0.41	Surfacemolecules/receptors
+Ccrl2	Chemokine (C-C motif) receptor-like 2	442765	2.40	2.22	0.38	Surfacemolecules/receptors
+Icam1	Intercellular adhesion molecule	1045389	2.13	1.13	1.18	Surfacemolecules/receptors
+Nfkbib	Nuclear factor of kappa light chain gene enhancer in B-cells inhibitor, beta	946105	2.47	1.55	0.75	Signaling molecules/transcription factors
+Socs3	Suppressor of cytokine signaling 3	988726	3.71	2.14	0.30	Signaling molecules/transcription factors
+Stat3	Signal transducer and activator of transcription 3	479013	1.43	2.05	0.68	Signaling molecules/transcription factors
+Tbx6	T-box 6	1446422	3.27	3.32	0.46	Signaling molecules/transcription factors
+Irf1	Interferon regulatory factor 1	1344724	1.50	0.2	0.45	Signaling molecules/transcription factors
+Irf7	Interferon regulatory factor 7	1430219	2.54	1.61	0.62	Signaling molecules/transcription factors
+Slpi	Secretory leukocyte protease inhibitor	1367299	2.46	0.12	0.12	Proteases and their inhibitors
+Timp1	Tissue inhibitor of metalloproteinase 1	622732	3.73	0.31	0.08	Proteases and their inhibitors
+Mmp14	Matrix metalloproteinase 14 (membrane-inserted)	1209994	2.38	1.15	0.90	Proteases and their inhibitors

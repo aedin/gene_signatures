@@ -1,0 +1,66 @@
+GO-term	Name	P-value	Functional category
+GO:0007610	behavior (23)	3.34E-03	BP
+GO:0006935	chemotaxis (16)	7.53E-03	BP
+GO:0042330	taxis (16)	7.53E-03	BP
+GO:0007626	locomotory behavior (16)	8.62E-03	BP
+GO:0030001	metal ion transport (30)	5.83E-03	BP
+GO:0006811	ion transport (53)	2.66E-03	BP
+GO:0004984	olfactory receptor activity (9)	3.82E-06	MF
+GO:0006813	potassium ion transport (16)	1.87E-03	BP
+GO:0004888	transmembrane receptor activity (70)	1.37E-04	MF
+GO:0007606	sensory perception of chemical stimulus (13)	9.77E-09	BP
+GO:0051869	physiological response to stimulus (94)	8.55E-05	BP
+GO:0050874	organismal physiological process (125)	8.02E-03	BP
+GO:0050877	neurophysiological process (51)	5.28E-04	BP
+GO:0007600	sensory perception (37)	2.25E-05	BP
+GO:0007166	cell surface receptor linked signal transduction (100)	3.90E-05	BP
+GO:0043169	cation binding (231)	9.27E-04	MF
+GO:0043167	ion binding (246)	6.19E-03	MF
+GO:0046872	metal ion binding (242)	6.75E-03	MF
+GO:0031224	intrinsic to membrane (247)	2.30E-03	CC
+GO:0016021	integral to membrane (244)	4.56E-03	CC
+GO:0016020	membrane (316)	7.44E-03	CC
+GO:0005509	calcium ion binding (76)	6.43E-06	MF
+GO:0007186	G-protein coupled receptor protein signaling pathway (47)	7.57E-03	BP
+GO:0004930	G-protein coupled receptor activity (35)	3.51E-03	MF
+GO:0005216	ion channel activity (27)	8.90E-04	MF
+GO:0015268	alpha-type channel activity (27)	2.38E-03	MF
+GO:0015267	channel or pore class transporter activity (27)	4.61E-03	MF
+GO:0001584	rhodopsin-like receptor activity (30)	8.74E-04	MF
+GO:0006836	neurotransmitter transport (7)	6.94E-03	BP
+GO:0005244	voltage-gated ion channel activity (16)	3.12E-03	MF
+GO:0007126	meiosis (9)	6.36E-03	BP
+GO:0051327	M phase of meiotic cell cycle (9)	6.36E-03	BP
+GO:0051321	meiotic cell cycle (9)	9.14E-03	BP
+GO:0005212	structural constituent of eye lens (3)	7.44E-03	MF
+GO:0007416	synaptogenesis (5)	7.25E-03	BP
+GO:0008527	taste receptor activity (4)	8.18E-05	MF
+GO:0031225	anchored to membrane (3)	3.10E-03	CC
+GO:0046658	anchored to plasma membrane (3)	3.10E-03	CC
+GO:0042744	hydrogen peroxide catabolism (3)	7.29E-03	BP
+GO:0042743	hydrogen peroxide metabolism (3)	7.29E-03	BP
+GO:0043560	insulin receptor substrate binding (2)	9.07E-03	MF
+GO:0000506	glycosylphosphatidylinositol-N-acetylglucosaminyltransferase (GPI-GnT) complex (2)	8.87E-03	CC
+GO:0006814	sodium ion transport (9)	4.00E-03	BP
+GO:0015267	channel or pore class transporter activity (18)	2.14E-03	MF
+GO:0005216	ion channel activity (17)	1.79E-03	MF
+GO:0015268	alpha-type channel activity (17)	3.26E-03	MF
+GO:0045449	regulation of transcription (92)	4.68E-03	BP
+GO:0006355	regulation of transcription, DNA-dependent (90)	1.88E-03	BP
+GO:0019219	regulation of nucleobase, nucleoside, nucleotide and nucleic acid metabolism (96)	2.68E-03	BP
+GO:0006350	transcription (96)	4.38E-03	BP
+GO:0006351	transcription, DNA-dependent (94)	1.06E-03	BP
+GO:0006139	nucleobase, nucleoside, nucleotide and nucleic acid metabolism (141)	2.59E-03	BP
+GO:0003677	DNA binding (90)	8.46E-04	MF
+GO:0003676	nucleic acid binding (121)	7.69E-03	MF
+GO:0005488	binding (353)	9.02E-03	MF
+GO:0045892	negative regulation of transcription, DNA-dependent (11)	9.30E-03	BP
+GO:0005230	extracellular ligand-gated ion channel activity (6)	5.17E-03	MF
+GO:0015276	ligand-gated ion channel activity (7)	6.65E-03	MF
+GO:0044456	synapse part (9)	4.87E-04	CC
+GO:0045211	postsynaptic membrane (8)	1.04E-03	CC
+GO:0045202	synapse (11)	3.86E-03	CC
+GO:0005253	anion channel activity (5)	7.94E-03	MF
+GO:0009268	response to pH (2)	7.83E-03	BP
+GO:0003704	specific RNA polymerase II transcription factor activity (5)	6.63E-03	MF
+GO:0004103	choline kinase activity (2)	7.65E-03	MF

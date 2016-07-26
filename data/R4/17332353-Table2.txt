@@ -1,0 +1,162 @@
+No.	Gene Description	Gene Symbol	S2N Score	T test (P)	Correlation with IC50	Modulated by dasatinib
+1	Jagged 1 (Alagille syndrome)	JAG1	1.67	1.80E-06	-0.59	Decreased
+2	Uridine phosphorylase 1	UPP1	1.64	1.60E-04	-0.45
+3	Polymerase I and transcript release factor	PTRF	1.58	4.30E-05	-0.48	Decreased
+4	Parvin, a	PARVA	1.58	4.80E-06	-0.76
+5	Leprecan-like 1	LEPREL1	1.56	8.00E-05	-0.52
+6	IFN, g-inducible protein 16	IFI16	1.54	6.80E-06	-0.54	Increased
+7	Snail homologue 2 (Drosophila)	SNAI2	1.52	2.00E-05	-0.62
+8	Caveolin 2	CAV2	1.47	3.50E-05	-0.48	Decreased
+9	Coagulation factor III (thromboplastin, tissue factor)	F3	1.38	3.20E-03	-0.64
+10	Proteasome (prosome, macropain) subunit, h type, 8 (large multifunctional protease 7)	PSMB8	1.33	1.00E-04	-0.52
+11	227361_at		1.3	9.90E-03	-0.54
+12	Alkylglycerone phosphate synthase	AGPS	1.3	8.10E-04	-0.55	Decreased
+13	Moesin	MSN	1.29	1.30E-04	-0.43
+14	Aldo-keto reductase family 1, member C3 (3-a hydroxysteroid dehydrogenase, type II)	AKR1C3	1.28	4.00E-05	-0.68	Increased
+15	tumor necrosis factor receptor superfamily, member 21	TNFRSF21	1.28	5.70E-05	-0.59
+16	Annexin A1	ANXA1	1.24	8.80E-04	-0.4	Decreased
+17	Potassium channel tetramerization domain containing 12	KCTD12	1.23	5.10E-03	-0.45
+18	Ras-related C3 botulinum toxin substrate 2 (rho family, small GTP-binding protein Rac2)	RAC2	1.2	6.70E-03	-0.5
+19	Caveolin 1, caveolae protein, 22kDa	CAV1	1.2	4.30E-04	-0.49	Decreased
+20	EPH receptor B2	EPHB2	1.19	1.80E-05	-0.61
+21	Nicotinamide N-methyltransferase	NNMT	1.18	4.30E-03	-0.48	Increased
+22	La ribonucleoprotein domain family, member 6	LARP6	1.17	1.30E-03	-0.46
+23	Proteasome (prosome, macropain) subunit, h type 9 (large multifunctional protease 2)	PSMB9	1.16	1.20E-04	-0.51
+24	Follistatin-like 1	FSTL1	1.14	1.70E-04	-0.49
+25	Anthrax toxin receptor 2	ANTXR2	1.14	3.00E-04	-0.51
+26	Arginine/proline-rich coiled-coil 1	RPRC1	1.13	3.10E-05	-0.51
+27	Exostoses (multiple) 1	EXT1	1.13	7.00E-03	-0.47
+28	Coagulation factor II (thrombin) receptor–like 1	F2RL1	1.12	6.40E-06	-0.62
+29	Inositol polyphosphate-1-phosphatase	INPP1	1.11	2.50E-03	-0.57
+30	Dihydropyrimidine dehydrogenase	DPYD	1.1	2.00E-03	-0.47
+31	FXYD domain containing ion transport regulator 5	FXYD5	1.1	1.80E-05	-0.57
+32	Layilin	LOC143903	1.09	5.00E-03	-0.53
+33	Similar to solute carrier family 16 (monocarboxylic acid transporters), member 14	LOC346887	1.09	2.90E-03	-0.5
+34	Sterile a motif domain containing 9–like	SAMD9L	1.07	1.80E-05	-0.48
+35	Zinc finger protein	ZNF559	1.04	2.10E-05	-0.48
+36	Transforming growth factor, h-induced (68 kDa)	TGFBI	1.01	1.70E-03	-0.53
+37	KIAA1949	KIAA1949	1.01	5.40E-03	-0.46
+38	Prion protein (p27-30; Creutzfeld-Jakob disease, Gerstmann-Stra¨ussler-Scheinker syndrome, fatal familial insomnia)	PRNP	1.01	1.30E-03	-0.48
+39	Rho GTPase activating protein 29	ARHGAP29	1	1.60E-03	-0.61	Decreased
+40	Oncostatin M receptor	OSMR	0.99	2.10E-04	-0.43
+41	Surfactant-associated protein F mRNA, partial sequence		0.99	7.30E-03	-0.42
+42	Retinoic acid–induced 14	RAI14	0.98	3.30E-03	-0.41
+43	Laminin, h3	LAMB3	0.98	2.30E-03	-0.58
+44	ELK3, ETS domain protein (SRF accessory protein 2)	ELK3	0.98	9.20E-04	-0.47
+45	Suppressor of cytokine signaling 5	SOCS5	0.98	2.00E-03	-0.48
+46	Caldesmon 1	CALD1	0.97	2.90E-03	-0.44
+47	BH-protocadherin (brain-heart)	PCDH7	0.97	2.10E-03	-0.64
+48	Epithelial protein lost in neoplasm h	EPLIN	0.96	1.20E-03	-0.67	Decreased
+49	Popeye domain containing 3	POPDC3	0.96	3.00E-03	-0.41
+50	Coactosin-like 1 (Dictyostelium)	COTL1	0.96	6.20E-04	-0.41	Decreased
+51	Ubiquitin-conjugating enzyme E2E 3 (UBC4/5 homologue, yeast)	UBE2E3	0.95	1.90E-04	-0.46
+52	Plasminogen activator, urokinase	PLAU	0.94	7.30E-03	-0.49
+53	Epidermal growth factor receptor	EGFR	0.94	1.80E-03	-0.56	Decreased
+54	Receptor-interacting serine-threonine kinase 4	RIPK4	0.94	4.20E-03	-0.67
+55	Butyrophilin, subfamily 3, member A3/member A2	BTN3A3/A2	0.93	2.90E-04	-0.59	Increased
+56	Tissue factor pathway inhibitor (lipoprotein-associated coagulation inhibitor)	TFPI	0.93	6.40E-03	-0.41
+57	Met proto-oncogene (hepatocyte growth factor receptor)	MET	0.92	2.70E-04	-0.51	Decreased
+58	Guanylate-binding protein 3	GBP3	0.92	5.80E-03	-0.49
+59	SH3-domain kinase binding protein 1	SH3KBP1	0.92	7.10E-04	-0.42
+60	Suppression of tumorigenicity 5	ST5	0.92	1.70E-03	-0.5
+61	Interleukin 15 receptor, a	IL15RA	0.92	1.40E-03	-0.44
+62	Calpastatin	CAST	0.91	5.60E-04	-0.67
+63	Collagen, type V, a1	COL5A1	0.9	6.60E-03	-0.43
+64	Kinetochore-associated 2	KNTC2	0.89	1.10E-03	-0.4
+65	Dual-specificity phosphatase 10	DUSP10	0.89	7.10E-04	-0.53
+66	EPH receptor A2	EPHA2	0.89	7.80E-05	-0.58	Decreased
+67	Small fragment nuclease	DKFZP566E144	0.89	1.70E-03	-0.51
+68	Butyrophilin, subfamily 3, member A2	BTN3A2	0.89	5.10E-04	-0.52
+69	v-yes-1 Yamaguchi sarcoma viral-related oncogene homologue	LYN	0.88	9.50E-03	-0.42
+70	Myosin X	MYO10	0.88	3.50E-03	-0.54	Decreased
+71	Guanine nucleotide–binding protein (G protein), g12	GNG12	0.85	5.30E-04	-0.5
+72	Discoidin, CUB and LCCL domain containing 2	DCBLD2	0.85	1.20E-04	-0.47	Decreased
+73	Mastermind-like 2 (Drosophila)	MAML2	0.85	1.60E-03	-0.47
+74	Transforming growth factor, h receptor II (70/80 kDa)	TGFBR2	0.85	6.00E-04	-0.49
+75	Phosphoglucomutase 1	PGM1	0.84	5.60E-03	-0.45	Increased
+76	Platelet-derived growth factor C	PDGFC	0.84	1.40E-04	-0.59	Decreased
+77	Integrin, a5 ( fibronectin receptor, a-polypeptide)	ITGA5	0.82	3.50E-03	-0.4
+78	Chromosome 3 open reading frame 6	C3orf6	0.82	3.20E-03	-0.42
+79	IFN-induced protein with tetratricopeptide repeats 3	IFIT3	0.82	8.10E-04	-0.45
+80	Elongation factor, RNA polymerase II, 2	ELL2	0.81	1.70E-03	-0.44
+81	PALM2-AKAP2 protein	PALM2-AKAP2	0.81	1.20E-03	-0.48	Decreased
+82	CDC42 effector protein (Rho GTPase binding) 3	CDC42EP3	0.81	1.10E-03	-0.61	Decreased
+83	Zyxin	ZYX	0.8	1.00E-02	-0.58
+84	Solute carrier family 1 (glial high affinity glutamate	SLC1A2	-1.77	1.80E-06	0.64
+85	Chromobox homologue 5 (HP1 a homologue, Drosophila)	CBX5	-1.53	1.50E-04	0.79
+86	239292_at	NA	-1.52	9.30E-05	0.58
+87	Degenerative spermatocyte homologue 2,	DEGS2	-1.45	3.70E-05	0.63
+88	Claudin 3	CLDN3	-1.44	1.10E-04	0.52
+89	KIAA0984 protein	KIAA0984	-1.43	2.80E-04	0.42
+90	Phospholipase C, h4	PLCB4	-1.43	6.50E-05	0.55
+91	SH3-binding domain kinase 1	SBK1	-1.43	5.60E-05	0.68
+92	Islet cell autoantigen 1 (69 kDa)	ICA1	-1.4	4.60E-03	0.67
+93	Carbonic anhydrase XII	CA12	-1.33	2.50E-04	0.63
+94	Tumor protein D52	TPD52	-1.32	2.50E-05	0.51
+95	ATP-binding cassette, subfamily A (ABC1), member 3	ABCA3	-1.31	8.80E-06	0.76
+96	KIAA1324	KIAA1324	-1.31	1.10E-04	0.41
+97	DORA reverse strand protein 1	DREV1	-1.23	2.30E-05	0.62
+98	Ret finger protein 2	RFP2	-1.21	8.40E-03	0.6
+99	Solute carrier family 38, member 1 transporter), member 2 lipid desaturase (Drosophila)	SLC38A1	-1.14	2.20E-03	0.48
+100	Cyclic AMP-responsive element binding protein 3–like 4	CREB3L4	-1.14	3.40E-03	0.42
+101	Chromosome 17 open reading frame 28	C17orf28	-1.14	7.60E-03	0.41
+102	Cisplatin resistance–associated overexpressed protein	CROP	-1.11	4.20E-03	0.61
+103	Phospholipase C–like 3	PLCL3	-1.11	6.20E-04	0.42
+104	Abhydrolase domain containing 11	ABHD11	-1.09	9.20E-04	0.54
+105	230085_at		-1.09	5.20E-05	0.57
+106	Arg/Abl-interacting protein ArgBP2	ARGBP2	-1.08	4.40E-03	0.54
+107	Solute carrier family 35 (CMP-sialic acid transporter), member A1	SLC35A1	-1.08	1.10E-04	0.64
+108	Solute carrier family 16 (monocarboxylic acid transporters), member 6	SLC16A6	-1.03	1.50E-03	0.51
+109	FLJ21963 protein	FLJ21963	-1.02	7.40E-04	0.41
+110	ATP-binding cassette, subfamily G (WHITE), member 1	ABCG1	-1.02	9.70E-04	0.49
+111	Cytochrome b-561	CYB561	-1.02	3.10E-03	0.44
+112	Achaete-scute complex-like 2 (Drosophila)	ASCL2	-1.02	1.20E-04	0.5
+113	Insulin-like growth factor binding protein 2 (36 kDa)	IGFBP2	-1.01	9.90E-03	0.53
+114	Prolactin receptor	PRLR	-1.01	1.70E-03	0.44
+115	Glycerol-3-phosphate dehydrogenase 1-like	GPD1L	-1.01	6.40E-04	0.41
+116	Junctophilin 1	JPH1	-1	7.30E-05	0.43
+117	Epidermal growth factor receptor pathway substrate 15–like 1	EPS15L1	-0.99	1.80E-03	0.67
+118	Programmed cell death 4 (neoplastic transformation inhibitor)	PDCD4	-0.98	7.20E-04	0.5	Increased
+119	Microtubule-associated protein H	MAPT	-0.98	2.50E-04	0.65
+120	Chromosome 14 open reading frame 83	C14orf83	-0.97	4.20E-04	0.54
+121	Isochorismatase domain containing 1	ISOC1	-0.96	1.00E-03	0.46
+122	Aristaless-related homeobox	ARX	-0.95	3.70E-04	0.5
+123	Trichorhinophalangeal syndrome I	TRPS1	-0.95	1.80E-04	0.55
+124	239847_at		-0.95	1.60E-03	0.43
+125	Vacuolar protein sorting 37C (yeast)	VPS37C	-0.95	5.10E-03	0.56
+126	LAG1 longevity assurance homologue 6 (S. cerevisiae)	LASS6	-0.94	1.20E-03	0.47
+127	Scavenger receptor class B, member 1	SCARB1	-0.94	6.60E-03	0.42
+128	Phosphatidylinositol 3,4,5-trisphosphate-dependent RAC exchanger 1	PREX1	-0.94	2.00E-03	0.46
+129	225996_at		-0.94	2.00E-03	0.49
+130	Cholinergic receptor, muscarinic 1	CHRM1	-0.94	9.50E-05	0.52
+131	GREB1 protein	GREB1	-0.93	1.50E-03	0.55
+132	Choline phosphotransferase 1	CHPT1	-0.92	3.40E-04	0.72
+133	Eukaryotic translation initiation factor 4E member 3	EIF4E3	-0.91	7.40E-03	0.58
+134	Ubiquitin-like 3	UBL3	-0.91	7.40E-03	0.52
+135	Spinster	SPIN1	-0.9	5.20E-03	0.62
+136	Calmodulin 1 (phosphorylase kinase, y)	CALM1	-0.9	3.90E-03	0.48
+137	Hypothetical LOC131076	LOC131076	-0.9	9.30E-03	0.54
+138	Phosphoinositide-3-kinase–related kinase SMG-1-like	DKFZp547E087	-0.9	1.40E-03	0.52
+139	Myelin expression factor 2	MYEF2	-0.9	7.90E-03	0.59
+140	Solute carrier family 25 (mitochondrial carrier; ornithine transporter) member 15	SLC25A15	-0.89	6.10E-03	0.62
+141	Chromosome 6 open reading frame 108	C6orf108	-0.88	1.00E-03	0.67
+142	YME1-like 1 (S. cerevisiae)	YME1L1	-0.87	2.10E-03	0.5
+143	Williams-Beuren syndrome, critical region protein 20 copy B	WBSCR20B	-0.86	1.20E-03	0.59
+144	239065_at		-0.85	9.40E-03	0.52
+145	Acyl-CoA synthetase long-chain family member 3	ACSL3	-0.84	8.20E-03	0.58
+146	230991_at		-0.84	2.90E-03	0.43
+147	Trefoil factor 1 (breast cancer, estrogen-inducible sequence expressed in)	TFF1	-0.84	6.20E-04	0.45	Increased
+148	Epithelial membrane protein 2	EMP2	-0.84	1.00E-02	0.47
+149	Chromosome 14 open reading frame 93	C14orf93	-0.83	5.10E-04	0.52
+150	START domain containing 10	STARD10	-0.83	8.90E-04	0.43	Increased
+151	Ceroid-lipofuscinosis, neuronal 3, juvenile (Batten, Spielmeyer-Vogt disease)	CLN3	-0.83	1.60E-03	0.49
+152	Ras homologue gene family, member B	RHOB	-0.82	3.10E-03	0.42	Increased
+153	Erythrocyte membrane protein band 4.1–like 5	EPB41L5	-0.81	7.80E-03	0.41
+154	Iroquois homeobox protein 5	IRX5	-0.8	1.00E-02	0.51
+155	Hypothetical protein LOC92482	LOC92482	-0.8	8.20E-03	0.48	Increased
+156	CDC42 small effector 1	CDC42SE1	-0.8	1.00E-02	0.5
+157	Pleckstrin homology domain containing, family H (with MyTH4 domain) member 1	PLEKHH1	-0.79	7.50E-05	0.56
+158	EGF-like domain, multiple 5	EGFL5	-0.79	1.00E-02	0.52
+159	239319_at		-0.78	1.50E-03	0.42
+160	Transducer of ERBB2, 1	TOB1	-0.78	3.90E-03	0.42	Increased
+161	Crn, crooked neck-like 1 (Drosophila)	CRNKL1	-0.77	1.50E-03	0.44

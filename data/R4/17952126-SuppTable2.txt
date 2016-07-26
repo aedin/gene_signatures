@@ -1,0 +1,652 @@
+Probeset ID	Gene symbol	Description	FC (log2ratio)	Function
+218756_s_at	DHR11_HUMAN	Dehydrogenase/reductase SDR family member 11 precursor	-1.88	metabolism
+219973_at	ARSJ	arylsulfatase J	-1.85	metabolism
+211715_s_at	BDH1	D-beta-hydroxybutyrate dehydrogenase, mitochondrial precursor	-1.83	metabolism
+218170_at	ISOC1	isochorismatase domain containing 1	-1.19	metabolism
+205379_at	CBR3	Carbonyl reductase [NADPH] 3	-1.15	metabolism
+213279_at	DHRS1	Dehydrogenase/reductase SDR family member 1	-1.04	metabolism
+203974_at	HDHD1A	Haloacid dehalogenase-like hydrolase domain containing protein 1A	-1.02	metabolism
+218893_at	ISOC2	isochorismatase domain containing 2	-1.01	metabolism
+218773_s_at	MSRB2	Methionine-R-sulfoxide reductase B2	-1.78	protein metabolism
+212128_s_at	DAG1	Dystroglycan precursor (Dystrophin-associated glycoprotein 1)	-1.25	protein metabolism
+207618_s_at	BCS1L	Mitochondrial chaperone BCS1 (BCS1-like protein) (H-BCS1).	-1.07	protein metabolism
+209264_s_at	TSPAN4	Tetraspanin-4 (Novel antigen 2)	-1.06	protein metabolism
+214913_at	ADAMTS3	ADAMTS-3 precursor (A disintegrin and metalloproteinase with thrombospondin motifs 3)	-2.08	proteolysis
+202458_at	PRSS23	Serine protease 23 precursor (Putative secreted protein ZSIG13).	-1.93	proteolysis
+213790_at	ADAM12	ADAM 12 precursor (A disintegrin and metalloproteinase domain 12)	-1.64	proteolysis
+211668_s_at	PLAU	Urokinase-type plasminogen activator precursor	-1.54	proteolysis
+201487_at	CTSC	Dipeptidyl-peptidase I precursor (Cathepsin C) (Cathepsin J)	-1.44	proteolysis
+219443_at	TASP1	Threonine aspartase 1	-1.3	proteolysis
+202604_x_at	ADAM10	ADAM 10 precursor (A disintegrin and metalloproteinase domain 10)	-1.11	proteolysis
+207414_s_at	PCSK6	Proprotein convertase subtilisin/kexin type 6 precursor	-1.09	proteolysis
+202627_s_at	SERPINE1	Plasminogen activator inhibitor-1 precursor (Endothelial plasminogen activator inhibitor)	-1.01	proteolysis
+203702_s_at	TTLL4	Tubulin tyrosine ligase-like protein 4.	-2.01	protein modification
+219373_at	DPM3	Dolichol-phosphate mannosyltransferase subunit 3	-2.01	protein modification
+219956_at	GALNT6	Polypeptide N-acetylgalactosaminyltransferase 6	-1.9	protein modification
+219649_at	ALG6	Dolichyl pyrophosphate Man9GlcNAc2 alpha-1,3-glucosyltransferase	-1.83	protein modification
+204764_at	FNTB	Protein farnesyltransferase beta subunit	-1.56	protein modification
+203570_at	LOXL1	Lysyl oxidase homolog 1 precursor	-1.55	protein modification
+214006_s_at	GGCX	Vitamin K-dependent gamma-carboxylase (Gamma-glutamyl carboxylase)	-1.54	protein modification
+215884_s_at	UBQLN2	Ubiquilin-2 (Protein linking IAP with cytoskeleton-2)	-1.4	protein modification
+203545_at	ALG8	Probable dolichyl pyrophosphate Glc1Man9GlcNAc2 alpha-1,3- glucosyltransferase	-1.3	protein modification
+201609_x_at	ICMT	Protein-S-isoprenylcysteine O-methyltransferase	-1.25	protein modification
+205571_at	LIPT1	Lipoyltransferase 1, mitochondrial precursor	-1.17	protein modification
+208940_at	SEPHS1	Selenide, water dikinase 1	-1.17	protein modification
+209892_at	FUT4	Alpha-(1,3)-fucosyltransferase (Galactoside 3-L- fucosyltransferase)	-1.17	protein modification
+218801_at	UGCGL2	UDP-glucose:glycoprotein glucosyltransferase 2 precursor	-1.21	protein modification
+203759_at	ST3GAL4	CMP-N-acetylneuraminate-beta-galactosamide-alpha-2,3-sialyltransferase	-1.2	protein modification
+209391_at	DPM2	Dolichol phosphate-mannose biosynthesis regulatory protein.	-1.2	protein modification
+201618_x_at	GPAA1	Glycosylphosphatidylinositol anchor attachment 1 protein (GPI anchor attachment protein 1)	-1.1	protein modification
+219408_at	ANMX_HUMAN	Protein arginine N-methyltransferase	-1.06	protein modification
+200988_s_at	PSME3	Proteasome activator complex subunit 3 (Proteasome activator 28-gamma subunit)	-2.3	ubiquitin cycle (protein modification)
+215068_s_at	FBXL18	F-box/LRR-repeat protein 18 (F-box and leucine-rich repeat protein 18).	-1.91	ubiquitin cycle (protein modification)
+218875_s_at	FBXO5	F-box only protein 5 (Early mitotic inhibitor 1).	-1.89	ubiquitin cycle (protein modification)
+204279_at	PSMB9	Proteasome subunit beta type 9 precursor (Proteasome chain 7)	-1.6	ubiquitin cycle (protein modification)
+202659_at	PSMB10	Proteasome subunit beta type 10 precursor (Proteasome MECl-1)	-1.59	ubiquitin cycle (protein modification)
+219641_at	DET1	DET1 homolog (De-etiolated-1 homolog).	-1.41	ubiquitin cycle (protein modification)
+205356_at	USP13	Ubiquitin carboxyl-terminal hydrolase 13 (Ubiquitin thiolesterase 13)	-1.21	ubiquitin cycle (protein modification)
+212987_at	FBXO9	F-box only protein 9 (NY-REN-57 antigen) (Cross-immune reaction antigen 1).	-1.19	ubiquitin cycle (protein modification)
+221044_s_at	TRIM6	Tripartite motif protein 6 (RING finger protein 89).	-1.16	ubiquitin cycle (protein modification)
+219211_at	USP18	Ubl carboxyl-terminal hydrolase 18	-1.08	ubiquitin cycle (protein modification)
+205596_s_at	SMURF2	Smad ubiquitination regulatory factor 2 (Ubiquitin-- protein ligase SMURF2)	-1.02	ubiquitin cycle (protein modification)
+212448_at	NEDD4L	E3 ubiquitin-protein ligase NEDD4-like protein	-1.01	ubiquitin cycle (protein modification)
+204284_at	PPP1R3C	protein phosphatase 1, regulatory (inhibitor) subunit 3C	-2.67	protein amino acid dephosphorylation (protein modification)
+203555_at	PTPN18	Tyrosine-protein phosphatase non-receptor type 18	-1.61	protein amino acid dephosphorylation (protein modification)
+203029_s_at	PTPRN2	Receptor-type tyrosine-protein phosphatase N2 precursor	-1.35	protein amino acid dephosphorylation (protein modification)
+213511_s_at	MTMR1	Myotubularin-related protein 1	-1.01	protein amino acid dephosphorylation (protein modification)
+217853_at	TNS3	tensin-like SH2 domain containing 1	-1.01	protein amino acid dephosphorylation (protein modification)
+201939_at	PLK2	Serine/threonine-protein kinase PLK2 (Polo-like kinase 1)	-2	protein amino acid phosphorylation (protein modification)
+218318_s_at	NLK	Serine/threonine kinase NLK (Nemo-like kinase)	-1.67	protein amino acid phosphorylation (protein modification)
+220987_s_at	NUAK2	NUAK family, SNF1-like kinase, 2	-1.55	protein amino acid phosphorylation (protein modification)
+202530_at	MAPK14	Mitogen-activated protein kinase 14 (MAP kinase p38 alpha)	-1.42	protein amino acid phosphorylation (protein modification)
+203836_s_at	MAP3K5	Mitogen-activated protein kinase kinase kinase 5 (MEKK 5)(ASK-1).	-1.28	protein amino acid phosphorylation (protein modification)
+203801_at	MRPS14	Mitochondrial 28S ribosomal protein S14	-1.87	protein biosynthesis
+216593_s_at	PIGC	Phosphatidylinositol N-acetylglucosaminyltransferase subunit C	-1.46	protein biosynthesis
+203777_s_at	RPS6KB2	Ribosomal protein S6 kinase 2 (70 kDa ribosomal protein S6 kinase 2)	-1.36	protein biosynthesis
+221692_s_at	MRPL34	39S ribosomal protein L34, mitochondrial precursor	-1.18	protein biosynthesis
+201632_at	EIF2B1	Translation initiation factor eIF-2B alpha subunit (eIF-2B GDP-GTP exchange factor).	-1.16	protein biosynthesis
+209707_at	PIGK	GPI-anchor transamidase precursor (GPI transamidase)	-1.14	protein biosynthesis
+214711_at	15E2_HUMAN	Putative protein 15E1.2.	-1.14	protein biosynthesis
+214991_s_at	PIGO	Phosphatidylinositol-glycan biosynthesis, class O protein	-1.09	protein biosynthesis
+216602_s_at	FARSLA	Phenylalanyl-tRNA synthetase alpha chain	-1.07	protein biosynthesis
+211595_s_at	MRPS11	28S ribosomal protein S11, mitochondrial precursor	-1.03	protein biosynthesis
+218982_s_at	MRPS17	28S ribosomal protein S17, mitochondrial precursor	-1.03	protein biosynthesis
+205078_at	PIGF	Phosphatidylinositol-glycan biosynthesis, class F protein	-1.02	protein biosynthesis
+218270_at	MRPL24	mitochondrial ribosomal protein L24	-1.01	protein biosynthesis
+203790_s_at	HRSP12	Ribonuclease UK114	-1	protein biosynthesis
+218459_at	TOR3A	torsin family 3, member A	-1.24	protein folding
+204518_s_at	PPIC	Peptidyl-prolyl cis-trans isomerase C	-1.02	protein folding
+209645_s_at	ALDH1B1	Aldehyde dehydrogenase X, mitochondrial precursor (ALDH class 2)	-2.23	carbohydrate metabolism
+203608_at	ALDH5A1	Succinate semialdehyde dehydrogenase, mitochondrial precursor	-2.02	carbohydrate metabolism
+203452_at	B3GAT3	Galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 3	-1.99	carbohydrate metabolism
+203921_at	CHST2	Carbohydrate sulfotransferase 2	-1.83	carbohydrate metabolism
+202838_at	FUCA1	Tissue alpha-L-fucosidase precursor	-1.6	carbohydrate metabolism
+213333_at	MDH2	Malate dehydrogenase, mitochondrial precursor	-1.56	carbohydrate metabolism
+205140_at	FPGT	Fucose-1-phosphate guanylyltransferase	-1.53	carbohydrate metabolism
+203188_at	B3GNT6	N-acetyllactosaminide beta-1,3-N-acetylglucosaminyltransferase	-1.37	carbohydrate metabolism
+206855_s_at	HYAL2	Hyaluronidase-2 precursor	-1.31	carbohydrate metabolism
+209537_at	EXTL2	Exostosin-like 2 (Glucuronyl-galactosyl-proteoglycan 4- alpha-N-acetylglucosaminyltransferase)	-1.29	carbohydrate metabolism
+202934_at	HK2	Hexokinase-2 (Hexokinase type II)	-1.19	carbohydrate metabolism
+206233_at	B4GALT6	Beta-1,4-galactosyltransferase 6	-1.16	carbohydrate metabolism
+218981_at	ACN9	ACN9 protein homolog, mitochondrial precursor.	-1	carbohydrate metabolism
+217188_s_at	ERG28_HUMAN	Probable ergosterol biosynthetic protein 28.	-1.82	lipid metabolism
+215891_s_at	GM2A	Ganglioside GM2 activator precursor (GM2-AP)	-1.74	lipid metabolism
+206473_at	MBTPS2	Membrane-bound transcription factor site 2 protease	-1.54	lipid metabolism
+215535_s_at	AGPAT1	1-acyl-sn-glycerol-3-phosphate acyltransferase alpha	-1.53	lipid metabolism
+213309_at	PLCL2	phospholipase C-like 2	-1.48	lipid metabolism
+211569_s_at	HADHSC	Short chain 3-hydroxyacyl-CoA dehydrogenase, mitochondrial precursor	-1.37	lipid metabolism
+208433_s_at	LRP8	Low-density lipoprotein receptor-related protein 8 precursor (Apolipoprotein E receptor 2).	-1.32	lipid metabolism
+213787_s_at	EBP	3-beta-hydroxysteroid-delta(8),delta(7)-isomerase	-1.24	lipid metabolism
+218322_s_at	ACSL5	Long-chain-fatty-acid--CoA ligase 5	-1.24	lipid metabolism
+213132_s_at	FABD_HUMAN	Malonyl CoA-acyl carrier protein transacylase, mitochondrial precursor	-1.22	lipid metabolism
+209739_s_at	PNPLA4	Patatin-like phospholipase domain-containing protein 4	-1.18	lipid metabolism
+201433_s_at	PTDSS1	Phosphatidylserine synthase 1 (Serine-exchange enzyme I).	-1.15	lipid metabolism
+37152_at	PPARD	Peroxisome proliferator-activated receptor delta (PPAR-delta)	-1.14	lipid metabolism
+209546_s_at	APOL1	Apolipoprotein-L1 precursor	-1.1	lipid metabolism
+218285_s_at	DHRS6_HUMAN	Dehydrogenase/reductase SDR family member 6 precursor	-1.09	lipid metabolism
+201847_at	LIPA	Lysosomal acid lipase/cholesteryl ester hydrolase precursor	-1.07	lipid metabolism
+210130_s_at	TM7SF2	Delta(14)-sterol reductase (C-14 sterol reductase) (Sterol C14-reductase)	-1.04	lipid metabolism
+202613_at	CTPS	CTP synthase (UTP--ammonia ligase)	-1.82	nucleobase, nucleoside, nucleotide and nucleic acid metabolism
+213632_at	DHODH	Dihydroorotate dehydrogenase, mitochondrial precursor	-1.62	nucleobase, nucleoside, nucleotide and nucleic acid metabolism
+219048_at	PIGN	phosphatidylinositol glycan, class N	-1.31	nucleobase, nucleoside, nucleotide and nucleic acid metabolism
+219553_at	NME7	Nucleoside diphosphate kinase 7	-1.23	nucleobase, nucleoside, nucleotide and nucleic acid metabolism
+212173_at	AK2	Adenylate kinase isoenzyme 2, mitochondrial	-1.2	nucleobase, nucleoside, nucleotide and nucleic acid metabolism
+213378_s_at	DDX12	Helicase (Fragment).	-1.19	nucleobase, nucleoside, nucleotide and nucleic acid metabolism
+202587_s_at	AK1	Adenylate kinase isoenzyme 1 (ATP-AMP transphosphorylase)	-1.16	nucleobase, nucleoside, nucleotide and nucleic acid metabolism
+218102_at	DERA	Putative deoxyribose-phosphate aldolase	-1.11	nucleobase, nucleoside, nucleotide and nucleic acid metabolism
+217990_at	GMPR2	GMP reductase 2 (Guanosine 5-monophosphate oxidoreductase 2)	-1	nucleobase, nucleoside, nucleotide and nucleic acid metabolism
+212901_s_at	CSTF2T	Cleavage stimulation factor, 64 kDa subunit, tau variant	-2.22	RNA metabolism
+221688_s_at	IMP3	U3 small nucleolar ribonucleoprotein protein IMP3	-1.96	RNA metabolism
+221264_s_at	TARDBP	TAR DNA-binding protein 43 (TDP-43).	-1.85	RNA metabolism
+209449_at	LSM2	U6 snRNA-associated Sm-like protein LSm2 (SnRNP core Sm-like protein Sm-x5)	-1.8	RNA metabolism
+219581_at	TSEN2	tRNA-splicing endonuclease subunit Sen2	-1.69	RNA metabolism
+217856_at	RBM8A	RNA-binding protein 8A (RNA-binding motif protein 8A)	-1.6	RNA metabolism
+204839_at	POP5	processing of precursor 5, ribonuclease P/MRP subunit isoform c	-1.49	RNA metabolism
+201129_at	SFRS7	Splicing factor, arginine/serine-rich 7 (Splicing factor 9G8).	-1.41	RNA metabolism
+219384_s_at	ADAT1	adenosine deaminase, tRNA-specific 1	-1.4	RNA metabolism
+201076_at	NHP2L1	NHP2-like protein 1 (High mobility group-like nuclear protein 2 homolog 1)	-1.35	RNA metabolism
+203820_s_at		IGF-II mRNA-binding protein 3	-1.35	RNA metabolism
+91684_g_at	EXOSC4	Exosome complex exonuclease RRP41	-1.27	RNA metabolism
+219539_at	GEMIN6	Gem-associated protein 6 (Gemin-6) (SIP2).	-1.25	RNA metabolism
+217984_at	RNASET2	Ribonuclease T2 precursor (Ribonuclease 6).	-1.24	RNA metabolism
+218365_s_at	DARS2	aspartyl-tRNA synthetase 2 (mitochondrial)	-1.11	RNA metabolism
+218150_at	ARL5A	ADP-ribosylation factor-like protein 5A.	-1.08	RNA metabolism
+202190_at	CSTF1	Cleavage stimulation factor, 50 kDa subunit (CSTF 50 kDa subunit)	-1.06	RNA metabolism
+217099_s_at	GEMIN4	Component of gems 4 (Gemin-4) (p97).	-1.04	RNA metabolism
+209104_s_at	NOLA2	H/ACA ribonucleoprotein complex subunit 2 (Nucleolar protein family A member 2)	-1.02	RNA metabolism
+218493_at	CP033_HUMAN	U11/U12 snRNP 25 kDa protein (Minus-99 protein).	-1.02	RNA metabolism
+221521_s_at	PSF2_HUMAN	DNA replication complex GINS protein PSF2.	-1.73	DNA metabolism
+222238_s_at	POLM	DNA polymerase mu	-1.63	DNA metabolism
+201555_at	MCM3	DNA replication licensing factor MCM3 (DNA polymerase alpha holoenzyme-associated protein P1)	-1.51	DNA metabolism
+220311_at	N6AM1_HUMAN	Putative N6-DNA-methyltransferase	-1.36	DNA metabolism
+204824_at	ENDOG	Endonuclease G, mitochondrial precursor	-1.34	DNA metabolism
+205053_at	PRIM1	DNA primase small subunit	-1.24	DNA metabolism
+205085_at	ORC1L	Origin recognition complex subunit 1 (Replication control protein 1).	-1.18	DNA metabolism
+208955_at	DUT	Deoxyuridine 5-triphosphate nucleotidohydrolase, mitochondrial precursor	-1.1	DNA metabolism
+204441_s_at	POLA2	DNA polymerase alpha subunit B (DNA polymerase alpha 70 kDa subunit).	-1.09	DNA metabolism
+205521_at	ENDOGL1	Endonuclease G-like 1	-1.05	DNA metabolism
+209773_s_at	RRM2	Ribonucleoside-diphosphate reductase M2 subunit	-1.02	DNA metabolism
+204128_s_at	RFC3	Activator 1 38 kDa subunit (Replication factor C 38 kDa subunit)	-1	DNA metabolism
+207826_s_at	ID3	DNA-binding protein inhibitor ID-3 (Inhibitor of DNA binding 3)	-3.72	transcription
+214639_s_at	HOXA1	Homeobox protein Hox-A1 (Hox-1F).	-3.32	transcription
+208937_s_at	ID1	DNA-binding protein inhibitor ID-1 (Inhibitor of DNA binding 1).	-2.56	transcription
+217367_s_at	ZHX3	Zinc fingers and homeoboxes protein 3 (Triple homeobox 1 protein).	-2.54	transcription
+202936_s_at	SOX9	Transcription factor SOX-9.	-2.48	transcription
+216262_s_at	TGIF2	Homeobox protein TGIF2 (TGFB-induced factor 2)	-2.35	transcription
+202815_s_at	HEXIM1	HMBA-inducible	-2.16	transcription
+202586_at	POLR2L	DNA-directed RNA polymerase II 7.6 kDa polypeptide	-2.14	transcription
+209724_s_at	ZFP161	Zinc finger protein 161 homolog (Zfp-161)	-2.05	transcription
+209505_at	NR2F1	COUP transcription factor 1 (COUP-TF1)	-1.88	transcription
+211597_s_at	HOP_HUMAN	Homeodomain-only protein (Lung cancer-associated Y protein)	-1.88	transcription
+207480_s_at	MEIS2	Homeobox protein Meis2 (Meis1-related protein 1).	-1.84	transcription
+218006_s_at	ZNF22	Zinc finger protein 22 (Zinc finger protein KOX15)	-1.7	transcription
+205313_at	TCF2	Hepatocyte nuclear factor 1-beta (Variant hepatic nuclear factor 1)	-1.69	transcription
+202401_s_at	SRF	Serum response factor (SRF).	-1.67	transcription
+213150_at	HOXA10	Homeobox protein Hox-A10	-1.67	transcription
+205264_at	CD3EAP	CD3E antigen, epsilon polypeptide associated protein	-1.63	transcription
+203360_s_at	MYCBP	Gap junction alpha-10 protein (Connexin-59) (Connexin-58)	-1.61	transcription
+203395_s_at	HES1	Transcription factor HES-1 (Hairy and enhancer of split 1)	-1.58	transcription
+219779_at	ZFHX4	zinc finger homeodomain 4	-1.52	transcription
+207760_s_at	NCOR2	Nuclear receptor corepressor 2 (N-CoR2)	-1.51	transcription
+214881_s_at	UBTF	Nucleolar transcription factor 1 (Upstream binding factor 1)	-1.49	transcription
+55872_at	SOX18	Transcription factor SOX-18.	-1.46	transcription
+205817_at	SIX1	Homeobox protein SIX1 (Sine oculis homeobox homolog 1).	-1.45	transcription
+218866_s_at	POLR3K	DNA-directed RNA polymerases III 12.5 kDa polypeptide	-1.43	transcription
+202617_s_at	MECP2	Methyl-CpG-binding protein 2 (MeCP-2 protein)	-1.42	transcription
+208670_s_at	CRI1	CREBBP/EP300 inhibitor 1 (CRI1), mRNA	-1.42	transcription
+220102_at	FOXL2	Forkhead box protein L2.	-1.42	transcription
+215933_s_at	HHEX	Homeobox protein PRH (Hematopoietically expressed homeobox)	-1.37	transcription
+201827_at	SMARCD2	SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily D member 2	-1.33	transcription
+212037_at	PNN	Pinin (140 kDa nuclear and cell adhesion-related phosphoprotein)	-1.33	transcription
+221558_s_at	LEF1	Lymphoid enhancer binding factor 1 (LEF-1)	-1.33	transcription
+212332_at	RBL2	Retinoblastoma-like protein 2 (130 kDa retinoblastoma-associated protein)	-1.3	transcription
+221727_at	SUB1	Activated RNA polymerase II transcriptional coactivator p15	-1.3	transcription
+208119_s_at	ZNF93	Zinc finger protein 93 (Zinc finger protein 505)	-1.27	transcription
+212774_at	ZNF238	Zinc finger protein 238 (Transcriptional repressor RP58)	-1.26	transcription
+2028_s_at	E2F1	Transcription factor E2F1 (Retinoblastoma binding protein 3) (RBBP-3)	-1.24	transcription
+212955_s_at	POLR2I	DNA-directed RNA polymerase II 14.5 kDa polypeptide 54]	-1.19	transcription
+203081_at	CTNNBIP1	Beta-catenin-interacting protein 1 (Inhibitor of beta-catenin and Tcf- 4).	-1.19	transcription
+206307_s_at		forkhead box D1 (FOXD1), mRNA	-1.18	transcription
+206261_at	ZNF239	Zinc finger protein 239 (Zinc finger protein MOK-2)	-1.17	transcription
+214482_at	ZBTB25	Zinc finger and BTB domain-containing protein 25	-1.17	transcription
+218206_x_at	SCAND1	SCAN domain-containing protein 1.	-1.17	transcription
+204872_at	TLE4	Transducin-like enhancer protein 4.	-1.14	transcription
+222237_s_at	ZNF228	Zinc finger protein 228.	-1.13	transcription
+214651_s_at	HOXA9	Homeobox protein Hox-A9 (Hox-1G).	-1.11	transcription
+202979_s_at	ZHANG_HUMAN	Host cell factor-binding transcription factor Zhangfei	-1.1	transcription
+213604_at	TCEB3	Transcription elongation factor B polypeptide 3 (RNA polymerase II transcription factor SIII subunit A1)	-1.09	transcription
+210191_s_at	PHTF1	Putative homeodomain transcription factor 1.	-1.08	transcription
+201362_at	IVNS1ABP	influenza virus NS1A binding protein isoform a	-1.06	transcription
+204366_s_at	GTF3C2	General transcription factor 3C polypeptide 2 (Transcription factor IIIC-beta subunit)	-1.06	transcription
+209407_s_at	DEAF1	Deformed epidermal autoregulatory factor 1 homolog (Nuclear DEAF-1 related transcriptional regulator)	-1.04	transcription
+210290_at	ZNF174	Zinc finger protein 174	-1.04	transcription
+201869_s_at	TBL1X	F-box-like/WD-repeat protein TBL1X (Transducin beta-like 1X protein)	-1.02	transcription
+208502_s_at	PITX1	Pituitary homeobox 1 (Hindlimb expressed homeobox protein backfoot).	-1.02	transcription
+218058_at	CXXC1	CpG binding protein (Protein containing PHD finger and CXXC domain 1)	-1.01	transcription
+202519_at	MLXIP	mondoA	-1	transcription
+204779_s_at	HOXB7	Homeobox protein Hox-B7 (Hox-2C) (HHO.C1).	-1	transcription
+209623_at	MCCC2	Methylcrotonoyl-CoA carboxylase beta chain, mitochondrial precursor	-1.2	amino acid and derivative metabolism
+218944_at	PYCRL	pyrroline-5-carboxylate reductase-like	-1.17	amino acid and derivative metabolism
+201197_at	AMD1	S-adenosylmethionine decarboxylase proenzyme	-1.04	amino acid and derivative metabolism
+209980_s_at	SHMT1	Serine hydroxymethyltransferase, cytosolic	-1.02	amino acid and derivative metabolism
+213647_at	DNA2L	DNA2-like homolog (DNA replication ATP-dependent helicase-like homolog)	-1.01	amino acid and derivative metabolism
+200769_s_at	MAT2A	S-adenosylmethionine synthetase gamma form (Methionine adenosyltransferase)	-2.14	cellular metabolism
+214117_s_at	BTD	Biotinidase precursor	-1.84	cellular metabolism
+204867_at	GCHFR	GTP cyclohydrolase I feedback regulatory protein (GFRP)	-1.83	cellular metabolism
+220865_s_at	TPRT	trans-prenyltransferase	-1.72	cellular metabolism
+203031_s_at	UROS	Uroporphyrinogen-III synthase	-1.59	cellular metabolism
+210006_at	ABHD14A	abhydrolase domain containing 14A	-1.39	cellular metabolism
+218121_at	HMOX2	Heme oxygenase 2	-1.31	cellular metabolism
+218540_at	THTPA	Thiamine-triphosphatase	-1.3	cellular metabolism
+202533_s_at	DHFR	Dihydrofolate reductase	-1.21	cellular metabolism
+203040_s_at	HMBS	Porphobilinogen deaminase (Hydroxymethylbilane synthase)	-1.2	cellular metabolism
+218307_at	RSAD1	radical S-adenosyl methionine domain containing 1	-1.1	cellular metabolism
+211675_s_at	MDFIC	MyoD family inhibitor domain containing isoform p40	-1.12	response to stimulus
+218507_at	HIG2_HUMAN	Hypoxia-inducible gene 2 protein.	-1.33	response to stress
+216598_s_at	CCL2	Small inducible cytokine A2 precursor (CCL2) (Monocyte chemotactic protein 1)	-3.37	immune response
+203596_s_at	IFIT5	Interferon-induced protein with tetratricopeptide repeats 5 (IFIT-5)	-2.34	immune response
+202269_x_at	GBP1	Interferon-induced guanylate-binding protein 1 (GTP-binding protein 1)	-2.29	immune response
+221060_s_at	TLR4	Toll-like receptor 4 precursor (hToll) (CD284 antigen).	-2.06	immune response
+221058_s_at	CKLF	Chemokine-like factor (C32).	-1.63	immune response
+211991_s_at	HLA-DPA1	HLA class II histocompatibility antigen, DP alpha chain precursor	-1.54	immune response
+219076_s_at	PXMP2	Peroxisomal membrane protein 2 (22 kDa peroxisomal membrane protein).	-1.46	immune response
+205483_s_at	G1P2	Interferon-induced 17 kDa protein precursor	-1.4	immune response
+201207_at	TNFAIP1	Tumor necrosis factor, alpha-induced protein 1, endothelial (B12 protein).	-1.33	immune response
+208097_s_at	TXNDC	Thioredoxin domain-containing protein 1 precursor	-1.28	immune response
+35150_at	CD40	Tumor necrosis factor receptor superfamily member 5 precursor	-1.15	immune response
+211852_s_at	ATRN	Attractin precursor (Mahogany homolog) (DPPT-L)	-1.05	immune response
+218689_at	FANCF	Fanconi anemia group F protein (Protein FACF).	-2.38	reponse to DNA damage stimulus
+219502_at	NEIL3	Endonuclease VIII-like 3 (Nei-like 3)	-2.18	reponse to DNA damage stimulus
+221703_at	BRIP1	Fanconi anemia group J protein	-1.84	reponse to DNA damage stimulus
+201291_s_at	TOP2A	Topoisomerase II alpha (Fragment).	-1.63	reponse to DNA damage stimulus
+205875_s_at	TREX1	ATR-interacting protein (ATM and Rad3-related-interacting protein).	-1.48	reponse to DNA damage stimulus
+206066_s_at	RAD51C	DNA repair protein RAD51 homolog 3.	-1.43	reponse to DNA damage stimulus
+209731_at	NTHL1	Endonuclease III-like protein 1	-1.36	reponse to DNA damage stimulus
+219494_at	RAD54B	DNA repair and recombination protein RAD54B	-1.32	reponse to DNA damage stimulus
+205909_at	POLE2	DNA polymerase epsilon subunit 2	-1.31	reponse to DNA damage stimulus
+209903_s_at	ATR	Serine-protein kinase ATR (Ataxia telangiectasia and Rad3-related protein)	-1.21	reponse to DNA damage stimulus
+203806_s_at	FANCA	Fanconi anemia group A protein (Protein FACA).	-1.19	reponse to DNA damage stimulus
+218397_at	FANCL	Ubiquitin ligase protein FANCL (Fanconi anemia group L protein)	-1.18	reponse to DNA damage stimulus
+205672_at	XPA	DNA-repair protein complementing XP-A cells	-1.17	reponse to DNA damage stimulus
+204766_s_at	NUDT1	7,8-dihydro-8-oxoguanine triphosphatase (EC 3.1.6.-) (8-oxo-dGTPase)	-1.16	reponse to DNA damage stimulus
+204603_at	EXO1	exonuclease 1 isoform b	-1.15	reponse to DNA damage stimulus
+204408_at	APEX2	DNA-(apurinic or apyrimidinic site) lyase 2	-1.08	reponse to DNA damage stimulus
+215773_x_at	PARP2	Poly [ADP-ribose] polymerase 2	-1.06	reponse to DNA damage stimulus
+213677_s_at	PMS1	PMS1 protein homolog 1 (DNA mismatch repair protein PMS1).	-1.04	reponse to DNA damage stimulus
+204339_s_at	RGS4	Regulator of G-protein signaling 4 (RGS4) (RGP4).	-4.09	G-protein coupled receptor protein signaling pathway
+206023_at	NMU	Neuromedin U-25 precursor (NmU-25).	-2.01	G-protein coupled receptor protein signaling pathway
+206290_s_at	RGS7	Regulator of G-protein signaling 7 (RGS7).	-1.87	G-protein coupled receptor protein signaling pathway
+219560_at	GNB1L	Guanine nucleotide-binding protein beta subunit-like protein 1	-1.5	G-protein coupled receptor protein signaling pathway
+209990_s_at	GPR51	Gamma-aminobutyric acid type B receptor, subunit 2 precursor (GABA-B receptor 2)	-1.34	G-protein coupled receptor protein signaling pathway
+202019_s_at	LANCL1	LanC-like protein 1 (40 kDa erythrocyte membrane protein) (p40).	-1.23	G-protein coupled receptor protein signaling pathway
+204451_at	FZD1	Frizzled 1 precursor (Frizzled-1)	-1.19	G-protein coupled receptor protein signaling pathway
+213603_s_at	RAC2	Ras-related C3 botulinum toxin substrate 2 (p21-Rac2)	-1.09	G-protein coupled receptor protein signaling pathway
+214613_at	GPR3	Probable G-protein coupled receptor 3 (ACCA orphan receptor).	-1.08	G-protein coupled receptor protein signaling pathway
+206673_at	GPR176	Probable G-protein coupled receptor 176 (HB-954).	-1.07	G-protein coupled receptor protein signaling pathway
+205990_s_at	WNT5A	Wnt-5a protein precursor.	-2.42	signal transduction
+218951_s_at	PLCXD1	phosphatidylinositol-specific phospholipase C, X domain containing 1	-2.17	signal transduction
+204686_at	IRS1	Insulin receptor substrate 1 (IRS-1).	-1.86	signal transduction
+219412_at	RAB38	Ras-related protein Rab-38 (Antigen NY-MEL-1).	-1.79	signal transduction
+204168_at	MGST2	Microsomal glutathione S-transferase 2	-1.52	signal transduction
+203499_at	EPHA2	Ephrin type-A receptor 2 precursor (Tyrosine-protein kinase receptor ECK)	-1.52	signal transduction
+221772_s_at	PPP2R2D	protein phosphatase 2, regulatory subunit B, delta isoform 2	-1.48	signal transduction
+203450_at	PGEA1	Chibby protein (PKD2 interactor, Golgi and endoplasmic reticulum associated 1)	-1.39	signal transduction
+212667_at	SPARC	SPARC precursor (Secreted protein acidic and rich in cysteine)	-1.31	signal transduction
+201288_at	ARHGDIB	Rho GDP-dissociation inhibitor 2 (Rho GDI 2) (Rho-GDI beta)	-1.28	signal transduction
+205204_at	NMB	Neuromedin B-32 precursor	-1.28	signal transduction
+204081_at	NRGN	Neurogranin (Ng) (RC3).	-1.27	signal transduction
+204479_at	OSTF1	Osteoclast-stimulating factor 1.	-1.21	signal transduction
+201080_at	PIP5K2B	Phosphatidylinositol-4-phosphate 5-kinase type II beta	-1.2	signal transduction
+203081_at	CTNNBIP1	Beta-catenin-interacting protein 1 (Inhibitor of beta-catenin and Tcf- 4).	-1.19	signal transduction
+213618_at	CENTD1	Centaurin-delta 1 (Cnt-d1)	-1.19	signal transduction
+222294_s_at	RAB27A	Ras-related protein Rab-27A (Rab-27)	-1.16	signal transduction
+210904_s_at	IL13RA1	Interleukin-13 receptor alpha-1 chain precursor	-1.16	signal transduction
+219538_at	WDR5B	WD repeat domain 5B	-1.16	signal transduction
+218858_at	DEPDC6	DEP domain containing 6	-1.14	signal transduction
+205805_s_at	ROR1	Tyrosine-protein kinase transmembrane receptor ROR1 precursor	-1.09	signal transduction
+208091_s_at	ECOP	EGFR-coamplified and overexpressed protein	-1.06	signal transduction
+219749_at	SH2D4A	SH2 domain containing 4A	-1.06	signal transduction
+211121_s_at	DOK1	Docking protein 1 (Downstream of tyrosine kinase 1)	-1.03	signal transduction
+202286_s_at	TACSTD2	Tumor-associated calcium signal transducer 2 precursor (Pancreatic carcinoma marker protein GA733-1)	-1.01	signal transduction
+209336_at	PWP2H	Periodic tryptophan protein 2 homolog.	-1	signal transduction
+201341_at	ENC1	Ectoderm-neural cortex 1 protein (ENC-1) (p53-induced protein 10) (Nuclear matrix protein NRP/B)	-3.49	development/differentiation/growth
+220407_s_at	TGFB2	Transforming growth factor beta-2 precursor (TGF-beta-2) (Glioblastoma-derived T-cell suppressor factor)	-3.35	development/differentiation/growth
+211959_at	IGFBP5	Insulin-like growth factor binding protein 5 precursor	-2.69	development/differentiation/growth
+206382_s_at	BDNF	Brain-derived neurotrophic factor precursor (BDNF).	-2.34	development/differentiation/growth
+213030_s_at	PLXNA2	plexin A2	-2.23	development/differentiation/growth
+202765_s_at	FBN1	Fibrillin-1 precursor.	-2.1	development/differentiation/growth
+203148_s_at	TRIM14	Tripartite motif protein 14.	-2	development/differentiation/growth
+205258_at	INHBB	Inhibin beta B chain precursor (Activin beta-B chain).	-1.79	development/differentiation/growth
+201058_s_at	MYL9	Myosin regulatory light chain 2, smooth muscle isoform (Myosin RLC)	-1.38	development/differentiation/growth
+203243_s_at	PDLIM5	PDZ and LIM domain protein 5 (Enigma homolog)	-1.36	development/differentiation/growth
+207390_s_at	SMTN	Smoothelin.	-1.3	development/differentiation/growth
+205547_s_at	TAGLN	Transgelin (Smooth muscle protein 22-alpha)	-1.27	development/differentiation/growth
+205283_at	FCMD	Fukutin  (Fukuyama-type congenital muscular dystrophy protein).	-1.22	development/differentiation/growth
+207559_s_at	ZMYM3	Zinc finger protein 261 (Zinc finger MYM-type protein 3)	-1.19	development/differentiation/growth
+209344_at	TPM4	Tropomyosin alpha-4 chain (Tropomyosin-4) (TM30p1).	-1.19	development/differentiation/growth
+219330_at	VANGL1	Vang-like protein 1 (Van Gogh-like protein 1)	-1.16	development/differentiation/growth
+203152_at	MRPL40	39S ribosomal protein L40, mitochondrial precursor	-1.1	development/differentiation/growth
+202551_s_at	CRIM1	Cysteine-rich motor neuron 1 protein precursor (CRIM-1)	-1.09	development/differentiation/growth
+209486_at	SAS10_HUMAN	Something about silencing protein 10 (Disrupter of silencing SAS10)	-1	development/differentiation/growth
+213019_at	RANBP6	Ran-binding protein 6 (RanBP6).	-2.89	transport
+205196_s_at	AP1S1	Adapter-related protein complex 1 sigma 1A subunit (Sigma-adaptin 1A)	-2.66	transport
+204823_at	NAV3	neuron navigator 3	-2.32	transport
+205097_at	SLC26A2	Sulfate transporter (Diastrophic dysplasia protein)	-2.05	transport
+203980_at	FABP4	Fatty acid-binding protein, adipocyte (AFABP)	-1.94	transport
+219869_s_at	SLC39A8	solute carrier family 39 (zinc transporter), member 8	-1.82	transport
+220559_at	EN1	Homeobox protein engrailed-1 (Hu-En-1).	-1.81	transport
+206504_at	CYP24A1	Cytochrome P450 24A1, mitochondrial precursor	-1.79	transport
+212361_s_at	ATP2A2	Sarcoplasmic/endoplasmic reticulum calcium ATPase 2 (SERCA2)	-1.78	transport
+219545_at	KCTD14	Potassium channel tetramerisation domain containing protein 14.	-1.75	transport
+201051_at	ANP32A	Acidic leucine-rich nuclear phosphoprotein 32 family member A (Potent heat-stable protein phosphatase 2A inhibitor I1PP2A)	-1.58	transport
+208972_s_at	ATP5G1	ATP synthase lipid-binding protein, mitochondrial precursor	-1.56	transport
+218357_s_at	TIMM8B	Mitochondrial import inner membrane translocase subunit TIM8 B	-1.5	transport
+204087_s_at	SLC5A6	Sodium-dependent multivitamin transporter (Na(+)-dependent multivitamin transporter).	-1.46	transport
+209627_s_at	OSBPL3	Oxysterol binding protein-related protein 3	-1.46	transport
+217289_s_at	SLC37A4	Glucose-6-phosphate translocase (Glucose-5-phosphate transporter)	-1.42	transport
+209871_s_at	APBA2	Amyloid beta A4 precursor protein-binding family A member 2	-1.42	transport
+205217_at	TIMM8A	Mitochondrial import inner membrane translocase subunit TIM8 A	-1.4	transport
+203410_at	AP3M2	Adapter-related protein complex 3 mu 2 subunit	-1.32	transport
+204477_at	RABIF	Guanine nucleotide exchange factor MSS4 (Rab-interacting factor).	-1.32	transport
+207057_at	SLC16A7	Monocarboxylate transporter 2 (MCT 2).	-1.29	transport
+221932_s_at	GLRX5	Glutaredoxin-related protein 5.	-1.28	transport
+203658_at	SLC25A20	Mitochondrial carnitine/acylcarnitine carrier protein	-1.27	transport
+218408_at	TIMM10	Mitochondrial import inner membrane translocase subunit TIM10.	-1.26	transport
+213587_s_at	ATP6V0E2L	ATPase, H+ transporting, V0 subunit	-1.25	transport
+209366_x_at	CYB5	Cytochrome b5.	-1.24	transport
+212161_at	AP2A2	Adapter-related protein complex 2 alpha 2 subunit (Alpha-adaptin C)	-1.21	transport
+209003_at	SLC25A11	Mitochondrial 2-oxoglutarate/malate carrier protein (OGCP)	-1.19	transport
+202368_s_at	TRAM2	Translocation associated membrane protein 2.	-1.17	transport
+210692_s_at	SLC43A3	solute carrier family 43, member 3	-1.16	transport
+203340_s_at	SLC25A12	Calcium-binding mitochondrial carrier protein Aralar1	-1.15	transport
+202839_s_at	NDUFB7	NADH-ubiquinone oxidoreductase B18 subunit (Cell adhesion protein SQM1).	-1.14	transport
+212625_at	STX10	Syntaxin-10	-1.14	transport
+202942_at	ETFB	Electron transfer flavoprotein beta-subunit (Beta-ETF).	-1.13	transport
+206284_x_at	CLTB	Clathrin light chain B (Lcb).	-1.12	transport
+218211_s_at	MLPH	Melanophilin (Exophilin-3) (Synaptotagmin-like protein 2a)	-1.1	transport
+219868_s_at	ANKFY1	Ankyrin repeat and FYVE domain protein 1	-1.1	transport
+208998_at	UCP2	Mitochondrial uncoupling protein 2 (UCP 2) (UCPH).	-1.08	transport
+209078_s_at	TXN2	thioredoxin 2	-1.07	transport
+204690_at	STX8	Syntaxin-8.	-1.06	transport
+200011_s_at	ARF3	ADP-ribosylation factor 3.	-1.05	transport
+218190_s_at	UCRC	ubiquinol-cytochrome c reductase complex 7.2kDa protein isoform b	-1.05	transport
+205094_at	PEX12	Peroxisome assembly protein 12 (Peroxin-12)	-1.04	transport
+200900_s_at	M6PR	Cation-dependent mannose-6-phosphate receptor precursor (CD Man-6-P receptor)	-1.04	transport
+204788_s_at	PPOX	Protoporphyrinogen oxidase	-1.04	transport
+202785_at	NDUFA7	NADH-ubiquinone oxidoreductase subunit B14.5a	-1.04	transport
+219575_s_at	COG8	Peptide deformylase, mitochondrial precursor	-1.04	transport
+221487_s_at	ENSA	Alpha-endosulfine.	-1.04	transport
+201580_s_at	TXNDC13	Thioredoxin domain-containing protein 13 precursor.	-1.03	transport
+203682_s_at	IVD	Isovaleryl-CoA dehydrogenase, mitochondrial precursor	-1.03	transport
+203606_at	NDUFS6	NADH-ubiquinone oxidoreductase 13 kDa-A subunit, mitochondrial precursor	-1.02	transport
+209389_x_at	DBI	Acyl-CoA-binding protein (ACBP) (Diazepam-binding inhibitor)	-1.01	transport
+214830_at	SLC38A6	N system amino acid transporter NAT-1	-1	transport
+219527_at	MOSC2	MOCO sulphurase C-terminal domain containing 2	-1	transport
+203626_s_at	SKP2	S-phase kinase-associated protein 2 (F-box protein Skp2) (Cyclin A/CDK2-associated protein p45)	-3.71	cell cycle/proliferation
+211792_s_at	CDKN2C	Cyclin-dependent kinase 6 inhibitor (Cyclin-dependent kinase 4 inhibitor C)	-2.54	cell cycle/proliferation
+204827_s_at	CCNF	G2/mitotic-specific cyclin-F.	-2.54	cell cycle/proliferation
+205677_s_at	DLEU1	Leukemia associated protein 1 (Deleted in lymphocytic leukemia 1).	-2.22	cell cycle/proliferation
+213523_at	CCNE1	G1/S-specific cyclin-E1.	-2.14	cell cycle/proliferation
+204200_s_at	PDGFB	Platelet-derived growth factor B chain precursor (Platelet-derived growth factor beta polypeptide) (PDGF-2)	-1.78	cell cycle/proliferation
+208711_s_at	CCND1	G1/S-specific cyclin-D1 (PRAD1 oncogene) (BCL-1 oncogene).	-1.71	cell cycle/proliferation
+210559_s_at	CDC2	Cell division control protein 2 homolog	-1.58	cell cycle/proliferation
+203418_at	CCNA2	Cyclin-A2 (Cyclin-A).	-1.57	cell cycle/proliferation
+212020_s_at	MKI67	Antigen KI-67.	-1.57	cell cycle/proliferation
+201700_at	CCND3	G1/S-specific cyclin-D3.	-1.55	cell cycle/proliferation
+204510_at	CDC7	Cell division cycle 7-related protein kinase	-1.55	cell cycle/proliferation
+211017_s_at	NF2	Merlin (Moesin-ezrin-radixin-like protein) (Neurofibromin-2)	-1.49	cell cycle/proliferation
+216862_s_at	MTCP1	P8 MTCP-1 protein (Mature T-cell proliferation-1 type A)	-1.38	cell cycle/proliferation
+204247_s_at	CDK5	Cell division protein kinase 5 (Tau protein kinase II catalytic subunit)	-1.34	cell cycle/proliferation
+203270_at	DTYMK	Thymidylate kinase	-1.28	cell cycle/proliferation
+215731_s_at	MPHOSPH9	M-phase phosphoprotein 9.	-1.28	cell cycle/proliferation
+208944_at	TGFBR2	TGF-beta receptor type II precursor (TGF-beta type II receptor).	-1.21	cell cycle/proliferation
+209083_at	CORO1A	Coronin-1A (Coronin-like protein p57)	-1.2	cell cycle/proliferation
+209714_s_at	CDKN3	Cyclin-dependent kinase inhibitor 3 (CDK2- associated dual specificity phosphatase)	-1.2	cell cycle/proliferation
+222199_s_at	BIN3	Bridging integrator 3.	-1.19	cell cycle/proliferation
+203272_s_at	TUSC2	Tumor suppressor candidate 2 (PDGFA-associated protein 2)	-1.17	cell cycle/proliferation
+209464_at	AURKB	Serine/threonine-protein kinase 12 (Aurora- and Ipl1- like midbody-associated protein 1)	-1.15	cell cycle/proliferation
+204238_s_at	RCL_HUMAN	c-Myc-responsive protein Rcl.	-1.12	cell cycle/proliferation
+215509_s_at	BUB1	Mitotic checkpoint serine/threonine-protein kinase BUB1	-1.12	cell cycle/proliferation
+217721_at	7-Sep	Septin-7 (CDC10 protein homolog).	-1.11	cell cycle/proliferation
+205245_at	PARD6A	Partitioning defective 6 homolog alpha (PAR-6 alpha)	-1.06	cell cycle/proliferation
+203114_at	SSSCA1	Sjogrens syndrome/scleroderma autoantigen 1 (Autoantigen p27).	-1.04	cell cycle/proliferation
+208079_s_at	STK6	Serine/threonine-protein kinase 6	-1.03	cell cycle/proliferation
+211080_s_at	NEK2	Serine/threonine-protein kinase Nek2	-1.02	cell cycle/proliferation
+213005_s_at	ANKRD15	Ankyrin repeat domain protein 15 (Kidney ankyrin repeat-containing protein).	-1.01	cell cycle/proliferation
+202658_at	PEX11B	Peroxisomal membrane protein 11B	-2.24	cell organization and biogenesis
+209567_at	RRS1	Ribosome biogenesis regulatory protein homolog.	-1.87	cell organization and biogenesis
+219306_at	KIF15	kinesin family member 15	-1.65	cell organization and biogenesis
+205436_s_at	H2AFX	Histone H2A.x	-1.61	cell organization and biogenesis
+206554_x_at	SETMAR	SET domain and mariner transposase fusion gene	-1.45	cell organization and biogenesis
+209286_at	CDC42EP3	Cdc42 effector protein 3 (Binder of Rho GTPases 2)	-1.42	cell organization and biogenesis
+203274_at	F8A1	coagulation factor VIII-associated (intronic transcript) 3 (F8A3), mRNA	-1.3	cell organization and biogenesis
+218755_at	KIF20A	Kinesin family member 20A (Rabkinesin-6)	-1.29	cell organization and biogenesis
+220386_s_at	EML4	Echinoderm microtubule-associated protein-like 4	-1.23	cell organization and biogenesis
+201605_x_at	CNN2	Calponin-2 (Calponin H2, smooth muscle) (Neutral calponin).	-1.19	cell organization and biogenesis
+201616_s_at	CALD1	Caldesmon (CDM).	-1.18	cell organization and biogenesis
+202326_at	EHMT2	Histone-lysine N-methyltransferase, H3 lysine-9 specific 3	-1.12	cell organization and biogenesis
+209680_s_at	KIFC1	Kinesin-like protein KIFC1	-1.1	cell organization and biogenesis
+212320_at	TUBB	Tubulin beta-2 chain.	-1.07	cell organization and biogenesis
+218530_at	FHOD1	FH1/FH2 domain-containing protein (Formin homolog overexpressed in spleen)	-1.02	cell organization and biogenesis
+211966_at	COL4A2	Collagen, type IV, alpha 2 (Fragment).	-1.28	extracellular matrix organization and biogenesis
+211981_at	COL4A1	Collagen alpha-1(IV) chain precursor.	-1.12	extracellular matrix organization and biogenesis
+201628_s_at	RRAGA	Ras-related GTP binding A	-1.01	cell death
+205681_at	BCL2A1	Bcl-2-related protein A1 (BFL-1 protein) (Hemopoietic-specific early response protein)	-3.31	apoptosis
+203685_at	BCL2	Apoptosis regulator Bcl-2.	-2.26	apoptosis
+211573_x_at	TGM2	Protein-glutamine gamma-glutamyltransferase 2	-2.3	apoptosis
+207075_at	CIAS1	Cold autoinflammatory syndrome 1 protein (Cryopyrin)	-2	apoptosis
+211704_s_at	SPIN2	Spindlin-like protein 2	-1.83	apoptosis
+205345_at	BARD1	BRCA1-associated RING domain protein 1	-1.61	apoptosis
+204862_s_at	NME3	Nucleoside diphosphate kinase 3	-1.6	apoptosis
+202984_s_at	BAG5	BAG family molecular chaperone regulator 5 (BCL2-associated athanogene 5)	-1.51	apoptosis
+37384_at	PPM1F	Ca(2+)/calmodulin-dependent protein kinase phosphatase	-1.42	apoptosis
+221666_s_at	PYCARD	Apoptosis-associated speck-like protein containing a CARD (hASC)	-1.41	apoptosis
+210026_s_at	CARD10	Caspase recruitment domain protein 10 (CARD-containing MAGUK protein 3)	-1.38	apoptosis
+202094_at	BIRC5	Baculoviral IAP repeat-containing protein 5 (Apoptosis inhibitor survivin)	-1.37	apoptosis
+206752_s_at	DFFB	DNA fragmentation factor 40 kDa subunit (Caspase-activated deoxyribonuclease)	-1.28	apoptosis
+211862_x_at	CFLAR	CASP8 and FADD-like apoptosis regulator precursor (Cellular FLICE-like inhibitory protein) (c-FLIP)	-1.25	apoptosis
+212367_at	FEM1B	fem-1 homolog b	-1.15	apoptosis
+212312_at	BCL2L1	Apoptosis regulator Bcl-X (Bcl-2-like 1 protein).	-1.14	apoptosis
+204278_s_at	EBAG9	Receptor-binding cancer antigen expressed on SiSo cells (Cancer associated surface antigen RCAS1)	-1.02	apoptosis
+218995_s_at	EDN1	Endothelin-1 precursor (Preproendothelin-1) (PPET1)	-3.81	cell communication/cell-cell signaling
+205014_at	FGFBP1	fibroblast growth factor binding protein 1	-1.8	cell communication/cell-cell signaling
+206814_at	NGFB	Beta-nerve growth factor precursor (Beta-NGF).	-1.28	cell communication/cell-cell signaling
+209098_s_at	JAG1	Jagged-1 precursor (Jagged1) (hJ1) (CD339 antigen).	-1.05	cell communication/cell-cell signaling
+205534_at	PCDH7	Protocadherin 7 precursor (Brain-heart protocadherin) (BH-Pcdh).	-2.95	cell adhesion
+203779_s_at	EVA1	Epithelial V-like antigen 1 precursor.	-2.77	cell adhesion
+201108_s_at	THBS1	Thrombospondin-1 precursor.	-2.49	cell adhesion
+211573_x_at	TGM2	Protein-glutamine gamma-glutamyltransferase 2 (Tissue transglutaminase)	-2.3	cell adhesion
+206908_s_at	CLDN11	Claudin-11 (Oligodendrocyte-specific protein).	-2.04	cell adhesion
+210764_s_at	CYR61	CYR61 protein precursor (Cysteine-rich, angiogenic inducer, 61)	-2.01	cell adhesion
+202997_s_at	LOXL2	Lysyl oxidase homolog 2 precursor	-1.91	cell adhesion
+204627_s_at	ITGB3	Integrin beta-3 precursor (Platelet membrane glycoprotein IIIa)	-1.78	cell adhesion
+209101_at	CTGF	Connective tissue growth factor precursor (Hypertrophic chondrocyte- specific protein 24).	-1.49	cell adhesion
+201506_at	TGFBI	Transforming growth factor-beta-induced protein ig-h3 precursor	-1.45	cell adhesion
+204949_at	ICAM3	Intercellular adhesion molecule 3 precursor (ICAM-3) (ICAM-R) (CDw50) (CD50 antigen).	-1.42	cell adhesion
+214702_at	FN1	Fibronectin precursor (FN) (Cold-insoluble globulin) (CIG).	-1.27	cell adhesion
+209356_x_at	EFEMP2	EGF-containing fibulin-like extracellular matrix protein 2 precursor	-1.27	cell adhesion
+60474_at	URP1_HUMAN	Unc-112-related protein 1 (Kindlin-1) (Kindlerin)	-1.21	cell adhesion
+202637_s_at	ICAM1	Intercellular adhesion molecule 1 precursor (ICAM-1) (Major group rhinovirus receptor) (CD54 antigen)	-1.18	cell adhesion
+221731_x_at	CSPG2	Versican core protein precursor (Large fibroblast proteoglycan)	-1.17	cell adhesion
+200931_s_at	VCL	Vinculin (Metavinculin).	-1.16	cell adhesion
+208024_s_at	DGCR6	DGCR6 protein (DiGeorge syndrome critical region 6).	-1.16	cell adhesion
+201927_s_at	PKP4	Plakophilin-4 (p0071). [Source:Uniprot/SWISSPROT;Acc:Q99569]	-1.16	cell adhesion
+215836_s_at	PCDHGA8	Protocadherin gamma C3 precursor (PCDH-gamma-C3) (Protocadherin 43)	-1.15	cell adhesion
+202008_s_at	NID1	Nidogen precursor (Entactin).	-1.1	cell adhesion
+203019_x_at	SSX2IP	Afadin- and alpha-actinin-binding protein (SSX2-interacting protein).	-1.08	cell adhesion
+209114_at	TSPAN1	Tetraspanin-1 (Tspan-1) (Tetraspan NET-1) (Tetraspanin TM4-C).	-1.04	cell adhesion
+201310_s_at	NP311_HUMAN	Neuronal protein 3.1 (p311 protein).	-3.24	others
+219010_at		NA	-2.85	others
+221787_at		NA	-2.54	others
+206170_at	Q13715_HUMAN	NA	-2.49	others
+221011_s_at		NA	-2.43	others
+203002_at	AMOTL2	Angiomotin-like protein 2 (Leman coiled-coil protein) (LCCP).	-2.39	others
+219522_at		four jointed box 1 (Drosophila) (FJX1), mRNA	-2.38	others
+220770_s_at		transposon-derived Buster3 transposase-like	-2.36	others
+218953_s_at		NA	-2.33	others
+204012_s_at	LCMT2	Leucine carboxyl methyltransferase 2 (p21WAF1/CIP1 promoter-interacting protein).	-2.22	others
+221436_s_at	CDCA3	trigger of mitotic entry 1	-2.17	others
+212791_at		NA	-2.17	others
+212573_at	K0830_HUMAN	Probable endonuclease KIAA0830 precursor	-2.16	others
+204222_s_at	GLIPR1	Glioma pathogenesis-related protein 1 precursor (RTVP-1 protein).	-2.12	others
+212500_at	CJ022_HUMAN	NA	-2.11	others
+218904_s_at	CI040_HUMAN	NA	-1.99	others
+221912_s_at	CCDC28B	coiled-coil domain containing 28B	-1.97	others
+221818_at	KIAA1698	NA	-1.96	others
+221573_at		NA	-1.9	others
+201896_s_at		p53-regulated DDA3 isoform a	-1.89	others
+203941_at		integrator complex subunit 9	-1.87	others
+219120_at		NA	-1.85	others
+219428_s_at	PXMP4	Peroxisomal membrane protein 4 (24 kDa peroxisomal intrinsic membrane protein).	-1.82	others
+212109_at	CRAMP1L	Hematological and neurological expressed 1-like protein (HN1-like protein).	-1.8	others
+212858_at	PAQR4	Progestin and adipoQ receptor family member IV.	-1.78	others
+218897_at		NA	-1.78	others
+219299_at	TRMT12	homolog of yeast tRNA methyltransferase	-1.76	others
+216048_s_at	RHOBTB3	Rho-related BTB domain-containing protein 3.	-1.73	others
+203276_at	LMNB1	Lamin B1.	-1.73	others
+212909_at	LYPD1	LY6/PLAUR domain containing 1	-1.72	others
+212407_at	KIAA0859	NA	-1.72	others
+212880_at	WDR7	WD-repeat protein 7 (TGF-beta resistance-associated protein TRAG)	-1.71	others
+220183_s_at	NUDT6	Nucleoside diphosphate-linked moiety X motif 6 (Antisense basic fibroblast growth factor).	-1.67	others
+213246_at	CN109_HUMAN	NA	-1.67	others
+220934_s_at	Q8WUC5_HUMAN	MGC3196 protein (Fragment).	-1.66	others
+213528_at		NA	-1.66	others
+221096_s_at		NA	-1.66	others
+216074_x_at		KIBRA protein	-1.63	others
+214772_at	Q12914_HUMAN	G2 (Fragment).	-1.63	others
+201421_s_at	WDR77	Methylosome protein 50 (MEP50 protein) (WD-repeat protein 77).	-1.61	others
+212154_at	SDC2	Syndecan-2 precursor (Fibroglycan) (Heparan sulfate proteoglycan core protein)	-1.56	others
+217645_at	CN112_HUMAN	Protein C14orf112 precursor.	-1.56	others
+212796_s_at	TBC1D2B	NA	-1.56	others
+216309_x_at	Q8TB58_HUMAN	NA	-1.54	others
+203323_at	CAV2	Caveolin-2.	-1.53	others
+209445_x_at		NA	-1.53	others
+203799_at	CD302	CD302 antigen	-1.52	others
+213454_at	APITD1	Cortistatin precursor [Contains: Cortistatin-29; Cortistatin-17].	-1.52	others
+218789_s_at		NA	-1.52	others
+213227_at	PGRMC2	Membrane associated progesterone receptor component 2 (Progesterone membrane binding protein)	-1.5	others
+220466_at	CCDC15	coiled-coil domain containing 15	-1.5	others
+221135_s_at	ASTE1	NA	-1.5	others
+221843_s_at		NA	-1.48	others
+205449_at	SAC3D1	SAC3 domain containing 1	-1.47	others
+218403_at	15E1_HUMAN	UPF0203 protein 15E1.1.	-1.47	others
+201906_s_at	CTDSPL	CTD small phosphatase-like protein (Small C-terminal domain phosphatase 3)	-1.46	others
+202444_s_at	SPFH1	SPFH domain protein 1 precursor (Protein KE04).	-1.45	others
+212256_at	GALNT10	Polypeptide N-acetylgalactosaminyltransferase 10	-1.45	others
+218342_s_at	KIAA1815	NA	-1.45	others
+221909_at		NA	-1.45	others
+209836_x_at	BOLA2	BolA-like protein 2.	-1.43	others
+213152_s_at	NM_032102.1	Splicing factor, arginine/serine-rich, 46kD (SRP46), mRNA	-1.43	others
+218517_at	PHF17	Jade1 protein long isoform	-1.43	others
+218587_s_at		NA	-1.42	others
+218992_at	CI046_HUMAN	NA	-1.42	others
+209373_at	MALL	MAL-like protein (Protein BENE).	-1.41	others
+214051_at	TMSL8	NB thymosin beta (Thymosin-like protein 8).	-1.41	others
+218399_s_at	CDCA4	Cell division cycle-associated protein 4 (Hematopoietic progenitor protein).	-1.41	others
+218060_s_at		NA	-1.41	others
+210868_s_at	ELOVL6	ELOVL family member 6, elongation of long chain fatty acids	-1.4	others
+218480_at		NA	-1.4	others
+65585_at	Q96HX9_HUMAN	NA	-1.4	others
+201969_at	NASP	Nuclear autoantigenic sperm protein (NASP).	-1.39	others
+218563_at	NDUFA3	NADH-ubiquinone oxidoreductase B9 subunit	-1.39	others
+202796_at	SYNPO	Synaptopodin.	-1.38	others
+204488_at	TMEM15	Transmembrane protein 15.	-1.38	others
+218734_at		NA	-1.38	others
+201720_s_at	LAPTM5	Lysosomal-associated multitransmembrane protein (Retinoic acid- inducible E3 protein)	-1.36	others
+219271_at	GALNT14	Polypeptide N-acetylgalactosaminyltransferase 14	-1.36	others
+217992_s_at	EFHD2	EF-hand domain-containing protein 2 (Swiprosin-1).	-1.34	others
+219219_at		NA	-1.34	others
+220014_at		mesenchymal stem cell protein DSC54	-1.33	others
+209001_s_at	ANAPC13	anaphase promoting complex subunit 13	-1.32	others
+209031_at	IGSF4	immunoglobulin superfamily, member 4	-1.32	others
+211767_at		SLD5	-1.32	others
+219156_at	SYNJ2BP	Synaptojanin 2 binding protein (Mitochondrial outer membrane protein 25).	-1.32	others
+219843_at	Q5RGR8_HUMAN	Intracisternal A particle-promoted polypeptide (Fragment).	-1.32	others
+202238_s_at	NNMT	Nicotinamide N-methyltransferase	-1.3	others
+204386_s_at	MRP63	mitochondrial ribosomal protein 63	-1.3	others
+219997_s_at	COPS7B	COP9 signalosome complex subunit 7b (JAB1-containing signalosome subunit 7b).	-1.3	others
+218597_s_at	CJ070_HUMAN	NA	-1.3	others
+206593_s_at	SURF5	Surfeit locus protein 5.	-1.29	others
+208832_at	ATXN10	Ataxin-10 (Spinocerebellar ataxia type 10 protein)	-1.29	others
+213727_x_at	MPPE1	metallophosphoesterase 1 isoform b precursor	-1.29	others
+212005_at		putative MAPK activating protein PM20,PM21	-1.29	others
+218795_at	ACP6	Lysophosphatidic acid phosphatase type 6 precursor	-1.29	others
+220085_at		helicase, lymphoid-specific	-1.29	others
+201843_s_at	EFEMP1	EGF-containing fibulin-like extracellular matrix protein 1 precursor (Fibulin-3)	-1.27	others
+202440_s_at	ST5	suppression of tumorigenicity 5 isoform 2	-1.26	others
+214804_at	FSHPRH1	Follicle-stimulating hormone primary response protein	-1.26	others
+218935_at	EHD3	EH-domain containing protein 3.	-1.26	others
+203259_s_at	HDDC2	HDDC2 protein (Fragment).	-1.25	others
+206448_at	ZNF365	Talanin.	-1.25	others
+213508_at	CN147_HUMAN	NA	-1.25	others
+219061_s_at	LAGE3_HUMAN	L antigen family member 3 (ITBA2 protein) (ESO-3 protein).	-1.24	others
+219709_x_at		NA	-1.24	others
+201361_at	TMEM109	Mitsugumin-23 precursor (Mg23).	-1.23	others
+213761_at	MDM1	Mdm4, transformed 3T3 cell double minute 1, p53 binding protein isoform 1	-1.22	others
+219072_at		B-cell CLL/lymphoma 7C	-1.22	others
+219479_at	KDELC1	KDEL (Lys-Asp-Glu-Leu) containing 1	-1.22	others
+220651_s_at	MCM10	minichromosome maintenance protein 10 isoform 2	-1.22	others
+219633_at	CT121_HUMAN	NA	-1.22	others
+220092_s_at	ANTXR1	Anthrax toxin receptor 1 precursor (Tumor endothelial marker 8).	-1.21	others
+216251_s_at	K0153_HUMAN	NA	-1.21	others
+202592_at	BLOC1S1	Biogenesis of lysosome-related organelles complex-1, subunit 1 (GCN5-like protein 1) (RT14 protein)	-1.2	others
+212083_at	TEX261	testis expressed sequence 261	-1.2	others
+212792_at	DPY19L1	DPY19L1 protein.	-1.2	others
+219260_s_at		S-phase 2 protein isoform 1	-1.2	others
+220945_x_at	MANSC1	MANSC domain containing protein 1 precursor.	-1.2	others
+202250_s_at	WDR42A	H326	-1.19	others
+217974_at	TM7SF3	Transmembrane 7 superfamily protein member 3 precursor	-1.19	others
+201858_s_at	PRG1	Secretory granule proteoglycan core protein precursor (Platelet proteoglycan core protein)	-1.17	others
+218161_s_at	CLN6	Ceroid-lipofuscinosis neuronal protein 6 (Protein CLN6).	-1.17	others
+212969_x_at		echinoderm microtubule associated protein like 3	-1.16	others
+212121_at		NA	-1.16	others
+219353_at	Q9NXN1_HUMAN	NA	-1.16	others
+221591_s_at	FAM64A	NA	-1.16	others
+204610_s_at	DIPA_HUMAN	Delta-interacting protein A (Hepatitis delta antigen-interacting protein A).	-1.15	others
+212337_at		taurine upregulated gene 1 (TUG1) on chromosome 22	-1.15	others
+217896_s_at	NIP30_HUMAN	NEFA-interacting nuclear protein NIP30.	-1.15	others
+45714_at	HCFC1R1	host cell factor C1 regulator 1 (XPO1 dependant) isoform 1	-1.15	others
+218108_at	CN130_HUMAN	NA	-1.15	others
+218503_at	KIAA1797	NA	-1.15	others
+218126_at	FAM82C	family with sequence similarity 82, member C	-1.14	others
+203420_at	FAM8A1	Protein FAM8A1 (Autosomal highly conserved protein).	-1.13	others
+220261_s_at	ZDHHC4	Probable palmitoyltransferase ZDHHC4 (Zinc finger DHHC domain-containing protein 4)	-1.13	others
+222173_s_at	TBC1D2	TBC1 domain family member 2 (Prostate antigen recognized and indentified by SEREX)	-1.13	others
+218112_at	MRPS34	Mitochondrial 28S ribosomal protein S34 (S34mt) (MRP-S34).	-1.12	others
+218410_s_at		PREDICTED: similar to RIKEN cDNA 1700012G19	-1.12	others
+219658_at	PTCD2	pentatricopeptide repeat domain 2	-1.12	others
+220943_s_at		NA	-1.12	others
+222013_x_at	FAM86A	NA	-1.12	others
+218491_s_at	THYN1	thymocyte nuclear protein 1 isoform 1	-1.11	others
+222039_at	Q86Y91_HUMAN	NA	-1.11	others
+205224_at	SURF2	Surfeit locus protein 2 (Surf-2).	-1.1	others
+211071_s_at	MLLT11	Protein AF1q.	-1.1	others
+216521_s_at	BRCC3	C6.1A protein.	-1.1	others
+216952_s_at	LMNB2	Lamin B2.	-1.1	others
+41858_at		FGF receptor activating protein 1	-1.1	others
+214717_at	Q9NT46_HUMAN	NA	-1.1	others
+208107_s_at		exonuclease NEF-sp	-1.09	others
+214252_s_at	CLN5	Ceroid-lipofuscinosis neuronal protein 5 (Protein CLN5).	-1.09	others
+214713_at	YLPM1	YLP motif containing protein 1 (Nuclear protein ZAP3) (ZAP113).	-1.09	others
+219596_at	THAP10	THAP domain-containing protein 10.	-1.09	others
+221543_s_at	SPFH2	SPFH domain protein 2 precursor.	-1.09	others
+205238_at		NA	-1.09	others
+218726_at		NA	-1.09	others
+204218_at	HS020_HUMAN	Protein HSPC020.	-1.08	others
+210285_x_at	Q9BZS4_HUMAN	PNAS-132.	-1.08	others
+218477_at	TMEM14A	Transmembrane protein 14A.	-1.08	others
+219885_at		NA	-1.08	others
+204244_s_at	DBF4	activator of S phase kinase	-1.07	others
+208906_at	HNRPUL2	Seipin (Bernardinelli-Seip congenital lipodystrophy type 2 protein).	-1.07	others
+214765_s_at	ASAHL	N-acylethanolamine-hydrolyzing acid amidase precursor	-1.07	others
+218069_at		NA	-1.07	others
+219785_s_at	Q9H693_HUMAN	NA	-1.07	others
+210830_s_at	PON2	Serum paraoxonase/arylesterase 2 (Serum aryldialkylphosphatase 2) (Aromatic esterase 2)	-1.06	others
+212910_at	THAP11	THAP domain-containing protein 11.	-1.06	others
+219648_at		whn-dependent transcript 2	-1.06	others
+219806_s_at	FN5_HUMAN	Protein FN5.	-1.06	others
+205519_at	WDR76	WD repeat domain 76	-1.05	others
+206650_at	IQCC	IQ motif containing C	-1.05	others
+218078_s_at	ZDHHC3	Palmitoyltransferase ZDHHC3 (Zinc finger DHHC domain- containing protein 3)	-1.05	others
+219203_at	CN122_HUMAN	UPF0172 protein C14orf122.	-1.05	others
+201120_s_at	PGRMC1	Membrane associated progesterone receptor component 1 (mPR).	-1.04	others
+209796_s_at	TMEM4	MIR-interacting saposin-like protein precursor (Transmembrane protein 4)	-1.04	others
+218024_at	BRP44L	Brain protein 44-like protein.	-1.04	others
+219345_at	BOLA1	BolA-like protein 1.	-1.04	others
+204565_at	THEM2	Thioesterase superfamily member 2.	-1.03	others
+205439_at	GSTT2	Glutathione S-transferase theta 2	-1.03	others
+208885_at	LCP1	L-plastin (Lymphocyte cytosolic protein 1) (LCP-1) (LC64P).	-1.03	others
+220647_s_at	CHCHD8	coiled-coil-helix-coiled-coil-helix domain containing 8	-1.03	others
+218300_at		NA	-1.03	others
+220176_at	NUBPL	NA	-1.03	others
+221951_at	TMEM80	NA	-1.03	others
+201032_at	BLCAP	Bladder cancer-associated protein (Bladder cancer 10 kDa protein)	-1.02	others
+215983_s_at	UBXD6	UBX domain-containing protein 6 (Rep-8 protein)	-1.02	others
+218493_at	CP033_HUMAN	U11/U12 snRNP 25 kDa protein (Minus-99 protein).	-1.02	others
+55093_at	CHGUT_HUMAN	Chondroitin sulfate glucuronyltransferase (N- acetylgalactosaminyl-proteoglycan 3-beta-glucuronosyltransferase)	-1.02	others
+203054_s_at	TCTA	T-cell leukemia translocation-associated gene protein.	-1.01	others
+213861_s_at		NA	-1.01	others
+209891_at	SPBC25	spindle pole body component 25	-1	others
+218418_s_at	Q9UFS0_HUMAN	NA	-1	others
+219166_at	CN104_HUMAN	NA	-1	others
+220840_s_at		NA	-1	others

@@ -1,0 +1,11 @@
+Gene symbol	Gene signature and name	Relative gene expression PCT Mean (log2)	SD	Relative gene expression LBL Mean (log2)	SD	PCT/LBL (real fold)	P (t test) PCT v LBL
+Ash1l	Ash1 (absent, small, or homeotic)-like	-0.633	0.492	0.446	0.677	0.474	4.99E-06
+Blk	B lymphoid kinase	-0.858	0.739	0.031	0.709	0.540	3.37E-03
+Cd19	CD19 antigen	-7.06	2.77	0.354	4.01	0.00589	1.80E-07
+Cd37	CD37 antigen	-1.45	0.652	0.825	1.22	0.00589	1.92E-08
+Cd79a	CD79a antigen (Iga)	-6.49	0.757	2.13	4.67	0.00255	9.74E-09
+Cd79b	CD79b antigen (IgB)	-1.28	0.757	1.73	0.467	0.276	5.26E-06
+Fcgr2b	Fc receptor, IgG, low affinity IIb	-0.797	0.622	0.438	0.769	0.425	2.94E-05
+Igh6	Immunoglobulin mu heavy chain	-4.4	3.11	1.14	3.47	0.0215	1.91E-05
+Il10ra	IL-10 receptor a	-0.448	3.20	0.590	0.714	0.487	1.62E-03
+Spi-B	Spi-B transcription factor (PU.1 related)	-0.633	0.492	0.446	0.677	0.473	1.30E-03

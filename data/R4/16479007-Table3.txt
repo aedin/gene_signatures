@@ -1,0 +1,50 @@
+GenBank accession no.	HUGOa name	Gene induction (fold) IFN-ß	HEQ mutant	IFN-2 (0.3 nM)	IFN-2 (3 nM)	Control (no IFN)	Functional group
+NM_002462	MX1	68.3	56.8	6.1	16.3	1	Innate immunity
+NM_001548	IFIT1	29.4	27.5	14	25.6	1.2	Innate immunity
+NM_006820	IFI44L	27.1	27.8	5.8	16	0.7	Innate immunity
+M30818	MX2	25.5	18.5	7.1	20.2	0.9	Innate immunity
+NM_002535	OAS2	25.1	36.9	14	25.7	1.1	Innate immunity
+NM_014314	RIG-I	21.1	14.1	5.1	12.4	0.9	Innate immunity
+NM_016816	OAS1	13.5	10.1	10	15.8	1	Innate immunity
+AF026941	RSAD2	9.9	9.5	2.1	6.2	1.6	Innate immunity
+NM_004510	IFI75	9.2	7.3	3.8	6.4	1	Innate immunity
+NM_003265	TLR3	7.7	6.1	1.3	2.5	1.3	Innate immunity
+NM_002198	IRF1	4.8	3.6	1.9	2.6	1.1	Innate immunity
+NM_002038	G1P3	4.3	3.2	3.1	4.7	1	Innate immunity
+NM_002468	MYD88	4.2	3.2	2	3.5	1	Innate immunity
+NM_001549	IFIT4	3.7	3.3	5.5	6	1.1	Innate immunity
+U72882	IFI35	3.6	3.1	7.4	11.8	1.2	Innate immunity
+NM_004031	IRF7	3.5	3.8	1.8	2.5	0.8	Innate immunity
+NM_002759	PRKR	3	2.9	2.1	2.8	1.1	Innate immunity
+NM_002053	GBP1	2.9	2	1.2	2.1	1	Innate immunity
+NM_018950	HLA-F	18.5	12.5	4.2	16.7	1	Acquired immunity
+NM_000592	C4B	6.4	4.7	2	2.6	1.1	Acquired immunity
+NM_004048	B2M	4.9	3.7	1.4	2.6	1	Acquired immunity
+M14584	IL6	4.7	3.3	0.9	3.1	0.8	Acquired immunity
+NM_007315	STAT1	11.1	9.4	5.5	9.8	1.1	JAK-STAT pathway
+NM_005419	STAT2	2.8	2.3	1.2	2.1	0.8	JAK-STAT pathway
+NM_006084	ISGF3G	2	2	2.2	3.7	1.1	JAK-STAT pathway
+AF095844	MDA5	15	10.7	5	8.7	1	Cell growth inhibition
+NM_005531	IFI16	9.1	7.6	5	5.4	1	Cell growth inhibition
+NM_004585	RARRES3	4.7	3.7	1.9	3.5	0.8	Cell growth inhibition
+NM_002539	ODC1	0.51	0.51	0.58	0.55	0.9	Cell growth inhibition
+NM_005192	CDKN3	0.47	0.53	0.57	0.46	1	Cell growth inhibition
+NM_004616	TM4SF3	0.45	0.53	0.8	0.56	0.98	Cell growth inhibition
+NM_003810	TNFSF10	4.3	3.3	2.5	4.4	1.5	Apoptosis
+NM_001225	CASP4	3.6	2.7	1.8	2.6	0.7	Apoptosis
+NM_001227	CASP7	3.4	2.5	1.3	1.8	1.2	Apoptosis
+NM_004760	DRAK1	2.5	2.1	1.3	2.2	0.8	Apoptosis
+NM_001230	CASP10	2.1	1.9	1.1	1.4	1.1	Apoptosis
+NM_006792	MORF4	0.54	0.58	0.65	0.48	0.88	Apoptosis
+NM_001344	DAD1	0.48	0.59	0.62	0.52	1	Apoptosis
+NM_017414	USP18	15.8	14.4	6.9	13.5	1	ISGylation and protein degradation
+NM_002800	PSMB9	14.1	12.7	4.2	11.4	0.9	ISGylation and protein degradation
+NM_002427	MMP13	13.4	9.4	2.2	5.7	0.9	ISGylation and protein degradation
+NM_001223	CASP1	8.6	6.9	3	5.7	1	ISGylation and protein degradation
+NM_004159	PSMB8	5.2	5	2.8	4.4	1.2	ISGylation and protein degradation
+NM_005101	ISG15	5	6.9	5.9	12.3	0.9	ISGylation and protein degradation
+NM_003335	UBE1L	4.6	4	2.5	3.8	0.9	ISGylation and protein degradation
+NM_002818	PSME2	3.4	3.3	1.9	2.5	0.9	ISGylation and protein degradation
+NM_002801	PSMB10	3.3	2.8	1.6	2.7	1	ISGylation and protein degradation
+NM_001959	EEF1B2	0.47	0.55	0.58	0.52	0.99	Protein synthesis inhibition
+NM_001417	EIF4B	0.32	0.35	0.52	0.47	0.96	Protein synthesis inhibition

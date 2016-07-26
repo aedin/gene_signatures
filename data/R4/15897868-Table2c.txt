@@ -1,0 +1,20 @@
+Rank	Gene name	Gene bank Nr.	Signal intensity	Regulation factor	s.d.	P-value	Pathway
+  5	Interleukin 1-alpha (IL1A)	gb:M15329.1	320	-7.84	2.67	P<0.001	NFB
+ 10	Superoxide dismutase 2, mitochondrial	gb:W46388	1213.9	-5.73	1.51	P<0.001	NFB
+ 13	Interleukin 6	gb:NM_000600.1	4064.93	-5.27	0.92	P<0.001	NFB
+ 15	Insulin-like growth factor binding protein 3	gb:NM_000598.1	1710.77	-5.18	0.82	P<0.001	HIF-1
+ 23	Matrix metalloproteinase 1	gb:NM_002421.2	514.4	-4.38	1.13	P<0.001	HIF-1
+ 32	5 nucleotidase (CD73) (NT5) 2	gb:NM_002526.1	234.9	-4.15	0.82	P<0.001	HIF-1
+ 40	Vascular endothelial growth factor C	gb:NM_005429.1	192	-4.07	1.13	P<0.001	HIF-1
+ 41	Endothelial PAS domain protein 1/HIF-2	gb:NM_001430.1	1027.4	-3.84	0.64	P<0.001	Hypoxia inducible transcription factor
+ 46	Tissue factor pathway inhibitor-2	gb:NM_006528.1	4038	-3.83	0.83	P<0.001	NFB
+ 47	Interleukin 8 C-terminal variant (IL8)	gb:AF043337.1	2906.2	-3.81	1.13	P<0.001	NFB
+ 51	Stanniocalcin	gb:NM_003714.1	534	-3.72	1.07	P<0.001	HIF-1
+ 56	CD55/DAF1	gb:NM_000574.	4526.2	-3.63	0.95	P<0.001	NFB
+ 58	Interleukin 18 receptor 1	gb:NM_003855.1	184.6	-3.61	1	P<0.001	NFB
+ 72	UDP-glucose ceramide glucosyltransferase	gb:NM_003358.1	1090.9	-3.31	0.85	P<0.001	NFB
+101	Syndecan 4 (SDC4)	gb:NM_002999.1	366.3	-2.86	0.67	P<0.001	NFB
+112	Immediate early response 3 (IER3)	gb:NM_003897.1	1983.3	-2.83	0.52	P<0.001	NFB (negative feedback loop)
+116	Neuronal cell adhesion molecule (NRCAM)	gb:NM_005010.1	668.5	-2.79	0.44	P<0.001	?
+129	Phospholipase A2, group IVA (cytosolic, calcium-dependent)	gb:M68874.1	851.4	-2.75	0.4	P<0.001	?
+141	Urokinase-type plasminogen activator receptor (uPAR)	gb:U08839.1	923.7	-2.63	0.56	P<0.001	HIF-1

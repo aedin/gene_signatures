@@ -1,0 +1,28 @@
+Function	UniGene	Genbank	Gene name	Array location	BC-2 control	BC-2 + MAP30	BC-2 + TPA	BC-2 + TPA + MAP30
+Caspases	Hs. 2490	M87507	Caspase-1 (ICE)	1A, 1B	VLE	VLE	VLE	VLE
+Caspases	Hs. 108131	U13021	Caspase-2	1C, 1D	VLE	VLE	VLE	VLE
+Caspases	Hs. 74552	U13737	Caspase-3 (cpp32)	1E, 1F	VLE	up-regulated	VLE	up-regulated
+Caspases	Hs. 74122	U28014	Caspase-4 (Ich2)	2A, 2B
+Caspases	Hs. 3257	U28015	Caspase-5	2C, 2D
+Caspases	Hs. 3280	U20537	Caspase-6 (mch2)	2E, 2F	HE	HE	HE	HE
+Caspases	Hs. 9216	U67320	Caspase 7 (mch 3)	3A, 3B	VLE	VLE	VLE	VLE
+Caspases	Hs. 19949	NM_001228	Caspase-8 (Flice)	3C, 3D	VLE	VLE	VLE	VLE
+Caspases	Hs. 100641	U60521	Caspase-9 (mch 6)	3E, 3F	VLE	VLE	VLE	VLE
+Caspases	Hs. 5353	U60519	Caspase 10 (mch4)	4A, 4B	HE	HE	HE	HE
+Apoptosis regulators	Hs. 195175	AF010127	Casper	4C, 4D	VLE	VLE	VLE	VLE
+Apoptosis regulators	Hs. 155566	NM_003805	CRADD	4E, 4F	LE	up-regulated	LE	up-regulated
+Apoptosis regulators	Hs. 178743	NM_001350	DAXX	5A, 5B
+Apoptosis regulators	Hs. 82359	X63717	Fas (Apo-1. CD95)	5C, 5D	VLE	VLE	VLE	VLE
+Apoptosis regulators	Hs. 127799	U37546	IAP-1 (inhibitor apoptosis protein-1)	5E, 5F	VLE	VLE	VLE	VLE
+Apoptosis regulators	Hs. 75363	U45879	IAP-1 (inhibitor apoptosis protein-2)	6A, 6B
+Apoptosis regulators	Hs. 47007	NM_003954	NIK (Ser/Thr protein kinase)	6C, 6D	HE	down-regulated	HE	down-regulated
+Apoptosis regulators	Hs. 204298	NM_001066	TNFR2 (TNF receptor 2)	6E, 6F	HE	down-regulated	HE	down-regulated
+Apoptosis regulators	Hs. 200526	U12597	TRAF2 (TNFR associated factor 2)	7A, 7B
+Apoptosis regulators	Hs. 89676	NM_003300	TRAF3 (TNFR associated factor 3)	7C, 7D
+Apoptosis regulators	Hs. 29736	AB000509	TRAF5 (TNFR associated factor 5)	7E, 7F
+Apoptosis regulators	Hs. 90957	NM_004620	TRAF6 (TNFR associated factor 6)	8A, 8B	VLE	VLE	VLE	VLE
+Apoptosis regulators	Hs. 51233	AF016266	Trail receptor (DR5)	8C, 8D	VLE	VLE	VLE	VLE
+Apoptosis regulators			pCU18 (negative control)	1G, 2G
+Apoptosis regulators	Hs. 180953	X00351	Beta Actin (positive control)	3G, 4G	HE	HE	HE	HE
+Apoptosis regulators	Hs. 74456	M33197	GAPDH (positive control)	5G, 6G, 7G	HE	HE	HE	HE
+Apoptosis regulators	Hs. 74456	M33197	GAPDH (positive control)	8E, 8F, 8G	HE	HE	HE	HE

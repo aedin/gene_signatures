@@ -1,0 +1,81 @@
+Gene symbol	Co. vs TPA	Co. vs PAP	Co. vs SCC	Locuslink	Function	Tumor
+Usp25	3.27	5.09	2.93	30940	Catabolism	Benign
+Krt1–13	ND	5.74	4.59	16663	Cytoskeleton	Benign
+Sprr2a	1.81	5.69	2.85	20755	Cytoskeleton	Benign
+Sprr2d	ND	5.24	6.47	20758	Cytoskeleton	Benign
+Krt1–16	4.88	4.75	5.71	16666	Cytoskeleton	Benign
+AI893889	-2.96	3.74	0.13	99129	Differentiation	Benign
+Slpi	7.2	8.43	4.9	20568	Immune response	Benign
+Serpind1	1.31	3.52	1.12	15160	Immune response	Benign
+Gsto1	-0.16	4.62	6.37	14873	Metabolism	Benign
+Gsta4	1.05	4.37	5.6	14860	Metabolism	Benign
+Fabp5	ND	3.71	3.11	16592	Metabolism	Benign
+Glrx1	ND	3.47	1.57	93692	Metabolism	Benign
+Cyp2c70	2.03	3.4	2.1	226105	Metabolism	Benign
+S100a9	4.72	8.79	6.4	20202	Signalling	Benign
+S100a8	2.59	5.05	2.7	20201	Signalling	Benign
+Arhg	4.61	4.84	5.35	56212	Signalling	Benign
+AI835008	2.53	4.32	1.69	106652	Transcription	Benign
+Etohi2	1.08	4.23	1.38	14000	Unknown	Benign
+2310047D13Rik	-0.54	3.74	0.41	116972	Unknown	Benign
+1200016C12Rik	3.66	3.6	2.63	101533	Unknown	Benign
+Pcdh12	-4.05	-5.63	-6.09	53601	Adhesion	Benign
+Myh1	-0.28	-5.02	-3.13	17879	Cytoskeleton	Benign
+Actn3	0.04	-5.74	-3.29	11474	Cytoskeleton	Benign
+Tnnt3	0.26	-5.94	-4.49	21957	Cytoskeleton	Benign
+Myh2	-0.25	-6.68	-4.76	17882	Cytoskeleton	Benign
+Myh4	-0.43	-7.13	-4.25	17884	Cytoskeleton	Benign
+Tnnc2	0.42	-7.63	-5.95	21925	Cytoskeleton	Benign
+Myh8	-0.21	-7.8	-4.52	17885	Cytoskeleton	Benign
+Tnni2	0.72	-8.39	-5.53	21953	Cytoskeleton	Benign
+Mylpf	0.36	-11.16	-7.25	17907	Cytoskeleton	Benign
+Adn	-0.24	-5.97	-4.74	11537	Immune response	Benign
+Scd1	-0.38	-5.78	-4.01	20249	Metabolism	Benign
+Alb1	0.43	-5.9	-6.47	11657	Metabolism	Benign
+Cox6a2	0.24	-6.5	-5.49	12862	Metabolism	Benign
+Ckm	0.43	-7.28	-6.58	12715	Metabolism	Benign
+Atp2a1	-0.1	-8.37	-5.64	11937	Metabolism	Benign
+Igfbp5	-0.59	-5.62	-2.97	16011	Signalling	Benign
+S100a3	-6.67	-6.92	-3.58	20197	Signalling	Benign
+Plxnb2	-1.16	-7.51	-5.75	140570	Signalling	Benign
+Mllt2h	0.5	-6.84	-5.49	17355	Transcription	Benign
+Ccnd1	-1.56	1.26	3.44	12443	Cell cycle	Malignant
+Sprr2d	ND	5.24	6.47	20758	Cytoskeleton	Malignant
+Krt1–16	4.88	4.75	5.71	16666	Cytoskeleton	Malignant
+Krt1–13	ND	5.74	4.59	16663	Cytoskeleton	Malignant
+Cotl1	ND	1.29	3.67	72042	Cytoskeleton	Malignant
+Ecm1	0.52	0.94	4.1	13601	ECM	Malignant
+Col18a1	-0.33	0.51	3.19	12822	ECM	Malignant
+Col1a2	-1.1	-0.69	3.18	12843	ECM	Malignant
+Slpi	7.2	8.43	4.9	20568	Immune response	Malignant
+Ltf	0.04	0.53	3.75	17002	Immune response	Malignant
+Saa3	5.07	ND	3.23	20210	Immune response	Malignant
+Gsto1	-0.16	4.62	6.37	14873	Metabolism	Malignant
+Gsta4	1.05	4.37	5.6	14860	Metabolism	Malignant
+Hbb-b2	0.73	1.74	3.75	15130	Oxygen transport	Malignant
+Hba-a1	0.93	1.04	3.35	15122	Oxygen transport	Malignant
+S100a8	6.36	ND	6.81	20201	Signalling	Malignant
+S100a9	4.72	8.79	6.4	20202	Signalling	Malignant
+Arhg	4.61	4.84	5.35	56212	Signalling	Malignant
+1600029D21Rik	1.89	0.82	4.02	76509	Unknown	Malignant
+2810043G13Rik	0.95	0.25	3.35	72690	Unknown	Malignant
+Pcdh12	-4.05	-5.63	-6.09	53601	Adhesion	Malignant
+Tnnt3	0.26	-5.94	-4.49	21957	Cytoskeleton	Malignant
+Myh8	-0.21	-7.8	-4.52	17885	Cytoskeleton	Malignant
+Myh2	-0.25	-6.68	-4.76	17882	Cytoskeleton	Malignant
+Tnni2	0.72	-8.34	-5.53	21953	Cytoskeleton	Malignant
+Tnnc2	0.42	-7.63	-5.95	21925	Cytoskeleton	Malignant
+Mylpf	0.36	-11.16	-7.25	17907	Cytoskeleton	Malignant
+Adn	-0.24	-5.97	-4.74	11537	Immune response	Malignant
+Car3	0.03	-3.03	-5.05	12350	Metabolism	Malignant
+Cox6a2	0.24	-6.5	-5.49	12862	Metabolism	Malignant
+Atp2a1	-0.1	-8.37	-5.64	11937	Metabolism	Malignant
+Alb1	0.43	-5.9	-6.47	11657	Metabolism	Malignant
+Ckm	0.43	-7.28	-6.58	12715	Metabolism	Malignant
+Retnla	0.17	-4.54	-4.76	57262	Signalling	Malignant
+Ccl27	-1.88	-3.42	-5.29	20301	Signalling	Malignant
+Snx7	0.62	-2.1	-5.4	76561	Signalling	Malignant
+Plxnb2	-1.16	-7.51	-5.75	140570	Signalling	Malignant
+Scand1	0.44	-3.41	-4.83	19018	Transcription	Malignant
+Mllt2h	0.5	-6.84	-5.49	17355	Transcription	Malignant
+2310061N23Rik	0.17	-3.73	-4.29	76933	Unknown	Malignant

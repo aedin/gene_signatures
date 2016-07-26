@@ -1,0 +1,30 @@
+Symbol	Accession number	Gene name	Statistical effect	P	Wild-type Fold ?	p55?/?p75+/+Fold ?	p55+/+p75?/? Fold ?	DKO Fold ?	Function
+Nnt	AK090115	nicotinamide nucleotide transhydrogenase	Three-way	0.0178	0.95	1.11	1.04	0.64	Energy production and metabolism-related genes
+Ucp3	AB010742	uncoupling protein 3, mitochondrial	Drug × p55	0.0066	0.49	0.64	0.36	0.67	Energy production and metabolism-related genes
+Tk2	AJ249341	thymidine kinase 2, mitochondrial	Drug × p75	0.0015	1.52	1.2	0.82	0.51	Energy production and metabolism-related genes
+Gpi1	M14220	glucose phosphate isomerase 1	Drug × p55	0.0093	1.08	0.93	1.1	0.95	Energy production and metabolism-related genes
+Pfkfb2	BC051014	6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 2	Drug × p75	0.0293	0.75	0.85	0.64	0.44	Energy production and metabolism-related genes
+Gbe1	BC017541	glucan (1,4-?-), branching enzyme 1	Drug × p75	0.0165	0.83	0.96	1.61	1.2	Energy production and metabolism-related genes
+Plcd1	U85711	phospholipase C?	Three-way	0.0076	0.65	0.92	0.77	0.44	Energy production and metabolism-related genes
+Acadm	U07159	acetyl-CoA dehydrogenase, medium chain	Drug × p55	0.0039	1.21	1.01	1.17	0.99	Energy production and metabolism-related genes
+B4galt6	AF097158	UDP-Gal:?GlcNAc ?1,4-galactosyltransferase, polypeptide 6	Drug × p75	0.0017	1.21	0.98	0.68	0.76	Energy production and metabolism-related genes
+Plcd1	U85711	phospholipase C?	Three-way	0.0076	0.65	0.92	0.77	0.44	Calcium-regulated genes
+Pln	AK002622	phospholamban	Drug × p55	0.0084	1.14	0.95	1.07	0.87	Calcium-regulated genes
+Cacna2d1	U73487	calcium channel, voltage-dependant, ?2/? subunit 1	Drug × p75	0.0061	1.25	1.17	0.97	0.65	Calcium-regulated genes
+Sirt1	AF214646	sirtuin 1 (silent mating type information regulation 2, homologue) 1 (Saccharomyces cerevisiae)	Drug × p55	0.005	0.99	1.54	1.05	1.66	Cell growth and cell death–related genes
+Bclaf1	BC034300	BCL2-associated transcription factor 1	Drug × p75	0.008	0.78	0.86	0.99	1.13	Cell growth and cell death–related genes
+P2rx7	J009823	purinergic receptor P2X, ligand-gated ion channel, 7	Drug × p75	0.0131	1.1	1.05	1.8	2.54	Cell growth and cell death–related genes
+Sas	AK012457	sarcoma amplified sequence	Drug × p55	0.0051	1.17	1.08	1.3	0.95	Cell growth and cell death–related genes
+Orc5l	AJ007360	origin recognition complex, subunit 5-like (S. cerevisiae)	Drug × p75	0.0037	1.08	0.83	0.64	0.66	Cell growth and cell death–related genes
+Crkl	AK048641	v-crk sarcoma virus CT10 oncogene homologue (avian)-like	Drug × p75	0.0058	0.94	1.42	0.8	0.7	Cell growth and cell death–related genes
+Ezh2	U52951	enhancer of zeste homologue 2 (Drosophila)	Three-way	0.0304	1.58	1.82	1.45	0.71	Cell growth and cell death–related genes
+Shprh	AY162264	SNF2 histone linker PHD RING helicase	Drug × p75	0.0185	0.83	0.8	0.59	0.47	Cell growth and cell death–related genes
+Ube1x	AK088528	ubiquitin-activating enzyme E1, Chr X	Three-way	0.0044	1.04	0.98	1.18	0.88	Cell growth and cell death–related genes
+Trim24	S78221	tripartite motif protein 24	Drug × p55	0.0043	1.26	0.87	1.27	0.95	Cell growth and cell death–related genes
+Herpud1	AB034991	homocysteine-inducible, endoplasmic reticulum stress-inducible, ubiquitin-like domain member 1	Drug × p75	0.035	1.12	0.68	0.61	0.46	Cell growth and cell death–related genes
+Lama4	Y09827	laminin, ?4	Drug × p55	0.0386	0.75	0.95	0.65	0.85	Cytoskeleton/cell adhesion
+Ddah2	AF004106	dimethylarginine dimethylaminohydrolase 2	Drug × p55	0.0107	0.65	0.96	0.64	1	Signal transduction/transcription
+Jundm2	AB077438	Jun dimerization protein 2	Drug × p75	0.0076	1.05	1.02	1.72	1.65	Signal transduction/transcription
+Sirt1	AF214646	sirtuin 1 (silent mating type information regulation 2, homologue) 1 (S. cerevisiae)	Drug × p55	0.005	0.99	1.54	1.05	1.66	Signal transduction/transcription
+Dnaja3	AK004575	DnaJ (Hap40) homologue, subfamily A, member 3	Drug × p75	0.0025	0.98	0.9	1.14	1.25	Signal transduction/transcription
+P2rx7	AJ009823	purinergic receptor P2X, ligand-gated ion channel, 7	Drug × p75	0.0131	1.1	1.05	1.8	2.54	Signal transduction/transcription

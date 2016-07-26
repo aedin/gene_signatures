@@ -1,0 +1,11 @@
+Gene symbol	Gene signature and name	Relative gene expression PCT Mean (log2)	SD	Relative gene expression LBL Mean (log2)	SD	PCT/LBL (real fold)	P (t test) PCT v LBL
+Abcb1b	ATP-binding cassette, subfamily B, member 1B	0.795	0.656	-1.62	0.693	5.33	5.10E-06
+Cxcl12	Chemokine ligand 12	2.03	0.843	0.115	0.722	3.77	1.50E-04
+Eno3	Enolase 3, B muscle	2.39	0.574	-0.451	0.513	7.17	7.68E-10
+Fyn	Fyn proto-oncogene	1.23	0.619	-0.538	0.354	3.17	1.28E-06
+Gstp1	Glutathione S-transferase, pi 1	1.15	0.487	-0.638	0.354	3.44	1.99E-08
+Nup153	Nucleoporin 153	2.76	0.498	-0.775	0.307	11.6	1.48E-13
+Psmf1	Proteasome inhibitor subunit 1	2.41	0.542	-0.303	0.753	6.55	4.16E-08
+Slc3a2	Solute carrier family 3, member 2	1.72	0.304	-0.642	0.323	5.14	2.18E-12
+Slc7a5	Solute carrier family 7, member 5	2.15	0.513	-0.378	0.343	5.77	1.10E-10
+Zfp162	Zinc finger protein 162	1.98	0.751	-0.132	0.499	4.32	5.73E-07

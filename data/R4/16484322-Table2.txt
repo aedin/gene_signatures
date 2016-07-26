@@ -1,0 +1,20 @@
+Symbol	Gene name	log2 Fold change	q (%)	PKA	PKC	Reference
+Por	P450 (cytochrome) oxidoreductase	0.44	0.08	+	+	52
+Mc2r	Melanocortin 2 receptor	0.72	0.69	+	+	53
+Star	Steroidogenic acute regulatory protein	1.55	0.08	+	-	54
+Acls4	Acyl-CoA synthetase long-chain family member 4	0.4	0.08	+	-	55
+Nr5a1	Nuclear receptor subfamily 5, group A, member 1	0.85	0.08	+	-	56
+Gstm1	Glutathione S-transferase, f 1	-0.71	0.08	+	-	57
+Hnrpab	Heterogeneous nuclear ribonucleoprotein A/B	-0.23	0.08	+	-	40
+Scarb1	Scavenger receptor class B, member 1	1.94	0.08	+	-	58
+Bzrp	Benzodiazepine receptor, peripheral	1.01	0.08	+	-	59
+Hsd3b1	Hydroxysteroid dehydrogenase-1,  sigma < 5 > -3-Beta	0.62	0.08	+	-	60
+Abcb1b	ATP-binding cassette, sub-family B (MDR/TAP), member 1B	0.65	0.08	+	-	61
+Fdxr	Ferredoxin reductase	0.3	0.4	+	-	62
+Ldlr	Low-density lipoprotein receptor	0.43	0.4	+	-	63
+Hmgcr	3-Hydroxy-3-methylglutaryl-CoA reductase	0.55	0.64	+	-	64
+Hmox1	Heme oxygenase (decycling) 1	0.4	1.47	+	-	65
+Plat	Plasminogen activator, tissue	0.99	3.68	+	-	(50, 66)
+Odc1	Ornithine decarboxylase, structural 1	1.01	0.08	-	+	(30, 50)
+Inha	Inhibin a	0.78	0.15	-	-	67
+Cyp11a1	Cytochrome P450, family 11a, polypeptide 1	0.44	0.48	-	-	68

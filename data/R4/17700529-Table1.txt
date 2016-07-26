@@ -1,0 +1,36 @@
+Gene symbol	Gene name	GO biological process	FC comparison I Er a	II ER b–E2	III ER b–ICI	IV ER a/b	Expression
+TFF1	Trefoil factor 1 (pS2)	Cell growth and/or maintenance; defense response; digestion	301I	0.2 I	0.5I	53I	Upregulated by ER
+GREB1II	GREB1 protein	Biological role unknown	8.3	0.6	1	4.7	Upregulated by ER
+PKIB	Protein kinase (cAMP-dependent, catalytic) inhibitor beta	Negative regulation of protein kinase activity	6.3	1	1	4.4	Upregulated by ER
+CXCL12	Chemokine (C-X-C motif) ligand 12 (SDF-1)	Calcium ion homeostasis; cell adhesion; cell–cell signaling	5.6	0.5III	1	1.8	Upregulated by ER
+IGFBP4	Insulin-like growth factor binding protein 4	Regulation of cell growth; signal transduction; skeletal development	5.5	0.7	1	2.8	Upregulated by ER
+SIAH2	Seven in absentia homolog 2	Development	17I	0.8 I	0.5 I	28I	Upregulated by ER
+HSPB8	Heat-shock 22 kDa protein 8	Biological role unknown	4.1	0.8	0.8	3.1	Upregulated by ER
+KCNK5II	Potassium channel, subfamily K, member 5	Excretion; potassium ion transport	4	0.4	n/a	1.9	Upregulated by ER
+IL20	Interleukin 20	Proinflammatory cytokine	248I	0.1 I	0.3 I	117I	Upregulated by ER
+SLC26A2II	Solute carrier family 26 (sulfate transporter), member 2	Sulfate transport	5.1I	0.6 I	1.0I	3 I	Upregulated by ER
+UGT2B17	UDP glycosyltransferase 2 family, polypeptide B17	Steroid metabolism; xenobiotic metabolism	3.3	0.4	n/a	1.3	Upregulated by ER
+CCNA2	Cyclin A2	Mitotic G2 checkpoint	7.9I	0.9I	0.2I,III	33I	Upregulated by ER
+TUBA1	Tubulin, alpha, ubiquitous	Microtubule-based movement	3.2	0.8	0.9	3	Upregulated by ER
+ITPK1	Inositol 1,3,4-triphosphate 5/6 kinase	Signal transduction	3.2	0.7	1.2	1.9	Upregulated by ER
+HMGB2	High-mobility group box 2	DNA packaging; regulation of transcription	3.2	0.6III	0.6III	3.2	Upregulated by ER
+OLFM1II	Olfactomedin 1	Neurogenesis	3.1	0.4III	1	1.6	Upregulated by ER
+BUB1	BUB1 budding uninhibited by benzimidazoles 1 homolog (yeast)	Mitotic spindle checkpoint; protein amino acid phosphorylation	3.1	0.7	0.6III	4.1	Upregulated by ER
+Q8TF51	KIAA1950 protein	Proteolysis and peptidolysis	3	1.1	0.9	2.8	Upregulated by ER
+C19orf14	Chromosome 19 open reading frame 14		3	0.7	0.7	3.3	Upregulated by ER
+CDC20	CDC20 cell division cycle 20 homolog	Regulation of cell cycle; ubiquitin-dependent protein catabolism	3	0.6	0.7	2.6	Upregulated by ER
+SLC7A5	Solute carrier family 7 (cationic amino acid transporter, y+ system), member 5	Amino acid metabolism; amino acid transport	3	n/a	1	2.1	Upregulated by ER
+RNASEH2A	Ribonuclease H2, large subunit	DNA replication; RNA catabolism	2.9	0.8	0.7	3.2	Upregulated by ER
+–	Similar to ubiquitin-conjugating enzyme E2S		2.9	0.8	0.9	2.3	Upregulated by ER
+UBE2S	Ubiquitin-conjugating enzyme E2S	Ubiquitin cycle	2.9	0.6	1	1.9	Upregulated by ER
+THBS1	Thrombospondin 1	Blood coagulation; cell adhesion; neurogenesis	2.9	0.6	1	1.9	Upregulated by ER
+C10orf3	Chromosome 10 open reading frame 3	Cytoskeleton organization and biogenesis	2.9	0.6III	0.5III	3.4	Upregulated by ER
+TPD52L1	Tumor protein D52-like 1	Oncogenesis	2.8	0.8	0.9	2.8	Upregulated by ER
+PPM1E	Protein phosphatase 1E (PP2C domain containing)	Protein amino acid dephosphorylation	2.8	0.7	1.1	1.9	Upregulated by ER
+C20orf129	Chromosome 20 open reading frame 129		2.8	0.8	0.7	2.8	Upregulated by ER
+TP53INP1	Tumor protein p53 inducible nuclear protein 1		0.1I	2.9 I	0.8I	0.5I	Downregulated by ER
+EDG3	Endothelial differentiation, sphingolipid G-protein-coupled receptor, 3	Cytosolic calcium ion concentration elevation; positive regulation of cell proliferation	0.3	0.8	0.5III	0.7	Downregulated by ER
+ERBB2	v-erb-b2 erythroblastic leukemia viral oncogene homolog 2, neuro/glioblastoma derived oncogene homolog (avian)	Cell proliferation; oncogenesis; transmembrane receptor protein tyrosine kinase signaling pathway	0.3	1.4	1	0.5	Downregulated by ER
+CYP1A1	Cytochrome P450, family 1, subfamily A, polypeptide 1	Electron transport	0.3	0.7	0.5	0.5	Downregulated by ER
+ZFP36L2	Zinc-finger protein 36, C3H type-like 2	Cell proliferation	0.4	0.8	0.5	0.6	Downregulated by ER
+EFNB2	Ephrin-B2	Cell–cell signaling; neurogenesis	0.2I	2.5 I	0.8I	0.6I	Downregulated by ER

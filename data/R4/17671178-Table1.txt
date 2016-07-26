@@ -1,0 +1,25 @@
+Gene	Microenvironment	Histopathologic grade of first expression change	Expression pattern	Array P
+CENPF	Epithelium	VCE	Increasing, not parallel; increase at cancer	P = 0.001;P = 0.00001
+CDKN2A	Epithelium	VCE	Increasing, not parallel; increase at cancer	P = 0.001;P = 0.00001
+ITGAV	Epithelium	VCE	Increasing, not parallel; increase at cancer	P = 0.00003; P= 0.00472
+KIF23	Epithelium	VCE	Increasing, not parallel; increase at cancer	P = 0.00099; P= 0.00049
+IFNAR1	Epithelium	VCE	Increasing; increase at cancer	Visual inspection;P = 0.00288
+EMP1	Epithelium	CIN 1	Decreasing, not parallel; decrease at cancer	P = 0.040;P = 0.00051
+IL1RN	Epithelium	CIN 1	Decreasing, not parallel; decrease at cancer	P = 0.027;P = 0.012
+ACAA1	Epithelium	CIN 1	Decreasing, not parallel; decrease at cancer	P = 0.035;P = 0.00086
+KAL1	Epithelium	CIN 2	Increasing, not parallel	P = 0.00075
+CDK4	Epithelium	CIN 2	Increase cancer (analysis I)	P = 0.108;P = 0.050
+MMP3	Epithelium	CIN 3	Increasing, not parallel; increase at cancer	P = 0.00078; P= 0.469
+TLOC1	Epithelium	SCCA	Increasing parallel, not parallel; increase at cancer	P < 0.00001; P= 0.224
+MMP14	Epithelium	SCCA	Increasing, not parallel; increase at cancer	P = 0.030;P = 0.518
+DSG3	Epithelium	CIN 3	Decreasing, not parallel; decrease at cancer; (analysis I)	P = 0.175;P = 0.075 (P = 0.038)
+NOMO2	Epithelium	SCCA	Increase at cancer (analysis I)	P = 0.504; (P = 0006)
+TNFRSF12A	Epithelium	SCCA	Increase at cancer (analysis I)	P = 0.701; (0.00061)
+TBX19	Stroma	CIN 2	Decreasing, not parallel	P = 0.02
+DAB2	Stroma	CIN 2	Decreasing, parallel	P = 0.00096
+MAP2K7	Stroma	CIN 2	Decreasing, parallel	P = 0.00031
+HINT1	Stroma	CIN 2	Increasing, parallel	P = 0.006
+TAGLN2	Stroma	CIN 2	Increasing, parallel	P = 0.00005
+DSG3	Stroma	CIN 3	Increasing, not parallel; increase at cancer (analysis I)	P = 0.428;P = 0.298; (P = 0.029)
+BRWD1	Stroma	SCCA	Increasing, not parallel; increase at cancer	P = 0.002;P = 0.744
+MMP3	Stroma	SCCA	Increasing, not parallel; increase at cancer; (analysis I)	P = 0.208P = 0.89467 (P= 0.062)

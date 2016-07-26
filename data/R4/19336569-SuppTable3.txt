@@ -1,0 +1,82 @@
+gene symbol	chromosome location	Entrez ID	U133A ID	U133A Cox P value	100K Array SNP ID (SNP_A-)	SNP Cox P value	gain or loss (1=gain; -1=loss)	gene expression & copy number correlation	diploid copy number estimate	copy number cutoff	description
+SMC4	3q26.1	10051	201664_at	0.0001	1706664	0.0001	1	0.519	2.176	3.676	SMC4 structural maintenance of chromosomes 4-like 1 (yeast)
+PDCD10	3q26.1	11235	210907_s_at	0.0101	1753577	0.0115	1	0.756	2.108	3.608	programmed cell death 10
+PREP	6q22	5550	204117_at	0.0288	1692699	0.0116	1	0.722	2.133	3.633	prolyl endopeptidase
+CBX3	7p15.2	11335	201091_s_at	0.0058	1674739	0.0003	1	0.585	2.187	3.687	chromobox homolog 3 (HP1 gamma homolog, Drosophila)
+NUP205	7q33	23165	212247_at	0.0093	1657909	0.0004	1	0.576	2.153	3.653	nucleoporin 205kDa
+TCEB1	8q21.11	6921	202823_at	0.0153	1684065	0.0079	1	0.653	2.348	3.848	transcription elongation factor B (SIII), polypeptide 1 (15kDa, elongin C)
+TERF1	8q13	7013	203448_s_at	0.042	1745614	0.0061	1	0.801	2.729	4.229	telomeric repeat binding factor (NIMA-interacting) 1
+TPD52	8q21	7163	201690_s_at	0.0048	1665579	0.019	1	0.624	1.904	3.404	tumor protein D52
+GGH	8q12.3	8836	203560_at	0.0215	1682989	0.0143	1	0.528	2.011	3.511	gamma-glutamyl hydrolase (conjugase, folylpolygammaglutamyl hydrolase)
+TRAM1	8q13.3	23471	201398_s_at	0.0066	1695245	0.0133	1	0.618	2.211	3.711	translocation associated membrane protein 1
+ZBTB10	8q13-q21.1	65986	219312_s_at	0.0003	1656394	0.005	1	0.674	2.027	3.527	zinc finger and BTB domain containing 10
+YTHDF3	8q12.3	253943	221749_at	0.0056	1719283	0.009	1	0.62	1.922	3.422	YTH domain family, member 3
+EIF3E	8q22-q23	3646	208697_s_at	0.0306	1689974	0.0149	1	0.544	2.106	3.606	eukaryotic translation initiation factor 3, subunit 6 48kDa
+POLR2K	8q22.2	5440	202634_at	0.037	1642344	0.0235	1	0.694	2.216	3.716	polymerase (RNA) II (DNA directed) polypeptide K, 7.0kDa
+RPL30	8q22	6156	200062_s_at	0.0498	1747204	0.0185	1	0.698	2.227	3.727	ribosomal protein L30
+CCNE2	8q22.1	9134	205034_at	0.0013	1659515	0.028	1	0.527	2.241	3.741	cyclin E2
+RAD54B	8q21.3-q22	25788	219494_at	0.019	1663487	0.0354	1	0.692	1.954	3.454	RAD54 homolog B (S. cerevisiae)
+MTERFD1	8q22.1	51001	219363_s_at	0.0291	1717843	0.0174	1	0.788	2.45	3.95	MTERF domain containing 1
+ENY2	8q23.1	56943	218482_at	0.0128	1675508	0.0088	1	0.775	2.009	3.509	enhancer of yellow 2 homolog (Drosophila)
+DPY19L4	8q22.1	286148	213391_at	0.0001	1727257	0.0091	1	0.58	1.979	3.479	dpy-19-like 4 (C. elegans)
+ZNF623	8q24.3	9831	206188_at	0.0005	1695955	0.0121	1	0.618	1.837	3.337	zinc finger protein 623
+SCRIB	8q24.3	23513	212556_at	0.0323	1695955	0.0121	1	0.735	1.837	3.337	scribbled homolog (Drosophila)
+SLC39A4	8q24.3	55630	219215_s_at	0.0056	1695955	0.0121	1	0.64	1.837	3.337	solute carrier family 39 (zinc transporter), member 4
+ATP6V1G1	9q32	9550	208737_at	0.0499	1712044	0.0066	1	0.518	2.214	3.714	ATPase, H+ transporting, lysosomal 13kDa, V1 subunit G1
+TCTN3	10q23.33	26123	212123_at	-0.03	1647197	-0.0179	-1	0.577	2.288	1.788	chromosome 10 open reading frame 61
+PSMA6	14q13	5687	208805_at	0.0053	1739239	0.0265	1	0.616	2.226	3.726	proteasome (prosome, macropain) subunit, alpha type, 6
+STRN3	14q13-q21	29966	204496_at	0.002	1657718	0.0021	1	0.503	2.122	3.622	striatin, calmodulin binding protein 3
+CLTC	17q11-qter	1213	200614_at	0.0011	1665731	0.0096	1	0.883	1.939	3.439	clathrin, heavy polypeptide (Hc)
+TRIM37	17q23.2	4591	213009_s_at	0.0036	1740610	0.0025	1	0.781	2.555	4.055	tripartite motif-containing 37
+NME1	17q21.3	4830	201577_at	0.0478	1735518	0.0006	1	0.812	1.805	3.305	non-metastatic cells 1, protein (NM23A) expressed in
+NME2	17q21.3	4831	201268_at	0.0422	1665752	0.0002	1	0.743	1.624	3.124	non-metastatic cells 2, protein (NM23B) expressed in
+RPS6KB1	17q23.1	6198	204171_at	0.0002	1665339	0.0028	1	0.758	2.027	3.527	ribosomal protein S6 kinase, 70kDa, polypeptide 1
+PPM1D	17q23.2	8493	204566_at	0.0015	1738127	0.0035	1	0.85	2.049	3.549	protein phosphatase 1D magnesium-dependent, delta isoform
+MED13	17q22-q23	9969	201987_at	0.0001	1758346	0.0042	1	0.778	2.164	3.664	thyroid hormone receptor associated protein 1
+SLC35B1	17q21.33	10237	202433_at	0.0356	1722156	0.003	1	0.78	2.318	3.818	solute carrier family 35, member B1
+APPBP2	17q21-q23	10513	202630_at	0.0117	1707055	0.0045	1	0.857	2.063	3.563	amyloid beta precursor protein (cytoplasmic tail) binding protein 2
+MKS1	17q22	54903	218630_at	0.0272	1704909	0.0343	1	0.555	2.13	3.63	Meckel syndrome, type 1
+C17orf71	17q22	55181	218514_at	0.0069	1740610	0.0025	1	0.86	2.555	4.055	chromosome 17 open reading frame 71
+HEATR6	17q23.1	63897	218991_at	0.0026	1687894	0.0014	1	0.782	2.104	3.604	-
+TMEM49	17q23.1	81671	220990_s_at	0.0044	1668378	0.0071	1	0.706	1.913	3.413	transmembrane protein 49
+USP32	17q23.2	84669	211702_s_at	0.0042	1674736	0.0026	1	0.812	2.146	3.646	ubiquitin specific peptidase 32
+ANKRD40	17q21.33	91369	211717_at	0.0468	1744474	0.046	1	0.62	2.157	3.657	ankyrin repeat domain 40
+NME1-NME2	17q21.3	654364	201268_at	0.0422	1735518	0.0006	1	0.77	1.805	3.305	-
+ZNF264	19q13.4	9422	205917_at	0.0068	1706627	0.0078	1	0.557	1.661	3.161	zinc finger protein 264
+ZNF304	19q13.4	57343	207753_at	0.0331	1645690	0.0129	1	0.78	1.649	3.149	zinc finger protein 304
+ATP5E	20q13.32	514	217801_at	0.0118	1693246	0.0126	1	0.514	1.99	3.49	ATP synthase, H+ transporting, mitochondrial F1 complex, epsilon subunit
+CSTF1	20q13.31	1477	32723_at	0.0054	1656558	0.0093	1	0.526	1.866	3.366	cleavage stimulation factor, 3 pre-RNA, subunit 1, 50kDa
+PPP1R3D	20q13.3	5509	204554_at	0.0205	1700634	0.0249	1	0.601	2.231	3.731	protein phosphatase 1, regulatory subunit 3D
+AURKA	20q13.2-q13.3	6790	204092_s_at	0.0001	1739857	0.0093	1	0.577	1.866	3.366	aurora kinase A
+RAE1	20q13.31	8480	201558_at	0.0032	1758638	0.0465	1	0.676	2.475	3.975	RAE1 RNA export 1 homolog (S. pombe)
+STX16	20q13.32	8675	221500_s_at	0.0039	1688537	0.0063	1	0.61	2.179	3.679	syntaxin 16
+C20orf43	20q13.31	51507	217737_x_at	0.0191	1667932	0.0148	1	0.509	1.912	3.412	chromosome 20 open reading frame 43
+RAB22A	20q13.32	57403	218360_at	0.001	1645691	0.0077	1	0.801	2.52	4.02	RAB22A, member RAS oncogene family
+HDAC1	1p34	3065	201209_at	-0.0382	1656045	-0.0266	-1	0.551	2.329	1.829	histone deacetylase 1
+BSDC1	1p35.1	55108	218004_at	-0.0196	1677842	-0.0266	-1	0.616	2.259	1.759	BSD domain containing 1
+C1orf9	1q24	51430	203429_s_at	0.0429	1707822	0.0024	1	0.532	2.448	3.948	chromosome 1 open reading frame 9
+COX5B	2cen-q13	1329	211025_x_at	0.0145	1705118	0.0018	1	0.739	1.846	3.346	cytochrome c oxidase subunit vb
+EIF5B	2q11.2	9669	201025_at	0.0441	1728008	0.0076	1	0.618	1.706	3.206	eukaryotic translation initiation factor 5B
+DDX18	2q14.1	8886	208896_at	0.0143	1696503	0.0061	1	0.581	2.186	3.686	DEAD (Asp-Glu-Ala-Asp) box polypeptide 18
+TSN	2q21.1	7247	201513_at	0.0416	1673463	0.0455	1	0.626	2.308	3.808	translin
+p20	2q21.1	130074	212017_at	0.0308	1718104	0.011	1	0.537	1.701	3.201	LOC130074
+METTL5	2q31.1	29081	221570_s_at	0.0397	1652493	0.0045	1	0.509	2.158	3.658	methyltransferase like 5
+MGAT1	5q35	4245	201126_s_at	0.0156	1683255	0.0185	1	0.848	2.435	3.935	mannosyl (alpha-1,3-)-glycoprotein beta-1,2-N-acetylglucosaminyltransferase
+TUBB2A	6p25	7280	204141_at	0.0152	1713325	0.0487	1	0.563	2.221	3.721	tubulin, beta 2A
+RWDD1	6q13-q22.33	51389	219598_s_at	0.0158	1750430	0.0311	1	0.655	1.996	3.496	RWD domain containing 1
+PGM3	6q14.1-q15	5238	210041_s_at	0.003	1724282	0.0413	1	0.787	2.052	3.552	phosphoglucomutase 3
+FOXO3	6q21	2309	204131_s_at	0.048	1645067	0.0459	1	0.823	2.259	3.759	forkhead box O3
+CDC40	6q21	51362	203376_at	0.0037	1711755	0.0306	1	0.715	2.261	3.761	cell division cycle 40 homolog (S. cerevisiae)
+REV3L	6q21	5980	208070_s_at	0.004	1667275	0.0468	1	0.614	1.9	3.4	REV3-like, catalytic subunit of DNA polymerase zeta (yeast)
+HDAC2	6q21	3066	201833_at	0.0362	1645015	0.0007	1	0.639	2.034	3.534	histone deacetylase 2
+TSPYL4	6q22.1	23270	212928_at	0.0146	1669819	0.0098	1	0.501	1.863	3.363	TSPY-like 4
+C6orf60	6q22.31	79632	220150_s_at	0.0259	1694717	0.0129	1	0.531	1.916	3.416	chromosome 6 open reading frame 60
+ASF1A	6q22.31	25842	203427_at	0.0148	1740438	0.0168	1	0.669	1.821	3.321	ASF1 anti-silencing function 1 homolog A (S. cerevisiae)
+MED23	6q22.33-q24.1	9439	218846_at	0.0453	1661877	0.0186	1	0.564	2.03	3.53	mediator complex subunit 23
+TSPYL1	6q22-q23	7259	221493_at	0.0155	1758155	0.0144	1	0.529	1.916	3.416	TSPY-like 1
+ACTR10	14q23.1	55860	222230_s_at	0.0011	1741052	0.0343	1	0.635	1.965	3.465	actin-related protein 10 homolog (S. cerevisiae)
+KIAA0247	14q24.1	9766	202181_at	0.0128	1702018	0.0005	1	0.573	1.913	3.413	KIAA0247
+RARA	17q21	5914	203749_s_at	0.0474	1731414	0.0281	1	0.685	2.08	3.58	retinoic acid receptor, alpha
+KRT10	17q21	3858	213287_s_at	0.0309	1735532	0.0251	1	0.777	2.085	3.585	keratin 1
+RIOK3	18q11.2	8780	202130_at	0.0134	1740064	0.0024	1	0.594	2.021	3.521	RIO kinase 3 (yeast)
+IMPACT	18q11.2-q12.1	55364	218637_at	0.016	1684789	0.017	1	0.556	2.242	3.742	Impact homolog (mouse)

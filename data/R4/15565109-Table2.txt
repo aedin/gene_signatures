@@ -1,0 +1,50 @@
+Unigene Human	Mouse	Gene symbol Human	Gene symbol	Description	Log ratio (A/B) Human	Mouse	Function
+Hs.113503	Mm.151329	RANBP5	Kpnb3	Karyopherin (importin) beta 3	0.97	0.81	Nuclear pore transport
+Hs.180446	Mm.16710	KPNB1	Kpnb1	Karyopherin (importin) beta 1	0.98	0.75	Nuclear pore transport
+Hs.90073	Mm.22417	CSE1L	Cse1l	Chromosome segregation 1-like (budding yeast); Exportin	1.13	0.9	Nuclear pore transport
+Hs.75462	Mm.239605	BTG2	Btg2	BTG family, member 2	0.71	1.46	Anti-apoptosis
+Hs.171391	Mm.226905	CTBP2	Ctbp2	C-terminal binding protein 2	0.8	0.75	Anti-apoptosis
+Hs.75562	Mm.5021	DDR1	Ddr1	Discoidin domain receptor family, member 1	0.69	1.49	Anti-apoptosis
+Hs.180414	Mm.197551	HSPA8	Hspa8	Heat shock 70kDa protein 8	0.77	1.25	Anti-apoptosis
+Hs.145279	Mm.28805	SET	Set	SET translocation (myeloid leukemia-associated)	1.03	0.76	Anti-apoptosis
+Hs.115770	Mm.6426	TNFSF11	Tnfsf11	Tumor necrosis factor (ligand) superfamily, member 11	0.81	0.85	Anti-apoptosis
+Hs.373508	Mm.3399	TRAF2	Traf2	TNF receptor-associated factor 2	0.67	0.78	Anti-apoptosis
+Hs.349530	Mm.3308	YWHAH	Ywhah	Tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein	1.12	0.88	Anti-apoptosis
+Hs.152759	Mm.22430	ASK	Ask	Activator of S phase kinase	1.15	0.96	Cell growth and proliferation
+Hs.1634	Mm.29800	CDC25A	Cdc25a	Cell division cycle 25A	0.58	1.32	Cell growth and proliferation
+Hs.28853	Mm.20842	CDC7	Cdc7	CDC7 Cell division cycle 7-like 1 (budding yeast)	0.84	0.95	Cell growth and proliferation
+Hs.95577	Mm.6839	CDK4	Cdk4	Cyclin-dependent kinase 4	1.31	0.93	Cell growth and proliferation
+Hs.122579	Mm.2995	ECT2	Ect2	Epithelial cell transforming sequence 2 oncogene	1.39	0.98	Cell growth and proliferation
+Hs.401150	Mm.15918	MAP3K1	Map3k1	Mitogen-activated protein kinase kinase kinase 1	0.53	1.48	Cell growth and proliferation
+Hs.861	Mm.8385	MAPK3	Mapk3	Mitogen-activated protein kinase 3	0.85	0.81	Cell growth and proliferation
+Hs.179565	Mm.4502	MCM3	Mcm3	Minichromosome maintenance deficient 3	1.09	1.02	Cell growth and proliferation
+Hs.155462	Mm.4933	MCM6	Mcm6	Minichromosome maintenance deficient 6	1.25	1.34	Cell growth and proliferation
+Hs.89901	Mm.36865	PDE4A	Pde4a	Phosphodiesterase 4A	0.71	1.09	Cell growth and proliferation
+Hs.13501	Mm.28659	PES1	Pes1	Pescadillo homolog 1, containing BRCT domain (zebrafish)	0.93	0.78	Cell growth and proliferation
+Hs.93837	Mm.1860	PITPNM1	Pitpnm1	Phosphatidylinositol transfer protein, membrane-associated 1; Nir2	0.64	1.2	Cell growth and proliferation
+Hs.78944	Mm.28262	RGS2	Rgs2	Regulator of G-protein signaling 2, 24kDa	1.11	0.8	Cell growth and proliferation
+Hs.68061	Mm.20944	SPHK1	Sphk1	Sphingosine kinase 1	1.3	1.04	Cell growth and proliferation
+Hs.79150	Mm.46781	CCT4	Cct4	Chaperonin containing TCP1, subunit 4 (delta)	1.07	0.68	Cell growth and proliferation
+Hs.1600	Mm.1813	CCT5	Cct5	Chaperonin containing TCP1, subunit 5 (epsilon)	0.96	1.16	Cell growth and proliferation
+Hs.108809	Mm.914	CCT7	Cct7	Chaperonin containing TCP1, subunit 7 (eta)	1.06	0.75	Cell growth and proliferation
+Hs.178551	Mm.30066	RPL8	Rpl8	Ribosomal protein L8	0.73	1.08	Cell growth and proliferation
+Hs.182825	Mm.16423	RPL35	Rpl35	Ribosomal protein L35	1.04	0.97	Cell growth and proliferation
+Hs.406682	Mm.3229	RPL26	Rpl26	Ribosomal protein L26	0.98	0.9	Cell growth and proliferation
+Hs.425293	Mm.2424	RPL10A	Rpl10a	Ribosomal protein L10a	0.93	0.84	Cell growth and proliferation
+Hs.298262	Mm.103634	RPS19	Rps19	Ribosomal protein S19	1.22	0.78	Cell growth and proliferation
+Hs.433411	Mm.11376	RPL36	Rpl36	Ribosomal protein L36	0.93	0.77	Cell growth and proliferation
+Hs.180450	Mm.16775	RPS24	Rps24	Ribosomal protein S24	1.03	0.77	Cell growth and proliferation
+Hs.301547	Mm.5281	RPS7	Rps7	Ribosomal protein S7	0.95	0.74	Cell growth and proliferation
+Hs.380843	Mm.1139	RPS6	Rps6	Ribosomal protein S6	1.09	0.71	Cell growth and proliferation
+Hs.153	Mm.37835	RPL7	Rpl7	Ribosomal protein L7	0.58	1.17	Cell growth and proliferation
+Hs.78056	Mm.930	CTSL	Ctsl	Cathepsin L	0.7	0.73	Proteinases
+Hs.18069	Mm.17185	LGMN	Lgmn	Legumain	0.74	1.04	Proteinases
+Hs.2256	Mm.4825	MMP7	Mmp7	Matrix metalloproteinase 7 (matrilysin, uterine)	0.69	1.71	Proteinases
+Hs.151738	Mm.4406	MMP9	Mmp9	Matrix metalloproteinase 9 (gelatinase B, 92kDa gelatinase, 92kDa)	0.83	1.24	Proteinases
+Hs.1695	Mm.2055	MMP12	Mmp12	Matrix metalloproteinase 12 (macrophage elastase)	0.67	0.79	Proteinases
+Hs.375108	Mm.6417	CD24	Cd24	CD24 antigen (small cell lung carcinoma cluster 4 antigen)	0.99	1.45	Poor Prognosis Markers
+Hs.433996	Mm.4426	CD63	Cd63	CD63 antigen (melanoma 1 antigen)	0.84	1.62	Poor Prognosis Markers
+Hs.275243	Mm.100144	S100A6	S100a6	S100 calcium binding protein A6 (calcyclin)	1.2	1.2	Poor Prognosis Markers
+Hs.8036	Mm.260157	RAB3D	Rab3d	Member RAS oncogene family	0.91	1.53	Poor Prognosis Markers
+Hs.155421	Mm.80	AFP	Afp	Alpha-fetoprotein	0.97	1.45	Poor Prognosis Markers
+Hs.82961	Mm.4641	TFF3	Tff3	Trefoil factor 3 (intestinal)	0.55	1.57	Poor Prognosis Markers

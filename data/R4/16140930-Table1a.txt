@@ -1,0 +1,11 @@
+Gene symbol	Gene signature and name	Relative gene expression PCT Mean (log2)	SD	Relative gene expression LBL Mean (log2)	SD	PCT/LBL (real fold)	P (t test) PCT v LBL
+Aldh1a1	Aldehyde dehydrogenase family 1, subfamily A1	2.03	0.555	-1.87	0.666	14.9	4.24E-08
+Cai	Calcium-binding protein, intestinal	3.13	0.708	-0.621	0.586	13.5	1.54E-10
+Gnb4	Guanine nucleotide binding protein, B 4	1.16	0.510	-4.06	0.837	37.2	3.69E-12
+Ell2	Elongation factor RNA polymerase II 2	2.16	0.715	-1.58	0.405	13.3	7.40E-10
+Edem1	ER degradation enhancer, mannosidase a-like 1	1.77	0.460	-1.11	0.269	7.3	6.14E-11
+Igj	Immunoglobulin joining chain	1.21	0.823	-2.71	1.32	15.1	1.03E-03
+Sec61a	Sec61 a 1 subunit (Saccharomyces cerevisiae)	2.51	0.486	-0.334	0.312	7.2	8.80E-11
+Socs2	Suppressor of cytokine signaling 2	2.63	0.656	-2.21	0.261	28.6	9.46E-11
+Trp53inp1	Transformation-related protein 53 inducible nuclear protein 1	2.80	0.766	-0.503	0.385	9.8	1.59E-08
+Xbp1	X-boxbindingprotein1	3.93	0.780	-1.32	0.315	38.2	2.44E-10

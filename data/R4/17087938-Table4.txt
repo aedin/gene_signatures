@@ -1,0 +1,6 @@
+Gene Description	Gene Symbol	Dysplastic (n = 10)	Early HCC (n = 19)	AUC	P values	Fold changes in the training set (median)
+Glypican-3	GPC3	1 (0.33.1)	9.29 (0.7115)	0.77	0.014	x18 (increase)
+Survivin	BIRC5	1 (0.51.9)	5.05 (1.418)	0.84	0.001	x2.2 (increase)
+	LYVE1;XLKD1	1 (0.32.9)	0.07 (0.010.4)	0.88	0.0001	x12 (decrease)
+	TERT	1 (0.71.35)	10.9 (2.156)	0.74	0.0001	x10.8 (increase)
+E-cadherin	CDH1	1 (0.61.5)	0.25 (0.090.7)	0.87	0.0001	x2.8 (decrease)

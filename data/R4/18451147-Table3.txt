@@ -1,0 +1,23 @@
+Accession no.	Gene symbol	Description; relationship with cancer	D-score (bead array-SAM)	Fold change (bead array)	Fold change (quantitative RT-PCR)	Expression
+NM_001219	CALU	calumenin; calcium binding protein, down-regulated in metastatic head and neck cancer cells, related to better survival in lung cancer	1.87	1.7	2.25	Up-regulated genes
+NM_019558	HOXD8	homeobox D8; possible tumor suppressor	1.54	1.17	1.16	Up-regulated genes
+NM_006931	SLC2A3	solute carrier family 2, glucose transporter/GLUT3; cancer0 relation unknown	1.27	2.13	1.4	Up-regulated genes
+NM_001498	GCLC	glutamate-cysteine ligase, catalytic subunit; possible suppressor in breast cancer	1.15	1.65	1.4	Up-regulated genes
+NM_001072	UGT1A6	UDP glucuronosyltransferase 1 family, polypeptide A6, transcript variant 1; its polymorphism relates to metabolism of nonsteroidal antiinflammatory drugs and carcinogenesis	1	1.65	1.87	Up-regulated genes
+NM_003932	ST13	suppression of tumorigenicity 13 (heat shock protein 70 interacting protein); down-regulated in colon and gastric cancers	0.89	1.6	1.11	Up-regulated genes
+NM_004887	CXCL14	chemokine (C-X-C motif) ligand 14; angiogenesis inhibitor, chemotactic factor in dendritic cells	0.81	1.58	2.25	Up-regulated genes
+NM_205862	UGT1A6	UDP glucuronosyltransferase 1 family, polypeptide A6, transcript variant 2	0.74	1.6	1.87	Up-regulated genes
+NM_003246	THBS1	thrombospondin 1; possible angiogenic inhibitor	0.65	1.76	1.27	Up-regulated genes
+NM_013253	DKK3	dickkopf homologue 3; possible suppressor for melanoma	0.58	1.7	1.36	Up-regulated genes
+NM_001627	ALCAM	activated leukocyte cell adhesion molecule; possible metastasis suppressor in breast cancer	0.54	1.46	1.73	Up-regulated genes
+NM_001005340	GPNMB	glycoprotein (transmembrane) nmb; possible metastasis suppressor in melanoma	0.3	1.66	1.41	Up-regulated genes
+NM_003739	AKR1C3	aldo-keto reductase family 1, member C3; possible suppressor in prostate cancer	0.25	2.12	1.87	Up-regulated genes
+NM_004219	PTTG1	pituitary tumor-transforming gene 1	?9.34	0.12	0.14	Down-regulated genes
+NM_002808	PSMD2	proteasome 26S subunit 2; overexpressed in breast cancer	?2.26	0.76	0.85	Down-regulated genes
+NM_001416	EIF4A1	eukaryotic translation initiation factor 4A, isoform 1; metastasis-associated gene in lung cancer	?1.63	0.72	0.81	Down-regulated genes
+NM_004309	ARHGDIA	Rho GDP dissociation inhibitor ?/RhoGDI?; related to actin cytoskeletal rearrangements, related to poor prognosis in lung cancer	?1.55	0.82	0.92	Down-regulated genes
+NM_006270	RRAS	related RAS viral oncogene homologue; promotes cell motility and metastasis in cervical cancer	?1.53	0.73	0.7	Down-regulated genes
+NM_001665	RHOG	ras homologue gene family, member G/ARHG; promotes cytoskeletal reorganization and migration, related to lymph node metastasis and poor prognosis in breast cancer	?1.24	0.86	0.74	Down-regulated genes
+NM_004308	ARHGAP1	Rho GTPase activating protein 1/RhoGAP1; modulates Rho-mediated signaling pathways through activation of p21-Rho, cancer relation unknown	?1.21	0.85	0.83	Down-regulated genes
+NM_003088	FSCN1	fascin; actin-bundling protein, promotes cell migration, related to lymph node metastasis in esophageal cancer	?1.13	0.71	0.89	Down-regulated genes
+NM_002205	ITGA5	integrin, ?5, fibronectin receptor ?; related to invasion of bladder cancer	?0.62	0.58	0.73	Down-regulated genes

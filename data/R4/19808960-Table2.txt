@@ -1,0 +1,39 @@
+Gene symbol	Name	Function	Chromosome	Number of Tag SNPs	Gene-based MINP-adjusted	Mininum Ptrend	FDR-adjustedc	Haplowalkb
+APOE	Apolipoprotein E	Lipid metabolism	19q13.2	5	0.017	4.00E-03	0.02	4.84E-04
+GPX4	Glutathione peroxidase 4	Antioxidant response	19p13.3	5	0.02	4.56E-03	0.02	7.40E-04
+NOS2A	Nitric oxide synthase 2A	Oxidative damage, inflammation	17q11.2-q12	19	0.055	1.75E-03	0.03	1.65E-04
+PTGS2	Prostaglandin-endoperoxide synthase 2	Lipid peroxidation, inflammation	1q25.2-q25.3	7	0.069	5.08E-03	0.04	1.09E-05
+INSR	Insulin Receptor	Glucose uptake	19p13.3-p13.2	49	0.11	4.76E-03	0.23	0.05
+LEPR	Leptin receptor	Lipid metabolism	1p31	27	0.246	0.02	0.54	0.04
+HAO2	Hydroxyacid oxidase 2	Lipid Peroxidation	1p13.3-13.1	10	0.195	0.05	0.47	0.08
+GSTO1	Glutathione S-transferase N 1	Acellular redox, oxidative stress	10q25.1	7	0.248	0.06	0.42	0.2
+PPARD	Peroxisome proliferator receptor y	Lipid metabolism	6p21.1-21.1	9	0.329	0.05	0.46	0.4
+FOXO3	Forkhead box O3	Oxidative stress, inflammation	6q21	9	0.345	0.05	0.49	0.07
+NOX1	NADPH oxidase 1	Oxidative stress	Xq22	8	0.354	0.03	0.27	0.29
+CAT	Catalase	Oxidative stress	11p13	17	0.378	0.05	0.8	0.22
+TXN	Thioredoxin	Oxido-reductase	9q31	22	0.412	0.04	0.79	0.12
+CYP19A	Cytochrome p450, family19 A	Estrogen biosynthesis	15q21.1	35	0.477	0.02	0.53	0.43
+GGH	g-glutamyl hydrolase	Hydrolase	8q12.1	7	0.512	0.03	0.2	0.05
+APOB	Apolipoprotein B	Lipid Metabolism	2p24-p23	14	0.551	0.07	1	0.78
+FOXO1	Forkhead box O1	Lipid Metabolism	13q14.1	17	0.58	0.04	0.74	0.93
+GPX2	Glutathione peroxidase 2	Antioxidant response	14q24.1	10	0.582	0.05	0.5	0.94
+AKR1C3	Aldo-keto reductase family 1, member C3	Inflammation	10p15-p14	16	0.589	0.05	0.86	0.31
+NOS3	Nitric oxide synthase 3	Oxidative damage, inflammation	7q36	11	0.596	0.06	0.69	0.46
+COMT	Catechol-O-methyltransferase	Oxido-reductase	22q11.21	34	0.61	0.03	1	0.18
+SOD3	Superoxide dismutase 3, extracellular	Oxidative stress	4p16.3-q21	8	0.639	0.07	0.58	0.56
+GSR	Glutathione reductase	Antioxidant response	8p21.1	9	0.664	0.05	0.46	0.4
+PON1,2,3	Paraoxonase 1/2/3	Lipid peroxidation	7q21.3	48	0.707	0.05	1	0.64
+IL12A	Interleukin 12A	Inflammatory response	1q12q13.23	16	0.741	0.17	1	0.91
+ALOX5	Arachidonate 5-lipoxygenase	Lipid metabolism,	10q11.2	15	0.747	0.09	1	0.64
+IL12B	Interleukin 12B	Inflammatory response	5q31.1-q33.1	18	0.748	0.14	1	0.15
+GPX1	Glutathione peroxidase 1	Antioxidant response	3p21.3	3	0.751	0.32	0.97	0.73
+ATP1A2	ATPase	Osmoregulation, hypertension	1q21-23	17	0.753	0.11	1	0.79
+SOD2	Superoxide dismutase 2, mitochondrial	Oxidative stress	6p25.3	8	0.754	0.2	1	0.63
+PPARG	Peroxisome proliferator receptor g	Lipid metabolism	10q25	24	0.772	0.07	1	0.36
+INS	Insulin	Glucose uptake	11p13.3	12	0.818	0.11	1	0.36
+MUTHY	MutY homologue	Oxidative damage & repair	1p34.3-32.1	8	0.855	0.24	1	0.91
+CYP17A	Cytochrome p450, family17A	Lipid metabolsim	10q	9	0.871	0.19	1	0.66
+GPX3	Glutathione peroxidase 3	Antioxidant response	5q2.3	15	0.882	0.13	1	0.24
+PPARA	Peroxisome proliferator receptor a	Lipid metabolism, inflammation	22q13.31	22	0.933	0.11	1	0.08
+MGMT	Methylguanine-DNA methyltransferase	DNArepair, metal binding	10q26	57	0.968	0.07	1	0.97
+ALOX12	Arachidonate 12-lipoxygenase	Lipid metabolism, inflammation	17p13.1	8	0.99	0.41	1	0.95

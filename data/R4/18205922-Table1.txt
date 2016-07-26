@@ -1,0 +1,69 @@
+Functional annotation	Gene title (gene symbol)	Accession no.	Chondrocyte mean signal intensity (GCOS and RMA analysis); RASFsn versus NDSFsn stimulation	Chondrocyte mean fold change in expression (GCOS and RMA analysis); RASFsn stimulation	Chondrocyte mean fold change in expression (GCOS and RMA analysis);  NDSFsn stimulation	Chondrocyte mean fold change in expression (GCOS and RMA analysis); No stimulation
+Inflammation	Cyclooxygenase-2 (COX-2)	NM_000963.1	2.09	4,474.90	1,793.25	108.4
+Inflammation	Hydroxysteroid (11-beta) dehydrogenase 1 (HSD11B1)	NM_005525	2.41	2,693.41	955.89	1,263.95
+Inflammation	Adenosine A2A receptor (ADORA2A)	NM_000675	4.73	249.59	40.13	27.33
+Inflammation	Phospholipase A2, group IIA (PLA2G2A)	NM_000300	-2.38	152.32	347.63	787.68
+Inflammation	Steroid sulfatase (STS)	AI122754	-3.17	48.36	132.73	412.43
+Inflammation	Latexin (LXN)	NM_020169	-5.82	122.35	677.95	610.08
+NF-kB signaling pathway	Interleukin-1 receptor antagonist (IL1RN)	U65590	2.1	1,143.23	278.77	48.83
+NF-kB signaling pathway	Receptor-interacting serine/threonine kinase 2 (RIPK2)	AF064824.1	2.12	1,190.60	539.58	22.65
+NF-kB signaling pathway	Toll-like receptor 2 (TLR2)	NM_003264	2.25	859.07	322.16	57.3
+NF-kB signaling pathway	Spermine synthase (SMS)	NM_004595	2.9	165.1	58.99	40.1
+NF-kB signaling pathway	Bcl2-related protein A1 (BCL2A1)	NM_004049	4.9	573.95	94.87	14.63
+NF-kB signaling pathway	Ectonucleotide pyrophosphatase/phosphodiesterase 2 (ENPP2)	L35594.1	-3.26	810	2,175.34	1,273.98
+NF-kB signaling pathway	Thioredoxin interacting protein (TXNIP)	AI439556	-3.5	223.27	622.39	670.7
+Cytokines/chemokines and receptors	Met proto-oncogene (HGF receptor) (MET)	J02958.1	2.02	823.83	333.01	74.13
+Cytokines/chemokines and receptors	Chemokine (C-X-C motif) ligand 1 (GROa)	NM_001511.1	2.08	1,414.49	478.28	28.05
+Cytokines/chemokines and receptors	Chemokine (C-X-C motif) ligand 2 (GROb)	M57731.1	2.51	761.47	237.34	10.08
+Cytokines/chemokines and receptors	Interleukin 8 (IL8)	AF043337.1	3.16	5,688.87	1,393.65	38.28
+Cytokines/chemokines and receptors	Chemokine (C-X-C motif) ligand 3 (GROg)	NM_002090	3.78	368.84	58.19	16.68
+Cytokines/chemokines and receptors	Chemokine (C-C motif) ligand 20 (MIP-3b)	NM_004591.1	5.25	2,028.88	270.12	14.65
+Cytokines/chemokines and receptors	Granulocyte colony-stimulating factor 3 (CSF3)	NM_000759	5.61	180.7	51.59	45.18
+Cytokines/chemokines and receptors	Chemokine (C-X-C motif) receptor 4 (CXCR4)	AJ224869	5.66	180.71	27.87	16.1
+Cytokines/chemokines and receptors	Interleukin-23, alpha subunit p19 (IL-23A)	NM_016584	11	674.98	43	39.33
+Immune Response	Guanylate binding protein 1, interferon-inducible (GBP1)	BC002666	2.1	450.29	198.92	175.15
+Immune Response	2,5-Oligoadenylate synthetase-related protein p30 (OASL)	AF063612.1	2.38	287.65	98.51	115.65
+Immune Response	Interferon-induced protein 44 (IFI44)	NM_006417	2.4	480.29	124.5	238.3
+Immune Response	Lymphocyte antigen 6 complex, locus E (LY6E)	NM_002346.1	2.45	569.07	236.97	305.15
+Immune Response	Interferon regulatory factor 7 (IRF7)	NM_004030.1	2.48	286.31	93.75	84.93
+Immune Response	Interferon-alpha inducible protein (IFI-6–16)	NM_022873	2.6	550.64	158.67	138.78
+Immune Response	Interferon-stimulated gene 20 kDa (ISG20)	U88964	2.61	434.38	153.79	47.2
+Immune Response	Interferon-induced protein with tetratricopeptide repeats 3 (IFIT3)	NM_001549	2.69	527.75	137.2	290.03
+Immune Response	Pentaxin-related gene, rapidly induced by IL-1b (PTX3)	NM_002852	2.72	340.14	120.25	209.7
+Immune Response	Hect domain and RLD 6 (HERC6)	NM_017912.1	3.04	302.12	65.85	117.53
+Immune Response	Myxovirus resistance 1, interferon-inducible protein p78 (MX1)	NM_002462	3.09	1,355.03	312.35	557.75
+Immune Response	Hect domain and RLD 5 (HERC5)	NM_016323	3.3	608.65	160.9	141.13
+Immune Response	2,5-Oligoadenylate synthetase 1 (OAS1)	NM_002534	4.08	264.81	55.57	70
+Immune Response	Interferon-alpha inducible protein, clone IFI-15K (ISG15)	NM_005101.1	4.62	1,943.31	296.19	603.98
+Immune Response	Interferon-induced protein 44-like (IFI44L)	NM_006820.1	4.64	691.99	84.63	138.85
+Immune Response	Interferon-alpha inducible protein 27 (IFI27)	NM_005532	5.07	814.69	119.31	154.15
+Immune Response	Interferon-induced protein with tetratricopeptide repeats 1 (IFIT1)	NM_001548	5.25	774.38	94.09	361.93
+Immune Response	Viperin (cig5)	AI337069	7.14	423.91	34.32	45.65
+Immune Response	Collectin sub-family member 12 (COLEC12)	NM_030781	-2.22	648.64	1,347.08	2,518.20
+Cell proliferation and differentiation	WNT1 inducible signaling pathway protein 2 (WISP2)	NM_003881	-2.97	206.25	508.11	4,898.70
+Cell proliferation and differentiation	Inhibitor of DNA binding 3, dominant negative HLH protein (ID3)	NM_002167.1	-3.74	240.35	715.78	1,465.10
+Cell proliferation and differentiation	Inhibitor of DNA binding 1, dominant negative HLH protein (ID1)	D13889.1	-4.04	742.79	2,479.99	2,376.30
+Cell proliferation and differentiation	Retinoic acid receptor responder 1 (RARRES1)	NM_002888	-6.1	115.83	538.71	152.2
+Cell proliferation and differentiation	Fibroblast growth factor 1, acidic (FGF1)	X59065	-8.51	82.49	513.38	70.23
+Matrix synthesis	Laminin, beta 3 (LAMB3)	L25541.1	3.05	636.22	196.21	63.28
+Matrix synthesis	EGF-containing fibulin-like ECM protein 1 (EFEMP1)	NM_004105	-3.14	170.34	458.87	331.85
+Matrix synthesis	Thrombospondin 2 (THBS2)	NM_003247	-3.28	181.13	489.4	483.68
+Matrix synthesis	Spondin 1, extracellular matrix protein (SPON1)	AB051390.1	-4.4	56.04	167.4	69.6
+Matrix synthesis	Chondroitin sulfate proteoglycan 2 (CSPG2)	NM_004385	-4.53	235.72	670.67	456.13
+Matrix synthesis	Cartilage oligomeric matrix protein (COMP)	NM_000095	-5.08	156.77	655.37	308.43
+Others	Metallothionein 1E (MT1E)	BF217861	2.03	1,111.45	554.65	708.38
+Others	Solute carrier family 7 member 11 (SLC7A11)	AB040875.1	2.16	692.03	300.52	87.7
+Others	Deafness, autosomal dominant 5 (DFNA5)	NM_004403	2.63	1,133.05	379.29	288.2
+Others	Phosphoglycerate dehydrogenase (PHGDH)	NM_006623	2.63	171.02	60.04	138.58
+Others	Paired immunoglobin-like type 2 receptor á (PILRA)	AJ400843.1	2.82	131.89	32.78	23.75
+Others	Calmegin (CLGN)	NM_004362.1	3.2	356.58	87.11	19.3
+Others	Neuromedin B (NMB)	NM_021077	3.34	1,163.69	261.33	177.98
+Others	Regulator of G-protein signaling 4 (RGS4)	NM_005613.3	3.92	136.81	22.34	42.05
+Others	Phosphoinositide-3-kinase, polypeptide 1 (PIK3R1)	AI679268	-3.03	105.59	262.02	182.88
+Others	Deiodinase, iodothyronine, type II (DIO2)	U53506.1	-3.1	71.24	193.23	122.88
+Others	DEAD (Asp-Glu-Ala-Asp) box polypeptide 10 (DDX10)	NM_004398.2	-3.22	223.36	681.54	252.5
+Others	CDK5 regulatory subunit associated protein 2 (CDK5RAP2)	NM_018249	-3.28	250.8	660.54	349.68
+Others	Cullin 4B (CUL4B)	AV694732	-3.41	130.55	381.94	83.58
+Others	Pyruvate dehydrogenase kinase, isoenzyme 4 (PDK4)	NM_002612.1	-3.65	54.75	179.75	72.75
+Others	ATP-binding cassette, sub-family A (ABC1), member 8 (ABCA8)	NM_007168	-3.83	81.8	202.99	141.58
+Others	Adlican (DKFZp564I1922)	AF245505.1	-4.9	145.69	486.56	1,835.15

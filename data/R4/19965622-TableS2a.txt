@@ -1,0 +1,57 @@
+Function	Genbank	Probe ID	GC-RMA norm. dLEC intensity	MAS 5 norm. dLEC intensity	GC-RMA norm. iLEC intensity	MAS 5 norm. iLEC intensity	Average fold change	GC-RMA q-value	MAS 5 q-value	Description	Function
+COL6A1	AA292373	213428_s_at	0.5137866	0.8112408	3.0137117	2.4330668	4.432439739	0.0884	0.0968	Collagen, type VI, alpha 1	Cell adhesion
+ARL3	NM_004311	202641_at	0.8370859	0.8400938	1.2038642	1.1846193	1.424132248	0.0828	0.0723	ADP-ribosylation factor-like 3	Signal transduction
+RRBP1	NM_004587	201206_s_at	0.70138305	0.61715835	1.1744651	1.0987648	1.727430033	0.0477	0.0438	Ribosome binding protein 1 homolog 180kDa (dog)	Signal transduction
+CDC42BPA		214464_at	0.4583262	0.6549203	1.7434661	1.5982738	3.12219743	0.064	0.0609	CDC42 binding protein kinase alpha (DMPK-like)	Signal transduction
+STK38	BE048506	202951_at	0.8720166	0.80238307	1.111315	1.1371992	1.345848354	0.0644	0.0378	Serine/threonine kinase 38	Signal transduction
+COPS6	NM_006833	201405_s_at	0.8262319	0.9082757	1.2520124	1.2828048	1.46383993	0.0945	0.0791	COP9 constitutive photomorphogenic homolog subunit 6 (Arabidopsis)	Signal transduction
+RPS21	NM_001024	200834_s_at	0.8232294	0.7836584	1.1267074	1.2260251	1.466566246	0.09	0.032	Ribosomal protein S21	Cell cycle and proliferation
+CDK4	NM_000075	202246_s_at	0.89415723	0.8335808	1.1695104	1.0656233	1.293157743	0.0926	0.0715	Cyclin-dependent kinase 4	Cell cycle and proliferation
+CCT7	NM_006429	200812_at	0.82407796	0.807617	1.3656613	1.2835952	1.623280225	0.0607	0.0491	Chaperonin containing TCP1, subunit 7 (eta)	Cell cycle and proliferation
+TRIAP1	NM_016399	218403_at	0.7833686	0.81012475	1.1871989	1.1474676	1.465956678	0.0978	0.0389	TP53 regulated inhibitor of apoptosis 1	Cell cycle and proliferation
+AURKAIP1	NM_017900	218580_x_at	0.89012307	0.83107287	1.2730147	1.151023	1.40757014	0.0828	0.0909	Aurora-A kinase interacting protein	Cell cycle and proliferation
+HBXIP	NM_006402	202300_at	0.86629677	0.8813509	1.0695276	1.1279459	1.257194658	0.0896	0.0979	Hepatitis B virus x interacting protein	Cell cycle and proliferation
+HSPA9B	BC000478	200691_s_at	0.53265476	0.6026616	1.3791575	1.3305905	2.398535708	0.0926	0.0448	heat shock protein 9B	Cell cycle and proliferation
+PSMC5	AF035309	209503_s_at	0.91396534	0.7095847	1.3020052	1.1246908	1.504783016	0.0846	0.0469	Proteasome (prosome, macropain) 26S subunit, ATPase, 5	Cell cycle and proliferation
+TREX2	BE676218	213334_x_at	0.683136	0.84512776	1.6946478	1.2404858	1.974248686	0.0607	0.0515	Three prime repair exonuclease 2	Cell cycle and proliferation
+RARRES3	NM_004585	204070_at	0.76878995	0.7425148	1.3968045	1.2794669	1.770020221	0.0694	0.0759	Retinoic acid receptor responder (tazarotene induced) 3	Cell cycle and proliferation
+RPS19	NM_001022	202649_x_at	0.8631506	0.7459823	1.0450087	1.2242786	1.425927055	0.0559	0.0359	Ribosomal protein S19	Cell motility and organization
+ARD1	NM_003491	203025_at	0.79810756	0.81352997	1.233584	1.2412596	1.535703126	0.0873	0.0672	ARD1 homolog, N-acetyltransferase (S. cerevisiae)	Cell motility and organization
+UXT	NM_004182	218495_at	0.7509947	0.8475814	1.1154083	1.1558037	1.424445222	0.0607	0.0341	Ubiquitously-expressed transcript	Cell motility and organization
+STOML2	AC_004472	215416_s_at	0.8473657	0.86893004	1.1664329	1.1077635	1.325699696	0.0873	0.073	Stomatin (EPB72)-like 2	Cell motility and organization
+KRT18	NM_000224	201596_x_at	0.70362985	0.7701579	1.773745	1.6189647	2.311485025	0.0749	0.0445	Keratin 18	Cell motility and organization
+DDX56	NM_019082	217754_at	0.7922028	0.8772299	1.436691	1.2241497	1.60450567	0.0607	0.0925	DEAD (Asp-Glu-Ala-Asp) box polypeptide 56	Cellular metabolism
+DIMT1L	NM_014473	204405_x_at	0.77270037	0.74459386	1.4382764	1.2634012	1.779064605	0.0741	0.0807	DIM1 dimethyladenosine transferase 1-like (S. cerevisiae)	Cellular metabolism
+ATP5H	AF061735	210149_s_at	0.87929213	0.8635275	1.2408239	1.2516869	1.430333341	0.0954	0.072	ATP synthase, H+ transporting, mitochondrial F0 complex, subunit d	Cellular metabolism
+ATP5J2	NM_004889	202961_s_at	0.86534196	0.85527384	1.1214389	1.1323435	1.309951577	0.0948	0.0606	ATP synthase, H+ transporting, mitochondrial F0 complex, subunit f, isoform 2	Cellular metabolism
+COX5B	AI557312	213735_s_at	0.866584	0.79906327	1.1769145	1.0384136	1.328823229	0.0928	0.098	Cytochrome c oxidase subunit Vb	Cellular metabolism
+eIF3k	AF119846	210501_x_at	0.9119521	0.83179396	1.1470835	1.0700732	1.272148659	0.0995	0.0374	Eukaryotic translation initiation factor 3 subunit k	Cellular metabolism
+EIF3S4	BC000733	208887_at	0.80092907	0.67365366	1.1144855	1.1182123	1.525706271	0.0477	0.032	Eukaryotic translation initiation factor 3, subunit 4 delta, 44kDa	Cellular metabolism
+ETFB	NM_001985	202942_at	0.7557864	0.7953138	1.4746405	1.5289253	1.936775806	0.055	0.0672	Electron-transfer-flavoprotein, beta polypeptide	Cellular metabolism
+NDUFA8	NM_014222	218160_at	0.77725846	0.7988428	1.3004906	1.3988885	1.712160084	0.081	0.0609	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 8, 19kDa	Cellular metabolism
+NDUFA7	NM_005001	202785_at	0.7476614	0.7598914	1.3067211	1.2663201	1.707096643	0.064	0.0399	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 7, 14.5kDa	Cellular metabolism
+NDUFS5	NM_004552	201757_at	0.728452	0.7484533	1.2623352	1.1725818	1.64978715	0.0559	0.0609	NADH dehydrogenase (ubiquinone) Fe-S protein 5, 15kDa (NADH-coenzyme Q reductase)	Cellular metabolism
+NDUFS7	BC005954	211752_s_at	0.6271465	0.83733696	1.1534265	1.2546059	1.668747275	0.0944	0.0341	NADH dehydrogenase (ubiquinone) Fe-S protein 7, 20kDa (NADH-coenzyme Q reductase)	Cellular metabolism
+NDUFA2	BC003674	209224_s_at	0.7296577	0.7329679	1.2541242	1.1776973	1.662767919	0.055	0.0341	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 2, 8kDa	Cellular metabolism
+NDUFB7	NM_004146	202839_s_at	0.6875199	0.48367843	1.461776	1.6083502	2.725702497	0.0927	0.0438	NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 7, 18kDa	Cellular metabolism
+NDUFB2	NM_004546	218200_s_at	0.86061466	0.87678933	1.1169811	1.1917173	1.328535387	0.09	0.0415	NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 2, 8kDa	Cellular metabolism
+NDUFB11	NM_019056	218320_s_at	0.8141105	0.9001402	1.13746	1.084458	1.300973499	0.0607	0.0764	NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 11, 17.3kDa	Cellular metabolism
+NDUFB8	NM_005004	201227_s_at	0.7827934	0.8248452	1.1357187	1.1048824	1.395178216	0.0749	0.0572	NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 8, 19kDa	Cellular metabolism
+NDUFV1	AF092131	208714_at	0.77911836	0.7902622	1.3198377	1.1404995	1.568602816	0.0998	0.0863	NADH dehydrogenase (ubiquinone) flavoprotein 1, 51kDa	Cellular metabolism
+MRPS12	NM_021107	204331_s_at	0.6736587	0.7224413	1.4047437	1.1517045	1.839714792	0.0978	0.0601	Mitochondrial ribosomal protein S12	Cellular metabolism
+MRPS7	NM_015971	217932_at	0.7727285	0.8777483	1.1631143	1.1292082	1.395843638	0.0639	0.0933	Mitochondrial ribosomal protein S7	Cellular metabolism
+POP5	NM_015918	204839_at	0.75974244	0.8389791	1.4152408	1.1784769	1.633723043	0.0926	0.0661	Processing of precursor 5, ribonuclease P/MRP subunit (S. cerevisiae)	Cellular metabolism
+RPL12	NM_000976	200809_x_at	0.8556304	0.73281354	1.0811579	1.2329787	1.473053847	0.0873	0.032	Ribosomal protein L12	Cellular metabolism
+NOL5A	NM_006392	200875_s_at	0.8545926	0.9183896	1.3305558	1.478847	1.583604267	0.0828	0.0668	Nucleolar protein 5A (56kDa with KKE/D repeat)	Cellular metabolism
+PMVK	NM_006556	203515_s_at	0.6464357	0.84372133	1.2646568	1.1282475	1.646790623	0.0477	0.0914	Phosphomevalonate kinase	Lipid metabolism
+ACAA1	AI860341	214274_s_at	0.8632131	0.9182379	1.1433643	1.1902341	1.310380025	0.0785	0.0462	Acetyl-Coenzyme A acyltransferase 1 (peroxisomal 3-oxoacyl-Coenzyme A thiolase)	Lipid metabolism
+NSDHL	BC000245	209279_s_at	0.85462373	0.86734205	1.3804674	1.2352908	1.519759136	0.0978	0.0565	NAD(P) dependent steroid dehydrogenase-like	Lipid metabolism
+NFAT5	NM_006599	208003_s_at	0.35515255	0.8005059	1.7145445	1.5002773	3.350894874	0.0477	0.0867	Nuclear factor of activated T-cells 5, tonicity-responsive	Transcriptional and translational regulation
+SPEN	AL524033	201996_s_at	0.5133339	0.8088286	1.6836766	1.2188475	2.39340757	0.0559	0.0695	spen homolog, transcriptional regulator (Drosophila)	Transcriptional and translational regulation
+RBM9	N95026	212104_s_at	0.8427053	0.7135468	1.2679933	1.2452008	1.624878139	0.0608	0.0623	RNA binding motif protein 9	Transcriptional and translational regulation
+EDF1	AB002282	209059_s_at	0.7640279	0.817115	1.159272	1.2643039	1.532297059	0.0828	0.0491	Endothelial differentiation-related factor 1	Transcriptional and translational regulation
+PQBP1	NM_005710	207769_s_at	0.50229996	0.50714284	1.1680061	1.198844	2.34461688	0.0578	0.032	Polyglutamine binding protein 1	Transcriptional and translational regulation
+VAMP5	NM_006634	204929_s_at	0.8298544	0.77660567	1.2271008	1.2338226	1.533715829	0.0954	0.0608	Vesicle-associated membrane protein 5 (myobrevin)	Transport
+AP2S1	NM_021575	208074_s_at	0.844753	0.7817689	1.1208206	1.4121033	1.566547622	0.0607	0.0448	Adaptor-related protein complex 2, sigma 1 subunit	Transport
+SSR2	NM_003145	200652_at	0.8016657	0.8056965	1.145889	1.1448808	1.425183903	0.0828	0.0764	Signal sequence receptor, beta (translocon-associated protein beta)	Transport
+TPR	BF110993	201730_s_at	0.65845287	0.79239607	1.332147	1.1702765	1.750015175	0.0884	0.032	Translocated promoter region (to activated MET oncogene)	Transport

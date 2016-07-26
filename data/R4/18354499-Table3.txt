@@ -1,0 +1,69 @@
+Biological process	Gene name	Gene Symbol	Average fold change P17	Average fold change P28
+Metabolism	Acetyl-Coenzyme A Carboxylase beta	Acacb	21.585	2.8755
+Lipid/fatty acid	Enoyl-Coenzyme A hydratase/3-hydroxyacyl Co-A dehydrogenase	Ehhadh	3.6582	12.4253
+Lipid/fatty acid	Stearoyl-Coenzyme A desaturase 1	Scd1	3.2483	9.1621
+Lipid/fatty acid	Acyl-Coenzyme A oxidase 1, palmitoyl	Acox1	3.8679	2.6733
+Lipid/fatty acid	Adipose differentiation related protein	Adfp	3.9698	9.2127
+Lipid/fatty acid	Apolipoprotein A-IV	Apoa4	11.6171	32.6144
+Lipid/fatty acid	Sterol-C4-methyl oxidase-like	Sc4mol	24.2809	-2.13
+Lipid/fatty acid	CD36 antigen	Cd36	1.8733	5.6965
+Lipid/fatty acid	ELOVL family member 6, elongation of long chain fatty acids		9.6841	5.654
+Lipid/fatty acid	Fatty acid desaturase 2	Fads2	2.6065	3.3344
+Lipid/fatty acid	Fatty acid synthase	Fasn	5.4032	4.351
+Lipid/fatty acid	Phospholipase A2, group VI	Pla2g6	4.1585	3.6305
+Lipid/fatty acid	Acetoacetyl-CoA synthetase	Aacs	5.9526	1.036
+Lipid/fatty acid	Low density lipoprotein receptor	Ldlr	2.4232	-1.255
+Lipid/fatty acid	Very low density lipoprotein receptor	Vldlr	6.4971	5.2987
+Lipid/fatty acid	StAR-related lipid transfer START domain containing 4	Stard4	3.2569	1.1132
+Lipid/fatty acid	Cytochrome P450, family 4, subfamily a, polypeptide 12	Cyp4a12	27.7789	6.9124
+Lipid/fatty acid	Cytochrome P450, family 4, subfamily a, polypeptide 14	Cyp4a14	3.0869	2.7802
+Lipid/fatty acid	Cytochrome P450, family 7, subfamily a, polypeptide 1	Cyp7a1	2.5207	3.9425
+Cholesterol	3-Hydroxy-3-methylglutaryl-Coenzyme A synthase	Hmgcs	7.9894	1.2339
+Cholesterol	Isopentenyl-diphosphate delta isomerase	Idi1	18.2946	-2.29
+Cholesterol	Farnesyl diphosphate farnesyl transferase 1	Fdft1	5.4985	-1.0576
+Cholesterol	Farnesyl diphosphate synthetase	Fdps	13.7628	1.7472
+Cholesterol	Squalene epoxidase	Sqle	172.9337	-1.5849
+Cholesterol	Cytochrome P450, 51	Cyp51	21.9741	-1.8527
+Other	Aldolase 1	Aldo1		2.7904
+Other	Glucokinase	Gck	2.6046	2.7178
+Other	Hexokinase 2	Hk2		7.1749
+Other	Insulin induced gene 1	Insig1	4.7532	-1.456
+Other	Insulin-like 6	Insl6	2.5668	3.3368
+Other	Aldehyde oxidase 1	Aox1	3.1535	1.4061
+Other	Xanthine dehydrogenase	Xdh	2.1399	1.0452
+Other	Aldehyde dehydrogenase family 3, subfamily A2	Aldh3a2	2.5317	3.3068
+Other	Glyceraldehyde 3-phosphate dehydrogenase (345274)	Gapdh	2.1606	2.6829
+Nuclear receptor-related	Serum/glucocorticoid regulated kinase 2	Sgk2	3.8111	2.6817
+Nuclear receptor-related	Thyroid hormone responsive SPOT14 homolog	Thrsp	33.7453	2.4455
+Nuclear receptor-related	Retinoic acid early transcript gamma	Raet1b	6.4309	3.6549
+Nuclear receptor-related	Retinoic acid early transcript delta	Raet1d	6.4457	3.4374
+Nuclear receptor-related	Glucocorticoid modulatory element binding protein 1	Gmeb1		2.1215
+Nuclear receptor-related	Glucocorticoid induced gene 1	Gig1		2.7644
+Nuclear receptor-related	Dopa decarboxylase	Ddc	3.2737	3.1596
+Nuclear receptor-related	Peroxisome proliferator activated receptor gamma	Pparg		4.7764
+Cellular regulation	Dual-specificity tyrosine-(Y)-phosphorylation regulated kinase 3	Dyrk3	3.2766	7.4758
+Cellular regulation	Inositol 1,3,4-triphosphate 5/6 kinase	Itpk1	2.8298	5.1727
+Cellular regulation	Dual specificity phosphatase 8	Dusp8	2.1698	3.907
+Cellular regulation	Protein kinase C, alpha	Prkca		3.3297
+Cellular regulation	Ras homolog gene family, member B	Rhob		3.4098
+Cellular regulation	Insulin-like growth factor 2	Igf2		6.9211
+Cellular regulation	Mitogen activated protein kinase 3	Mapk3		2.3059
+Cell cycle	Cyclin A2	Ccna2		2.621
+Cell cycle	Cyclin-dependent kinase 6	Cdk6	3.2699	2.4362
+Cell cycle	Cyclin-dependent kinase inhibitor 1A/P21	Cdkn1a		12.1251
+Cell cycle	Cyclin-dependent kinase inhibitor 2A/P16	Cdkn2a		3.894
+Cell cycle	Myelocytomatosis oncogene	Myc		4.0527
+Cell cycle	Rous sarcoma oncogene	Src		4.789
+Cell cycle	Jun oncogene	Jun		3.2893
+Cell cycle	Jun proto-oncogene related gene d1	Jund1	2.7052	3.0491
+Cell cycle	Polo-like kinase 2	Plk2		2.5635
+Cell cycle	Polo-like kinase 3	Plk3	3.1039	5.1568
+Cell cycle	Polo-like kinase 4	Plk4		2.5163
+Cell cycle	Topoisomerase DNA II alpha	Top2a		7.1831
+Cytoskeletal/structural	Keratin complex 1, acidic, gene 18	Krt1-18	4.3301	10.0402
+Cytoskeletal/structural	Keratin complex 2, basic, gene 8	Krt2-8	4.3515	9.1991
+Cytoskeletal/structural	Procollagen, type I, alpha 1	Col1a1	4.9802	16.6567
+Cytoskeletal/structural	Periplakin	Ppl	3.0304	3.0085
+Cytoskeletal/structural	Tubulin, alpha 8	Tuba8	3.3211	3.4593
+Cytoskeletal/structural	Tubulin, beta 2	Tubb2	1.9632	32.2436
+Cytoskeletal/structural	Actin, gamma, cytoplasmic	Actg		2.5746
