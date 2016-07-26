@@ -1,0 +1,118 @@
+# Generate Mapping Tables Script: Version 4 11:03 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:03 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+affy_hg_u133a|200790_at|200790_at	entrezgene|4953|4953	hgnc_symbol|ODC1|ODC1
+affy_hg_u133a|201063_at|201063_at	entrezgene|5954|5954	hgnc_symbol|RCN1|RCN1
+affy_hg_u133a|201291_s_at|201291_s_at	entrezgene|7153|7153	hgnc_symbol|TOP2A|TOP2A
+affy_hg_u133a|201292_at|201292_at	entrezgene|7153|7153	hgnc_symbol|TOP2A|TOP2A
+affy_hg_u133a|201397_at|201397_at	entrezgene|26227|26227	hgnc_symbol|PHGDH|PHGDH
+affy_hg_u133a|201909_at|201909_at	entrezgene|6192|6192	hgnc_symbol|RPS4Y1|RPS4Y1
+affy_hg_u133a|202086_at|202086_at	entrezgene|4599|4599	hgnc_symbol|MX1|MX1
+affy_hg_u133a|202095_s_at|202095_s_at	entrezgene|332|332	hgnc_symbol|BIRC5|BIRC5
+affy_hg_u133a|202219_at|202219_at	entrezgene|6535|6535	hgnc_symbol|SLC6A8|SLC6A8
+affy_hg_u133a|202222_s_at|202222_s_at	entrezgene|1674|1674	hgnc_symbol|DES|DES
+affy_hg_u133a|202283_at|202283_at	entrezgene|5176|5176	hgnc_symbol|SERPINF1|SERPINF1
+affy_hg_u133a|202409_at|202409_at	entrezgene|492304|492304	hgnc_symbol|LOC492304|LOC492304
+affy_hg_u133a|202436_s_at|202436_s_at	entrezgene|1545|1545	hgnc_symbol|CYP1B1|CYP1B1
+affy_hg_u133a|202580_x_at|202580_x_at	entrezgene|2305|2305	hgnc_symbol|FOXM1|FOXM1
+affy_hg_u133a|202589_at|202589_at	entrezgene|7298|7298	hgnc_symbol|TYMS|TYMS
+affy_hg_u133a|202705_at|202705_at	entrezgene|9133|9133	hgnc_symbol|CCNB2|CCNB2
+affy_hg_u133a|202858_at|202858_at	entrezgene|7307|7307	hgnc_symbol|U2AF1|U2AF1
+affy_hg_u133a|202870_s_at|202870_s_at	entrezgene|991|991	hgnc_symbol|CDC20|CDC20
+affy_hg_u133a|202934_at|202934_at	entrezgene|3099|3099	hgnc_symbol|HK2|HK2
+affy_hg_u133a|203510_at|203510_at	entrezgene|4233|4233	hgnc_symbol|MET|MET
+affy_hg_u133a|203554_x_at|203554_x_at	entrezgene|9232|9232	hgnc_symbol|PTTG1|PTTG1
+affy_hg_u133a|203842_s_at|203842_s_at	entrezgene|22924|22924	hgnc_symbol|MAPRE3|MAPRE3
+affy_hg_u133a|203936_s_at|203936_s_at	entrezgene|4318|4318	hgnc_symbol|MMP9|MMP9
+affy_hg_u133a|204014_at|204014_at	entrezgene|1846|1846	hgnc_symbol|DUSP4|DUSP4
+affy_hg_u133a|204086_at|204086_at	entrezgene|23532|23532	hgnc_symbol|PRAME|PRAME
+affy_hg_u133a|204400_at|204400_at	entrezgene|10278|10278	hgnc_symbol|EFS|EFS
+affy_hg_u133a|204424_s_at|204424_s_at	entrezgene|55885|55885	hgnc_symbol|LMO3|LMO3
+affy_hg_u133a|204606_at|204606_at	entrezgene|6366|6366	hgnc_symbol|CCL21|CCL21
+affy_hg_u133a|204777_s_at|204777_s_at	entrezgene|4118|4118	hgnc_symbol|MAL|MAL
+affy_hg_u133a|204825_at|204825_at	entrezgene|9833|9833	hgnc_symbol|MELK|MELK
+affy_hg_u133a|205143_at|205143_at	entrezgene|1463|1463	hgnc_symbol|CSPG3|CSPG3
+affy_hg_u133a|205348_s_at|205348_s_at	entrezgene|1780|1780	hgnc_symbol|DNCI1|DNCI1
+affy_hg_u133a|205449_at|205449_at	entrezgene|29901|29901	hgnc_symbol|SAC3D1|SAC3D1
+affy_hg_u133a|205630_at|205630_at	entrezgene|1392|1392	hgnc_symbol|CRH|CRH
+affy_hg_u133a|205637_s_at|205637_s_at	entrezgene|6457|6457	hgnc_symbol|SH3GL3|SH3GL3
+affy_hg_u133a|205721_at|205721_at	entrezgene|2675|2675	hgnc_symbol|GFRA2|GFRA2
+affy_hg_u133a|205722_s_at|205722_s_at	entrezgene|2675|2675	hgnc_symbol|GFRA2|GFRA2
+affy_hg_u133a|205766_at|205766_at	entrezgene|8557|8557	hgnc_symbol|TCAP|TCAP
+affy_hg_u133a|205774_at|205774_at	entrezgene|2161|2161	hgnc_symbol|F12|F12
+affy_hg_u133a|206001_at|206001_at	entrezgene|4852|4852	hgnc_symbol|NPY|NPY
+affy_hg_u133a|206278_at|206278_at	entrezgene|5724|5724	hgnc_symbol|PTAFR|PTAFR
+affy_hg_u133a|206328_at|206328_at	entrezgene|1013|1013	hgnc_symbol|CDH15|CDH15
+affy_hg_u133a|206338_at|206338_at	entrezgene|1995|1995	hgnc_symbol|ELAVL3|ELAVL3
+affy_hg_u133a|207005_s_at|207005_s_at	entrezgene|596|596	hgnc_symbol|BCL2|BCL2
+affy_hg_u133a|207306_at|207306_at	entrezgene|6939|6939	hgnc_symbol|TCF15|TCF15
+affy_hg_u133a|207730_x_at|207730_x_at	entrezgene|114782|114782	hgnc_symbol|KIAA1881|KIAA1881
+affy_hg_u133a|207828_s_at|207828_s_at	entrezgene|1063|1063	hgnc_symbol|CENPF|CENPF
+affy_hg_u133a|208212_s_at|208212_s_at	entrezgene|238|238	hgnc_symbol|ALK|ALK
+affy_hg_u133a|208808_s_at|208808_s_at	entrezgene|3148|3148	hgnc_symbol|HMGB2|HMGB2
+affy_hg_u133a|209138_x_at|209138_x_at	entrezgene|10901 /// 28793 /// 3538|10901 /// 28793 /// 3538	hgnc_symbol|IGLV3-25 /// DHRS4 /// IGLC2|IGLV3-25 /// DHRS4 /// IGLC2
+affy_hg_u133a|209295_at|209295_at	entrezgene|8795|8795	hgnc_symbol|TNFRSF10B|TNFRSF10B
+affy_hg_u133a|209374_s_at|209374_s_at	entrezgene|3507|3507	hgnc_symbol|IGHM|IGHM
+affy_hg_u133a|209619_at|209619_at	entrezgene|972|972	hgnc_symbol|CD74|CD74
+affy_hg_u133a|209714_s_at|209714_s_at	entrezgene|1033|1033	hgnc_symbol|CDKN3|CDKN3
+affy_hg_u133a|209757_s_at|209757_s_at	entrezgene|4613|4613	hgnc_symbol|MYCN|MYCN
+affy_hg_u133a|209769_s_at|209769_s_at	entrezgene|2812|2812	hgnc_symbol|GP1BB|GP1BB
+affy_hg_u133a|209773_s_at|209773_s_at	entrezgene|6241|6241	hgnc_symbol|RRM2|RRM2
+affy_hg_u133a|209875_s_at|209875_s_at	entrezgene|6696|6696	hgnc_symbol|SPP1|SPP1
+affy_hg_u133a|209988_s_at|209988_s_at	entrezgene|429|429	hgnc_symbol|ASCL1|ASCL1
+affy_hg_u133a|210069_at|210069_at	entrezgene|1120 /// 1375|1120 /// 1375	hgnc_symbol|CHKB /// CPT1B|CHKB /// CPT1B
+affy_hg_u133a|210220_at|210220_at	entrezgene|2535|2535	hgnc_symbol|FZD2|FZD2
+affy_hg_u133a|210230_at|210230_at	entrezgene|388388|388388	hgnc_symbol|LOC388388|LOC388388
+affy_hg_u133a|210295_at|210295_at	entrezgene|4109|4109	hgnc_symbol|MAGEA10|MAGEA10
+affy_hg_u133a|210364_at|210364_at	entrezgene|6327|6327	hgnc_symbol|SCN2B|SCN2B
+affy_hg_u133a|210387_at|210387_at	entrezgene|8339|8339	hgnc_symbol|HIST1H2BG|HIST1H2BG
+affy_hg_u133a|210445_at|210445_at	entrezgene|2172|2172	hgnc_symbol|FABP6|FABP6
+affy_hg_u133a|210448_s_at|210448_s_at	entrezgene|5026|5026	hgnc_symbol|P2RX5|P2RX5
+affy_hg_u133a|211430_s_at|211430_s_at	entrezgene|3492 /// 3500 /// 3501 /// 3502 /// 3507|3492 /// 3500 /// 3501 /// 3502 /// 3507	hgnc_symbol|IGH@ /// IGHG1 /// IGHG2 /// IGHG3 /// IGHM|IGH@ /// IGHG1 /// IGHG2 /// IGHG3 /// IGHM
+affy_hg_u133a|211600_at|211600_at
+affy_hg_u133a|211996_s_at|211996_s_at	entrezgene|23117 /// 283846 /// 348162 /// 440354 /// 613037|23117 /// 283846 /// 348162 /// 440354 /// 613037	hgnc_symbol|LOC23117 /// DKFZp547E087 /// LOC348162 /// LOC440354 /// LOC613037|LOC23117 /// DKFZp547E087 /// LOC348162 /// LOC440354 /// LOC613037
+affy_hg_u133a|212680_x_at|212680_x_at	entrezgene|26472|26472	hgnc_symbol|PPP1R14B|PPP1R14B
+affy_hg_u133a|213089_at|213089_at	entrezgene|153561|153561	hgnc_symbol|LOC153561|LOC153561
+affy_hg_u133a|213319_s_at|213319_s_at	entrezgene|8531|8531	hgnc_symbol|CSDA|CSDA
+affy_hg_u133a|213418_at|213418_at	entrezgene|3310|3310	hgnc_symbol|HSPA6|HSPA6
+affy_hg_u133a|213690_s_at|213690_s_at
+affy_hg_u133a|213718_at|213718_at	entrezgene|5936|5936	hgnc_symbol|RBM4|RBM4
+affy_hg_u133a|213943_at|213943_at	entrezgene|7291|7291	hgnc_symbol|TWIST1|TWIST1
+affy_hg_u133a|214213_x_at|214213_x_at	entrezgene|4000|4000	hgnc_symbol|LMNA|LMNA
+affy_hg_u133a|214316_x_at|214316_x_at	entrezgene|811|811	hgnc_symbol|CALR|CALR
+affy_hg_u133a|214636_at|214636_at	entrezgene|797|797	hgnc_symbol|CALCB|CALCB
+affy_hg_u133a|214677_x_at|214677_x_at	entrezgene|28793 /// 28815 /// 28831 /// 3535 /// 3537 /// 3538|28793 /// 28815 /// 28831 /// 3535 /// 3537 /// 3538	hgnc_symbol|IGL@ /// IGLC1 /// IGLC2 /// IGLV3-25 /// IGLV2-14 /// IGLJ3|IGL@ /// IGLC1 /// IGLC2 /// IGLV3-25 /// IGLV2-14 /// IGLJ3
+affy_hg_u133a|214710_s_at|214710_s_at	entrezgene|891|891	hgnc_symbol|CCNB1|CCNB1
+affy_hg_u133a|215121_x_at|215121_x_at	entrezgene|28793 /// 28815 /// 3535 /// 3537 /// 3538|28793 /// 28815 /// 3535 /// 3537 /// 3538	hgnc_symbol|IGL@ /// IGLC1 /// IGLC2 /// IGLV3-25 /// IGLV2-14|IGL@ /// IGLC1 /// IGLC2 /// IGLV3-25 /// IGLV2-14
+affy_hg_u133a|215296_at|215296_at	entrezgene|8476|8476	hgnc_symbol|CDC42BPA|CDC42BPA
+affy_hg_u133a|215379_x_at|215379_x_at	entrezgene|28793 /// 28815 /// 28831 /// 3535 /// 3537 /// 3538|28793 /// 28815 /// 28831 /// 3535 /// 3537 /// 3538	hgnc_symbol|IGL@ /// IGLC1 /// IGLC2 /// IGLV3-25 /// IGLV2-14 /// IGLJ3|IGL@ /// IGLC1 /// IGLC2 /// IGLV3-25 /// IGLV2-14 /// IGLJ3
+affy_hg_u133a|215454_x_at|215454_x_at	entrezgene|6440|6440	hgnc_symbol|SFTPC|SFTPC
+affy_hg_u133a|215778_x_at|215778_x_at	entrezgene|442496 /// 55547|442496 /// 55547	hgnc_symbol|HAB1 /// LOC442496|HAB1 /// LOC442496
+affy_hg_u133a|216206_x_at|216206_x_at	entrezgene|5609|5609	hgnc_symbol|MAP2K7|MAP2K7
+affy_hg_u133a|216768_x_at|216768_x_at	entrezgene|55020|55020	hgnc_symbol|FLJ20699|FLJ20699
+affy_hg_u133a|216858_x_at|216858_x_at
+affy_hg_u133a|217022_s_at|217022_s_at	entrezgene|283650 /// 3493 /// 3494|283650 /// 3493 /// 3494	hgnc_symbol|IGHA1 /// IGHA2 /// MGC27165|IGHA1 /// IGHA2 /// MGC27165
+affy_hg_u133a|217040_x_at|217040_x_at	entrezgene|6665|6665	hgnc_symbol|SOX15|SOX15
+affy_hg_u133a|217101_at|217101_at	entrezgene|22996|22996	hgnc_symbol|C1orf34|C1orf34
+affy_hg_u133a|217561_at|217561_at	entrezgene|796|796	hgnc_symbol|CALCA|CALCA
+affy_hg_u133a|217679_x_at|217679_x_at
+affy_hg_u133a|217767_at|217767_at	entrezgene|718|718	hgnc_symbol|C3|C3
+affy_hg_u133a|218585_s_at|218585_s_at	entrezgene|51514|51514	hgnc_symbol|DTL|DTL
+affy_hg_u133a|218741_at|218741_at	entrezgene|79019|79019	hgnc_symbol|C22orf18|C22orf18
+affy_hg_u133a|218883_s_at|218883_s_at	entrezgene|79682|79682	hgnc_symbol|MLF1IP|MLF1IP
+affy_hg_u133a|219117_s_at|219117_s_at	entrezgene|51303|51303	hgnc_symbol|FKBP11|FKBP11
+affy_hg_u133a|219150_s_at|219150_s_at	entrezgene|11033|11033	hgnc_symbol|CENTA1|CENTA1
+affy_hg_u133a|219277_s_at|219277_s_at	entrezgene|55753|55753	hgnc_symbol|OGDHL|OGDHL
+affy_hg_u133a|220057_at|220057_at	entrezgene|9503|9503	hgnc_symbol|XAGE1|XAGE1
+affy_hg_u133a|220489_s_at|220489_s_at
+affy_hg_u133a|220940_at|220940_at	entrezgene|57730|57730	hgnc_symbol|KIAA1641|KIAA1641
+affy_hg_u133a|221651_x_at|221651_x_at	entrezgene|28299 /// 3514|28299 /// 3514	hgnc_symbol|IGKC /// IGKV1-5|IGKC /// IGKV1-5
+affy_hg_u133a|221671_x_at|221671_x_at	entrezgene|28299 /// 3514|28299 /// 3514	hgnc_symbol|IGKC /// IGKV1-5|IGKC /// IGKV1-5
+affy_hg_u133a|221805_at|221805_at	entrezgene|4747|4747	hgnc_symbol|NEFL|NEFL
+affy_hg_u133a|221916_at|221916_at	entrezgene|4747|4747	hgnc_symbol|NEFL|NEFL
+affy_hg_u133a|222380_s_at|222380_s_at	entrezgene|10016|10016	hgnc_symbol|PDCD6|PDCD6
+affy_hg_u133a|33767_at|33767_at	entrezgene|4744|4744	hgnc_symbol|NEFH|NEFH
+

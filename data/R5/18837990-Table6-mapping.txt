@@ -1,0 +1,16 @@
+# Generate Mapping Tables Script: Version 4 11:06 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:06 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+affy_hg_u133_plus_2|202768_at|202768_at	hgnc_symbol|FOSB|FOSB
+affy_hg_u133_plus_2|209189_at|209189_at	hgnc_symbol|FOS|FOS
+affy_hg_u133_plus_2|205476_at|205476_at	hgnc_symbol|CCL20|CCL20
+affy_hg_u133_plus_2|212009_s_at|212009_s_at	hgnc_symbol|STIP1|STIP1
+affy_hg_u133_plus_2|209795_at|209795_at	hgnc_symbol|CD69|CD69
+affy_hg_u133_plus_2|211506_s_at|211506_s_at	hgnc_symbol|IL8|IL8
+affy_hg_u133_plus_2|1557910_at|1557910_at	hgnc_symbol|HSP90AB1|HSP90AB1
+affy_hg_u133_plus_2|227404_s_at|227404_s_at	hgnc_symbol|EGR1|EGR1
+affy_hg_u133_plus_2|211804_s_at|211804_s_at	hgnc_symbol|CDK2|CDK2
+affy_hg_u133_plus_2|208621_s_at|208621_s_at	hgnc_symbol|VIL2|VIL2

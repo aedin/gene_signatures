@@ -1,0 +1,107 @@
+# Generate Mapping Tables Script: Version 4 11:07 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:07 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+refseq_dna|NM_013514|NM_013514
+entrezgene|AF061529|15204	mgi_symbol|rjs|rjs
+entrezgene|AK006088|21894	mgi_symbol|Tln1|Tln1
+entrezgene|AF133208|63955	mgi_symbol|Cables|Cables	mgi_symbol|ik3-1|ik3-1
+refseq_dna|NM_007615|NM_007615	mgi_symbol|Catns|Catns
+entrezgene|AF312712|64099	mgi_symbol|Parvg|Parvg
+refseq_dna|NM_011465|NM_011465	mgi_symbol|Spna-1|Spna-1
+refseq_dna|NM_009204|NM_009204	mgi_symbol|Slc2a4|Slc2a4	mgi_symbol|Glut4|Glut4
+refseq_dna|NM_019687|NM_019687	mgi_symbol|Slc22a4 OCTN1|Slc22a4 OCTN1
+refseq_dna|NM_008431|NM_008431	mgi_symbol|Kcnk4|Kcnk4
+embl|AL133159|AL133159	mgi_symbol|Rhod|Rhod
+refseq_dna|NM_013617|NM_013617	mgi_symbol|Olfr65|Olfr65
+refseq_dna|NM_009781|NM_009781	mgi_symbol|Cacna1c|Cacna1c
+entrezgene|AK004130|104080	mgi_symbol|Nxph4|Nxph4
+refseq_dna|NM_010045|NM_010045	mgi_symbol|Dfy|Dfy
+entrezgene|AF296282|78369	mgi_symbol|ICAM-4|ICAM-4	mgi_symbol|Cd242|Cd242
+refseq_dna|NM_011248|NM_011248	mgi_symbol|Robo3|Robo3
+refseq_dna|NM_013848|NM_013848	mgi_symbol|Ermap|Ermap
+entrezgene|AK011596|22042	mgi_symbol|Tfrc|Tfrc	mgi_symbol|CD71|CD71
+refseq_dna|NM_009612|NM_009612	mgi_symbol|Acvrl1|Acvrl1
+refseq_dna|NM_008495|NM_008495	mgi_symbol|Lgals1|Lgals1	mgi_symbol|d-Gal1|d-Gal1
+refseq_dna|NM_011270|NM_011270	mgi_symbol|Rhced|Rhced
+refseq_dna|NM_010369|NM_010369	mgi_symbol|Gypa|Gypa
+refseq_dna|NM_007652|NM_007652	mgi_symbol|Cd59a|Cd59a
+refseq_dna|NM_010581|NM_010581	mgi_symbol|Cd47|Cd47
+refseq_dna|NM_007430|NM_007430	mgi_symbol|Nr0b1|Nr0b1	mgi_symbol|Dax|Dax
+entrezgene|M32071|19411	mgi_symbol|Rarg|Rarg	mgi_symbol|RARgamma|RARgamma
+entrezgene|AK019136|211651	mgi_symbol|2410150O07Ri|2410150O07Ri
+entrezgene|AK017747|14211	mgi_symbol|Smc2l1|Smc2l1	mgi_symbol|CAP|CAP
+entrezgene|X66177|15410
+refseq_dna|NM_020625|NM_020625	mgi_symbol|Zfp297|Zfp297	mgi_symbol|Bing1|Bing1
+refseq_dna|NM_009822|NM_009822	mgi_symbol|Cbfa2t1h|Cbfa2t1h	mgi_symbol|Eto|Eto
+refseq_dna|NM_009570|NM_009570	mgi_symbol|Zfy1|Zfy1
+entrezgene|X56570|19401	mgi_symbol|Rara|Rara	mgi_symbol|RARalpha|RARalpha
+refseq_dna|NM_011750|NM_011750	mgi_symbol|Zfp162|Zfp162
+entrezgene|AK018596|16969	mgi_symbol|Zbtb7|Zbtb7	mgi_symbol|Pokemon|Pokemon
+refseq_dna|NM_008453|NM_008453	mgi_symbol|Klf3|Klf3
+refseq_dna|NM_010638|NM_010638	mgi_symbol|Bteb1|Bteb1	mgi_symbol|Klf9|Klf9
+refseq_dna|NM_008505|NM_008505	mgi_symbol|Lmo2|Lmo2
+refseq_dna|NM_008130|NM_008130	mgi_symbol|Gli3|Gli3
+entrezgene|AF269248|93966	mgi_symbol|Hemgn|Hemgn
+entrezgene|AJ292189|209361	mgi_symbol|TAF140|TAF140
+entrezgene|AK004435|68924	mgi_symbol|1190001M18Ri|1190001M18Ri
+embl|AK015822|AK015822	mgi_symbol|4930518C09Rik|4930518C09Rik
+refseq_dna|NM_008469|NM_008469	mgi_symbol|Krt1-15|Krt1-15
+entrezgene|U72343|19699	mgi_symbol|Reln|Reln
+refseq_dna|NM_009262|NM_009262	mgi_symbol|Spock1|Spock1
+refseq_dna|NM_009839|NM_009839	mgi_symbol|Cct6b|Cct6b
+embl|S59969|S59969	mgi_symbol|IL3|IL3
+entrezgene|AK005877|75443	mgi_symbol|1700011M02Ri|1700011M02Ri
+embl|AK020173|AK020173	mgi_symbol|6720484C15Rik|6720484C15Rik
+embl|AK016606|AK016606	mgi_symbol|4933401L05Rik|4933401L05Rik
+entrezgene|AK016866|71073	mgi_symbol|4933421O10Ri|4933421O10Ri
+entrezgene|AK014014|73093	mgi_symbol|3110006O06Ri|3110006O06Ri
+refseq_dna|NM_025863|NM_025863	mgi_symbol|Trim59|Trim59
+refseq_dna|NM_009221|NM_009221	mgi_symbol|Snca|Snca
+entrezgene|AJ404616|63828	mgi_symbol|FN3K|FN3K
+entrezgene|AF343079|108888	mgi_symbol|Atad3a|Atad3a
+refseq_dna|NM_025569|NM_025569	mgi_symbol|Mgst3|Mgst3
+refseq_dna|NM_013631|NM_013631	mgi_symbol|Pklr|Pklr
+refseq_dna|NM_008975|NM_008975	mgi_symbol|Ptp4a3|Ptp4a3	mgi_symbol|Acp5|Acp5
+refseq_dna|NM_010046|NM_010046	mgi_symbol|Dgat1|Dgat1
+refseq_dna|NM_008797|NM_008797	mgi_symbol|Pcx|Pcx
+entrezgene|AK003722|68612	mgi_symbol|Ube2c|Ube2c
+refseq_dna|NM_007798|NM_007798	mgi_symbol|Ctsb|Ctsb
+entrezgene|AF060220|170812	mgi_symbol|AHSP|AHSP	mgi_symbol|EDRF|EDRF
+embl|AF071431|AF071431	mgi_symbol|beta-major|beta-major
+refseq_dna|NM_009775|NM_009775	mgi_symbol|Bzrp|Bzrp
+refseq_dna|NM_020583|NM_020583	mgi_symbol|Isg20|Isg20
+entrezgene|BC006617|233016	mgi_symbol|Blvrb|Blvrb
+refseq_dna|NM_008911|NM_008911	mgi_symbol|Ppox|Ppox
+entrezgene|BC003861|15288	mgi_symbol|Hmbs|Hmbs	mgi_symbol|PBGD|PBGD
+entrezgene|M63244|11656	mgi_symbol|ALAS-E|ALAS-E
+refseq_dna|NM_007757|NM_007757	mgi_symbol|Cpox|Cpox
+refseq_dna|NM_009478|NM_009478	mgi_symbol|Urod|Urod
+refseq_dna|NM_007998|NM_007998	mgi_symbol|Fech|Fech
+entrezgene|M63245|11655	mgi_symbol|ALAS-H|ALAS-H
+refseq_dna|NM_009479|NM_009479	mgi_symbol|Uros|Uros
+refseq_dna|NM_009799|NM_009799	mgi_symbol|Car1|Car1
+refseq_dna|NM_009760|NM_009760	mgi_symbol|Bnip3|Bnip3
+entrezgene|Z31362|76650	mgi_symbol|Npn3|Npn3	mgi_symbol|Srx|Srx	mgi_symbol|TX01|TX01
+refseq_dna|NM_025771|NM_025771	mgi_symbol|Cntnap2|Cntnap2
+refseq_dna|NM_011633|NM_011633	mgi_symbol|Traf5|Traf5
+refseq_dna|NM_025432|NM_025432	mgi_symbol|Trappc2|Trappc2
+embl|AK014162|AK014162	mgi_symbol|3110040M04Ri|3110040M04Ri
+entrezgene|AK018286|382620	mgi_symbol|Tmed8|Tmed8	mgi_symbol|Gm1184|Gm1184
+refseq_dna|NM_009455|NM_009455	mgi_symbol|Ube2e1|Ube2e1
+embl|AK020839|AK020839	mgi_symbol|Fhod3|Fhod3
+entrezgene|AK005193|68972	mgi_symbol|1500010M24Ri|1500010M24Ri
+refseq_dna|NM_015783|NM_015783	mgi_symbol|G1p2|G1p2
+entrezgene|AF222928|67742	mgi_symbol|Samsn1|Samsn1	mgi_symbol|Hacs1|Hacs1
+refseq_dna|NM_008828|NM_008828	mgi_symbol|Pgk1|Pgk1
+refseq_dna|NM_018784|NM_018784	mgi_symbol|St3gal6|St3gal6
+refseq_dna|NM_019832|NM_019832	mgi_symbol|Gkap1|Gkap1
+refseq_dna|NM_011656|NM_011656	mgi_symbol|Tuft1|Tuft1
+entrezgene|AF072403|23849	mgi_symbol|Klf6|Klf6
+refseq_dna|NM_011250|NM_011250	mgi_symbol|Rbl2|Rbl2
+embl|AB056103|AB056103	mgi_symbol|msi2|msi2
+refseq_dna|NM_013472|NM_013472	mgi_symbol|Anxa6|Anxa6
+refseq_dna|NM_009673|NM_009673	mgi_symbol|Anxa5|Anxa5
+entrezgene|AF283667|18648	mgi_symbol|Pgam1|Pgam1

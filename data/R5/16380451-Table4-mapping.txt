@@ -1,0 +1,44 @@
+# Generate Mapping Tables Script: Version 4 11:07 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:07 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+entrezgene|U72343|19699	mgi_symbol|Rein|Rein
+entrezgene|AF060220|170812	mgi_symbol|Eraf|Eraf	mgi_symbol|AHSP|AHSP	mgi_symbol|EDRF|EDRF
+refseq_dna|NM_025569|NM_025569	mgi_symbol|Mgst3|Mgst3
+refseq_dna|NM_007902|NM_007902	mgi_symbol|Edn2|Edn2
+refseq_dna|NM_009262|NM_009262	mgi_symbol|Spock1|Spock1
+refseq_dna|NM_007947|NM_007947	mgi_symbol|Lcn5|Lcn5
+entrezgene|AK017557|384009	mgi_symbol|Glipr2|Glipr2	mgi_symbol|GAPR-1|GAPR-1
+refseq_dna|NM_013514|NM_013514
+entrezgene|AK007651|56085	mgi_symbol|Ubqln1|Ubqln1	mgi_symbol|DA41|DA41
+refseq_dna|NM_013473|NM_013473	mgi_symbol|Anxa8|Anxa8
+refseq_dna|NM_007909|NM_007909	mgi_symbol|Efna2|Efna2
+entrezgene|AK014809|70840	mgi_symbol|Slc22a16|Slc22a16
+refseq_dna|NM_010405|NM_010405	mgi_symbol|zeta-globin|eta-globin
+embl|AF071431|AF071431	mgi_symbol|beta-maj globin|beta-maj globin
+refseq_dna|NM_013848|NM_013848	mgi_symbol|Ermap|Ermap
+refseq_dna|NM_010315|NM_010315	mgi_symbol|Gng2|Gng2
+refseq_dna|NM_013692|NM_013692	mgi_symbol|Tieg1|Tieg1
+refseq_dna|NM_010045|NM_010045	mgi_symbol|Dfy|Dfy
+entrezgene|AF384160|67800	mgi_symbol|Dgat2|Dgat2	mgi_symbol|DGAT-2|DGAT-2
+refseq_dna|NM_009775|NM_009775	mgi_symbol|Bzrp|Bzrp
+refseq_dna|NM_007827|NM_007827	mgi_symbol|Daf2|Daf2
+entrezgene|M63244|11656	mgi_symbol|ALAS-E|ALAS-E	mgi_symbol|ALAS2|ALAS2
+entrezgene|AK011596|22042	mgi_symbol|Tfrc|Tfrc	mgi_symbol|CD71|CD71
+refseq_dna|NM_020583|NM_020583	mgi_symbol|Isg20|Isg20
+entrezgene|L09600|18022	mgi_symbol|Nfe2|Nfe2
+entrezgene|AK002769|71683	mgi_symbol|Gypc|Gypc
+refseq_dna|NM_011270|NM_011270	mgi_symbol|Rhced|Rhced
+entrezgene|AK018596|16969	mgi_symbol|Zbtb7|Zbtb7	mgi_symbol|Pokemon|Pokemon
+refseq_dna|NM_020625|NM_020625	mgi_symbol|Zfp297|Zfp297
+refseq_dna|NM_008221|NM_008221	mgi_symbol|epsilon-y globin|epsilon-y globin
+refseq_dna|NM_008219|NM_008219	mgi_symbol|Hbb-betah1|Hbb-betah1
+entrezgene|BC003861|15288	mgi_symbol|PBDG|PBDG
+entrezgene|AK004655|74107	mgi_symbol|1200008O12Rik|1200008O12Rik
+entrezgene|AF285091|68659	mgi_symbol|11100032E23Rik|11100032E23Rik
+entrezgene|AK006511|69496	mgi_symbol|1700029M23Rik|1700029M23Rik
+entrezgene|AK020578|77411	mgi_symbol|9530027K23Rik|9530027K23Rik
+entrezgene|AK011203|72201	mgi_symbol|2600013N14Rik|2600013N14Rik
+entrezgene|AK017334|71345	mgi_symbol|Tp53i5|Tp53i5

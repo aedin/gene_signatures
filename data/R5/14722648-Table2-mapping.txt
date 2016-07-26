@@ -1,0 +1,56 @@
+# Generate Mapping Tables Script: Version 4 11:04 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:04 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+unigene|Hs.89832|Hs.89832	hgnc_symbol|INS|INS
+unigene|Hs.49407|Hs.49407	hgnc_symbol|REG1A|REG1A
+unigene|Hs.78546|Hs.78546	hgnc_symbol|ATP2B1|ATP2B1
+unigene|Hs.427202|Hs.427202	hgnc_symbol|TTR|TTR
+unigene|Hs.2879|Hs.2879	hgnc_symbol|CPA1|CPA1
+unigene|Hs.419094|Hs.419094	hgnc_symbol|PRSS1|PRSS1
+unigene|Hs.241561|Hs.241561	hgnc_symbol|PRSS2|PRSS2
+unigene|Hs.133430|Hs.133430
+
+
+unigene|Hs.300280|Hs.300280	hgnc_symbol|AMY2A|AMY2A
+unigene|Hs.401448|Hs.401448	hgnc_symbol|TPT1|TPT1
+unigene|Hs.180884|Hs.180884	hgnc_symbol|CPB1|CPB1
+
+
+unigene|Hs.406160|Hs.406160	hgnc_symbol|CEL|CEL
+unigene|Hs.929|Hs.929	hgnc_symbol|MYH7|MYH7
+unigene|Hs.181289|Hs.181289	hgnc_symbol|CELA3A|CELA3A
+unigene|Hs.1340|Hs.1340	hgnc_symbol|CLPS|CLPS
+unigene|Hs.89717|Hs.89717	hgnc_symbol|CPA2|CPA2
+unigene|Hs.102876|Hs.102876	hgnc_symbol|PNLIP|PNLIP
+unigene|Hs.422118|Hs.422118	hgnc_symbol|EEF1A1|EEF1A1
+
+unigene|Hs.53985|Hs.53985	hgnc_symbol|GP2|GP2
+
+unigene|Hs.425790|Hs.425790	hgnc_symbol|CELA3B|CELA3B
+unigene|Hs.48516|Hs.48516	hgnc_symbol|B2M|B2M
+unigene|Hs.181286|Hs.181286	hgnc_symbol|SPINK1|SPINK1
+unigene|Hs.90436|Hs.90436	hgnc_symbol|SPAG7|SPAG7
+unigene|Hs.429437|Hs.429437	hgnc_symbol|PCSK1N|PCSK1N
+unigene|Hs.418650|Hs.418650	hgnc_symbol|FTH1|FTH1
+unigene|Hs.107003|Hs.107003	hgnc_symbol|CCNB1IP1|CCNB1IP1
+unigene|Hs.8709|Hs.8709	hgnc_symbol|CTRC|CTRC
+unigene|Hs.268049|Hs.268049	hgnc_symbol|NIP7|NIP7
+unigene|Hs.95243|Hs.95243	hgnc_symbol|TCEAL1|TCEAL1
+
+unigene|Hs.423901|Hs.423901	hgnc_symbol|GCG|GCG
+unigene|Hs.234726|Hs.234726	hgnc_symbol|SERPINA3|SERPINA3
+unigene|Hs.75106|Hs.75106	hgnc_symbol|CLU|CLU
+unigene|Hs.74502|Hs.74502	hgnc_symbol|CTRB1|CTRB1
+unigene|Hs.379466|Hs.379466	hgnc_symbol|UBE2A|UBE2A
+unigene|Hs.992|Hs.992	hgnc_symbol|PLA2G1B|PLA2G1B
+unigene|Hs.77495|Hs.77495	hgnc_symbol|UBXN4|UBXN4
+unigene|Hs.169476|Hs.169476	hgnc_symbol|GAPDH|GAPDH
+
+unigene|Hs.75968|Hs.75968	hgnc_symbol|TMSB4X|TMSB4X
+unigene|Hs.423|Hs.423	hgnc_symbol|REG3A|REG3A
+unigene|Hs.4158|Hs.4158	hgnc_symbol|REG1B|REG1B
+
+

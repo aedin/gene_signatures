@@ -1,0 +1,36 @@
+# Generate Mapping Tables Script: Version 4 11:06 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:06 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+hgnc_symbol|ARHGDIB|ARHGDIB
+hgnc_symbol|ARHGEF6|ARHGEF6
+hgnc_symbol|BAX|BAX
+hgnc_symbol|BTG1|BTG1
+hgnc_symbol|CASP8|CASP8
+hgnc_symbol|CD2|CD2
+hgnc_symbol|CD38|CD38
+hgnc_symbol|CIDEB|CIDEB
+hgnc_symbol|CIDEC|CIDEC
+hgnc_symbol|DDX41|DDX41
+hgnc_symbol|DIDO1|DIDO1
+hgnc_symbol|DNASE1|DNASE1
+hgnc_symbol|DUSP2|DUSP2
+hgnc_symbol|FHIT|FHIT
+hgnc_symbol|FIS1|FIS1
+hgnc_symbol|FXR1|FXR1
+hgnc_symbol|GADD45B|GADD45B
+hgnc_symbol|GZMA|GZMA
+hgnc_symbol|GZMH|GZMH
+hgnc_symbol|IER3|IER3
+hgnc_symbol|IL1B|IL1B
+hgnc_symbol|MAL|MAL
+hgnc_symbol|MRPL41|MRPL41
+hgnc_symbol|NCAM1|NCAM1
+hgnc_symbol|PACS2|PACS2
+hgnc_symbol|PCBP4|PCBP4
+hgnc_symbol|PPMIF|PPMIF
+hgnc_symbol|RPS3|RPS3
+hgnc_symbol|TNFSF2|TNFSF2
+hgnc_symbol|TNFSF6|TNFSF6

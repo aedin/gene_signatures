@@ -1,0 +1,36 @@
+# Generate Mapping Tables Script: Version 4 11:03 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:03 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+hgnc_symbol|MCM5|MCM5
+hgnc_symbol|CCNA2|CCNA2
+hgnc_symbol|S100A6|S100A6
+hgnc_symbol|MIF|MIF
+hgnc_symbol|PLK1|PLK1
+hgnc_symbol|EMP3|EMP3
+hgnc_symbol|DUSP6|DUSP6
+hgnc_symbol|TCF19|TCF19
+hgnc_symbol|KIFC1|KIFC1
+hgnc_symbol|NAB2|NAB2
+hgnc_symbol|CALR|CALR
+hgnc_symbol|YWHAH|YWHAH
+hgnc_symbol|UBE2C|UBE2C
+hgnc_symbol|HMGA1|HMGA1
+hgnc_symbol|PCNA|PCNA
+hgnc_symbol|MCM4|MCM4
+hgnc_symbol|AURKB|AURKB
+hgnc_symbol|ANXA1|ANXA1
+hgnc_symbol|HMGA2|HMGA2
+hgnc_symbol|CDKN3|CDKN3
+hgnc_symbol|LGALS1|LGALS1
+hgnc_symbol|CKS2|CKS2
+hgnc_symbol|SOCS1|SOCS1
+hgnc_symbol|ETV5|ETV5
+hgnc_symbol|CDC45L|CDC45L
+hgnc_symbol|CKS1B|CKS1B
+hgnc_symbol|MYBL2|MYBL2
+hgnc_symbol|SERPINE2|SERPINE2
+hgnc_symbol|ECT2|ECT2
+hgnc_symbol|BIRC5|BIRC5

@@ -1,0 +1,38 @@
+# Generate Mapping Tables Script: Version 4 11:08 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:08 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+entrezgene|U43084|15957
+entrezgene|AB067535|246728
+entrezgene|AW047653|24110
+entrezgene|BQ033138|23962
+entrezgene|M74124|226695
+embl|M29881|M29881
+entrezgene|BG068242|209387
+embl|BB757349|BB757349
+entrezgene|X67809|19039
+embl|U43086|U43086
+entrezgene|U51992|16391
+refseq_dna|NM_008326|NM_008326
+embl|BM227980|BM227980
+entrezgene|U06924|20846
+refseq_dna|NM_008330|NM_008330
+embl|BC011306 M86502|BC011306M86502
+refseq_dna|NM_011579|NM_011579
+entrezgene|BF715219|239510
+refseq_dna|NM_010398|NM_010398
+entrezgene|BB418548|13193
+refseq_dna|NM_010758|NM_010758
+refseq_dna|NM_026731|NM_026731
+entrezgene|U64572|17441
+entrezgene|M58045|12799
+entrezgene|BB353220|574402
+refseq_dna|NM_010354|NM_010354
+refseq_dna|NM_008614|NM_008614
+entrezgene|BQ175510|14763
+entrezgene|BC024556|213019
+entrezgene|AW550625|12825
+refseq_dna|NM_026174|NM_026174
+refseq_dna|NM_011674|NM_011674

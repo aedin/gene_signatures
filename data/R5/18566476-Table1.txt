@@ -1,0 +1,64 @@
+Curated Gene Symbol	Gene Symbol	Affymetrix ID	Refseq NCBI ID	Description	SW620 Fold Change: 12 h	SW620 Fold Change: 24 h	SW620 Fold Change: 48 h	Function
+ATF3	ATF3	202672_s_at	NM_001030287	Activating transcription factor 3	3.7	4.1	3.1	ER Stress Response
+			NM_001040619					ER Stress Response
+			NM_001674					ER Stress Response
+			NM_004024					ER Stress Response
+ATF4	ATF4	200779_at	NM_001675	Activating transcription factor 4	2.1	2	1.6	ER Stress Response
+			NM_182810					ER Stress Response
+ATF6	ATF6	203952_at	NM_007348	Activating transcription factor 6	1.3	1.2		ER Stress Response
+EIF2S1	EIF2S1	201142_at	NM_004094	Eukaryotic translation initiation factor 2-?	NC	NC	NC	ER Stress Response
+PPP1R15A	GADD34	37028_at	NM_014330	Growth arrest and DNA-damage-inducible 34	6.3	3.9		ER Stress Response
+GABPA	NRF2	201146_at	NM_006164	Nuclear factor E2-related factor	2	1.8		ER Stress Response
+EIF2AK3	PERK	218696_at	NM_004836	PKR-like ER kinase	1.4	2		ER Stress Response
+VCP	VCP	208649_s_at	NM_007126	Valocin containing protein	1.9	1.6		ER Stress Response
+XBP1	XBP1	200670_at	NM_001079539	X-box binding protein 1	2	1.8		ER Stress Response
+			NM_005080					ER Stress Response
+DNAJB1	DNAJB1	200666_s_at	NM_006145	DnaJ homolog, subfamily B, member 1	8	4.1		Chaperones/Protein Folding/UPR Response
+HMOX1	HMOX1	203665_at	NM_002133	Heme oxygenase (decycling) 1	24	10.6	5.7	Chaperones/Protein Folding/UPR Response
+	HSPA1A/B	200800_s_at	NM_005345	Heat shock 70 kDa protein 1A/B	17.8	9.8	5.1	Chaperones/Protein Folding/UPR Response
+			NM_005346					Chaperones/Protein Folding/UPR Response
+HSPA1B	HSPA1B	202581_at	NM_005346	Heat shock 70 kDa protein 1B	9.8	6.5	3.1	Chaperones/Protein Folding/UPR Response
+SERPINH1	HSP47	207714_s_at	NM_001235	Heat shock protein 47	4.4	1.8		Chaperones/Protein Folding/UPR Response
+	Ubiquitine/Proteasome							Chaperones/Protein Folding/UPR Response
+	PSMD1/RPN2	211198_s_at	NM_002807	Proteasome 26S subunit, non-ATPase, 1	2.2	2.2		Chaperones/Protein Folding/UPR Response
+SQSTM1	SQSTM1	213112_s_at	NM_003900	Sequestosome 1	7.7	6.7	5	Chaperones/Protein Folding/UPR Response
+SQSTM1	SQSTM1	201471_s_at	NM_003900	Sequestosome 1	6.7	7.3	3.9	Chaperones/Protein Folding/UPR Response
+CAMLG	CAMLG	203538_at	NM_001745	Calcium modulating ligand	1.9	1.9		Ca2+ Homeostasis
+CAPN2	CAPN2	208683_at	NM_001748	Calpain 2, large subunit	1.3	1.8	1.4	Ca2+ Homeostasis
+CAPN7	CAPN7	203356_at	NM_014296	Calpain 7		1.5		Ca2+ Homeostasis
+ITPR1	IP3R1	203710_at	NM_002222	Inositol 1,4,5-triphosphate receptor, type 1	1.5	2.2	1.4	Ca2+ Homeostasis
+ITPR3	IP3R3	201189_s_at	NM_002224	Inositol 1,4,5-triphosphate receptor, type 3			1.3	Ca2+ Homeostasis
+CAT	CAT	201432_at	NM_001752	Catalase		?1.4		Antioxidants/Oxidative Stress
+GCLC	GCLC	202922_at	NM_001498	Glutamate-cysteine ligase, catalytic subunit	1.6	1.3		Antioxidants/Oxidative Stress
+GCLM	GCLM	203925_at	NM_002061	Glutamate-cysteine ligase, modifier subunit	3.7	3.5	2	Antioxidants/Oxidative Stress
+HMOX1	HMOX1	203665_at	NM_002133	Heme oxygenase (decycling) 1	24	10.6	5.7	Antioxidants/Oxidative Stress
+SOD1	SOD1	200642_at	NM_000454	Superoxide dismutase 1	1.5	1.6		Antioxidants/Oxidative Stress
+TXNRD1	TXNRD1	201266_at	NM_003330	Thioredoxin reductase 1	3.2	2.9	1.9	Antioxidants/Oxidative Stress
+			NM_182729					Antioxidants/Oxidative Stress
+			NM_182742					Antioxidants/Oxidative Stress
+			NM_182743					Antioxidants/Oxidative Stress
+BAG3	BAG3	217911_s_at	NM_004281	BCL2-associated athanogene 3	9.9	5.4		Cell Cycle/Apoptosis
+CASP4	CASP4	209310_s_at	NM_001225	Caspase 4	1.6	2.9		Cell Cycle/Apoptosis
+			NM_033306					Cell Cycle/Apoptosis
+			NM_033307					Cell Cycle/Apoptosis
+CASP7	CASP7	207181_s_at	NM_001227	Caspase 7	1.6	2.1		Cell Cycle/Apoptosis
+			NM_033338					Cell Cycle/Apoptosis
+			NM_033339					Cell Cycle/Apoptosis
+			NM_033340					Cell Cycle/Apoptosis
+CCND1	CCND1	208712_at	NM_053056	Cyclin D1	?1.7	?2.0		Cell Cycle/Apoptosis
+TRIB3	TRIB3	218145_at	NM_021158	Tribbles homolog 3 (Drosophila)	7.4	6.5	3.3	Cell Cycle/Apoptosis
+CAV1	CAV1	203065_s_at	NM_001753	Caveolin 1, caveolae protein, 22 kDa	?1.5	?1.4		Cholesterol Biosynthesis, Uptake, Metabolism, and Transport
+DHCR24	DHCR24	200862_at	NM_014762	24-dehydrocholesterol reductase	?1.6	?1.7		Cholesterol Biosynthesis, Uptake, Metabolism, and Transport
+DHCR7	DHCR7	201791_s_at	NM_001360	7-dehydrocholesterol reductase	?1.6	?1.5		Cholesterol Biosynthesis, Uptake, Metabolism, and Transport
+FDPS	FDPS	201275_at	NM_002004	Farnesyl diphosphate synthase	?1.3	?1.2		Cholesterol Biosynthesis, Uptake, Metabolism, and Transport
+HMGCR	HMGCR	202539_s_at	NM_000859	3-hydroxy-3-methylglutaryl-CoA reductase	NC	NC	NC	Cholesterol Biosynthesis, Uptake, Metabolism, and Transport
+LDLR	LDLR	202068_s_at	NM_000527	Low density lipoprotein receptor	2.4	2.4		Cholesterol Biosynthesis, Uptake, Metabolism, and Transport
+LSS	LSS	202245_at	NM_002340	Lanosterol synthase	?1.3			Cholesterol Biosynthesis, Uptake, Metabolism, and Transport
+NPC1	NPC1	202679_at	NM_000271	Niemann-Pick disease, type C1	3	4.5	1.9	Cholesterol Biosynthesis, Uptake, Metabolism, and Transport
+NPC2	NPC2	200701_at	NM_006432	Niemann-Pick disease, type C2		1.5	1.5	Cholesterol Biosynthesis, Uptake, Metabolism, and Transport
+OSBP	OSBP	201800_s_at	NM_002556	Oxysterol binding protein	1.4	1.4		Cholesterol Biosynthesis, Uptake, Metabolism, and Transport
+PMVK	PMVK	203515_s_at	NM_006556	Phosphomevalonate kinase	-1.3	?1.8		Cholesterol Biosynthesis, Uptake, Metabolism, and Transport
+SREBF2	SREBP2	201247_at	NM_004599	Sterol regulatory element binding protein 2	NC	NC	NC	Cholesterol Biosynthesis, Uptake, Metabolism, and Transport
+TM7SF2	TM7SF2	210130_s_at	NM_003273	Transmembrane 7 superfamily member 2	?1.4	?1.9		Cholesterol Biosynthesis, Uptake, Metabolism, and Transport
+VLDLR	VLDLR	209822_s_at	NM_001018056	Very low density lipoprotein receptor	1.6	1.6		Cholesterol Biosynthesis, Uptake, Metabolism, and Transport
+			NM_003383					Cholesterol Biosynthesis, Uptake, Metabolism, and Transport

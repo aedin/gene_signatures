@@ -1,0 +1,27 @@
+# Generate Mapping Tables Script: Version 4 11:06 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:06 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+hgnc_symbol|p16INK4A|p16INK4A
+hgnc_symbol|p16INK4A|p16INK4A
+hgnc_symbol|p15INK4B mRNA|p15INK4B mRNA
+hgnc_symbol|CDK4 mRNA|CDK4 mRNA
+hgnc_symbol|CDK6 mRNA|CDK6 mRNA
+hgnc_symbol|CDK6|CDK6
+hgnc_symbol|Cyclin D mRNA|Cyclin D mRNA
+hgnc_symbol|Cyclin D|Cyclin D
+hgnc_symbol|p21CIP1 mRNA|p21CIP1 mRNA
+hgnc_symbol|p21CIP1|p21CIP1
+hgnc_symbol|p27KIP1 mRNA|p27KIP1 mRNA
+hgnc_symbol|p27KIP1|p27KIP1
+hgnc_symbol|CDK2 mRNA|CDK2 mRNA
+hgnc_symbol|CDK2|CDK2
+hgnc_symbol|Cyclin E mRNA|Cyclin E mRNA
+hgnc_symbol|Cyclin B mRNA|Cyclin B mRNA
+hgnc_symbol|E2F1 mRNA|E2F1 mRNA
+hgnc_symbol|E2F1|E2F1
+hgnc_symbol|RB mRNA|RB mRNA
+hgnc_symbol|RB|RB
+hgnc_symbol|Phospho-RB|Phospho-RB

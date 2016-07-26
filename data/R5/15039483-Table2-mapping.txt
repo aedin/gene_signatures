@@ -1,0 +1,39 @@
+# Generate Mapping Tables Script: Version 4 11:08 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:08 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+entrezgene|AA819648|303592	protein_id|Q86UE8|Q86UE8
+entrezgene|AI453858|310756	protein_id|P23249|P23249
+entrezgene|AI071179|81659
+entrezgene|AA955880|288778	protein_id|Q9UQ80|Q9UQ80
+entrezgene|AA955278|117060	protein_id|O95071|O95071
+embl|AA957425|AA957425	protein_id|P34022|P34022
+entrezgene|AA819405|362504	protein_id|Q9Z0Y1|Q9Z0Y1
+entrezgene|AI028992|29667	protein_id|Q09167|Q09167
+entrezgene|AA866323|25344	protein_id|P24142|P24142
+entrezgene|AA899938|25405	protein_id|P39950|P39950
+entrezgene|AA900413|24312	protein_id|P00374|P00374
+embl|AA925840|AA925840
+entrezgene|AA819500|288003	protein_id|P35249|P35249
+entrezgene|AI070773|60374	protein_id|P48679|P48679
+entrezgene|AA900090|361653	protein_id|Q62219|Q62219
+entrezgene|AA998164|25203	protein_id|P30277|P30277
+embl|AA899072|AA899072	protein_id|P06351|P06351
+entrezgene|AA858643|25737	protein_id|P04961|P04961
+entrezgene|AA998164|25203	protein_id|P30277|P30277
+entrezgene|AA925473|64465
+entrezgene|AA819369|494445	protein_id|Q62093|Q62093
+entrezgene|AA899876|171041	protein_id|P37285|P37285
+entrezgene|AA819503|299201	protein_id|O35889|O35889
+entrezgene|AA858740|362587
+embl|AA964535|AA964535	protein_id|Q9EPC1|Q9EPC1
+entrezgene|AA900065|305679	protein_id|Q64727|Q64727
+entrezgene|AA819803|29214
+entrezgene|AA925661|114764	protein_id|Q15691|Q15691
+entrezgene|AA899189|360533	protein_id|O15145|O15145
+entrezgene|AI072264|362587	protein_id|Q9UPN3|Q9UPN3
+embl|AA875408|AA875408	protein_id|O15142|O15142
+entrezgene|AI113089|502674	protein_id|P18282|P18282
+entrezgene|AI713807|64158

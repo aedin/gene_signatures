@@ -1,0 +1,13 @@
+Target	Grade	n -	n +	n ++	n +++	Positive rate (%)	Total	Chi2	P
+Wnt2	NB	4	0	0	0	0	4
+Wnt2	II	9	8	2	0	52.6	19	22.042	0.009
+Wnt2	III	4	5	3	1	69.2	13
+Wnt2	IV	1	3	5	4	92.3	13
+Frizzled2	NB	4	0	0	0	0	4
+Frizzled2	II	10	7	2	0	47.4	19	21.699	0.01
+Frizzled2	III	3	5	4	1	76.9	13
+Frizzled2	IV	2	2	4	5	84.6	13
+B-Catenin	NB	2	1	1	0	50	4
+B-Catenin	II	5	9	5	0	73.7	19	21.083	0.012
+B-Catenin	III	1	5	7	0	92.3	13
+B-Catenin	IV	0	3	6	4	100	13

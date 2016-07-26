@@ -1,0 +1,56 @@
+# Generate Mapping Tables Script: Version 4 11:05 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:05 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+hgnc_symbol|PTN|PTN
+hgnc_symbol|SYN3|SYN3
+hgnc_symbol|XKR4|XKR4
+hgnc_symbol|AKR1C1|AKR1C1
+hgnc_symbol|ARHGAP36|ARHGAP36
+hgnc_symbol|CGNL1|CGNL1
+hgnc_symbol|PDGFRA|PDGFRA
+
+hgnc_symbol|PRKCB|PRKCB
+hgnc_symbol|EBF1|EBF1
+hgnc_symbol|VSTM2A|VSTM2A
+hgnc_symbol|PKIB|PKIB
+hgnc_symbol|NXPH1|NXPH1
+
+hgnc_symbol|POU2AF1|POU2AF1
+hgnc_symbol|MYH11|MYH11
+hgnc_symbol|GCGR|GCGR
+hgnc_symbol|CNTNAP2|CNTNAP2
+hgnc_symbol|HS6ST3|HS6ST3
+
+hgnc_symbol|EPB41L3|EPB41L3
+hgnc_symbol|ZFP36|ZFP36
+hgnc_symbol|CSAG1|CSAG1
+hgnc_symbol|SV2C|SV2C
+hgnc_symbol|CDH1|CDH1
+
+
+hgnc_symbol|DEFA3|DEFA3
+hgnc_symbol|S100A6|S100A6
+hgnc_symbol|STK33|STK33
+hgnc_symbol|TMSB4XP4|TMSB4XP4
+hgnc_symbol|FMOD|FMOD
+hgnc_symbol|HBA2|HBA2
+hgnc_symbol|EFEMP1|EFEMP1
+hgnc_symbol|RPL22L1|RPL22L1
+hgnc_symbol|ANKRD18B|ANKRD18B
+hgnc_symbol|ALK|ALK
+hgnc_symbol|RGS5|RGS5
+hgnc_symbol|PRAME|PRAME
+hgnc_symbol|DLK1|DLK1
+hgnc_symbol|IFI6|IFI6
+hgnc_symbol|DSCAM|DSCAM
+
+hgnc_symbol|HP|HP
+
+hgnc_symbol|CHGB|CHGB
+hgnc_symbol|MAGEA9|MAGEA9
+hgnc_symbol|XIST|XIST
+
+hgnc_symbol|TIMP1|TIMP1

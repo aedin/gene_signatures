@@ -1,0 +1,22 @@
+Gene	Test	Method	9p loss (fold-change)	9p loss (p value)	9p loss (q value)	DFS (p value)	DFS (q value)
+p16INK4A	mRNA expression	qRT.PCR	0.4	0.03	0.1
+p16INK4A	protein expression	qIH	0.3	0.04	0.1
+p15INK4B mRNA	mRNA expression	qRT.PCR	0.3	0.007	0.03
+CDK4 mRNA	mRNA expression	qRT.PCR	1.5	0.02	0.05
+CDK6 mRNA	mRNA expression	qRT.PCR	0.4	0.02	0.05
+CDK6	protein expression	RPPA
+Cyclin D mRNA	mRNA expression	qRT.PCR
+Cyclin D	protein expression (nuclear)	qIH
+p21CIP1 mRNA	mRNA expression	qRT.PCR
+p21CIP1	protein expression	RPPA
+p27KIP1 mRNA	mRNA expression	qRT.PCR	1.9	0.002	0.008
+p27KIP1	protein expression	RPPA	1.2	0.05	0.1
+CDK2 mRNA	mRNA expression	qRT.PCR	2	0.002	0.008	0.02	0.1
+CDK2	protein expression	RPPA	1.4	0.08	0.1
+Cyclin E mRNA	mRNA expression	qRT.PCR	2	0.02	0.04
+Cyclin B mRNA	mRNA expression	qRT.PCR	5.2	1.00E-04	0.001	0.001	0.01
+E2F1 mRNA	mRNA expression	qRT.PCR	3	0.002	0.008
+E2F1	protein expression	qIH	1.2	0.03	0.1	0.04	0.2
+RB mRNA	mRNA expression	qRT.PCR
+RB	protein expression	qIH	1.7	0.03	0.1
+Phospho-RB	protein expression	RPPA	1.3	0.01	0.03

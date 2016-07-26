@@ -1,0 +1,49 @@
+# Generate Mapping Tables Script: Version 4 11:05 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:05 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+hgnc_symbol|FCER1G|FCER1G
+hgnc_symbol|CCL4|CCL4
+hgnc_symbol|CCL5|CCL5
+hgnc_symbol|CCR3|CCR3
+hgnc_symbol|CD8B|CD8B
+hgnc_symbol|CD97|CD97
+hgnc_symbol|CEBPB|CEBPB
+
+hgnc_symbol|B2M|B2M
+hgnc_symbol|CTSS|CTSS
+hgnc_symbol|FCGR3A|FCGR3A
+hgnc_symbol|FTH1|FTH1
+hgnc_symbol|GZMA|GZMA
+hgnc_symbol|HLA-DPA1|HLA-DPA1
+hgnc_symbol|HLA-DQA1|HLA-DQA1
+hgnc_symbol|HLA-DRA|HLA-DRA
+hgnc_symbol|HLA-DRB3|HLA-DRB3
+hgnc_symbol|HLA-E|HLA-E
+hgnc_symbol|IFI30|IFI30
+hgnc_symbol|IFITM1|IFITM1
+hgnc_symbol|IFITM2|IFITM2
+hgnc_symbol|IKBKE|IKBKE
+hgnc_symbol|IKBKG|IKBKG
+hgnc_symbol|IL1B|IL1B
+hgnc_symbol|LILRB2|LILRB2
+hgnc_symbol|LST1|LST1
+hgnc_symbol|IL32|IL32
+hgnc_symbol|NOTCH1|NOTCH1
+hgnc_symbol|CFP|CFP
+hgnc_symbol|PPBP|PPBP
+hgnc_symbol|PSME1|PSME1
+hgnc_symbol|S100A12|S100A12
+hgnc_symbol|TNFSF13B|TNFSF13B
+hgnc_symbol|CD40LG|CD40LG
+hgnc_symbol|TRG@|TRG@
+hgnc_symbol|XCL1|XCL1
+hgnc_symbol|MAL|MAL
+hgnc_symbol|LGALS2|LGALS2
+hgnc_symbol|IL21R|IL21R
+hgnc_symbol|IL8|IL8
+hgnc_symbol|IL10RA|IL10RA
+hgnc_symbol|IL18RAP|IL18RAP
+hgnc_symbol|ZAP70|ZAP70

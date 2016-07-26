@@ -1,0 +1,57 @@
+# Generate Mapping Tables Script: Version 4 11:05 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:05 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+refseq_dna|NM_020993|NM_020993
+refseq_dna|NM_001735|NM_001735
+refseq_dna|NM_000565|NM_000565
+refseq_dna|NM_001512|NM_001512
+refseq_dna|NM_020998|NM_020998
+refseq_dna|NM_006410|NM_006410
+refseq_dna|NM_000435|NM_000435
+refseq_dna|NM_001618|NM_001618
+refseq_dna|NM_021136|NM_021136
+refseq_dna|NM_000027|NM_000027
+refseq_dna|NM_016730|NM_016730
+refseq_dna|NM_005635|NM_005635
+refseq_dna|NM_001621|NM_001621
+refseq_dna|NM_000269|NM_000269
+refseq_dna|NM_003289|NM_003289
+refseq_dna|NM_015873|NM_015873
+refseq_dna|NM_007038|NM_007038
+refseq_dna|NM_018127|NM_018127
+refseq_dna|NM_003506|NM_003506
+refseq_dna|NM_002086|NM_002086
+refseq_dna|NM_018344|NM_018344
+entrezgene|M35410|3485
+refseq_dna|NM_021724|NM_021724
+refseq_dna|NM_001012|NM_001012
+refseq_dna|NM_001050|NM_001050
+refseq_dna|NM_003087|NM_003087
+refseq_dna|NM_015906|NM_015906
+refseq_dna|NM_000222|NM_000222
+refseq_dna|NM_000624|NM_000624
+refseq_dna|NM_000963|NM_000963
+refseq_dna|NM_016577|NM_016577
+refseq_dna|NM_001797|NM_001797
+refseq_dna|NM_001915|NM_001915
+refseq_dna|NM_005400|NM_005400
+refseq_dna|NM_004624|NM_004624
+refseq_dna|NM_000041|NM_000041
+refseq_dna|NM_001964|NM_001964
+refseq_dna|NM_005822|NM_005822
+refseq_dna|NM_000441|NM_000441
+refseq_dna|NM_004283|NM_004283
+refseq_dna|NM_003045|NM_003045
+refseq_dna|NM_005982|NM_005982
+refseq_dna|NM_005994|NM_005994
+refseq_dna|NM_003023|NM_003023
+refseq_dna|NM_016135|NM_016135
+refseq_dna|NM_006732|NM_006732
+refseq_dna|NM_022963|NM_022963
+entrezgene|Y12863|2277
+refseq_dna|NM_002957|NM_002957
+refseq_dna|NM_004630|NM_004630
+refseq_dna|NM_005252|NM_005252

@@ -1,0 +1,24 @@
+# Generate Mapping Tables Script: Version 4 11:07 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:07 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+refseq_dna|NM_009594|NM_009594	mgi_symbol|Abl1|Abl1
+refseq_dna|NM_172301|NM_172301	mgi_symbol|Ccnb1|Ccnb1
+refseq_dna|XM_133912|XM_133912	mgi_symbol|Mki67|Mki67
+refseq_dna|NM_009828|NM_009828	mgi_symbol|Ccna2|Ccna2
+refseq_dna|NM_019925|NM_019925	mgi_symbol|Gpr132|Gpr132
+refseq_dna|NM_007691|NM_007691	mgi_symbol|Chek1|Chek1
+refseq_dna|NM_011641|NM_011641	mgi_symbol|Trp63|Trp63
+refseq_dna|NM_016756|NM_016756	mgi_symbol|Cdk2|Cdk2
+refseq_dna|NM_007595|NM_007595	mgi_symbol|Camk2b|Camk2b
+refseq_dna|NM_013787|NM_013787	mgi_symbol|Skp2|Skp2
+refseq_dna|NM_009516|NM_009516	mgi_symbol|Wee1|Wee1
+refseq_dna|NM_018736|NM_018736	mgi_symbol|Mre11a|Mre11a
+refseq_dna|NM_016904|NM_016904	mgi_symbol|Cks1b|Cks1b
+refseq_dna|NM_009765|NM_009765	mgi_symbol|Brca2|Brca2
+refseq_dna|NM_016746|NM_016746	mgi_symbol|Ccnc|Ccnc
+refseq_dna|NM_009361|NM_009361	mgi_symbol|Tfdp1|Tfdp1
+refseq_dna|NM_009460|NM_009460	mgi_symbol|Sumo1|Sumo1
+refseq_dna|NM_011250|NM_011250	mgi_symbol|Rbl2|Rbl2

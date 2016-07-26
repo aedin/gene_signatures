@@ -1,0 +1,67 @@
+Genes 	SAM Score 	Fold changes 	Function
+Bamacan/SMC3 	2.06 	2.04 
+GPC3, glypican 3	2.55	2.49	Extracellular Matrix 
+lectin, mannose-binding, 1 like	2.05	2.13	Extracellular Matrix 
+HAS2, hyaluronan synthase 2	1.89	2.03	Extracellular Matrix 
+LAMB3, lamin, beta 3	-1.99	-3.76	Extracellular Matrix 
+ATP6V1B1, ATPase, H+ transporting V1 subunit B, kidney isoform	3.15	2.4	Transporter and ion channels 
+KCTD12, potassium channel tetramerisation domain 12	1.85	2.02	Transporter and ion channels 
+SLC7A10, solute carrier family 7 member 10, neutral amino acid transporter	-2	-2	Transporter and ion channels 
+MIG12, MID1 interacting G12-like protein	2.58	2.65	Metabolism 
+CKB, creatine kinase, B chain	2	2.28	Metabolism 
+ECHDC3, enoyl Coenzyme A hydratase domain containing 3	2.25	2.2	Metabolism 
+ALDH1A3, aldehyde dehydrogenase 1 family, member A3	1.94	2.16	Metabolism 
+MOXD1, monooxygenase, DBH-like 1	2.53	2.05	Metabolism 
+TXNRD3, thioredoxin reductase 3	1.81	2	Metabolism 
+LTBP2, latent transforming growth factor beta binding protein 2	1.95	2.68	Growth factors and receptors 
+GABRE, gamma-aminobutyric acid A receptor, epsilon	2.04	2.54	Growth factors and receptors 
+DLL1, delta-like 1, notch ligand	1.83	2.23	Growth factors and receptors 
+GDF9, growth differentiation factor 9	1.88	2.19	Growth factors and receptors 
+IGFBP7, insulin-like growth factor binding protein 7	1.81	2.15	Growth factors and receptors 
+GNRH1, gonadotropin-releasing hormone 1	2.23	2.04	Growth factors and receptors 
+IRAK1, interleukin-1 receptor associated kinase 1	-2.17	-2.13	Growth factors and receptors 
+EGFL3, EGF-like-domain, multiple 3	-2.2	-2.16	Growth factors and receptors 
+IL22RA1, interleukin 22 receptor, alpha 1	-2.22	-2.48	Growth factors and receptors 
+OR4D1, olfactory receptor, family 4, subfamily D, member 1	-1.91	-3.03	Growth factors and receptors 
+GRB7, growth factor receptor-bound protein 7	-2.2	-4.18	Growth factors and receptors 
+ARHGEF4, Rho guanine nucleotide exchange factor 4	2.36	2.85	Signal Transduction 
+RGS14, regulator of G-protein signaling 14	2.17	2.57	Signal Transduction 
+RPS6KA5, ribosomal protein S6 kinase, polypeptide 5	2.09	2.46	Signal Transduction 
+PAK6, p21-activated kinase 6	2.16	2.38	Signal Transduction 
+RIN3, Ras and Rab interactor 3	1.86	2.19	Signal Transduction 
+RHOB, ras homolog gene family, member B	1.81	2.18	Signal Transduction 
+SCFD1, sec1 family domain containing 1	2.31	2.08	Signal Transduction 
+LRRK1, leucine-rich repeat kinase 1	2.16	2.06	Signal Transduction 
+RAB40B, GTP-binding protein 40B	1.91	2.15	Signal Transduction 
+PDE6B, phosphodiesterase 6B, cGMP-specific	2.02	2.09	Signal Transduction 
+MCF2L, MCF.2 cell line derived transforming sequence	-1.92	-2.16	Signal Transduction 
+S100A8, S 100 calcium binding protein A8, calgranulin A	-1.92	-2.86	Signal Transduction 
+ADCY2, adenylate cyclase 2	-1.92	-3.03	Signal Transduction 
+MEOX2, mesenchyme homeobox 2, growth arrest specific homeobox	2.14	3.96	Transcriptional factors 
+IRF4, interferon regulatory factor 4	2.2	3.28	Transcriptional factors 
+KHDRBS3, KH domain, RNA binding, signal transduction associated 3	2.24	2.62	Transcriptional factors 
+PPARA, peroxisome proliferative activated receptor, alpha	2.22	2.5	Transcriptional factors 
+CRE-BPa, cAMP responsive element binding protein, ATF2-like	1.94	2.37	Transcriptional factors 
+NEK9, never-in-mitosis-gene a-related kinase 9	1.83	2.33	Transcriptional factors 
+CREM, cAMP responsive element modulator	-1.87	-2.11	Transcriptional factors 
+NCOA6, nuclear receptor coactivator 6	-1.88	-2.32	Transcriptional factors 
+TXB21, T-box 21	-1.88	-2.42	Transcriptional factors 
+POU3F1, POU domain, class 3, octamer-binding TF6	-2.21	-2.44	Transcriptional factors 
+NKX6-1, NK6 transcriptional factor related, locus 1, homeobox 6A	-1.9	-2.53	Transcriptional factors 
+CTNNA1, catenin alpha 1	-1.9	-2.57	Transcriptional factors 
+BCL6B, B-cell CLL/lymphoma 6, member B zinc finger protein	-2.72	-2.79	Transcriptional factors 
+ZNF236, zinc finger protein 236	-1.9	-3.11	Transcriptional factors 
+MHL3, mutL homolog 3	2.76	2.81	DNA repair, gene transcription 
+DNMT2, DNA cytosine-5-methyltransferase 2	1.88	2.07	DNA repair, gene transcription 
+ADPRTL2, ADP-ribosyltransferase 2	2.11	2	DNA repair, gene transcription 
+SNRPN, small nuclear ribonuclear polypeptide N	-2.25	-2.64	DNA repair, gene transcription 
+MYOM2, myomesin 2	2.77	5.1	Various 
+NOPE, neighbor of Punc E11	2.53	2.56	Various 
+C5, complement component 5	2.09	2.46	Various 
+COCH, coagulation factor C homolog, cochlin	2.15	2.09	Various 
+VMD2L1, vitelliform macular dystrophy 2-like 1	-2.17	-2.09	Various 
+GRN, granulin	-1.94	-2.14	Various 
+HPN, hepsin serine protease	-2.02	-2.27	Various 
+LPHN1, latrophilin 1	-1.9	-2.38	Various 
+PRND, prion protein 2	-2.01	-2.5	Various 
+HYPM, huntingtin interacting protein M	-2.18	-3.98	Various 

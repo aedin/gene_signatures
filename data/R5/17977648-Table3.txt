@@ -1,0 +1,12 @@
+Gene network(s)	Score	Focus genes	SignalingPathway(s)	Biological function(s)	Status
+1	36	35	TP53	Negative regulation of growth	repressed
+2	36	35	HGF	Growth signaling	activated
+3,4	36,36	35,35	AP-1 (Jun/Fos)	Oncogenesis	repressed
+5	36	35	VEGF	Angiogenesis	repressed
+6	36	35	IL8, CCL2	Inflammatory response, angiogenesis	repressed
+7	36	35	EGF	Cell proliferation and differentiation	activated
+8	36	35	TRAIL	Apoptosis	repressed
+9	36	35	PLCB1	Cell cycle regulation	repressed
+10	36	35	JAK/Stat	Cell proliferation, apoptosis and differentiation	repressed
+11	36	35	TP73, NCAM1	Growth suppression, cell adhesion	repressed
+12	24	29	p16, E2F4	Negative regulation of cell cycle	repressed, activated

@@ -1,0 +1,32 @@
+# Generate Mapping Tables Script: Version 4 11:06 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:06 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+affy_hg_u133_plus_2|212986_s_at|212986_s_at	hgnc_symbol|TLK2|TLK2
+affy_hg_u133_plus_2|203725_at|203725_at	hgnc_symbol|GADD45A|GADD45A
+affy_hg_u133_plus_2|222879_s_at|222879_s_at	hgnc_symbol|POLH|POLH
+affy_hg_u133_plus_2|203409_at|203409_at	hgnc_symbol|DDB2|DDB2
+affy_hg_u133_plus_2|236535_at|236535_at	hgnc_symbol|SMC6|SMC6
+affy_hg_u133_plus_2|209849_s_at|209849_s_at	hgnc_symbol|RAD51C|RAD51C
+affy_hg_u133_plus_2|209902_at|209902_at	hgnc_symbol|ATR|ATR
+affy_hg_u133_plus_2|228535_at|228535_at	hgnc_symbol|RAD1|RAD1
+affy_hg_u133_plus_2|204146_at|204146_at	hgnc_symbol|RAD51AP1|RAD51AP1
+affy_hg_u133_plus_2|210416_s_at|210416_s_at	hgnc_symbol|CHEK2|CHEK2
+affy_hg_u133_plus_2|201589_at|201589_at	hgnc_symbol|SMC1A|SMC1A
+affy_hg_u133_plus_2|201223_s_at|201223_s_at	hgnc_symbol|RAD23B|RAD23B
+affy_hg_u133_plus_2|218527_at|218527_at	hgnc_symbol|APTX|APTX
+affy_hg_u133_plus_2|214426_x_at|214426_x_at	hgnc_symbol|CHAF1A|CHAF1A
+affy_hg_u133_plus_2|205024_s_at|205024_s_at	hgnc_symbol|RAD51|RAD51
+affy_hg_u133_plus_2|219510_at|219510_at	hgnc_symbol|POLQ|POLQ
+affy_hg_u133_plus_2|223261_at|223261_at	hgnc_symbol|POLK|POLK
+affy_hg_u133_plus_2|201746_at|201746_at	hgnc_symbol|TP53|TP53
+affy_hg_u133_plus_2|210886_x_at|210886_x_at	hgnc_symbol|TP53AP1|TP53AP1
+affy_hg_u133_plus_2|205072_s_at|205072_s_at	hgnc_symbol|XRCC4|XRCC4
+affy_hg_u133_plus_2|208393_s_at|208393_s_at	hgnc_symbol|RAD50|RAD50
+affy_hg_u133_plus_2|208643_s_at|208643_s_at	hgnc_symbol|XRCC5|XRCC5
+affy_hg_u133_plus_2|235609_at|235609_at	hgnc_symbol|BRIP1|BRIP1
+affy_hg_u133_plus_2|239635_at|239635_at	hgnc_symbol|TMEM137|TMEM137
+affy_hg_u133_plus_2|205875_s_at|205875_s_at	hgnc_symbol|TREX1|TREX1
+affy_hg_u133_plus_2|238736_at|238736_at	hgnc_symbol|REV3L|REV3L

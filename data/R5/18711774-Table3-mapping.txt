@@ -1,0 +1,40 @@
+# Generate Mapping Tables Script: Version 4 11:04 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:04 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+hgnc_symbol|BAX|BAX
+hgnc_symbol|BBC3|BBC3
+hgnc_symbol|GADD45A|GADD45A
+hgnc_symbol|MDM2|MDM2
+hgnc_symbol|NDN|NDN
+hgnc_symbol|NHLH2|NHLH2
+hgnc_symbol|NINJ1|NINJ1
+hgnc_symbol|SCRIB|SCRIB
+hgnc_symbol|ATM|ATM
+hgnc_symbol|BAX|BAX
+hgnc_symbol|BBC3|BBC3
+hgnc_symbol|BNIP3|BNIP3
+hgnc_symbol|ERCC1|ERCC1
+hgnc_symbol|GADD45A|GADD45A
+hgnc_symbol|GADD45G|GADD45G
+hgnc_symbol|MDM2|MDM2
+hgnc_symbol|PURA|PURA
+hgnc_symbol|RAD51|RAD51
+hgnc_symbol|XPC|XPC
+hgnc_symbol|ATM|ATM
+hgnc_symbol|BAX|BAX
+hgnc_symbol|BBC3|BBC3
+hgnc_symbol|BRAP|BRAP
+hgnc_symbol|CSNK1A1|CSNK1A1
+hgnc_symbol|EI24|EI24
+hgnc_symbol|FAF1|FAF1
+hgnc_symbol|GADD45A|GADD45A
+hgnc_symbol|MDM2|MDM2
+hgnc_symbol|PMP22|PMP22
+hgnc_symbol|PRKCA|PRKCA
+hgnc_symbol|RELA|RELA
+hgnc_symbol|SFN|SFN
+hgnc_symbol|TRAF4|TRAF4
+hgnc_symbol|ZMAT3|ZMAT3

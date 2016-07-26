@@ -1,0 +1,47 @@
+# Generate Mapping Tables Script: Version 4 11:06 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:06 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+entrezgene|X72755|4283	hgnc_symbol|MIG|MIG
+entrezgene|X05232|4314	hgnc_symbol|MMP3|MMP3
+entrezgene|J03634|3624	hgnc_symbol|INHBA|INHBA
+entrezgene|X02530|3627	hgnc_symbol|IP10|IP10
+entrezgene|J04130|6351	hgnc_symbol|MIP1B|MIP1B
+entrezgene|Z71389|1673	hgnc_symbol|hBD2|hBD2
+entrezgene|X03124|7076	hgnc_symbol|TIMP1|TIMP1
+entrezgene|M86757|6278	hgnc_symbol|S100A7|S100A7
+entrezgene|M68520|1017	hgnc_symbol|CDK2|CDK2
+entrezgene|X02920|5265	hgnc_symbol|PI1|PI1
+entrezgene|X57766|4320	hgnc_symbol|MMP11|MMP11
+entrezgene|M11886|3107	hgnc_symbol|HLAC|HLAC
+entrezgene|M23452|6348	hgnc_symbol|MIP1A|MIP1A
+embl|U28424|U28424	hgnc_symbol|P58IPK|P58IPK
+entrezgene|K02770|3553	hgnc_symbol|IL1B|IL1B
+entrezgene|M24545|6347	hgnc_symbol|MCP1|MCP1
+entrezgene|M75914|3568	hgnc_symbol|IL5RA|IL5RA
+entrezgene|D45248|5721	hgnc_symbol|HPA28|HPA28
+entrezgene|M74816|1191	hgnc_symbol|CLU|CLU
+entrezgene|M36430|2782	hgnc_symbol|GNB1|GNB1
+embl|X89986|X89986	hgnc_symbol|BIK|BIK
+entrezgene|X06374|5154	hgnc_symbol|PDGFA|PDGFA
+entrezgene|U77604|4258	hgnc_symbol|GST2|GST2
+entrezgene|M14631|2778	hgnc_symbol|GNAS1|GNAS1
+entrezgene|M13150|4142	hgnc_symbol|MAS|MAS
+embl|M37435|M37435	hgnc_symbol|CSF1|CSF1
+embl|X08058|X08058	hgnc_symbol|GSTP1|GSTP1
+entrezgene|X52946|5764	hgnc_symbol|PTN|PTN
+entrezgene|U02082|7984	hgnc_symbol|TIM1|TIM1
+entrezgene|U18840|4340	hgnc_symbol|MOG|MOG
+entrezgene|X53655|4908	hgnc_symbol|NT3|NT3
+entrezgene|X54079|3315	hgnc_symbol|HSP27|HSP27
+entrezgene|M73812|898	hgnc_symbol|CCNE|CCNE
+entrezgene|D10925|1230	hgnc_symbol|CCR1|CCR1
+entrezgene|M68867|1382	hgnc_symbol|CRABP2|CRABP2
+entrezgene|M14200|1622	hgnc_symbol|ACBP|ACBP
+entrezgene|L06895|4084	hgnc_symbol|MAD|MAD
+entrezgene|M15800|4118	hgnc_symbol|MAL|MAL
+entrezgene|X78686|6374	hgnc_symbol|ENA78|ENA78
+entrezgene|U32944|8655	hgnc_symbol|PIN|PIN
+entrezgene|U07418|4292	hgnc_symbol|MLH1|MLH1

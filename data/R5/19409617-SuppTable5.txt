@@ -1,0 +1,701 @@
+Gene name	Description	Entrez Gene ID	ANOVA p-value	Mma20  fold change	Mma20 p-value	E11     fold change	E11       p-value
+abcb3	ATP-binding cassette, sub-family B (MDR/TAP), member 3	368771	1.17E-11	-1.39	0.00297	2.97	2.79E-16
+accn2c	Amiloride-sensitive cation channel 2 c	407670	2.11E-06	1.31	0.04869	2.66	0
+add3	Adducin 3 (gamma)	556762	5.95E-12	-1.01	0.90859	3.13	1.29E-26
+aldh1a2	Aldehyde dehydrogenase 1 family, member A2	116713	0.00327	1.33	4.98E-08	1.72	4.48E-21
+alp	Alkaline phosphatase	393982	2.00E-07	-1.13	0.21329	1.61	4.34E-19
+ankh	Ankylosis, progressive homolog	323738	5.07E-15	-1.24	8.77E-09	1.54	1.95E-17
+apaf1	Apoptotic protease activating factor	692269	0.00881	1.34	0.00004	1.86	9.37E-13
+apnl	Actinoporin-like protein	336963	5.07E-15	-12.16	1.04E-28	1.57	0.00467
+apom	Apolipoprotein M	114409	5.55E-09	-1.02	0.68266	1.67	1.20E-22
+arntl2	Aryl hydrocarbon receptor nuclear translocator-like 2	58099	3.36E-13	-1.76	0.02077	3.23	0
+atf4	Activating transcription factor 4 (tax-responsive enhancer element B67)	406514	0.00192	1.23	0.00002	1.61	6.07E-12
+atf7b	Activating transcription factor 7b	568197	0.00015	1.23	0.0026	1.83	3.18E-22
+bcl6	B-cell CLL/lymphoma 6 (zinc finger protein 51)	393707	0.0023	1.31	0.00557	1.99	1.10E-18
+bmp2k	BMP2 inducible kinase	494101	1.17E-07	-1.02	0.80117	1.85	2.24E-18
+bmpr2b	Bone morphogenetic protein receptor, type II b (serine/threonine kinase)	555655	1.74E-06	1.2	0.00007	1.86	1.48E-18
+bsk146	Brain specific kinase 146	405767	0.00761	1.05	0.77272	1.81	1.77E-09
+camk2ga	Calcium/calmodulin-dependent protein kinase (CaM kinase) II gamma a	558989	0.00903	-1	1	2.07	1.20E-07
+cd81	CD81 antigen	58031	0.00031	1.15	0.23684	1.85	5.18E-21
+cda	Cytidine deaminase	402979	1.74E-07	-5.6	1.19E-11	1.75	0.04427
+cdx1a	Caudal type homeo box transcription factor 1 a	405762	0.00002	1.2	0.3603	4.82	1.41E-14
+CH211-214J8.8	Similar to Kenae	565477	0.00001	-1.21	0.08258	1.73	4.51E-08
+chrngl	Cholinergic receptor, nicotinic, gamma like	325080	0.00007	-1.04	0.75152	2.03	5.62E-09
+clock3	Clock homolog 3 (mouse)	352927	3.02E-10	1	0.96976	2.27	9.95E-36
+cltc	Clathrin, heavy polypeptide (Hc)	323579	0.00028	1.07	0.26573	1.57	1.67E-09
+cnot6	CCR4-NOT transcription complex, subunit 6	324048	4.61E-06	1.23	0.0002	1.91	3.39E-24
+commd1	COMM domain containing protein 1	692293	3.73E-06	1.31	0.00013	2.5	5.49E-17
+comtd1	Catechol-O-methyltransferase domain containing 1	568094	5.07E-15	-1.75	2.24E-25	2.14	3.59E-14
+cpsf6	Cleavage and polyadenylation specific factor 6	327069	0.00003	1.19	0.00104	1.95	2.22E-09
+csk	C-src tyrosine kinase	556454	0.00002	-1.78	0.11271	2.95	9.66E-10
+cul4a	Cullin 4A	394002	0.00003	-1.11	0.14517	1.56	3.62E-06
+cyfip1	Cytoplasmic FMR1 interacting protein 1	336613	0.00137	1.13	0.17508	1.88	2.04E-07
+dab2	Disabled homolog 2 (Drosophila)	404040	1.98E-06	-1.65	0.00607	2	2.97E-07
+dpysl4	Dihydropyrimidinase-like 4	553411	4.58E-06	-1.28	0.04819	1.73	6.31E-09
+Dr.100792	Transcribed locus		2.46E-11	-1.31	0.19443	4.25	2.69E-35
+Dr.104095	Transcribed locus		0.00006	-1.41	0.13871	1.94	8.88E-09
+Dr.107795	Transcribed locus		1.50E-10	-1.92	0.00009	1.77	2.72E-12
+Dr.108362	Transcribed locus, strongly similar to XP_698488.2  hypothetical protein [Danio rerio]		9.88E-06	-1.52	0.25742	5.32	9.29E-12
+Dr.108452	Transcribed locus		3.09E-10	-1.73	0.11814	4.64	0
+Dr.108454	Transcribed locus		0.007	1.43	0.3873	3.69	3.74E-42
+Dr.114789	Transcribed locus, weakly similar to XP_001337855.1  similar to ReO_6 [Danio rerio]		0.00015	-1.4	0.03103	1.75	0.00007
+Dr.119980	Transcribed locus		0.00019	-1	1	2.97	1.04E-13
+Dr.121558	Transcribed locus		0.00824	1.21	0.28604	1.88	4.29E-23
+Dr.121815	Transcribed locus		0.00044	1.39	7.64E-09	2.01	5.18E-18
+Dr.122070	Transcribed locus		0.00039	1.07	0.62427	2.02	3.68E-13
+Dr.122143	Transcribed locus		0.00506	1.26	0.00069	1.74	3.14E-12
+Dr.122357	Transcribed locus		0.00004	-2.37	7.74E-12	1.58	0.16576
+Dr.122469	Transcribed locus		2.55E-06	-1.01	0.81125	1.52	6.00E-10
+Dr.122492	Transcribed locus		1.08E-07	-1.15	0.02223	1.51	1.20E-10
+Dr.122581	Transcribed locus		0.00039	1.04	0.76771	1.99	1.84E-11
+Dr.122597	CDNA, clone cssl:d0205		9.16E-07	-1.79	0.00158	1.76	1.85E-06
+Dr.122621	Transcribed locus, weakly similar to NP_001038873.1  protein LOC751695 [Danio rerio]		0.00463	1.35	0.16586	2.65	4.18E-17
+Dr.122689	Transcribed locus		0.00258	1.31	9.46E-07	1.88	1.76E-08
+Dr.122710	Transcribed locus		1.61E-07	1.24	0.00183	2.65	5.00E-16
+Dr.122871	Transcribed locus		4.24E-14	-2.47	2.11E-17	5.36	4.67E-07
+Dr.122913	Transcribed locus, weakly similar to XP_001110926.1  fascin 2 [Macaca mulatta]		2.06E-09	-2.39	0.00614	2.2	0
+Dr.122947	Transcribed locus		1.39E-14	-6.29	1.63E-06	12.36	1.42E-20
+Dr.122953	Transcribed locus		3.05E-06	-1.78	0.08254	2.16	1.19E-26
+Dr.123018	Transcribed locus, weakly similar to XP_001091489.1  similar to FERM, RhoGEF and pleckstrin domain protein 2 [Macaca mulatta]		1.10E-07	-1.64	0.05029	1.99	8.83E-38
+Dr.123111	Transcribed locus		0.00011	1.19	0.00151	1.7	1.48E-19
+Dr.123138	Transcribed locus		2.68E-12	-1	1	6.45	0
+Dr.123166	Transcribed locus		0.00022	-1.08	0.35406	1.54	1.24E-06
+Dr.123377	Transcribed locus, moderately similar to XP_001142973.1  WD repeat domain 10 isoform 7 [Pan troglodytes]		0.00624	1.17	0.00948	1.71	0.00004
+Dr.123426	Transcribed locus		0.00023	1.25	0.06381	1.85	0
+Dr.123456	Transcribed locus		0.00368	-1.11	0.7252	1.99	1.09E-13
+Dr.1235	Transcribed locus		0.00003	1.27	0.00448	2.48	7.53E-13
+Dr.123618	Transcribed locus		2.56E-08	-1.63	0.01179	1.85	1.06E-15
+Dr.123699	Transcribed locus		6.96E-09	1.34	0.03139	3.43	0
+Dr.123771	Transcribed locus		1.48E-11	-1	1	10.42	4.04E-42
+Dr.123782	Transcribed locus		0.00192	1.28	0.00027	1.87	2.96E-13
+Dr.123846	Transcribed locus, weakly similar to XP_001235387.1  hypothetical protein [Gallus gallus]		0.00009	-1	1	4.33	4.27E-11
+Dr.123906	Transcribed locus		0.0071	1.15	0.16058	1.57	1.24E-14
+Dr.123993	Transcribed locus		6.69E-12	-1.04	0.72035	3.71	2.23E-34
+Dr.124177	Transcribed locus		0.00467	1.39	0.01256	2.22	3.44E-20
+Dr.124926	Transcribed locus		0.00735	-1.07	0.77786	2.33	0.00001
+Dr.125013	Transcribed locus		8.69E-12	-1.98	0.01314	2.95	0
+Dr.125056	Transcribed locus		0.00456	-1.95	0.26426	2.92	0.00007
+Dr.125547	Transcribed locus		0.00029	-2.33	0.05293	1.79	7.20E-06
+Dr.125837	Transcribed locus		0.00198	-1	1	2.71	1.44E-08
+Dr.125950	Transcribed locus		0.00176	-1	1	2.3	3.03E-11
+Dr.126068	Transcribed locus		0.00003	-3	2.63E-06	3.33	0.0258
+Dr.126183	Transcribed locus		0.00044	-1.26	0.34984	1.88	7.06E-10
+Dr.126624	Transcribed locus		0.0008	-1.17	0.38485	2.41	0.00004
+Dr.127126	Transcribed locus		0.00012	-1.06	0.82968	2.61	1.12E-22
+Dr.127474	Transcribed locus		4.00E-11	-1.52	0.21371	9.39	7.58E-37
+Dr.12769	Transcribed locus		4.00E-06	-1.82	3.14E-06	1.54	0.00381
+Dr.12770	Transcribed locus		5.78E-06	-1.58	0.00881	1.96	1.24E-06
+Dr.12781	Transcribed locus		4.33E-08	1	0.99278	2.13	7.03E-30
+Dr.130910	Transcribed locus		0.00051	1.17	0.37904	2.39	3.41E-17
+Dr.131058	Transcribed locus		2.63E-07	-2.13	0.00224	3.31	3.71E-08
+Dr.131194	Transcribed locus, weakly similar to XP_001114493.1  similar to Heterogeneous nuclear ribonucleoprotein A1 (Helix-destabilizing protein) (Single-strand binding protein) (hnRNP core protein A1) (HDP-1) (Topoisomerase-inhibitor suppressed) [Macaca mulatta]		0.00059	-1	1	2.16	5.61E-23
+Dr.131955	Transcribed locus		0.0001	1.29	0.23099	3.08	2.64E-29
+Dr.132009	Transcribed locus		0.00285	-1.17	0.68995	3.16	4.12E-08
+Dr.132877	Transcribed locus		0.00007	-2.34	0.06888	2.53	4.08E-08
+Dr.133001	Transcribed locus, weakly similar to XP_520327.2  hypothetical protein [Pan troglodytes]		0.00069	1.09	0.33786	1.9	1.65E-06
+Dr.133002	CDNA clone IMAGE:7256893		0.00005	-1	1	2.53	2.36E-38
+Dr.133125	Transcribed locus		3.65E-12	-1.62	1.04E-13	2.46	4.99E-06
+Dr.133311	Transcribed locus, weakly similar to XP_001333842.1  similar to pol polyprotein [Danio rerio]		5.71E-06	-1.13	0.20019	1.64	4.31E-11
+Dr.133367	Transcribed locus		0.00004	-1.69	1.12E-06	1.81	0.03247
+Dr.133435	Transcribed locus		5.62E-12	-1.28	0.00038	2.12	1.20E-12
+Dr.133748	Transcribed locus		0.00465	1.19	0.19019	1.81	1.67E-17
+Dr.134448	Transcribed locus		6.19E-07	-1.95	2.77E-09	1.56	0.01205
+Dr.134462	Transcribed locus		0.00011	-1	1	4.27	7.11E-11
+Dr.134958	Transcribed locus, strongly similar to NP_066390.1  histone family, member A [Homo sapiens]		0.00086	1.08	0.82017	3.25	2.56E-21
+Dr.135012	Transcribed locus, strongly similar to XP_001336184.1  hypothetical protein, partial [Danio rerio]		0.00065	1.15	0.54157	2.28	0
+Dr.13547	Transcribed locus		0.00001	-1.03	0.84429	3.57	1.57E-08
+Dr.140672	Transcribed locus		5.07E-15	-3.93	0.00001	4.6	0
+Dr.140932	Transcribed locus, weakly similar to XP_001087010.1  similar to p47 protein isoform a [Macaca mulatta]		5.77E-06	-1.3	0.27494	2.1	5.09E-24
+Dr.14560	Transcribed locus		1.26E-07	-1.18	0.34632	3.02	2.94E-18
+Dr.14578	Transcribed locus		2.91E-12	-1.25	5.63E-06	1.94	9.60E-09
+Dr.14694	Transcribed locus		0.00399	1.37	0.37308	3.89	5.02E-18
+Dr.15245	Transcribed locus		2.08E-06	-1.23	0.10444	1.52	3.16E-14
+Dr.18119	Transcribed locus, strongly similar to XP_001333666.1  hypothetical protein [Danio rerio]		0.00032	-1.18	0.12944	1.51	9.45E-06
+Dr.19085	Transcribed locus		0.00688	1.25	0.2801	2.24	3.14E-16
+Dr.19717	Transcribed locus		0.00057	-1.36	0.42991	2.61	3.14E-12
+Dr.19769	Transcribed locus		0.00417	-1.18	0.54497	1.67	3.15E-12
+Dr.22311	Transcribed locus		1.45E-09	-1.3	0.00044	1.83	1.78E-09
+Dr.23653	Transcribed locus		0.00162	-1.18	0.67266	2.48	1.83E-22
+Dr.25633	Transcribed locus		1.13E-13	-2.83	0.00182	3.82	0
+Dr.28496	Transcribed locus		1.63E-06	-1.79	0.00136	2.38	4.77E-06
+Dr.28868	Transcribed locus		1.39E-08	-1.17	0.45309	2.64	0
+Dr.40900	Transcribed locus, weakly similar to NP_001036068.1  binding protein 2 isoform 1 [Homo sapiens]		0.00061	1.02	0.83088	1.54	3.44E-09
+Dr.4318	Transcribed locus		0.00166	-1.08	0.70527	2.05	4.74E-08
+Dr.52199	Transcribed locus		0.00004	-1.57	0.0314	1.63	3.23E-06
+Dr.57729	Transcribed locus		6.65E-14	-2.27	0.00003	2.98	4.26E-22
+Dr.58581	Transcribed locus		0.00061	-1.13	0.77706	3.35	7.40E-24
+Dr.5878	Transcribed locus		0.003	1.18	0.01062	1.59	5.42E-14
+Dr.74832	Transcribed locus		2.14E-06	-1.5	0.19516	3.43	3.23E-15
+Dr.75444	Transcribed locus		0.00015	-1.06	0.61368	1.62	1.11E-10
+Dr.77026	Transcribed locus		0.0069	1.33	0.00001	1.97	1.59E-06
+Dr.77546	Transcribed locus		0.00219	1.22	0.09338	1.82	1.28E-22
+Dr.77904	Transcribed locus, strongly similar to XP_001111763.1  similar to Protein MICAL-3 [Macaca mulatta]		6.40E-06	1.05	0.68487	2.28	9.98E-19
+Dr.78008	Transcribed locus		1.15E-10	-1.95	7.37E-23	1.66	0.00378
+Dr.78553	Transcribed locus		1.10E-07	1.49	7.22E-10	2.69	0
+Dr.78843	Transcribed locus		0.00151	1.15	0.1002	1.92	4.99E-07
+Dr.79960	Transcribed locus, weakly similar to XP_001372594.1  similar to pol protein [Monodelphis domestica]		9.80E-06	-1.66	0.07408	3.13	6.66E-09
+Dr.80783	Transcribed locus, moderately similar to XP_001087439.1  hypothetical protein isoform 4 [Macaca mulatta]		0.00004	-1.23	0.23874	1.77	4.75E-11
+Dr.81500	Transcribed locus		5.52E-11	-1.28	0.00027	1.64	1.47E-14
+Dr.82153	Transcribed locus		2.05E-07	-1.13	0.03572	1.61	7.60E-08
+Dr.82490	Transcribed locus, weakly similar to NP_073560.2  peptide, CUB domain, EGF-like 1 [Mus musculus]		0.00002	1.43	6.71E-06	2.36	1.37E-35
+Dr.82575	Transcribed locus, weakly similar to XP_001339220.1  similar to angiogenin [Danio rerio]		2.19E-08	-80.09	4.24E-12	33.3	0.00455
+Dr.82684	Transcribed locus		0.00151	1.31	0.01325	2.07	8.41E-21
+Dr.82727	Transcribed locus		0.00572	1.32	0.00011	1.7	2.38E-28
+Dr.82910	Transcribed locus		0.00846	-1.09	0.73391	2.08	8.29E-06
+Dr.83285	Transcribed locus		0.00005	-1.62	0.08872	1.63	1.95E-19
+Dr.83438	Transcribed locus		1.68E-06	-1.07	0.36592	1.68	1.53E-12
+Dr.83569	Transcribed locus		2.42E-07	1.11	0.49491	2.53	1.50E-43
+Dr.83653	Transcribed locus		0.00036	-1.44	0.16604	1.58	2.93E-11
+Dr.83691	Transcribed locus		0.00009	1.34	0.19074	3.2	1.44E-37
+Dr.83808	Transcribed locus		1.28E-11	1.43	0.00003	4.53	2.12E-38
+Dr.83865	Transcribed locus		4.49E-08	-1.04	0.84061	2.68	2.41E-43
+Dr.84084	Transcribed locus, moderately similar to XP_001332424.1  hypothetical protein [Danio rerio]		3.78E-08	-3.3	0.00174	2.75	6.39E-10
+Dr.84613	Transcribed locus		6.55E-11	-1.64	9.60E-07	1.71	3.05E-10
+Dr.84772	Transcribed locus, weakly similar to XP_001097666.1  similar to zinc finger protein 218 [Macaca mulatta]		0.00003	1.1	0.23568	2.08	9.35E-10
+Dr.85067	Transcribed locus		0.0074	-1.46	0.43098	2.11	6.60E-09
+Dr.85146	Transcribed locus		5.27E-09	1.16	0.03362	2.5	3.23E-22
+Dr.85152	Transcribed locus		1.21E-09	-1.65	0.00218	2.32	2.80E-14
+Dr.85368	Transcribed locus, moderately similar to XP_001066633.1  similar to ATP-binding cassette, sub-family G (WHITE), member 4 [Rattus norvegicus]		0.00053	-1.14	0.53695	3.04	2.19E-06
+Dr.85589	Transcribed locus		0.00609	-1.12	0.75766	2.23	5.25E-12
+Dr.85631	Transcribed locus		2.46E-07	-1.05	0.40336	1.84	7.80E-08
+Dr.86505	Transcribed locus		5.50E-11	-1	1	7	0
+Dr.86514	Transcribed locus		0.00044	-1.05	0.8703	2.63	1.31E-16
+Dr.87526	Transcribed locus		0.00042	-1	1	2.72	2.14E-13
+Dr.87805	Transcribed locus		8.32E-13	-1.03	0.86274	5.03	0
+Dr.89211	Transcribed locus		0.00192	-1.24	0.29375	1.69	0.00001
+Dr.89339	Transcribed locus		0.00409	-1.15	0.65016	1.92	6.21E-15
+Dr.89987	Transcribed locus		1.11E-08	-1.31	0.04278	1.71	1.55E-20
+Dr.90773	Transcribed locus		1.14E-06	-1.25	0.11646	1.73	4.08E-14
+Dr.90807	Transcribed locus		0.00012	-1	1	2.95	1.82E-15
+Dr.90818	Transcribed locus		0.00101	-10.48	9.98E-08	2.05	0.39852
+Dr.91403	Transcribed locus		0.00066	-1	1	2.7	9.68E-12
+Dr.91728	Transcribed locus		5.07E-15	-1.74	0.00317	4.76	2.80E-44
+Dr.92027	Transcribed locus		1.28E-10	-1.42	0.00104	2.4	8.19E-14
+Dr.92370	Transcribed locus		0.0007	-1.01	0.91726	2.04	8.10E-07
+Dr.92630	Transcribed locus		0.00478	-1	1	2.74	1.70E-06
+Dr.92784	Transcribed locus		1.19E-07	-2.27	1.26E-09	1.62	0.00417
+Dr.99862	Transcribed locus		1.37E-08	-1	1	4.66	1.32E-39
+drl	Draculin	30167	1.57E-11	-1.68	2.52E-23	1.52	0.00135
+edc3	Enhancer of mRNA decapping 3 homolog (S. cerevisiae)	504054	5.07E-15	-1.23	0.00527	1.5	0
+ednra	Endothelin receptor type A	114550	0.00133	1.49	0.00062	2.12	0
+efemp2	EGF-containing fibulin-like extracellular matrix protein 2	324957	0.00522	1.5	0.00002	2.92	0.00002
+efna5b	Ephrin A5b	30223	2.23E-09	-1.28	0.00262	1.88	1.75E-11
+efnb1	Ephrin B1	114377	6.50E-08	-1.26	0.00726	1.58	7.24E-11
+eif2b5	Eukaryotic translation initiation factor 2B, subunit 5 epsilon	327153	0.00016	1.03	0.65465	1.57	3.64E-10
+ell	Elongation factor RNA polymerase II	325221	0.00265	1.18	7.79E-06	1.5	1.77E-08
+fa2h	Fatty acid 2-hydroxylase	394195	1.03E-13	-2.57	6.68E-09	1.56	1.39E-09
+fam45a	Family with sequence similarity 45, member A	324827	0.00271	1.28	0.00028	1.69	3.72E-22
+fam49a	Family with sequence similarity 49, member A	445212	2.00E-07	1.28	0.00072	2.27	2.98E-39
+fbln1	Fibulin 1	30240	1.18E-06	-1.06	0.33884	1.54	1.76E-10
+fbln1	Fibulin 1	30240	0.00001	1.31	0.06997	2.8	3.01E-34
+fkbp9	FK506 binding protein 9	445126	1.18E-09	-1.27	0.0008	1.51	8.54E-13
+flt4	Fms-related tyrosine kinase 4	30121	0.00247	-1.01	0.95682	1.67	3.37E-07
+foxd5	Forkhead box D5	30524	8.91E-08	-1.3	0.11166	2.19	1.52E-17
+foxk1	Forkhead box K1	334470	5.07E-15	1.06	0.30174	4.43	1.23E-23
+gata4	GATA-binding protein 4	30483	0.00583	1.01	0.93665	1.53	7.61E-09
+gbx1	Gastrulation brain homeobox 1	142985	8.35E-13	-1.27	0.00203	2.34	2.54E-17
+gfra1b	Gdnf family receptor alpha 1b	79377	5.05E-08	-1.48	0.04268	2.17	1.60E-16
+gipc1	GIPC PDZ domain containing family, member 1	445568	0.00007	-1.81	0.07426	2.25	2.91E-07
+glceb	Glucuronyl C5-epimerase b	405775	0.00019	-1.34	0.17301	1.54	1.96E-11
+gli2b	GLI-Kruppel family member GLI2b	548610	0.00003	-1.56	0.00619	1.66	0.00008
+gpr137ba	G protein-coupled receptor 137ba	492792	0.00147	1.34	0.00031	2.4	5.57E-07
+grid2	Glutamate receptor, ionotropic, delta 2	448841	1.41E-13	-1.29	0.0066	2.25	8.11E-29
+grk7b	G protein-coupled receptor kinase 7b	373871	8.27E-09	-1.89	8.87E-10	1.64	0.0003
+hao1	Hydroxyacid oxidase (glycolate oxidase) 1	402827	7.04E-11	1.02	0.67738	1.82	4.79E-31
+has1	Hyaluronan synthase 1	403130	0.00172	1.44	0.00554	2.14	0
+hic1	Hypermethylated in cancer 1	436585	0.00015	1.38	0.00023	2.7	6.98E-11
+hic2	Hypermethylated in cancer 2	359828	1.09E-11	-1.28	0.01329	1.9	2.62E-25
+id:ibd2050	Id:ibd2050	100003079	7.33E-13	-1.77	0.04115	3.95	0
+id:ibd5062	Id:ibd5062	338239	1.36E-06	-1.6	2.61E-08	2.02	0.00627
+igiv1s1	Immunoglobulin light iota variable 1, s1	100009615	0.00074	-1.14	0.70683	2.69	1.79E-16
+igiv1s2	Immunoglobulin light iota variable 1, s2	619521	1.03E-13	1.03	0.82967	7.28	1.86E-31
+igiv1s6	Immunoglobulin light iota variable 1, s6	619526	9.95E-07	1.07	0.84122	5.57	5.69E-38
+igiv2s2	Immunoglobulin light iota variable 2, s2	619528	0.00015	1.31	0.37995	8.53	9.23E-12
+im:6895697	Im:6895697	503888	0.00141	-1.25	0.51169	2.07	1.39E-17
+im:6910498	Im:6910498	448891	0.00302	1.42	8.40E-14	1.88	8.38E-16
+im:7138629	Im:7138629	497376	0.00211	-1.24	0.28884	1.51	2.05E-06
+im:7139745	Im:7139745	780843	0.00039	1.06	0.54269	2.19	0.00001
+im:7140096	Im:7140096	492530	0.00891	-1	1	1.96	1.19E-08
+im:7140827	Im:7140827	550158	0.00879	1.4	6.40E-06	1.8	1.69E-28
+im:7141239	Im:7141239	797864	0.00155	1.25	0.09206	1.95	6.59E-25
+im:7141769	Im:7141769	449965	0.00056	1.19	0.00649	1.82	9.82E-09
+im:7145752	Im:7145752	497495	0.00076	1.01	0.97713	4.09	7.41E-11
+im:7145859	Im:7145859	553051	8.05E-07	-1.52	6.53E-06	1.65	0.00088
+im:7147407	Im:7147407	553347	0.00478	-1.05	0.697	1.69	0.00004
+im:7147820	Im:7147820	497586	1.26E-08	-1.65	0.00001	1.69	2.84E-07
+im:7152043	Im:7152043	492728	0.00007	-1.19	0.08737	1.78	0.00006
+im:7153054	Im:7153054	606585	7.58E-09	-1.08	0.46286	2.1	3.89E-24
+IMDN	Intermedin precursor	403114	1.99E-06	1.28	0.00761	2.44	2.43E-31
+irx4b	Iroquois homeobox protein 4b	474318	1.73E-06	-1.24	0.00777	1.52	3.41E-07
+irx5b	Iroquois homeobox protein 5b	405792	0.00038	-1	1	3.45	5.63E-10
+jag1a	Jagged 1a	140421	7.95E-07	1.12	0.17715	2.58	1.48E-12
+jmjd2al	Jumonji domain containing 2A, like	334347	0.00011	1.35	0.0007	2.02	1.04E-43
+jmjd6	Jumonji domain containing 6	266962	0.00014	-1.04	0.73299	1.59	1.59E-12
+kbtbd10	Kelch repeat and BTB (POZ) domain containing 10	321064	5.07E-15	-1.52	2.35E-13	1.67	2.96E-23
+ldb1	LIM-domain binding factor 1	30576	0.00001	-1.52	0.00003	1.55	0.00404
+lhcgr	Luteinizing hormone/choriogonadotropin receptor	402920	0.00179	1.06	0.8477	2.72	6.70E-18
+lipc	Lipase, hepatic	393997	3.73E-06	-1.1	0.24461	2.09	5.60E-06
+lmo4l	LIM domain only 4, like	324849	0.00008	1.12	0.0897	1.58	7.64E-25
+LOC100000127	Hypothetical protein LOC100000127	100000127	0.00172	-1.03	0.78468	1.67	2.01E-06
+LOC100000528	Hypothetical protein LOC100000528	100000528	3.41E-10	-1.69	0.00719	1.99	7.49E-26
+LOC100001121	Hypothetical protein LOC100001121	100001121	0.00021	-2.71	2.83E-15	1.7	0.25438
+LOC100001241	Similar to synaptopodin 2-like	100001241	7.50E-07	1.01	0.90102	1.91	2.36E-15
+LOC100002196	Hypothetical protein LOC100002196	100002196	0.00426	1.17	0.06324	1.87	0.00001
+LOC100002316	Hypothetical protein LOC100002316	100002316	0.00001	-1.01	0.9005	1.53	6.34E-39
+LOC100002362	Hypothetical protein LOC100002362	100002362	0.00789	1.34	0.00264	1.73	0
+LOC100002392	Similar to CC chemokine-1	100002392	0.00033	-1.28	0.68271	7.07	2.08E-13
+LOC100002456	Similar to Alkylglycerone phosphate synthase	100002456	1.79E-14	-1.16	0.05426	1.77	0
+LOC100002879	Similar to zinc finger protein 326	100002879	5.39E-06	1.06	0.57611	2.18	9.55E-17
+LOC100003558	Similar to actin-binding LIM protein 1	100003558	0.00112	-1.05	0.71845	1.92	1.08E-06
+LOC100003696	Hypothetical protein LOC100003696	100003696	5.07E-15	-1.18	0.14394	2.6	0
+LOC100004064	Similar to mitogen-activated protein kinase kinase kinase kinase 4	100004064	0.00591	1.26	0.00105	1.97	0.00002
+LOC100004206	Hypothetical protein LOC100004206	100004206	0.00428	1.05	0.55112	1.55	0.00004
+LOC100005060	Hypothetical protein LOC100005060	100005060	7.42E-09	-1.56	0.01284	2.31	3.00E-15
+LOC100005357	Hypothetical protein LOC100005357	100005357	3.50E-09	1.05	0.59735	2.36	7.86E-31
+LOC100005372	Hypothetical protein LOC100005372	100005372	1.08E-08	-1.12	0.44043	2.28	1.80E-32
+LOC100005591	Hypothetical protein LOC100005591	100005591	0.00045	1.04	0.72354	1.8	2.70E-12
+LOC100005742	Hypothetical protein LOC100005742	100005742	0.00118	-1	1	2.26	2.11E-13
+LOC100007012	Hypothetical protein LOC100007012	100007012	0.00507	1.03	0.7688	1.55	0.00001
+LOC100007015	Hypothetical protein LOC100007015	100007015	0.00001	1.2	0.18933	3.51	2.17E-14
+LOC100007596	Similar to arginine-glutamic acid dipeptide (RE) repeats	100007596	8.47E-07	1.11	0.55719	2.8	1.45E-37
+LOC553253	Hypothetical protein LOC553253	553253	6.07E-09	1.17	0.0301	2.15	4.20E-44
+LOC553274	Hypothetical protein LOC553274	553274	2.02E-09	-1.81	0.00071	1.87	5.09E-12
+LOC553431	Hypothetical protein LOC553431	553431	1.96E-08	1.24	0.0148	2.94	2.89E-28
+LOC554528	Similar to B-cell CLL/lymphoma 6 (zinc finger protein 51)	554528	0.00002	-1.09	0.61801	2.36	3.92E-13
+LOC555344	Hypothetical LOC555344	555344	5.07E-15	-1.63	0.00494	7.53	0
+LOC555828	Similar to MGC80334 protein	555828	5.78E-06	-1.01	0.79246	1.55	6.44E-06
+LOC556288	Hypothetical LOC556288	556288	4.79E-06	-2.43	0.02194	1.93	4.20E-14
+LOC556709	Hypothetical LOC556709	556709	3.21E-09	-1.7	0.00211	2.78	1.01E-12
+LOC556736	Hypothetical LOC556736	556736	1.41E-08	-2.26	2.12E-17	1.8	0.01464
+LOC556737	Similar to protein tyrosine phosphatase, receptor-type, Z polypeptide 1	556737	0.00719	-1.16	0.49528	1.73	0.00004
+LOC556791	Hypothetical LOC556791	556791	0.00078	-1	1	3.94	2.38E-07
+LOC556983	Hypothetical LOC556983	556983	0.00943	-1.48	0.41432	1.98	5.20E-09
+LOC557059	Similar to prolyl 4-hydroxylase, alpha I subunit isoform 1 precursor	767717	1.58E-07	-1.09	0.18274	2.07	3.96E-07
+LOC557064	Hypothetical LOC557064	557064	0.00001	-1.16	0.0851	1.57	6.77E-08
+LOC557798	Hypothetical LOC557798	557798	0.00425	1.1	0.35117	1.66	6.79E-10
+LOC557906	Similar to MGC85027 protein	557906	0.0022	1.23	0.00011	1.75	2.18E-07
+LOC558539	Similar to armadillo repeat containing 9	558539	3.73E-06	-1.23	0.04342	2.09	7.16E-06
+LOC558857	Similar to CGI-108 protein	558857	0.0001	-1.23	0.44012	1.99	2.98E-28
+LOC559634	Hypothetical LOC559634	559634	1.16E-07	-1.17	0.10641	1.58	7.31E-17
+LOC560278	Hypothetical LOC560278	560278	0.00091	1.09	0.24166	1.86	0.00002
+LOC560599	Hypothetical LOC560599	560599	0.00211	-1.17	0.54449	2.17	3.90E-07
+LOC561451	Hypothetical LOC561451	561451	0.00001	1.04	0.61191	1.72	2.98E-12
+LOC561596	Similar to cysteine-rich protein 2	561596	0.00894	1.28	0.01307	2.12	1.45E-06
+LOC561906	Similar to nicotinic acetylcholine receptor beta 2 subunit	561906	2.64E-09	-1.39	2.18E-07	1.54	7.96E-06
+LOC561913	Hypothetical LOC561913	561913	9.45E-09	1.04	0.48708	1.94	9.14E-23
+LOC562002	Similar to testican 3	562002	5.08E-06	1.18	0.01464	1.65	0
+LOC562163	Hypothetical LOC562163	562163	0.00005	-1.53	0.19603	2.14	5.39E-18
+LOC562351	Hypothetical LOC562351	562351	0.00018	-1.02	0.88781	1.65	1.03E-17
+LOC562478	Hypothetical LOC562478	562478	0.003	1.2	0.0139	1.74	6.66E-11
+LOC562763	Hypothetical LOC562763	562763	0.00073	-1.08	0.76797	2.53	1.76E-10
+LOC562786	Hypothetical LOC562786	562786	0.00127	1.14	0.17876	1.63	9.98E-19
+LOC562825	Similar to Cyclin B1 interacting protein 1	562825	3.79E-08	-1.72	6.34E-08	2.32	0.00053
+LOC562916	Similar to APOBEC-1 stimulating protein	562916	0.00137	-2.39	1.49E-11	1.76	0.27369
+LOC563009	Hypothetical LOC563009	563009	0.00018	1.1	0.36875	2.18	4.71E-09
+LOC563343	Hypothetical LOC563343	563343	1.99E-06	-1.55	0.01153	1.99	6.04E-08
+LOC563543	Similar to inositol polyphosphate 5-phosphatase	563543	6.60E-06	-1.68	0.02448	1.66	1.22E-08
+LOC563864	Hypothetical LOC563864	563864	0.00008	1.03	0.86155	1.98	8.14E-19
+LOC563907	Hypothetical LOC563907	563907	0.00075	1.31	0.17991	2.88	8.42E-20
+LOC563930	Similar to Protein kinase C, eta	563930	0.00015	-1.5	0.34831	3.1	2.50E-14
+LOC563932	Hypothetical LOC563932	563932	0.00002	-1.18	0.22817	2.01	9.88E-10
+LOC564424	Similar to Soat1-prov protein	564424	0.0016	1.14	0.15067	1.61	5.90E-18
+LOC564525	Hypothetical LOC564525	564525	0.00333	-1.05	0.89209	2.61	1.22E-12
+LOC564674	Similar to conserved hypothetical protein	564674	0.00031	1.43	0.00413	2.89	7.20E-19
+LOC564780	Similar to Tmc6-related protein 1	564780	0.00502	1.19	0.44851	2.09	3.21E-37
+LOC565403	Similar to novel pim oncogene	565403	0.00001	-1.98	0.01486	1.52	1.04E-08
+LOC565491	Hypothetical LOC565491	565491	2.73E-08	-2.08	7.10E-06	1.96	2.55E-06
+LOC565793	Similar to stromelysin-3	565793	0.00076	-1.11	0.56948	1.88	9.42E-09
+LOC566127	Similar to glycogen branching enzyme	566127	0.0001	-1.08	0.55289	1.75	9.80E-11
+LOC566198	Hypothetical LOC566198	566198	0.00444	1.2	0.04729	1.89	1.09E-08
+LOC566534	Similar to PHD finger protein 8	566534	0.00565	-1.01	0.97149	2.12	1.31E-08
+LOC566637	Similar to wings apart-like homolog (Drosophila)	566637	0.00013	1.29	0.00106	2.15	8.52E-18
+LOC566820	Similar to ring finger protein 38	566820	0.00321	-1.18	0.51112	1.72	6.90E-09
+LOC566982	Similar to LOC494751 protein	566982	0.0001	-2.54	0.03463	1.76	1.86E-07
+LOC567078	Hypothetical LOC567078	567078	0.0055	1.25	0.20833	2.09	1.35E-19
+LOC567416	Similar to kinesin-C	567416	0.00172	-1.7	0.26325	2.01	1.10E-18
+LOC567537	Similar to interleukin-8	567537	9.34E-12	-1.71	8.14E-32	1.55	0.00229
+LOC567953	Similar to C-type natriuretic peptide 3	567953	3.55E-06	-3.98	3.11E-13	1.61	0.17316
+LOC568522	Hypothetical LOC568522	568522	0.00016	1.05	0.80719	2.97	1.07E-11
+LOC568656	Similar to type IV antifreeze protein	568656	2.98E-08	-1.41	0.00439	1.89	3.56E-11
+LOC568719	Hypothetical LOC568719	568719	1.49E-11	-1.29	0.2095	2.9	0
+LOC569234	Hypothetical LOC569234	569234	2.58E-08	-1.27	0.00004	1.51	4.89E-06
+LOC569376	Similar to phospholipase c beta-2	569376	2.22E-07	1.16	0.13829	2.76	5.20E-24
+LOC569435	Hypothetical LOC569435	569435	0.00195	1.15	0.06778	1.88	3.32E-06
+LOC569661	Hypothetical LOC569661	569661	2.20E-14	-1.5	0.00009	2.02	2.63E-25
+LOC569863	Hypothetical LOC569863	569863	5.20E-09	-1.01	0.83837	1.52	2.55E-25
+LOC569954	Hypothetical LOC569954	569954	1.14E-06	-1.65	0.00035	1.61	0.00002
+LOC570311	Similar to calpain-like protease CAPN10a	570311	8.04E-06	-1.16	0.02084	1.53	0.00005
+LOC570390	Hypothetical LOC570390	570390	3.59E-13	-4.61	0.00002	4.46	2.40E-18
+LOC570837	Hypothetical LOC570837	570837	0.00969	-2.09	8.55E-09	1.65	0.37184
+LOC571087	Similar to putative extensin	571087	1.35E-09	-1.22	0.02786	1.7	7.06E-19
+LOC571279	Hypothetical LOC571279	571279	0.00314	-1.06	0.75731	1.57	1.07E-18
+LOC571439	Hypothetical LOC571439	571439	3.69E-07	-1.28	0.07446	1.51	5.69E-22
+LOC571608	Hypothetical LOC571608	571608	0.00016	1.11	0.14279	1.81	2.76E-10
+LOC571889	Hypothetical LOC571889	571889	0.00149	-1.29	0.25414	1.57	1.11E-06
+LOC571917	Similar to mKIAA0782 protein	571917	5.33E-06	-1.08	0.56794	1.8	1.45E-20
+LOC572280	Similar to KIAA1199 protein	572280	6.54E-08	-1.38	0.0188	1.99	1.81E-12
+LOC572750	Hypothetical LOC572750	572750	0.00002	-1.36	0.39258	2.72	0
+LOC572907	Similar to Mitochondrial ribosomal protein L23	572907	0.00638	-1.04	0.79535	1.53	1.01E-07
+LOC573117	Similar to NIAM	573117	0.00003	-1.06	0.679	2.26	2.63E-11
+LOC792326	Similar to TATA element modulatory factor 1	792326	0.00393	1.19	0.20727	1.83	7.30E-17
+LOC792437	Similar to Cyclin G associated kinase	792437	0.00055	1.18	0.09757	1.82	1.46E-18
+LOC792689	Hypothetical protein LOC792689	792689	0.00091	1	0.99431	2.53	1.65E-19
+LOC793097	Hypothetical protein LOC793097	793097	0.00001	1.03	0.80395	1.74	2.70E-24
+LOC793293	Hypothetical protein LOC793293	793293	0.00003	1.15	0.07538	2.06	2.81E-14
+LOC793364	Hypothetical protein LOC793364	793364	5.07E-15	-13.26	0	2	0.03061
+LOC793536	Similar to ring finger protein 185	793536	0.00002	1.03	0.59388	1.66	1.99E-09
+LOC793550	Similar to multiple tissue opsin	793550	1.31E-08	-1.36	0.00505	1.79	2.26E-12
+LOC793823	Similar to huntingtin interacting protein 1	793823	0.00075	-1.21	0.50231	2.01	7.14E-13
+LOC793844	Hypothetical protein LOC793844	793844	0.00082	-1.33	0.18749	2.41	0.00008
+LOC793920	Hypothetical protein LOC793920	793920	0.00002	-1.68	0.02569	2.1	1.09E-06
+LOC794166	Similar to coiled-coil domain containing 69	794166	1.51E-06	1.09	0.48407	2.33	1.82E-23
+LOC794532	Similar to Mib	794532	0.00031	-1.16	0.61831	2.7	1.23E-11
+LOC794693	Hypothetical protein LOC794693	57953	7.76E-08	-1.24	0.00776	1.79	1.10E-08
+LOC794920	Hypothetical protein LOC794920	794920	8.48E-08	-1.24	0.2098	2.16	3.12E-23
+LOC795538	Hypothetical protein LOC795538	795538	0.00087	1.24	0.00055	1.83	2.04E-10
+LOC795755	Hypothetical protein LOC795755	795755	0.00017	-1.51	0.20594	2.1	8.31E-11
+LOC795887	Hypothetical protein LOC795887	795887	2.97E-06	1.03	0.90987	6.92	1.14E-15
+LOC796084	Similar to gag-protease	796084	2.18E-08	-2.4	0.01425	3.09	2.75E-17
+LOC796734	Hypothetical protein LOC796734	796734	0.00004	1.02	0.82333	1.93	2.15E-10
+LOC796949	Hypothetical protein LOC796949	796949	7.73E-09	-1.1	0.73902	10.52	1.88E-23
+LOC797063	Hypothetical protein LOC797063	797063	4.26E-07	-1.05	0.83408	3.22	1.66E-30
+LOC797211	Hypothetical protein LOC797211	325386	1.06E-13	-2.81	7.01E-42	1.95	0.00231
+LOC797413	Similar to gag-protease	797413	1.96E-09	-1.02	0.89227	2.56	3.15E-33
+LOC797680	Hypothetical protein LOC797680	797680	0.00173	1.01	0.96443	1.76	8.98E-16
+LOC797976	Similar to FLJ39237 protein	797976	0.00002	1.45	0.00117	2.64	4.97E-42
+LOC798505	Hypothetical protein LOC798505	798505	5.07E-15	-1.56	5.41E-09	2.46	3.01E-13
+LOC798766	Hypothetical protein LOC798766	798766	0.00046	-1.09	0.50709	1.62	1.04E-08
+LOC799432	Hypothetical protein LOC799432	799432	0.00031	1.13	0.31163	1.79	4.22E-22
+LOC799518	Hypothetical protein LOC799518	799518	6.96E-09	-1.74	0.00036	1.64	1.57E-09
+LOC799689	Hypothetical protein LOC799689	799689	8.24E-14	-1.47	0.04117	4.21	6.68E-40
+LOC799825	Hypothetical protein LOC799825	799825	0.00074	-1.42	0.16808	1.9	0.00001
+LOC799952	Hypothetical protein LOC799952	799952	0.00003	-1.1	0.72038	3.41	5.34E-15
+lrp5	Low density lipoprotein receptor-related protein 5	554087	0.00001	-1.25	0.22984	1.7	9.47E-19
+mapk8	Mitogen-activated protein kinase 8	65236	0.00003	1.05	0.66324	2.42	4.31E-08
+marcksl1	MARCKS-like 1	406407	0.00197	1.28	6.34E-23	1.7	6.27E-07
+mia2	Melanoma inhibitory activity 2	336784	0.00216	-1.03	0.84048	1.85	2.36E-07
+mpp1	Membrane protein, palmitoylated 1	325542	1.12E-07	-1.12	0.23906	1.69	4.26E-19
+mpp6	Membrane protein, palmitoylated 6 (MAGUK p55 subfamily member 6)	394134	0.00199	1.12	0.09257	1.53	8.48E-13
+mta3	Metastasis associated family, member 3	334553	0.00002	-1.11	0.47455	1.72	3.26E-15
+mthfsd	Methenyltetrahydrofolate synthetase domain containing	566203	5.07E-15	-7.35	1.50E-38	1.67	0.00007
+nadl1.1	Neural adhesion molecule L1.1	30656	0.00335	1.11	0.37429	1.6	3.19E-16
+nav3	Neuron navigator 3	567779	0.00112	1	0.9788	1.71	2.75E-09
+nfkb1	NF-kB1 precursor protein	565756	0.00028	1.16	0.1348	1.62	0
+nod2	Nucleotide-binding oligomerization domain containing 2	777696	0.00118	1.27	5.33E-08	1.62	4.25E-21
+notch1a	Notch homolog 1a	30718	5.07E-15	-1.81	4.17E-42	1.84	3.53E-08
+notch1b	Notch homolog 1b	30565	0.00006	-1.33	0.2077	1.87	9.21E-12
+notch2	Notch homolog 2	58065	2.31E-06	1.1	0.23309	1.94	2.84E-22
+npy	Neuropeptide Y	30281	4.51E-07	-1.77	0.00067	2.09	9.16E-07
+or13.1	Odorant receptor, family 13, member 1	58111	0.00003	-1.52	0.33938	3.12	9.72E-39
+or13.4	Odorant receptor, family 13, member 4	58121	0.00013	-1.81	0.08853	1.69	3.11E-17
+or2.8	Odorant receptor, family 2, member 8	80362	3.62E-07	-1.83	0.00227	1.73	1.78E-07
+or2.9	Odorant receptor, family 2, member 9	80363	2.32E-10	-1.77	0.04732	3	0
+or5.2	Odorant receptor, family C, subfamily 102, member 5	554781	5.07E-15	-1.93	1.23E-06	3.22	4.46E-26
+or9.4	Odorant receptor, family 9, member 4	80360	2.62E-06	1.02	0.91501	3.98	2.74E-11
+p4ha1	Procollagen-proline, 2-oxoglutarate 4-dioxygenase (proline 4-hydroxylase), alpha polypeptide I	325364	0.00349	1.08	0.55147	1.6	8.74E-13
+pafah1b1a	Platelet-activating factor acetylhydrolase, isoform Ib, alpha subunit a	394246	0.00029	1.34	1.43E-22	1.69	2.52E-20
+pcdh15a	Protocadherin 15a	368476	1.65E-07	-2.44	0.00077	1.7	1.08E-06
+pcdh1g22	Protocadherin 1 gamma 22	323975	1.58E-06	-1.69	0.0002	1.82	0.00004
+pdgfra	Platelet derived growth factor receptor alpha	30745	0.00016	-1.06	0.48695	1.63	1.28E-07
+pgam1	Phosphoglycerate mutase 1	323107	0.00032	1.3	0.00022	1.81	1.64E-31
+pgam1l	Phosphoglycerate mutase 1, like	408255	0.00014	-1.13	0.51919	1.77	1.08E-16
+pigk	Phosphatidylinositol glycan, class K	415239	0.00052	1.07	0.62694	2.04	1.73E-12
+plcb3	Phospholipase C beta	572024	0.00468	1.06	0.72885	1.85	5.14E-10
+plcg1	Phospholipase C, gamma 1	373867	0.0041	1.27	0.00073	1.71	1.66E-18
+pou1f1	POU domain, class 1, transcription factor 1	405777	0.00181	-1.1	0.73475	1.97	4.77E-20
+ppp4r1	Protein phosphatase 4, regulatory subunit 1	393230	0.00028	1.18	0.00291	1.69	1.79E-14
+prkcb1	Protein kinase C, beta 1	393953	6.65E-07	1	0.966	1.83	3.42E-19
+psmb10	Proteasome (prosome, macropain) subunit, beta type, 10	64280	4.64E-14	-1.62	0.0003	1.74	5.75E-38
+psmb11	Proteasome (prosome, macropain) subunit, beta type, 11	64279	1.79E-13	-1.94	2.60E-14	1.62	6.00E-08
+psmb9a	Proteasome (prosome, macropain) subunit, beta type, 9a	30665	0.00245	-1.23	0.36332	1.53	1.68E-08
+ptpn12	Protein tyrosine phosphatase, non-receptor type 12	393642	1.18E-09	1.13	0.00898	1.82	4.15E-39
+ptpn4	Protein tyrosine phosphatase, non-receptor type 4 (megakaryocyte)	368448	0.00045	1.34	0.00359	2.16	7.58E-25
+pycrl	Pyrroline-5-carboxylate reductase-like	560682	6.29E-08	-1.24	0.02524	2.05	7.41E-10
+rabgef1	RAB guanine nucleotide exchange factor (GEF) 1	393915	4.74E-12	1.04	0.625	2.1	0
+rarg	Retinoic acid receptor gamma	30606	4.15E-08	1.31	0.00901	3.26	6.23E-35
+rgl1	Ral guanine nucleotide dissociation stimulator-like 1	402933	0.00003	1.1	0.26378	1.8	4.03E-18
+rgl2	Ral guanine nucleotide dissociation stimulator-like 2	65227	0.00436	1.35	0.00598	2.03	7.17E-19
+rheb	Ras homolog enriched in brain	767781	0.00032	1.22	0.0081	1.6	0
+rip1	Receptor-interacting 1	567460	6.96E-09	1.05	0.3264	1.95	4.83E-18
+rnf213	Ring finger protein 213	503775	0.00019	-1	1	4.26	2.30E-09
+rrp12	Ribosomal RNA processing 12 homolog (S. cerevisiae)	563195	0.0002	1.01	0.88817	1.66	6.38E-13
+rtk4	Eph-like receptor tyrosine kinase 4	30687	0.00002	-1.06	0.66988	1.96	1.75E-13
+rxrba	Retinoid x receptor, beta a	30530	0.00709	1.03	0.77556	1.51	7.97E-08
+sb:cb1035	Sb:cb1035	387313	0.00001	-1.49	0.07811	1.65	2.99E-13
+sdc2	Syndecan 2	282667	3.08E-09	1.38	4.65E-11	2.6	1.15E-26
+sepn1	Selenoprotein N, 1	352914	7.85E-06	-1.08	0.35342	2.14	0.00002
+sfrs3	Splicing factor, arginine/serine-rich 3	368925	1.75E-07	-1.4	0.0326	1.83	3.05E-13
+sh3bp4	SH3-domain binding protein 4	403082	0.00625	1.14	0.19812	1.83	1.24E-07
+sh3bp5	SH3-domain binding protein 5 (BTK-associated)	406767	5.07E-15	-1.21	4.87E-11	2.03	1.63E-15
+si:busm1-194e12.11	Si:busm1-194e12.11	368993	3.21E-08	-20.19	7.03E-12	1.75	0.11257
+si:busm1-194e12.8	Si:busm1-194e12.8	368816	5.07E-15	-1.71	4.91E-27	6.35	4.63E-23
+si:ch211-122a20.1	Si:ch211-122a20.1	558732	9.67E-15	-1.49	1.82E-09	1.55	2.33E-15
+si:ch211-132b12.8	Si:ch211-132b12.8	561391	0.00051	1.05	0.68689	1.9	2.18E-12
+si:ch211-147d7.3	Si:ch211-147d7.3	562522	2.55E-07	-1.24	0.33477	6.11	5.81E-12
+si:ch211-192k9.1	Si:ch211-192k9.1	445293	3.24E-13	-1.2	0.21297	5.76	2.24E-30
+si:ch211-194d6.3	Si:ch211-194d6.3	571515	0.00004	1.2	0.02498	1.94	3.36E-23
+si:ch211-199g17.1	Si:ch211-199g17.1	565918	0.00254	1.11	0.42476	1.74	2.98E-13
+si:ch211-202c21.3	Si:ch211-202c21.3	553387	0.00002	1.02	0.97448	12.11	0
+si:ch211-206g24.1	Si:ch211-206g24.1	446214	1.50E-09	-1.38	0.00955	1.83	4.28E-17
+si:ch211-214c7.4	Si:ch211-214c7.4	334343	1.71E-06	1.1	0.10357	1.82	3.80E-15
+si:ch211-227p7.1	Si:ch211-227p7.1	562532	0.00014	-1	1	2.4	1.01E-25
+si:ch211-237c7.1	Si:ch211-237c7.1	565659	0.00003	-1.04	0.62917	1.69	2.97E-10
+si:ch211-237l4.2	Si:ch211-237l4.2	561047	2.99E-07	-1.3	0.05585	1.55	7.31E-17
+si:ch211-241j12.3	Si:ch211-241j12.3	566552	3.76E-10	-1.39	0.00231	1.83	7.50E-16
+si:ch211-255d18.1	Si:ch211-255d18.1	571344	0.00132	1.01	0.90669	1.97	4.58E-06
+si:ch211-260p9.1	Si:ch211-260p9.1	561893	0.00488	1.24	0.04367	2.43	0.00009
+si:ch211-51a19.2	Si:ch211-51a19.2	555639	0.00161	1.09	0.51989	2.07	4.44E-09
+si:dkey-111e8.1	Si:dkey-111e8.1	323719	0.0001	1.24	0.00013	2.02	2.95E-09
+si:dkey-114f6.1	Si:dkey-114f6.1	327573	0.00008	-1.75	0.10455	1.82	5.92E-17
+si:dkey-13a21.9	Si:dkey-13a21.9	564996	0.00962	1.34	0.12285	2.21	5.72E-22
+si:dkey-154b17.1	Si:dkey-154b17.1	449864	0.00028	-1.16	0.51865	2.25	2.64E-10
+si:dkey-220f10.6	Si:dkey-220f10.6	492678	0.00036	1.08	0.6615	2.33	3.61E-14
+si:dkey-251i10.2	Si:dkey-251i10.2	553021	0.00016	-1.76	0.14508	2.53	4.65E-08
+si:dkey-264g21.1	Si:dkey-264g21.1	557132	6.25E-12	-1.2	0.03797	2.17	3.30E-25
+si:dkey-265o13.4	Si:dkey-265o13.4	567033	0.00092	1.11	0.40669	1.81	4.11E-16
+si:dkey-30h14.2	Si:dkey-30h14.2	561832	0.00022	1.29	0.00243	2.29	5.40E-13
+si:dkey-63j12.5	Si:dkey-63j12.5	570320	0.00853	1.48	5.62E-06	2.18	3.39E-15
+si:dkey-73n10.1	Si:dkey-73n10.1	337365	0.00002	1.4	2.92E-06	2.26	1.19E-34
+si:dkey-98f17.2	Si:dkey-98f17.2	337618	0.00082	-1.09	0.68514	2.5	8.94E-08
+si:dkeyp-119b4.5	Si:dkeyp-119b4.5	570584	0.00007	-1.25	0.52749	4.73	3.90E-11
+si:dkeyp-39e9.2	Si:dkeyp-39e9.2	566205	0.00041	1.25	0.2842	2.71	2.95E-24
+si:dkeyp-55f12.3	Si:dkeyp-55f12.3	568418	0.00448	1.08	0.45143	1.54	1.98E-10
+si:rp71-1c10.1	Si:rp71-1c10.1	334667	0.00373	1.28	1.06E-10	1.6	1.16E-12
+si:rp71-1p14.10	Si:rp71-1p14.10	566275	0.00425	1.33	0.00011	2.03	2.30E-08
+si:rp71-36d5.1	Si:rp71-36d5.1	368423	8.97E-07	-1.28	0.22229	1.94	4.46E-29
+sipa1l1	Signal-induced proliferation-associated 1 like 1	562521	0.00013	-1.12	0.14435	1.58	0.00007
+six2.1	Sine oculis homeobox homolog 2.1	83415	0.00049	1.11	0.03213	1.53	1.64E-10
+slc17a6	Solute carrier family 17 (sodium-dependent inorganic phosphate cotransporter), member 6	368650	0.00055	-1.14	0.73791	2.82	2.02E-24
+slc6a3	Solute carrier family 6 (neurotransmitter transporter, dopamine), member 3	80787	6.13E-09	-1.96	3.11E-16	1.59	0.00948
+slc6a4a	Solute carrier family 6 (neurotransmitter transporter, serotonin), member 4A	664719	7.06E-07	-1.46	0.14577	2.28	1.75E-25
+slit3	Slit (Drosophila) homolog 3	80354	3.24E-07	-1.17	0.15319	1.54	1.45E-19
+smad2	MAD homolog 2 (Drosophila)	30639	0.00009	1.08	0.12848	1.59	2.55E-10
+snd1	Staphylococcal nuclease domain containing 1	324404	0.0005	1.09	0.225	1.57	2.54E-12
+spna2	Spectrin alpha 2	553383	1.33E-06	-1.47	0.01991	2.5	2.98E-08
+sppl3	Signal peptide peptidase 3	548609	0.00756	1.16	0.19498	1.61	5.27E-17
+srf	Serum response factor	30431	2.00E-08	-1.59	0.02993	3.75	3.41E-14
+supt5h	Suppressor of Ty 5 homolog (S. cerevisiae)	64275	1.29E-06	-1	0.99173	1.52	7.49E-09
+suv420h1	Suppressor of variegation 4-20 homolog 1 (Drosophila)	572849	0.00004	1.19	3.66E-06	1.54	4.49E-26
+tcf3	TCF3 transcription factor 3	30310	0.00053	-1.08	0.62773	1.59	7.12E-12
+tfr1b	Transferrin receptor 1b	494478	0.00015	-2.28	0.0718	1.93	5.38E-12
+tif2	Transcriptional intermediary factor 2	81884	0.00007	1.06	0.51243	2.01	6.92E-10
+tjp1	Tight junction protein 1 (zona occludens 1)	378845	3.59E-07	-1.16	0.07859	1.5	1.99E-13
+tlr18	Toll-like receptor 18	403133	0.00004	1.44	0.00024	2.55	1.18E-33
+tlr9	Toll-like receptor 9	403128	2.65E-06	1.01	0.83895	1.98	1.13E-06
+tm9sf3	Transmembrane 9 superfamily member 3	406698	0.00004	-1.06	0.57394	1.65	6.51E-12
+tmed3	Transmembrane emp24 protein transport domain containing 3	336391	0.00274	-1.77	8.02E-22	1.61	0.26626
+tnpo2	Transportin 2 (importin 3, karyopherin beta 2b)	445499	0.00218	1.14	0.19836	1.7	2.31E-13
+tnpo3	Transportin 3	394062	0.00001	1.09	0.22054	1.73	8.25E-20
+TOM1	Similar to target of myb1 (chicken)	403083	2.78E-06	1.03	0.45952	1.6	5.66E-09
+top1mt	Mitochondrial topoisomerase I	415098	2.40E-13	-1.08	0.28465	2.2	1.14E-37
+trip11	Thyroid hormone receptor interactor 11	321251	0.00063	1.34	0.00008	2.32	2.95E-08
+tshb	Thyroid stimulating hormone, beta subunit	353223	7.49E-08	-1.79	0.0001	2.53	3.47E-06
+tspan15	Tetraspanin 15	550470	2.57E-08	-2.47	0.00222	1.93	5.76E-13
+urod	Uroporphyrinogen decarboxylase	30617	0.00031	1.21	0.09215	1.78	0
+vangl2	Vang-like 2 (van gogh, Drosophila)	245949	1.45E-06	-1.25	0.07764	2.89	3.45E-06
+vipr2	Vasoactive intestinal peptide receptor 2	81886	2.18E-10	-1.09	0.20217	1.65	2.71E-27
+wars	Tryptophanyl-tRNA synthetase	393745	1.31E-06	-1.41	0.08076	1.6	0
+wdr45l	Wdr45 like	393210	0.00366	1.1	0.19873	1.59	6.52E-07
+whsc1l1	Wolf-Hirschhorn syndrome candidate 1-like 1	541477	0.0005	-1.25	0.12175	1.72	0.00004
+wu:fa04d12	Wu:fa04d12	334821	0.00142	-1.01	0.98423	2.53	0
+wu:fa05b01	Wu:fa05b01	334846	0.00245	1.44	0.00048	2.23	2.09E-22
+wu:fa12c09	Wu:fa12c09	326643	0.0001	1.08	0.28438	1.72	1.58E-10
+wu:fa14a01	Wu:fa14a01	334589	2.16E-09	-2.09	0.00004	1.91	9.75E-09
+wu:fa14f03	Wu:fa14f03	334610	0.00423	-1	1	2.79	1.21E-06
+wu:fa16h07	Wu:fa16h07	407644	5.89E-06	1.39	1.19E-06	2.36	3.36E-28
+wu:fa28c04	Wu:fa28c04	327102	0.00075	1.37	5.98E-07	2.06	9.32E-13
+wu:fa30d09	Wu:fa30d09	327117	0.00024	-1.07	0.54945	1.58	1.04E-09
+wu:fa99c11	Wu:fa99c11	492287	0.00121	-1.01	0.95832	1.8	1.10E-10
+wu:fb34c05	Wu:fb34c05	449778	1.85E-08	-1.27	0.0004	1.53	1.19E-08
+wu:fb38g10	Wu:fb38g10	321939	0.00013	-2.11	7.20E-09	2.18	0.07943
+wu:fb40f06	Wu:fb40f06	322002	2.64E-13	-1.97	4.48E-07	1.73	6.34E-14
+wu:fb51a04	Wu:fb51a04	322131	0.00159	-1.38	0.39979	2.09	1.09E-12
+wu:fb57b02	Wu:fb57b02	322299	1.27E-06	-1.42	0.2927	7.49	1.82E-13
+wu:fb59a01	Wu:fb59a01	322359	1.82E-07	-1.5	9.39E-06	1.7	0.00011
+wu:fb62e08	Wu:fb62e08	325072	0.00031	1.11	0.05366	1.58	2.58E-10
+wu:fb64d08	Wu:fb64d08	322536	3.14E-07	-1.11	0.0066	1.54	0.00006
+wu:fb74d08	Wu:fb74d08	322831	0.00017	-1.37	0.30359	2.21	3.40E-12
+wu:fb76h12	Wu:fb76h12	557765	0.00069	1.18	0.00161	1.69	2.74E-09
+wu:fb77d11	Wu:fb77d11	322944	0.00167	1.07	0.3338	1.5	6.24E-11
+wu:fb83f02	Wu:fb83f02	323165	0.00173	1.08	0.5645	1.68	1.38E-14
+wu:fb92b09	Wu:fb92b09	570332	0.00001	-1.81	0.00527	2.03	0.00002
+wu:fb92f04	Wu:fb92f04	323215	0.00106	1.38	0.00002	2.17	7.33E-13
+wu:fb92g10	Wu:fb92g10	323225	0.00079	1.34	0.01559	2.06	3.16E-37
+wu:fb93e07	Wu:fb93e07	566923	0.00071	1.22	0.2887	3.12	8.34E-12
+wu:fb93f08	Wu:fb93f08	323262	0.00004	1.09	0.23043	1.66	5.42E-18
+wu:fb95b07	Wu:fb95b07	323318	5.07E-15	-1.74	0	1.63	5.95E-29
+wu:fb96f11	Wu:fb96f11	323381	0.00665	-1	1	2.71	6.50E-06
+wu:fb97d07	Wu:fb97d07	323403	5.23E-06	-1.11	0.26859	1.69	8.99E-12
+wu:fb99g09	Wu:fb99g09	323494	0.00002	-1.03	0.84519	1.68	7.85E-25
+wu:fc04h12	Wu:fc04h12	445083	4.24E-06	1.28	0.00001	2.14	5.78E-17
+wu:fc10d10	Wu:fc10d10	323799	7.78E-08	1.04	0.43248	1.59	5.30E-20
+wu:fc16c07	Wu:fc16c07	323992	9.31E-06	-1.36	0.05164	3.05	0.00003
+wu:fc21g04	Wu:fc21g04	324207	7.45E-09	1.18	0.00595	1.85	0
+wu:fc27e10	Wu:fc27e10	324393	0.00005	1.31	0.00173	2.26	1.05E-23
+wu:fc29h11	Wu:fc29h11	324461	0.00027	-1.03	0.89515	3.98	0.00003
+wu:fc32b08	Wu:fc32b08	324544	6.30E-12	-1.78	0.00008	1.59	3.07E-18
+wu:fc37c02	Wu:fc37c02	324650	0.00002	-1.34	0.25457	4.02	9.18E-10
+wu:fc37e02	Wu:fc37e02	324656	1.03E-13	-3.2	0.00013	2.75	2.03E-43
+wu:fc43a06	Wu:fc43a06	324782	0.00009	1.09	0.52893	3.33	5.74E-06
+wu:fc44h10	Wu:fc44h10	324839	0.0073	1.24	0.00043	1.69	4.32E-08
+wu:fc57f08	Wu:fc57f08	325175	2.28E-06	-1.11	0.13054	1.72	2.87E-07
+wu:fc63g02	Wu:fc63g02	563577	0.00002	-1.23	0.0172	1.57	0.00004
+wu:fc68e09	Wu:fc68e09	386998	0.00908	1.43	5.02E-08	1.78	2.83E-39
+wu:fc74g12	Wu:fc74g12	325408	8.82E-13	-2.13	2.13E-07	2.86	1.83E-13
+wu:fc83e05	Wu:fc83e05	555688	2.36E-07	-1.21	0.00402	1.76	0.00002
+wu:fc89f08	Wu:fc89f08	325584	5.07E-15	-2.72	1.01E-08	3.24	0
+wu:fc89g05	Wu:fc89g05	553985	0.00055	1.09	0.53194	1.96	3.03E-13
+wu:fc90b03	Wu:fc90b03	325590	5.93E-10	-1.47	2.09E-07	1.54	1.41E-07
+wu:fc92g08	Wu:fc92g08	325616	0.0022	1.11	0.38782	1.65	4.68E-15
+wu:fd12f05	Wu:fd12f05	556043	0.00068	1.11	0.35784	1.89	8.39E-14
+wu:fd14a01	Wu:fd14a01	327125	5.07E-15	-3.05	9.25E-11	2.39	1.69E-18
+wu:fd20g04	Wu:fd20g04	327296	8.43E-07	1.22	0.11936	2.87	2.26E-31
+wu:fd21d09	Wu:fd21d09	327311	0.00454	-2.16	0.13811	1.56	3.35E-07
+wu:fd49h06	Wu:fd49h06	325940	0.00004	1.15	0.01213	1.75	3.23E-14
+wu:fd52d02	Wu:fd52d02	325970	0.00011	1.25	0.56274	6.61	1.40E-19
+wu:fd59c06	Wu:fd59c06	326039	5.07E-15	-1.53	5.23E-06	3.08	1.98E-26
+wu:fe16a10	Wu:fe16a10	326768	0.0011	-1.46	0.15074	1.98	0.00006
+wu:fe25f09	Wu:fe25f09	326829	3.27E-11	-1.05	0.24804	1.53	1.31E-22
+wu:fe36e08	Wu:fe36e08	326856	1.68E-12	-1.72	0.00003	1.99	6.00E-17
+wu:fe36f10	Wu:fe36f10	326862	0.00888	-1.41	0.38053	1.66	1.84E-14
+wu:fi06c08	Wu:fi06c08	562658	0.00686	-1	1	2.24	2.39E-07
+wu:fi15d04	Wu:fi15d04	327519	0.00203	1.36	0.01127	2.5	2.41E-12
+wu:fi16c02	Wu:fi16c02	327537	0.00036	1.02	0.80936	2.07	0.00004
+wu:fi17a06	Wu:fi17a06	327552	5.07E-15	-1.15	0.02737	1.72	9.65E-43
+wu:fi28h02	Wu:fi28h02	334056	0.00005	1.28	0.00002	1.76	9.49E-40
+wu:fi35b07	Wu:fi35b07	334187	0.00242	1.45	2.24E-17	2	7.17E-11
+wu:fi35d01	Wu:fi35d01	334193	0.00006	1.14	0.08375	1.76	2.97E-21
+wu:fi40d09	Wu:fi40d09	334321	0.00385	1.17	0.05566	1.91	0.00001
+wu:fi49f09	Wu:fi49f09	550117	3.97E-06	-1.05	0.56246	1.78	7.66E-11
+wu:fi49h11	Wu:fi49h11	334418	0.00091	1.05	0.70368	1.86	1.41E-11
+wu:fj05a02	Wu:fj05a02	335348	0.00137	-1.13	0.49715	1.5	1.67E-12
+wu:fj20b03	Wu:fj20b03	335535	5.07E-15	-2.22	8.06E-06	3.75	3.84E-24
+wu:fj20e02	Wu:fj20e02	335538	0.00086	1.23	0.0211	1.7	1.61E-29
+wu:fj21a02	Wu:fj21a02	335546	0.00902	1.25	0.01075	1.62	1.27E-21
+wu:fj29e05	Wu:fj29e05	335613	0.00057	1.17	0.12255	2.29	1.33E-07
+wu:fj33h12	Wu:fj33h12	559877	2.61E-06	-1.21	0.20996	1.65	8.20E-20
+wu:fj35d09	Wu:fj35d09	335868	4.10E-08	-1.25	0.11982	2.86	1.40E-14
+wu:fj40e01	Wu:fj40e01	335967	1.51E-10	-1.01	0.95776	6.88	2.29E-34
+wu:fj46f04	Transcribed locus	336067	0.00925	1.31	8.54E-11	1.63	3.32E-12
+wu:fj49b05	Wu:fj49b05	336115	0.00003	-1.2	0.09728	1.64	1.38E-07
+wu:fj52d04	Wu:fj52d04	724016	0.00305	1.05	0.64239	1.95	0.00002
+wu:fj55b09	Wu:fj55b09	336195	0.0022	-1.83	2.10E-14	1.61	0.2613
+wu:fj59e12	Wu:fj59e12	336254	0.00199	1.08	0.7118	2.2	1.54E-14
+wu:fj59h10	Wu:fj59h10	336261	5.07E-15	-2.25	6.27E-10	2.13	3.62E-31
+wu:fj65c10	Wu:fj65c10	337373	1.76E-06	-1.6	0.00356	2.42	3.51E-06
+wu:fj66g07	Wu:fj66g07	337413	0.00937	-1.43	0.2972	1.56	0.00003
+wu:fj67b12	Wu:fj67b12	337429	0.00038	-2.16	0.07765	1.94	3.28E-06
+wu:fj68b04	Wu:fj68b04	337454	0.00509	-1.51	0.26544	1.75	0.00002
+wu:fj77h11	Wu:fj77h11	337482	1.90E-06	-1.3	0.09194	1.62	5.83E-15
+wu:fj84d07	Wu:fj84d07	337573	0.00005	1.26	0.03379	2.26	5.28E-25
+wu:fj85b02	Wu:fj85b02	337585	4.58E-06	1.09	0.21511	2.27	1.46E-07
+wu:fj87a11	Wu:fj87a11	337614	0.00311	1.12	0.46478	1.73	4.56E-18
+wu:fk14g09	Wu:fk14g09	337301	5.35E-07	-1.4	0.0033	1.87	2.18E-07
+wu:fk30h03	Wu:fk30h03	336935	0.00001	-1.89	0.03212	1.61	7.83E-14
+wu:fk55d01	Wu:fk55d01	335679	0.00055	1.2	0.08246	2.36	1.62E-08
+wu:fk56e01	Wu:fk56e01	335690	2.45E-11	-1.94	6.36E-40	2.41	0.00051
+wu:fk57g06	Wu:fk57g06	335699	1.34E-08	-1.64	2.02E-09	3.15	0.00026
+wu:fk63e10	Wu:fk63e10	335737	3.81E-13	-1.38	0.01003	2.62	1.71E-29
+wu:fk65b04	Wu:fk65b04	335075	1.48E-09	1.42	4.60E-11	2.17	0
+wu:fk71h11	Wu:fk71h11	335123	8.60E-10	-1.68	0.00001	2.16	5.59E-09
+wu:fl02d04	Wu:fl02d04	335264	8.31E-08	-2.03	0.03291	2.86	4.60E-18
+wu:fl04e06	Wu:fl04e06	368391	0.00176	1.06	0.76372	2.61	1.67E-08
+wu:fl53h07	Wu:fl53h07	386820	7.31E-12	-2.13	9.33E-06	2.06	2.01E-13
+wu:fr83c08	Wu:fr83c08	550259	0.00038	-1.18	0.41117	1.74	5.75E-11
+xpo6	Exportin 6	333980	0.00003	1.42	6.10E-41	1.84	4.88E-25
+ypel3	Yippee-like 3	368214	5.53E-06	1.2	2.56E-06	1.57	4.96E-36
+ythdf1	YTH domain family, member 1	327606	0.00003	-1.1	0.44134	1.66	7.75E-13
+ywhae2	Tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, epsilon polypeptide 2	503763	0.00007	1.13	0.03099	1.54	7.63E-24
+zbtb1	Zinc finger and BTB domain containing 1	407718	0.0001	-1.15	0.25231	1.69	3.30E-08
+zgc:100799	Zgc:100799	437005	0.00075	-1	1	2.49	1.42E-12
+zgc:100825	Zgc:100825	405831	0.000007714	-1.69	1.23E-21	1.75	0.04895
+zgc:100832	Zgc:100832	445148	0.00006	-1.05	0.44063	1.53	7.53E-06
+zgc:100844	Zgc:100844	437024	0.00358	1.34	0.00519	2.12	3.17E-15
+zgc:100999	Zgc:100999	445209	8.00E-10	-2.17	5.60E-19	2.05	0.00283
+zgc:101574	Zgc:101574	450084	0.00183	1.49	1.58E-10	1.95	1.59E-40
+zgc:101577	Zgc:101577	541415	0.00074	1.43	3.01E-14	1.94	8.84E-22
+zgc:101677	Zgc:101677	407720	0.00017	1.05	0.59412	1.97	3.87E-07
+zgc:101717	Zgc:101717	450046	7.33E-10	-1.13	0.16789	1.83	9.26E-25
+zgc:101855	Zgc:101855	494048	0.00694	1.12	0.30148	1.71	1.46E-09
+zgc:103754	Zgc:103754	449989	7.81E-11	-1.22	0.00005	1.72	4.31E-08
+zgc:109995	Zgc:109995	553568	0.00405	-1.01	0.96085	1.74	0.00003
+zgc:110079	Zgc:110079	560764	0.00837	-1	1	2.01	1.94E-08
+zgc:110114	Zgc:110114	321937	8.05E-10	-1.27	0.00011	1.64	4.22E-09
+zgc:110188	Zgc:110188	550529	0.00019	1.12	0.28029	2.46	2.11E-06
+zgc:110194	Zgc:110194	553594	0.00369	1.04	0.87141	1.85	2.77E-16
+zgc:110224	Zgc:110224	550335	5.61E-07	-1.31	0.00416	1.57	5.22E-08
+zgc:110406	Zgc:110406	553617	0.0003	-1.01	0.93303	2.18	3.97E-09
+zgc:110552	Zgc:110552	550227	5.07E-15	-3.91	2.40E-19	2.47	0
+zgc:110614	Zgc:110614	553638	2.28E-07	-1.79	2.27E-07	1.51	0.00072
+zgc:110620	Zgc:110620	541419	0.00001	-2.7	0.00003	1.85	0.00514
+zgc:110631	Zgc:110631	566018	0.00564	1.07	0.5154	1.86	0.00002
+zgc:111971	Zgc:111971	553662	6.98E-10	-1.58	0.03598	3.3	6.62E-22
+zgc:112148	Zgc:112148	550424	0.00004	-1.1	0.7669	3.68	8.70E-18
+zgc:112342	Zgc:112342	570456	0.001	-1.31	0.22454	1.5	5.02E-08
+zgc:112407	Zgc:112407	553728	1.45E-09	-1.66	3.15E-07	2.09	4.87E-06
+zgc:112450	Zgc:112450	553729	0.00004	1.14	0.05244	1.98	1.13E-10
+zgc:112945	Zgc:112945	541505	4.56E-06	-1.19	0.32473	1.87	3.88E-21
+zgc:113293	Zgc:113293	550593	1.31E-12	-2.41	0.00126	2.97	3.51E-33
+zgc:113312	Zgc:113312	619245	0.00111	1.32	0.00002	2.09	7.87E-09
+zgc:114115	Zgc:114115	334190	1.26E-06	1.22	0.00123	2.57	8.25E-10
+zgc:123078	Zgc:123078	641579	0.00042	-1.29	0.65156	4.46	4.51E-24
+zgc:136548	Zgc:136548	692289	2.24E-07	-1.98	0.00237	1.63	3.06E-08
+zgc:152900	Zgc:152900	768170	4.74E-07	1.2	0.00052	1.93	6.59E-24
+zgc:152921	Zgc:152921	560688	0.00076	1.22	0.00121	1.72	8.93E-17
+zgc:153035	Zgc:153035	768192	0.00003	-1.14	0.29179	1.52	1.69E-12
+zgc:153086	Zgc:153086	564277	0.00029	-1.06	0.64371	1.57	3.02E-11
+zgc:153258	Zgc:153258	767638	0.00075	-1.29	0.24412	1.51	9.39E-10
+zgc:153288	Zgc:153288	768178	0.00732	1.02	0.90645	1.88	1.12E-06
+zgc:153446	Zgc:153446	563346	0.00014	1.1	0.1294	1.78	1.27E-07
+zgc:153646	Zgc:153646	567272	0.00316	1.38	0.0001	2.04	8.30E-18
+zgc:153647	Zgc:153647	768288	1.75E-09	-3.58	0.00013	3.53	4.15E-10
+zgc:153699	Zgc:153699	559897	0.00004	1.3	0.00007	2.27	2.67E-12
+zgc:153732	Zgc:153732	767681	0.00002	-1.12	0.8259	6.89	5.21E-29
+zgc:153958	Zgc:153958	571036	0.00606	1.14	0.07234	1.55	1.32E-09
+zgc:154077	Zgc:154077	777745	2.03E-08	-1.13	0.22853	1.84	1.07E-20
+zgc:158259	Zgc:158259	568558	0.00198	-1.47	0.374	2.32	1.68E-09
+zgc:158270	Zgc:158270	791213	3.79E-11	-1.47	1.10E-08	1.65	1.08E-07
+zgc:158349	Zgc:158349	568213	0.00067	1.1	0.50586	1.82	1.57E-21
+zgc:158367	Zgc:158367	571403	2.04E-08	1.42	5.01E-12	2.47	1.86E-34
+zgc:158430	Zgc:158430	560102	0.00024	-1.03	0.74585	1.51	5.90E-12
+zgc:158448	Zgc:158448	790936	5.81E-08	-1.07	0.42873	1.69	7.50E-23
+zgc:158664	Zgc:158664	570392	9.33E-11	-4.54	0.00014	2.22	9.04E-29
+zgc:158780	Zgc:158780	503773	0.0005	1.38	0.00219	2.06	5.11E-40
+zgc:158869	Zgc:158869	791191	6.15E-06	-2.25	0.00106	2.48	0.00005
+zgc:162300	Zgc:162300	336021	0.00925	1.18	0.06612	1.58	2.47E-15
+zgc:162959	Zgc:162959	553538	0.00008	1.15	0.00088	1.55	1.09E-15
+zgc:163067	Zgc:163067	100037391	0.00399	-1	1	1.95	1.02E-13
+zgc:55549	Zgc:55549	393301	0.00009	1.33	0.02624	2.59	3.32E-24
+zgc:55582	Zgc:55582	334460	0.00455	1.09	0.36921	1.74	1.23E-07
+zgc:56066	Zgc:56066	393282	0.0008	-1.51	0.25446	2.1	1.85E-08
+zgc:56072	Zgc:56072	393159	0.00024	1.19	0.00344	1.73	3.76E-15
+zgc:56122	Zgc:56122	393218	0.00038	1.03	0.79723	1.76	1.84E-13
+zgc:56141	Zgc:56141	406277	0.0013	1.01	0.95441	1.56	2.89E-10
+zgc:56219	Zgc:56219	406260	0.00024	1.5	0.00012	2.22	0
+zgc:56699	Zgc:56699	405758	0.00029	-2.29	9.73E-07	1.92	0.11194
+zgc:63546	Zgc:63546	790959	0.00023	1.02	0.82693	1.64	7.46E-12
+zgc:63676	Zgc:63676	393453	0.00022	-1.12	0.4081	1.57	3.40E-10
+zgc:63840	Zgc:63840	393599	5.07E-15	-1.09	0.00271	1.7	3.82E-18
+zgc:63860	Zgc:63860	335830	2.47E-06	1.1	0.00617	1.62	2.45E-09
+zgc:64187	Zgc:64187	393389	0.00065	-1.35	0.09516	1.54	0.00007
+zgc:65873	Zgc:65873	393514	0.00006	-1	0.97872	1.56	1.11E-14
+zgc:66101	Zgc:66101	393513	0.00178	1.04	0.62588	1.52	1.27E-09
+zgc:66109	Zgc:66109	393531	0.00246	-3.9	0.00009	1.63	0.26542
+zgc:66242	Zgc:66242	393483	0.00003	1.24	1.61E-06	1.88	1.42E-11
+zgc:66382	Zgc:66382	322453	0.00625	-2.08	0.00001	1.87	0.25603
+zgc:66453	Zgc:66453	321619	0.00551	-1.05	0.78387	1.95	4.36E-06
+zgc:73220	Zgc:73220	393726	0.00003	1.14	0.34373	2.11	5.77E-32
+zgc:76867	Zgc:76867	404612	0.00855	1.22	0.11661	2.25	4.67E-06
+zgc:77106	Zgc:77106	406461	0.00562	-1.01	0.95646	2.47	0.00002
+zgc:77816	Zgc:77816	393843	0.00001	-1.14	0.15449	1.73	6.54E-08
+zgc:77875	Zgc:77875	393838	1.58E-07	-1.77	0.10123	3.11	6.55E-27
+zgc:85699	Zgc:85699	406560	0.0002	1.3	0.0013	2.22	4.67E-15
+zgc:85717	Zgc:85717	406504	0.00763	1.34	0.00002	1.9	6.91E-10
+zgc:85816	Zgc:85816	406570	0.002	-1.19	0.54878	1.98	1.08E-10
+zgc:91894	Zgc:91894	337382	0.00872	1.36	3.68E-08	1.68	1.53E-28
+zgc:92087	Zgc:92087	492333	0.00001	-1.03	0.70471	1.57	7.91E-13
+zgc:92173	Zgc:92173	492352	0.00008	1.27	0.01892	3	3.77E-08
+zgc:92218	Zgc:92218	494495	0.00394	-1.07	0.69826	1.73	9.64E-07
+zgc:92368	Zgc:92368	445118	3.91E-08	1.24	8.32E-20	2.28	7.43E-11
+zMKK4	MKK4	403052	0.00338	-1.03	0.87509	1.66	3.36E-13
+znfl2a	Zinc finger-like gene 2a	373087	5.07E-15	-1.68	3.33E-06	1.94	2.24E-25

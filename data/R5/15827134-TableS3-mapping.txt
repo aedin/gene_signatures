@@ -1,0 +1,116 @@
+# Generate Mapping Tables Script: Version 4 11:06 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:06 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+affy_hg_u133_plus_2|AFFX-r2-Ec-bioB-5_at|AFFX-r2-Ec-bioB-5_at	refseq_dna|NM_030943.1|NM_030943	hgnc_symbol|AMN|AMN
+affy_hg_u133_plus_2|AFFX-r2-Ec-bioB-5_at|AFFX-r2-Ec-bioB-5_at	entrezgene|AV653766|344	hgnc_symbol|APOC2|APOC2
+affy_hg_u133_plus_2|202615_at|202615_at	refseq_dna|AK025267.1|67.1	hgnc_symbol|BTNL3|BTNL3
+affy_hg_u133_plus_2|221419_s_at|221419_s_at	refseq_dna|NM_005191.1|NM_005191	hgnc_symbol|CD80|CD80
+affy_hg_u133_plus_2|216051_x_at|216051_x_at	refseq_dna|M76742.1|42.1	hgnc_symbol|CEACAM1|CEACAM1
+affy_hg_u133_plus_2|AFFX-r2-P1-cre-5_at|AFFX-r2-P1-cre-5_at	refseq_dna|X14362.1|62.1	hgnc_symbol|CR1|CR1
+affy_hg_u133_plus_2|AFFX-r2-P1-cre-5_at|AFFX-r2-P1-cre-5_at	refseq_dna|NM_006688.1|NM_006688	hgnc_symbol|CRF|CRF
+affy_hg_u133_plus_2|237187_at|237187_at	refseq_dna|L20817.1|17.1	hgnc_symbol|DDR1|DDR1
+affy_hg_u133_plus_2|229465_s_at|229465_s_at	refseq_dna|NM_001401.1|NM_001401	hgnc_symbol|EDG2|EDG2
+affy_hg_u133_plus_2|216993_s_at|216993_s_at	entrezgene|AU118419|54331	hgnc_symbol|GNG2|GNG2
+affy_hg_u133_plus_2|242793_at|242793_at	refseq_dna|AL050220.1|20.1	hgnc_symbol|KLK13|KLK13
+affy_hg_u133_plus_2|237287_at|237287_at	refseq_dna|NM_007015.1|NM_007015	hgnc_symbol|LECT1|LECT1
+affy_hg_u133_plus_2|243576_at|243576_at	refseq_dna|NM_004829.1|NM_004829	hgnc_symbol|NCR1|NCR1
+affy_hg_u133_plus_2|235317_at|235317_at	refseq_dna|AF041811.2|11.2	hgnc_symbol|NTRK3|NTRK3
+affy_hg_u133_plus_2|222301_at|222301_at	refseq_dna|NM_002856.1|NM_002856	hgnc_symbol|PVRL2|PVRL2
+affy_hg_u133_plus_2|237370_at|237370_at	embl|AF184174|AF184174	hgnc_symbol|SSTR2|SSTR2
+affy_hg_u133_plus_2|240501_at|240501_at	refseq_dna|NM_025218.1|NM_025218	hgnc_symbol|ULBP1|ULBP1
+affy_hg_u133_plus_2|233282_at|233282_at	embl|AA809056|AA809056	hgnc_symbol|ACTB|ACTB
+affy_hg_u133_plus_2|233511_at|233511_at	refseq_dna|AK023853.1|53.1	hgnc_symbol|ARHGEF15|ARHGEF15
+affy_hg_u133_plus_2|243017_at|243017_at	refseq_dna|NM_001978.1|NM_001978	hgnc_symbol|EPB49|EPB49
+affy_hg_u133_plus_2|211454_x_at|211454_x_at	refseq_dna|NM_002385.1|NM_002385	hgnc_symbol|MBP|MBP
+affy_hg_u133_plus_2|233761_at|233761_at	entrezgene|AA576961|22822	hgnc_symbol|PHLDA1|PHLDA1
+affy_hg_u133_plus_2|215549_x_at|215549_x_at	refseq_dna|NM_002677.1|NM_002677	hgnc_symbol|PMP2|PMP2
+affy_hg_u133_plus_2|214180_at|214180_at	refseq_dna|NM_001740.2|NM_001740	hgnc_symbol|CALB2|CALB2
+affy_hg_u133_plus_2|228376_at|228376_at	refseq_dna|NM_004420.1|NM_004420	hgnc_symbol|DUSP8|DUSP8
+affy_hg_u133_plus_2|211172_x_at|211172_x_at	refseq_dna|NM_012324.1|NM_012324	hgnc_symbol|MAPK8IP2|MAPK8IP2
+affy_hg_u133_plus_2|204151_x_at|204151_x_at	refseq_dna|AL157418.1|18.1	hgnc_symbol|MINK|MINK
+affy_hg_u133_plus_2|220989_s_at|220989_s_at	refseq_dna|NM_014308.1|NM_014308	hgnc_symbol|P101-PI3K|P101-PI3K
+affy_hg_u133_plus_2|231561_s_at|231561_s_at	entrezgene|BF432478|65018	hgnc_symbol|PINK1|PINK1
+affy_hg_u133_plus_2|217014_s_at|217014_s_at	refseq_dna|NM_002944.1|NM_002944	hgnc_symbol|ROS1|ROS1
+affy_hg_u133_plus_2|201883_s_at|201883_s_at	refseq_dna|NM_001661.1|NM_001661	hgnc_symbol|ARF4L|ARF4L
+affy_hg_u133_plus_2|220451_s_at|220451_s_at	refseq_dna|NM_001958.1|NM_001958	hgnc_symbol|EEF1A2|EEF1A2
+affy_hg_u133_plus_2|209578_s_at|209578_s_at	refseq_dna|AB007892.1|92.1	hgnc_symbol|CDC5L|CDC5L
+affy_hg_u133_plus_2|209906_at|209906_at	refseq_dna|NM_013229.1|NM_013229	hgnc_symbol|APAF1|APAF1
+affy_hg_u133_plus_2|231710_at|231710_at	refseq_dna|NM_014911.1|NM_014911	hgnc_symbol|AAK1|AAK1
+affy_hg_u133_plus_2|223703_at|223703_at	refseq_dna|NM_001353.2|NM_001353	hgnc_symbol|AKR1C1|AKR1C1
+affy_hg_u133_plus_2|213348_at|213348_at	refseq_dna|NM_012069.2|NM_012069	hgnc_symbol|ATP1B4|ATP1B4
+affy_hg_u133_plus_2|205575_at|205575_at	refseq_dna|BC005894.1|94.1	hgnc_symbol|FMO2|FMO2
+affy_hg_u133_plus_2|214411_x_at|214411_x_at	refseq_dna|NM_005258.2|NM_005258	hgnc_symbol|GCHFR|GCHFR
+affy_hg_u133_plus_2|204470_at|204470_at	entrezgene|AW086154|23062	hgnc_symbol|GGA2|GGA2
+affy_hg_u133_plus_2|205088_at|205088_at	refseq_dna|AK027032.1|32.1	hgnc_symbol|GLG1|GLG1
+affy_hg_u133_plus_2|206878_at|206878_at	refseq_dna|NM_001512.1|NM_001512	hgnc_symbol|GSTA4|GSTA4
+affy_hg_u133_plus_2|209383_at|209383_at	refseq_dna|D87328.1|28.1	hgnc_symbol|HLCS|HLCS
+affy_hg_u133_plus_2|210749_x_at|210749_x_at	refseq_dna|NM_000883.1|NM_000883	hgnc_symbol|IMPDH1|IMPDH1
+affy_hg_u133_plus_2|221537_at|221537_at	refseq_dna|NM_014592.1|NM_014592	hgnc_symbol|KCNIP1|KCNIP1
+affy_hg_u133_plus_2|221696_s_at|221696_s_at	refseq_dna|AB011181.2|81.2	hgnc_symbol|LARGE|LARGE
+affy_hg_u133_plus_2|200606_at|200606_at	entrezgene|AA398062|79716	hgnc_symbol|NPEPL1|NPEPL1
+affy_hg_u133_plus_2|226578_s_at|226578_s_at	refseq_dna|NM_000903.1|NM_000903	hgnc_symbol|NQO1|NQO1
+affy_hg_u133_plus_2|201677_at|201677_at	refseq_dna|NM_006514.1|NM_006514	hgnc_symbol|SCN10A|SCN10A
+affy_hg_u133_plus_2|204505_s_at|204505_s_at	refseq_dna|NM_022058.1|NM_022058	hgnc_symbol|SLC4A10|SLC4A10
+affy_hg_u133_plus_2|216680_s_at|216680_s_at	refseq_dna|NM_016615.1|NM_016615	hgnc_symbol|SLC6A13|SLC6A13
+affy_hg_u133_plus_2|204718_at|204718_at	entrezgene|AW276522|6535	hgnc_symbol|SLC6A8|SLC6A8
+affy_hg_u133_plus_2|220465_at|220465_at	refseq_dna|NM_003483.2|NM_003483	hgnc_symbol|HMGA2|HMGA2
+affy_hg_u133_plus_2|228568_at|228568_at	refseq_dna|NM_003733.1|NM_003733	hgnc_symbol|OASL|OASL
+affy_hg_u133_plus_2|202709_at|202709_at	refseq_dna|M36653.1|53.1	hgnc_symbol|POU2F2|POU2F2
+affy_hg_u133_plus_2|238569_at|238569_at	refseq_dna|NM_014258.1|NM_014258	hgnc_symbol|SYCP2|SYCP2
+affy_hg_u133_plus_2|218030_at|218030_at	embl|J04423|J04423
+affy_hg_u133_plus_2|564_at|564_at	refseq_dna|AB051446.1|46.1
+affy_hg_u133_plus_2|202967_at|202967_at	embl|AL050335|AL050335
+affy_hg_u133_plus_2|214379_at|214379_at	refseq_dna|AF164963.1|63.1
+affy_hg_u133_plus_2|216210_x_at|216210_x_at	refseq_dna|AK024381.1|81.1
+affy_hg_u133_plus_2|219697_at|219697_at	embl|BE502965|BE502965
+affy_hg_u133_plus_2|223769_x_at|223769_x_at	refseq_dna|AL049983.1|83.1
+affy_hg_u133_plus_2|217235_x_at|217235_x_at	refseq_dna|AL049301.1|01.1
+affy_hg_u133_plus_2|210036_s_at|210036_s_at	embl|BF732484|BF732484
+affy_hg_u133_plus_2|204371_s_at|204371_s_at	refseq_dna|BC003111.1|11.1
+affy_hg_u133_plus_2|213242_x_at|213242_x_at	entrezgene|N53536|389677
+affy_hg_u133_plus_2|41644_at|41644_at	entrezgene|AI554057|497189
+affy_hg_u133_plus_2|214213_x_at|214213_x_at	refseq_dna|AK022113.1|13.1
+affy_hg_u133_plus_2|212086_x_at|212086_x_at	embl|BE217929|BE217929
+affy_hg_u133_plus_2|215556_at|215556_at	embl|AU144900|AU144900
+affy_hg_u133_plus_2|215499_at|215499_at	entrezgene|AA032156|158572
+affy_hg_u133_plus_2|208351_s_at|208351_s_at	entrezgene|AW007988|3364
+affy_hg_u133_plus_2|205050_s_at|205050_s_at	refseq_dna|AF336878.1|78.1
+affy_hg_u133_plus_2|207323_s_at|207323_s_at	embl|AW341794|AW341794
+affy_hg_u133_plus_2|230807_at|230807_at	refseq_dna|AC_005587|AC_005587
+affy_hg_u133_plus_2|214965_at|214965_at	refseq_dna|AL390143.1|43.1
+affy_hg_u133_plus_2|228312_at|228312_at	refseq_dna|AF209931.1|31.1	hgnc_symbol|7h3|7h3
+affy_hg_u133_plus_2|207233_s_at|207233_s_at	refseq_dna|NM_023948.1|NM_023948	hgnc_symbol|AF053356_CDS3|AF053356_CDS3
+affy_hg_u133_plus_2|235163_at|235163_at	refseq_dna|NM_014840.1|NM_014840	hgnc_symbol|ARK5|ARK5
+affy_hg_u133_plus_2|209280_at|209280_at	refseq_dna|NM_018476.1|NM_018476	hgnc_symbol|BEX1|BEX1
+affy_hg_u133_plus_2|232373_at|232373_at	refseq_dna|NM_005491.1|NM_005491	hgnc_symbol|CXorf6|CXorf6
+affy_hg_u133_plus_2|89476_r_at|89476_r_at	entrezgene|R51077|27352
+affy_hg_u133_plus_2|209957_s_at|209957_s_at	refseq_dna|AK024279.1|79.1	hgnc_symbol|DKFZP434J154|DKFZP434J154
+affy_hg_u133_plus_2|217033_x_at|217033_x_at	refseq_dna|S58722.1|22.1	hgnc_symbol|DXS542|DXS542
+affy_hg_u133_plus_2|217377_x_at|217377_x_at	refseq_dna|NM_004956.1|NM_004956	hgnc_symbol|ETV1|ETV1
+affy_hg_u133_plus_2|214023_x_at|214023_x_at	entrezgene|AI568395|51341	hgnc_symbol|FBI1|FBI1
+affy_hg_u133_plus_2|216061_x_at|216061_x_at	refseq_dna|NM_022903.1|NM_022903	hgnc_symbol|FLJ12800|FLJ12800
+affy_hg_u133_plus_2|40446_at|40446_at	refseq_dna|NM_024759.1|NM_024759	hgnc_symbol|FLJ13955|FLJ13955
+affy_hg_u133_plus_2|217997_at|217997_at	refseq_dna|NM_017723.1|NM_017723	hgnc_symbol|FLJ20245|FLJ20245
+affy_hg_u133_plus_2|211230_s_at|211230_s_at	refseq_dna|NM_017766.1|NM_017766	hgnc_symbol|FLJ20321|FLJ20321
+affy_hg_u133_plus_2|209019_s_at|209019_s_at	refseq_dna|NM_024763.1|NM_024763	hgnc_symbol|FLJ23129|FLJ23129
+affy_hg_u133_plus_2|209018_s_at|209018_s_at	refseq_dna|NM_025055.1|NM_025055	hgnc_symbol|FLJ23168|FLJ23168
+affy_hg_u133_plus_2|210845_s_at|210845_s_at	entrezgene|AV658684|4616	hgnc_symbol|GADD45B|GADD45B
+affy_hg_u133_plus_2|211660_at|211660_at	refseq_dna|AK000089.1|89.1	hgnc_symbol|HDCMA18P|HDCMA18P
+affy_hg_u133_plus_2|213368_x_at|213368_x_at	refseq_dna|AF072164.1|64.1	hgnc_symbol|HFSE-1|HFSE-1
+affy_hg_u133_plus_2|204746_s_at|204746_s_at	entrezgene|AA046650|11078	hgnc_symbol|HRIHFB2122|HRIHFB2122
+affy_hg_u133_plus_2|220024_s_at|220024_s_at	refseq_dna|AJ131724.1|24.1	hgnc_symbol|HTR4|HTR4
+affy_hg_u133_plus_2|202990_at|202990_at	refseq_dna|X57812.1|12.1	hgnc_symbol|IGLJ3|IGLJ3
+affy_hg_u133_plus_2|217793_at|217793_at	entrezgene|AI933301|8570	hgnc_symbol|KHSRP|KHSRP
+affy_hg_u133_plus_2|219681_s_at|219681_s_at	refseq_dna|AB006622.2|22.2	hgnc_symbol|KIAA0284|KIAA0284
+affy_hg_u133_plus_2|228405_at|228405_at	refseq_dna|AK023797.1|97.1	hgnc_symbol|KIAA0672|KIAA0672
+affy_hg_u133_plus_2|214698_at|214698_at	refseq_dna|NM_030915.1|NM_030915	hgnc_symbol|LBH|LBH
+affy_hg_u133_plus_2|201429_s_at|201429_s_at	refseq_dna|AK023774.1|74.1	hgnc_symbol|LOC148936|LOC148936
+affy_hg_u133_plus_2|221943_x_at|221943_x_at	entrezgene|AI823802|414332	hgnc_symbol|LOC158062|LOC158062
+affy_hg_u133_plus_2|210854_x_at|210854_x_at	refseq_dna|AK024051.1|51.1	hgnc_symbol|MUF1|MUF1
+affy_hg_u133_plus_2|218032_at|218032_at	refseq_dna|M30262.1|62.1	hgnc_symbol|NPPA|NPPA
+affy_hg_u133_plus_2|203516_at|203516_at	refseq_dna|NM_018068.1|NM_018068	hgnc_symbol|PIWIL2|PIWIL2
+affy_hg_u133_plus_2|217040_x_at|217040_x_at	refseq_dna|NM_016583.1|NM_016583	hgnc_symbol|PLUNC|PLUNC
+affy_hg_u133_plus_2|206816_s_at|206816_s_at	refseq_dna|NM_018635.1|NM_018635	hgnc_symbol|PRO2900|PRO2900

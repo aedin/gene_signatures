@@ -1,0 +1,21 @@
+# Generate Mapping Tables Script: Version 4 11:06 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:06 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+affy_hg_u133_plus_2|204999_s_at|204999_s_at	entrezgene|BF515750|128061	hgnc_symbol|ATF5|ATF5
+affy_hg_u133_plus_2|218144_s_at|218144_s_at	entrezgene|BE561596|9112	hgnc_symbol|MTA1|MTA1
+affy_hg_u133_plus_2|204470_at|204470_at	refseq_dna|NM_001511.1|NM_001511	hgnc_symbol|CXCL1|CXCL1
+affy_hg_u133_plus_2|203510_at|203510_at	entrezgene|BG170541|4233	hgnc_symbol|MET|MET
+affy_hg_u133_plus_2|210845_s_at|210845_s_at	refseq_dna|U08839.1|39.1	hgnc_symbol|PLAUR|PLAUR
+affy_hg_u133_plus_2|205863_at|205863_at	refseq_dna|NM_005621.1|NM_005621	hgnc_symbol|S100A12|S100A12
+affy_hg_u133_plus_2|206026_s_at|206026_s_at	refseq_dna|NM_007115.1|NM_007115	hgnc_symbol|TNFAIP6|TNFAIP6
+affy_hg_u133_plus_2|203864_s_at|203864_s_at	entrezgene|AA780381|5606	hgnc_symbol|MAP2K3|MAP2K3
+affy_hg_u133_plus_2|215811_at|215811_at	refseq_dna|M18728.1|28.1	hgnc_symbol|CEACAM6|CEACAM6
+affy_hg_u133_plus_2|211207_s_at|211207_s_at	refseq_dna|NM_012118.1|NM_012118	hgnc_symbol|CCRN4L|CCRN4L
+affy_hg_u133_plus_2|1557828_a_at|1557828_a_at	refseq_dna|NM_022483.1|NM_022483	hgnc_symbol|FLJ21657|FLJ21657
+affy_hg_u133_plus_2|213605_s_at|213605_s_at	refseq_dna|AL049987.1|87.1
+affy_hg_u133_plus_2|1556078_at|1556078_at	entrezgene|N74662|84545	hgnc_symbol|MRPL43|MRPL43
+affy_hg_u133_plus_2|208694_at|208694_at	refseq_dna|U47077.5|77.5	hgnc_symbol|PRKDC|PRKDC
+affy_hg_u133_plus_2|216595_at|216595_at	refseq_dna|NM_014626.1|NM_014626	hgnc_symbol|GPR58|GPR58

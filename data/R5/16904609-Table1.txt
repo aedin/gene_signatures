@@ -1,0 +1,18 @@
+Gene symbol	Gene name	Unigene ID	Function	Source of cells
+IL1A	interleukin 1, a	Hs.1722	activates T and B cells and monocytes	T or B cells, monocytes, macrophages
+IL1B	interleukin 1, b	Hs.126256	activates T and B cells and monocytes	T or B cells, monocytes, macrophages
+IL2	interleukin 2	Hs.89679	growth and differentiation of all immune cells	T cells
+IL12A	interleukin 12, p35	Hs.673	stimulates Th1 T cells; induces IFNg; defense against pathogens	B cells, monocytes, macrophages
+IL12B	interleukin 12, p40	Hs.674	stimulates Th1 T cells; induces IFNg; defense against pathogens	B cells, monocytes, macrophages
+IL15	interleukin 15	Hs.311958	similar to IL-2; stimulates T cell proliferation	monocytes
+IFNG	interferon g	Hs.856	monocyte activator; regulates immune and inflammatory responses	T cells, macrophages, NK cells
+TNF	tumor necrosis factor	Hs.241570	mediator of inflammatory and immune functions	T or B cells, monocytes, macrophages
+IL4	interleukin 4	Hs.73917	induces secretion of Ig by B cells; pleiotropic effect on T cells	T or mast cells
+IL5	interleukin 5	Hs.2247	differentiation factor for B cells and eosinophils	T or mast cells
+IL8	interleukin 8	Hs.624	angiogenic factor; activating factor for neutrophil; attracts basophils	T or B cells, monocytes
+IL10	interleukin 10	Hs.193717	blocks Th1 T cells cytokines; stimulates proliferation of B cells, thymocytes, and mast cells; stimulates IgA production by B cells	T or B cells, monocytes
+CSF1	colony-stimulating factor	Hs.173894	stimulates the proliferation, differentiation, and survival of monocytes, macrophages	epithelial cells, fibroblasts,  endothelial cells
+ANXA1	annexin A1	Hs.494173	anti-inflammatory, capable of decreasing leukocyte migration	monocytes, neutrophils
+HLA-DRA	MHC class II antigen	Hs.520048	antigen presentation	dendritic, B, epithelial, or
+HLA-DPA1	MHC class II antigen	Hs.347270	antigen presentation	dendritic, B, epithelial, or endothelial cells, macrophages, fibroblasts
+PRG1	platelet proteoglycan	Hs.1908	involved in packaging of proteins into secretory granules and/or directing the secretion of such molecules as cytokines or chymases	hematopoietic cells, endothelial cells

@@ -1,0 +1,39 @@
+# Generate Mapping Tables Script: Version 4 11:03 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:03 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+unigene|Hs.505924|Hs.505924	hgnc_symbol|HMGA2|HMGA2
+unigene|Hs.151254|Hs.151254	hgnc_symbol|KLK7|KLK7
+unigene|Hs.7835|Hs.7835	hgnc_symbol|MRC2|MRC2
+unigene|Hs.187636|Hs.187636	hgnc_symbol|LRRK2|LRRK2
+unigene|Hs. 14968|Hs. 14968	hgnc_symbol|PLAG1|PLAG1
+unigene|Hs.154654|Hs.154654	hgnc_symbol|CYP1B1|CYP1B1
+unigene|Hs.368912|Hs.368912	hgnc_symbol|DPP4|DPP4
+unigene|Hs.27836|Hs.27836	hgnc_symbol|FNDC4|FNDC4
+unigene|Hs.154036|Hs.154036	hgnc_symbol|PHLDA2|PHLDA2
+unigene|Hs.417050|Hs.417050	hgnc_symbol|CCNA1|CCNA1
+unigene|Hs.554598|Hs.554598	hgnc_symbol|CDH3|CDH3
+unigene|Hs.466814|Hs.466814	hgnc_symbol|CEACAM6|CEACAM6
+unigene|Hs.518374|Hs.518374	hgnc_symbol|QSCN6|QSCN6
+unigene|Hs.476218|Hs.476218	hgnc_symbol|COL7A1|COL7A1
+unigene|Hs.592174|Hs.592174	hgnc_symbol|MGC9712|MGC9712
+unigene|Hs.478673|Hs.478673	hgnc_symbol|IL1RAP|IL1RAP
+unigene|Hs.497636|Hs.497636	hgnc_symbol|LAMB3|LAMB3
+unigene|Hs.128013|Hs.128013	hgnc_symbol|PRSS3|PRSS3
+unigene|Hs.4930|Hs.4930	hgnc_symbol|LRP4|LRP4
+unigene|Hs.124611|Hs.124611	hgnc_symbol|SPOCK1|SPOCK1
+unigene|Hs.370661|Hs.370661	hgnc_symbol|PDE5A|PDE5A
+unigene|Hs.511025|Hs.511025	hgnc_symbol|FLJ37078|FLJ37078
+unigene|Hs.370362|Hs.370362	hgnc_symbol|FBN3|FBN3
+unigene|Hs.194695|Hs.194695	hgnc_symbol|DIRAS3|DIRAS3
+unigene|Hs.511522|Hs.511522	hgnc_symbol|PRSS1|PRSS1
+unigene|Hs.197922|Hs.197922	hgnc_symbol|CAMK2N1|CAMK2N1
+unigene|Hs.448872|Hs.448872	hgnc_symbol|SNIP|SNIP
+unigene|Hs.1547|Hs.1547	hgnc_symbol|KCNJ2|KCNJ2
+unigene|Hs.523718|Hs.523718	hgnc_symbol|SFN|SFN
+unigene|Hs.127407|Hs.127407	hgnc_symbol|GALNT7|GALNT7
+unigene|Hs.170009|Hs.170009	hgnc_symbol|TGFA|TGFA
+unigene|Hs.458427|Hs.458427	hgnc_symbol|BAIAP3|BAIAP3
+unigene|Hs.528664|Hs.528664	hgnc_symbol|KCNK15|KCNK15

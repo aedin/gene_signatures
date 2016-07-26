@@ -1,0 +1,108 @@
+# Generate Mapping Tables Script: Version 4 11:08 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:08 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+affy_mouse430_2|1426926_at|1426926_at
+affy_mouse430_2|1417279_at|1417279_at
+affy_mouse430_2|1429794_a_at|1429794_a_at
+affy_mouse430_2|1425506_at|1425506_at
+affy_mouse430_2|1427287_s_at|1427287_s_at
+affy_mouse430_2|1418586_at|1418586_at
+affy_mouse430_2|1450124_a_at|1450124_a_at
+affy_mouse430_2|1433741_at|1433741_at
+affy_mouse430_2|1433956_at|1433956_at
+affy_mouse430_2|1460356_at|1460356_at
+affy_mouse430_2|1439221_s_at|1439221_s_at	affy_mouse430_2|1460415_a_at|1460415_a_at	affy_mouse430_2|1449473_s_at|1449473_s_at
+affy_mouse430_2|1421287_a_at|1421287_a_at
+affy_mouse430_2|1424595_at|1424595_at
+affy_mouse430_2|1422541_at|1422541_at
+affy_mouse430_2|1425253_a_at|1425253_a_at
+affy_mouse430_2|1416072_at|1416072_at
+affy_mouse430_2|1417839_at|1417839_at
+affy_mouse430_2|1448862_at|1448862_at
+affy_mouse430_2|1417621_at|1417621_at	affy_mouse430_2|1428479_at|1428479_at	affy_mouse430_2|1425761_a_at|1425761_a_at
+affy_mouse430_2|1456482_at|1456482_at
+affy_mouse430_2|1417123at|1417123at	affy_mouse430_2|1448600sat|1448600sat
+affy_mouse430_2|1417409at|1417409at	affy_mouse430_2|1448694at|1448694at
+affy_mouse430_2|1460651at|1460651at
+affy_mouse430_2|1423100at|1423100at
+affy_mouse430_2|1426926at|1426926at
+affy_mouse430_2|1438030at|1438030at	affy_mouse430_2|1438031at|1438031at
+affy_mouse430_2|1417621_at|1417621_at	affy_mouse430_2|1428479_at|1428479_at	affy_mouse430_2|1425761_a_at|1425761_a_at
+affy_mouse430_2|1456482_at|1456482_at
+affy_mouse430_2|1417123at|1417123at	affy_mouse430_2|1448600sat|1448600sat
+affy_mouse430_2|1417409at|1417409at	affy_mouse430_2|1448694at|1448694at
+affy_mouse430_2|1423100at|1423100at
+affy_mouse430_2|1451475at|1451475at
+affy_mouse430_2|1450199aat|1450199aat
+affy_mouse430_2|1417662at|1417662at	affy_mouse430_2|1448797at|1448797at
+affy_mouse430_2|1419300at|1419300at	affy_mouse430_2|1440926at|1440926at	affy_mouse430_2|1454037aat|1454037aat
+affy_mouse430_2|1423571_at|1423571_at
+affy_mouse430_2|1435823xat|1435823xat	affy_mouse430_2|1451427aat|1451427aat
+affy_mouse430_2|1416238at|1416238at
+affy_mouse430_2|1449379at|1449379at
+affy_mouse430_2|1421335aat|1421335aat
+affy_mouse430_2|1449110at|1449110at
+affy_mouse430_2|1426206at|1426206at
+affy_mouse430_2|1449146at|1449146at
+affy_mouse430_2|1442340xat|1442340xat	affy_mouse430_2|1457823at|1457823at
+affy_mouse430_2|1417271aat|1417271aat	affy_mouse430_2|1432176aat|1432176aat
+affy_mouse430_2|1448529at|1448529at
+affy_mouse430_2|1425284aat|1425284aat
+affy_mouse430_2|1429123at|1429123at
+affy_mouse430_2|1449305at|1449305at
+affy_mouse430_2|1421288_at|1421288_at
+affy_mouse430_2|1449269at|1449269at
+affy_mouse430_2|1420664sat|1420664sat
+affy_mouse430_2|1449558at|1449558at
+affy_mouse430_2|1449135at|1449135at
+affy_mouse430_2|1449145aat|1449145aat
+affy_mouse430_2|1435823xat|1435823xat	affy_mouse430_2|1451427aat|1451427aat
+affy_mouse430_2|1449379at|1449379at
+affy_mouse430_2|1415999_at|1415999_at
+affy_mouse430_2|1433956_at|1433956_at
+affy_mouse430_2|1449146_at|1449146_at
+affy_mouse430_2|1451475_at|1451475_at
+affy_mouse430_2|1449110_at|1449110_at
+affy_mouse430_2|1426206_at|1426206_at
+affy_mouse430_2|1416238_at|1416238_at
+affy_mouse430_2|1442340_x_at|1442340_x_at	affy_mouse430_2|1457823_at|1457823_at
+affy_mouse430_2|1424051_at|1424051_at
+affy_mouse430_2|1422865_at|1422865_at	affy_mouse430_2|1440878_at|1440878_at
+affy_mouse430_2|1449135_at|1449135_at
+affy_mouse430_2|1419300_at|1419300_at	affy_mouse430_2|1440926_at|1440926_at	affy_mouse430_2|1451756_at|1451756_at	affy_mouse430_2|1454037_a_at|1454037_a_at
+affy_mouse430_2|1425582_a_at|1425582_a_at
+affy_mouse430_2|1449145_a_at|1449145_a_at
+affy_mouse430_2|1417271_a_at|1417271_a_at	affy_mouse430_2|1432176_a_at|1432176_a_at
+affy_mouse430_2|1415999_at|1415999_at
+affy_mouse430_2|1421335_a_at|1421335_a_at
+affy_mouse430_2|1450199_a_at|1450199_a_at
+affy_mouse430_2|1449379_at|1449379_at
+affy_mouse430_2|1419485_at|1419485_at	affy_mouse430_2|1419486_at|1419486_at
+affy_mouse430_2|1424807_at|1424807_at
+affy_mouse430_2|1417662_at|1417662_at	affy_mouse430_2|1448797_at|1448797_at	affy_mouse430_2|1435143_at|1435143_at
+affy_mouse430_2|1435823_x_at|1435823_x_at	affy_mouse430_2|1451428_x_at|1451428_x_at	affy_mouse430_2|1451427_a_at|1451427_a_at
+affy_mouse430_2|1423571_at|1423571_at
+affy_mouse430_2|1449146_at|1449146_at
+affy_mouse430_2|1451475_at|1451475_at
+affy_mouse430_2|1449110_at|1449110_at
+affy_mouse430_2|1426206_at|1426206_at
+affy_mouse430_2|1416238_at|1416238_at
+affy_mouse430_2|1442340_x_at|1442340_x_at	affy_mouse430_2|1457823_at|1457823_at
+affy_mouse430_2|1424051_at|1424051_at
+affy_mouse430_2|1422865_at|1422865_at	affy_mouse430_2|1440878_at|1440878_at
+affy_mouse430_2|1449135_at|1449135_at
+affy_mouse430_2|1419300_at|1419300_at	affy_mouse430_2|1440926_at|1440926_at	affy_mouse430_2|1451756_at|1451756_at	affy_mouse430_2|1454037_a_at|1454037_a_at
+affy_mouse430_2|1425582_a_at|1425582_a_at
+affy_mouse430_2|1449145_a_at|1449145_a_at
+affy_mouse430_2|1417271_a_at|1417271_a_at	affy_mouse430_2|1432176_a_at|1432176_a_at
+affy_mouse430_2|1415999_at|1415999_at
+affy_mouse430_2|1421335_a_at|1421335_a_at
+affy_mouse430_2|1450199_a_at|1450199_a_at
+affy_mouse430_2|1449379_at|1449379_at
+affy_mouse430_2|1419485_at|1419485_at	affy_mouse430_2|1419486_at|1419486_at
+affy_mouse430_2|1417662_at|1417662_at	affy_mouse430_2|1448797_at|1448797_at	affy_mouse430_2|1435143_at|1435143_at
+affy_mouse430_2|1435823_x_at|1435823_x_at	affy_mouse430_2|1451428_x_at|1451428_x_at	affy_mouse430_2|1451427_a_at|1451427_a_at
+affy_mouse430_2|1423571_at|1423571_at

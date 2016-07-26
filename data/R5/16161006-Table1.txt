@@ -1,0 +1,10 @@
+Transporter	Gene symbol	Localization in normal liver	Uptake/export	Transported bile components	Clone	AntibodySpecies	Antibody Dilution	Antibody Company
+NTCP	SLC10A1	Basolateral;hepatocyte	Uptake	Bilesalts	K9	RpAb	0.319444444
+OATP2	SLCO1B1	Basolateral;hepatocyte	Uptake	Bilesalts,organicanions,bilirubin	mESL	MmAb	1:25	ProgenBiotechnik
+OATP8	SLCO1B1	Basolateral;hepatocyte	Uptake	Bilesalts,organicanions,bilirubin	mMDQ	MmAb	1:25	ProgenBiotechnik
+MDR3	ABCB4	Apical;hepatocyte	Export	Phosphatidylcholine	P3II-26	MmAb	1:50	Monosan
+MRP1	ABCC1	Basolateral;bileduct	Export	Glutathione,glucuronideconjugates	QCRL3	MmAb	1:50	SantaCruz
+MRP2	ABCC2	Apical;hepatocyte	Export	Glutathione,glucuronideconjugates,bilirubin	M2I-4	MmAb	1:50	Monosan
+MRP3	ABCC3	Basolateral;hepatocyte,bileduct	Export	Bilesalts,glucuronideconjugates	M3II-9	MmAb	1:10	Monosan  Novocastra
+BSEP	ABCB11	Apical;hepatocyte	Export	Bilesalts	DTX1	GpAb	1:30	SantaCruz
+MDR1	ABCB1	Apical;hepatocyte,bileduct	Export		JSB-1	MmAb	1:10	Monosan

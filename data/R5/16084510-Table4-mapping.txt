@@ -1,0 +1,44 @@
+# Generate Mapping Tables Script: Version 4 11:05 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:05 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+hgnc_symbol|CETN2|CETN2
+hgnc_symbol|BCAT1|BCAT1
+hgnc_symbol|POLE3|POLE3
+hgnc_symbol|SERPINI1|SERPINI1
+hgnc_symbol|HASH1|HASH1
+hgnc_symbol|EGR1|EGR1
+hgnc_symbol|HNRPD|HNRPD
+hgnc_symbol|EIF5A|EIF5A
+hgnc_symbol|HSPB1|HSPB1
+hgnc_symbol|BAZ1A|BAZ1A
+hgnc_symbol|PTBP1|PTBP1
+hgnc_symbol|HSF1|HSF1
+hgnc_symbol|EEF1A2|EEF1A2
+hgnc_symbol|CNOT3|CNOT3
+hgnc_symbol|MTA1|MTA1
+hgnc_symbol|MAZ|MAZ
+hgnc_symbol|LSM7|LSM7
+hgnc_symbol|ALDOC|ALDOC
+hgnc_symbol|HEP27|HEP27
+hgnc_symbol|ZNF423|ZNF423
+hgnc_symbol|PHGDH|PHGDH
+hgnc_symbol|FKBP4|FKBP4
+hgnc_symbol|OTUB1|OTUB1
+hgnc_symbol|PGLS|PGLS
+hgnc_symbol|ENPP2|ENPP2
+hgnc_symbol|MT1X|MT1X
+hgnc_symbol|MT2A|MT2A
+hgnc_symbol|ARHGDIA|ARHGDIA
+hgnc_symbol|AES|AES
+hgnc_symbol|BANF1|BANF1
+hgnc_symbol|NEF3|NEF3
+hgnc_symbol|WASPIP|WASPIP
+hgnc_symbol|RHOBTB3|RHOBTB3
+hgnc_symbol|BTBD2|BTBD2
+hgnc_symbol|MPDU1|MPDU1
+hgnc_symbol|TLN1|TLN1
+hgnc_symbol|ARS2|ARS2
+hgnc_symbol|HELSNF1|HELSNF1

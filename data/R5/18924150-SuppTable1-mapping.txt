@@ -1,0 +1,1830 @@
+# Generate Mapping Tables Script: Version 4 11:08 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:08 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+affy_rae230_2|1387291_at|1387291_at	rgd_symbol|Itih3|Itih3
+affy_rae230_2|1368816_at|1368816_at
+affy_rae230_2|1370432_at|1370432_at	rgd_symbol|Pou3f1|Pou3f1
+affy_rae230_2|1368815_at|1368815_at	rgd_symbol|Mpz|Mpz
+affy_rae230_2|1387640_at|1387640_at	rgd_symbol|Fgf15|Fgf15
+affy_rae230_2|1393064_at|1393064_at	rgd_symbol|RGD1564108_predicted|RGD1564108_predicted
+affy_rae230_2|1368998_at|1368998_at	rgd_symbol|Nkx6-1|Nkx6-1
+affy_rae230_2|1384771_at|1384771_at	rgd_symbol|RGD1565522_predicted|RGD1565522_predicted
+affy_rae230_2|1387088_at|1387088_at	rgd_symbol|Gal|Gal
+affy_rae230_2|1378720_at|1378720_at	rgd_symbol|Gli1|Gli1
+affy_rae230_2|1384247_at|1384247_at
+affy_rae230_2|1397593_at|1397593_at
+affy_rae230_2|1374259_at|1374259_at
+affy_rae230_2|1368542_at|1368542_at	rgd_symbol|Zfp423|Zfp423
+affy_rae230_2|1375039_x_at|1375039_x_at	rgd_symbol|RGD1311906|RGD1311906
+affy_rae230_2|1372935_at|1372935_at
+affy_rae230_2|1371298_at|1371298_at
+affy_rae230_2|1369204_at|1369204_at	rgd_symbol|Hck|Hck
+affy_rae230_2|1367581_a_at|1367581_a_at	rgd_symbol|Spp1|Spp1
+affy_rae230_2|1387200_at|1387200_at	rgd_symbol|Olig1|Olig1
+affy_rae230_2|1377631_at|1377631_at	rgd_symbol|Col9a3_predicted|Col9a3_predicted
+affy_rae230_2|1375266_at|1375266_at
+affy_rae230_2|1394533_at|1394533_at
+affy_rae230_2|1370810_at|1370810_at	rgd_symbol|Ccnd2|Ccnd2
+affy_rae230_2|1372013_at|1372013_at	rgd_symbol|Ifitm1_predicted|Ifitm1_predicted
+affy_rae230_2|1393617_at|1393617_at
+affy_rae230_2|1373777_at|1373777_at	rgd_symbol|Rgs16|Rgs16
+affy_rae230_2|1382358_at|1382358_at	rgd_symbol|Abcc9|Abcc9
+affy_rae230_2|1376311_at|1376311_at	rgd_symbol|RGD1563465_predicted|RGD1563465_predicted
+affy_rae230_2|1397655_at|1397655_at
+affy_rae230_2|1393119_at|1393119_at
+affy_rae230_2|1379499_at|1379499_at	rgd_symbol|Ltb|Ltb
+affy_rae230_2|1392751_at|1392751_at	rgd_symbol|RGD1563846_predicted|RGD1563846_predicted
+affy_rae230_2|1382580_at|1382580_at
+affy_rae230_2|1376908_at|1376908_at	rgd_symbol|Ifit3|Ifit3
+affy_rae230_2|1394561_at|1394561_at	rgd_symbol|Hapln3|Hapln3
+affy_rae230_2|1383852_at|1383852_at
+affy_rae230_2|1376799_a_at|1376799_a_at	rgd_symbol|Crlf1_predicted|Crlf1_predicted
+affy_rae230_2|1383946_at|1383946_at	rgd_symbol|Cldn1|Cldn1
+affy_rae230_2|1396422_at|1396422_at
+affy_rae230_2|1387969_at|1387969_at	rgd_symbol|Cxcl10|Cxcl10
+affy_rae230_2|1377091_at|1377091_at	rgd_symbol|Ng5|Ng5
+affy_rae230_2|1392965_a_at|1392965_a_at	rgd_symbol|Smoc2_predicted|Smoc2_predicted
+affy_rae230_2|1383075_at|1383075_at	rgd_symbol|Ccnd1|Ccnd1
+affy_rae230_2|1376128_at|1376128_at
+affy_rae230_2|1373797_at|1373797_at	rgd_symbol|Hyal3|Hyal3
+affy_rae230_2|1389244_x_at|1389244_x_at	rgd_symbol|Cxcr4|Cxcr4
+affy_rae230_2|1376117_at|1376117_at	rgd_symbol|Slc44a4|Slc44a4
+affy_rae230_2|1389239_at|1389239_at
+affy_rae230_2|1378873_at|1378873_at
+affy_rae230_2|1373654_at|1373654_at	rgd_symbol|Anxa8|Anxa8
+affy_rae230_2|1382138_at|1382138_at	rgd_symbol|LOC499745|LOC499745
+affy_rae230_2|1372084_at|1372084_at	rgd_symbol|Ptp4a3_predicted|Ptp4a3_predicted
+affy_rae230_2|1382387_at|1382387_at	rgd_symbol|Tmem16a_predicted|Tmem16a_predicted
+affy_rae230_2|1376901_a_at|1376901_a_at	rgd_symbol|RGD1559693_predicted|RGD1559693_predicted
+affy_rae230_2|1391435_at|1391435_at	rgd_symbol|Pltp_predicted|Pltp_predicted
+affy_rae230_2|1375277_at|1375277_at	rgd_symbol|LOC499745|LOC499745
+affy_rae230_2|1381971_at|1381971_at	rgd_symbol|Sox18|Sox18
+affy_rae230_2|1396178_at|1396178_at
+affy_rae230_2|1383980_at|1383980_at
+affy_rae230_2|1369203_at|1369203_at	rgd_symbol|Wif1|Wif1
+affy_rae230_2|1381510_at|1381510_at
+affy_rae230_2|1369370_s_at|1369370_s_at	rgd_symbol|Trpv4 /// Trpv1|Trpv4 /// Trpv1
+affy_rae230_2|1382950_at|1382950_at	rgd_symbol|Gbp4_predicted|Gbp4_predicted
+affy_rae230_2|1383304_at|1383304_at	rgd_symbol|Cmklr1|Cmklr1
+affy_rae230_2|1388673_at|1388673_at	rgd_symbol|Lsp1|Lsp1
+affy_rae230_2|1369006_at|1369006_at	rgd_symbol|Hk2|Hk2
+affy_rae230_2|1390675_at|1390675_at
+affy_rae230_2|1389403_at|1389403_at	rgd_symbol|Bmp7|Bmp7
+affy_rae230_2|1375011_at|1375011_at
+affy_rae230_2|1373414_at|1373414_at	rgd_symbol|RGD1305557|RGD1305557
+affy_rae230_2|1389688_at|1389688_at	rgd_symbol|Leprel1|Leprel1
+affy_rae230_2|1383488_at|1383488_at
+affy_rae230_2|1394966_at|1394966_at	rgd_symbol|RGD1309567_predicted|RGD1309567_predicted
+affy_rae230_2|1374048_at|1374048_at	rgd_symbol|Nrtn|Nrtn
+affy_rae230_2|1368342_at|1368342_at	rgd_symbol|Ampd3|Ampd3
+affy_rae230_2|1377615_at|1377615_at	rgd_symbol|LOC304280|LOC304280
+affy_rae230_2|1369320_at|1369320_at	rgd_symbol|Mia1|Mia1
+affy_rae230_2|1367905_at|1367905_at	rgd_symbol|Enpp3|Enpp3
+affy_rae230_2|1381572_at|1381572_at	rgd_symbol|RGD1565787_predicted|RGD1565787_predicted
+affy_rae230_2|1385397_at|1385397_at	rgd_symbol|LOC499991|LOC499991
+affy_rae230_2|1397859_x_at|1397859_x_at	rgd_symbol|RGD1565851_predicted|RGD1565851_predicted
+affy_rae230_2|1389067_at|1389067_at	rgd_symbol|Slco4a1|Slco4a1
+affy_rae230_2|1392283_at|1392283_at
+affy_rae230_2|1375184_at|1375184_at
+affy_rae230_2|1387625_at|1387625_at	rgd_symbol|Igfbp6|Igfbp6
+affy_rae230_2|1386038_x_at|1386038_x_at
+affy_rae230_2|1376792_at|1376792_at	rgd_symbol|RGD1559797_predicted|RGD1559797_predicted
+affy_rae230_2|1386695_at|1386695_at
+affy_rae230_2|1377885_at|1377885_at
+affy_rae230_2|1382314_at|1382314_at	rgd_symbol|G1p2_predicted|G1p2_predicted
+affy_rae230_2|1379077_at|1379077_at	rgd_symbol|RGD1564695_predicted|RGD1564695_predicted
+affy_rae230_2|1370113_at|1370113_at	rgd_symbol|Birc3|Birc3
+affy_rae230_2|1377497_at|1377497_at	rgd_symbol|Oasl1|Oasl1
+affy_rae230_2|1374875_at|1374875_at
+affy_rae230_2|1377336_at|1377336_at	rgd_symbol|Sema3b_predicted|Sema3b_predicted
+affy_rae230_2|1374376_at|1374376_at	rgd_symbol|Rgnef_predicted|Rgnef_predicted
+affy_rae230_2|1379357_at|1379357_at	rgd_symbol|RT1-Aw2|RT1-Aw2
+affy_rae230_2|1372326_at|1372326_at
+affy_rae230_2|1373219_at|1373219_at	rgd_symbol|Si1|Si1
+affy_rae230_2|1392013_at|1392013_at	rgd_symbol|Depdc2_predicted|Depdc2_predicted
+affy_rae230_2|1391714_at|1391714_at	rgd_symbol|Plag1|Plag1
+affy_rae230_2|1379059_at|1379059_at	rgd_symbol|RGD1307875_predicted|RGD1307875_predicted
+affy_rae230_2|1393883_at|1393883_at
+affy_rae230_2|1397924_at|1397924_at
+affy_rae230_2|1380317_at|1380317_at	rgd_symbol|Cdh10|Cdh10
+affy_rae230_2|1389667_at|1389667_at
+affy_rae230_2|1369886_a_at|1369886_a_at	rgd_symbol|Cabp1|Cabp1
+affy_rae230_2|1385166_at|1385166_at	rgd_symbol|RGD1560390_predicted|RGD1560390_predicted
+affy_rae230_2|1380558_at|1380558_at	rgd_symbol|Dlx3_predicted|Dlx3_predicted
+affy_rae230_2|1389353_at|1389353_at
+affy_rae230_2|1384944_at|1384944_at	rgd_symbol|Bcl11b_predicted|Bcl11b_predicted
+affy_rae230_2|1386870_at|1386870_at	rgd_symbol|Glul|Glul
+affy_rae230_2|1381668_at|1381668_at	rgd_symbol|Tspan5|Tspan5
+affy_rae230_2|1370186_at|1370186_at	rgd_symbol|Psmb9|Psmb9
+affy_rae230_2|1385032_at|1385032_at
+affy_rae230_2|1373336_at|1373336_at
+affy_rae230_2|1368711_at|1368711_at	rgd_symbol|Foxa2|Foxa2
+affy_rae230_2|1373544_at|1373544_at	rgd_symbol|Cxcl9|Cxcl9
+affy_rae230_2|1387968_at|1387968_at	rgd_symbol|Slc6a15|Slc6a15
+affy_rae230_2|1377495_at|1377495_at
+affy_rae230_2|1377671_at|1377671_at
+affy_rae230_2|1378032_at|1378032_at
+affy_rae230_2|1369478_at|1369478_at	rgd_symbol|Nr0b1|Nr0b1
+affy_rae230_2|1376845_at|1376845_at	rgd_symbol|isg12(b)|isg12(b)
+affy_rae230_2|1382902_at|1382902_at	rgd_symbol|Herc6|Herc6
+affy_rae230_2|1393229_at|1393229_at	rgd_symbol|Silv_predicted|Silv_predicted
+affy_rae230_2|1387558_at|1387558_at	rgd_symbol|Trpv4|Trpv4
+affy_rae230_2|1372065_at|1372065_at	rgd_symbol|Art3|Art3
+affy_rae230_2|1367786_at|1367786_at	rgd_symbol|Psmb8|Psmb8
+affy_rae230_2|1373751_at|1373751_at
+affy_rae230_2|1373427_at|1373427_at	rgd_symbol|Rragd_predicted|Rragd_predicted
+affy_rae230_2|1370695_s_at|1370695_s_at	rgd_symbol|Trib3|Trib3
+affy_rae230_2|1374098_at|1374098_at	rgd_symbol|Ng3|Ng3
+affy_rae230_2|1379124_at|1379124_at
+affy_rae230_2|1370312_at|1370312_at	rgd_symbol|Spon1|Spon1
+affy_rae230_2|1388309_at|1388309_at	rgd_symbol|Hmga1|Hmga1
+affy_rae230_2|1375183_at|1375183_at	rgd_symbol|Id4|Id4
+affy_rae230_2|1381556_at|1381556_at	rgd_symbol|LOC498673|LOC498673
+affy_rae230_2|1387439_at|1387439_at	rgd_symbol|Egfl3|Egfl3
+affy_rae230_2|1380338_at|1380338_at
+affy_rae230_2|1386851_a_at|1386851_a_at	rgd_symbol|Ppt2|Ppt2
+affy_rae230_2|1369412_a_at|1369412_a_at	rgd_symbol|Slc19a1|Slc19a1
+affy_rae230_2|1390995_at|1390995_at	rgd_symbol|Fkbpl|Fkbpl
+affy_rae230_2|1389734_x_at|1389734_x_at	rgd_symbol|RT1-149|RT1-149
+affy_rae230_2|1392145_at|1392145_at
+affy_rae230_2|1368248_at|1368248_at	rgd_symbol|Cds1|Cds1
+affy_rae230_2|1398706_at|1398706_at
+affy_rae230_2|1394399_at|1394399_at
+affy_rae230_2|1398039_at|1398039_at
+affy_rae230_2|1377767_at|1377767_at
+affy_rae230_2|1371671_at|1371671_at	rgd_symbol|Gprc5b_predicted|Gprc5b_predicted
+affy_rae230_2|1370845_at|1370845_at	rgd_symbol|Entpd2|Entpd2
+affy_rae230_2|1376074_at|1376074_at
+affy_rae230_2|1398433_at|1398433_at
+affy_rae230_2|1378800_at|1378800_at	rgd_symbol|Arhgap8|Arhgap8
+affy_rae230_2|1380345_at|1380345_at
+affy_rae230_2|1368395_at|1368395_at	rgd_symbol|Gpc3|Gpc3
+affy_rae230_2|1392096_at|1392096_at	rgd_symbol|RGD1308065_predicted|RGD1308065_predicted
+affy_rae230_2|1387137_at|1387137_at	rgd_symbol|Comp|Comp
+affy_rae230_2|1378828_at|1378828_at
+affy_rae230_2|1382002_at|1382002_at
+affy_rae230_2|1383301_at|1383301_at	rgd_symbol|LOC498154|LOC498154
+affy_rae230_2|1373348_at|1373348_at
+affy_rae230_2|1372808_at|1372808_at	rgd_symbol|RGD1564040_predicted|RGD1564040_predicted
+affy_rae230_2|1375014_at|1375014_at
+affy_rae230_2|1390912_at|1390912_at
+affy_rae230_2|1375796_at|1375796_at	rgd_symbol|Igtp /// RGD1566055_predicted|Igtp /// RGD1566055_predicted
+affy_rae230_2|1393202_a_at|1393202_a_at	rgd_symbol|Igf2bp3|Igf2bp3
+affy_rae230_2|1377680_at|1377680_at	rgd_symbol|Gfra3|Gfra3
+affy_rae230_2|1394352_at|1394352_at
+affy_rae230_2|1378133_at|1378133_at
+affy_rae230_2|1368025_at|1368025_at	rgd_symbol|Ddit4|Ddit4
+affy_rae230_2|1369067_at|1369067_at	rgd_symbol|Nr4a3|Nr4a3
+affy_rae230_2|1384392_at|1384392_at	rgd_symbol|Cyp26b1|Cyp26b1
+affy_rae230_2|1374734_at|1374734_at	rgd_symbol|RGD1304982_predicted|RGD1304982_predicted
+affy_rae230_2|1372841_at|1372841_at	rgd_symbol|Reep6|Reep6
+affy_rae230_2|1388950_at|1388950_at	rgd_symbol|Col9a2_predicted|Col9a2_predicted
+affy_rae230_2|1392045_at|1392045_at	rgd_symbol|Tmem22|Tmem22
+affy_rae230_2|1388149_at|1388149_at	rgd_symbol|Tap1|Tap1
+affy_rae230_2|1382317_at|1382317_at
+affy_rae230_2|1387805_at|1387805_at	rgd_symbol|Bnip3|Bnip3
+affy_rae230_2|1387914_at|1387914_at	rgd_symbol|Cyp27a1|Cyp27a1
+affy_rae230_2|1367807_at|1367807_at	rgd_symbol|Plod1|Plod1
+affy_rae230_2|1374947_at|1374947_at	rgd_symbol|Bcar3_predicted|Bcar3_predicted
+affy_rae230_2|1380129_at|1380129_at
+affy_rae230_2|1376661_at|1376661_at	rgd_symbol|LOC313672 /// LOC500579|LOC313672 /// LOC500579
+affy_rae230_2|1377472_at|1377472_at
+affy_rae230_2|1371491_at|1371491_at
+affy_rae230_2|1385641_at|1385641_at
+affy_rae230_2|1383309_at|1383309_at	rgd_symbol|St3gal6|St3gal6
+affy_rae230_2|1372626_at|1372626_at	rgd_symbol|RGD1564417_predicted|RGD1564417_predicted
+affy_rae230_2|1383612_at|1383612_at
+affy_rae230_2|1369500_at|1369500_at	rgd_symbol|Kcnk1|Kcnk1
+affy_rae230_2|1390426_at|1390426_at	rgd_symbol|Notch1|Notch1
+affy_rae230_2|1387202_at|1387202_at	rgd_symbol|Icam1|Icam1
+affy_rae230_2|1387899_at|1387899_at	rgd_symbol|Crmp1|Crmp1
+affy_rae230_2|1388131_at|1388131_at	rgd_symbol|Tubb2b|Tubb2b
+affy_rae230_2|1391831_at|1391831_at
+affy_rae230_2|1377761_at|1377761_at	rgd_symbol|Gfpt2|Gfpt2
+affy_rae230_2|1382266_at|1382266_at	rgd_symbol|RGD1560731_predicted|RGD1560731_predicted
+affy_rae230_2|1382835_at|1382835_at
+affy_rae230_2|1397766_at|1397766_at
+affy_rae230_2|1368080_at|1368080_at	rgd_symbol|Rgc32|Rgc32
+affy_rae230_2|1383692_at|1383692_at
+affy_rae230_2|1373903_at|1373903_at	rgd_symbol|Rcsd1_predicted|Rcsd1_predicted
+affy_rae230_2|1376151_a_at|1376151_a_at
+affy_rae230_2|1377089_a_at|1377089_a_at	rgd_symbol|Tspan5|Tspan5
+affy_rae230_2|1370869_at|1370869_at	rgd_symbol|Bcat1|Bcat1
+affy_rae230_2|1369772_at|1369772_at	rgd_symbol|Slc6a9|Slc6a9
+affy_rae230_2|1373699_at|1373699_at
+affy_rae230_2|1388666_at|1388666_at	rgd_symbol|Enc1|Enc1
+affy_rae230_2|1397304_at|1397304_at
+affy_rae230_2|1387721_at|1387721_at	rgd_symbol|Adora1|Adora1
+affy_rae230_2|1392974_at|1392974_at	rgd_symbol|Wasf1|Wasf1
+affy_rae230_2|1397548_at|1397548_at	rgd_symbol|Hmha1_predicted|Hmha1_predicted
+affy_rae230_2|1371985_a_at|1371985_a_at	rgd_symbol|Bat5|Bat5
+affy_rae230_2|1384505_at|1384505_at
+affy_rae230_2|1387260_at|1387260_at	rgd_symbol|Klf4|Klf4
+affy_rae230_2|1373480_at|1373480_at
+affy_rae230_2|1374356_at|1374356_at
+affy_rae230_2|1383049_at|1383049_at	rgd_symbol|RGD1561580_predicted|RGD1561580_predicted
+affy_rae230_2|1372653_at|1372653_at	rgd_symbol|Fkbp11|Fkbp11
+affy_rae230_2|1373759_at|1373759_at
+affy_rae230_2|1385522_at|1385522_at	rgd_symbol|Orc1l|Orc1l
+affy_rae230_2|1390946_at|1390946_at	rgd_symbol|Runx3|Runx3
+affy_rae230_2|1386039_x_at|1386039_x_at
+affy_rae230_2|1389439_at|1389439_at
+affy_rae230_2|1381045_at|1381045_at
+affy_rae230_2|1378392_at|1378392_at	rgd_symbol|Dja3|Dja3
+affy_rae230_2|1377356_at|1377356_at	rgd_symbol|RGD1559673_predicted|RGD1559673_predicted
+affy_rae230_2|1397652_at|1397652_at
+affy_rae230_2|1383314_at|1383314_at	rgd_symbol|RGD1565452_predicted|RGD1565452_predicted
+affy_rae230_2|1389538_at|1389538_at	rgd_symbol|Nfkbia|Nfkbia
+affy_rae230_2|1375851_at|1375851_at	rgd_symbol|Klhl8_predicted|Klhl8_predicted
+affy_rae230_2|1381749_at|1381749_at
+affy_rae230_2|1370913_at|1370913_at	rgd_symbol|Best5|Best5
+affy_rae230_2|1383034_at|1383034_at	rgd_symbol|Rybp_predicted|Rybp_predicted
+affy_rae230_2|1379741_at|1379741_at	rgd_symbol|Atp6v0a4_predicted|Atp6v0a4_predicted
+affy_rae230_2|1378861_at|1378861_at
+affy_rae230_2|1384963_at|1384963_at
+affy_rae230_2|1369167_at|1369167_at	rgd_symbol|Gfra2|Gfra2
+affy_rae230_2|1396265_at|1396265_at	rgd_symbol|RGD1306344|RGD1306344
+affy_rae230_2|1380835_at|1380835_at	rgd_symbol|Isg20l2|Isg20l2
+affy_rae230_2|1395056_at|1395056_at
+affy_rae230_2|1379903_at|1379903_at
+affy_rae230_2|1388821_at|1388821_at	rgd_symbol|RGD1564451_predicted|RGD1564451_predicted
+affy_rae230_2|1381350_at|1381350_at
+affy_rae230_2|1368674_at|1368674_at	rgd_symbol|Pygl|Pygl
+affy_rae230_2|1376668_at|1376668_at	rgd_symbol|RGD1311126_predicted|RGD1311126_predicted
+affy_rae230_2|1387925_at|1387925_at	rgd_symbol|Asns|Asns
+affy_rae230_2|1372673_at|1372673_at
+affy_rae230_2|1381534_at|1381534_at
+affy_rae230_2|1368576_at|1368576_at	rgd_symbol|Cart1|Cart1
+affy_rae230_2|1385978_at|1385978_at
+affy_rae230_2|1394446_at|1394446_at
+affy_rae230_2|1385566_at|1385566_at	rgd_symbol|Akap2|Akap2
+affy_rae230_2|1377307_at|1377307_at	rgd_symbol|LOC498968|LOC498968
+affy_rae230_2|1369988_at|1369988_at	rgd_symbol|Epor|Epor
+affy_rae230_2|1395781_at|1395781_at	rgd_symbol|Mycl1_mapped|Mycl1_mapped
+affy_rae230_2|1393392_at|1393392_at
+affy_rae230_2|1368292_at|1368292_at	rgd_symbol|Dnm1|Dnm1
+affy_rae230_2|1380570_at|1380570_at
+affy_rae230_2|1377782_at|1377782_at
+affy_rae230_2|1381687_at|1381687_at
+affy_rae230_2|1386998_at|1386998_at	rgd_symbol|Aldoc|Aldoc
+affy_rae230_2|1372681_at|1372681_at
+affy_rae230_2|1367867_at|1367867_at	rgd_symbol|Gfer|Gfer
+affy_rae230_2|1378998_at|1378998_at
+affy_rae230_2|1369074_at|1369074_at	rgd_symbol|Slc38a4|Slc38a4
+affy_rae230_2|1398732_at|1398732_at
+affy_rae230_2|1393963_at|1393963_at	rgd_symbol|Nthl1_predicted|Nthl1_predicted
+affy_rae230_2|1381246_at|1381246_at	rgd_symbol|Phf21b_predicted|Phf21b_predicted
+affy_rae230_2|1382215_at|1382215_at
+affy_rae230_2|1389453_at|1389453_at	rgd_symbol|Rdm1_predicted|Rdm1_predicted
+affy_rae230_2|1368311_at|1368311_at	rgd_symbol|Mgmt|Mgmt
+affy_rae230_2|1390453_at|1390453_at
+affy_rae230_2|1388695_at|1388695_at	rgd_symbol|Shmt2|Shmt2
+affy_rae230_2|1385241_at|1385241_at	rgd_symbol|Stag1_predicted|Stag1_predicted
+affy_rae230_2|1393691_at|1393691_at	rgd_symbol|Kif26a_predicted|Kif26a_predicted
+affy_rae230_2|1380028_at|1380028_at
+affy_rae230_2|1385299_at|1385299_at	rgd_symbol|Gpr23_predicted|Gpr23_predicted
+affy_rae230_2|1398272_at|1398272_at	rgd_symbol|B4galnt1|B4galnt1
+affy_rae230_2|1387153_at|1387153_at	rgd_symbol|Ril|Ril
+affy_rae230_2|1369590_a_at|1369590_a_at	rgd_symbol|Ddit3|Ddit3
+affy_rae230_2|1373787_at|1373787_at	rgd_symbol|Slc6a9|Slc6a9
+affy_rae230_2|1385017_at|1385017_at	rgd_symbol|Aqr_predicted|Aqr_predicted
+affy_rae230_2|1373516_at|1373516_at
+affy_rae230_2|1371772_at|1371772_at	rgd_symbol|Alkbh3|Alkbh3
+affy_rae230_2|1367609_at|1367609_at	rgd_symbol|Mif|Mif
+affy_rae230_2|1373843_at|1373843_at
+affy_rae230_2|1390104_at|1390104_at	rgd_symbol|Irgq_predicted|Irgq_predicted
+affy_rae230_2|1385138_at|1385138_at
+affy_rae230_2|1372134_at|1372134_at	rgd_symbol|Chchd6_predicted|Chchd6_predicted
+affy_rae230_2|1373710_at|1373710_at
+affy_rae230_2|1395689_at|1395689_at	rgd_symbol|LOC310013|LOC310013
+affy_rae230_2|1389033_at|1389033_at	rgd_symbol|RGD1306917_predicted|RGD1306917_predicted
+affy_rae230_2|1376048_at|1376048_at
+affy_rae230_2|1374309_at|1374309_at	rgd_symbol|RGD1306155_predicted|RGD1306155_predicted
+affy_rae230_2|1382010_at|1382010_at
+affy_rae230_2|1372564_at|1372564_at
+affy_rae230_2|1392813_at|1392813_at	rgd_symbol|RGD1563617_predicted|RGD1563617_predicted
+affy_rae230_2|1393807_at|1393807_at
+affy_rae230_2|1390481_a_at|1390481_a_at	rgd_symbol|Ube2t_predicted|Ube2t_predicted
+affy_rae230_2|1368391_at|1368391_at	rgd_symbol|Slc7a1|Slc7a1
+affy_rae230_2|1374152_at|1374152_at	rgd_symbol|Wdr46|Wdr46
+affy_rae230_2|1377562_at|1377562_at	rgd_symbol|Kcmf1|Kcmf1
+affy_rae230_2|1385028_at|1385028_at
+affy_rae230_2|1368770_at|1368770_at	rgd_symbol|Gcnt1|Gcnt1
+affy_rae230_2|1392626_at|1392626_at	rgd_symbol|Pkmyt1_predicted|Pkmyt1_predicted
+affy_rae230_2|1383434_at|1383434_at
+affy_rae230_2|1393103_at|1393103_at	rgd_symbol|RGD1311433_predicted|RGD1311433_predicted
+affy_rae230_2|1374443_at|1374443_at	rgd_symbol|Ict1_predicted|Ict1_predicted
+affy_rae230_2|1369953_a_at|1369953_a_at	rgd_symbol|Cd24|Cd24
+affy_rae230_2|1397457_at|1397457_at
+affy_rae230_2|1389432_at|1389432_at	rgd_symbol|Pbx2|Pbx2
+affy_rae230_2|1368732_at|1368732_at	rgd_symbol|Tap2|Tap2
+affy_rae230_2|1379205_at|1379205_at
+affy_rae230_2|1387430_at|1387430_at	rgd_symbol|Hsf2|Hsf2
+affy_rae230_2|1369726_at|1369726_at	rgd_symbol|Tapbp|Tapbp
+affy_rae230_2|1390181_at|1390181_at
+affy_rae230_2|1372009_at|1372009_at	rgd_symbol|Yars|Yars
+affy_rae230_2|1370881_at|1370881_at	rgd_symbol|Tst|Tst
+affy_rae230_2|1384765_at|1384765_at
+affy_rae230_2|1368266_at|1368266_at	rgd_symbol|Arg1|Arg1
+affy_rae230_2|1375526_at|1375526_at	rgd_symbol|RGD1563438_predicted|RGD1563438_predicted
+affy_rae230_2|1371551_at|1371551_at	rgd_symbol|Traf4_predicted|Traf4_predicted
+affy_rae230_2|1373533_at|1373533_at
+affy_rae230_2|1381173_at|1381173_at	rgd_symbol|Casp4|Casp4
+affy_rae230_2|1382609_at|1382609_at
+affy_rae230_2|1398580_at|1398580_at	rgd_symbol|Wdr31|Wdr31
+affy_rae230_2|1372904_at|1372904_at	rgd_symbol|Mobkl2b_predicted|Mobkl2b_predicted
+affy_rae230_2|1384517_at|1384517_at
+affy_rae230_2|1368242_at|1368242_at	rgd_symbol|Kcnb1|Kcnb1
+affy_rae230_2|1381115_at|1381115_at
+affy_rae230_2|1398756_at|1398756_at	rgd_symbol|Npm1 /// LOC300303|Npm1 /// LOC300303
+affy_rae230_2|1373410_at|1373410_at	rgd_symbol|RGD1563119_predicted|RGD1563119_predicted
+affy_rae230_2|1388236_x_at|1388236_x_at	rgd_symbol|RT1-CE12|RT1-CE12
+affy_rae230_2|1380303_at|1380303_at
+affy_rae230_2|1379656_a_at|1379656_a_at	rgd_symbol|Coro2a|Coro2a
+affy_rae230_2|1393132_at|1393132_at	rgd_symbol|RGD1560271_predicted|RGD1560271_predicted
+affy_rae230_2|1372665_at|1372665_at	rgd_symbol|Psat1|Psat1
+affy_rae230_2|1376401_at|1376401_at
+affy_rae230_2|1373001_at|1373001_at	rgd_symbol|Chchd4|Chchd4
+affy_rae230_2|1376056_at|1376056_at	rgd_symbol|RGD1563511_predicted|RGD1563511_predicted
+affy_rae230_2|1372694_at|1372694_at
+affy_rae230_2|1382188_at|1382188_at	rgd_symbol|RGD1311086|RGD1311086
+affy_rae230_2|1370248_at|1370248_at	rgd_symbol|Fxyd6|Fxyd6
+affy_rae230_2|1384903_at|1384903_at	rgd_symbol|Gpt2_predicted|Gpt2_predicted
+affy_rae230_2|1387676_at|1387676_at	rgd_symbol|Mark1|Mark1
+affy_rae230_2|1371752_at|1371752_at	rgd_symbol|RGD1563195_predicted|RGD1563195_predicted
+affy_rae230_2|1369588_a_at|1369588_a_at	rgd_symbol|Atpif1|Atpif1
+affy_rae230_2|1373158_at|1373158_at
+affy_rae230_2|1376872_at|1376872_at
+affy_rae230_2|1374228_at|1374228_at	rgd_symbol|Trim47_predicted|Trim47_predicted
+affy_rae230_2|1389107_at|1389107_at	rgd_symbol|RGD1304623_predicted|RGD1304623_predicted
+affy_rae230_2|1376418_a_at|1376418_a_at	rgd_symbol|Iars_predicted|Iars_predicted
+affy_rae230_2|1378420_at|1378420_at
+affy_rae230_2|1397011_at|1397011_at
+affy_rae230_2|1388473_at|1388473_at	rgd_symbol|Tbc1d14|Tbc1d14
+affy_rae230_2|1372170_at|1372170_at	rgd_symbol|Acy1|Acy1
+affy_rae230_2|1372332_at|1372332_at
+affy_rae230_2|1388715_at|1388715_at	rgd_symbol|Gars|Gars
+affy_rae230_2|1388864_at|1388864_at	rgd_symbol|RGD1562539_predicted|RGD1562539_predicted
+affy_rae230_2|1386888_at|1386888_at	rgd_symbol|Eif4ebp1|Eif4ebp1
+affy_rae230_2|1372479_at|1372479_at
+affy_rae230_2|1372316_at|1372316_at	rgd_symbol|RGD1311939_predicted|RGD1311939_predicted
+affy_rae230_2|1380764_at|1380764_at	rgd_symbol|RGD1305633_predicted|RGD1305633_predicted
+affy_rae230_2|1393389_at|1393389_at	rgd_symbol|Nr4a3|Nr4a3
+affy_rae230_2|1393228_at|1393228_at	rgd_symbol|Gloxd1|Gloxd1
+affy_rae230_2|1383324_at|1383324_at	rgd_symbol|RGD1562141_predicted|RGD1562141_predicted
+affy_rae230_2|1384850_at|1384850_at
+affy_rae230_2|1377410_at|1377410_at	rgd_symbol|E2f8|E2f8
+affy_rae230_2|1370928_at|1370928_at	rgd_symbol|Litaf|Litaf
+affy_rae230_2|1377268_at|1377268_at	rgd_symbol|RGD1310597|RGD1310597
+affy_rae230_2|1370034_at|1370034_at	rgd_symbol|Cdc25b|Cdc25b
+affy_rae230_2|1367767_at|1367767_at	rgd_symbol|Hmgcl|Hmgcl
+affy_rae230_2|1375964_at|1375964_at	rgd_symbol|Psph|Psph
+affy_rae230_2|1393913_at|1393913_at	rgd_symbol|RGD1311084_predicted|RGD1311084_predicted
+affy_rae230_2|1380743_at|1380743_at
+affy_rae230_2|1373281_at|1373281_at	rgd_symbol|RGD1310180|RGD1310180
+affy_rae230_2|1392514_at|1392514_at	rgd_symbol|Bxdc1_predicted|Bxdc1_predicted
+affy_rae230_2|1377980_at|1377980_at
+affy_rae230_2|1368079_at|1368079_at	rgd_symbol|Pdk1|Pdk1
+affy_rae230_2|1377405_at|1377405_at	rgd_symbol|Ralgps2|Ralgps2
+affy_rae230_2|1391607_at|1391607_at
+affy_rae230_2|1368249_at|1368249_at	rgd_symbol|Klf15|Klf15
+affy_rae230_2|1372621_at|1372621_at	rgd_symbol|RGD1308876_predicted|RGD1308876_predicted
+affy_rae230_2|1373162_at|1373162_at
+affy_rae230_2|1390909_at|1390909_at
+affy_rae230_2|1371809_at|1371809_at	rgd_symbol|Mrps18b|Mrps18b
+affy_rae230_2|1395088_at|1395088_at
+affy_rae230_2|1368260_at|1368260_at	rgd_symbol|Aurkb|Aurkb
+affy_rae230_2|1383273_a_at|1383273_a_at	rgd_symbol|Pcbp3|Pcbp3
+affy_rae230_2|1373694_at|1373694_at	rgd_symbol|Wdr79|Wdr79
+affy_rae230_2|1374556_at|1374556_at	rgd_symbol|Smox_predicted|Smox_predicted
+affy_rae230_2|1391551_at|1391551_at
+affy_rae230_2|1373031_at|1373031_at	rgd_symbol|Trim8_predicted|Trim8_predicted
+affy_rae230_2|1376160_at|1376160_at	rgd_symbol|LOC365510|LOC365510
+affy_rae230_2|1389832_at|1389832_at	rgd_symbol|Gsto1|Gsto1
+affy_rae230_2|1377046_at|1377046_at
+affy_rae230_2|1381811_at|1381811_at
+affy_rae230_2|1385261_s_at|1385261_s_at
+affy_rae230_2|1371485_at|1371485_at
+affy_rae230_2|1373807_at|1373807_at
+affy_rae230_2|1391245_at|1391245_at	rgd_symbol|Ng35|Ng35
+affy_rae230_2|1376214_at|1376214_at
+affy_rae230_2|1384816_at|1384816_at	rgd_symbol|Cxadr|Cxadr
+affy_rae230_2|1389765_at|1389765_at	rgd_symbol|Nle1_predicted|Nle1_predicted
+affy_rae230_2|1393376_at|1393376_at	rgd_symbol|Sox6|Sox6
+affy_rae230_2|1374429_at|1374429_at
+affy_rae230_2|1376029_at|1376029_at	rgd_symbol|Rab2l|Rab2l
+affy_rae230_2|1374719_at|1374719_at	rgd_symbol|RGD1307264_predicted|RGD1307264_predicted
+affy_rae230_2|1383618_at|1383618_at	rgd_symbol|Mrpl38|Mrpl38
+affy_rae230_2|1396163_at|1396163_at	rgd_symbol|Igtp|Igtp
+affy_rae230_2|1374617_at|1374617_at	rgd_symbol|Dhrs7b|Dhrs7b
+affy_rae230_2|1393128_at|1393128_at	rgd_symbol|RGD1311086|RGD1311086
+affy_rae230_2|1372156_at|1372156_at	rgd_symbol|Tmem97|Tmem97
+affy_rae230_2|1373357_at|1373357_at	rgd_symbol|Foxd2_predicted|Foxd2_predicted
+affy_rae230_2|1389248_at|1389248_at	rgd_symbol|Galk1|Galk1
+affy_rae230_2|1395212_at|1395212_at	rgd_symbol|Npm2|Npm2
+affy_rae230_2|1387807_at|1387807_at	rgd_symbol|Pafah1b1|Pafah1b1
+affy_rae230_2|1372891_at|1372891_at	rgd_symbol|RGD1305631_predicted|RGD1305631_predicted
+affy_rae230_2|1380250_at|1380250_at	rgd_symbol|Sned1|Sned1
+affy_rae230_2|1389735_at|1389735_at
+affy_rae230_2|1381190_at|1381190_at
+affy_rae230_2|1379862_at|1379862_at
+affy_rae230_2|1389450_at|1389450_at	rgd_symbol|LOC360830 /// LOC368084|LOC360830 /// LOC368084
+affy_rae230_2|1389597_at|1389597_at	rgd_symbol|Pgbd5_predicted|Pgbd5_predicted
+affy_rae230_2|1376237_at|1376237_at
+affy_rae230_2|1384098_at|1384098_at	rgd_symbol|Rnf125_predicted|Rnf125_predicted
+affy_rae230_2|1378940_at|1378940_at	rgd_symbol|Shq1_predicted|Shq1_predicted
+affy_rae230_2|1388203_x_at|1388203_x_at	rgd_symbol|RT1-Aw2 /// RT1-T24-1 /// RT1-CE2 /// RT1-149 /// RT1-CE15 /// RT1-CE10|RT1-Aw2 /// RT1-T24-1 /// RT1-CE2 /// RT1-149 /// RT1-CE15 /// RT1-CE10
+affy_rae230_2|1398912_at|1398912_at	rgd_symbol|mrpl9|mrpl9
+affy_rae230_2|1381390_at|1381390_at	rgd_symbol|RGD1311768_predicted|RGD1311768_predicted
+affy_rae230_2|1398644_at|1398644_at
+affy_rae230_2|1381217_at|1381217_at	rgd_symbol|RGD1308877_predicted|RGD1308877_predicted
+affy_rae230_2|1392499_at|1392499_at
+affy_rae230_2|1370298_at|1370298_at	rgd_symbol|RGD1564337_predicted|RGD1564337_predicted
+affy_rae230_2|1379198_at|1379198_at	rgd_symbol|Gpatc2|Gpatc2
+affy_rae230_2|1391856_at|1391856_at	rgd_symbol|Sema3g|Sema3g
+affy_rae230_2|1395387_at|1395387_at	rgd_symbol|Cdv1|Cdv1
+affy_rae230_2|1379234_a_at|1379234_a_at	rgd_symbol|LOC287961|LOC287961
+affy_rae230_2|1398366_at|1398366_at	rgd_symbol|RGD1565074_predicted|RGD1565074_predicted
+affy_rae230_2|1386744_x_at|1386744_x_at
+affy_rae230_2|1393135_at|1393135_at
+affy_rae230_2|1371770_at|1371770_at	rgd_symbol|Ke2|Ke2
+affy_rae230_2|1373009_at|1373009_at	rgd_symbol|RGD1559786|RGD1559786
+affy_rae230_2|1377673_at|1377673_at	rgd_symbol|LOC500715|LOC500715
+affy_rae230_2|1393043_at|1393043_at	rgd_symbol|Wdr50_predicted|Wdr50_predicted
+affy_rae230_2|1387098_at|1387098_at	rgd_symbol|Rpo1-4|Rpo1-4
+affy_rae230_2|1367831_at|1367831_at	rgd_symbol|Tp53|Tp53
+affy_rae230_2|1374632_at|1374632_at	rgd_symbol|Ptdsr|Ptdsr
+affy_rae230_2|1384100_at|1384100_at
+affy_rae230_2|1384892_at|1384892_at
+affy_rae230_2|1373718_at|1373718_at	rgd_symbol|LOC498736|LOC498736
+affy_rae230_2|1369984_at|1369984_at	rgd_symbol|Cox17|Cox17
+affy_rae230_2|1367784_a_at|1367784_a_at	rgd_symbol|Clu|Clu
+affy_rae230_2|1385557_at|1385557_at
+affy_rae230_2|1374466_at|1374466_at
+affy_rae230_2|1373649_at|1373649_at
+affy_rae230_2|1390938_at|1390938_at	rgd_symbol|RGD1559882_predicted|RGD1559882_predicted
+affy_rae230_2|1383320_at|1383320_at	rgd_symbol|Lck_mapped|Lck_mapped
+affy_rae230_2|1372290_at|1372290_at	rgd_symbol|Rdbp|Rdbp
+affy_rae230_2|1382404_at|1382404_at
+affy_rae230_2|1377517_at|1377517_at
+affy_rae230_2|1380424_at|1380424_at	rgd_symbol|Ubxd5|Ubxd5
+affy_rae230_2|1373992_at|1373992_at	rgd_symbol|MGC108823 /// RGD1559715_predicted /// LOC498872|MGC108823 /// RGD1559715_predicted /// LOC498872
+affy_rae230_2|1390513_at|1390513_at
+affy_rae230_2|1392810_at|1392810_at	rgd_symbol|Apobec3|Apobec3
+affy_rae230_2|1392144_at|1392144_at
+affy_rae230_2|1389291_at|1389291_at	rgd_symbol|Chchd3_predicted|Chchd3_predicted
+affy_rae230_2|1367779_at|1367779_at	rgd_symbol|Bin1|Bin1
+affy_rae230_2|1379075_at|1379075_at	rgd_symbol|Oact2|Oact2
+affy_rae230_2|1392541_at|1392541_at	rgd_symbol|RGD1304876_predicted /// RGD1560425_predicted|RGD1304876_predicted /// RGD1560425_predicted
+affy_rae230_2|1374114_at|1374114_at	rgd_symbol|Fbxl15_predicted|Fbxl15_predicted
+affy_rae230_2|1372596_at|1372596_at	rgd_symbol|RGD1311660_predicted|RGD1311660_predicted
+affy_rae230_2|1375076_at|1375076_at	rgd_symbol|Lrrc46|Lrrc46
+affy_rae230_2|1367660_at|1367660_at	rgd_symbol|Fabp3|Fabp3
+affy_rae230_2|1374551_at|1374551_at	rgd_symbol|Ifi35|Ifi35
+affy_rae230_2|1385627_at|1385627_at	rgd_symbol|Bcl3_predicted|Bcl3_predicted
+affy_rae230_2|1398878_at|1398878_at	rgd_symbol|MGC108785|MGC108785
+affy_rae230_2|1385733_at|1385733_at	rgd_symbol|Exo1_predicted|Exo1_predicted
+affy_rae230_2|1383168_at|1383168_at
+affy_rae230_2|1372895_at|1372895_at	rgd_symbol|RGD1309676|RGD1309676
+affy_rae230_2|1374305_at|1374305_at	rgd_symbol|Ap1g2_predicted|Ap1g2_predicted
+affy_rae230_2|1382384_at|1382384_at	rgd_symbol|MGC114410|MGC114410
+affy_rae230_2|1387268_at|1387268_at	rgd_symbol|Rpo1-2|Rpo1-2
+affy_rae230_2|1375441_at|1375441_at	rgd_symbol|Sars1|Sars1
+affy_rae230_2|1388492_at|1388492_at	rgd_symbol|Tnip1_predicted|Tnip1_predicted
+affy_rae230_2|1382325_at|1382325_at	rgd_symbol|Gcat|Gcat
+affy_rae230_2|1382333_at|1382333_at	rgd_symbol|RGD1560852_predicted|RGD1560852_predicted
+affy_rae230_2|1383558_at|1383558_at	rgd_symbol|RGD1560552_predicted|RGD1560552_predicted
+affy_rae230_2|1374424_at|1374424_at	rgd_symbol|Prmt5_predicted|Prmt5_predicted
+affy_rae230_2|1372436_at|1372436_at	rgd_symbol|Tpd52l2|Tpd52l2
+affy_rae230_2|1373745_at|1373745_at	rgd_symbol|Gtf2h4|Gtf2h4
+affy_rae230_2|1392155_at|1392155_at
+affy_rae230_2|1382500_at|1382500_at
+affy_rae230_2|1388933_at|1388933_at
+affy_rae230_2|1375522_at|1375522_at	rgd_symbol|Nmt1|Nmt1
+affy_rae230_2|1379083_at|1379083_at	rgd_symbol|Scamp4|Scamp4
+affy_rae230_2|1398840_at|1398840_at	rgd_symbol|Vamp5|Vamp5
+affy_rae230_2|1372876_at|1372876_at	rgd_symbol|Sephs2|Sephs2
+affy_rae230_2|1378120_at|1378120_at
+affy_rae230_2|1384195_at|1384195_at
+affy_rae230_2|1385592_at|1385592_at	rgd_symbol|Bcor_predicted|Bcor_predicted
+affy_rae230_2|1378507_at|1378507_at
+affy_rae230_2|1377659_at|1377659_at	rgd_symbol|Mlf1_predicted|Mlf1_predicted
+affy_rae230_2|1376597_at|1376597_at	rgd_symbol|Zcchc10|Zcchc10
+affy_rae230_2|1392025_x_at|1392025_x_at
+affy_rae230_2|1371539_at|1371539_at	rgd_symbol|Nola2_predicted|Nola2_predicted
+affy_rae230_2|1394553_at|1394553_at
+affy_rae230_2|1382652_at|1382652_at
+affy_rae230_2|1372659_at|1372659_at
+affy_rae230_2|1372415_at|1372415_at	rgd_symbol|Gtf2h3|Gtf2h3
+affy_rae230_2|1381263_at|1381263_at
+affy_rae230_2|1384714_x_at|1384714_x_at	rgd_symbol|Rpl8 /// RGD1561333_predicted|Rpl8 /// RGD1561333_predicted
+affy_rae230_2|1391206_at|1391206_at
+affy_rae230_2|1374727_at|1374727_at	rgd_symbol|LOC294513|LOC294513
+affy_rae230_2|1368361_a_at|1368361_a_at	rgd_symbol|Ptpn2|Ptpn2
+affy_rae230_2|1367941_at|1367941_at	rgd_symbol|Tfam|Tfam
+affy_rae230_2|1383150_at|1383150_at
+affy_rae230_2|1383295_at|1383295_at
+affy_rae230_2|1373513_at|1373513_at
+affy_rae230_2|1382763_at|1382763_at
+affy_rae230_2|1380030_at|1380030_at	rgd_symbol|Znf593_predicted|Znf593_predicted
+affy_rae230_2|1391608_at|1391608_at
+affy_rae230_2|1384087_at|1384087_at
+affy_rae230_2|1382993_at|1382993_at	rgd_symbol|Bbc3|Bbc3
+affy_rae230_2|1373037_at|1373037_at	rgd_symbol|Ube2l6|Ube2l6
+affy_rae230_2|1373573_at|1373573_at	rgd_symbol|Pp3111|Pp3111
+affy_rae230_2|1380284_at|1380284_at
+affy_rae230_2|1371908_at|1371908_at	rgd_symbol|Nxt1_predicted|Nxt1_predicted
+affy_rae230_2|1391205_at|1391205_at
+affy_rae230_2|1376816_at|1376816_at
+affy_rae230_2|1373670_at|1373670_at	rgd_symbol|Stat2|Stat2
+affy_rae230_2|1367508_at|1367508_at	rgd_symbol|RGD1565784_predicted|RGD1565784_predicted
+affy_rae230_2|1367927_at|1367927_at	rgd_symbol|Phb|Phb
+affy_rae230_2|1390704_at|1390704_at	rgd_symbol|Sdad1|Sdad1
+affy_rae230_2|1372951_at|1372951_at
+affy_rae230_2|1370803_at|1370803_at	rgd_symbol|Zwint|Zwint
+affy_rae230_2|1378238_at|1378238_at	rgd_symbol|Apc1_predicted|Apc1_predicted
+affy_rae230_2|1370183_at|1370183_at	rgd_symbol|Dyrk1a|Dyrk1a
+affy_rae230_2|1377454_at|1377454_at	rgd_symbol|Zbtb9|Zbtb9
+affy_rae230_2|1367507_at|1367507_at	rgd_symbol|Nudt22|Nudt22
+affy_rae230_2|1372196_at|1372196_at	rgd_symbol|Ncor2_predicted|Ncor2_predicted
+affy_rae230_2|1389110_at|1389110_at
+affy_rae230_2|1375948_at|1375948_at	rgd_symbol|Alkbh5_predicted|Alkbh5_predicted
+affy_rae230_2|1372591_at|1372591_at	rgd_symbol|Tmem11_predicted|Tmem11_predicted
+affy_rae230_2|1373803_a_at|1373803_a_at	rgd_symbol|Ghr|Ghr
+affy_rae230_2|1372185_at|1372185_at	rgd_symbol|RGD1306582|RGD1306582
+affy_rae230_2|1382235_at|1382235_at	rgd_symbol|RGD1306809_predicted|RGD1306809_predicted
+affy_rae230_2|1384219_at|1384219_at
+affy_rae230_2|1389497_at|1389497_at
+affy_rae230_2|1390113_a_at|1390113_a_at	rgd_symbol|Larp1_predicted|Larp1_predicted
+affy_rae230_2|1373687_at|1373687_at	rgd_symbol|Rutbc3|Rutbc3
+affy_rae230_2|1392746_x_at|1392746_x_at	rgd_symbol|Larp1_predicted|Larp1_predicted
+affy_rae230_2|1368330_at|1368330_at	rgd_symbol|Aatf|Aatf
+affy_rae230_2|1376015_at|1376015_at	rgd_symbol|Jph1_predicted|Jph1_predicted
+affy_rae230_2|1367750_at|1367750_at	rgd_symbol|Prpsap1|Prpsap1
+affy_rae230_2|1383752_at|1383752_at	rgd_symbol|Nol1_predicted|Nol1_predicted
+affy_rae230_2|1398602_at|1398602_at	rgd_symbol|Mad2l1_predicted|Mad2l1_predicted
+affy_rae230_2|1378296_at|1378296_at
+affy_rae230_2|1379778_at|1379778_at	rgd_symbol|RGD1307983_predicted|RGD1307983_predicted
+affy_rae230_2|1372839_at|1372839_at	rgd_symbol|Mrps35_predicted|Mrps35_predicted
+affy_rae230_2|1392464_at|1392464_at	rgd_symbol|Rae1|Rae1
+affy_rae230_2|1398252_at|1398252_at	rgd_symbol|Mecr|Mecr
+affy_rae230_2|1374940_at|1374940_at
+affy_rae230_2|1386435_at|1386435_at	rgd_symbol|Tcfap4_predicted|Tcfap4_predicted
+affy_rae230_2|1389121_at|1389121_at
+affy_rae230_2|1396274_at|1396274_at
+affy_rae230_2|1391626_at|1391626_at	rgd_symbol|RGD1309007_predicted|RGD1309007_predicted
+affy_rae230_2|1393470_at|1393470_at
+affy_rae230_2|1381143_at|1381143_at	rgd_symbol|RGD1560909_predicted|RGD1560909_predicted
+affy_rae230_2|1379669_at|1379669_at
+affy_rae230_2|1380937_at|1380937_at
+affy_rae230_2|1372861_at|1372861_at	rgd_symbol|Pip5k1c|Pip5k1c
+affy_rae230_2|1388552_at|1388552_at	rgd_symbol|Smpd1|Smpd1
+affy_rae230_2|1389447_at|1389447_at	rgd_symbol|RGD1311848_predicted|RGD1311848_predicted
+affy_rae230_2|1370561_at|1370561_at	rgd_symbol|A3galt2|A3galt2
+affy_rae230_2|1393062_at|1393062_at
+affy_rae230_2|1382799_at|1382799_at
+affy_rae230_2|1379300_at|1379300_at	rgd_symbol|Chst2_predicted|Chst2_predicted
+affy_rae230_2|1396539_at|1396539_at	rgd_symbol|Actn1|Actn1
+affy_rae230_2|1367967_at|1367967_at	rgd_symbol|Lepre1|Lepre1
+affy_rae230_2|1373643_at|1373643_at
+affy_rae230_2|1383731_at|1383731_at	rgd_symbol|Tmem106b|Tmem106b
+affy_rae230_2|1397164_at|1397164_at
+affy_rae230_2|1378198_at|1378198_at
+affy_rae230_2|1394712_at|1394712_at	rgd_symbol|Mtus1|Mtus1
+affy_rae230_2|1374766_at|1374766_at	rgd_symbol|RGD1564703_predicted|RGD1564703_predicted
+affy_rae230_2|1383573_at|1383573_at	rgd_symbol|Sdccag33_predicted|Sdccag33_predicted
+affy_rae230_2|1374159_at|1374159_at
+affy_rae230_2|1369632_a_at|1369632_a_at	rgd_symbol|Abcc8|Abcc8
+affy_rae230_2|1373234_at|1373234_at
+affy_rae230_2|1372349_at|1372349_at	rgd_symbol|RGD1562991_predicted|RGD1562991_predicted
+affy_rae230_2|1390339_at|1390339_at
+affy_rae230_2|1389282_at|1389282_at	rgd_symbol|Itga3_predicted|Itga3_predicted
+affy_rae230_2|1381857_at|1381857_at
+affy_rae230_2|1390607_at|1390607_at	rgd_symbol|Zdhhc23|Zdhhc23
+affy_rae230_2|1372658_at|1372658_at	rgd_symbol|Dmn|Dmn
+affy_rae230_2|1374422_at|1374422_at
+affy_rae230_2|1389952_at|1389952_at
+affy_rae230_2|1378610_at|1378610_at
+affy_rae230_2|1392480_at|1392480_at	rgd_symbol|Pabpn1|Pabpn1
+affy_rae230_2|1389617_at|1389617_at
+affy_rae230_2|1371991_at|1371991_at	rgd_symbol|RGD1311249|RGD1311249
+affy_rae230_2|1367861_at|1367861_at	rgd_symbol|Evl|Evl
+affy_rae230_2|1387039_at|1387039_at	rgd_symbol|Gpc1|Gpc1
+affy_rae230_2|1389284_at|1389284_at
+affy_rae230_2|1373199_at|1373199_at
+affy_rae230_2|1379129_at|1379129_at
+affy_rae230_2|1370392_at|1370392_at	rgd_symbol|Trpm4|Trpm4
+affy_rae230_2|1371056_at|1371056_at	rgd_symbol|Neo1|Neo1
+affy_rae230_2|1374275_at|1374275_at	rgd_symbol|Car11|Car11
+affy_rae230_2|1390648_at|1390648_at	rgd_symbol|Herc2_predicted|Herc2_predicted
+affy_rae230_2|1391304_at|1391304_at	rgd_symbol|RGD1561637_predicted|RGD1561637_predicted
+affy_rae230_2|1387042_at|1387042_at	rgd_symbol|Cacnb3|Cacnb3
+affy_rae230_2|1384107_at|1384107_at
+affy_rae230_2|1379487_at|1379487_at
+affy_rae230_2|1377992_at|1377992_at	rgd_symbol|Dusp7|Dusp7
+affy_rae230_2|1398296_at|1398296_at	rgd_symbol|Mir16|Mir16
+affy_rae230_2|1371531_at|1371531_at
+affy_rae230_2|1393695_at|1393695_at	rgd_symbol|Tdrd3|Tdrd3
+affy_rae230_2|1379719_at|1379719_at
+affy_rae230_2|1394761_at|1394761_at	rgd_symbol|RGD1563133_predicted|RGD1563133_predicted
+affy_rae230_2|1387199_a_at|1387199_a_at	rgd_symbol|Arhgef9|Arhgef9
+affy_rae230_2|1388038_at|1388038_at	rgd_symbol|Atrn|Atrn
+affy_rae230_2|1373291_at|1373291_at
+affy_rae230_2|1384127_at|1384127_at	rgd_symbol|Cebpa|Cebpa
+affy_rae230_2|1389637_at|1389637_at	rgd_symbol|RGD1309338_predicted|RGD1309338_predicted
+affy_rae230_2|1371692_at|1371692_at	rgd_symbol|Mllt11|Mllt11
+affy_rae230_2|1394001_at|1394001_at
+affy_rae230_2|1384053_at|1384053_at	rgd_symbol|Ube4a|Ube4a
+affy_rae230_2|1388506_at|1388506_at	rgd_symbol|Dsp|Dsp
+affy_rae230_2|1371108_a_at|1371108_a_at	rgd_symbol|Atp1a1|Atp1a1
+affy_rae230_2|1367646_at|1367646_at	rgd_symbol|Ctsb|Ctsb
+affy_rae230_2|1393380_at|1393380_at
+affy_rae230_2|1372199_at|1372199_at	rgd_symbol|Pink1_predicted|Pink1_predicted
+affy_rae230_2|1380459_at|1380459_at	rgd_symbol|Btbd14a|Btbd14a
+affy_rae230_2|1368246_at|1368246_at	rgd_symbol|Ap3m2|Ap3m2
+affy_rae230_2|1390204_at|1390204_at
+affy_rae230_2|1377180_at|1377180_at
+affy_rae230_2|1374085_at|1374085_at	rgd_symbol|Mxd4_predicted|Mxd4_predicted
+affy_rae230_2|1389003_at|1389003_at
+affy_rae230_2|1373666_at|1373666_at	rgd_symbol|Rapgef5|Rapgef5
+affy_rae230_2|1374747_at|1374747_at	rgd_symbol|Pftk1_predicted|Pftk1_predicted
+affy_rae230_2|1375971_at|1375971_at
+affy_rae230_2|1396090_at|1396090_at
+affy_rae230_2|1374795_at|1374795_at	rgd_symbol|Trip12|Trip12
+affy_rae230_2|1393478_at|1393478_at
+affy_rae230_2|1370158_at|1370158_at	rgd_symbol|Myh10|Myh10
+affy_rae230_2|1377884_at|1377884_at
+affy_rae230_2|1383362_at|1383362_at
+affy_rae230_2|1378556_at|1378556_at
+affy_rae230_2|1377916_at|1377916_at	rgd_symbol|Slfn2_predicted|Slfn2_predicted
+affy_rae230_2|1397698_at|1397698_at
+affy_rae230_2|1380395_at|1380395_at
+affy_rae230_2|1387420_at|1387420_at	rgd_symbol|Clic4|Clic4
+affy_rae230_2|1390987_at|1390987_at	rgd_symbol|RGD1565283_predicted|RGD1565283_predicted
+affy_rae230_2|1371173_a_at|1371173_a_at	rgd_symbol|Cast|Cast
+affy_rae230_2|1378515_at|1378515_at	rgd_symbol|Pgrmc1|Pgrmc1
+affy_rae230_2|1379623_at|1379623_at	rgd_symbol|RGD1309482 /// LOC499351|RGD1309482 /// LOC499351
+affy_rae230_2|1371894_at|1371894_at	rgd_symbol|Gns|Gns
+affy_rae230_2|1389199_at|1389199_at	rgd_symbol|RGD1309079|RGD1309079
+affy_rae230_2|1368883_at|1368883_at	rgd_symbol|Nov|Nov
+affy_rae230_2|1376262_at|1376262_at	rgd_symbol|Uxs1|Uxs1
+affy_rae230_2|1370390_at|1370390_at	rgd_symbol|Coro6|Coro6
+affy_rae230_2|1385899_at|1385899_at
+affy_rae230_2|1385317_s_at|1385317_s_at
+affy_rae230_2|1370448_at|1370448_at	rgd_symbol|Gpc2|Gpc2
+affy_rae230_2|1383311_at|1383311_at	rgd_symbol|RGD1308111_predicted|RGD1308111_predicted
+affy_rae230_2|1368778_at|1368778_at	rgd_symbol|Slc6a6|Slc6a6
+affy_rae230_2|1367802_at|1367802_at	rgd_symbol|Sgk|Sgk
+affy_rae230_2|1385360_at|1385360_at
+affy_rae230_2|1375350_at|1375350_at
+affy_rae230_2|1374265_at|1374265_at
+affy_rae230_2|1378680_at|1378680_at
+affy_rae230_2|1367850_at|1367850_at	rgd_symbol|LOC498276|LOC498276
+affy_rae230_2|1369285_at|1369285_at	rgd_symbol|Pggt1b|Pggt1b
+affy_rae230_2|1386946_at|1386946_at	rgd_symbol|Cpt1a|Cpt1a
+affy_rae230_2|1386102_at|1386102_at
+affy_rae230_2|1398311_a_at|1398311_a_at	rgd_symbol|Kidins220|Kidins220
+affy_rae230_2|1398435_at|1398435_at	rgd_symbol|Slc22a15_predicted|Slc22a15_predicted
+affy_rae230_2|1397375_at|1397375_at
+affy_rae230_2|1368834_at|1368834_at	rgd_symbol|Camk2d|Camk2d
+affy_rae230_2|1368953_at|1368953_at	rgd_symbol|Ugcgl1|Ugcgl1
+affy_rae230_2|1398994_at|1398994_at	rgd_symbol|Tpst2|Tpst2
+affy_rae230_2|1375723_at|1375723_at
+affy_rae230_2|1382943_at|1382943_at	rgd_symbol|Pcdhgc3 /// Pcdhga9 /// Pcdhga11 /// Pcdhga7 /// Pcdhga5 /// Pcdhga8 /// Pcdhgb7 /// Pcdhgb5 /// Pcdhga2 /// Pcdhga3 /// Pcdhga10 /// Pcdhga12 /// Pcdhga1|Pcdhgc3 /// Pcdhga9 /// Pcdhga11 /// Pcdhga7 /// Pcdhga5 /// Pcdhga8 /// Pcdhgb7 /// Pcdhgb5 /// Pcdhga2 /// Pcdhga3 /// Pcdhga10 /// Pcdhga12 /// Pcdhga1
+affy_rae230_2|1386934_at|1386934_at	rgd_symbol|Slc6a8|Slc6a8
+affy_rae230_2|1371875_at|1371875_at	rgd_symbol|Manba|Manba
+affy_rae230_2|1380138_at|1380138_at
+affy_rae230_2|1388121_at|1388121_at	rgd_symbol|Aplp2|Aplp2
+affy_rae230_2|1367880_at|1367880_at	rgd_symbol|Lamb2|Lamb2
+affy_rae230_2|1389100_at|1389100_at	rgd_symbol|Epm2aip1_predicted|Epm2aip1_predicted
+affy_rae230_2|1375027_at|1375027_at	rgd_symbol|Ccpg1_predicted|Ccpg1_predicted
+affy_rae230_2|1398319_at|1398319_at
+affy_rae230_2|1384344_at|1384344_at	rgd_symbol|Fkbp7_predicted|Fkbp7_predicted
+affy_rae230_2|1378107_at|1378107_at
+affy_rae230_2|1385625_at|1385625_at	rgd_symbol|Efemp2|Efemp2
+affy_rae230_2|1390391_at|1390391_at
+affy_rae230_2|1393360_at|1393360_at
+affy_rae230_2|1384680_at|1384680_at
+affy_rae230_2|1372870_at|1372870_at	rgd_symbol|Kdelr3_predicted|Kdelr3_predicted
+affy_rae230_2|1370922_at|1370922_at	rgd_symbol|Ctxn|Ctxn
+affy_rae230_2|1382936_at|1382936_at
+affy_rae230_2|1398961_at|1398961_at	rgd_symbol|Pfn2|Pfn2
+affy_rae230_2|1386813_at|1386813_at
+affy_rae230_2|1391575_at|1391575_at
+affy_rae230_2|1379868_at|1379868_at	rgd_symbol|Pbxip1|Pbxip1
+affy_rae230_2|1381296_at|1381296_at
+affy_rae230_2|1370266_at|1370266_at
+affy_rae230_2|1373988_at|1373988_at	rgd_symbol|RGD1559481_predicted|RGD1559481_predicted
+affy_rae230_2|1388764_at|1388764_at
+affy_rae230_2|1387116_at|1387116_at	rgd_symbol|Djb9|Djb9
+affy_rae230_2|1395087_at|1395087_at	rgd_symbol|MGC94183|MGC94183
+affy_rae230_2|1387843_at|1387843_at	rgd_symbol|Fst|Fst
+affy_rae230_2|1383557_at|1383557_at
+affy_rae230_2|1371864_at|1371864_at
+affy_rae230_2|1384268_at|1384268_at
+affy_rae230_2|1389395_at|1389395_at
+affy_rae230_2|1371322_at|1371322_at	rgd_symbol|Lamc1|Lamc1
+affy_rae230_2|1390781_at|1390781_at	rgd_symbol|Abcb10|Abcb10
+affy_rae230_2|1384335_at|1384335_at	rgd_symbol|Bcl9l_predicted|Bcl9l_predicted
+affy_rae230_2|1387351_at|1387351_at	rgd_symbol|Fbn1|Fbn1
+affy_rae230_2|1372907_at|1372907_at	rgd_symbol|Atp6v0e2|Atp6v0e2
+affy_rae230_2|1390021_at|1390021_at	rgd_symbol|Hist1h2bh|Hist1h2bh
+affy_rae230_2|1375420_at|1375420_at	rgd_symbol|Tp53i11_predicted|Tp53i11_predicted
+affy_rae230_2|1370916_at|1370916_at	rgd_symbol|Tec|Tec
+affy_rae230_2|1385851_at|1385851_at
+affy_rae230_2|1374172_at|1374172_at
+affy_rae230_2|1384360_at|1384360_at
+affy_rae230_2|1376706_at|1376706_at
+affy_rae230_2|1398892_at|1398892_at	rgd_symbol|Npc2|Npc2
+affy_rae230_2|1394569_at|1394569_at
+affy_rae230_2|1395166_at|1395166_at	rgd_symbol|Ehd2|Ehd2
+affy_rae230_2|1380728_at|1380728_at	rgd_symbol|Dpysl2|Dpysl2
+affy_rae230_2|1389613_at|1389613_at
+affy_rae230_2|1397786_at|1397786_at	rgd_symbol|LOC499076|LOC499076
+affy_rae230_2|1388688_at|1388688_at
+affy_rae230_2|1371575_at|1371575_at
+affy_rae230_2|1370216_at|1370216_at	rgd_symbol|Ddr1|Ddr1
+affy_rae230_2|1367765_at|1367765_at	rgd_symbol|Tcn2|Tcn2
+affy_rae230_2|1389374_at|1389374_at	rgd_symbol|Kifc3|Kifc3
+affy_rae230_2|1382444_at|1382444_at
+affy_rae230_2|1395433_at|1395433_at
+affy_rae230_2|1381780_at|1381780_at
+affy_rae230_2|1367946_at|1367946_at	rgd_symbol|Pdlim1|Pdlim1
+affy_rae230_2|1389780_at|1389780_at	rgd_symbol|Tfpi|Tfpi
+affy_rae230_2|1381817_at|1381817_at
+affy_rae230_2|1376027_at|1376027_at	rgd_symbol|RGD1305090_predicted|RGD1305090_predicted
+affy_rae230_2|1368404_at|1368404_at	rgd_symbol|Dbn1|Dbn1
+affy_rae230_2|1377736_at|1377736_at
+affy_rae230_2|1379885_at|1379885_at	rgd_symbol|Fmo4|Fmo4
+affy_rae230_2|1396213_at|1396213_at
+affy_rae230_2|1387883_a_at|1387883_a_at	rgd_symbol|Tmsb4x|Tmsb4x
+affy_rae230_2|1384420_at|1384420_at
+affy_rae230_2|1379217_at|1379217_at
+affy_rae230_2|1399113_at|1399113_at
+affy_rae230_2|1370037_at|1370037_at	rgd_symbol|Fbn2|Fbn2
+affy_rae230_2|1397681_at|1397681_at	rgd_symbol|RGD1305793|RGD1305793
+affy_rae230_2|1392285_at|1392285_at	rgd_symbol|Tmem58_predicted|Tmem58_predicted
+affy_rae230_2|1368162_at|1368162_at	rgd_symbol|Cst6|Cst6
+affy_rae230_2|1375497_at|1375497_at
+affy_rae230_2|1382813_at|1382813_at	rgd_symbol|RGD1310810|RGD1310810
+affy_rae230_2|1382309_at|1382309_at
+affy_rae230_2|1386968_at|1386968_at	rgd_symbol|Ppp1r1a|Ppp1r1a
+affy_rae230_2|1380804_at|1380804_at
+affy_rae230_2|1368858_at|1368858_at	rgd_symbol|Ugt8|Ugt8
+affy_rae230_2|1372107_at|1372107_at	rgd_symbol|Fhl1|Fhl1
+affy_rae230_2|1379651_at|1379651_at
+affy_rae230_2|1394654_at|1394654_at
+affy_rae230_2|1378394_at|1378394_at	rgd_symbol|Mppe1_predicted|Mppe1_predicted
+affy_rae230_2|1387028_a_at|1387028_a_at	rgd_symbol|Id1|Id1
+affy_rae230_2|1379866_at|1379866_at	rgd_symbol|Sept6_predicted|Sept6_predicted
+affy_rae230_2|1393418_at|1393418_at	rgd_symbol|Tmod2|Tmod2
+affy_rae230_2|1384471_at|1384471_at	rgd_symbol|Ap1gbp1|Ap1gbp1
+affy_rae230_2|1368574_at|1368574_at	rgd_symbol|Adra1b|Adra1b
+affy_rae230_2|1384521_at|1384521_at
+affy_rae230_2|1388447_at|1388447_at
+affy_rae230_2|1374939_at|1374939_at
+affy_rae230_2|1377781_at|1377781_at
+affy_rae230_2|1372779_at|1372779_at
+affy_rae230_2|1375538_at|1375538_at
+affy_rae230_2|1392786_at|1392786_at
+affy_rae230_2|1389701_at|1389701_at	rgd_symbol|Pgr|Pgr
+affy_rae230_2|1389779_at|1389779_at	rgd_symbol|Sh2d4a|Sh2d4a
+affy_rae230_2|1375751_at|1375751_at
+affy_rae230_2|1388828_at|1388828_at	rgd_symbol|Sidt2_predicted|Sidt2_predicted
+affy_rae230_2|1385366_at|1385366_at
+affy_rae230_2|1393910_at|1393910_at	rgd_symbol|RGD1309807|RGD1309807
+affy_rae230_2|1383135_at|1383135_at	rgd_symbol|Ntrk2|Ntrk2
+affy_rae230_2|1392623_at|1392623_at
+affy_rae230_2|1393866_at|1393866_at	rgd_symbol|LOC500592|LOC500592
+affy_rae230_2|1389873_at|1389873_at	rgd_symbol|Pycard|Pycard
+affy_rae230_2|1369654_at|1369654_at	rgd_symbol|Prkaa2|Prkaa2
+affy_rae230_2|1395770_at|1395770_at
+affy_rae230_2|1388698_at|1388698_at	rgd_symbol|Ecm1|Ecm1
+affy_rae230_2|1372261_at|1372261_at
+affy_rae230_2|1394449_at|1394449_at
+affy_rae230_2|1397851_at|1397851_at	rgd_symbol|Qki|Qki
+affy_rae230_2|1383242_a_at|1383242_a_at
+affy_rae230_2|1379736_at|1379736_at	rgd_symbol|Slc43a2_predicted|Slc43a2_predicted
+affy_rae230_2|1398246_s_at|1398246_s_at	rgd_symbol|Fcgr3 /// LOC498276|Fcgr3 /// LOC498276
+affy_rae230_2|1379356_at|1379356_at	rgd_symbol|RGD1310037_predicted|RGD1310037_predicted
+affy_rae230_2|1379416_at|1379416_at
+affy_rae230_2|1387318_at|1387318_at	rgd_symbol|Kcnmb4|Kcnmb4
+affy_rae230_2|1369670_at|1369670_at	rgd_symbol|Cd200|Cd200
+affy_rae230_2|1367654_at|1367654_at	rgd_symbol|Fath|Fath
+affy_rae230_2|1383553_at|1383553_at	rgd_symbol|RGD1311293|RGD1311293
+affy_rae230_2|1376127_at|1376127_at
+affy_rae230_2|1372294_at|1372294_at	rgd_symbol|Perc64|Perc64
+affy_rae230_2|1369958_at|1369958_at	rgd_symbol|Rhob|Rhob
+affy_rae230_2|1376013_at|1376013_at	rgd_symbol|RGD1565985_predicted|RGD1565985_predicted
+affy_rae230_2|1383702_at|1383702_at
+affy_rae230_2|1379252_at|1379252_at
+affy_rae230_2|1368908_at|1368908_at	rgd_symbol|Anxa4|Anxa4
+affy_rae230_2|1395347_at|1395347_at	rgd_symbol|Arsa|Arsa
+affy_rae230_2|1382063_at|1382063_at	rgd_symbol|Gla_mapped|Gla_mapped
+affy_rae230_2|1378156_at|1378156_at
+affy_rae230_2|1368399_a_at|1368399_a_at	rgd_symbol|Pgcp|Pgcp
+affy_rae230_2|1377650_at|1377650_at
+affy_rae230_2|1397596_at|1397596_at
+affy_rae230_2|1370962_at|1370962_at	rgd_symbol|Cipar1|Cipar1
+affy_rae230_2|1398555_at|1398555_at
+affy_rae230_2|1398698_at|1398698_at	rgd_symbol|Clpx|Clpx
+affy_rae230_2|1376911_at|1376911_at
+affy_rae230_2|1398398_at|1398398_at	rgd_symbol|RGD1564605_predicted|RGD1564605_predicted
+affy_rae230_2|1379274_at|1379274_at
+affy_rae230_2|1389998_at|1389998_at	rgd_symbol|Nr2f2|Nr2f2
+affy_rae230_2|1389748_at|1389748_at
+affy_rae230_2|1388738_at|1388738_at
+affy_rae230_2|1398866_at|1398866_at	rgd_symbol|Magi3|Magi3
+affy_rae230_2|1370929_at|1370929_at	rgd_symbol|Lrpap1|Lrpap1
+affy_rae230_2|1372947_at|1372947_at	rgd_symbol|Pls3|Pls3
+affy_rae230_2|1376755_at|1376755_at	rgd_symbol|Rarb|Rarb
+affy_rae230_2|1372297_at|1372297_at	rgd_symbol|Gsta4|Gsta4
+affy_rae230_2|1372365_at|1372365_at	rgd_symbol|Rin2_predicted|Rin2_predicted
+affy_rae230_2|1388705_at|1388705_at	rgd_symbol|RGD1565037_predicted|RGD1565037_predicted
+affy_rae230_2|1372542_at|1372542_at	rgd_symbol|Qki|Qki
+affy_rae230_2|1367978_at|1367978_at	rgd_symbol|Adcy2|Adcy2
+affy_rae230_2|1379611_at|1379611_at	rgd_symbol|Spsb1_predicted|Spsb1_predicted
+affy_rae230_2|1394277_at|1394277_at
+affy_rae230_2|1391444_at|1391444_at	rgd_symbol|RGD1564156_predicted|RGD1564156_predicted
+affy_rae230_2|1380741_at|1380741_at
+affy_rae230_2|1395994_at|1395994_at
+affy_rae230_2|1374770_at|1374770_at	rgd_symbol|Asah1|Asah1
+affy_rae230_2|1375714_at|1375714_at	rgd_symbol|RGD1562952_predicted|RGD1562952_predicted
+affy_rae230_2|1378063_at|1378063_at
+affy_rae230_2|1389809_at|1389809_at
+affy_rae230_2|1384126_a_at|1384126_a_at	rgd_symbol|Cebpa|Cebpa
+affy_rae230_2|1376569_at|1376569_at	rgd_symbol|Klf2_predicted|Klf2_predicted
+affy_rae230_2|1369310_at|1369310_at	rgd_symbol|Basp1|Basp1
+affy_rae230_2|1369977_at|1369977_at	rgd_symbol|Uchl1|Uchl1
+affy_rae230_2|1373309_at|1373309_at
+affy_rae230_2|1368838_at|1368838_at	rgd_symbol|Tpm4|Tpm4
+affy_rae230_2|1392995_at|1392995_at
+affy_rae230_2|1393585_at|1393585_at
+affy_rae230_2|1383193_at|1383193_at
+affy_rae230_2|1374176_at|1374176_at	rgd_symbol|RGD1308059|RGD1308059
+affy_rae230_2|1383481_at|1383481_at	rgd_symbol|Auts2_predicted|Auts2_predicted
+affy_rae230_2|1388604_at|1388604_at
+affy_rae230_2|1379089_at|1379089_at
+affy_rae230_2|1373610_at|1373610_at
+affy_rae230_2|1375370_at|1375370_at
+affy_rae230_2|1368379_at|1368379_at	rgd_symbol|Scarb2|Scarb2
+affy_rae230_2|1374651_at|1374651_at	rgd_symbol|Dopey2_predicted|Dopey2_predicted
+affy_rae230_2|1389230_at|1389230_at
+affy_rae230_2|1373188_at|1373188_at	rgd_symbol|Scn4b|Scn4b
+affy_rae230_2|1397227_at|1397227_at	rgd_symbol|Tmem35|Tmem35
+affy_rae230_2|1375337_at|1375337_at	rgd_symbol|Adam9_predicted|Adam9_predicted
+affy_rae230_2|1376099_at|1376099_at	rgd_symbol|Col5a1|Col5a1
+affy_rae230_2|1392949_at|1392949_at
+affy_rae230_2|1385357_at|1385357_at	rgd_symbol|RGD1560311_predicted|RGD1560311_predicted
+affy_rae230_2|1398295_at|1398295_at	rgd_symbol|Slc29a1|Slc29a1
+affy_rae230_2|1377952_at|1377952_at	rgd_symbol|Adpgk|Adpgk
+affy_rae230_2|1384364_at|1384364_at	rgd_symbol|Fbxo4_predicted|Fbxo4_predicted
+affy_rae230_2|1369518_at|1369518_at	rgd_symbol|Pik3r3|Pik3r3
+affy_rae230_2|1379112_at|1379112_at	rgd_symbol|Arid4a_predicted|Arid4a_predicted
+affy_rae230_2|1383129_at|1383129_at
+affy_rae230_2|1391630_at|1391630_at	rgd_symbol|Tbx18_predicted|Tbx18_predicted
+affy_rae230_2|1380365_at|1380365_at
+affy_rae230_2|1385881_at|1385881_at
+affy_rae230_2|1393246_at|1393246_at	rgd_symbol|Zmynd10|Zmynd10
+affy_rae230_2|1380470_x_at|1380470_x_at
+affy_rae230_2|1385164_at|1385164_at
+affy_rae230_2|1369941_at|1369941_at	rgd_symbol|Dap|Dap
+affy_rae230_2|1371627_at|1371627_at
+affy_rae230_2|1382017_at|1382017_at
+affy_rae230_2|1390306_at|1390306_at
+affy_rae230_2|1375855_at|1375855_at	rgd_symbol|Epdr2|Epdr2
+affy_rae230_2|1388500_at|1388500_at	rgd_symbol|Itpkb|Itpkb
+affy_rae230_2|1370452_at|1370452_at	rgd_symbol|Cac1c|Cac1c
+affy_rae230_2|1380312_at|1380312_at	rgd_symbol|RGD1309718|RGD1309718
+affy_rae230_2|1389307_at|1389307_at	rgd_symbol|RGD1561211_predicted|RGD1561211_predicted
+affy_rae230_2|1388836_at|1388836_at	rgd_symbol|Prkch|Prkch
+affy_rae230_2|1392670_at|1392670_at	rgd_symbol|RGD1559427_predicted|RGD1559427_predicted
+affy_rae230_2|1392476_at|1392476_at	rgd_symbol|RGD1562378_predicted /// RGD1565073_predicted|RGD1562378_predicted /// RGD1565073_predicted
+affy_rae230_2|1367691_at|1367691_at	rgd_symbol|Prkcdbp|Prkcdbp
+affy_rae230_2|1389256_at|1389256_at
+affy_rae230_2|1371703_at|1371703_at	rgd_symbol|Ahk|Ahk
+affy_rae230_2|1367584_at|1367584_at	rgd_symbol|Anxa2|Anxa2
+affy_rae230_2|1386805_at|1386805_at
+affy_rae230_2|1375473_at|1375473_at
+affy_rae230_2|1383733_at|1383733_at
+affy_rae230_2|1390119_at|1390119_at	rgd_symbol|Sfrp2|Sfrp2
+affy_rae230_2|1367882_at|1367882_at	rgd_symbol|Mtap1a|Mtap1a
+affy_rae230_2|1377654_at|1377654_at	rgd_symbol|RGD1562076_predicted|RGD1562076_predicted
+affy_rae230_2|1372905_at|1372905_at
+affy_rae230_2|1396964_at|1396964_at
+affy_rae230_2|1384242_at|1384242_at
+affy_rae230_2|1390536_at|1390536_at
+affy_rae230_2|1382381_at|1382381_at
+affy_rae230_2|1391284_at|1391284_at
+affy_rae230_2|1395964_at|1395964_at
+affy_rae230_2|1370142_at|1370142_at	rgd_symbol|Pem|Pem
+affy_rae230_2|1391171_at|1391171_at	rgd_symbol|Itm2b|Itm2b
+affy_rae230_2|1382682_at|1382682_at	rgd_symbol|RGD1311435|RGD1311435
+affy_rae230_2|1390585_at|1390585_at	rgd_symbol|Masp1|Masp1
+affy_rae230_2|1372606_at|1372606_at	rgd_symbol|RGD1561394_predicted|RGD1561394_predicted
+affy_rae230_2|1370907_at|1370907_at	rgd_symbol|St6gal1|St6gal1
+affy_rae230_2|1375817_at|1375817_at
+affy_rae230_2|1367919_at|1367919_at	rgd_symbol|Pom210|Pom210
+affy_rae230_2|1387907_at|1387907_at	rgd_symbol|Itpr1|Itpr1
+affy_rae230_2|1377469_at|1377469_at
+affy_rae230_2|1373952_at|1373952_at	rgd_symbol|Prkag2|Prkag2
+affy_rae230_2|1378666_at|1378666_at	rgd_symbol|Arhgap21_predicted|Arhgap21_predicted
+affy_rae230_2|1395586_at|1395586_at
+affy_rae230_2|1367744_at|1367744_at	rgd_symbol|Maged2|Maged2
+affy_rae230_2|1370000_at|1370000_at	rgd_symbol|Nucb2|Nucb2
+affy_rae230_2|1373985_at|1373985_at	rgd_symbol|RGD1560435_predicted|RGD1560435_predicted
+affy_rae230_2|1378057_at|1378057_at	rgd_symbol|Flrt3_predicted|Flrt3_predicted
+affy_rae230_2|1373258_at|1373258_at	rgd_symbol|Ctsf|Ctsf
+affy_rae230_2|1369929_at|1369929_at	rgd_symbol|Psap|Psap
+affy_rae230_2|1370642_s_at|1370642_s_at	rgd_symbol|Pdgfrb|Pdgfrb
+affy_rae230_2|1377311_at|1377311_at	rgd_symbol|RGD1564797_predicted|RGD1564797_predicted
+affy_rae230_2|1375843_at|1375843_at
+affy_rae230_2|1377556_at|1377556_at
+affy_rae230_2|1394459_at|1394459_at
+affy_rae230_2|1385016_at|1385016_at
+affy_rae230_2|1390638_at|1390638_at
+affy_rae230_2|1369736_at|1369736_at	rgd_symbol|Emp1|Emp1
+affy_rae230_2|1382848_at|1382848_at	rgd_symbol|Foxa1|Foxa1
+affy_rae230_2|1380226_at|1380226_at	rgd_symbol|RGD1563203_predicted|RGD1563203_predicted
+affy_rae230_2|1373210_at|1373210_at	rgd_symbol|Lamb1_predicted|Lamb1_predicted
+affy_rae230_2|1392963_at|1392963_at	rgd_symbol|Scrn1|Scrn1
+affy_rae230_2|1390326_at|1390326_at	rgd_symbol|Ang1|Ang1
+affy_rae230_2|1378414_at|1378414_at	rgd_symbol|RGD1565536_predicted|RGD1565536_predicted
+affy_rae230_2|1375708_at|1375708_at
+affy_rae230_2|1398445_at|1398445_at
+affy_rae230_2|1370209_at|1370209_at	rgd_symbol|Klf9|Klf9
+affy_rae230_2|1377427_at|1377427_at	rgd_symbol|Ptpn14_predicted|Ptpn14_predicted
+affy_rae230_2|1388161_at|1388161_at	rgd_symbol|Adam10|Adam10
+affy_rae230_2|1376503_a_at|1376503_a_at	rgd_symbol|Rbm7_predicted|Rbm7_predicted
+affy_rae230_2|1367873_at|1367873_at	rgd_symbol|Atp6ap1|Atp6ap1
+affy_rae230_2|1392536_at|1392536_at
+affy_rae230_2|1373011_at|1373011_at	rgd_symbol|LOC619558|LOC619558
+affy_rae230_2|1376843_at|1376843_at	rgd_symbol|Bmpr2|Bmpr2
+affy_rae230_2|1382013_at|1382013_at	rgd_symbol|Rbm24_predicted|Rbm24_predicted
+affy_rae230_2|1392534_at|1392534_at	rgd_symbol|Tmepai_predicted|Tmepai_predicted
+affy_rae230_2|1376771_at|1376771_at
+affy_rae230_2|1390825_at|1390825_at	rgd_symbol|Slc35b3_predicted|Slc35b3_predicted
+affy_rae230_2|1378009_at|1378009_at
+affy_rae230_2|1388903_at|1388903_at	rgd_symbol|Tcte1l /// RGD1566162_predicted|Tcte1l /// RGD1566162_predicted
+affy_rae230_2|1369218_at|1369218_at	rgd_symbol|Met|Met
+affy_rae230_2|1386080_at|1386080_at	rgd_symbol|Hey1|Hey1
+affy_rae230_2|1371081_at|1371081_at	rgd_symbol|Rapgef4|Rapgef4
+affy_rae230_2|1369157_at|1369157_at	rgd_symbol|Pde3b|Pde3b
+affy_rae230_2|1381645_at|1381645_at	rgd_symbol|RGD1311196|RGD1311196
+affy_rae230_2|1378890_at|1378890_at
+affy_rae230_2|1373841_at|1373841_at
+affy_rae230_2|1374625_at|1374625_at	rgd_symbol|Hes6|Hes6
+affy_rae230_2|1370993_at|1370993_at	rgd_symbol|Lamc1|Lamc1
+affy_rae230_2|1387346_at|1387346_at	rgd_symbol|Itgb1|Itgb1
+affy_rae230_2|1378241_at|1378241_at
+affy_rae230_2|1398460_at|1398460_at	rgd_symbol|RGD1311723_predicted|RGD1311723_predicted
+affy_rae230_2|1389048_at|1389048_at	rgd_symbol|Bmp1|Bmp1
+affy_rae230_2|1389185_at|1389185_at
+affy_rae230_2|1384609_a_at|1384609_a_at	rgd_symbol|RGD1311456_predicted|RGD1311456_predicted
+affy_rae230_2|1375230_at|1375230_at	rgd_symbol|t8|t8
+affy_rae230_2|1387135_at|1387135_at	rgd_symbol|Adam15|Adam15
+affy_rae230_2|1372398_at|1372398_at	rgd_symbol|LOC499129|LOC499129
+affy_rae230_2|1381533_at|1381533_at	rgd_symbol|Rnd1|Rnd1
+affy_rae230_2|1392863_at|1392863_at
+affy_rae230_2|1374477_at|1374477_at	rgd_symbol|Prrx2_predicted|Prrx2_predicted
+affy_rae230_2|1382303_at|1382303_at	rgd_symbol|Phactr1|Phactr1
+affy_rae230_2|1374307_at|1374307_at
+affy_rae230_2|1368827_at|1368827_at	rgd_symbol|Gata6|Gata6
+affy_rae230_2|1370282_at|1370282_at	rgd_symbol|Csrp2|Csrp2
+affy_rae230_2|1376657_at|1376657_at	rgd_symbol|Igsf4a|Igsf4a
+affy_rae230_2|1384301_at|1384301_at	rgd_symbol|RGD1565218_predicted|RGD1565218_predicted
+affy_rae230_2|1391827_at|1391827_at	rgd_symbol|Flnb_predicted|Flnb_predicted
+affy_rae230_2|1372069_at|1372069_at	rgd_symbol|Ankrd15|Ankrd15
+affy_rae230_2|1385706_at|1385706_at
+affy_rae230_2|1379693_at|1379693_at	rgd_symbol|Robo2|Robo2
+affy_rae230_2|1377359_at|1377359_at	rgd_symbol|LOC501665|LOC501665
+affy_rae230_2|1374089_at|1374089_at
+affy_rae230_2|1389651_at|1389651_at	rgd_symbol|Apln|Apln
+affy_rae230_2|1370055_at|1370055_at	rgd_symbol|Rab3d|Rab3d
+affy_rae230_2|1384724_at|1384724_at
+affy_rae230_2|1384112_at|1384112_at	rgd_symbol|Nt5e|Nt5e
+affy_rae230_2|1380981_at|1380981_at	rgd_symbol|Ston2_predicted|Ston2_predicted
+affy_rae230_2|1367576_at|1367576_at	rgd_symbol|Gpx1|Gpx1
+affy_rae230_2|1380471_at|1380471_at
+affy_rae230_2|1388672_at|1388672_at
+affy_rae230_2|1379578_at|1379578_at	rgd_symbol|Zbtb20_predicted|Zbtb20_predicted
+affy_rae230_2|1376878_at|1376878_at	rgd_symbol|RGD1559896_predicted|RGD1559896_predicted
+affy_rae230_2|1377653_at|1377653_at	rgd_symbol|LOC366669|LOC366669
+affy_rae230_2|1382647_at|1382647_at
+affy_rae230_2|1373165_at|1373165_at
+affy_rae230_2|1373826_at|1373826_at	rgd_symbol|Ypel5|Ypel5
+affy_rae230_2|1382660_at|1382660_at	rgd_symbol|RGD1563084_predicted|RGD1563084_predicted
+affy_rae230_2|1370331_at|1370331_at	rgd_symbol|Il11ra1|Il11ra1
+affy_rae230_2|1388926_at|1388926_at	rgd_symbol|Enpp5|Enpp5
+affy_rae230_2|1371194_at|1371194_at	rgd_symbol|Tnfaip6|Tnfaip6
+affy_rae230_2|1376102_at|1376102_at	rgd_symbol|Tmbim1|Tmbim1
+affy_rae230_2|1391154_at|1391154_at
+affy_rae230_2|1387134_at|1387134_at	rgd_symbol|Slfn3|Slfn3
+affy_rae230_2|1385668_at|1385668_at
+affy_rae230_2|1371325_at|1371325_at	rgd_symbol|Ppgb|Ppgb
+affy_rae230_2|1385875_at|1385875_at
+affy_rae230_2|1387502_at|1387502_at	rgd_symbol|Stk17b|Stk17b
+affy_rae230_2|1372629_at|1372629_at	rgd_symbol|LOC300768|LOC300768
+affy_rae230_2|1383085_at|1383085_at
+affy_rae230_2|1391763_at|1391763_at
+affy_rae230_2|1377879_at|1377879_at
+affy_rae230_2|1367602_at|1367602_at	rgd_symbol|Cited2|Cited2
+affy_rae230_2|1378128_at|1378128_at	rgd_symbol|Grhl1_predicted|Grhl1_predicted
+affy_rae230_2|1375073_at|1375073_at	rgd_symbol|RGD1563779_predicted|RGD1563779_predicted
+affy_rae230_2|1389151_at|1389151_at
+affy_rae230_2|1389500_at|1389500_at
+affy_rae230_2|1398397_at|1398397_at
+affy_rae230_2|1384692_at|1384692_at
+affy_rae230_2|1392842_at|1392842_at	rgd_symbol|Slfn5_predicted|Slfn5_predicted
+affy_rae230_2|1395313_s_at|1395313_s_at
+affy_rae230_2|1383895_at|1383895_at	rgd_symbol|Dynlrb2_predicted|Dynlrb2_predicted
+affy_rae230_2|1395294_at|1395294_at
+affy_rae230_2|1382171_at|1382171_at
+affy_rae230_2|1377934_at|1377934_at
+affy_rae230_2|1377523_at|1377523_at
+affy_rae230_2|1391684_at|1391684_at	rgd_symbol|Tmem14a_predicted|Tmem14a_predicted
+affy_rae230_2|1376619_at|1376619_at
+affy_rae230_2|1390943_at|1390943_at	rgd_symbol|RGD1359529|RGD1359529
+affy_rae230_2|1387493_at|1387493_at	rgd_symbol|Akap5|Akap5
+affy_rae230_2|1375320_at|1375320_at	rgd_symbol|RGD1311019_predicted|RGD1311019_predicted
+affy_rae230_2|1390298_at|1390298_at
+affy_rae230_2|1385074_at|1385074_at	rgd_symbol|Smarca2|Smarca2
+affy_rae230_2|1383169_at|1383169_at
+affy_rae230_2|1389867_at|1389867_at
+affy_rae230_2|1369313_at|1369313_at	rgd_symbol|Fhl2|Fhl2
+affy_rae230_2|1394594_at|1394594_at
+affy_rae230_2|1379720_at|1379720_at
+affy_rae230_2|1397897_x_at|1397897_x_at
+affy_rae230_2|1389803_at|1389803_at
+affy_rae230_2|1374870_at|1374870_at	rgd_symbol|Col27a1|Col27a1
+affy_rae230_2|1392935_at|1392935_at
+affy_rae230_2|1368259_at|1368259_at	rgd_symbol|Ptgs1|Ptgs1
+affy_rae230_2|1391290_at|1391290_at
+affy_rae230_2|1398759_at|1398759_at	rgd_symbol|Tgfb1i4|Tgfb1i4
+affy_rae230_2|1374542_at|1374542_at
+affy_rae230_2|1379141_at|1379141_at
+affy_rae230_2|1376362_at|1376362_at	rgd_symbol|Nptxr|Nptxr
+affy_rae230_2|1375463_at|1375463_at
+affy_rae230_2|1375961_at|1375961_at	rgd_symbol|Frzb|Frzb
+affy_rae230_2|1388427_at|1388427_at	rgd_symbol|1200013a08rik|1200013a08rik
+affy_rae230_2|1378477_a_at|1378477_a_at	rgd_symbol|LOC291964|LOC291964
+affy_rae230_2|1389618_at|1389618_at
+affy_rae230_2|1383542_at|1383542_at
+affy_rae230_2|1369044_a_at|1369044_a_at	rgd_symbol|Pde4b|Pde4b
+affy_rae230_2|1388152_at|1388152_at	rgd_symbol|Mtap2|Mtap2
+affy_rae230_2|1383404_at|1383404_at
+affy_rae230_2|1379055_x_at|1379055_x_at	rgd_symbol|RGD1565093_predicted /// RGD1561314_predicted /// LOC503301 /// LOC503405 /// LOC503410|RGD1565093_predicted /// RGD1561314_predicted /// LOC503301 /// LOC503405 /// LOC503410
+affy_rae230_2|1389728_at|1389728_at	rgd_symbol|Meis2_predicted|Meis2_predicted
+affy_rae230_2|1383486_at|1383486_at
+affy_rae230_2|1396160_at|1396160_at
+affy_rae230_2|1392587_at|1392587_at
+affy_rae230_2|1384163_at|1384163_at
+affy_rae230_2|1370802_at|1370802_at	rgd_symbol|RGD1563276_predicted|RGD1563276_predicted
+affy_rae230_2|1379022_at|1379022_at	rgd_symbol|Adamts8_predicted|Adamts8_predicted
+affy_rae230_2|1372483_at|1372483_at	rgd_symbol|Zfp469_predicted|Zfp469_predicted
+affy_rae230_2|1390878_at|1390878_at	rgd_symbol|Muc1|Muc1
+affy_rae230_2|1387982_at|1387982_at	rgd_symbol|Tlr4|Tlr4
+affy_rae230_2|1367651_at|1367651_at	rgd_symbol|Ctsd|Ctsd
+affy_rae230_2|1388618_at|1388618_at	rgd_symbol|Nid2|Nid2
+affy_rae230_2|1383501_at|1383501_at
+affy_rae230_2|1383780_at|1383780_at	rgd_symbol|RGD1561653_predicted|RGD1561653_predicted
+affy_rae230_2|1374933_at|1374933_at	rgd_symbol|Mcam|Mcam
+affy_rae230_2|1393860_at|1393860_at	rgd_symbol|Mical2_predicted|Mical2_predicted
+affy_rae230_2|1372476_at|1372476_at	rgd_symbol|Fads3|Fads3
+affy_rae230_2|1383401_at|1383401_at
+affy_rae230_2|1373049_at|1373049_at	rgd_symbol|RGD1562136_predicted|RGD1562136_predicted
+affy_rae230_2|1370847_at|1370847_at	rgd_symbol|Spon2|Spon2
+affy_rae230_2|1389546_at|1389546_at
+affy_rae230_2|1378086_at|1378086_at
+affy_rae230_2|1368187_at|1368187_at	rgd_symbol|Gpnmb|Gpnmb
+affy_rae230_2|1370570_at|1370570_at	rgd_symbol|Nrp1|Nrp1
+affy_rae230_2|1376040_at|1376040_at	rgd_symbol|Sipa1l2|Sipa1l2
+affy_rae230_2|1395757_at|1395757_at
+affy_rae230_2|1374404_at|1374404_at	rgd_symbol|Jun|Jun
+affy_rae230_2|1392246_at|1392246_at
+affy_rae230_2|1370925_at|1370925_at	rgd_symbol|LOC291411|LOC291411
+affy_rae230_2|1388874_at|1388874_at
+affy_rae230_2|1379390_at|1379390_at	rgd_symbol|St6galc2|St6galc2
+affy_rae230_2|1390885_at|1390885_at
+affy_rae230_2|1396035_at|1396035_at	rgd_symbol|RGD1559717_predicted|RGD1559717_predicted
+affy_rae230_2|1377442_at|1377442_at
+affy_rae230_2|1384824_at|1384824_at	rgd_symbol|Pcdh18_predicted|Pcdh18_predicted
+affy_rae230_2|1383398_at|1383398_at
+affy_rae230_2|1395359_at|1395359_at	rgd_symbol|Spnb2|Spnb2
+affy_rae230_2|1392525_at|1392525_at	rgd_symbol|Ptgfr|Ptgfr
+affy_rae230_2|1387074_at|1387074_at	rgd_symbol|Rgs2|Rgs2
+affy_rae230_2|1385752_at|1385752_at
+affy_rae230_2|1394473_at|1394473_at	rgd_symbol|Pctk2|Pctk2
+affy_rae230_2|1389568_at|1389568_at	rgd_symbol|RGD1308276|RGD1308276
+affy_rae230_2|1390240_at|1390240_at
+affy_rae230_2|1386208_at|1386208_at
+affy_rae230_2|1379358_at|1379358_at
+affy_rae230_2|1389894_at|1389894_at	rgd_symbol|Dlc1|Dlc1
+affy_rae230_2|1371412_a_at|1371412_a_at	rgd_symbol|Nrep|Nrep
+affy_rae230_2|1377751_at|1377751_at
+affy_rae230_2|1387793_at|1387793_at	rgd_symbol|Slc9a3r1|Slc9a3r1
+affy_rae230_2|1375862_at|1375862_at
+affy_rae230_2|1368463_at|1368463_at	rgd_symbol|Vegfc|Vegfc
+affy_rae230_2|1384769_a_at|1384769_a_at	rgd_symbol|RGD1563355_predicted /// RGD1563156_predicted|RGD1563355_predicted /// RGD1563156_predicted
+affy_rae230_2|1395527_at|1395527_at	rgd_symbol|LOC314655|LOC314655
+affy_rae230_2|1373578_at|1373578_at
+affy_rae230_2|1368873_at|1368873_at	rgd_symbol|Hoxa2|Hoxa2
+affy_rae230_2|1388762_at|1388762_at
+affy_rae230_2|1369866_at|1369866_at	rgd_symbol|LOC56825|LOC56825
+affy_rae230_2|1392341_at|1392341_at	rgd_symbol|Capns1|Capns1
+affy_rae230_2|1375729_at|1375729_at	rgd_symbol|RGD1560587_predicted|RGD1560587_predicted
+affy_rae230_2|1374325_at|1374325_at
+affy_rae230_2|1386773_at|1386773_at	rgd_symbol|Btd|Btd
+affy_rae230_2|1398412_at|1398412_at
+affy_rae230_2|1373644_at|1373644_at
+affy_rae230_2|1385361_at|1385361_at	rgd_symbol|Atp10a|Atp10a
+affy_rae230_2|1371607_at|1371607_at	rgd_symbol|LOC367171|LOC367171
+affy_rae230_2|1368771_at|1368771_at	rgd_symbol|Sulf1|Sulf1
+affy_rae230_2|1396325_at|1396325_at	rgd_symbol|RGD1309564|RGD1309564
+affy_rae230_2|1374705_at|1374705_at
+affy_rae230_2|1385841_at|1385841_at
+affy_rae230_2|1391095_at|1391095_at	rgd_symbol|Mmp19_predicted|Mmp19_predicted
+affy_rae230_2|1380533_at|1380533_at	rgd_symbol|App|App
+affy_rae230_2|1386012_at|1386012_at
+affy_rae230_2|1395073_at|1395073_at	rgd_symbol|Evi1_predicted|Evi1_predicted
+affy_rae230_2|1382453_at|1382453_at	rgd_symbol|RGD1561261_predicted|RGD1561261_predicted
+affy_rae230_2|1382842_at|1382842_at	rgd_symbol|Ccnh|Ccnh
+affy_rae230_2|1381986_at|1381986_at	rgd_symbol|Ipo9_predicted|Ipo9_predicted
+affy_rae230_2|1393368_at|1393368_at	rgd_symbol|Osbpl5|Osbpl5
+affy_rae230_2|1378316_at|1378316_at
+affy_rae230_2|1396109_at|1396109_at
+affy_rae230_2|1388527_at|1388527_at
+affy_rae230_2|1382987_at|1382987_at	rgd_symbol|RGD1307986_predicted|RGD1307986_predicted
+affy_rae230_2|1390467_at|1390467_at	rgd_symbol|RGD1562341_predicted|RGD1562341_predicted
+affy_rae230_2|1388185_at|1388185_at	rgd_symbol|Rb1|Rb1
+affy_rae230_2|1376848_at|1376848_at	rgd_symbol|Myo10_predicted|Myo10_predicted
+affy_rae230_2|1393901_at|1393901_at	rgd_symbol|Cbfa2t1_predicted|Cbfa2t1_predicted
+affy_rae230_2|1368490_at|1368490_at	rgd_symbol|Cd14|Cd14
+affy_rae230_2|1387008_at|1387008_at	rgd_symbol|Sfxn3|Sfxn3
+affy_rae230_2|1374496_at|1374496_at	rgd_symbol|RGD1310827|RGD1310827
+affy_rae230_2|1384904_at|1384904_at	rgd_symbol|Neto2_predicted|Neto2_predicted
+affy_rae230_2|1368983_at|1368983_at	rgd_symbol|Hbegf|Hbegf
+affy_rae230_2|1397778_at|1397778_at	rgd_symbol|Rqcd1|Rqcd1
+affy_rae230_2|1395197_at|1395197_at	rgd_symbol|Flt1|Flt1
+affy_rae230_2|1391286_at|1391286_at
+affy_rae230_2|1397944_at|1397944_at
+affy_rae230_2|1398380_at|1398380_at	rgd_symbol|Vwa1|Vwa1
+affy_rae230_2|1398598_at|1398598_at
+affy_rae230_2|1378965_at|1378965_at
+affy_rae230_2|1392971_at|1392971_at
+affy_rae230_2|1384285_at|1384285_at	rgd_symbol|3-Mar|3-Mar
+affy_rae230_2|1372760_at|1372760_at
+affy_rae230_2|1382054_at|1382054_at
+affy_rae230_2|1373504_at|1373504_at	rgd_symbol|Glipr1|Glipr1
+affy_rae230_2|1387061_at|1387061_at	rgd_symbol|Jup|Jup
+affy_rae230_2|1389918_at|1389918_at	rgd_symbol|LOC290704|LOC290704
+affy_rae230_2|1393719_at|1393719_at
+affy_rae230_2|1378003_at|1378003_at
+affy_rae230_2|1377011_at|1377011_at	rgd_symbol|RGD1307034_predicted|RGD1307034_predicted
+affy_rae230_2|1368656_at|1368656_at	rgd_symbol|Scg3|Scg3
+affy_rae230_2|1389601_at|1389601_at
+affy_rae230_2|1380245_at|1380245_at
+affy_rae230_2|1369679_a_at|1369679_a_at	rgd_symbol|Nfia|Nfia
+affy_rae230_2|1393571_at|1393571_at
+affy_rae230_2|1376109_at|1376109_at
+affy_rae230_2|1368725_at|1368725_at	rgd_symbol|Jag1|Jag1
+affy_rae230_2|1379934_at|1379934_at
+affy_rae230_2|1380477_at|1380477_at
+affy_rae230_2|1377706_x_at|1377706_x_at
+affy_rae230_2|1381605_at|1381605_at	rgd_symbol|Usp13_predicted|Usp13_predicted
+affy_rae230_2|1372426_at|1372426_at	rgd_symbol|Adamtsl4|Adamtsl4
+affy_rae230_2|1375672_at|1375672_at
+affy_rae230_2|1368703_at|1368703_at	rgd_symbol|Pdlim5|Pdlim5
+affy_rae230_2|1384425_at|1384425_at	rgd_symbol|LOC304131|LOC304131
+affy_rae230_2|1388955_at|1388955_at
+affy_rae230_2|1398406_at|1398406_at
+affy_rae230_2|1388804_at|1388804_at
+affy_rae230_2|1392928_at|1392928_at	rgd_symbol|RGD1305721_predicted|RGD1305721_predicted
+affy_rae230_2|1378248_at|1378248_at	rgd_symbol|RGD1562438_predicted|RGD1562438_predicted
+affy_rae230_2|1384591_at|1384591_at
+affy_rae230_2|1387226_at|1387226_at	rgd_symbol|Inexa|Inexa
+affy_rae230_2|1383284_at|1383284_at
+affy_rae230_2|1393171_at|1393171_at
+affy_rae230_2|1374543_at|1374543_at
+affy_rae230_2|1385506_at|1385506_at
+affy_rae230_2|1382211_at|1382211_at
+affy_rae230_2|1389146_at|1389146_at	rgd_symbol|LOC498796|LOC498796
+affy_rae230_2|1384000_at|1384000_at
+affy_rae230_2|1384799_at|1384799_at	rgd_symbol|RGD1561931_predicted|RGD1561931_predicted
+affy_rae230_2|1370488_a_at|1370488_a_at	rgd_symbol|Ptprd|Ptprd
+affy_rae230_2|1385274_at|1385274_at
+affy_rae230_2|1368540_at|1368540_at	rgd_symbol|Tpbg|Tpbg
+affy_rae230_2|1374574_at|1374574_at	rgd_symbol|RGD1310552_predicted|RGD1310552_predicted
+affy_rae230_2|1377702_at|1377702_at	rgd_symbol|Rb1|Rb1
+affy_rae230_2|1367700_at|1367700_at	rgd_symbol|Fmod|Fmod
+affy_rae230_2|1367960_at|1367960_at	rgd_symbol|Arl4a|Arl4a
+affy_rae230_2|1370648_a_at|1370648_a_at	rgd_symbol|Cr16 /// LOC497785|Cr16 /// LOC497785
+affy_rae230_2|1394849_at|1394849_at
+affy_rae230_2|1389409_at|1389409_at	rgd_symbol|LOC500040|LOC500040
+affy_rae230_2|1388015_at|1388015_at	rgd_symbol|Ptprz1|Ptprz1
+affy_rae230_2|1384308_at|1384308_at	rgd_symbol|Meis1_predicted|Meis1_predicted
+affy_rae230_2|1392982_at|1392982_at
+affy_rae230_2|1370229_at|1370229_at	rgd_symbol|Ndrg4|Ndrg4
+affy_rae230_2|1395007_at|1395007_at	rgd_symbol|Zfp612_predicted|Zfp612_predicted
+affy_rae230_2|1381327_a_at|1381327_a_at
+affy_rae230_2|1389039_at|1389039_at
+affy_rae230_2|1388157_at|1388157_at	rgd_symbol|Marcks|Marcks
+affy_rae230_2|1384254_at|1384254_at	rgd_symbol|RGD1563344_predicted|RGD1563344_predicted
+affy_rae230_2|1394727_at|1394727_at	rgd_symbol|RGD1564868_predicted|RGD1564868_predicted
+affy_rae230_2|1393163_at|1393163_at
+affy_rae230_2|1372722_at|1372722_at	rgd_symbol|Djb4|Djb4
+affy_rae230_2|1371969_at|1371969_at
+affy_rae230_2|1374417_at|1374417_at	rgd_symbol|Siahbp1|Siahbp1
+affy_rae230_2|1375532_at|1375532_at
+affy_rae230_2|1378342_at|1378342_at	rgd_symbol|RGD1559432_predicted|RGD1559432_predicted
+affy_rae230_2|1367712_at|1367712_at	rgd_symbol|Timp1|Timp1
+affy_rae230_2|1369871_at|1369871_at	rgd_symbol|Areg|Areg
+affy_rae230_2|1388339_at|1388339_at	rgd_symbol|Pea15|Pea15
+affy_rae230_2|1367574_at|1367574_at	rgd_symbol|Vim|Vim
+affy_rae230_2|1380097_at|1380097_at	rgd_symbol|Laptm4a|Laptm4a
+affy_rae230_2|1385382_at|1385382_at
+affy_rae230_2|1387232_at|1387232_at	rgd_symbol|Bmp4|Bmp4
+affy_rae230_2|1374544_at|1374544_at	rgd_symbol|Cdh23|Cdh23
+affy_rae230_2|1374864_at|1374864_at	rgd_symbol|Spry2|Spry2
+affy_rae230_2|1368533_at|1368533_at	rgd_symbol|Heph|Heph
+affy_rae230_2|1392999_at|1392999_at
+affy_rae230_2|1393547_at|1393547_at	rgd_symbol|RGD1560399_predicted|RGD1560399_predicted
+affy_rae230_2|1380544_at|1380544_at
+affy_rae230_2|1389082_at|1389082_at
+affy_rae230_2|1367823_at|1367823_at	rgd_symbol|Timp2|Timp2
+affy_rae230_2|1377880_at|1377880_at
+affy_rae230_2|1388600_at|1388600_at	rgd_symbol|LOC301295|LOC301295
+affy_rae230_2|1375523_at|1375523_at
+affy_rae230_2|1367881_at|1367881_at	rgd_symbol|Ptpns1|Ptpns1
+affy_rae230_2|1392893_a_at|1392893_a_at
+affy_rae230_2|1386869_at|1386869_at	rgd_symbol|Actg2|Actg2
+affy_rae230_2|1372466_at|1372466_at
+affy_rae230_2|1373079_at|1373079_at
+affy_rae230_2|1389214_at|1389214_at	rgd_symbol|RGD1560062_predicted|RGD1560062_predicted
+affy_rae230_2|1393629_at|1393629_at	rgd_symbol|Hlx1_predicted|Hlx1_predicted
+affy_rae230_2|1384899_at|1384899_at
+affy_rae230_2|1382490_at|1382490_at	rgd_symbol|LOC301113|LOC301113
+affy_rae230_2|1387769_a_at|1387769_a_at	rgd_symbol|Id3|Id3
+affy_rae230_2|1371087_a_at|1371087_a_at	rgd_symbol|Mtap6|Mtap6
+affy_rae230_2|1368097_a_at|1368097_a_at	rgd_symbol|Rtn1|Rtn1
+affy_rae230_2|1375170_at|1375170_at	rgd_symbol|S100a11|S100a11
+affy_rae230_2|1376648_at|1376648_at	rgd_symbol|Mycn_mapped|Mycn_mapped
+affy_rae230_2|1389253_at|1389253_at	rgd_symbol|Vnn1|Vnn1
+affy_rae230_2|1390051_at|1390051_at	rgd_symbol|RGD1562533_predicted|RGD1562533_predicted
+affy_rae230_2|1390380_at|1390380_at
+affy_rae230_2|1377994_at|1377994_at
+affy_rae230_2|1370072_at|1370072_at	rgd_symbol|Mme|Mme
+affy_rae230_2|1397772_at|1397772_at	rgd_symbol|LOC301295|LOC301295
+affy_rae230_2|1370347_at|1370347_at	rgd_symbol|Pdlim7|Pdlim7
+affy_rae230_2|1398508_at|1398508_at	rgd_symbol|RGD1310994|RGD1310994
+affy_rae230_2|1382130_at|1382130_at	rgd_symbol|Pcdh19_predicted|Pcdh19_predicted
+affy_rae230_2|1383205_at|1383205_at	rgd_symbol|Dact2_predicted|Dact2_predicted
+affy_rae230_2|1368593_at|1368593_at	rgd_symbol|Cd1d1|Cd1d1
+affy_rae230_2|1389306_at|1389306_at
+affy_rae230_2|1382965_at|1382965_at	rgd_symbol|Amigo3|Amigo3
+affy_rae230_2|1389911_at|1389911_at	rgd_symbol|Metrnl|Metrnl
+affy_rae230_2|1384594_at|1384594_at	rgd_symbol|Ltk_predicted|Ltk_predicted
+affy_rae230_2|1380831_at|1380831_at
+affy_rae230_2|1368726_a_at|1368726_a_at	rgd_symbol|Zfp347|Zfp347
+affy_rae230_2|1391727_at|1391727_at	rgd_symbol|RGD1562564_predicted|RGD1562564_predicted
+affy_rae230_2|1394702_at|1394702_at
+affy_rae230_2|1390727_at|1390727_at
+affy_rae230_2|1373804_at|1373804_at	rgd_symbol|Foxp1|Foxp1
+affy_rae230_2|1374849_at|1374849_at	rgd_symbol|Adamts7_predicted|Adamts7_predicted
+affy_rae230_2|1387658_at|1387658_at	rgd_symbol|Eef2k|Eef2k
+affy_rae230_2|1398373_at|1398373_at	rgd_symbol|B3galt3|B3galt3
+affy_rae230_2|1373122_at|1373122_at	rgd_symbol|Jub|Jub
+affy_rae230_2|1396026_at|1396026_at
+affy_rae230_2|1381795_at|1381795_at
+affy_rae230_2|1393732_at|1393732_at
+affy_rae230_2|1390459_at|1390459_at
+affy_rae230_2|1389774_at|1389774_at
+affy_rae230_2|1372889_at|1372889_at
+affy_rae230_2|1391292_at|1391292_at
+affy_rae230_2|1387294_at|1387294_at	rgd_symbol|Sh3bp5|Sh3bp5
+affy_rae230_2|1371332_at|1371332_at	rgd_symbol|Hist1h4a_predicted|Hist1h4a_predicted
+affy_rae230_2|1397767_at|1397767_at
+affy_rae230_2|1382050_at|1382050_at
+affy_rae230_2|1383614_at|1383614_at	rgd_symbol|Nuak2|Nuak2
+affy_rae230_2|1376194_at|1376194_at
+affy_rae230_2|1388312_at|1388312_at
+affy_rae230_2|1369193_at|1369193_at	rgd_symbol|Cdkn2b|Cdkn2b
+affy_rae230_2|1371043_a_at|1371043_a_at	rgd_symbol|Pou3f3|Pou3f3
+affy_rae230_2|1367929_at|1367929_at	rgd_symbol|Cd59|Cd59
+affy_rae230_2|1370952_at|1370952_at	rgd_symbol|Gstm2|Gstm2
+affy_rae230_2|1388879_at|1388879_at
+affy_rae230_2|1373151_at|1373151_at	rgd_symbol|RGD1560177_predicted|RGD1560177_predicted
+affy_rae230_2|1372964_at|1372964_at
+affy_rae230_2|1383422_at|1383422_at	rgd_symbol|LOC362564|LOC362564
+affy_rae230_2|1389172_at|1389172_at
+affy_rae230_2|1392791_at|1392791_at	rgd_symbol|Egr3|Egr3
+affy_rae230_2|1371394_x_at|1371394_x_at	rgd_symbol|RGD1561927_predicted|RGD1561927_predicted
+affy_rae230_2|1392044_at|1392044_at
+affy_rae230_2|1398568_at|1398568_at	rgd_symbol|Sp91|Sp91
+affy_rae230_2|1377892_at|1377892_at	rgd_symbol|Sema3f_predicted|Sema3f_predicted
+affy_rae230_2|1389017_at|1389017_at	rgd_symbol|LOC305633|LOC305633
+affy_rae230_2|1367648_at|1367648_at	rgd_symbol|Igfbp2|Igfbp2
+affy_rae230_2|1388479_at|1388479_at	rgd_symbol|Dpysl3|Dpysl3
+affy_rae230_2|1371018_at|1371018_at	rgd_symbol|Celsr2|Celsr2
+affy_rae230_2|1393981_at|1393981_at	rgd_symbol|RGD1310474_predicted|RGD1310474_predicted
+affy_rae230_2|1392547_at|1392547_at	rgd_symbol|MGC105649|MGC105649
+affy_rae230_2|1388539_at|1388539_at	rgd_symbol|Pkp2|Pkp2
+affy_rae230_2|1371331_at|1371331_at	rgd_symbol|Fstl1|Fstl1
+affy_rae230_2|1380964_at|1380964_at
+affy_rae230_2|1387402_at|1387402_at	rgd_symbol|Myh9|Myh9
+affy_rae230_2|1376919_at|1376919_at	rgd_symbol|RGD1562317_predicted|RGD1562317_predicted
+affy_rae230_2|1393314_at|1393314_at
+affy_rae230_2|1387197_at|1387197_at	rgd_symbol|Omd|Omd
+affy_rae230_2|1374246_at|1374246_at
+affy_rae230_2|1394664_at|1394664_at
+affy_rae230_2|1394501_at|1394501_at	rgd_symbol|Siglec10_predicted|Siglec10_predicted
+affy_rae230_2|1373651_at|1373651_at
+affy_rae230_2|1381206_at|1381206_at	rgd_symbol|Cd96|Cd96
+affy_rae230_2|1371202_a_at|1371202_a_at	rgd_symbol|Nfib|Nfib
+affy_rae230_2|1398578_at|1398578_at
+affy_rae230_2|1394801_at|1394801_at	rgd_symbol|Wnt2b|Wnt2b
+affy_rae230_2|1394651_at|1394651_at	rgd_symbol|RGD1309453_predicted|RGD1309453_predicted
+affy_rae230_2|1368146_at|1368146_at	rgd_symbol|Dusp1|Dusp1
+affy_rae230_2|1375848_at|1375848_at	rgd_symbol|Pon2|Pon2
+affy_rae230_2|1374970_at|1374970_at	rgd_symbol|Wnt5b|Wnt5b
+affy_rae230_2|1387306_a_at|1387306_a_at	rgd_symbol|Egr2|Egr2
+affy_rae230_2|1394490_at|1394490_at	rgd_symbol|Abca1|Abca1
+affy_rae230_2|1378090_at|1378090_at
+affy_rae230_2|1389698_at|1389698_at
+affy_rae230_2|1371940_at|1371940_at	rgd_symbol|LOC362587|LOC362587
+affy_rae230_2|1374704_at|1374704_at	rgd_symbol|Kdelc2|Kdelc2
+affy_rae230_2|1367800_at|1367800_at	rgd_symbol|Plat|Plat
+affy_rae230_2|1396288_s_at|1396288_s_at
+affy_rae230_2|1372325_at|1372325_at	rgd_symbol|Emilin1_predicted|Emilin1_predicted
+affy_rae230_2|1368306_at|1368306_at	rgd_symbol|Grin2c|Grin2c
+affy_rae230_2|1382431_at|1382431_at
+affy_rae230_2|1371382_at|1371382_at	rgd_symbol|Fl_predicted|Fl_predicted
+affy_rae230_2|1398691_at|1398691_at	rgd_symbol|LOC499624|LOC499624
+affy_rae230_2|1381428_a_at|1381428_a_at	rgd_symbol|Hfe|Hfe
+affy_rae230_2|1385205_at|1385205_at
+affy_rae230_2|1391106_at|1391106_at
+affy_rae230_2|1392996_at|1392996_at	rgd_symbol|Cpeb1_predicted|Cpeb1_predicted
+affy_rae230_2|1386106_at|1386106_at
+affy_rae230_2|1370120_at|1370120_at	rgd_symbol|Fstl3|Fstl3
+affy_rae230_2|1398476_at|1398476_at
+affy_rae230_2|1384667_x_at|1384667_x_at	rgd_symbol|Galr2|Galr2
+affy_rae230_2|1387259_at|1387259_at	rgd_symbol|Cdh2 /// LOC497718|Cdh2 /// LOC497718
+affy_rae230_2|1373093_at|1373093_at	rgd_symbol|Errfi1|Errfi1
+affy_rae230_2|1376790_at|1376790_at
+affy_rae230_2|1394235_at|1394235_at
+affy_rae230_2|1380155_at|1380155_at
+affy_rae230_2|1372016_at|1372016_at	rgd_symbol|Gadd45b|Gadd45b
+affy_rae230_2|1380552_at|1380552_at
+affy_rae230_2|1379636_at|1379636_at	rgd_symbol|LOC313840|LOC313840
+affy_rae230_2|1368320_at|1368320_at	rgd_symbol|Ncam1|Ncam1
+affy_rae230_2|1367628_at|1367628_at	rgd_symbol|Lgals1|Lgals1
+affy_rae230_2|1382469_at|1382469_at
+affy_rae230_2|1368256_at|1368256_at	rgd_symbol|Serpini1|Serpini1
+affy_rae230_2|1382312_at|1382312_at	rgd_symbol|Arid5b_predicted|Arid5b_predicted
+affy_rae230_2|1367896_at|1367896_at	rgd_symbol|Ca3|Ca3
+affy_rae230_2|1387023_at|1387023_at	rgd_symbol|Gstm3|Gstm3
+affy_rae230_2|1395274_at|1395274_at	rgd_symbol|Dst_predicted|Dst_predicted
+affy_rae230_2|1384515_at|1384515_at
+affy_rae230_2|1384150_at|1384150_at
+affy_rae230_2|1367974_at|1367974_at	rgd_symbol|Anxa3|Anxa3
+affy_rae230_2|1385250_at|1385250_at	rgd_symbol|Chd6_predicted|Chd6_predicted
+affy_rae230_2|1372219_at|1372219_at	rgd_symbol|MGC109519|MGC109519
+affy_rae230_2|1379374_at|1379374_at	rgd_symbol|Prg1|Prg1
+affy_rae230_2|1383447_at|1383447_at	rgd_symbol|Etv5_predicted|Etv5_predicted
+affy_rae230_2|1378225_at|1378225_at	rgd_symbol|Mmp14|Mmp14
+affy_rae230_2|1374903_at|1374903_at	rgd_symbol|Gcnt2 /// LOC497712|Gcnt2 /// LOC497712
+affy_rae230_2|1391264_at|1391264_at
+affy_rae230_2|1376700_at|1376700_at
+affy_rae230_2|1392195_at|1392195_at
+affy_rae230_2|1398525_at|1398525_at
+affy_rae230_2|1388920_at|1388920_at	rgd_symbol|Bmp6|Bmp6
+affy_rae230_2|1392510_at|1392510_at	rgd_symbol|RGD1308013_predicted|RGD1308013_predicted
+affy_rae230_2|1396053_at|1396053_at	rgd_symbol|Nedd9|Nedd9
+affy_rae230_2|1394290_at|1394290_at
+affy_rae230_2|1375144_at|1375144_at
+affy_rae230_2|1380681_at|1380681_at
+affy_rae230_2|1371696_at|1371696_at	rgd_symbol|Gpr56|Gpr56
+affy_rae230_2|1372491_at|1372491_at	rgd_symbol|RGD1565591_predicted|RGD1565591_predicted
+affy_rae230_2|1382757_at|1382757_at	rgd_symbol|Foxl2_predicted|Foxl2_predicted
+affy_rae230_2|1390563_at|1390563_at
+affy_rae230_2|1392265_s_at|1392265_s_at	rgd_symbol|Mmp23|Mmp23
+affy_rae230_2|1370933_at|1370933_at	rgd_symbol|Myo1e|Myo1e
+affy_rae230_2|1385837_at|1385837_at	rgd_symbol|Hoxd3_mapped|Hoxd3_mapped
+affy_rae230_2|1380682_at|1380682_at	rgd_symbol|Rkhd3_predicted|Rkhd3_predicted
+affy_rae230_2|1383787_at|1383787_at
+affy_rae230_2|1383939_at|1383939_at
+affy_rae230_2|1384468_at|1384468_at
+affy_rae230_2|1379495_at|1379495_at	rgd_symbol|Plxdc2_predicted|Plxdc2_predicted
+affy_rae230_2|1367687_a_at|1367687_a_at	rgd_symbol|Pam|Pam
+affy_rae230_2|1370895_at|1370895_at	rgd_symbol|Col5a2|Col5a2
+affy_rae230_2|1371500_at|1371500_at	rgd_symbol|Ltbp4|Ltbp4
+affy_rae230_2|1395634_at|1395634_at
+affy_rae230_2|1393210_at|1393210_at	rgd_symbol|Ecm2_predicted|Ecm2_predicted
+affy_rae230_2|1368321_at|1368321_at	rgd_symbol|Egr1|Egr1
+affy_rae230_2|1398620_at|1398620_at
+affy_rae230_2|1368824_at|1368824_at	rgd_symbol|Cald1|Cald1
+affy_rae230_2|1383074_at|1383074_at
+affy_rae230_2|1391405_at|1391405_at	rgd_symbol|RGD1566201_predicted|RGD1566201_predicted
+affy_rae230_2|1382482_at|1382482_at
+affy_rae230_2|1392666_at|1392666_at
+affy_rae230_2|1374726_at|1374726_at	rgd_symbol|Fndc1|Fndc1
+affy_rae230_2|1394833_at|1394833_at
+affy_rae230_2|1378653_at|1378653_at
+affy_rae230_2|1379131_at|1379131_at
+affy_rae230_2|1393584_at|1393584_at
+affy_rae230_2|1368467_at|1368467_at	rgd_symbol|Cyp4f2|Cyp4f2
+affy_rae230_2|1391573_at|1391573_at
+affy_rae230_2|1379334_at|1379334_at	rgd_symbol|Gldc_predicted|Gldc_predicted
+affy_rae230_2|1374060_at|1374060_at
+affy_rae230_2|1375046_at|1375046_at	rgd_symbol|LOC289786|LOC289786
+affy_rae230_2|1389763_at|1389763_at
+affy_rae230_2|1382142_at|1382142_at
+affy_rae230_2|1383744_at|1383744_at
+affy_rae230_2|1377663_at|1377663_at	rgd_symbol|Rnd3|Rnd3
+affy_rae230_2|1390177_at|1390177_at
+affy_rae230_2|1378074_at|1378074_at
+affy_rae230_2|1376057_at|1376057_at
+affy_rae230_2|1370887_at|1370887_at	rgd_symbol|Tgfb1i1|Tgfb1i1
+affy_rae230_2|1396736_at|1396736_at
+affy_rae230_2|1385569_at|1385569_at
+affy_rae230_2|1392295_a_at|1392295_a_at
+affy_rae230_2|1382229_at|1382229_at	rgd_symbol|Nexn|Nexn
+affy_rae230_2|1380768_at|1380768_at
+affy_rae230_2|1398528_at|1398528_at
+affy_rae230_2|1381775_at|1381775_at	rgd_symbol|RGD1566102_predicted|RGD1566102_predicted
+affy_rae230_2|1377309_at|1377309_at	rgd_symbol|LOC503293|LOC503293
+affy_rae230_2|1384239_at|1384239_at
+affy_rae230_2|1380160_at|1380160_at	rgd_symbol|Drp2 /// LOC497847|Drp2 /// LOC497847
+affy_rae230_2|1382931_at|1382931_at
+affy_rae230_2|1376071_at|1376071_at
+affy_rae230_2|1393235_at|1393235_at
+affy_rae230_2|1394940_at|1394940_at	rgd_symbol|RGD1311381_predicted|RGD1311381_predicted
+affy_rae230_2|1383019_at|1383019_at
+affy_rae230_2|1395142_at|1395142_at
+affy_rae230_2|1369407_at|1369407_at	rgd_symbol|Tnfrsf11b|Tnfrsf11b
+affy_rae230_2|1385327_at|1385327_at
+affy_rae230_2|1373315_at|1373315_at	rgd_symbol|RGD1308210|RGD1308210
+affy_rae230_2|1391459_at|1391459_at	rgd_symbol|RGD1564763_predicted|RGD1564763_predicted
+affy_rae230_2|1377867_at|1377867_at	rgd_symbol|RGD1562284_predicted|RGD1562284_predicted
+affy_rae230_2|1372006_at|1372006_at	rgd_symbol|Loxl2_predicted|Loxl2_predicted
+affy_rae230_2|1370166_at|1370166_at	rgd_symbol|Sdc2|Sdc2
+affy_rae230_2|1386762_at|1386762_at	rgd_symbol|Sg1_predicted|Sg1_predicted
+affy_rae230_2|1383641_at|1383641_at	rgd_symbol|RGD1559432_predicted|RGD1559432_predicted
+affy_rae230_2|1387922_at|1387922_at	rgd_symbol|LOC497726|LOC497726
+affy_rae230_2|1376457_at|1376457_at
+affy_rae230_2|1373860_at|1373860_at	rgd_symbol|Sox4_predicted|Sox4_predicted
+affy_rae230_2|1378144_at|1378144_at
+affy_rae230_2|1374759_at|1374759_at	rgd_symbol|Galntl1|Galntl1
+affy_rae230_2|1388667_at|1388667_at
+affy_rae230_2|1393000_at|1393000_at
+affy_rae230_2|1383913_at|1383913_at
+affy_rae230_2|1371004_at|1371004_at	rgd_symbol|Sort1|Sort1
+affy_rae230_2|1382372_at|1382372_at
+affy_rae230_2|1392489_at|1392489_at
+affy_rae230_2|1398693_at|1398693_at
+affy_rae230_2|1393641_at|1393641_at	rgd_symbol|Blnk|Blnk
+affy_rae230_2|1387024_at|1387024_at	rgd_symbol|Dusp6|Dusp6
+affy_rae230_2|1375517_at|1375517_at
+affy_rae230_2|1373089_at|1373089_at	rgd_symbol|Cdh3|Cdh3
+affy_rae230_2|1371988_at|1371988_at	rgd_symbol|Man1a_predicted|Man1a_predicted
+affy_rae230_2|1393510_at|1393510_at	rgd_symbol|RGD1564335_predicted|RGD1564335_predicted
+affy_rae230_2|1398606_at|1398606_at	rgd_symbol|Golph4|Golph4
+affy_rae230_2|1368512_a_at|1368512_a_at	rgd_symbol|Enpep|Enpep
+affy_rae230_2|1395372_at|1395372_at	rgd_symbol|Itgb8_predicted|Itgb8_predicted
+affy_rae230_2|1382189_at|1382189_at
+affy_rae230_2|1374383_at|1374383_at
+affy_rae230_2|1375647_at|1375647_at
+affy_rae230_2|1393170_at|1393170_at	rgd_symbol|RGD1561431_predicted|RGD1561431_predicted
+affy_rae230_2|1389908_at|1389908_at
+affy_rae230_2|1380474_at|1380474_at
+affy_rae230_2|1383589_at|1383589_at
+affy_rae230_2|1376066_at|1376066_at
+affy_rae230_2|1375043_at|1375043_at	rgd_symbol|Fos|Fos
+affy_rae230_2|1369115_at|1369115_at	rgd_symbol|Adrb2|Adrb2
+affy_rae230_2|1391643_at|1391643_at
+affy_rae230_2|1383721_at|1383721_at	rgd_symbol|MGC112790|MGC112790
+affy_rae230_2|1369041_at|1369041_at	rgd_symbol|Nlgn1|Nlgn1
+affy_rae230_2|1377705_at|1377705_at
+affy_rae230_2|1375358_at|1375358_at
+affy_rae230_2|1391030_at|1391030_at
+affy_rae230_2|1390707_at|1390707_at	rgd_symbol|Rgs10|Rgs10
+affy_rae230_2|1371700_at|1371700_at	rgd_symbol|Mfap4|Mfap4
+affy_rae230_2|1383935_at|1383935_at
+affy_rae230_2|1394218_s_at|1394218_s_at	rgd_symbol|Zfpm2_predicted|Zfpm2_predicted
+affy_rae230_2|1372539_at|1372539_at
+affy_rae230_2|1393082_at|1393082_at	rgd_symbol|Ppp1r14c|Ppp1r14c
+affy_rae230_2|1367661_at|1367661_at	rgd_symbol|S100a6|S100a6
+affy_rae230_2|1374432_at|1374432_at
+affy_rae230_2|1392870_at|1392870_at
+affy_rae230_2|1390215_at|1390215_at
+affy_rae230_2|1376734_at|1376734_at
+affy_rae230_2|1372820_at|1372820_at
+affy_rae230_2|1384240_at|1384240_at	rgd_symbol|Agtr1a|Agtr1a
+affy_rae230_2|1392444_at|1392444_at	rgd_symbol|RGD1561144_predicted|RGD1561144_predicted
+affy_rae230_2|1385931_at|1385931_at	rgd_symbol|Hook3|Hook3
+affy_rae230_2|1398647_at|1398647_at	rgd_symbol|RGD1305898_predicted|RGD1305898_predicted
+affy_rae230_2|1382294_at|1382294_at	rgd_symbol|Alcam|Alcam
+affy_rae230_2|1370727_at|1370727_at	rgd_symbol|Pdgfd|Pdgfd
+affy_rae230_2|1388197_at|1388197_at	rgd_symbol|Hoxa4|Hoxa4
+affy_rae230_2|1381583_at|1381583_at
+affy_rae230_2|1367847_at|1367847_at	rgd_symbol|Nupr1|Nupr1
+affy_rae230_2|1389142_at|1389142_at
+affy_rae230_2|1370234_at|1370234_at	rgd_symbol|Fn1|Fn1
+affy_rae230_2|1382754_at|1382754_at
+affy_rae230_2|1397820_at|1397820_at	rgd_symbol|Wnt2b|Wnt2b
+affy_rae230_2|1394455_at|1394455_at
+affy_rae230_2|1376108_at|1376108_at
+affy_rae230_2|1389706_at|1389706_at
+affy_rae230_2|1393679_at|1393679_at
+affy_rae230_2|1383971_at|1383971_at
+affy_rae230_2|1393990_at|1393990_at	rgd_symbol|Zfp503_predicted|Zfp503_predicted
+affy_rae230_2|1375138_at|1375138_at	rgd_symbol|Timp3|Timp3
+affy_rae230_2|1395374_at|1395374_at	rgd_symbol|Ptgfr|Ptgfr
+affy_rae230_2|1394451_at|1394451_at	rgd_symbol|Anxa1|Anxa1
+affy_rae230_2|1379902_at|1379902_at
+affy_rae230_2|1382955_at|1382955_at	rgd_symbol|Gpr126_predicted|Gpr126_predicted
+affy_rae230_2|1376193_at|1376193_at	rgd_symbol|Chrdl1|Chrdl1
+affy_rae230_2|1385426_at|1385426_at	rgd_symbol|RGD1305326_predicted|RGD1305326_predicted
+affy_rae230_2|1390107_at|1390107_at	rgd_symbol|Sytl2_predicted|Sytl2_predicted
+affy_rae230_2|1370613_s_at|1370613_s_at	rgd_symbol|Ugt1a1 /// Ugt1a6 /// Ugt1a7 /// Ugt1a8 /// Ugt1a2 /// Ugt1a3 /// Ugt1a10 /// Ugt1a5|Ugt1a1 /// Ugt1a6 /// Ugt1a7 /// Ugt1a8 /// Ugt1a2 /// Ugt1a3 /// Ugt1a10 /// Ugt1a5
+affy_rae230_2|1383606_at|1383606_at	rgd_symbol|Mtac2d1|Mtac2d1
+affy_rae230_2|1377333_at|1377333_at
+affy_rae230_2|1376788_at|1376788_at	rgd_symbol|Dapk1_predicted|Dapk1_predicted
+affy_rae230_2|1391450_at|1391450_at	rgd_symbol|Loxl2_predicted|Loxl2_predicted
+affy_rae230_2|1385876_at|1385876_at
+affy_rae230_2|1367785_at|1367785_at	rgd_symbol|Cnn1|Cnn1
+affy_rae230_2|1381819_at|1381819_at
+affy_rae230_2|1371354_at|1371354_at	rgd_symbol|Tnnc1|Tnnc1
+affy_rae230_2|1373886_at|1373886_at
+affy_rae230_2|1392083_at|1392083_at	rgd_symbol|LOC299907|LOC299907
+affy_rae230_2|1376800_at|1376800_at
+affy_rae230_2|1376897_at|1376897_at	rgd_symbol|RGD1560022_predicted|RGD1560022_predicted
+affy_rae230_2|1374904_at|1374904_at	rgd_symbol|Six1|Six1
+affy_rae230_2|1370571_at|1370571_at	rgd_symbol|Slco3a1|Slco3a1
+affy_rae230_2|1393259_at|1393259_at
+affy_rae230_2|1375925_at|1375925_at
+affy_rae230_2|1397536_at|1397536_at
+affy_rae230_2|1371475_at|1371475_at	rgd_symbol|Rse4|Rse4
+affy_rae230_2|1390711_at|1390711_at
+affy_rae230_2|1398345_at|1398345_at
+affy_rae230_2|1383211_at|1383211_at
+affy_rae230_2|1373463_at|1373463_at
+affy_rae230_2|1369443_at|1369443_at	rgd_symbol|Angptl2|Angptl2
+affy_rae230_2|1395852_at|1395852_at	rgd_symbol|Abca3|Abca3
+affy_rae230_2|1368290_at|1368290_at	rgd_symbol|Cyr61|Cyr61
+affy_rae230_2|1375278_at|1375278_at	rgd_symbol|Trim2|Trim2
+affy_rae230_2|1388496_at|1388496_at	rgd_symbol|Flnc_predicted|Flnc_predicted
+affy_rae230_2|1382789_at|1382789_at
+affy_rae230_2|1387018_at|1387018_at	rgd_symbol|Argbp2|Argbp2
+affy_rae230_2|1390159_at|1390159_at
+affy_rae230_2|1370490_at|1370490_at	rgd_symbol|Pcdh3|Pcdh3
+affy_rae230_2|1382225_at|1382225_at
+affy_rae230_2|1377642_at|1377642_at	rgd_symbol|Cav2|Cav2
+affy_rae230_2|1398702_at|1398702_at
+affy_rae230_2|1395814_at|1395814_at
+affy_rae230_2|1393672_at|1393672_at
+affy_rae230_2|1388138_at|1388138_at	rgd_symbol|Thbs4|Thbs4
+affy_rae230_2|1397615_at|1397615_at
+affy_rae230_2|1392778_at|1392778_at
+affy_rae230_2|1388298_at|1388298_at
+affy_rae230_2|1368543_at|1368543_at	rgd_symbol|Nox4|Nox4
+affy_rae230_2|1376709_at|1376709_at	rgd_symbol|Slc39a8|Slc39a8
+affy_rae230_2|1368751_at|1368751_at	rgd_symbol|Kcns3|Kcns3
+affy_rae230_2|1382778_at|1382778_at	rgd_symbol|Dusp6|Dusp6
+affy_rae230_2|1385826_at|1385826_at
+affy_rae230_2|1397676_at|1397676_at	rgd_symbol|RGD1563148_predicted|RGD1563148_predicted
+affy_rae230_2|1383460_at|1383460_at	rgd_symbol|Upk3b_predicted|Upk3b_predicted
+affy_rae230_2|1387276_at|1387276_at	rgd_symbol|Ania4|Ania4
+affy_rae230_2|1376282_at|1376282_at
+affy_rae230_2|1392228_at|1392228_at
+affy_rae230_2|1391448_at|1391448_at	rgd_symbol|Crim1_predicted|Crim1_predicted
+affy_rae230_2|1387196_at|1387196_at	rgd_symbol|Khdrbs3|Khdrbs3
+affy_rae230_2|1385027_at|1385027_at
+affy_rae230_2|1374142_at|1374142_at	rgd_symbol|RGD1311589_predicted|RGD1311589_predicted
+affy_rae230_2|1392852_at|1392852_at	rgd_symbol|Smoc1|Smoc1
+affy_rae230_2|1384406_at|1384406_at
+affy_rae230_2|1385738_at|1385738_at
+affy_rae230_2|1371523_at|1371523_at
+affy_rae230_2|1368671_at|1368671_at	rgd_symbol|Srpx|Srpx
+affy_rae230_2|1391187_at|1391187_at
+affy_rae230_2|1371954_at|1371954_at
+affy_rae230_2|1368207_at|1368207_at	rgd_symbol|Fxyd5|Fxyd5
+affy_rae230_2|1383390_at|1383390_at
+affy_rae230_2|1394425_at|1394425_at
+affy_rae230_2|1393806_at|1393806_at
+affy_rae230_2|1369973_at|1369973_at	rgd_symbol|Xdh|Xdh
+affy_rae230_2|1376997_at|1376997_at
+affy_rae230_2|1382274_at|1382274_at	rgd_symbol|Rarres1|Rarres1
+affy_rae230_2|1372226_at|1372226_at
+affy_rae230_2|1383047_at|1383047_at	rgd_symbol|Gas6|Gas6
+affy_rae230_2|1370202_at|1370202_at	rgd_symbol|Hrasls3|Hrasls3
+affy_rae230_2|1387327_at|1387327_at	rgd_symbol|Khdrbs2|Khdrbs2
+affy_rae230_2|1372599_at|1372599_at	rgd_symbol|Mgst2_predicted|Mgst2_predicted
+affy_rae230_2|1397610_at|1397610_at
+affy_rae230_2|1375049_at|1375049_at
+affy_rae230_2|1385098_at|1385098_at
+affy_rae230_2|1387951_at|1387951_at	rgd_symbol|Daf1|Daf1
+affy_rae230_2|1382726_at|1382726_at	rgd_symbol|Nkd1_predicted|Nkd1_predicted
+affy_rae230_2|1380017_at|1380017_at
+affy_rae230_2|1372835_at|1372835_at	rgd_symbol|Rhoj|Rhoj
+affy_rae230_2|1387182_at|1387182_at	rgd_symbol|Gpr37|Gpr37
+affy_rae230_2|1379492_at|1379492_at
+affy_rae230_2|1376319_at|1376319_at
+affy_rae230_2|1398622_at|1398622_at
+affy_rae230_2|1384840_at|1384840_at	rgd_symbol|Prrx1|Prrx1
+affy_rae230_2|1367835_at|1367835_at	rgd_symbol|Pcsk1n|Pcsk1n
+affy_rae230_2|1379444_at|1379444_at
+affy_rae230_2|1368003_at|1368003_at	rgd_symbol|Aldh1a2|Aldh1a2
+affy_rae230_2|1367866_at|1367866_at	rgd_symbol|Fbln5|Fbln5
+affy_rae230_2|1376617_at|1376617_at
+affy_rae230_2|1378453_at|1378453_at
+affy_rae230_2|1376520_at|1376520_at
+affy_rae230_2|1378539_at|1378539_at
+affy_rae230_2|1394025_at|1394025_at	rgd_symbol|Smad6_predicted|Smad6_predicted
+affy_rae230_2|1389877_at|1389877_at
+affy_rae230_2|1383688_at|1383688_at
+affy_rae230_2|1387029_at|1387029_at	rgd_symbol|Cfh|Cfh
+affy_rae230_2|1384707_at|1384707_at
+affy_rae230_2|1367627_at|1367627_at	rgd_symbol|Gatm|Gatm
+affy_rae230_2|1389905_at|1389905_at
+affy_rae230_2|1373240_at|1373240_at	rgd_symbol|Dhrs3|Dhrs3
+affy_rae230_2|1385722_at|1385722_at	rgd_symbol|Sim2_predicted|Sim2_predicted
+affy_rae230_2|1394978_at|1394978_at
+affy_rae230_2|1391753_at|1391753_at	rgd_symbol|Ankrd1|Ankrd1
+affy_rae230_2|1372296_at|1372296_at	rgd_symbol|RGD1563599_predicted|RGD1563599_predicted
+affy_rae230_2|1394824_at|1394824_at	rgd_symbol|Itga11_predicted|Itga11_predicted
+affy_rae230_2|1368438_at|1368438_at	rgd_symbol|Pde10a|Pde10a
+affy_rae230_2|1371361_at|1371361_at
+affy_rae230_2|1368515_at|1368515_at	rgd_symbol|Epb4.1l3|Epb4.1l3
+affy_rae230_2|1378171_at|1378171_at	rgd_symbol|Nrp2|Nrp2
+affy_rae230_2|1367562_at|1367562_at	rgd_symbol|Sparc|Sparc
+affy_rae230_2|1370131_at|1370131_at	rgd_symbol|Cav|Cav
+affy_rae230_2|1382995_at|1382995_at	rgd_symbol|Nrp2|Nrp2
+affy_rae230_2|1372440_at|1372440_at	rgd_symbol|Serpine2|Serpine2
+affy_rae230_2|1375983_at|1375983_at	rgd_symbol|Mamdc2|Mamdc2
+affy_rae230_2|1370927_at|1370927_at	rgd_symbol|Col12a1|Col12a1
+affy_rae230_2|1377786_at|1377786_at
+affy_rae230_2|1382296_at|1382296_at
+affy_rae230_2|1382226_at|1382226_at
+affy_rae230_2|1371840_at|1371840_at	rgd_symbol|Edg1|Edg1
+affy_rae230_2|1384617_at|1384617_at	rgd_symbol|MGC72614|MGC72614
+affy_rae230_2|1393338_at|1393338_at
+affy_rae230_2|1394468_at|1394468_at	rgd_symbol|RGD1304792_predicted|RGD1304792_predicted
+affy_rae230_2|1383263_at|1383263_at	rgd_symbol|Ogn_predicted|Ogn_predicted
+affy_rae230_2|1376106_at|1376106_at	rgd_symbol|MGC94782|MGC94782
+affy_rae230_2|1379073_at|1379073_at
+affy_rae230_2|1388204_at|1388204_at
+affy_rae230_2|1383590_at|1383590_at
+affy_rae230_2|1369096_at|1369096_at	rgd_symbol|Epha7|Epha7
+affy_rae230_2|1370857_at|1370857_at	rgd_symbol|Acta2|Acta2
+affy_rae230_2|1371360_at|1371360_at	rgd_symbol|Ndrg1|Ndrg1
+affy_rae230_2|1367912_at|1367912_at	rgd_symbol|Ltbp1|Ltbp1
+affy_rae230_2|1370256_at|1370256_at	rgd_symbol|Fzd1|Fzd1
+affy_rae230_2|1382072_at|1382072_at	rgd_symbol|RGD1562587_predicted|RGD1562587_predicted
+affy_rae230_2|1384286_at|1384286_at
+affy_rae230_2|1374558_at|1374558_at	rgd_symbol|RGD1562791_predicted|RGD1562791_predicted
+affy_rae230_2|1389394_at|1389394_at
+affy_rae230_2|1368227_at|1368227_at	rgd_symbol|Slc28a2|Slc28a2
+affy_rae230_2|1390024_at|1390024_at
+affy_rae230_2|1378350_at|1378350_at
+affy_rae230_2|1386884_at|1386884_at	rgd_symbol|Htra1|Htra1
+affy_rae230_2|1368202_a_at|1368202_a_at	rgd_symbol|Dab2|Dab2
+affy_rae230_2|1394258_at|1394258_at	rgd_symbol|RGD1564919_predicted|RGD1564919_predicted
+affy_rae230_2|1392566_at|1392566_at	rgd_symbol|Maf|Maf
+affy_rae230_2|1373786_at|1373786_at
+affy_rae230_2|1371241_x_at|1371241_x_at	rgd_symbol|Tpm1|Tpm1
+affy_rae230_2|1368896_at|1368896_at	rgd_symbol|Madh7|Madh7
+affy_rae230_2|1369968_at|1369968_at	rgd_symbol|Ptn|Ptn
+affy_rae230_2|1397317_at|1397317_at
+affy_rae230_2|1376328_at|1376328_at	rgd_symbol|RGD1310819_predicted|RGD1310819_predicted
+affy_rae230_2|1382591_at|1382591_at
+affy_rae230_2|1380726_at|1380726_at	rgd_symbol|LOC306805|LOC306805
+affy_rae230_2|1383095_at|1383095_at	rgd_symbol|RGD1560873_predicted|RGD1560873_predicted
+affy_rae230_2|1368347_at|1368347_at	rgd_symbol|Col5a3|Col5a3
+affy_rae230_2|1390364_at|1390364_at
+affy_rae230_2|1379688_at|1379688_at
+affy_rae230_2|1389759_at|1389759_at
+affy_rae230_2|1394916_at|1394916_at
+affy_rae230_2|1388583_at|1388583_at	rgd_symbol|Cxcl12|Cxcl12
+affy_rae230_2|1393943_at|1393943_at
+affy_rae230_2|1382612_at|1382612_at
+affy_rae230_2|1372031_at|1372031_at
+affy_rae230_2|1386379_at|1386379_at	rgd_symbol|RGD1565710_predicted|RGD1565710_predicted
+affy_rae230_2|1376645_at|1376645_at	rgd_symbol|RGD1307396_predicted|RGD1307396_predicted
+affy_rae230_2|1381504_at|1381504_at	rgd_symbol|LOC306805|LOC306805
+affy_rae230_2|1369771_at|1369771_at	rgd_symbol|Irs1|Irs1
+affy_rae230_2|1376924_a_at|1376924_a_at	rgd_symbol|Palmd|Palmd
+affy_rae230_2|1382685_at|1382685_at
+affy_rae230_2|1385381_at|1385381_at
+affy_rae230_2|1370221_at|1370221_at	rgd_symbol|Wisp1|Wisp1
+affy_rae230_2|1373035_at|1373035_at
+affy_rae230_2|1387817_at|1387817_at	rgd_symbol|Nsg1|Nsg1
+affy_rae230_2|1380077_at|1380077_at	rgd_symbol|RGD1561123_predicted|RGD1561123_predicted
+affy_rae230_2|1383069_at|1383069_at
+affy_rae230_2|1390622_at|1390622_at
+affy_rae230_2|1376425_at|1376425_at	rgd_symbol|Tgfb2|Tgfb2
+affy_rae230_2|1393508_at|1393508_at
+affy_rae230_2|1372884_at|1372884_at
+affy_rae230_2|1391595_at|1391595_at	rgd_symbol|Larp6_predicted /// RGD1562514_predicted|Larp6_predicted /// RGD1562514_predicted
+affy_rae230_2|1383783_at|1383783_at	rgd_symbol|Pcdh9_predicted|Pcdh9_predicted
+affy_rae230_2|1393129_at|1393129_at
+affy_rae230_2|1397335_at|1397335_at
+affy_rae230_2|1379103_at|1379103_at
+affy_rae230_2|1391740_at|1391740_at
+affy_rae230_2|1368348_at|1368348_at	rgd_symbol|Slc6a4|Slc6a4
+affy_rae230_2|1367631_at|1367631_at	rgd_symbol|Ctgf|Ctgf
+affy_rae230_2|1378780_at|1378780_at	rgd_symbol|Exph5_predicted|Exph5_predicted
+affy_rae230_2|1385481_at|1385481_at	rgd_symbol|RGD1307724_predicted|RGD1307724_predicted
+affy_rae230_2|1385701_at|1385701_at
+affy_rae230_2|1367794_at|1367794_at	rgd_symbol|A2m|A2m
+affy_rae230_2|1395442_at|1395442_at
+affy_rae230_2|1372449_at|1372449_at
+affy_rae230_2|1373062_at|1373062_at
+affy_rae230_2|1378624_at|1378624_at
+affy_rae230_2|1374779_at|1374779_at	rgd_symbol|F13a1|F13a1
+affy_rae230_2|1368448_at|1368448_at	rgd_symbol|Ltbp2|Ltbp2
+affy_rae230_2|1373386_at|1373386_at	rgd_symbol|Gjb2|Gjb2
+affy_rae230_2|1398387_at|1398387_at	rgd_symbol|MGC72614|MGC72614
+affy_rae230_2|1390901_at|1390901_at	rgd_symbol|Igsf10|Igsf10
+affy_rae230_2|1377163_at|1377163_at
+affy_rae230_2|1368028_at|1368028_at	rgd_symbol|Prph1|Prph1
+affy_rae230_2|1373401_at|1373401_at
+affy_rae230_2|1383353_at|1383353_at
+affy_rae230_2|1368700_at|1368700_at	rgd_symbol|Plcl1|Plcl1
+affy_rae230_2|1395109_at|1395109_at
+affy_rae230_2|1370969_at|1370969_at	rgd_symbol|Hoxa5|Hoxa5
+affy_rae230_2|1375857_at|1375857_at	rgd_symbol|RGD1564216_predicted|RGD1564216_predicted
+affy_rae230_2|1398270_at|1398270_at	rgd_symbol|Bmp2|Bmp2
+affy_rae230_2|1388356_at|1388356_at	rgd_symbol|S100a16_predicted|S100a16_predicted
+affy_rae230_2|1394483_at|1394483_at	rgd_symbol|Adamts5|Adamts5
+affy_rae230_2|1386953_at|1386953_at	rgd_symbol|Hsd11b1|Hsd11b1
+affy_rae230_2|1391169_at|1391169_at	rgd_symbol|RGD1562562_predicted|RGD1562562_predicted
+affy_rae230_2|1382422_at|1382422_at
+affy_rae230_2|1389310_at|1389310_at
+affy_rae230_2|1374389_at|1374389_at	rgd_symbol|Gucy1b3|Gucy1b3
+affy_rae230_2|1382535_at|1382535_at
+affy_rae230_2|1386965_at|1386965_at	rgd_symbol|Lpl|Lpl
+affy_rae230_2|1367570_at|1367570_at	rgd_symbol|Tagln|Tagln
+affy_rae230_2|1380641_at|1380641_at
+affy_rae230_2|1368914_at|1368914_at	rgd_symbol|Runx1|Runx1
+affy_rae230_2|1380088_at|1380088_at
+affy_rae230_2|1376937_at|1376937_at	rgd_symbol|RGD1565927_predicted|RGD1565927_predicted
+affy_rae230_2|1393653_at|1393653_at	rgd_symbol|RGD1560766_predicted|RGD1560766_predicted
+affy_rae230_2|1376165_at|1376165_at	rgd_symbol|Slc24a3|Slc24a3
+affy_rae230_2|1387868_at|1387868_at	rgd_symbol|Lbp|Lbp
+affy_rae230_2|1368394_at|1368394_at	rgd_symbol|Sfrp4|Sfrp4
+affy_rae230_2|1387144_at|1387144_at	rgd_symbol|Itga1|Itga1
+affy_rae230_2|1391936_a_at|1391936_a_at
+affy_rae230_2|1386921_at|1386921_at	rgd_symbol|Cpe|Cpe
+affy_rae230_2|1380850_at|1380850_at
+affy_rae230_2|1368806_at|1368806_at	rgd_symbol|Sepp1|Sepp1
+affy_rae230_2|1367846_at|1367846_at	rgd_symbol|S100a4|S100a4
+affy_rae230_2|1395986_at|1395986_at	rgd_symbol|Slit2|Slit2
+affy_rae230_2|1383219_at|1383219_at
+affy_rae230_2|1383947_at|1383947_at
+affy_rae230_2|1370459_at|1370459_at	rgd_symbol|Aard|Aard
+affy_rae230_2|1398347_at|1398347_at	rgd_symbol|Axl|Axl
+affy_rae230_2|1387050_s_at|1387050_s_at	rgd_symbol|Kng1 /// LOC25087 /// MGC108747|Kng1 /// LOC25087 /// MGC108747
+affy_rae230_2|1373740_at|1373740_at
+affy_rae230_2|1384051_at|1384051_at
+affy_rae230_2|1370161_at|1370161_at	rgd_symbol|Ssg1|Ssg1
+affy_rae230_2|1389874_at|1389874_at	rgd_symbol|LOC498425|LOC498425
+affy_rae230_2|1393281_at|1393281_at
+affy_rae230_2|1388116_at|1388116_at	rgd_symbol|Col1a1|Col1a1
+affy_rae230_2|1373818_at|1373818_at
+affy_rae230_2|1367594_at|1367594_at	rgd_symbol|Bgn|Bgn
+affy_rae230_2|1370026_at|1370026_at	rgd_symbol|Cryab|Cryab
+affy_rae230_2|1381079_at|1381079_at
+affy_rae230_2|1377240_at|1377240_at
+affy_rae230_2|1367859_at|1367859_at	rgd_symbol|Tgfb3|Tgfb3
+affy_rae230_2|1369113_at|1369113_at	rgd_symbol|Grem1|Grem1
+affy_rae230_2|1389066_at|1389066_at	rgd_symbol|Dscr1l1|Dscr1l1
+affy_rae230_2|1393891_at|1393891_at	rgd_symbol|Col8a1_predicted|Col8a1_predicted
+affy_rae230_2|1386149_at|1386149_at
+affy_rae230_2|1384709_at|1384709_at
+affy_rae230_2|1372111_at|1372111_at
+affy_rae230_2|1392785_at|1392785_at	rgd_symbol|Kctd12_predicted|Kctd12_predicted
+affy_rae230_2|1385008_at|1385008_at
+affy_rae230_2|1383644_at|1383644_at
+affy_rae230_2|1377086_at|1377086_at	rgd_symbol|C1qtnf3_predicted|C1qtnf3_predicted
+affy_rae230_2|1387004_at|1387004_at	rgd_symbol|Nbl1|Nbl1
+affy_rae230_2|1387854_at|1387854_at	rgd_symbol|Col1a2|Col1a2
+affy_rae230_2|1374529_at|1374529_at
+affy_rae230_2|1367568_a_at|1367568_a_at	rgd_symbol|Mgp|Mgp
+affy_rae230_2|1373000_at|1373000_at	rgd_symbol|Srpx2_predicted|Srpx2_predicted
+affy_rae230_2|1385014_at|1385014_at
+affy_rae230_2|1371774_at|1371774_at	rgd_symbol|Sat_mapped|Sat_mapped
+affy_rae230_2|1368359_a_at|1368359_a_at	rgd_symbol|Vgf|Vgf
+affy_rae230_2|1373152_at|1373152_at	rgd_symbol|Prss23|Prss23
+affy_rae230_2|1388902_at|1388902_at	rgd_symbol|Loxl1|Loxl1
+affy_rae230_2|1377795_at|1377795_at
+affy_rae230_2|1394109_at|1394109_at
+affy_rae230_2|1382579_at|1382579_at	rgd_symbol|Tnrc9_predicted|Tnrc9_predicted
+affy_rae230_2|1370959_at|1370959_at	rgd_symbol|Col3a1|Col3a1
+affy_rae230_2|1373628_at|1373628_at
+affy_rae230_2|1389653_at|1389653_at
+affy_rae230_2|1368171_at|1368171_at	rgd_symbol|Lox|Lox
+affy_rae230_2|1373911_at|1373911_at	rgd_symbol|Postn_predicted|Postn_predicted

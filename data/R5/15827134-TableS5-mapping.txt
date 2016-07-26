@@ -1,0 +1,25 @@
+# Generate Mapping Tables Script: Version 4 11:06 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:06 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+affy_hg_u133_plus_2|239735_at|239735_at	embl|N67106|N67106
+affy_hg_u133_plus_2|213605_s_at|213605_s_at	refseq_dna|AL049987.1|87.1
+affy_hg_u133_plus_2|216119_s_at|216119_s_at	refseq_dna|NM_003718.1|NM_003718	hgnc_symbol|CDC2L5|CDC2L5
+affy_hg_u133_plus_2|219029_at|219029_at	refseq_dna|NM_022483.1|NM_022483	hgnc_symbol|FLJ21657|FLJ21657
+affy_hg_u133_plus_2|220323_at|220323_at	entrezgene|AI831932|10365	hgnc_symbol|KLF2|KLF2
+affy_hg_u133_plus_2|206205_at|206205_at	refseq_dna|NM_022782.1|NM_022782	hgnc_symbol|MPHOSPH9|MPHOSPH9
+affy_hg_u133_plus_2|201877_s_at|201877_s_at	refseq_dna|NM_002719.1|NM_002719	hgnc_symbol|PPP2R5C|PPP2R5C
+affy_hg_u133_plus_2|208694_at|208694_at	refseq_dna|U47077.5|77.5	hgnc_symbol|PRKDC|PRKDC
+affy_hg_u133_plus_2|233560_x_at|233560_x_at	refseq_dna|AF006751.1|51.1	hgnc_symbol|RRBP1|RRBP1
+affy_hg_u133_plus_2|208794_s_at|208794_s_at	refseq_dna|D26156.1|56.1	hgnc_symbol|SMARCA4|SMARCA4
+affy_hg_u133_plus_2|206958_s_at|206958_s_at	refseq_dna|AF318575.1|75.1	hgnc_symbol|UPF3A|UPF3A
+affy_hg_u133_plus_2|215499_at|215499_at	entrezgene|AA032156|158572
+affy_hg_u133_plus_2|218332_at|218332_at	refseq_dna|AK023253.1|53.1	hgnc_symbol|DNAJB5|DNAJB5
+affy_hg_u133_plus_2|217224_at|217224_at	refseq_dna|K03193.1|93.1	hgnc_symbol|EGFR|EGFR
+affy_hg_u133_plus_2|211230_s_at|211230_s_at	refseq_dna|NM_017766.1|NM_017766	hgnc_symbol|FLJ20321|FLJ20321
+affy_hg_u133_plus_2|220686_s_at|220686_s_at	entrezgene|AI926697|145781	hgnc_symbol|FLJ30973|FLJ30973
+affy_hg_u133_plus_2|204746_s_at|204746_s_at	entrezgene|AA046650|11078	hgnc_symbol|HRIHFB2122|HRIHFB2122
+affy_hg_u133_plus_2|211172_x_at|211172_x_at	refseq_dna|NM_012324.1|NM_012324	hgnc_symbol|MAPK8IP2|MAPK8IP2
+affy_hg_u133_plus_2|203074_at|203074_at	refseq_dna|U57843.1|43.1	hgnc_symbol|PIK3CD|PIK3CD

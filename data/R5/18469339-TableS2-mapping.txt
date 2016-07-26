@@ -1,0 +1,506 @@
+# Generate Mapping Tables Script: Version 4 11:07 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:07 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+affy_mouse430_2|1443621_at|1443621_at	entrezgene|BG092359|327959	mgi_symbol|BG092359|BG092359
+affy_mouse430_2|1434701_at|1434701_at	entrezgene|104611|104611	entrezgene|BB795363|268420	mgi_symbol|AW215868|AW215868
+affy_mouse430_2|1426278_at|1426278_at	entrezgene|76933|76933	entrezgene|AY090098|76933	mgi_symbol|Ifi27|Ifi27
+affy_mouse430_2|1453749_at|1453749_at	entrezgene|72203|72203	embl|BB749723|BB749723	mgi_symbol|2610507I01Rik|2610507I01Rik
+affy_mouse430_2|1426690_a_at|1426690_a_at	ensembl_gene_id|ENSMUSG00000020538|ENSMUSG00000020538	entrezgene|20787|20787	entrezgene|AI326423|20787	mgi_symbol|Srebf1|Srebf1
+affy_mouse430_2|1441198_at|1441198_at	ensembl_gene_id|ENSMUSG00000037001|ENSMUSG00000037001	entrezgene|22698|22698	entrezgene|BB311524|22698	mgi_symbol|Zfp39|Zfp39
+affy_mouse430_2|1440260_at|1440260_at	entrezgene|77944|77944	embl|BG064532|BG064532	mgi_symbol|A930007B11Rik|A930007B11Rik
+affy_mouse430_2|1417477_at|1417477_at	ensembl_gene_id|ENSMUSG00000018931|ENSMUSG00000018931	entrezgene|24083|24083	refseq_dna|NM_025294|NM_025294	mgi_symbol|Gtlf3b|Gtlf3b
+affy_mouse430_2|1418304_at|1418304_at	ensembl_gene_id|ENSMUSG00000021803|ENSMUSG00000021803	entrezgene|170677|170677	refseq_dna|NM_130878|NM_130878	mgi_symbol|Pcdh21|Pcdh21
+affy_mouse430_2|1429017_at|1429017_at	entrezgene|237782|237782	entrezgene|AK010198|237782	mgi_symbol|Smcr8|Smcr8
+affy_mouse430_2|1424869_at|1424869_at	ensembl_gene_id|ENSMUSG00000042569|ENSMUSG00000042569	entrezgene|216820|216820	entrezgene|BC003479|216820	mgi_symbol|Dhrs7b|Dhrs7b
+affy_mouse430_2|1439426_x_at|1439426_x_at	ensembl_gene_id|ENSMUSG00000069515|ENSMUSG00000069515	entrezgene|17110|17110	entrezgene|AV058500|17105	mgi_symbol|Lzp-s|Lzp-s
+affy_mouse430_2|1416621_at|1416621_at	ensembl_gene_id|ENSMUSG00000020536|ENSMUSG00000020536	entrezgene|16897|16897	refseq_dna|NM_008502|NM_008502	mgi_symbol|Llgl1|Llgl1
+affy_mouse430_2|1428026_at|1428026_at	ensembl_gene_id|ENSMUSG00000047907|ENSMUSG00000047907	entrezgene|228911|228911	entrezgene|BC028776|228911	mgi_symbol|Tshz2|Tshz2
+affy_mouse430_2|1427066_a_at|1427066_a_at	ensembl_gene_id|ENSMUSG00000018415|ENSMUSG00000018415	entrezgene|66771|66771	entrezgene|AJ404329|66771	mgi_symbol|4933439F18Rik|4933439F18Rik
+affy_mouse430_2|1426474_at|1426474_at	ensembl_gene_id|ENSMUSG00000042709|ENSMUSG00000042709	entrezgene|246782|246782	entrezgene|AI851949|246782	mgi_symbol|Atpaf2|Atpaf2
+affy_mouse430_2|1459702_at|1459702_at	embl|BB748702|BB748702
+affy_mouse430_2|1429453_a_at|1429453_a_at	ensembl_gene_id|ENSMUSG00000036860|ENSMUSG00000036860	entrezgene|67212|67212	entrezgene|BM209870|67212	mgi_symbol|Mrpl55|Mrpl55
+affy_mouse430_2|1428891_at|1428891_at	entrezgene|AK008716|231440
+affy_mouse430_2|1416137_at|1416137_at	ensembl_gene_id|ENSMUSG00000021814|ENSMUSG00000021814	entrezgene|11750|11750	entrezgene|BC008997|11750	mgi_symbol|Anxa7|Anxa7
+affy_mouse430_2|1434072_at|1434072_at	ensembl_gene_id|ENSMUSG00000018599|ENSMUSG00000018599	entrezgene|237781|237781	entrezgene|AV299469|237781	mgi_symbol|Smcr7|Smcr7
+affy_mouse430_2|1453767_a_at|1453767_a_at	ensembl_gene_id|ENSMUSG00000032615|ENSMUSG00000032615	entrezgene|103850|103850	entrezgene|AK008226|103850	mgi_symbol|Nt5m|Nt5m
+affy_mouse430_2|1417692_at|1417692_at	ensembl_gene_id|ENSMUSG00000020537|ENSMUSG00000020537	entrezgene|13495|13495	refseq_dna|NM_021354|NM_021354	mgi_symbol|Drg2|Drg2
+affy_mouse430_2|1448189_a_at|1448189_a_at	ensembl_gene_id|ENSMUSG00000002812|ENSMUSG00000002812	entrezgene|14248|14248	refseq_dna|NM_022009|NM_022009	mgi_symbol|Flii|Flii
+affy_mouse430_2|1430535_at|1430535_at	ensembl_gene_id|ENSMUSG00000027806|ENSMUSG00000027806	entrezgene|72033|72033	entrezgene|BB045401|72033	mgi_symbol|Tsc22d2|Tsc22d2
+affy_mouse430_2|1452710_at|1452710_at	ensembl_gene_id|ENSMUSG00000032044|ENSMUSG00000032044	entrezgene|71989|71989	entrezgene|AK010322|71989	mgi_symbol|Rpusd4|Rpusd4
+affy_mouse430_2|1449390_at|1449390_at	ensembl_gene_id|ENSMUSG00000028069|ENSMUSG00000028069	entrezgene|66614|66614	refseq_dna|NM_025663|NM_025663	mgi_symbol|Gpatc4|Gpatc4
+affy_mouse430_2|1443900_at|1443900_at	ensembl_gene_id|ENSMUSG00000035714|ENSMUSG00000035714	entrezgene|67772|67772	entrezgene|AV117964|67772	mgi_symbol|Chd8|Chd8
+affy_mouse430_2|1417574_at|1417574_at	ensembl_gene_id|ENSMUSG00000061353|ENSMUSG00000061353	entrezgene|20315|20315	refseq_dna|NM_013655|NM_013655	mgi_symbol|Cxcl12|Cxcl12
+affy_mouse430_2|1448064_at|1448064_at	entrezgene|56705|56705	embl|BG079520|BG079520	mgi_symbol|Ranbp9|Ranbp9
+affy_mouse430_2|1422869_at|1422869_at	entrezgene|17289|17289	refseq_dna|NM_008587|NM_008587	mgi_symbol|Mertk|Mertk
+affy_mouse430_2|1446497_at|1446497_at	entrezgene|215690|215690	embl|BB499356|BB499356	mgi_symbol|Nav1|Nav1
+affy_mouse430_2|1421694_a_at|1421694_a_at	ensembl_gene_id|ENSMUSG00000021614|ENSMUSG00000021614	entrezgene|13003|13003	refseq_dna|NM_019389|NM_019389	mgi_symbol|Cspg2|Cspg2
+affy_mouse430_2|1438133_a_at|1438133_a_at	ensembl_gene_id|ENSMUSG00000028195|ENSMUSG00000028195	entrezgene|16007|16007	entrezgene|BM202770|16007	mgi_symbol|Cyr61|Cyr61
+affy_mouse430_2|1452013_at|1452013_at	ensembl_gene_id|ENSMUSG00000025324|ENSMUSG00000025324	entrezgene|11982|11982	entrezgene|AF156549|11982	mgi_symbol|Atp10a|Atp10a
+affy_mouse430_2|1449448_at|1449448_at	ensembl_gene_id|ENSMUSG00000061650|ENSMUSG00000061650	entrezgene|192191|192191	entrezgene|BC019367|192191	mgi_symbol|Med9|Med9
+affy_mouse430_2|1443698_at|1443698_at	ensembl_gene_id|ENSMUSG00000040483|ENSMUSG00000040483	entrezgene|327959|327959	entrezgene|BB645745|327959	mgi_symbol|Fbxo39|Fbxo39
+affy_mouse430_2|1428223_at|1428223_at	ensembl_gene_id|ENSMUSG00000028655|ENSMUSG00000028655	entrezgene|76574|76574	entrezgene|AK006096|76574	mgi_symbol|Mfsd2|Mfsd2
+affy_mouse430_2|1435385_at|1435385_at	entrezgene|228911|228911	entrezgene|AW556161|228911	mgi_symbol|Tshz2|Tshz2
+affy_mouse430_2|1436996_x_at|1436996_x_at	ensembl_gene_id|ENSMUSG00000069515|ENSMUSG00000069515	entrezgene|17110|17110	embl|AV066625|AV066625	mgi_symbol|Lzp-s|Lzp-s
+affy_mouse430_2|1429606_at|1429606_at	entrezgene|75834|75834	embl|AI648250|AI648250	mgi_symbol|4930527B16Rik|4930527B16Rik
+affy_mouse430_2|1456557_at|1456557_at	ensembl_gene_id|ENSMUSG00000028637|ENSMUSG00000028637	entrezgene|73332|73332	entrezgene|BB256666|73332	mgi_symbol|1700041C02Rik|1700041C02Rik
+affy_mouse430_2|1441129_at|1441129_at	entrezgene|52398|52398	embl|BB155713|BB155713	mgi_symbol|7-Aug|7-Aug
+affy_mouse430_2|1425441_at|1425441_at	embl|BC024810|BC024810
+affy_mouse430_2|1435865_at|1435865_at	ensembl_gene_id|ENSMUSG00000036964|ENSMUSG00000036964	entrezgene|319162|319162	entrezgene|AV297651|319162	mgi_symbol|Hist3h2a|Hist3h2a
+affy_mouse430_2|1429895_at|1429895_at	entrezgene|69591|69591	entrezgene|AK009271|77644	mgi_symbol|2310010G23Rik|2310010G23Rik
+affy_mouse430_2|1449824_at|1449824_at	ensembl_gene_id|ENSMUSG00000006014|ENSMUSG00000006014	entrezgene|96875|96875	refseq_dna|NM_021400|NM_021400	mgi_symbol|Prg4|Prg4
+affy_mouse430_2|1434385_at|1434385_at	ensembl_gene_id|ENSMUSG00000000538|ENSMUSG00000000538	entrezgene|216810|216810	entrezgene|BG072270|216810	mgi_symbol|Tom1l2|Tom1l2
+affy_mouse430_2|1459717_at|1459717_at	entrezgene|257882|257882	entrezgene|AW045505|257882	mgi_symbol|Olfr1344|Olfr1344
+affy_mouse430_2|1444331_at|1444331_at	entrezgene|72003|72003	embl|BG070492|BG070492	mgi_symbol|Synpr|Synpr
+affy_mouse430_2|1437411_at|1437411_at	ensembl_gene_id|ENSMUSG00000040865|ENSMUSG00000040865	entrezgene|227195|227195	entrezgene|BM226368|227195	mgi_symbol|BC010584|BC010584
+affy_mouse430_2|1420454_at|1420454_at	entrezgene|19377|19377	refseq_dna|NM_009021|NM_009021	mgi_symbol|Rai1|Rai1
+affy_mouse430_2|1426051_a_at|1426051_a_at	ensembl_gene_id|ENSMUSG00000068267|ENSMUSG00000068267	entrezgene|12616|12616	entrezgene|BC006628|12616	mgi_symbol|Cenpb|Cenpb
+affy_mouse430_2|1440558_at|1440558_at	ensembl_gene_id|ENSMUSG00000024566|ENSMUSG00000024566	entrezgene|BB023955|50771
+affy_mouse430_2|1446279_at|1446279_at	entrezgene|320840|320840	embl|BB281489|BB281489	mgi_symbol|Negr1|Negr1
+affy_mouse430_2|1438590_at|1438590_at	entrezgene|223864|223864	entrezgene|BB280100|223864	mgi_symbol|Rapgef3|Rapgef3
+affy_mouse430_2|1418981_at|1418981_at	ensembl_gene_id|ENSMUSG00000025887|ENSMUSG00000025887	entrezgene|12364|12364	refseq_dna|NM_009808|NM_009808	mgi_symbol|Casp12|Casp12
+affy_mouse430_2|1444377_at|1444377_at	entrezgene|26445|26445	embl|BM201103|BM201103	mgi_symbol|Psmb2|Psmb2
+affy_mouse430_2|1449316_at|1449316_at	ensembl_gene_id|ENSMUSG00000073424|ENSMUSG00000073424	entrezgene|106648|106648	refseq_dna|NM_134127|NM_134127	mgi_symbol|Cyp4f15|Cyp4f15
+affy_mouse430_2|1418266_at|1418266_at	ensembl_gene_id|ENSMUSG00000032807|ENSMUSG00000032807	entrezgene|11686|11686	refseq_dna|NM_009659|NM_009659	mgi_symbol|Alox12b|Alox12b
+affy_mouse430_2|1426995_a_at|1426995_a_at	ensembl_gene_id|ENSMUSG00000040888|ENSMUSG00000040888	entrezgene|11692|11692	entrezgene|BI901126|11692	mgi_symbol|Gfer|Gfer
+affy_mouse430_2|1442168_at|1442168_at	entrezgene|320380|320380	embl|BB229264|BB229264	mgi_symbol|A230071A22Rik|A230071A22Rik
+affy_mouse430_2|1447791_s_at|1447791_s_at	ensembl_gene_id|ENSMUSG00000024697|ENSMUSG00000024697	entrezgene|14675|14675	entrezgene|AV230778|14675	mgi_symbol|Gna14|Gna14
+affy_mouse430_2|1441367_a_at|1441367_a_at	embl|BG076370|BG076370
+affy_mouse430_2|1447096_at|1447096_at	embl|AU042527|AU042527
+affy_mouse430_2|1436943_at|1436943_at	ensembl_gene_id|ENSMUSG00000057778|ENSMUSG00000057778	entrezgene|192986|192986	embl|BB078068|BB078068	mgi_symbol|Cyb5d2|Cyb5d2
+affy_mouse430_2|1443516_at|1443516_at	entrezgene|20239|20239	embl|BE953583|BE953583	mgi_symbol|Atxn2|Atxn2
+affy_mouse430_2|1455000_at|1455000_at	ensembl_gene_id|ENSMUSG00000047415|ENSMUSG00000047415	entrezgene|238377|238377	entrezgene|BB538372|238377	mgi_symbol|Gpr68|Gpr68
+affy_mouse430_2|1438006_at|1438006_at	ensembl_gene_id|ENSMUSG00000018415|ENSMUSG00000018415	entrezgene|66771|66771	embl|BB818702|BB818702	mgi_symbol|4933439F18Rik|4933439F18Rik
+affy_mouse430_2|1416805_at|1416805_at	ensembl_gene_id|ENSMUSG00000027955|ENSMUSG00000027955	entrezgene|68659|68659	refseq_dna|NM_133187|NM_133187	mgi_symbol|1110032E23Rik|1110032E23Rik
+affy_mouse430_2|1444562_at|1444562_at	entrezgene|100763|100763	embl|BE690666|BE690666	mgi_symbol|Ube3c|Ube3c
+affy_mouse430_2|1436542_at|1436542_at	entrezgene|19216|19216	embl|BE948730|BE948730	mgi_symbol|Ptger1|Ptger1
+affy_mouse430_2|1416133_at|1416133_at	ensembl_gene_id|ENSMUSG00000015002|ENSMUSG00000015002	entrezgene|76740|76740	entrezgene|BB188557|76740	mgi_symbol|C920006C10Rik|C920006C10Rik
+affy_mouse430_2|1438257_at|1438257_at	entrezgene|81018|81018	embl|AW045878|AW045878	mgi_symbol|Zfp313|Zfp313
+affy_mouse430_2|1460613_x_at|1460613_x_at	ensembl_gene_id|ENSMUSG00000020713|ENSMUSG00000020713	entrezgene|14599|14599	embl|BB026315|BB026315	mgi_symbol|Gh|Gh
+affy_mouse430_2|1457344_at|1457344_at	entrezgene|74513|74513	entrezgene|BB348893|74513	mgi_symbol|Neto2|Neto2
+affy_mouse430_2|1418591_at|1418591_at	ensembl_gene_id|ENSMUSG00000032285|ENSMUSG00000032285	entrezgene|58233|58233	refseq_dna|NM_021422|NM_021422	mgi_symbol|Dnaja4|Dnaja4
+affy_mouse430_2|1429655_at|1429655_at	ensembl_gene_id|ENSMUSG00000038736|ENSMUSG00000038736	entrezgene|67429|67429	entrezgene|AW542236|67429	mgi_symbol|Nudcd1|Nudcd1
+affy_mouse430_2|1458178_at|1458178_at	entrezgene|242297|242297	embl|BG074686|BG074686	mgi_symbol|1700012H17Rik|1700012H17Rik
+affy_mouse430_2|1436417_at|1436417_at	ensembl_gene_id|ENSMUSG00000038496|ENSMUSG00000038496	entrezgene|BG070700|80721
+affy_mouse430_2|1459112_at|1459112_at	embl|BB016323|BB016323
+affy_mouse430_2|1429141_at|1429141_at	ensembl_gene_id|ENSMUSG00000039873|ENSMUSG00000039873	entrezgene|415115|415115	embl|AK004524|AK004524	mgi_symbol|Neurl2|Neurl2
+affy_mouse430_2|1419896_at|1419896_at	entrezgene|103503|103503	entrezgene|BB001228|103503	mgi_symbol|BB001228|BB001228
+affy_mouse430_2|1417576_a_at|1417576_a_at	ensembl_gene_id|ENSMUSG00000021203|ENSMUSG00000021203	entrezgene|68149|68149	entrezgene|AK006346|68149	mgi_symbol|Otub2|Otub2
+affy_mouse430_2|1431334_a_at|1431334_a_at	ensembl_gene_id|ENSMUSG00000044715|ENSMUSG00000044715	entrezgene|66787|66787	embl|AK017049|AK017049	mgi_symbol|4933433P14Rik|4933433P14Rik
+affy_mouse430_2|1453311_at|1453311_at	entrezgene|70094|70094	embl|BM202851|BM202851	mgi_symbol|2310008B10Rik|2310008B10Rik
+affy_mouse430_2|1446805_at|1446805_at	entrezgene|14395|14395	embl|BB433285|BB433285	mgi_symbol|Gabra2|Gabra2
+affy_mouse430_2|1449184_at|1449184_at	ensembl_gene_id|ENSMUSG00000030413|ENSMUSG00000030413	entrezgene|21946|21946	refseq_dna|NM_009402|NM_009402	mgi_symbol|Pglyrp1|Pglyrp1
+affy_mouse430_2|1434536_at|1434536_at	entrezgene|237716|237716	embl|BQ175263|BQ175263	mgi_symbol|Gpr75|Gpr75
+affy_mouse430_2|1448034_at|1448034_at	ensembl_gene_id|ENSMUSG00000057054|ENSMUSG00000057054	entrezgene|103844|103844	entrezgene|AA215276|103844	mgi_symbol|AI842396|AI842396
+affy_mouse430_2|1428814_at|1428814_at	embl|BB543376|BB543376
+affy_mouse430_2|1456595_x_at|1456595_x_at	ensembl_gene_id|ENSMUSG00000020713|ENSMUSG00000020713	entrezgene|14599|14599	entrezgene|BB026232|14599	mgi_symbol|Gh|Gh
+affy_mouse430_2|1444101_at|1444101_at	entrezgene|18286|18286	embl|BB523536|BB523536	mgi_symbol|Odf2|Odf2
+affy_mouse430_2|1444521_at|1444521_at	embl|BM219285|BM219285
+affy_mouse430_2|1443968_at|1443968_at	entrezgene|110532|110532	entrezgene|BI202667|110532	mgi_symbol|Adarb1|Adarb1
+affy_mouse430_2|1420510_at|1420510_at	entrezgene|BB041813|67222
+affy_mouse430_2|1420516_at|1420516_at	ensembl_gene_id|ENSMUSG00000027596|ENSMUSG00000027596	entrezgene|50518|50518	refseq_dna|NM_015770|NM_015770	mgi_symbol|a|a
+affy_mouse430_2|1437176_at|1437176_at	ensembl_gene_id|ENSMUSG00000074151|ENSMUSG00000074151	entrezgene|102084|102084	entrezgene|AV277444|434341	mgi_symbol|AI451557|AI451557
+affy_mouse430_2|1427082_at|1427082_at	ensembl_gene_id|ENSMUSG00000034308|ENSMUSG00000034308	entrezgene|74032|74032	entrezgene|AK014586|74032	mgi_symbol|4632417N05Rik|4632417N05Rik
+affy_mouse430_2|1416044_at|1416044_at	ensembl_gene_id|ENSMUSG00000002812|ENSMUSG00000002812	entrezgene|14248|14248	refseq_dna|NM_022009|NM_022009	mgi_symbol|Flii|Flii
+affy_mouse430_2|1432181_s_at|1432181_s_at	ensembl_gene_id|ENSMUSG00000022615|ENSMUSG00000022615	entrezgene|72962|72962	embl|AK013765|AK013765	mgi_symbol|Ecgf1|Ecgf1
+affy_mouse430_2|1425637_at|1425637_at	embl|BC016247|BC016247
+affy_mouse430_2|1420025_s_at|1420025_s_at	ensembl_gene_id|ENSMUSG00000062792|ENSMUSG00000062792	entrezgene|637741|637741	entrezgene|C79663|269774	mgi_symbol|LOC637741|LOC637741
+affy_mouse430_2|1438108_at|1438108_at	ensembl_gene_id|ENSMUSG00000051344|ENSMUSG00000051344	entrezgene|241075|241075	entrezgene|BB312350|241075	mgi_symbol|9430067K14Rik|9430067K14Rik
+affy_mouse430_2|1418599_at|1418599_at	ensembl_gene_id|ENSMUSG00000027966|ENSMUSG00000027966	entrezgene|12814|12814	refseq_dna|NM_007729|NM_007729	mgi_symbol|Col11a1|Col11a1
+affy_mouse430_2|1459126_at|1459126_at	entrezgene|320840|320840	embl|AV015101|AV015101	mgi_symbol|Negr1|Negr1
+affy_mouse430_2|1427339_at|1427339_at	entrezgene|230810|230810	entrezgene|AW542735|230810	mgi_symbol|Slc30a2|Slc30a2
+affy_mouse430_2|1452931_at|1452931_at	ensembl_gene_id|ENSMUSG00000039725|ENSMUSG00000039725	entrezgene|381406|381406	entrezgene|BB772272|381406	mgi_symbol|2810408M09Rik|2810408M09Rik
+affy_mouse430_2|1437728_at|1437728_at	ensembl_gene_id|ENSMUSG00000042650|ENSMUSG00000042650	entrezgene|268420|268420	entrezgene|BB397845|268420	mgi_symbol|Alkbh5|Alkbh5
+affy_mouse430_2|1447047_at|1447047_at	entrezgene|70455|70455	embl|AW124751|AW124751	mgi_symbol|2610203C20Rik|2610203C20Rik
+affy_mouse430_2|1452217_at|1452217_at	ensembl_gene_id|ENSMUSG00000069833|ENSMUSG00000069833	entrezgene|66395|66395	entrezgene|BE570050|66395	mgi_symbol|Ahnak|Ahnak
+affy_mouse430_2|1424751_at|1424751_at	ensembl_gene_id|ENSMUSG00000036376|ENSMUSG00000036376	entrezgene|30946|30946	entrezgene|AB021860|30946	mgi_symbol|Abt1|Abt1
+affy_mouse430_2|1426206_at|1426206_at	ensembl_gene_id|ENSMUSG00000032125|ENSMUSG00000032125	entrezgene|74144|74144	entrezgene|BC020129|74144	mgi_symbol|Robo4|Robo4
+affy_mouse430_2|1451487_at|1451487_at	ensembl_gene_id|ENSMUSG00000070953|ENSMUSG00000070953	entrezgene|227746|227746	entrezgene|BC019800|227746	mgi_symbol|Rabepk|Rabepk
+affy_mouse430_2|1427282_a_at|1427282_a_at	ensembl_gene_id|ENSMUSG00000059363|ENSMUSG00000059363	entrezgene|14297|14297	entrezgene|AV007132|14297	mgi_symbol|Fxn|Fxn
+affy_mouse430_2|1457367_at|1457367_at	entrezgene|11723|11723	embl|BB667309|BB667309	mgi_symbol|Amy2|Amy2
+affy_mouse430_2|1438084_at|1438084_at	entrezgene|23792|23792	embl|BB432628|BB432628	mgi_symbol|Adam23|Adam23
+affy_mouse430_2|1437151_at|1437151_at	ensembl_gene_id|ENSMUSG00000042506|ENSMUSG00000042506	entrezgene|216825|216825	entrezgene|AI427806|216825	mgi_symbol|Usp22|Usp22
+affy_mouse430_2|1419759_at|1419759_at	entrezgene|18671|18671	entrezgene|M30697|18671	mgi_symbol|Abcb1a|Abcb1a
+affy_mouse430_2|1423856_at|1423856_at	entrezgene|78977|78977	entrezgene|BC003896|319195	mgi_symbol|Popdc3|Popdc3
+affy_mouse430_2|1434188_at|1434188_at	ensembl_gene_id|ENSMUSG00000009378|ENSMUSG00000009378	entrezgene|240638|240638	entrezgene|AV220703|240638	mgi_symbol|Slc16a12|Slc16a12
+affy_mouse430_2|1444663_at|1444663_at	entrezgene|22344|22344	entrezgene|BB546415|22344	mgi_symbol|Vezf1|Vezf1
+affy_mouse430_2|1441558_at|1441558_at	entrezgene|399635|399635	embl|BB472163|BB472163	mgi_symbol|D230044B12Rik|D230044B12Rik
+affy_mouse430_2|1424471_at|1424471_at	ensembl_gene_id|ENSMUSG00000022469|ENSMUSG00000022469	entrezgene|223864|223864	entrezgene|BC020532|223864	mgi_symbol|Rapgef3|Rapgef3
+affy_mouse430_2|1425698_a_at|1425698_a_at	ensembl_gene_id|ENSMUSG00000051451|ENSMUSG00000051451	entrezgene|233490|233490	entrezgene|AF408398|233490	mgi_symbol|Crebzf|Crebzf
+affy_mouse430_2|1419235_s_at|1419235_s_at	ensembl_gene_id|ENSMUSG00000020228|ENSMUSG00000020228	entrezgene|117599|117599	entrezgene|BG070273|117599	mgi_symbol|Helb|Helb
+affy_mouse430_2|1455712_at|1455712_at	entrezgene|319162|319162	entrezgene|AI848909|319162	mgi_symbol|Hist3h2a|Hist3h2a
+affy_mouse430_2|1459383_at|1459383_at	entrezgene|22710|22710	entrezgene|BB557350|381066	mgi_symbol|Zfp52|Zfp52
+affy_mouse430_2|1454755_at|1454755_at	ensembl_gene_id|ENSMUSG00000003752|ENSMUSG00000003752	entrezgene|233011|233011	entrezgene|AV375361|233011	mgi_symbol|Itpkc|Itpkc
+affy_mouse430_2|1430162_at|1430162_at	ensembl_gene_id|ENSMUSG00000031179|ENSMUSG00000031179	entrezgene|70696|70696	entrezgene|AK014439|70696	mgi_symbol|3830417A13Rik|3830417A13Rik
+affy_mouse430_2|1418537_at|1418537_at	ensembl_gene_id|ENSMUSG00000052605|ENSMUSG00000052605	entrezgene|67441|67441	refseq_dna|NM_026158|NM_026158	mgi_symbol|Isoc2b|Isoc2b
+affy_mouse430_2|1425088_at|1425088_at	ensembl_gene_id|ENSMUSG00000030340|ENSMUSG00000030340	entrezgene|20276|20276	entrezgene|AF112185|20276	mgi_symbol|Scnn1a|Scnn1a
+affy_mouse430_2|1437522_x_at|1437522_x_at	ensembl_gene_id|ENSMUSG00000020713|ENSMUSG00000020713	entrezgene|14599|14599	embl|BB025253|BB025253	mgi_symbol|Gh|Gh
+affy_mouse430_2|1440055_at|1440055_at	entrezgene|226551|226551	embl|BB538816|BB538816	mgi_symbol|AI848100|AI848100
+affy_mouse430_2|1418696_at|1418696_at	ensembl_gene_id|ENSMUSG00000039438|ENSMUSG00000039438	entrezgene|192653|192653	refseq_dna|NM_138951|NM_138951	mgi_symbol|BC021608|BC021608
+affy_mouse430_2|1439929_at|1439929_at	entrezgene|52065|52065	embl|AW557531|AW557531	mgi_symbol|Mfhas1|Mfhas1
+affy_mouse430_2|1437798_at|1437798_at	entrezgene|99946|99946	embl|BB051012|BB051012	mgi_symbol|6720422M22Rik|6720422M22Rik
+affy_mouse430_2|1444487_at|1444487_at	ensembl_gene_id|ENSMUSG00000028003|ENSMUSG00000028003	entrezgene|79235|79235	entrezgene|BB518473|79235	mgi_symbol|Lrat|Lrat
+affy_mouse430_2|1424945_at|1424945_at	ensembl_gene_id|ENSMUSG00000031283|ENSMUSG00000031283	entrezgene|83453|83453	entrezgene|AF321853|83453	mgi_symbol|Chrdl1|Chrdl1
+affy_mouse430_2|1416215_at|1416215_at	ensembl_gene_id|ENSMUSG00000010392|ENSMUSG00000010392	entrezgene|53334|53334	refseq_dna|NM_016810|NM_016810	mgi_symbol|Gosr1|Gosr1
+affy_mouse430_2|1450378_at|1450378_at	ensembl_gene_id|ENSMUSG00000024308|ENSMUSG00000024308	entrezgene|21356|21356	entrezgene|AF043943|21356	mgi_symbol|Tapbp|Tapbp
+affy_mouse430_2|1447733_x_at|1447733_x_at	embl|AV325788|AV325788
+affy_mouse430_2|1426600_at|1426600_at	ensembl_gene_id|ENSMUSG00000028645|ENSMUSG00000028645	entrezgene|20525|20525	entrezgene|BM209618|20525	mgi_symbol|Slc2a1|Slc2a1
+affy_mouse430_2|1422160_at|1422160_at	entrezgene|15042|15042	entrezgene|L22338|15042	mgi_symbol|H2-T24|H2-T24
+affy_mouse430_2|1439564_at|1439564_at	ensembl_gene_id|ENSMUSG00000037689|ENSMUSG00000037689	entrezgene|78469|78469	entrezgene|AV270327|78469	mgi_symbol|1700090G07Rik|1700090G07Rik
+affy_mouse430_2|1418937_at|1418937_at	entrezgene|13371|13371	entrezgene|AF177196|13371	mgi_symbol|Dio2|Dio2
+affy_mouse430_2|1449491_at|1449491_at	ensembl_gene_id|ENSMUSG00000033170|ENSMUSG00000033170	entrezgene|105844|105844	refseq_dna|NM_130859|NM_130859	mgi_symbol|Card10|Card10
+affy_mouse430_2|1434621_at|1434621_at	entrezgene|407831|407831	entrezgene|AV298104|407831	mgi_symbol|BC054438|BC054438
+affy_mouse430_2|1421957_a_at|1421957_a_at	ensembl_gene_id|ENSMUSG00000005615|ENSMUSG00000005615	entrezgene|13026|13026	refseq_dna|NM_009981|NM_009981	mgi_symbol|Pcyt1a|Pcyt1a
+affy_mouse430_2|1434196_at|1434196_at	ensembl_gene_id|ENSMUSG00000032285|ENSMUSG00000032285	entrezgene|58233|58233	entrezgene|BQ176119|58233	mgi_symbol|Dnaja4|Dnaja4
+affy_mouse430_2|1440942_at|1440942_at	entrezgene|240025|240025	entrezgene|AW489137|240025	mgi_symbol|Dact2|Dact2
+affy_mouse430_2|1426368_at|1426368_at	ensembl_gene_id|ENSMUSG00000001768|ENSMUSG00000001768	entrezgene|74030|74030	entrezgene|AK014548|433482	mgi_symbol|Rin2|Rin2
+affy_mouse430_2|1453200_at|1453200_at	ensembl_gene_id|ENSMUSG00000062115|ENSMUSG00000062115	entrezgene|19377|19377	entrezgene|AK013909|19377	mgi_symbol|Rai1|Rai1
+affy_mouse430_2|1436605_at|1436605_at	ensembl_gene_id|ENSMUSG00000021957|ENSMUSG00000021957	entrezgene|21881|21881	entrezgene|BB022982|21881	mgi_symbol|Tkt|Tkt
+affy_mouse430_2|1422948_s_at|1422948_s_at	ensembl_gene_id|ENSMUSG00000060832 /// ENSMUSG00000064288 /// ENSMUSG00000069306 /// ENSMUSG00000069305 /// ENSMUSG00000060639 /// ENSMUSG00000060981 /// ENSMUSG00000060678 /// ENSMUSG00000069266 /// ENSMUSG00000060093|ENSMUSG00000060832 /// ENSMUSG00000064288 /// ENSMUSG00000069306 /// ENSMUSG00000069305 /// ENSMUSG00000060639 /// ENSMUSG00000060981 /// ENSMUSG00000060678 /// ENSMUSG00000069266 /// ENSMUSG00000060093	entrezgene|319155 /// 319158 /// 319159 /// 319160 /// 319161 /// 326619 /// 326620 /// 69386|319155 /// 319158 /// 319159 /// 319160 /// 319161 /// 326619 /// 326620 /// 69386	refseq_dna|NM_013550|NM_013550	mgi_symbol|Hist1h4h /// Hist1h4c /// Hist1h4i /// Hist1h4j /// Hist1h4k /// Hist1h4m /// Hist1h4a /// Hist1h4b|Hist1h4h /// Hist1h4c /// Hist1h4i /// Hist1h4j /// Hist1h4k /// Hist1h4m /// Hist1h4a /// Hist1h4b
+affy_mouse430_2|1448844_at|1448844_at	ensembl_gene_id|ENSMUSG00000031924|ENSMUSG00000031924	entrezgene|66427|66427	refseq_dna|NM_025558|NM_025558	mgi_symbol|Cyb5b|Cyb5b
+affy_mouse430_2|1450034_at|1450034_at	entrezgene|20846|20846	entrezgene|AW214029|20846	mgi_symbol|Stat1|Stat1
+affy_mouse430_2|1430877_at|1430877_at	entrezgene|77207|77207	embl|BE955795|BE955795	mgi_symbol|8030425K09Rik|8030425K09Rik
+affy_mouse430_2|1425919_at|1425919_at	entrezgene|66414|66414	embl|BC004633|BC004633	mgi_symbol|Ndufa12|Ndufa12
+affy_mouse430_2|1444579_at|1444579_at	entrezgene|229542|229542	embl|BG094502|BG094502	mgi_symbol|Gatad2b|Gatad2b
+affy_mouse430_2|1418058_at|1418058_at	ensembl_gene_id|ENSMUSG00000039167|ENSMUSG00000039167	entrezgene|170757|170757	entrezgene|BC017134|170757	mgi_symbol|Eltd1|Eltd1
+affy_mouse430_2|1441017_at|1441017_at	ensembl_gene_id|ENSMUSG00000061410|ENSMUSG00000061410	entrezgene|142682|142682	entrezgene|BB336452|142682	mgi_symbol|Zcchc14|Zcchc14
+affy_mouse430_2|1446501_at|1446501_at	ensembl_gene_id|ENSMUSG00000044243|ENSMUSG00000044243	entrezgene|320522|320522	entrezgene|BB271275|320522	mgi_symbol|A830053O21Rik|A830053O21Rik
+affy_mouse430_2|1449419_at|1449419_at	ensembl_gene_id|ENSMUSG00000052085|ENSMUSG00000052085	entrezgene|76088|76088	refseq_dna|NM_028785|NM_028785	mgi_symbol|Dock8|Dock8
+affy_mouse430_2|1451321_a_at|1451321_a_at	ensembl_gene_id|ENSMUSG00000036249|ENSMUSG00000036249	entrezgene|71684|71684	entrezgene|BC003333|71684	mgi_symbol|0610033I05Rik|0610033I05Rik
+affy_mouse430_2|1448839_at|1448839_at	ensembl_gene_id|ENSMUSG00000042099|ENSMUSG00000042099	entrezgene|80880|80880	refseq_dna|NM_030697|NM_030697	mgi_symbol|Ankrd47|Ankrd47
+affy_mouse430_2|1421571_a_at|1421571_a_at	ensembl_gene_id|ENSMUSG00000075602 /// ENSMUSG00000022584|ENSMUSG00000075602 /// ENSMUSG00000022584	entrezgene|17067|17067	refseq_dna|NM_010741|NM_010741	mgi_symbol|Ly6c|Ly6c
+affy_mouse430_2|1445341_at|1445341_at	embl|BG074147|BG074147
+affy_mouse430_2|1458240_at|1458240_at	entrezgene|14924|14924	entrezgene|AV326943|14924	mgi_symbol|Magi1|Magi1
+affy_mouse430_2|1433622_at|1433622_at	ensembl_gene_id|ENSMUSG00000049396|ENSMUSG00000049396	entrezgene|276919|276919	entrezgene|BB385039|276919	mgi_symbol|Gemin4|Gemin4
+affy_mouse430_2|1446392_at|1446392_at	entrezgene|20563|20563	embl|BB527337|BB527337	mgi_symbol|Slit2|Slit2
+affy_mouse430_2|1427067_at|1427067_at	ensembl_gene_id|ENSMUSG00000018415|ENSMUSG00000018415	entrezgene|66771|66771	entrezgene|AJ404329|66771	mgi_symbol|4933439F18Rik|4933439F18Rik
+affy_mouse430_2|1454168_a_at|1454168_a_at	ensembl_gene_id|ENSMUSG00000001829|ENSMUSG00000001829	entrezgene|20480|20480	embl|AK006072|AK006072	mgi_symbol|Clpb|Clpb
+affy_mouse430_2|1430183_at|1430183_at	entrezgene|18514|18514	embl|AK014695|AK014695	mgi_symbol|Pbx1|Pbx1
+affy_mouse430_2|1428279_a_at|1428279_a_at	ensembl_gene_id|ENSMUSG00000073126|ENSMUSG00000073126	entrezgene|72174|72174	entrezgene|AK013145|380753	mgi_symbol|Atxn7l4|Atxn7l4
+affy_mouse430_2|1424525_at|1424525_at	ensembl_gene_id|ENSMUSG00000024517|ENSMUSG00000024517	entrezgene|225642|225642	entrezgene|BC024515|225642	mgi_symbol|Grp|Grp
+affy_mouse430_2|1448669_at|1448669_at	ensembl_gene_id|ENSMUSG00000030772|ENSMUSG00000030772	entrezgene|50781|50781	entrezgene|AK004853|50781	mgi_symbol|Dkk3|Dkk3
+affy_mouse430_2|1454184_a_at|1454184_a_at	ensembl_gene_id|ENSMUSG00000031537|ENSMUSG00000031537	entrezgene|16150|16150	embl|AK011359|AK011359	mgi_symbol|Ikbkb|Ikbkb
+affy_mouse430_2|1435549_at|1435549_at	entrezgene|68667|68667	entrezgene|BI685685|68667	mgi_symbol|Trpm4|Trpm4
+affy_mouse430_2|1446194_at|1446194_at	entrezgene|22025|22025	entrezgene|BB547741|22025	mgi_symbol|Nr2c1|Nr2c1
+affy_mouse430_2|1421965_s_at|1421965_s_at	ensembl_gene_id|ENSMUSG00000038146|ENSMUSG00000038146	entrezgene|18131|18131	refseq_dna|NM_008716|NM_008716	mgi_symbol|Notch3|Notch3
+affy_mouse430_2|1416361_a_at|1416361_a_at	ensembl_gene_id|ENSMUSG00000029757|ENSMUSG00000029757	entrezgene|13426|13426	refseq_dna|NM_010063|NM_010063	mgi_symbol|Dync1i1|Dync1i1
+affy_mouse430_2|1416977_at|1416977_at	ensembl_gene_id|ENSMUSG00000055371|ENSMUSG00000055371	entrezgene|56324|56324	entrezgene|BB125321|56324	mgi_symbol|Stam2|Stam2
+affy_mouse430_2|1444454_at|1444454_at	entrezgene|19645|19645	embl|BB239332|BB239332	mgi_symbol|Rb1|Rb1
+affy_mouse430_2|1422078_at|1422078_at	entrezgene|23797|23797	entrezgene|AF124142|23797	mgi_symbol|Akt3|Akt3
+affy_mouse430_2|1424372_at|1424372_at	ensembl_gene_id|ENSMUSG00000015672|ENSMUSG00000015672	entrezgene|75398|75398	entrezgene|AF279255|75398	mgi_symbol|Mrpl32|Mrpl32
+affy_mouse430_2|1454000_s_at|1454000_s_at	ensembl_gene_id|ENSMUSG00000070883|ENSMUSG00000070883	entrezgene|75051|75051	entrezgene|BE282424|75051	mgi_symbol|4930578N16Rik|4930578N16Rik
+affy_mouse430_2|1455221_at|1455221_at	entrezgene|11307|11307	entrezgene|BQ176322|11307	mgi_symbol|Abcg1|Abcg1
+affy_mouse430_2|1447156_at|1447156_at	entrezgene|12662|12662	embl|AI746579|AI746579	mgi_symbol|Chm|Chm
+affy_mouse430_2|1459338_at|1459338_at	entrezgene|319974|319974	embl|BB096051|BB096051	mgi_symbol|Auts2|Auts2
+affy_mouse430_2|1417703_at|1417703_at	ensembl_gene_id|ENSMUSG00000062300|ENSMUSG00000062300	entrezgene|19294|19294	refseq_dna|NM_008990|NM_008990	mgi_symbol|Pvrl2|Pvrl2
+affy_mouse430_2|1442070_at|1442070_at	entrezgene|17354|17354	entrezgene|BB496038|17354	mgi_symbol|Mllt10|Mllt10
+affy_mouse430_2|1451042_a_at|1451042_a_at	ensembl_gene_id|ENSMUSG00000022724|ENSMUSG00000022724	entrezgene|67014|67014	entrezgene|AK013451|67014	mgi_symbol|Mina|Mina
+affy_mouse430_2|1432734_at|1432734_at	entrezgene|74056|74056	embl|AK016615|AK016615	mgi_symbol|4933402E15Rik|4933402E15Rik
+affy_mouse430_2|1443430_at|1443430_at	entrezgene|12905|12905	embl|BM234069|BM234069	mgi_symbol|Cradd|Cradd
+affy_mouse430_2|1436369_at|1436369_at	entrezgene|72992|72992	embl|BE634810|BE634810	mgi_symbol|2900076A07Rik|2900076A07Rik
+affy_mouse430_2|1431950_at|1431950_at	entrezgene|75831|75831	embl|AK015927|AK015927	mgi_symbol|4930528G23Rik|4930528G23Rik
+affy_mouse430_2|1442016_at|1442016_at	entrezgene|402747|402747	entrezgene|BQ174740|402747	mgi_symbol|D630004N19Rik|D630004N19Rik
+affy_mouse430_2|1438533_at|1438533_at	ensembl_gene_id|ENSMUSG00000004677|ENSMUSG00000004677	entrezgene|17925|17925	entrezgene|BM121122|17925	mgi_symbol|Myo9b|Myo9b
+affy_mouse430_2|1431616_at|1431616_at	ensembl_gene_id|ENSMUSG00000049123|ENSMUSG00000049123	entrezgene|76718|76718	entrezgene|AK006911|76718	mgi_symbol|1700067C01Rik|1700067C01Rik
+affy_mouse430_2|1418807_at|1418807_at	entrezgene|67304|67304	refseq_dna|NM_026084|NM_026084	mgi_symbol|3110070M22Rik|3110070M22Rik
+affy_mouse430_2|1422462_at|1422462_at	ensembl_gene_id|ENSMUSG00000026429|ENSMUSG00000026429	entrezgene|67196|67196	refseq_dna|NM_026024|NM_026024	mgi_symbol|Ube2t|Ube2t
+affy_mouse430_2|1445545_at|1445545_at	entrezgene|67171|67171	entrezgene|AW743721|67171	mgi_symbol|Tmem77|Tmem77
+affy_mouse430_2|1450501_at|1450501_at	ensembl_gene_id|ENSMUSG00000015533|ENSMUSG00000015533	entrezgene|16398|16398	refseq_dna|NM_008396|NM_008396	mgi_symbol|Itga2|Itga2
+affy_mouse430_2|1428963_at|1428963_at	ensembl_gene_id|ENSMUSG00000032417|ENSMUSG00000032417	entrezgene|69519|69519	entrezgene|AK006533|69519	mgi_symbol|Rwdd2|Rwdd2
+affy_mouse430_2|1458882_at|1458882_at	ensembl_gene_id|ENSMUSG00000026315|ENSMUSG00000026315	entrezgene|20725|20725	entrezgene|BB049357|20725	mgi_symbol|Serpinb8|Serpinb8
+affy_mouse430_2|1450380_at|1450380_at	ensembl_gene_id|ENSMUSG00000002808|ENSMUSG00000002808	entrezgene|105298|105298	entrezgene|AF353717|105298	mgi_symbol|Epdr2|Epdr2
+affy_mouse430_2|1430464_at|1430464_at	ensembl_gene_id|ENSMUSG00000054457|ENSMUSG00000054457	entrezgene|77288|77288	embl|AK020430|AK020430	mgi_symbol|9430021M05Rik|9430021M05Rik
+affy_mouse430_2|1442077_at|1442077_at	entrezgene|76963|76963	embl|BB197581|BB197581	mgi_symbol|2310076G05Rik|2310076G05Rik
+affy_mouse430_2|1450834_at|1450834_at	entrezgene|14345|14345	refseq_dna|NM_010242|NM_010242	mgi_symbol|Fut4|Fut4
+affy_mouse430_2|1450492_at|1450492_at	ensembl_gene_id|ENSMUSG00000056494|ENSMUSG00000056494	entrezgene|30952|30952	refseq_dna|NM_013927|NM_013927	mgi_symbol|Cngb3|Cngb3
+affy_mouse430_2|1429583_at|1429583_at	entrezgene|554362|554362	embl|BE865033|BE865033	mgi_symbol|2900053A13Rik|2900053A13Rik
+affy_mouse430_2|1439678_at|1439678_at	entrezgene|14660|14660	embl|BM239869|BM239869	mgi_symbol|Gls|Gls
+affy_mouse430_2|1443870_at|1443870_at	ensembl_gene_id|ENSMUSG00000032849|ENSMUSG00000032849	entrezgene|239273|239273	entrezgene|BB291885|239273	mgi_symbol|Abcc4|Abcc4
+affy_mouse430_2|1455688_at|1455688_at	entrezgene|18214|18214	entrezgene|BB795075|18214	mgi_symbol|Ddr2|Ddr2
+affy_mouse430_2|1419377_at|1419377_at	ensembl_gene_id|ENSMUSG00000061650|ENSMUSG00000061650	entrezgene|192191|192191	entrezgene|BC019367|192191	mgi_symbol|Med9|Med9
+affy_mouse430_2|1438528_at|1438528_at	entrezgene|18536|18536	embl|AW545979|AW545979	mgi_symbol|Pcm1|Pcm1
+affy_mouse430_2|1460125_at|1460125_at	embl|BB517076|BB517076
+affy_mouse430_2|1419888_at|1419888_at	entrezgene|68675|68675	embl|BB175647|BB175647	mgi_symbol|1110033M05Rik|1110033M05Rik
+affy_mouse430_2|1434831_a_at|1434831_a_at	entrezgene|56484|56484	embl|BB364488|BB364488	mgi_symbol|Foxo3a|Foxo3a
+affy_mouse430_2|1453750_x_at|1453750_x_at	ensembl_gene_id|ENSMUSG00000040430|ENSMUSG00000040430	entrezgene|71795|71795	entrezgene|BI654600|71795	mgi_symbol|Pitpnc1|Pitpnc1
+affy_mouse430_2|1452812_at|1452812_at	entrezgene|330814|330814	entrezgene|AA987131|330814	mgi_symbol|Lphn1|Lphn1
+affy_mouse430_2|1429403_x_at|1429403_x_at	ensembl_gene_id|ENSMUSG00000020251|ENSMUSG00000020251	entrezgene|74782|74782	entrezgene|AK003894|74782	mgi_symbol|Glt8d2|Glt8d2
+affy_mouse430_2|1438682_at|1438682_at	ensembl_gene_id|ENSMUSG00000041417|ENSMUSG00000041417	entrezgene|18708|18708	entrezgene|BB426164|18708	mgi_symbol|Pik3r1|Pik3r1
+affy_mouse430_2|1429424_at|1429424_at	ensembl_gene_id|ENSMUSG00000036924|ENSMUSG00000036924	entrezgene|69294|69294	entrezgene|AK005665|69294	mgi_symbol|Cst13|Cst13
+affy_mouse430_2|1447272_s_at|1447272_s_at	ensembl_gene_id|ENSMUSG00000025324|ENSMUSG00000025324	entrezgene|11982|11982	entrezgene|BM249532|11982	mgi_symbol|Atp10a|Atp10a
+affy_mouse430_2|1440808_x_at|1440808_x_at	ensembl_gene_id|ENSMUSG00000025461|ENSMUSG00000025461	entrezgene|244233|244233	entrezgene|BB209710|244233	mgi_symbol|E430002D04Rik|E430002D04Rik
+affy_mouse430_2|1460538_at|1460538_at	entrezgene|320873|320873	entrezgene|AK021064|320873	mgi_symbol|Cdh10|Cdh10
+affy_mouse430_2|1440293_at|1440293_at	entrezgene|244895|244895	entrezgene|BB821275|244895	mgi_symbol|C230081A13Rik|C230081A13Rik
+affy_mouse430_2|1423031_at|1423031_at	entrezgene|59003|59003	entrezgene|AV011036|59003	mgi_symbol|Maea|Maea
+affy_mouse430_2|1454023_a_at|1454023_a_at	ensembl_gene_id|ENSMUSG00000032997|ENSMUSG00000032997	entrezgene|74241|74241	entrezgene|AK006466|74241	mgi_symbol|D1Bwg1363e|D1Bwg1363e
+affy_mouse430_2|1440583_at|1440583_at	entrezgene|28006|28006	embl|AW545077|AW545077	mgi_symbol|D6Wsu116e|D6Wsu116e
+affy_mouse430_2|1454487_at|1454487_at	entrezgene|76126|76126	embl|AK018065|AK018065	mgi_symbol|5830490A04Rik|5830490A04Rik
+affy_mouse430_2|1444493_at|1444493_at	entrezgene|67016|67016	embl|BF715246|BF715246	mgi_symbol|Tbc1d2b|Tbc1d2b
+affy_mouse430_2|1451095_at|1451095_at	ensembl_gene_id|ENSMUSG00000029752|ENSMUSG00000029752	entrezgene|27053|27053	entrezgene|BC005552|27053	mgi_symbol|Asns|Asns
+affy_mouse430_2|1425456_a_at|1425456_a_at	ensembl_gene_id|ENSMUSG00000018932|ENSMUSG00000018932	entrezgene|26397|26397	entrezgene|AI481780|26397	mgi_symbol|Map2k3|Map2k3
+affy_mouse430_2|1457842_at|1457842_at	entrezgene|30046|30046	embl|AV154022|AV154022	mgi_symbol|Zfp292|Zfp292
+affy_mouse430_2|1421104_at|1421104_at	entrezgene|100702 /// 17472 /// 547126 /// 634650 /// 671219 /// 673195|100702 /// 17472 /// 547126 /// 634650 /// 671219 /// 673195	refseq_dna|NM_008620|NM_008620	mgi_symbol|Gbp4 /// Mpa2l /// LOC547126 /// EG634650 /// LOC671219 /// LOC673195|Gbp4 /// Mpa2l /// LOC547126 /// EG634650 /// LOC671219 /// LOC673195
+affy_mouse430_2|1445656_at|1445656_at	embl|AW060425|AW060425
+affy_mouse430_2|1459824_at|1459824_at	entrezgene|20588|20588	embl|BB286894|BB286894	mgi_symbol|Smarcc1|Smarcc1
+affy_mouse430_2|1427065_at|1427065_at	ensembl_gene_id|ENSMUSG00000018415|ENSMUSG00000018415	entrezgene|66771|66771	entrezgene|AJ404329|66771	mgi_symbol|4933439F18Rik|4933439F18Rik
+affy_mouse430_2|1440131_at|1440131_at	entrezgene|58235|58235	embl|BB728649|BB728649	mgi_symbol|Pvrl1|Pvrl1
+affy_mouse430_2|1434834_at|1434834_at	ensembl_gene_id|ENSMUSG00000038485|ENSMUSG00000038485	entrezgene|192157|192157	entrezgene|BG067098|192157	mgi_symbol|Socs7|Socs7
+affy_mouse430_2|1442035_at|1442035_at	ensembl_gene_id|ENSMUSG00000035594|ENSMUSG00000035594	entrezgene|110835|110835	entrezgene|BB326058|110835	mgi_symbol|Chrna5|Chrna5
+affy_mouse430_2|1460310_a_at|1460310_a_at	ensembl_gene_id|ENSMUSG00000020713|ENSMUSG00000020713	entrezgene|14599|14599	refseq_dna|NM_008117|NM_008117	mgi_symbol|Gh|Gh
+affy_mouse430_2|1427055_at|1427055_at	ensembl_gene_id|ENSMUSG00000028145|ENSMUSG00000028145	entrezgene|75778|75778	entrezgene|BC022612|75778	mgi_symbol|Them4|Them4
+affy_mouse430_2|1439984_at|1439984_at	entrezgene|27388|27388	embl|BB474782|BB474782	mgi_symbol|Ptdss2|Ptdss2
+affy_mouse430_2|1433241_at|1433241_at	entrezgene|77266|77266	embl|AK020414|AK020414	mgi_symbol|9430013L17Rik|9430013L17Rik
+affy_mouse430_2|1439596_at|1439596_at	embl|BB526799|BB526799
+affy_mouse430_2|1435657_at|1435657_at	entrezgene|104804|104804	entrezgene|BQ174439|108800	mgi_symbol|AI425999|AI425999
+affy_mouse430_2|1457726_at|1457726_at	ensembl_gene_id|ENSMUSG00000008683|ENSMUSG00000008683	entrezgene|267019|267019	entrezgene|BB231137|267019	mgi_symbol|Rps15a|Rps15a
+affy_mouse430_2|1418395_at|1418395_at	ensembl_gene_id|ENSMUSG00000010122|ENSMUSG00000010122	entrezgene|67473|67473	refseq_dna|NM_026183|NM_026183	mgi_symbol|1300013J15Rik|1300013J15Rik
+affy_mouse430_2|1436755_at|1436755_at	ensembl_gene_id|ENSMUSG00000025780|ENSMUSG00000025780	entrezgene|209378|209378	entrezgene|AI317339|209378	mgi_symbol|Itih5|Itih5
+affy_mouse430_2|1448901_at|1448901_at	ensembl_gene_id|ENSMUSG00000027408|ENSMUSG00000027408	entrezgene|56264|56264	refseq_dna|NM_019696|NM_019696	mgi_symbol|Cpxm1|Cpxm1
+affy_mouse430_2|1432237_at|1432237_at	entrezgene|70626|70626	embl|AK017784|AK017784	mgi_symbol|5730522E02Rik|5730522E02Rik
+affy_mouse430_2|1424138_at|1424138_at	ensembl_gene_id|ENSMUSG00000020282|ENSMUSG00000020282	entrezgene|13650|13650	entrezgene|BC027346|13650	mgi_symbol|Rhbdf1|Rhbdf1
+affy_mouse430_2|1451762_a_at|1451762_a_at	ensembl_gene_id|ENSMUSG00000063077|ENSMUSG00000063077	entrezgene|16561|16561	entrezgene|AB023656|16561	mgi_symbol|Kif1b|Kif1b
+affy_mouse430_2|1416052_at|1416052_at	ensembl_gene_id|ENSMUSG00000031432|ENSMUSG00000031432	entrezgene|19139|19139	entrezgene|AK011304|19139	mgi_symbol|Prps1|Prps1
+affy_mouse430_2|1427975_at|1427975_at	ensembl_gene_id|ENSMUSG00000034209|ENSMUSG00000034209	entrezgene|75668|75668	entrezgene|AK008807|75668	mgi_symbol|2210403B10Rik|2210403B10Rik
+affy_mouse430_2|1427820_at|1427820_at	embl|BC021831|BC021831
+affy_mouse430_2|1458020_at|1458020_at	entrezgene|19699|19699	entrezgene|BB386261|19699	mgi_symbol|Reln|Reln
+affy_mouse430_2|1445056_at|1445056_at	entrezgene|109335|109335	entrezgene|AV380845|109335	mgi_symbol|9230102K24Rik|9230102K24Rik
+affy_mouse430_2|1442504_at|1442504_at	entrezgene|52662|52662	embl|BG076175|BG076175	mgi_symbol|D18Ertd653e|D18Ertd653e
+affy_mouse430_2|1451913_a_at|1451913_a_at	ensembl_gene_id|ENSMUSG00000032115|ENSMUSG00000032115	entrezgene|12282|12282	entrezgene|BC019785|12282	mgi_symbol|Hyou1|Hyou1
+affy_mouse430_2|1442764_at|1442764_at	entrezgene|225888|225888	entrezgene|BE456272|225888	mgi_symbol|Suv420h1|Suv420h1
+affy_mouse430_2|1424048_a_at|1424048_a_at	ensembl_gene_id|ENSMUSG00000026456|ENSMUSG00000026456	entrezgene|72017|72017	entrezgene|BC024618|72017	mgi_symbol|Cyb5r1|Cyb5r1
+affy_mouse430_2|1415885_at|1415885_at	ensembl_gene_id|ENSMUSG00000027350|ENSMUSG00000027350	entrezgene|12653|12653	refseq_dna|NM_007694|NM_007694	mgi_symbol|Chgb|Chgb
+affy_mouse430_2|1445205_at|1445205_at	embl|BM122392|BM122392
+affy_mouse430_2|1460713_at|1460713_at	ensembl_gene_id|ENSMUSG00000040658|ENSMUSG00000040658	entrezgene|381101|381101	entrezgene|BE949497|381101	mgi_symbol|BC048355|BC048355
+affy_mouse430_2|1449386_at|1449386_at	entrezgene|27400|27400	refseq_dna|NM_013786|NM_013786	mgi_symbol|Hsd17b6|Hsd17b6
+affy_mouse430_2|1438888_at|1438888_at	ensembl_gene_id|ENSMUSG00000001157|ENSMUSG00000001157	entrezgene|23885|23885	entrezgene|BM239632|23885	mgi_symbol|Gmcl1|Gmcl1
+affy_mouse430_2|1449023_a_at|1449023_a_at	entrezgene|14055|14055	refseq_dna|NM_007970|NM_007970	mgi_symbol|Ezh1|Ezh1
+affy_mouse430_2|1435908_at|1435908_at	entrezgene|18190|18190	entrezgene|BE949064|18190	mgi_symbol|Nrxn2|Nrxn2
+affy_mouse430_2|1434773_a_at|1434773_a_at	ensembl_gene_id|ENSMUSG00000028645|ENSMUSG00000028645	entrezgene|20525|20525	entrezgene|BM207588|20525	mgi_symbol|Slc2a1|Slc2a1
+affy_mouse430_2|1459573_at|1459573_at	entrezgene|70285|70285	embl|BM218875|BM218875	mgi_symbol|Bxdc5|Bxdc5
+affy_mouse430_2|1443688_at|1443688_at	entrezgene|235048|235048	entrezgene|BB710844|235048	mgi_symbol|BC050092|BC050092
+affy_mouse430_2|1456892_at|1456892_at	entrezgene|320105|320105	embl|BB442855|BB442855	mgi_symbol|D030036P13Rik|D030036P13Rik
+affy_mouse430_2|1431372_at|1431372_at	entrezgene|20817|20817	embl|AK014004|AK014004	mgi_symbol|Srpk2|Srpk2
+affy_mouse430_2|1447043_at|1447043_at	entrezgene|13869|13869	embl|BB386653|BB386653	mgi_symbol|Erbb4|Erbb4
+affy_mouse430_2|1446578_at|1446578_at	embl|AV279797|AV279797
+affy_mouse430_2|1459731_at|1459731_at	embl|BE996194|BE996194
+affy_mouse430_2|1456640_at|1456640_at	ensembl_gene_id|ENSMUSG00000057719|ENSMUSG00000057719	entrezgene|269016|269016	entrezgene|AW910872|269016	mgi_symbol|Sh3rf2|Sh3rf2
+affy_mouse430_2|1417169_at|1417169_at	entrezgene|53376|53376	entrezgene|AI553394|53376	mgi_symbol|Usp2|Usp2
+affy_mouse430_2|1441899_x_at|1441899_x_at	entrezgene|12032|12032	embl|BB335613|BB335613	mgi_symbol|Bcan|Bcan
+affy_mouse430_2|1422789_at|1422789_at	ensembl_gene_id|ENSMUSG00000013584|ENSMUSG00000013584	entrezgene|19378|19378	refseq_dna|NM_009022|NM_009022	mgi_symbol|Aldh1a2|Aldh1a2
+affy_mouse430_2|1447342_at|1447342_at	embl|BB751335|BB751335
+affy_mouse430_2|1456404_at|1456404_at	entrezgene|23794|23794	entrezgene|BB475194|23794	mgi_symbol|Adamts5|Adamts5
+affy_mouse430_2|1425376_at|1425376_at	ensembl_gene_id|ENSMUSG00000020891|ENSMUSG00000020891	entrezgene|11688|11688	entrezgene|BC015253|11688	mgi_symbol|Alox8|Alox8
+affy_mouse430_2|1443088_at|1443088_at	entrezgene|319589|319589	embl|BB420529|BB420529	mgi_symbol|9930031P18Rik|9930031P18Rik
+affy_mouse430_2|1460466_at|1460466_at	ensembl_gene_id|ENSMUSG00000073083 /// ENSMUSG00000034953|ENSMUSG00000073083 /// ENSMUSG00000034953	entrezgene|665155 /// 73385|665155 /// 73385	entrezgene|BB824055|73385	mgi_symbol|1700047I17Rik /// LOC665155|1700047I17Rik /// LOC665155
+affy_mouse430_2|1434963_at|1434963_at	ensembl_gene_id|ENSMUSG00000038954|ENSMUSG00000038954	entrezgene|109115|109115	entrezgene|BM114601|109115	mgi_symbol|Supt3h|Supt3h
+affy_mouse430_2|1443099_at|1443099_at	entrezgene|432940|432940	entrezgene|BB013571|432940	mgi_symbol|BC087945|BC087945
+affy_mouse430_2|1456668_at|1456668_at	entrezgene|230594|230594	embl|BB554044|BB554044	mgi_symbol|Zcchc11|Zcchc11
+affy_mouse430_2|1458123_at|1458123_at	entrezgene|319588|319588	embl|BB124953|BB124953	mgi_symbol|9630002A11Rik|9630002A11Rik
+affy_mouse430_2|1417970_at|1417970_at	ensembl_gene_id|ENSMUSG00000054894|ENSMUSG00000054894	entrezgene|68055|68055	refseq_dna|NM_026536|NM_026536	mgi_symbol|Atp5s|Atp5s
+affy_mouse430_2|1444932_at|1444932_at	entrezgene|BG074235|100042484
+affy_mouse430_2|1444334_at|1444334_at	entrezgene|BM933859|223843
+affy_mouse430_2|1452356_at|1452356_at	ensembl_gene_id|ENSMUSG00000040795|ENSMUSG00000040795	entrezgene|230767|230767	entrezgene|BG065062|230767	mgi_symbol|Iqcc|Iqcc
+affy_mouse430_2|1434784_s_at|1434784_s_at	ensembl_gene_id|ENSMUSG00000052369|ENSMUSG00000052369	entrezgene|380967|380967	entrezgene|BM222050|380967	mgi_symbol|Tmem106c|Tmem106c
+affy_mouse430_2|1430520_at|1430520_at	ensembl_gene_id|ENSMUSG00000052560|ENSMUSG00000052560	entrezgene|66871|66871	entrezgene|AW548480|66871	mgi_symbol|Cpne8|Cpne8
+affy_mouse430_2|1425887_at|1425887_at	ensembl_gene_id|ENSMUSG00000022715|ENSMUSG00000022715	entrezgene|74720|74720	entrezgene|BC027071|74720	mgi_symbol|4930511J11Rik|4930511J11Rik
+affy_mouse430_2|1444095_a_at|1444095_a_at	embl|BE986579|BE986579
+affy_mouse430_2|1431807_at|1431807_at	ensembl_gene_id|ENSMUSG00000029360|ENSMUSG00000029360	entrezgene|231672|231672	embl|AK015338|AK015338	mgi_symbol|Fbxw8|Fbxw8
+affy_mouse430_2|1459560_at|1459560_at	ensembl_gene_id|ENSMUSG00000026771|ENSMUSG00000026771	entrezgene|76857|76857	embl|BM116703|BM116703	mgi_symbol|4921517N04Rik|4921517N04Rik
+affy_mouse430_2|1442630_at|1442630_at	embl|BG070556|BG070556
+affy_mouse430_2|1438303_at|1438303_at	entrezgene|21808|21808	entrezgene|AV246759|21808	mgi_symbol|Tgfb2|Tgfb2
+affy_mouse430_2|1430047_at|1430047_at	entrezgene|72573|72573	entrezgene|AK012253|105377	mgi_symbol|Brctd1|Brctd1
+affy_mouse430_2|1433490_s_at|1433490_s_at	ensembl_gene_id|ENSMUSG00000019978|ENSMUSG00000019978	entrezgene|13822|13822	entrezgene|BE951907|13822	mgi_symbol|Epb4.1l2|Epb4.1l2
+affy_mouse430_2|1459285_at|1459285_at	embl|BB554612|BB554612
+affy_mouse430_2|1459269_at|1459269_at	entrezgene|654795|654795	embl|BB356493|BB356493	mgi_symbol|2310014G06Rik|2310014G06Rik
+affy_mouse430_2|1448756_at|1448756_at	ensembl_gene_id|ENSMUSG00000056071|ENSMUSG00000056071	entrezgene|20202|20202	refseq_dna|NM_009114|NM_009114	mgi_symbol|S100a9|S100a9
+affy_mouse430_2|1418203_at|1418203_at	ensembl_gene_id|ENSMUSG00000024521|ENSMUSG00000024521	entrezgene|58801|58801	refseq_dna|NM_021451|NM_021451	mgi_symbol|Pmaip1|Pmaip1
+affy_mouse430_2|1434569_at|1434569_at	entrezgene|231151|231151	embl|BB428484|BB428484	mgi_symbol|AA474455|AA474455
+affy_mouse430_2|1438325_at|1438325_at	ensembl_gene_id|ENSMUSG00000027684|ENSMUSG00000027684	entrezgene|14013|14013	embl|AI647591|AI647591	mgi_symbol|Evi1|Evi1
+affy_mouse430_2|1459349_at|1459349_at	ensembl_gene_id|ENSMUSG00000056908|ENSMUSG00000056908	entrezgene|319818|319818	entrezgene|BB278527|319818	mgi_symbol|A930011G23Rik|A930011G23Rik
+affy_mouse430_2|1424754_at|1424754_at	ensembl_gene_id|ENSMUSG00000024672|ENSMUSG00000024672	entrezgene|109225|109225	entrezgene|BC024402|109225	mgi_symbol|Ms4a7|Ms4a7
+affy_mouse430_2|1419403_at|1419403_at	ensembl_gene_id|ENSMUSG00000058173|ENSMUSG00000058173	entrezgene|170748|170748	refseq_dna|NM_133214|NM_133214	mgi_symbol|BC017612|BC017612
+affy_mouse430_2|1448947_at|1448947_at	ensembl_gene_id|ENSMUSG00000031984|ENSMUSG00000031984	entrezgene|66523|66523	refseq_dna|NM_025615|NM_025615	mgi_symbol|2810004N23Rik|2810004N23Rik
+affy_mouse430_2|1451047_at|1451047_at	ensembl_gene_id|ENSMUSG00000031239|ENSMUSG00000031239	entrezgene|16431|16431	entrezgene|BI966443|16431	mgi_symbol|Itm2a|Itm2a
+affy_mouse430_2|1419292_at|1419292_at	ensembl_gene_id|ENSMUSG00000029096|ENSMUSG00000029096	entrezgene|78558|78558	refseq_dna|NM_030127|NM_030127	mgi_symbol|Htra3|Htra3
+affy_mouse430_2|1445459_at|1445459_at	ensembl_gene_id|ENSMUSG00000050824|ENSMUSG00000050824	entrezgene|20609|20609	entrezgene|BB023293|20609	mgi_symbol|Sstr5|Sstr5
+affy_mouse430_2|1434859_at|1434859_at	entrezgene|22247|22247	entrezgene|BB127793|22247	mgi_symbol|Umps|Umps
+affy_mouse430_2|1446130_at|1446130_at	entrezgene|237459|237459	embl|AW557530|AW557530	mgi_symbol|Pctk2|Pctk2
+affy_mouse430_2|1424755_at|1424755_at	ensembl_gene_id|ENSMUSG00000039959|ENSMUSG00000039959	entrezgene|215114|215114	entrezgene|BB320674|215114	mgi_symbol|Hip1|Hip1
+affy_mouse430_2|1425210_s_at|1425210_s_at	ensembl_gene_id|ENSMUSG00000046185|ENSMUSG00000046185	entrezgene|74352|74352	entrezgene|AI465811|74352	mgi_symbol|Zfp84|Zfp84
+affy_mouse430_2|1435264_at|1435264_at	ensembl_gene_id|ENSMUSG00000024053|ENSMUSG00000024053	entrezgene|246707|246707	entrezgene|BB811788|246707	mgi_symbol|Emilin2|Emilin2
+affy_mouse430_2|1457557_at|1457557_at	entrezgene|320026|320026	embl|BB378962|BB378962	mgi_symbol|A330076H08Rik|A330076H08Rik
+affy_mouse430_2|1444432_at|1444432_at	entrezgene|320847|320847	embl|BB532898|BB532898	mgi_symbol|D330040H18Rik|D330040H18Rik
+affy_mouse430_2|1442917_at|1442917_at	entrezgene|BM195384|100040792
+affy_mouse430_2|1433023_at|1433023_at	entrezgene|70185|70185	embl|AK010109|AK010109	mgi_symbol|2310068G24Rik|2310068G24Rik
+affy_mouse430_2|1420526_at|1420526_at	ensembl_gene_id|ENSMUSG00000035107|ENSMUSG00000035107	entrezgene|73379|73379	refseq_dna|NM_028523|NM_028523	mgi_symbol|Dcbld2|Dcbld2
+affy_mouse430_2|1426235_a_at|1426235_a_at	ensembl_gene_id|ENSMUSG00000026473|ENSMUSG00000026473	entrezgene|14645|14645	embl|AI391218|AI391218	mgi_symbol|Glul|Glul
+affy_mouse430_2|1424122_s_at|1424122_s_at	ensembl_gene_id|ENSMUSG00000051355|ENSMUSG00000051355	entrezgene|17846|17846	entrezgene|AB076722|17846	mgi_symbol|Commd1|Commd1
+affy_mouse430_2|1441567_at|1441567_at	entrezgene|270163|270163	embl|BM118375|BM118375	mgi_symbol|Myo9a|Myo9a
+affy_mouse430_2|1443891_at|1443891_at	ensembl_gene_id|ENSMUSG00000018841|ENSMUSG00000018841	entrezgene|19364|19364	entrezgene|BB131341|19364	mgi_symbol|Rad51l3|Rad51l3
+affy_mouse430_2|1444387_at|1444387_at	entrezgene|18108|18108	embl|BB409982|BB409982	mgi_symbol|Nmt2|Nmt2
+affy_mouse430_2|1418546_a_at|1418546_a_at	ensembl_gene_id|ENSMUSG00000024776|ENSMUSG00000024776	entrezgene|76630|76630	refseq_dna|NM_029682|NM_029682	mgi_symbol|Stambpl1|Stambpl1
+affy_mouse430_2|1432377_x_at|1432377_x_at	entrezgene|27428|27428	entrezgene|AK003320|27428	mgi_symbol|Shroom3|Shroom3
+affy_mouse430_2|1428067_at|1428067_at	ensembl_gene_id|ENSMUSG00000041696|ENSMUSG00000041696	entrezgene|70784|70784	entrezgene|AK014511|70784	mgi_symbol|Rasl12|Rasl12
+affy_mouse430_2|1432057_a_at|1432057_a_at	ensembl_gene_id|ENSMUSG00000029913|ENSMUSG00000029913	entrezgene|70779|70779	entrezgene|AK018310|70779	mgi_symbol|Prdm5|Prdm5
+affy_mouse430_2|1444784_at|1444784_at	entrezgene|78212|78212	embl|AI481318|AI481318	mgi_symbol|4930564K09Rik|4930564K09Rik
+affy_mouse430_2|1423545_a_at|1423545_a_at	ensembl_gene_id|ENSMUSG00000017421|ENSMUSG00000017421	entrezgene|22680|22680	embl|BB633247|BB633247	mgi_symbol|Zfp207|Zfp207
+affy_mouse430_2|1423466_at|1423466_at	ensembl_gene_id|ENSMUSG00000037944|ENSMUSG00000037944	entrezgene|12775|12775	entrezgene|BB204380|12775	mgi_symbol|Ccr7|Ccr7
+affy_mouse430_2|1454492_at|1454492_at	entrezgene|71491|71491	embl|AK018425|AK018425	mgi_symbol|8430418B16Rik|8430418B16Rik
+affy_mouse430_2|1456402_at|1456402_at	entrezgene|320026|320026	embl|BB130348|BB130348	mgi_symbol|A330076H08Rik|A330076H08Rik
+affy_mouse430_2|1434978_at|1434978_at	ensembl_gene_id|ENSMUSG00000038121|ENSMUSG00000038121	entrezgene|108654|108654	entrezgene|BM120298|108654	mgi_symbol|4933403F05Rik|4933403F05Rik
+affy_mouse430_2|1426223_at|1426223_at	ensembl_gene_id|ENSMUSG00000024424|ENSMUSG00000024424	entrezgene|72747|72747	entrezgene|BC020021|72747	mgi_symbol|2810439F02Rik|2810439F02Rik
+affy_mouse430_2|1425886_at|1425886_at	ensembl_gene_id|ENSMUSG00000055197|ENSMUSG00000055197	entrezgene|260298|260298	entrezgene|AY049085|260298	mgi_symbol|Fev|Fev
+affy_mouse430_2|1457177_at|1457177_at	entrezgene|19883|19883	embl|BB050663|BB050663	mgi_symbol|Rora|Rora
+affy_mouse430_2|1450154_at|1450154_at	ensembl_gene_id|ENSMUSG00000001773|ENSMUSG00000001773	entrezgene|53320|53320	refseq_dna|NM_016770|NM_016770	mgi_symbol|Folh1|Folh1
+affy_mouse430_2|1442589_at|1442589_at	entrezgene|22067|22067	embl|BE980162|BE980162	mgi_symbol|Trpc5|Trpc5
+affy_mouse430_2|1440954_at|1440954_at	entrezgene|18514|18514	embl|BM114723|BM114723	mgi_symbol|Pbx1|Pbx1
+affy_mouse430_2|1443597_at|1443597_at	ensembl_gene_id|ENSMUSG00000064127|ENSMUSG00000064127	entrezgene|26896|26896	entrezgene|BB463128|26896	mgi_symbol|Crsp2|Crsp2
+affy_mouse430_2|1455287_at|1455287_at	entrezgene|12571|12571	entrezgene|BM238926|12571	mgi_symbol|Cdk6|Cdk6
+affy_mouse430_2|1436398_at|1436398_at	embl|BB033554|BB033554
+affy_mouse430_2|1443131_at|1443131_at	entrezgene|19384|19384	entrezgene|BB129908|94217	mgi_symbol|Ran|Ran
+affy_mouse430_2|1438814_at|1438814_at	embl|BG075307|BG075307
+affy_mouse430_2|1460072_at|1460072_at	embl|BM507022|BM507022
+affy_mouse430_2|1425405_a_at|1425405_a_at	ensembl_gene_id|ENSMUSG00000027951|ENSMUSG00000027951	entrezgene|56417|56417	entrezgene|AF291876|56417	mgi_symbol|Adar|Adar
+affy_mouse430_2|1456861_at|1456861_at	entrezgene|BB830168|100043424
+affy_mouse430_2|1425985_s_at|1425985_s_at	entrezgene|17174|17174	entrezgene|AB049755|17174	mgi_symbol|Masp1|Masp1
+affy_mouse430_2|1456647_a_at|1456647_a_at	ensembl_gene_id|ENSMUSG00000010461|ENSMUSG00000010461	entrezgene|14051|14051	entrezgene|AI646535|14051	mgi_symbol|Eya4|Eya4
+affy_mouse430_2|1424634_at|1424634_at	ensembl_gene_id|ENSMUSG00000049536|ENSMUSG00000049536	entrezgene|237052|237052	entrezgene|BC011290|237052	mgi_symbol|Tceal1|Tceal1
+affy_mouse430_2|1429447_at|1429447_at	ensembl_gene_id|ENSMUSG00000050248|ENSMUSG00000050248	entrezgene|68525|68525	entrezgene|AK003753|68525	mgi_symbol|Evc2|Evc2
+affy_mouse430_2|1454142_a_at|1454142_a_at	ensembl_gene_id|ENSMUSG00000001785|ENSMUSG00000001785	entrezgene|103136|103136	entrezgene|AK011891|103136	mgi_symbol|Pwp1|Pwp1
+affy_mouse430_2|1430190_at|1430190_at	ensembl_gene_id|ENSMUSG00000028637|ENSMUSG00000028637	entrezgene|73332|73332	entrezgene|AK006668|73332	mgi_symbol|1700041C02Rik|1700041C02Rik
+affy_mouse430_2|1415823_at|1415823_at	ensembl_gene_id|ENSMUSG00000025203|ENSMUSG00000025203	entrezgene|20250|20250	entrezgene|BG060909|20250	mgi_symbol|Scd2|Scd2
+affy_mouse430_2|1417811_at|1417811_at	ensembl_gene_id|ENSMUSG00000032754|ENSMUSG00000032754	entrezgene|170756|170756	refseq_dna|NM_133221|NM_133221	mgi_symbol|Slc24a6|Slc24a6
+affy_mouse430_2|1425515_at|1425515_at	ensembl_gene_id|ENSMUSG00000041417|ENSMUSG00000041417	entrezgene|18708|18708	entrezgene|M60651|18708	mgi_symbol|Pik3r1|Pik3r1
+affy_mouse430_2|1444184_at|1444184_at	entrezgene|69113|69113	entrezgene|AI042789|69113	mgi_symbol|Alkbh3|Alkbh3
+affy_mouse430_2|1453880_s_at|1453880_s_at	ensembl_gene_id|ENSMUSG00000028637|ENSMUSG00000028637	entrezgene|73332|73332	entrezgene|AK015391|73332	mgi_symbol|1700041C02Rik|1700041C02Rik
+affy_mouse430_2|1428014_at|1428014_at	ensembl_gene_id|ENSMUSG00000060981|ENSMUSG00000060981	entrezgene|69386|69386	entrezgene|BC028550|69386	mgi_symbol|Hist1h4h|Hist1h4h
+affy_mouse430_2|1424245_at|1424245_at	ensembl_gene_id|ENSMUSG00000031884|ENSMUSG00000031884	entrezgene|234671 /// 667754|234671 /// 667754	entrezgene|BC015290|234671	mgi_symbol|Ces2 /// LOC667754|Ces2 /// LOC667754
+affy_mouse430_2|1450088_a_at|1450088_a_at	ensembl_gene_id|ENSMUSG00000032517|ENSMUSG00000032517	entrezgene|17433|17433	refseq_dna|NM_008614|NM_008614	mgi_symbol|Mobp|Mobp
+affy_mouse430_2|1416811_s_at|1416811_s_at	ensembl_gene_id|ENSMUSG00000074874 /// ENSMUSG00000044258|ENSMUSG00000074874 /// ENSMUSG00000044258	entrezgene|13024 /// 13025|13024 /// 13025	refseq_dna|NM_007796|NM_007796	mgi_symbol|Ctla2a /// Ctla2b|Ctla2a /// Ctla2b
+affy_mouse430_2|1425047_a_at|1425047_a_at	ensembl_gene_id|ENSMUSG00000038085|ENSMUSG00000038085	entrezgene|70873|70873	entrezgene|BC027204|70873	mgi_symbol|4921517L17Rik|4921517L17Rik
+affy_mouse430_2|1442622_at|1442622_at	entrezgene|20744|20744	embl|BB165231|BB165231	mgi_symbol|Strbp|Strbp
+affy_mouse430_2|1426918_at|1426918_at	entrezgene|16412|16412	entrezgene|BM120341|16412	mgi_symbol|Itgb1|Itgb1
+affy_mouse430_2|1436789_at|1436789_at	entrezgene|380694|380694	entrezgene|BM120177|380694	mgi_symbol|Ccnjl|Ccnjl
+affy_mouse430_2|1453498_x_at|1453498_x_at	ensembl_gene_id|ENSMUSG00000026389|ENSMUSG00000026389	entrezgene|68428|68428	entrezgene|AK003108|68428	mgi_symbol|Steap3|Steap3
+affy_mouse430_2|1460097_at|1460097_at	embl|BB392770|BB392770
+affy_mouse430_2|1445420_at|1445420_at	entrezgene|17260|17260	embl|BM238940|BM238940	mgi_symbol|Mef2c|Mef2c
+affy_mouse430_2|1432749_at|1432749_at	entrezgene|12964|12964	embl|BB541886|BB541886	mgi_symbol|Cryga|Cryga
+affy_mouse430_2|1423708_a_at|1423708_a_at	ensembl_gene_id|ENSMUSG00000026245|ENSMUSG00000026245	entrezgene|23874|23874	entrezgene|BC016428|23874	mgi_symbol|Farslb|Farslb
+affy_mouse430_2|1458644_at|1458644_at	entrezgene|100717 /// 208908|100717 /// 208908	entrezgene|AI661708|208908	mgi_symbol|AI661708 /// Ccdc62|AI661708 /// Ccdc62
+affy_mouse430_2|1459237_at|1459237_at	entrezgene|11909|11909	embl|BB046098|BB046098	mgi_symbol|Atf2|Atf2
+affy_mouse430_2|1422499_at|1422499_at	entrezgene|65970|65970	entrezgene|AV114522|65970	mgi_symbol|Lima1|Lima1
+affy_mouse430_2|1431338_at|1431338_at	entrezgene|268932|268932	entrezgene|AK014376|268932	mgi_symbol|Caskin1|Caskin1
+affy_mouse430_2|1458891_at|1458891_at	entrezgene|99326|99326	embl|BB320973|BB320973	mgi_symbol|Garnl3|Garnl3
+affy_mouse430_2|1456802_at|1456802_at	ensembl_gene_id|ENSMUSG00000051956|ENSMUSG00000051956	entrezgene|386611|386611	entrezgene|AV045338|386611	mgi_symbol|Rnf133|Rnf133
+affy_mouse430_2|1439621_at|1439621_at	embl|BE943696|BE943696
+affy_mouse430_2|1450002_at|1450002_at	ensembl_gene_id|ENSMUSG00000053129|ENSMUSG00000053129	entrezgene|14842|14842	refseq_dna|NM_008178|NM_008178	mgi_symbol|Gsh1|Gsh1
+affy_mouse430_2|1429627_at|1429627_at	entrezgene|70225|70225	entrezgene|AW540521|70225	mgi_symbol|Ppil3|Ppil3
+affy_mouse430_2|1428313_at|1428313_at	ensembl_gene_id|ENSMUSG00000045822|ENSMUSG00000045822	entrezgene|67538|67538	entrezgene|AK014904|67538	mgi_symbol|Zswim3|Zswim3
+affy_mouse430_2|1450666_s_at|1450666_s_at	entrezgene|54138|54138	refseq_dna|NM_016843|NM_016843	mgi_symbol|Atxn10|Atxn10
+affy_mouse430_2|1452298_a_at|1452298_a_at	ensembl_gene_id|ENSMUSG00000025885|ENSMUSG00000025885	entrezgene|17919|17919	entrezgene|AW546331|17919	mgi_symbol|Myo5b|Myo5b
+affy_mouse430_2|1450928_at|1450928_at	entrezgene|15904|15904	entrezgene|BB121406|15904	mgi_symbol|Id4|Id4
+affy_mouse430_2|1451806_at|1451806_at	ensembl_gene_id|ENSMUSG00000075415|ENSMUSG00000075415	entrezgene|14269|14269	entrezgene|BC003867|14269	mgi_symbol|Fnbp1|Fnbp1
+affy_mouse430_2|1460240_a_at|1460240_a_at	ensembl_gene_id|ENSMUSG00000060373|ENSMUSG00000060373	entrezgene|15381|15381	refseq_dna|NM_016884|NM_016884	mgi_symbol|Hnrpc|Hnrpc
+affy_mouse430_2|1442248_at|1442248_at	entrezgene|223435|223435	embl|BG066763|BG066763	mgi_symbol|Trio|Trio
+affy_mouse430_2|1439064_at|1439064_at	entrezgene|277154|277154	entrezgene|AV233866|277154	mgi_symbol|BC030046|BC030046
+affy_mouse430_2|1422271_at|1422271_at	ensembl_gene_id|ENSMUSG00000048337|ENSMUSG00000048337	entrezgene|19065|19065	refseq_dna|NM_008919|NM_008919	mgi_symbol|Ppyr1|Ppyr1
+affy_mouse430_2|1438210_at|1438210_at	entrezgene|229357|229357	entrezgene|BB126999|229357	mgi_symbol|Gpr149|Gpr149
+affy_mouse430_2|1415693_at|1415693_at	ensembl_gene_id|ENSMUSG00000022365|ENSMUSG00000022365	entrezgene|67819|67819	entrezgene|AW545361|67819	mgi_symbol|Derl1|Derl1
+affy_mouse430_2|1418411_at|1418411_at	ensembl_gene_id|ENSMUSG00000033313|ENSMUSG00000033313	entrezgene|50788|50788	refseq_dna|NM_015821|NM_015821	mgi_symbol|Fbxl8|Fbxl8
+affy_mouse430_2|1429546_at|1429546_at	entrezgene|74640|74640	entrezgene|BB525750|72962	mgi_symbol|4930423K06Rik|4930423K06Rik
+affy_mouse430_2|1448106_at|1448106_at	ensembl_gene_id|ENSMUSG00000030327|ENSMUSG00000030327	entrezgene|67602|67602	refseq_dna|NM_026267|NM_026267	mgi_symbol|Necap1|Necap1
+affy_mouse430_2|1443554_at|1443554_at	entrezgene|72475|72475	entrezgene|BM204832|72475	mgi_symbol|Ssbp3|Ssbp3
+affy_mouse430_2|1441134_at|1441134_at	ensembl_gene_id|ENSMUSG00000046572|ENSMUSG00000046572	entrezgene|100515|100515	entrezgene|BG063009|100515	mgi_symbol|6820424L24Rik|6820424L24Rik
+affy_mouse430_2|1419466_at|1419466_at	ensembl_gene_id|ENSMUSG00000021567|ENSMUSG00000021567	entrezgene|72293|72293	entrezgene|BC019952|72293	mgi_symbol|Nkd2|Nkd2
+affy_mouse430_2|1459266_at|1459266_at	embl|AV352957|AV352957
+affy_mouse430_2|1420580_at|1420580_at	ensembl_gene_id|ENSMUSG00000049507|ENSMUSG00000049507	entrezgene|67576|67576	refseq_dna|NM_026249|NM_026249	mgi_symbol|4930429B21Rik|4930429B21Rik
+affy_mouse430_2|1460645_at|1460645_at	ensembl_gene_id|ENSMUSG00000001774|ENSMUSG00000001774	entrezgene|66917|66917	refseq_dna|NM_025844|NM_025844	mgi_symbol|Chordc1|Chordc1
+affy_mouse430_2|1417926_at|1417926_at	entrezgene|76044|76044	refseq_dna|NM_133762|NM_133762	mgi_symbol|Ncapg2|Ncapg2
+affy_mouse430_2|1435731_x_at|1435731_x_at	entrezgene|53381|53381	entrezgene|AV139803|53381	mgi_symbol|Prdx4|Prdx4
+affy_mouse430_2|1427321_s_at|1427321_s_at	ensembl_gene_id|ENSMUSG00000022865|ENSMUSG00000022865	entrezgene|13052|13052	entrezgene|AK004908|13052	mgi_symbol|Cxadr|Cxadr
+affy_mouse430_2|1424214_at|1424214_at	ensembl_gene_id|ENSMUSG00000034981|ENSMUSG00000034981	entrezgene|231440|231440	entrezgene|BC006604|231440	mgi_symbol|9130213B05Rik|9130213B05Rik
+affy_mouse430_2|1439556_at|1439556_at	entrezgene|17967|17967	embl|BM201198|BM201198	mgi_symbol|Ncam1|Ncam1
+affy_mouse430_2|1425231_a_at|1425231_a_at	ensembl_gene_id|ENSMUSG00000051351|ENSMUSG00000051351	entrezgene|22704|22704	entrezgene|BC006587|22704	mgi_symbol|Zfp46|Zfp46
+affy_mouse430_2|1449044_at|1449044_at	ensembl_gene_id|ENSMUSG00000001707|ENSMUSG00000001707	entrezgene|66143|66143	refseq_dna|NM_025380|NM_025380	mgi_symbol|Eef1e1|Eef1e1
+affy_mouse430_2|1453188_at|1453188_at	entrezgene|67786|67786	entrezgene|AI553459|109700	mgi_symbol|6230424C14Rik|6230424C14Rik
+affy_mouse430_2|1440038_at|1440038_at	entrezgene|320708|320708	embl|BB519063|BB519063	mgi_symbol|B430007K19Rik|B430007K19Rik
+affy_mouse430_2|1429917_at|1429917_at	entrezgene|74542|74542	embl|AV229058|AV229058	mgi_symbol|9030625N01Rik|9030625N01Rik
+affy_mouse430_2|1454567_at|1454567_at	entrezgene|71018|71018	embl|AK016653|AK016653	mgi_symbol|4933404K13Rik|4933404K13Rik
+affy_mouse430_2|1447604_at|1447604_at	ensembl_gene_id|ENSMUSG00000046974|ENSMUSG00000046974	entrezgene|407814|407814	embl|AI605402|AI605402	mgi_symbol|BC053393|BC053393
+affy_mouse430_2|1441954_s_at|1441954_s_at	entrezgene|70069|70069	entrezgene|AV265150|70069	mgi_symbol|H1fnt|H1fnt
+affy_mouse430_2|1432352_at|1432352_at	entrezgene|67974|67974	entrezgene|AK014201|67974	mgi_symbol|5730405I09Rik|5730405I09Rik
+affy_mouse430_2|1454388_at|1454388_at	entrezgene|73028|73028	embl|AW146388|AW146388	mgi_symbol|2900046F13Rik|2900046F13Rik
+affy_mouse430_2|1426599_a_at|1426599_a_at	ensembl_gene_id|ENSMUSG00000028645|ENSMUSG00000028645	entrezgene|20525|20525	entrezgene|BM209618|20525	mgi_symbol|Slc2a1|Slc2a1
+affy_mouse430_2|1448824_at|1448824_at	ensembl_gene_id|ENSMUSG00000028277|ENSMUSG00000028277	entrezgene|56228|56228	refseq_dna|NM_019586|NM_019586	mgi_symbol|Ube2j1|Ube2j1
+affy_mouse430_2|1458555_at|1458555_at	embl|AU022229|AU022229
+affy_mouse430_2|1416779_at|1416779_at	ensembl_gene_id|ENSMUSG00000045954|ENSMUSG00000045954	entrezgene|20324|20324	entrezgene|BE197945|20324	mgi_symbol|Sdpr|Sdpr
+affy_mouse430_2|1423840_at|1423840_at	ensembl_gene_id|ENSMUSG00000017188|ENSMUSG00000017188	entrezgene|52469|52469	entrezgene|BC026206|52469	mgi_symbol|Ccdc56|Ccdc56
+affy_mouse430_2|1442115_at|1442115_at	ensembl_gene_id|ENSMUSG00000041482|ENSMUSG00000041482	entrezgene|225617|225617	embl|BM220702|BM220702	mgi_symbol|9430028L06Rik|9430028L06Rik
+affy_mouse430_2|1452350_at|1452350_at	entrezgene|78656|78656	embl|BM219644|BM219644	mgi_symbol|Brd8|Brd8
+affy_mouse430_2|1449379_at|1449379_at	ensembl_gene_id|ENSMUSG00000062960|ENSMUSG00000062960	entrezgene|16542|16542	refseq_dna|NM_010612|NM_010612	mgi_symbol|Kdr|Kdr
+affy_mouse430_2|1422396_s_at|1422396_s_at	ensembl_gene_id|ENSMUSG00000009248|ENSMUSG00000009248	entrezgene|17173|17173	refseq_dna|NM_008554|NM_008554	mgi_symbol|Ascl2|Ascl2
+affy_mouse430_2|1422508_at|1422508_at	entrezgene|11964|11964	refseq_dna|NM_007508|NM_007508	mgi_symbol|Atp6v1a|Atp6v1a
+affy_mouse430_2|1460261_at|1460261_at	ensembl_gene_id|ENSMUSG00000020886|ENSMUSG00000020886	entrezgene|13385|13385	embl|AI646416|AI646416	mgi_symbol|Dlgh4|Dlgh4
+affy_mouse430_2|1454141_at|1454141_at	entrezgene|70557|70557	embl|AK017568|AK017568	mgi_symbol|5730416O20Rik|5730416O20Rik
+affy_mouse430_2|1440008_at|1440008_at	entrezgene|75589|75589	embl|AI414041|AI414041	mgi_symbol|2310043L19Rik|2310043L19Rik
+affy_mouse430_2|1434158_at|1434158_at	ensembl_gene_id|ENSMUSG00000038372|ENSMUSG00000038372	entrezgene|218138|218138	entrezgene|AI747296|218138	mgi_symbol|Gmds|Gmds
+affy_mouse430_2|1419621_at|1419621_at	ensembl_gene_id|ENSMUSG00000025172|ENSMUSG00000025172	entrezgene|56642|56642	refseq_dna|NM_020033|NM_020033	mgi_symbol|Ankrd2|Ankrd2
+affy_mouse430_2|1440762_at|1440762_at	entrezgene|20965|20965	entrezgene|AI606043|20965	mgi_symbol|Syn2|Syn2
+affy_mouse430_2|1433700_at|1433700_at	ensembl_gene_id|ENSMUSG00000044715|ENSMUSG00000044715	entrezgene|66787|66787	entrezgene|BB477807|66787	mgi_symbol|4933433P14Rik|4933433P14Rik
+affy_mouse430_2|1443372_at|1443372_at	entrezgene|BB417900|100040834
+affy_mouse430_2|1454669_at|1454669_at	ensembl_gene_id|ENSMUSG00000043284|ENSMUSG00000043284	entrezgene|216821|216821	entrezgene|BG075225|216821	mgi_symbol|Tmem11|Tmem11
+affy_mouse430_2|1418790_at|1418790_at	ensembl_gene_id|ENSMUSG00000021743|ENSMUSG00000021743	entrezgene|54713|54713	refseq_dna|NM_080433|NM_080433	mgi_symbol|Fezf2|Fezf2
+affy_mouse430_2|1444355_at|1444355_at	entrezgene|11980|11980	entrezgene|AW125445|11980	mgi_symbol|Atp8a1|Atp8a1
+affy_mouse430_2|1432418_a_at|1432418_a_at	ensembl_gene_id|ENSMUSG00000000308|ENSMUSG00000000308	entrezgene|12716|12716	embl|AK018487|AK018487	mgi_symbol|Ckmt1|Ckmt1
+affy_mouse430_2|1417856_at|1417856_at	ensembl_gene_id|ENSMUSG00000002983|ENSMUSG00000002983	entrezgene|19698|19698	refseq_dna|NM_009046|NM_009046	mgi_symbol|Relb|Relb
+affy_mouse430_2|1420136_a_at|1420136_a_at	entrezgene|623356|623356	embl|AI427540|AI427540	mgi_symbol|EG623356|EG623356
+affy_mouse430_2|1425555_at|1425555_at	ensembl_gene_id|ENSMUSG00000003119|ENSMUSG00000003119	entrezgene|69131|69131	entrezgene|BG070845|69131	mgi_symbol|Crkrs|Crkrs
+affy_mouse430_2|1427540_at|1427540_at	entrezgene|52696|52696	entrezgene|BC013559|52696	mgi_symbol|Zwint|Zwint
+affy_mouse430_2|1418455_at|1418455_at	ensembl_gene_id|ENSMUSG00000018672|ENSMUSG00000018672	entrezgene|56358|56358	refseq_dna|NM_019877|NM_019877	mgi_symbol|Copz2|Copz2
+affy_mouse430_2|1445820_at|1445820_at	embl|BG068015|BG068015
+affy_mouse430_2|1416718_at|1416718_at	ensembl_gene_id|ENSMUSG00000004892|ENSMUSG00000004892	entrezgene|12032|12032	refseq_dna|NM_007529|NM_007529	mgi_symbol|Bcan|Bcan
+affy_mouse430_2|1431684_at|1431684_at	ensembl_gene_id|ENSMUSG00000041216|ENSMUSG00000041216	entrezgene|74438|74438	entrezgene|AK016622|74438	mgi_symbol|4933402J24Rik|4933402J24Rik
+affy_mouse430_2|1455297_at|1455297_at	ensembl_gene_id|ENSMUSG00000046550|ENSMUSG00000046550	entrezgene|278240|278240	entrezgene|BG070258|278240	mgi_symbol|Spin2|Spin2
+affy_mouse430_2|1441721_at|1441721_at	embl|AW121215|AW121215
+affy_mouse430_2|1437170_x_at|1437170_x_at	entrezgene|54132 /// 545743|54132 /// 545743	embl|AV013697|AV013697	mgi_symbol|Pdlim1 /// LOC545743|Pdlim1 /// LOC545743
+affy_mouse430_2|1443931_at|1443931_at	entrezgene|170938|170938	embl|AW548399|AW548399	mgi_symbol|Zfp617|Zfp617
+affy_mouse430_2|1431943_at|1431943_at	entrezgene|72365|72365	embl|AK008708|AK008708	mgi_symbol|2210011K15Rik|2210011K15Rik
+affy_mouse430_2|1458369_at|1458369_at	entrezgene|69678|69678	embl|AV381718|AV381718	mgi_symbol|2310050B05Rik|2310050B05Rik
+affy_mouse430_2|1421545_a_at|1421545_a_at	ensembl_gene_id|ENSMUSG00000019769|ENSMUSG00000019769	entrezgene|64009|64009	refseq_dna|NM_022027|NM_022027	mgi_symbol|Syne1|Syne1
+affy_mouse430_2|1427285_s_at|1427285_s_at	entrezgene|72289|72289	entrezgene|AW012617|72289	mgi_symbol|Malat1|Malat1
+affy_mouse430_2|1427558_s_at|1427558_s_at	ensembl_gene_id|ENSMUSG00000035845|ENSMUSG00000035845	entrezgene|223774|223774	entrezgene|AJ429133|223774	mgi_symbol|Alg12|Alg12
+affy_mouse430_2|1445293_at|1445293_at	entrezgene|69885|69885	embl|BG069021|BG069021	mgi_symbol|2610002D18Rik|2610002D18Rik
+affy_mouse430_2|1442565_at|1442565_at	entrezgene|18526|18526	entrezgene|BB174272|18526	mgi_symbol|Pcdh10|Pcdh10
+affy_mouse430_2|1441360_at|1441360_at	entrezgene|110651|110651	embl|AW546661|AW546661	mgi_symbol|Rps6ka3|Rps6ka3
+affy_mouse430_2|1423547_at|1423547_at	ensembl_gene_id|ENSMUSG00000069516|ENSMUSG00000069516	entrezgene|17105|17105	entrezgene|AW208566|17105	mgi_symbol|Lyzs|Lyzs
+affy_mouse430_2|1447154_at|1447154_at	entrezgene|12298|12298	embl|BB128798|BB128798	mgi_symbol|Cacnb4|Cacnb4
+affy_mouse430_2|1445440_at|1445440_at	entrezgene|108686|108686	entrezgene|BB016206|108686	mgi_symbol|A430106J12Rik|A430106J12Rik
+affy_mouse430_2|1425016_at|1425016_at	ensembl_gene_id|ENSMUSG00000028664|ENSMUSG00000028664	entrezgene|13844|13844	entrezgene|AV221401|13844	mgi_symbol|Ephb2|Ephb2
+affy_mouse430_2|1441353_at|1441353_at	entrezgene|78286|78286	entrezgene|BB093903|78286	mgi_symbol|5330421F07Rik|5330421F07Rik
+affy_mouse430_2|1418950_at|1418950_at	ensembl_gene_id|ENSMUSG00000032259|ENSMUSG00000032259	entrezgene|13489|13489	refseq_dna|NM_010077|NM_010077	mgi_symbol|Drd2|Drd2
+affy_mouse430_2|1452818_at|1452818_at	ensembl_gene_id|ENSMUSG00000033222|ENSMUSG00000033222	entrezgene|74044|74044	entrezgene|BB283807|74044	mgi_symbol|Ttf2|Ttf2
+affy_mouse430_2|1446952_at|1446952_at	entrezgene|52634|52634	embl|BG068105|BG068105	mgi_symbol|D11Ertd506e|D11Ertd506e
+affy_mouse430_2|1418956_at|1418956_at	ensembl_gene_id|ENSMUSG00000047654|ENSMUSG00000047654	entrezgene|83984|83984	refseq_dna|NM_032004|NM_032004	mgi_symbol|Tssk6|Tssk6
+affy_mouse430_2|1417312_at|1417312_at	ensembl_gene_id|ENSMUSG00000030772|ENSMUSG00000030772	entrezgene|50781|50781	entrezgene|AK004853|50781	mgi_symbol|Dkk3|Dkk3
+affy_mouse430_2|1444552_at|1444552_at	entrezgene|210982|210982	embl|BB730792|BB730792	mgi_symbol|BC032203|BC032203
+affy_mouse430_2|1456772_at|1456772_at	ensembl_gene_id|ENSMUSG00000015950|ENSMUSG00000015950	entrezgene|17969|17969	embl|AI844633|AI844633	mgi_symbol|Ncf1|Ncf1
+affy_mouse430_2|1448753_at|1448753_at	ensembl_gene_id|ENSMUSG00000026511|ENSMUSG00000026511	entrezgene|27058|27058	entrezgene|BI661964|27058	mgi_symbol|Srp9|Srp9
+affy_mouse430_2|1429082_at|1429082_at	ensembl_gene_id|ENSMUSG00000029501|ENSMUSG00000029501	entrezgene|71782|71782	entrezgene|BM227962|71782	mgi_symbol|D5Ertd585e|D5Ertd585e
+affy_mouse430_2|1439039_at|1439039_at	ensembl_gene_id|ENSMUSG00000045980|ENSMUSG00000045980	entrezgene|320534|320534	entrezgene|BE981239|320534	mgi_symbol|Tmem104|Tmem104
+affy_mouse430_2|1447706_at|1447706_at	embl|BB535847|BB535847
+affy_mouse430_2|1417945_at|1417945_at	ensembl_gene_id|ENSMUSG00000024406|ENSMUSG00000024406	entrezgene|18999|18999	refseq_dna|NM_013633|NM_013633	mgi_symbol|Pou5f1|Pou5f1
+affy_mouse430_2|1436103_at|1436103_at	ensembl_gene_id|ENSMUSG00000064181|ENSMUSG00000064181	entrezgene|216363|216363	embl|AV235634|AV235634	mgi_symbol|Rab3ip|Rab3ip
+affy_mouse430_2|1425746_at|1425746_at	ensembl_gene_id|ENSMUSG00000026870|ENSMUSG00000026870	entrezgene|77996|77996	entrezgene|BC021771|77996	mgi_symbol|D730039F16Rik|D730039F16Rik
+affy_mouse430_2|1419572_a_at|1419572_a_at	ensembl_gene_id|ENSMUSG00000021240|ENSMUSG00000021240	entrezgene|19300|19300	refseq_dna|NM_008992|NM_008992	mgi_symbol|Abcd4|Abcd4
+affy_mouse430_2|1440085_at|1440085_at	entrezgene|245527|245527	embl|AV246296|AV246296	mgi_symbol|Eda2r|Eda2r
+affy_mouse430_2|1436663_at|1436663_at	ensembl_gene_id|ENSMUSG00000024970|ENSMUSG00000024970	entrezgene|BB521470|68229
+affy_mouse430_2|1458069_at|1458069_at	entrezgene|72238|72238	embl|BM240056|BM240056	mgi_symbol|Tbc1d5|Tbc1d5
+affy_mouse430_2|1446324_at|1446324_at	entrezgene|12293|12293	embl|BB451211|BB451211	mgi_symbol|Cacna2d1|Cacna2d1
+affy_mouse430_2|1456444_at|1456444_at	ensembl_gene_id|ENSMUSG00000047013|ENSMUSG00000047013	entrezgene|330369|330369	entrezgene|BB126849|330369	mgi_symbol|Fbxo41|Fbxo41
+affy_mouse430_2|1434071_a_at|1434071_a_at	ensembl_gene_id|ENSMUSG00000042275|ENSMUSG00000042275	entrezgene|105083|105083	entrezgene|AV288264|109700	mgi_symbol|Pelo|Pelo
+affy_mouse430_2|1459619_at|1459619_at	ensembl_gene_id|ENSMUSG00000019978|ENSMUSG00000019978	entrezgene|13822|13822	entrezgene|BB254042|13822	mgi_symbol|Epb4.1l2|Epb4.1l2
+affy_mouse430_2|1446677_at|1446677_at	entrezgene|320566|320566	embl|BB396783|BB396783	mgi_symbol|A830029E22Rik|A830029E22Rik
+affy_mouse430_2|1455098_a_at|1455098_a_at	ensembl_gene_id|ENSMUSG00000017344|ENSMUSG00000017344	entrezgene|22370|22370	entrezgene|BB251864|22370	mgi_symbol|Vtn|Vtn
+affy_mouse430_2|1417967_at|1417967_at	ensembl_gene_id|ENSMUSG00000025159|ENSMUSG00000025159	entrezgene|72199|72199	refseq_dna|NM_028152|NM_028152	mgi_symbol|Mms19l|Mms19l

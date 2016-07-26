@@ -1,0 +1,9 @@
+miRNA	Normal (mean delta Ct)	Tumor (mean delta Ct)	Tumor	Tumor/normal fold	P value
+hsa-let-7a	-3.55	-1.57E+00	3.50E-01	-3.3	0.01
+hsa-mir-15a	2.57	4.13E+00	0.54	-4.5	0.05
+hsa-mir-16	-3.95	-1.50E+00	0.36	-5.0 	0.002
+hsa-mir-21	-2.54	-6.60E-01	0.52	-2.4	0.008
+hsa-mir-141	-1.61	1.24E+00	0.56	-2.6	0.02
+hsa-mir-143	0.69	3.34E+00	0.25	-6.4	0.05
+hsa-mir-145	0.04	1.25E+00	0.54	-2	0.04
+hsa-mir-150	1.17	1.00E-02	0.57	-3.8	0.04

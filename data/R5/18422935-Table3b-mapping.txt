@@ -1,0 +1,56 @@
+# Generate Mapping Tables Script: Version 4 11:03 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:03 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+entrezgene|487453|3484	hgnc_symbol|IGFBP1|IGFBP1
+entrezgene|52905|1843	hgnc_symbol|DUSP1|DUSP1
+entrezgene|128949|64902	hgnc_symbol|AGXT2|AGXT2
+entrezgene|126513|144193	hgnc_symbol|MGC35366|MGC35366
+entrezgene|5710020|11465	hgnc_symbol|DPT|DPT
+entrezgene|5715196|110078	hgnc_symbol|FOS|FOS
+entrezgene|127724|54996	hgnc_symbol|FLJ20605|FLJ20605
+entrezgene|138644|1003	hgnc_symbol|CDH5|CDH5
+entrezgene|124543|10468	hgnc_symbol|FST|FST
+entrezgene|1190755|1281	hgnc_symbol|COL3A1|COL3A1
+entrezgene|471596|10516	hgnc_symbol|FBLN5|FBLN5
+entrezgene|183315|100133190	hgnc_symbol|C10orf116|C10orf116
+entrezgene|240300|5104	hgnc_symbol|SERPIEST4|SERPIEST4
+entrezgene|5851615|5549	hgnc_symbol|PRELP|PRELP
+entrezgene|380876|710	hgnc_symbol|SERPING1|SERPING1
+entrezgene|382989|1634	hgnc_symbol|DCN|DCN
+entrezgene|471514|8660	hgnc_symbol|IRS2|IRS2
+entrezgene|137292|9079	hgnc_symbol|LDB2|LDB2
+entrezgene|182425|89866	hgnc_symbol|RGPR|RGPR
+hgnc_symbol|ZFP36|ZFP36
+entrezgene|247629|5016	hgnc_symbol|OVGP1|OVGP1
+entrezgene|446710|7448	hgnc_symbol|VTN|VTN
+entrezgene|128889|5519	hgnc_symbol|PPP2R1B|PPP2R1B
+entrezgene|501516|54554	hgnc_symbol|WDR5B|WDR5B
+entrezgene|162346|56944	hgnc_symbol|OLFML3|OLFML3
+entrezgene|489282|7071	hgnc_symbol|KLF10|KLF10
+hgnc_symbol|AGTRL1|AGTRL1
+entrezgene|212690|54363	hgnc_symbol|HAO1|HAO1
+entrezgene|52043|288	hgnc_symbol|H63|H63
+entrezgene|208383|2220	hgnc_symbol|FCN2|FCN2
+entrezgene|130081|221037	hgnc_symbol|JMJD1C|JMJD1C
+entrezgene|27003|55275	hgnc_symbol|FLJ10979|FLJ10979
+entrezgene|128150|51411	hgnc_symbol|BIN2|BIN2
+entrezgene|5301677|5947	hgnc_symbol|RBP1|RBP1
+entrezgene|298836|4208	hgnc_symbol|MEF2C|MEF2C
+entrezgene|294549|55020	hgnc_symbol|FLJ20699|FLJ20699
+entrezgene|126592|22837	hgnc_symbol|KIAA0977|KIAA0977
+entrezgene|166013|53826	hgnc_symbol|FXYD6|FXYD6
+entrezgene|124086|3590	hgnc_symbol|IL11RA|IL11RA
+entrezgene|5825523|1410	hgnc_symbol|CRYAB|CRYAB
+entrezgene|135106|54762	hgnc_symbol|DKFZp434C0328|DKFZp434C0328
+entrezgene|138917|4610	hgnc_symbol|MYCL1|MYCL1
+entrezgene|52937|117583	hgnc_symbol|ALS2CR19|ALS2CR19
+entrezgene|179848|4134	hgnc_symbol|MAP4|MAP4
+entrezgene|208384|23240	hgnc_symbol|KIAA0922|KIAA0922
+entrezgene|343293|1191	hgnc_symbol|CLU|CLU
+entrezgene|133082|25780	hgnc_symbol|RASGRP3|RASGRP3
+entrezgene|446820|23205	hgnc_symbol|BG1|BG1
+entrezgene|131137|3339	hgnc_symbol|HSPG2|HSPG2
+entrezgene|177757|55876	hgnc_symbol|GSDML|GSDML

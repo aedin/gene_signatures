@@ -1,0 +1,46 @@
+# Generate Mapping Tables Script: Version 4 11:08 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:08 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+entrezgene|17883|17883	mgi_symbol|Myh3|Myh3
+entrezgene|66402|66402	mgi_symbol|Sln|Sln
+entrezgene|17896|17896	mgi_symbol|Myl4|Myl4
+entrezgene|21956|21956	mgi_symbol|Tnnt2|Tnnt2
+entrezgene|107765|107765	mgi_symbol|Ankrd1|Ankrd1
+entrezgene|11609|11609	mgi_symbol|Agtr2|Agtr2
+entrezgene|17750|17750	mgi_symbol|Mt2|Mt2
+entrezgene|17885|17885	mgi_symbol|Myh8|Myh8
+entrezgene|13386|13386	mgi_symbol|Dlk1|Dlk1
+entrezgene|16854|16854	mgi_symbol|Lgals3|Lgals3
+entrezgene|81799|81799	mgi_symbol|C1qtnf3|C1qtnf3
+entrezgene|17748|17748	mgi_symbol|Mt1|Mt1
+entrezgene|12837|12837	mgi_symbol|Col8a1|Col8a1
+entrezgene|73710|73710	mgi_symbol|Tubb2b|Tubb2b
+entrezgene|14728|14728	mgi_symbol|Lilrb4|Lilrb4
+entrezgene|17476|17476	mgi_symbol|Mpeg1|Mpeg1
+entrezgene|20198|20198	mgi_symbol|S100a4|S100a4
+entrezgene|56644|56644	mgi_symbol|Clec7a|Clec7a
+entrezgene|17263|17263	mgi_symbol|Meg3|Meg3
+entrezgene|13175|13175	mgi_symbol|Dclk1|Dclk1
+entrezgene|245527|245527	mgi_symbol|Eda2r|Eda2r
+entrezgene|77712|77712	mgi_symbol|6030416H16Rik|6030416H16Rik
+entrezgene|244810|244810	mgi_symbol|AW551984|AW551984
+entrezgene|13040|13040	mgi_symbol|Ctss|Ctss
+entrezgene|214425|214425	mgi_symbol|Cilp|Cilp
+entrezgene|67821|67821	mgi_symbol|Atp1b4|Atp1b4
+entrezgene|65022|65022	mgi_symbol|Prg4|Prg4
+entrezgene|20716|20716	mgi_symbol|Serpina3n|Serpina3n
+entrezgene|12823|12823	mgi_symbol|Col19a1|Col19a1
+entrezgene|12505|12505	mgi_symbol|Cd44|Cd44
+entrezgene|76286|76286	mgi_symbol|1110006E14Rik|1110006E14Rik
+entrezgene|50706|50706	mgi_symbol|Postn|Postn
+entrezgene|16002|16002	mgi_symbol|Igf2|Igf2
+entrezgene|21828|21828	mgi_symbol|Thbs4|Thbs4
+entrezgene|93695|93695	mgi_symbol|Gpnmb|Gpnmb
+entrezgene|66139|66139
+entrezgene|66240|66240	mgi_symbol|Kcne1l|Kcne1l
+entrezgene|13107|13107	mgi_symbol|Cyp2f2|Cyp2f2
+entrezgene|12224|12224	mgi_symbol|Klf5|Klf5
+entrezgene|11501|11501	mgi_symbol|Adam8|Adam8

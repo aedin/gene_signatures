@@ -1,0 +1,43 @@
+# Generate Mapping Tables Script: Version 4 11:03 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:03 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+affy_hg_u95a|32681_at|32681_at	hgnc_symbol|SLC9A1|SLC9A1
+affy_hg_u95a|40596_at|40596_at	hgnc_symbol|TCOF1|TCOF1
+affy_hg_u95a|37413_at|37413_at	hgnc_symbol|DPEP1|DPEP1
+affy_hg_u95a|35625_at|35625_at	hgnc_symbol|CD97|CD97
+affy_hg_u95a|36916_at|36916_at	hgnc_symbol|ST3GAL4|ST3GAL4
+affy_hg_u95a|34802_at|34802_at	hgnc_symbol|COL6A2|COL6A2
+affy_hg_u95a|32780_at|32780_at	hgnc_symbol|DST|DST
+affy_hg_u95a|37219_at|37219_at	hgnc_symbol|CXCL9|CXCL9
+affy_hg_u95a|1596_g_at|1596_g_at	hgnc_symbol|TEK|TEK
+affy_hg_u95a|1814_at|1814_at	hgnc_symbol|TGFBR2|TGFBR2
+affy_hg_u95a|36065 at|36065 at	hgnc_symbol|LDBI|LDBI
+affy_hg_u95a|583_s_at|583_s_at	hgnc_symbol|VCAMI|VCAMI
+affy_hg_u95a|1198_at|1198_at	hgnc_symbol|EDNRB|EDNRB
+affy_hg_u95a|377l8_at|377l8_at	hgnc_symbol|SNRK|SNRK
+affy_hg_u95a|1815_g_at|1815_g_at	hgnc_symbol|TGFBR2|TGFBR2
+affy_hg_u95a|41433_at|41433_at	hgnc_symbol|VCAMI|VCAMI
+affy_hg_u95a|37958_at|37958_at	hgnc_symbol|TMEM47|TMEM47
+affy_hg_u95a|33890_at|33890_at	hgnc_symbol|RGS5|RGS5
+affy_hg_u95a|38408_at|38408_at	hgnc_symbol|TM4SF2|TM4SF2
+affy_hg_u95a|33862_at|33862_at	hgnc_symbol|PPAP2B|PPAP2B
+affy_hg_u95a|41573_at|41573_at	hgnc_symbol|SP3|SP3
+affy_hg_u95a|37398_at|37398_at	hgnc_symbol|PECAM1|PECAM1
+affy_hg_u95a|36627_at|36627_at	hgnc_symbol|SPARCL1|SPARCL1
+affy_hg_u95a|36132_at|36132_at	hgnc_symbol|ALDH7A1|ALDH7A1
+affy_hg_u95a|41123_s_at|41123_s_at	hgnc_symbol|ENPP2|ENPP2
+affy_hg_u95a|41124_r_at|41124_r_at	hgnc_symbol|ENPP2|ENPP2
+affy_hg_u95a|38767_at|38767_at	hgnc_symbol|SPRY1|SPRY1
+affy_hg_u95a|32184_at|32184_at	hgnc_symbol|LMO2|LMO2
+affy_hg_u95a|34378_at|34378_at	hgnc_symbol|ADFP|ADFP
+affy_hg_u95a|40838_at|40838_at	hgnc_symbol|ZNF292|ZNF292
+affy_hg_u95a|36156_at|36156_at	hgnc_symbol|AQP1|AQP1
+affy_hg_u95a|1034_at|1034_at	hgnc_symbol|TIMP3|TIMP3
+affy_hg_u95a|34235_at|34235_at	hgnc_symbol|GPR116|GPR116
+affy_hg_u95a|915_at|915_at	hgnc_symbol|IFIT1|IFIT1
+affy_hg_u95a|2017_s_at|2017_s_at	hgnc_symbol|CCND1|CCND1
+affy_hg_u95a|36101_s_at|36101_s_at	hgnc_symbol|VEGF|VEGF
+affy_hg_u95a|1035_g_at|1035_g_at	hgnc_symbol|TIMP3|TIMP3

@@ -1,0 +1,66 @@
+# Generate Mapping Tables Script: Version 4 11:03 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:03 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+entrezgene|3236|3236	hgnc_symbol|HOXD10|HOXD10
+entrezgene|51533|51533	hgnc_symbol|PHF7|PHF7
+entrezgene|1958|1958	hgnc_symbol|EGR1|EGR1
+entrezgene|8805|8805	hgnc_symbol|TRIM24|TRIM24
+entrezgene|2023|2023	hgnc_symbol|ENO1|ENO1
+entrezgene|6741|6741	hgnc_symbol|SSB|SSB
+entrezgene|10772|10772	hgnc_symbol|FUSIP1|FUSIP1
+entrezgene|10528|10528	hgnc_symbol|NOLA5|NOLA5
+entrezgene|1655|1655	hgnc_symbol|DDX5|DDX5
+entrezgene|9148|9148	hgnc_symbol|NEURL|NEURL
+entrezgene|134430|134430	hgnc_symbol|WDR36|WDR36
+entrezgene|123263|123263	hgnc_symbol|MTFMT|MTFMT
+entrezgene|378|378	hgnc_symbol|ARF4|ARF4
+entrezgene|9702|9702	hgnc_symbol|CEP57|CEP57
+entrezgene|2107|2107	hgnc_symbol|ETF1|ETF1
+entrezgene|3303|3303	hgnc_symbol|HSPA1A|HSPA1A
+entrezgene|3958|3958	hgnc_symbol|LGALS3|LGALS3
+entrezgene|10808|10808	hgnc_symbol|HSPH1|HSPH1
+entrezgene|3312|3312	hgnc_symbol|HSPA8|HSPA8
+entrezgene|273|273	hgnc_symbol|AMPH|AMPH
+entrezgene|4131|4131	hgnc_symbol|MAP1B|MAP1B
+entrezgene|89845|89845	hgnc_symbol|ABCC10|ABCC10
+entrezgene|1836|1836	hgnc_symbol|SLC26A2|SLC26A2
+entrezgene|7280|7280	hgnc_symbol|TUBB2A|TUBB2A
+entrezgene|79770|79770	hgnc_symbol|C5orf14|C5orf14
+entrezgene|89797|89797	hgnc_symbol|NAV2|NAV2
+entrezgene|123041|123041	hgnc_symbol|SLC24A4|SLC24A4
+entrezgene|23207|23207	hgnc_symbol|PLEKHM2|PLEKHM2
+entrezgene|5756|5756	hgnc_symbol|TWF1|TWF1
+entrezgene|1645|1645	hgnc_symbol|AKR1C1|AKR1C1
+entrezgene|3156|3156	hgnc_symbol|HMGCR|HMGCR
+entrezgene|58505|58505	hgnc_symbol|DC2|DC2
+entrezgene|2938|2938	hgnc_symbol|GSTA1|GSTA1
+entrezgene|2597|2597	hgnc_symbol|GAPD|GAPD
+entrezgene|2729|2729	hgnc_symbol|GCLC|GCLC
+entrezgene|6723|6723	hgnc_symbol|SRM|SRM
+entrezgene|3320|3320	hgnc_symbol|HSP90AA1|HSP90AA1
+entrezgene|191|191	hgnc_symbol|AHCY|AHCY
+entrezgene|4144|4144	hgnc_symbol|MAT2A|MAT2A
+entrezgene|4689|4689	hgnc_symbol|NCF4|NCF4
+entrezgene|54205|54205	hgnc_symbol|CYCS|CYCS
+entrezgene|1622|1622	hgnc_symbol|DBI|DBI
+entrezgene|518|518	hgnc_symbol|ATP5G3|ATP5G3
+entrezgene|3305|3305	hgnc_symbol|HSPA1L|HSPA1L
+entrezgene|8061|8061	hgnc_symbol|FOSL1|FOSL1
+entrezgene|2266|2266	hgnc_symbol|FGG|FGG
+entrezgene|2244|2244	hgnc_symbol|FGG|FGG
+entrezgene|4753|4753	hgnc_symbol|NELL2|NELL2
+entrezgene|3690|3690	hgnc_symbol|ITGB3|ITGB3
+entrezgene|388|388	hgnc_symbol|RHOB|RHOB
+entrezgene|11047|11047	hgnc_symbol|ADRM1|ADRM1
+entrezgene|7334|7334	hgnc_symbol|UBE2N|UBE2N
+entrezgene|27338|27338	hgnc_symbol|UBE2S|UBE2S
+entrezgene|51434|51434	hgnc_symbol|ANAPC7|ANAPC7
+entrezgene|27101|27101	hgnc_symbol|CACYBP|CACYBP
+entrezgene|7311|7311	hgnc_symbol|UBA52|UBA52
+entrezgene|1293|1293	hgnc_symbol|COL6A3|COL6A3
+entrezgene|6189|6189	hgnc_symbol|RPS3A|RPS3A
+entrezgene|5756|5756	hgnc_symbol|TWF1|TWF1
+entrezgene|1645|1645	hgnc_symbol|AKR1C1|AKR1C1

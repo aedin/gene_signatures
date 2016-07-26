@@ -1,0 +1,24 @@
+Contig	Product	UniProt accession	Category	Members	Altered	P-value up/down	Stage(s)
+Sm00415	Succinate-CoA-ligase (EM)	Q6P7S4	TCA Cycle	6	3	D<0.001	2C7
+Sm03361	Cytochrome c oxidase assembly factor (EM)	Q7PPN7	Electron transport	39	9	D<0.001	2C7
+Sm03958	Ferredoxin (EM)	Q9YHT2	Electron transporter activity	18	3	D 0.003	2C7
+			Mitochondrian electron transport chain	5	2	D 0.003	2+7
+			Electron transport	39	9	D<0.001	2+7
+			TCA Cycle	7	3	D<0.001	2+7
+Sm07278	Aconitate hydratase (EM)	Q7Q3F6	Aconitate hydratase activity	1	1	D 0.02	2+7
+			TCA Cycle	7	3	D<0.001	2+7
+Sm09091	Cytochrome c1 (EM)	Q6VBC0	Electron transporter activity	18	3	D 0.003	2+7
+			Mitochondrian electron transport chain	5	2	D 0.003	2+7
+			Electron transport	39	9	D<0.001	2+7
+Sm12677	WCRF180 (CR)	Q9NRL2	Chromatin remodelling	3	1	D 0.05	2+7
+			Nuclear Chromosome	2	1	D 0.04	2+7
+Sm12462	STGP4 (EM)	Q26581	Sugar porter	6	1	U 0.05	7
+Sm03987	Annexin (CS)	Q86E42	Calcium dependent phospholipid binding	3	1	U 0.03	7
+Sm12764	Ag5 (PA)	Q86FG7	Trypsin activity	2	1	U 0.02	7
+Sm00765	Dynein light chain (CS)	Q94758	Microtubule associated complex	23	3	U<0.001	7+21
+			Microtuble motor activity	13	2	U 0.002	7+21
+Sm02451	Calpain (CS)	O45033	Calpain activity	4	2	U 0.002	7+21
+Sm13136	DMN1 (CS)	Q6P3T6/Q05193	Receptor mediated endocytosis	2	1	U 0.02	7+21
+			Synaptic transmission	7	1	U 0.04	7+21
+			Motor activity	24	3	U<0.001	7+21
+			Coated pit	1	1	U 0.006	7+21

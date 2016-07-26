@@ -1,0 +1,31 @@
+# Generate Mapping Tables Script: Version 4 11:06 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:06 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+affy_hg_focus|204244_s_at|204244_s_at	hgnc_symbol|ASK|ASK
+affy_hg_focus|205345_at|205345_at	hgnc_symbol|BARD1|BARD1
+affy_hg_focus|222201_s_at|222201_s_at	hgnc_symbol|CASP8AP2|CASP8AP2
+affy_hg_focus|204826_at|204826_at	hgnc_symbol|CCNF|CCNF
+affy_hg_focus|203968_s_at|203968_s_at	hgnc_symbol|CDC6|CDC6
+affy_hg_focus|204510_at|204510_at	hgnc_symbol|CDC7L1|CDC7L1
+affy_hg_focus|201697_s_at|201697_s_at	hgnc_symbol|DNMT1|DNMT1
+affy_hg_focus|218530_at|218530_at	hgnc_symbol|FHOD1|FHOD1
+affy_hg_focus|221521_s_at|221521_s_at	hgnc_symbol|L0C51659|L0C51659
+affy_hg_focus|202107_s_at|202107_s_at	hgnc_symbol|MCM2|MCM2
+affy_hg_focus|201555_at|201555_at	hgnc_symbol|MCM3|MCM3
+affy_hg_focus|216237_s_at|216237_s_at	hgnc_symbol|MCM5|MCM5
+affy_hg_focus|201930_at|201930_at	hgnc_symbol|MCM6|MCM6
+affy_hg_focus|209421_at|209421_at	hgnc_symbol|MSH2|MSH2
+affy_hg_focus|202911_at|202911_at	hgnc_symbol|MSH6|MSH6
+affy_hg_focus|201202_at|201202_at	hgnc_symbol|PCNA|PCNA
+affy_hg_focus|213226_at|213226_at	hgnc_symbol|PMSCL1|PMSCL1
+affy_hg_focus|216026_s_at|216026_s_at	hgnc_symbol|POLE|POLE
+affy_hg_focus|205909_at|205909_at	hgnc_symbol|POLE2|POLE2
+affy_hg_focus|205296_at|205296_at	hgnc_symbol|RBL1|RBL1
+affy_hg_focus|204127_at|204127_at	hgnc_symbol|RFC3|RFC3
+affy_hg_focus|205339_at|205339_at	hgnc_symbol|SIL|SIL
+affy_hg_focus|201589_at|201589_at	hgnc_symbol|SMC1L1|SMC1L1
+affy_hg_focus|204822_at|204822_at	hgnc_symbol|TTK|TTK
+affy_hg_focus|202589_at|202589_at	hgnc_symbol|TYMS|TYMS

@@ -1,0 +1,56 @@
+# Generate Mapping Tables Script: Version 4 11:03 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:03 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+entrezgene|R55188|79173	unigene|Hs.143288|Hs.143288
+entrezgene|AA487197|7329	unigene|Hs.84285|Hs.84285
+entrezgene|AA459292|1163	unigene|Hs.380768|Hs.380768
+entrezgene|AA397824|1652	unigene|Hs.180015|Hs.180015
+entrezgene|AA772066|27124	unigene|Hs.439210|Hs.439210
+entrezgene|AA778392|7851	unigene|Hs.185055|Hs.185055
+entrezgene|AA707922|5149	unigene|Hs.54471|Hs.54471
+entrezgene|AA430675|2189	unigene|Hs.8047|Hs.8047
+embl|AA699469|AA699469	unigene|Hs.177446|Hs.177446
+entrezgene|AA292536|1523	unigene|Hs.147049|Hs.147049
+entrezgene|AA281635|9214	unigene|Hs.315463|Hs.315463
+entrezgene|AA629923|408050	unigene|Hs.227823|Hs.227823
+entrezgene|AA629719|1350	unigene|Hs.430075|Hs.430075
+entrezgene|R27585|5682	unigene|Hs.82159|Hs.82159
+entrezgene|AA046690|3799	unigene|Hs.149436|Hs.149436
+entrezgene|AA461527|10987	unigene|Hs.380969|Hs.380969
+entrezgene|AA281784|5293	unigene|Hs.162808|Hs.162808
+entrezgene|AA243439|4221	unigene|Hs.423348|Hs.423348
+entrezgene|AA436564|10461	unigene|Hs.117078|Hs.117078
+entrezgene|N78621|164	unigene|Hs.5344|Hs.5344
+entrezgene|AA872397|3957	unigene|Hs.113987|Hs.113987
+entrezgene|AA644657|3105	unigene|Hs.181244|Hs.181244
+entrezgene|AA812973|10693	unigene|Hs.73072|Hs.73072
+entrezgene|AA669055|3119	unigene|Hs.73931|Hs.73931
+entrezgene|AA608988|7258	unigene|Hs.2051|Hs.2051
+entrezgene|AA427934|392	unigene|Hs.138860|Hs.138860
+embl|N92646|N92646	unigene|Hs.520937|Hs.520937
+entrezgene|AA397813|1164	unigene|Hs.83758|Hs.83758
+entrezgene|AA757170|8825	unigene|Hs.416087|Hs.416087
+entrezgene|AA043228|1266	unigene|Hs.194662|Hs.194662
+entrezgene|AA521431|5216	unigene|Hs.408943|Hs.408943
+entrezgene|N29376|4332	unigene|Hs.153837|Hs.153837
+entrezgene|AA284528|5644	unigene|Hs.241561|Hs.241561
+entrezgene|AA411440|7430	unigene|Hs.155191|Hs.155191
+entrezgene|AA872001|309	unigene|Hs.118796|Hs.118796
+entrezgene|N71628|6689	unigene|Hs.192861|Hs.192861
+entrezgene|AA098896|2101	unigene|Hs.110849|Hs.110849
+entrezgene|AA829383|5606	unigene|Hs.180533|Hs.180533
+embl|AA664180|AA664180	unigene|Hs.386793|Hs.386793
+embl|AA253430|AA253430	unigene|Hs.91161|Hs.91161
+embl|AA709271|AA709271	unigene|Hs.177691|Hs.177691
+entrezgene|AA434404|5558	unigene|Hs.74519|Hs.74519
+entrezgene|AA464755|286	unigene|Hs.183805|Hs.183805
+entrezgene|AA424786|2801	unigene|Hs.24049|Hs.24049
+entrezgene|AA709414|4811	unigene|Hs.356624|Hs.356624
+entrezgene|AA134555|6945	unigene|Hs.279032|Hs.279032
+entrezgene|AA490256|2773	unigene|Hs.73799|Hs.73799
+entrezgene|AA490991|3185	unigene|Hs.808|Hs.808
+entrezgene|AA600189|103	unigene|Hs.7957|Hs.7957
+entrezgene|AA490300|11333	unigene|Hs.278426|Hs.278426

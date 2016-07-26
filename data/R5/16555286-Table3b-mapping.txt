@@ -1,0 +1,23 @@
+# Generate Mapping Tables Script: Version 4 11:06 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:06 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+affy_moe430a|1449034_at|1449034_at	mgi_symbol|Cyp4v3|Cyp4v3
+affy_moe430a|1449034_at|1449034_at	mgi_symbol|Klkb1|Klkb1
+affy_moe430a|1418992_at|1418992_at	mgi_symbol|F10|F10
+affy_moe430a|1451788_at|1451788_at	mgi_symbol|F11|F11
+affy_moe430a|1418897_at|1418897_at	mgi_symbol|F2|F2
+affy_moe430a|1418907_at|1418907_at	mgi_symbol|F5|F5
+affy_moe430a|1419321_at|1419321_at	mgi_symbol|F7|F7
+affy_moe430a|1427393_at|1427393_at	mgi_symbol|F9|F9
+affy_moe430a|1428079_at|1428079_at	mgi_symbol|Fgb|Fgb
+affy_moe430a|1416025_at|1416025_at	mgi_symbol|Fgg|Fgg
+affy_moe430a|1416676_at|1416676_at	mgi_symbol|Kng1|Kng1
+affy_moe430a|1418267_at|1418267_at	mgi_symbol|Mst1|Mst1
+affy_moe430a|1416729_at|1416729_at	mgi_symbol|Plg|Plg
+affy_moe430a|1431721_a_at|1431721_a_at	mgi_symbol|Proz|Proz
+affy_moe430a|1417909_at|1417909_at	mgi_symbol|Serpinc1|Serpinc1
+affy_moe430a|1418680_at|1418680_at	mgi_symbol|Serpind1|Serpind1
+affy_moe430a|1416625_at|1416625_at	mgi_symbol|Serping1|Serping1

@@ -1,0 +1,87 @@
+# Generate Mapping Tables Script: Version 4 11:08 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:08 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+rgd_symbol|60 S L21|60 S L21
+rgd_symbol|ACE|ACE
+rgd_symbol|Acid-labile IGFBP|Acid-labile IGFBP
+rgd_symbol|AFABP|AFABP
+rgd_symbol|Alpha 1 proteinase inhibitor.|Alpha 1 proteinase inhibitor.
+rgd_symbol|ANPC|ANPC
+rgd_symbol|ATPase|ATPase
+rgd_symbol|Bclx|Bclx
+rgd_symbol|BTG2 protein precursor|BTG2 protein precursor
+rgd_symbol|Carnitine|Carnitine
+rgd_symbol|Cathepsin H|Cathepsin H
+rgd_symbol|CCAM 105|CCAM 105
+rgd_symbol|CD3|CD3	rgd_symbol|gamma chain|gamma chain
+rgd_symbol|CD5|CD5
+rgd_symbol|CD8|CD8
+rgd_symbol|CD24|CD24
+rgd_symbol|CF2R|CF2R
+rgd_symbol|c-H-ras|c-H-ras
+rgd_symbol|c-jun|c-jun
+rgd_symbol|c-K-ras|c-K-ras
+rgd_symbol|CLP36|CLP36
+rgd_symbol|Cofilin|Cofilin
+rgd_symbol|COX 1|COX 1
+rgd_symbol|C-src-kinase|C-src-kinase
+rgd_symbol|E-FABP|E-FABP
+rgd_symbol|EGR1|EGR1
+rgd_symbol|ERP72|ERP72
+rgd_symbol|Ezrin|Ezrin
+rgd_symbol|Fibrinogen|Fibrinogen
+rgd_symbol|GADD45|GADD45
+rgd_symbol|GD-VEGF|GD-VEGF
+rgd_symbol|GIP|GIP
+rgd_symbol|GNA12|GNA12
+rgd_symbol|GPIV|GPIV
+rgd_symbol|GRP78|GRP78
+rgd_symbol|GSHPXP|GSHPXP
+rgd_symbol|HMG1|HMG1
+rgd_symbol|HSDIII|HSDIII
+rgd_symbol|HSP27|HSP27
+rgd_symbol|HSP70|HSP70
+rgd_symbol|ID1|ID1
+rgd_symbol|Id-2|Id-2
+rgd_symbol|IGFBP1|IGFBP1
+rgd_symbol|IGFBP5|IGFBP5
+rgd_symbol|I-kB|I-kB
+rgd_symbol|IL1R1|IL1R1
+rgd_symbol|IL4R|IL4R
+rgd_symbol|IL6R|IL6R
+rgd_symbol|IL8R|IL8R
+rgd_symbol|Integrin beta 1|Integrin beta 1
+rgd_symbol|INSP3R|INSP3R
+rgd_symbol|KCIP1|KCIP1
+rgd_symbol|LCA|LCA
+rgd_symbol|LCR1|LCR1
+rgd_symbol|LDLR|LDLR
+rgd_symbol|LFABP|LFABP
+rgd_symbol|LIMK2|LIMK2
+rgd_symbol|LPL|LPL
+rgd_symbol|MAPK2|MAPK2
+rgd_symbol|MDR1|MDR1
+rgd_symbol|Meprin|Meprin
+rgd_symbol|MGST1|MGST1
+rgd_symbol|P450 IIA1|P450 IIA1
+rgd_symbol|P4502C7|P4502C7
+rgd_symbol|P4502C11|P4502C11
+rgd_symbol|PAI1|PAI1
+rgd_symbol|Plakoglobin|Plakoglobin
+rgd_symbol|Plectin|Plectin
+rgd_symbol|Procollagen C proteinase|Procollagen C proteinase
+rgd_symbol|PTPPS|PTPPS
+rgd_symbol|Rb2 / p130|Rb2 / p130
+rgd_symbol|RMCP1|RMCP1
+rgd_symbol|RPA28 proteasome turnover|RPA28 proteasome turnover
+rgd_symbol|SCN4A|SCN4A
+rgd_symbol|STAT3|STAT3
+rgd_symbol|TER ATPase|TER ATPase
+rgd_symbol|TGF-beta masking protein|TGF-beta masking protein
+rgd_symbol|TIMP2|TIMP2
+rgd_symbol|TIMP3|TIMP3
+rgd_symbol|UPA|UPA
+rgd_symbol|VP165|VP165

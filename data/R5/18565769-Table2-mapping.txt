@@ -1,0 +1,39 @@
+# Generate Mapping Tables Script: Version 4 11:04 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:04 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+hgnc_symbol|CSF3|CSF3
+hgnc_symbol|SELE|SELE
+hgnc_symbol|LIF|LIF
+hgnc_symbol|ADORA2A|ADORA2A
+hgnc_symbol|PIM2|PIM2
+hgnc_symbol|PTGS2|PTGS2
+hgnc_symbol|IL6|IL6
+hgnc_symbol|NOS2P2|NOS2P2
+
+hgnc_symbol|RAC1|RAC1
+hgnc_symbol|NOS2|NOS2
+hgnc_symbol|CXCL2|CXCL2
+hgnc_symbol|IL8|IL8
+hgnc_symbol|CXCL1|CXCL1
+hgnc_symbol|CXCL3|CXCL3
+hgnc_symbol|CCL4|CCL4
+hgnc_symbol|CCL20|CCL20
+hgnc_symbol|CCL3L1|CCL3L1
+hgnc_symbol|CXCL6|CXCL6
+hgnc_symbol|CCL3|CCL3
+hgnc_symbol|CCL5|CCL5
+hgnc_symbol|CXCL5|CXCL5
+hgnc_symbol|CX3CL1|CX3CL1
+hgnc_symbol|CCL2|CCL2
+hgnc_symbol|CCL8|CCL8
+hgnc_symbol|NOS2P1|NOS2P1
+hgnc_symbol|IL24|IL24
+hgnc_symbol|NFKBIA|NFKBIA
+hgnc_symbol|MMP13|MMP13
+hgnc_symbol|COL2A1|COL2A1
+hgnc_symbol|ADAMTS5|ADAMTS5
+
+hgnc_symbol|BMP2|BMP2

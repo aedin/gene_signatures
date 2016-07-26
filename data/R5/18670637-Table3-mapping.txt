@@ -1,0 +1,51 @@
+# Generate Mapping Tables Script: Version 4 11:05 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:05 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+hgnc_symbol|MAPK1|MAPK1
+hgnc_symbol|PIK3CB|PIK3CB
+hgnc_symbol|PIK3R1|PIK3R1
+hgnc_symbol|PRKCB|PRKCB
+hgnc_symbol|AKT3|AKT3
+hgnc_symbol|MAP2K1|MAP2K1
+hgnc_symbol|MAPK9|MAPK9
+hgnc_symbol|MAPK10|MAPK10
+hgnc_symbol|PRKACB|PRKACB
+hgnc_symbol|PPP3CA|PPP3CA
+hgnc_symbol|PPP3CB|PPP3CB
+hgnc_symbol|PRKX|PRKX
+hgnc_symbol|PPP3R1|PPP3R1
+hgnc_symbol|IKBKB|IKBKB
+hgnc_symbol|JUN|JUN
+hgnc_symbol|PAK1|PAK1
+hgnc_symbol|TP53|TP53
+hgnc_symbol|PLCB1|PLCB1
+hgnc_symbol|CALM1|CALM1
+hgnc_symbol|PDGFRA|PDGFRA
+hgnc_symbol|CALM3|CALM3
+hgnc_symbol|ITGB1|ITGB1
+hgnc_symbol|ITPR1|ITPR1
+hgnc_symbol|ITPR2|ITPR2
+hgnc_symbol|ROCK1|ROCK1
+hgnc_symbol|NFKBIA|NFKBIA
+hgnc_symbol|ROCK2|ROCK2
+hgnc_symbol|CCND1|CCND1
+hgnc_symbol|CAMK2A|CAMK2A
+hgnc_symbol|CAMK2B|CAMK2B
+hgnc_symbol|GNAI3|GNAI3
+hgnc_symbol|TGFB1|TGFB1
+hgnc_symbol|ACTN1|ACTN1
+hgnc_symbol|PAK2|PAK2
+hgnc_symbol|FOS|FOS
+hgnc_symbol|ACTN2|ACTN2
+hgnc_symbol|MAP2K4|MAP2K4
+hgnc_symbol|PLA2G6|PLA2G6
+hgnc_symbol|PTPN6|PTPN6
+hgnc_symbol|FAS|FAS
+hgnc_symbol|CCND2|CCND2
+hgnc_symbol|PLA2G12A|PLA2G12A
+hgnc_symbol|GNAS|GNAS
+hgnc_symbol|GNAI1|GNAI1
+hgnc_symbol|CAMK2G|CAMK2G

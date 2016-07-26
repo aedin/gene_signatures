@@ -1,0 +1,74 @@
+# Generate Mapping Tables Script: Version 4 11:04 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:04 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+refseq_dna|NM_005397|NM_005397	hgnc_symbol|PODXL|PODXL
+entrezgene|BC000182|307	hgnc_symbol|ANXA4|ANXA4
+entrezgene|U82164|4267	hgnc_symbol|CD99|CD99
+refseq_dna|NM_004360|NM_004360	hgnc_symbol|CDH1|CDH1
+entrezgene|AF101051|9076	hgnc_symbol|CLDN1|CLDN1
+refseq_dna|NM_020412|NM_020412	hgnc_symbol|CLDN7|CLDN7
+entrezgene|AF275945|10205	hgnc_symbol|EVA1|EVA1
+entrezgene|AL133035|54751	hgnc_symbol|FBLP-1|FBLP-1
+refseq_dna|NM_002204|NM_002204	hgnc_symbol|ITGA3|ITGA3
+entrezgene|AK026736|3694	hgnc_symbol|ITGB6|ITGB6
+refseq_dna|NM_005764|NM_005764	hgnc_symbol|PDZKIIPI|PDZKIIPI
+refseq_dna|NM_007361|NM_007361	hgnc_symbol|NID2|NID2
+embl|AI829721|AI829721	hgnc_symbol|OCLN|OCLN
+refseq_dna|NM_004417|NM_004417	hgnc_symbol|DUSP1|DUSP1
+entrezgene|AI798790|667	hgnc_symbol|BPAG1|BPAG1
+entrezgene|U73945|1672	hgnc_symbol|DEFB1|DEFB1
+entrezgene|D13988|2665	hgnc_symbol|GDI2|GDI2
+refseq_dna|NM_006379|NM_006379	hgnc_symbol|SEMA3C|SEMA3C
+embl|J04152|J04152	hgnc_symbol|TACSTD2|TACSTD2
+entrezgene|AF154005|50848	hgnc_symbol|F11R|F11R
+entrezgene|U77914|182	hgnc_symbol|JAG1|JAG1
+entrezgene|M36532|760	hgnc_symbol|CA2|CA2
+entrezgene|AF109161|10370	hgnc_symbol|CITED2|CITED2
+refseq_dna|NM_000127|NM_000127	hgnc_symbol|EXT1|EXT1
+
+entrezgene|AI082078|87	hgnc_symbol|ACTN1|ACTN1
+refseq_dna|NM_016445|NM_016445	hgnc_symbol|PLEK2|PLEK2
+entrezgene|BC002416|633	hgnc_symbol|BGN|BGN
+entrezgene|AF098641|960	hgnc_symbol|CD44|CD44
+refseq_dna|NM_000393|NM_000393	hgnc_symbol|COL5A1|COL5A1
+embl|AL564683|AL564683	hgnc_symbol|COL5A2|COL5A2
+entrezgene|AK026737|2335	hgnc_symbol|FN1|FN1
+entrezgene|M20206|3912	hgnc_symbol|Lamb1|Lamb1
+refseq_dna|NM_001786|NM_001786	hgnc_symbol|CDC2|CDC2
+refseq_dna|NM_001511|NM_001511	hgnc_symbol|CXCL1|CXCL1
+refseq_dna|NM_004447|NM_004447	hgnc_symbol|EPS8|EPS8
+refseq_dna|NM_003505|NM_003505	hgnc_symbol|FZD1|FZD1
+entrezgene|L37882|2535	hgnc_symbol|FZD2|FZD2
+refseq_dna|NM_003483|NM_003483	hgnc_symbol|HMGA2|HMGA2
+refseq_dna|NM_000596|NM_000596	hgnc_symbol|IGFBP1|IGFBP1
+entrezgene|M31159|3486	hgnc_symbol|IGFBP3|IGFBP3
+refseq_dna|NM_014970|NM_014970	hgnc_symbol|KIFAP3|KIFAP3
+entrezgene|BG170541|4233	hgnc_symbol|Met|Met
+entrezgene|L03203|5376	hgnc_symbol|PMP22|PMP22
+refseq_dna|NM_002845|NM_002845	hgnc_symbol|PTPRM|PTPRM
+entrezgene|AF079117|2030	hgnc_symbol|SLC29A1|SLC29A1
+refseq_dna|NM_002425|NM_002425	hgnc_symbol|MMP10|MMP10
+refseq_dna|NM_004530|NM_004530	hgnc_symbol|MMP2|MMP2
+refseq_dna|NM_002423|NM_002423	hgnc_symbol|MMP7|MMP7
+refseq_dna|NM_002658|NM_002658	hgnc_symbol|PLAU|PLAU
+entrezgene|X74039|5329	hgnc_symbol|PLAUR|PLAUR
+refseq_dna|NM_005978|NM_005978	hgnc_symbol|S100A2|S100A2
+refseq_dna|NM_002960|NM_002960	hgnc_symbol|S100A3|S100A3
+refseq_dna|NM_002961|NM_002961	hgnc_symbol|S100A4|S100A4
+refseq_dna|NM_014624|NM_014624	hgnc_symbol|S100A6|S100A6
+refseq_dna|NM_005980|NM_005980	hgnc_symbol|S100P|S100P
+entrezgene|BF316352|91687	hgnc_symbol|SERPINH1|SERPINH1
+entrezgene|D13889|3397	hgnc_symbol|ID1|ID1
+refseq_dna|NM_002167|NM_002167	hgnc_symbol|ID3|ID3
+entrezgene|U16153|3400	hgnc_symbol|ID4|ID4
+refseq_dna|NM_002345|NM_002345	hgnc_symbol|LUM|LUM
+entrezgene|AI572079|6591	hgnc_symbol|SNAI2|SNAI2
+refseq_dna|NM_003118|NM_003118	hgnc_symbol|SPARC|SPARC
+refseq_dna|NM_001105|NM_001105	hgnc_symbol|ACVR1|ACVR1
+refseq_dna|NM_003670|NM_003670	hgnc_symbol|BHLHB2|BHLHB2
+refseq_dna|NM_000961|NM_000961	hgnc_symbol|PTGIS|PTGIS
+refseq_dna|NM_024430|NM_024430	hgnc_symbol|PSTPIP2|PSTPIP2
+refseq_dna|NM_003364|NM_003364	hgnc_symbol|UPP1|UPP1

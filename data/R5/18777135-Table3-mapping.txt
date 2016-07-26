@@ -1,0 +1,35 @@
+# Generate Mapping Tables Script: Version 4 11:08 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:08 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+mirbase_id|hsa-miR-1|hsa-miR-1
+mirbase_id|hsa-miR-133a|hsa-miR-133a
+mirbase_id|hsa-miR-133b|hsa-miR-133b
+mirbase_id|hsa-miR-10b|hsa-miR-10b
+mirbase_id|hsa-miR-100|hsa-miR-100
+mirbase_id|hsa-miR-125b|hsa-miR-125b
+mirbase_id|hsa-miR-99a|hsa-miR-99a
+mirbase_id|hsa-miR-150|hsa-miR-150
+mirbase_id|hsa-miR-22|hsa-miR-22
+mirbase_id|hsa-miR-181c|hsa-miR-181c
+mirbase_id|hsa-miR-375|hsa-miR-375
+mirbase_id|hsa-miR-139|hsa-miR-139
+mirbase_id|hsa-miR-29c|hsa-miR-29c
+mirbase_id|hsa-miR-10a|hsa-miR-10a
+mirbase_id|hsa-miR-500|hsa-miR-500
+mirbase_id|hsa-miR-145|hsa-miR-145
+mirbase_id|hsa-miR-143|hsa-miR-143
+mirbase_id|hsa-miR-199b|hsa-miR-199b
+mirbase_id|hsa-miR-125a|hsa-miR-125a
+mirbase_id|hsa-miR-378|hsa-miR-378
+mirbase_id|hsa-miR-30e|hsa-miR-30e
+mirbase_id|hsa-miR-486|hsa-miR-486
+mirbase_id|hsa-miR-31|hsa-miR-31
+mirbase_id|hsa-miR-29a|hsa-miR-29a
+mirbase_id|hsa-miR-365|hsa-miR-365
+mirbase_id|hsa-miR-182|hsa-miR-182
+mirbase_id|hsa-miR-222|hsa-miR-222
+mirbase_id|hsa-miR-181a|hsa-miR-181a
+mirbase_id|hsa-miR-424|hsa-miR-424

@@ -1,0 +1,72 @@
+# Generate Mapping Tables Script: Version 4 11:07 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:07 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+affy_moe430a|1424600_at|1424600_at	unigene|Mm.213898|Mm.213898	mgi_symbol|Abp1|Abp1
+affy_moe430a|1427034_at|1427034_at	unigene|Mm.754|Mm.754	mgi_symbol|Ace|Ace
+affy_moe430a|1418553_at|1418553_at	unigene|Mm.170461|Mm.170461	mgi_symbol|Arhgef18|Arhgef18
+affy_moe430a|1459924_at|1459924_at	unigene|Mm.340818|Mm.340818	mgi_symbol|Atp6v0a1|Atp6v0a1
+affy_moe430a|1416582_a_at|1416582_a_at	unigene|Mm.4387|Mm.4387	mgi_symbol|Bad|Bad
+affy_moe430a|1423635_at|1423635_at	unigene|Mm.103205|Mm.103205	mgi_symbol|Bmp2|Bmp2
+affy_moe430a|1456616_a_at|1456616_a_at	unigene|Mm.726|Mm.726	mgi_symbol|Bsg|Bsg
+affy_moe430a|1424226_at|1424226_at	unigene|Mm.218590|Mm.218590	mgi_symbol|9030617O03Rik|9030617O03Rik
+affy_moe430a|1427944_at|1427944_at	unigene|Mm.150568|Mm.150568	mgi_symbol|C1qdc1|C1qdc1
+affy_moe430a|1449248_at|1449248_at	unigene|Mm.177761|Mm.177761	mgi_symbol|Clcn2|Clcn2
+affy_moe430a|1416565_at|1416565_at	unigene|Mm.400|Mm.400	mgi_symbol|Cox6b1|Cox6b1
+affy_moe430a|1420617_at|1420617_at	unigene|Mm.339792|Mm.339792	mgi_symbol|Cpeb4|Cpeb4
+affy_moe430a|1415677_at|1415677_at	unigene|Mm.21623|Mm.21623	mgi_symbol|Dhrs1|Dhrs1
+affy_moe430a|1416697_at|1416697_at	unigene|Mm.1151|Mm.1151	mgi_symbol|Dpp4|Dpp4
+affy_moe430a|1450314_at|1450314_at	unigene|Mm.140332|Mm.140332	mgi_symbol|Dqx1|Dqx1
+affy_moe430a|1421136_at|1421136_at	unigene|Mm.9478|Mm.9478	mgi_symbol|Edn3|Edn3
+affy_moe430a|1423005_a_at|1423005_a_at	unigene|Mm.264215|Mm.264215	mgi_symbol|Espn|Espn
+affy_moe430a|1421969_a_at|1421969_a_at	unigene|Mm.256025|Mm.256025	mgi_symbol|Faah|Faah
+affy_moe430a|1452117_a_at|1452117_a_at	unigene|Mm.170905|Mm.170905	mgi_symbol|Fyb|Fyb
+affy_moe430a|1436889_at|1436889_at	unigene|Mm.338713|Mm.338713	mgi_symbol|Gabra1|Gabra1
+affy_moe430a|1423236_at|1423236_at	unigene|Mm.30249|Mm.30249	mgi_symbol|Galnt1|Galnt1
+affy_moe430a|1418863_at|1418863_at	unigene|Mm.247669|Mm.247669	mgi_symbol|Gata4|Gata4
+affy_moe430a|1429076_a_at|1429076_a_at	unigene|Mm.283495|Mm.283495	mgi_symbol|Gdpd2|Gdpd2
+affy_moe430a|1449144_at|1449144_at	unigene|Mm.260925|Mm.260925	mgi_symbol|Gna11|Gna11
+affy_moe430a|1419371_s_at|1419371_s_at	unigene|Mm.195451|Mm.195451	mgi_symbol|Gosr2|Gosr2
+affy_moe430a|1416416_x_at|1416416_x_at	unigene|Mm.37199|Mm.37199	mgi_symbol|Gstm1|Gstm1
+affy_moe430a|1425343_at|1425343_at	unigene|Mm.41506|Mm.41506	mgi_symbol|Hdhd3|Hdhd3
+affy_moe430a|1422527_at|1422527_at	unigene|Mm.16373|Mm.16373	mgi_symbol|H2-DMa|H2-DMa
+affy_moe430a|1419455_at|1419455_at	unigene|Mm.4154|Mm.4154	mgi_symbol|Il10rb|Il10rb
+affy_moe430a|1418265_s_at|1418265_s_at	unigene|Mm.1149|Mm.1149	mgi_symbol|Irf2|Irf2
+affy_moe430a|1433775_at|1433775_at	unigene|Mm.331907|Mm.331907	mgi_symbol|C77080|C77080
+affy_moe430a|1425547_a_at|1425547_a_at	unigene|Mm.279599|Mm.279599	mgi_symbol|Klc4|Klc4
+affy_moe430a|1451322_at|1451322_at	unigene|Mm.28108|Mm.28108	mgi_symbol|Cmbl|Cmbl
+affy_moe430a|1425780_a_at|1425780_a_at	unigene|Mm.241387|Mm.241387	mgi_symbol|Tmem167|Tmem167
+affy_moe430a|1425704_at|1425704_at	unigene|Mm.192213|Mm.192213	mgi_symbol|BC022224|BC022224
+affy_moe430a|1425930_a_at|1425930_a_at	unigene|Mm.628|Mm.628	mgi_symbol|Mlx|Mlx
+affy_moe430a|1450376_at|1450376_at	unigene|Mm.2154|Mm.2154	mgi_symbol|Mxi1|Mxi1
+affy_moe430a|1425230_at|1425230_at	unigene|Mm.31686|Mm.31686	mgi_symbol|Nags|Nags
+affy_moe430a|1448331_at|1448331_at	unigene|Mm.29683|Mm.29683	mgi_symbol|Ndufb7|Ndufb7
+affy_moe430a|1415821_at|1415821_at	unigene|Mm.15125|Mm.15125	mgi_symbol|Nptn|Nptn
+affy_moe430a|1451274_at|1451274_at	unigene|Mm.276348|Mm.276348	mgi_symbol|Ogdh|Ogdh
+affy_moe430a|1417677_at|1417677_at	unigene|Mm.32744|Mm.32744	mgi_symbol|Opn3|Opn3
+affy_moe430a|1449330_at|1449330_at	unigene|Mm.29872|Mm.29872	mgi_symbol|Pdzd3|Pdzd3
+affy_moe430a|1435872_at|1435872_at	unigene|Mm.328931|Mm.328931	mgi_symbol|Pim1|Pim1
+affy_moe430a|1425542_a_at|1425542_a_at	unigene|Mm.240396|Mm.240396	mgi_symbol|Ppp2r5c|Ppp2r5c
+affy_moe430a|1422847_a_at|1422847_a_at	unigene|Mm.2314|Mm.2314	mgi_symbol|Prkcd|Prkcd
+affy_moe430a|1424456_at|1424456_at	unigene|Mm.4341|Mm.4341	mgi_symbol|Pvrl2|Pvrl2
+affy_moe430a|1430527_a_at|1430527_a_at	unigene|Mm.261818|Mm.261818	mgi_symbol|Rnf167|Rnf167
+affy_moe430a|1448704_s_at|1448704_s_at	unigene|Mm.22362|Mm.22362	mgi_symbol|H47|H47
+affy_moe430a|1448299_at|1448299_at	unigene|Mm.246670|Mm.246670	mgi_symbol|Slc1a1|Slc1a1
+affy_moe430a|1424441_at|1424441_at	unigene|Mm.330113|Mm.330113	mgi_symbol|Slc27a4|Slc27a4
+affy_moe430a|1433595_at|1433595_at	unigene|Mm.281800|Mm.281800	mgi_symbol|Slc35d1|Slc35d1
+affy_moe430a|1421225_a_at|1421225_a_at	unigene|Mm.41044|Mm.41044	mgi_symbol|Slc4a4|Slc4a4
+affy_moe430a|1448783_at|1448783_at	unigene|Mm.45874|Mm.45874	mgi_symbol|Slc7a9|Slc7a9
+affy_moe430a|1436797_a_at|1436797_a_at	unigene|Mm.300594|Mm.300594	mgi_symbol|Surf4|Surf4
+affy_moe430a|1428095_a_at|1428095_a_at	unigene|Mm.33869|Mm.33869	mgi_symbol|Tmem24|Tmem24
+affy_moe430a|1417895_a_at|1417895_a_at	unigene|Mm.25295|Mm.25295	mgi_symbol|Tmem54|Tmem54
+affy_moe430a|1434553_at|1434553_at	unigene|Mm.26088|Mm.26088	mgi_symbol|Tmem56|Tmem56
+affy_moe430a|1420412_at|1420412_at	unigene|Mm.1062|Mm.1062	mgi_symbol|Tnfsf10|Tnfsf10
+affy_moe430a|1428327_at|1428327_at	unigene|Mm.305318|Mm.305318	mgi_symbol|Trak1|Trak1
+affy_moe430a|1448737_at|1448737_at	unigene|Mm.18590|Mm.18590	mgi_symbol|Tspan7|Tspan7
+affy_moe430a|1448782_at|1448782_at	unigene|Mm.291015|Mm.291015	mgi_symbol|Txndc11|Txndc11
+affy_moe430a|1435110_at|1435110_at	unigene|Mm.290433|Mm.290433	mgi_symbol|Unc5b|Unc5b
+affy_moe430a|1426399_at|1426399_at	unigene|Mm.26515|Mm.26515	mgi_symbol|Vwa1|Vwa1
+affy_moe430a|1436953_at|1436953_at	unigene|Mm.223504|Mm.223504	mgi_symbol|Wipf1|Wipf1
+affy_moe430a|1416545_at|1416545_at	unigene|Mm.240076|Mm.240076	mgi_symbol|Zdhhc7|Zdhhc7

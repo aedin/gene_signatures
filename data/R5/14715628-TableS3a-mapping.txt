@@ -1,0 +1,17 @@
+# Generate Mapping Tables Script: Version 4 11:03 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:03 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+refseq_dna|AF043337.1|37.1
+entrezgene|AA583044|650
+embl|M13436:1|M13436:1
+refseq_dna|NM_001078.1|NM_001078
+refseq_dna|NM_000963.1|NM_000963
+entrezgene|AI824012|8204
+refseq_dna|NM_003810.1|NM_003810
+refseq_dna|NM_002053.1|NM_002053
+refseq_dna|NM_004915.2|NM_004915
+refseq_dna|NM_001046.1|NM_001046
+refseq_dna|NM_020130.1|NM_020130

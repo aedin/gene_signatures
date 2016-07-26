@@ -1,0 +1,44 @@
+# Generate Mapping Tables Script: Version 4 11:08 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:08 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+refseq_dna|NM_007423; AV124668|NM_007423	mgi_symbol|Afp|Afp
+refseq_dna|NM_007585|NM_007585	mgi_symbol|Anxa2|Anxa2
+entrezgene|AF068182|17060	mgi_symbol|Blnk|Blnk
+refseq_dna|NM_009770|NM_009770	mgi_symbol|Btg3|Btg3
+refseq_dna|NM_019999|NM_019999	mgi_symbol|Brp17|Brp17
+entrezgene|AY061807|75600	mgi_symbol|Calml4|Calml4
+refseq_dna|NM_023160|NM_023160	mgi_symbol|Cml1|Cml1
+entrezgene|BC010197|12876	mgi_symbol|Cpe|Cpe
+refseq_dna|NM_010740|NM_010740	mgi_symbol|C1qr1|C1qr1
+entrezgene|AV025472|23849	mgi_symbol|Copeb|Copeb
+refseq_dna|NM_007833|NM_007833	mgi_symbol|Dcn|Dcn
+refseq_dna|NM_026268|NM_026268	mgi_symbol|Dusp6|Dusp6
+embl|AK013765|AK013765	mgi_symbol|Ecgf1|Ecgf1
+entrezgene|BC020038|71690	mgi_symbol|Esm1|Esm1
+refseq_dna|NM_024406|NM_024406	mgi_symbol|Fabp4|Fabp4
+entrezgene|AV224521|227753	mgi_symbol|Gsn|Gsn
+refseq_dna|NM_010742|NM_010742	mgi_symbol|Ly6d|Ly6d
+refseq_dna|NM_025658|NM_025658	mgi_symbol|Ms4a4d|Ms4a4d
+entrezgene|AK018789|18212	mgi_symbol|Ntrk2|Ntrk2
+entrezgene|AK006371|18113	mgi_symbol|Nnmt|Nnmt
+embl|AV303002|AV303002	mgi_symbol|Nupl1|Nupl1
+entrezgene|BC010403|19165	mgi_symbol|Psen2|Psen2
+refseq_dna|NM_008935|NM_008935	mgi_symbol|Prom1|Prom1
+refseq_dna|NM_009052|NM_009052	mgi_symbol|Rex3|Rex3
+entrezgene|BC021951|69861	mgi_symbol|2010003K11Rik|2010003K11Rik
+refseq_dna|NM_025703|NM_025703	mgi_symbol|3930402F23Rik|3930402F23Rik
+entrezgene|BG963358|227620	mgi_symbol|5730445F03Rik|5730445F03Rik
+entrezgene|BC021842|96935	mgi_symbol|E430021N18Rik|E430021N18Rik
+entrezgene|BC021916|20195	mgi_symbol|S100a11|S100a11
+entrezgene|BC003475|22151	mgi_symbol|Tubb2|Tubb2
+entrezgene|BC020001|72535	mgi_symbol|Aldh1b1|Aldh1b1
+refseq_dna|NM_016847|NM_016847	mgi_symbol|Avpr1a|Avpr1a
+entrezgene|BC018263|216454	mgi_symbol|CRAD-L|CRAD-L
+refseq_dna|NM_007792|NM_007792	mgi_symbol|Csrp2|Csrp2
+entrezgene|U09114|14645	mgi_symbol|Glul|Glul
+refseq_dna|NM_008184|NM_008184	mgi_symbol|Gstm6|Gstm6
+entrezgene|AW111083|226654
+entrezgene|AK009207|76429	mgi_symbol|2310007H09Rik|2310007H09Rik

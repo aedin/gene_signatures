@@ -1,0 +1,35 @@
+# Generate Mapping Tables Script: Version 4 11:03 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:03 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+hgnc_symbol|VAMP3|VAMP3
+hgnc_symbol|PER3|PER3
+hgnc_symbol|UTS2|UTS2
+hgnc_symbol|TNFRSF9|TNFRSF9
+hgnc_symbol|PARK7|PARK7
+hgnc_symbol|ERRFI1|ERRFI1
+hgnc_symbol|RERE|RERE
+hgnc_symbol|DKFZp566H0824|DKFZp566H0824
+hgnc_symbol|ENO1|ENO1
+hgnc_symbol|SLC2A5|SLC2A5
+hgnc_symbol|GPR157|GPR157
+hgnc_symbol|H6PD|H6PD
+hgnc_symbol|SSB1|SSB1
+hgnc_symbol|MGC4399|MGC4399
+hgnc_symbol|PIK3CD|PIK3CD
+hgnc_symbol|CLSTN1|CLSTN1
+hgnc_symbol|CTNNBIP1|CTNNBIP1
+hgnc_symbol|LZIC|LZIC
+hgnc_symbol|NMNAT|NMNAT
+hgnc_symbol|RBP7|RBP7
+hgnc_symbol|UBE4B|UBE4B
+hgnc_symbol|KIF1B|KIF1B
+hgnc_symbol|PGD|PGD
+hgnc_symbol|APITD1|APITD1
+hgnc_symbol|CORT|CORT
+hgnc_symbol|DFFA|DFFA
+hgnc_symbol|PEX14|PEX14
+hgnc_symbol|CASZ1|CASZ1
+hgnc_symbol|TARDBP|TARDBP

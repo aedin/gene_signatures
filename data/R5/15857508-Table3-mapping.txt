@@ -1,0 +1,56 @@
+# Generate Mapping Tables Script: Version 4 11:04 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:04 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+entrezgene|L47233|1026
+refseq_dna|NM_001799|NM_001799	hgnc_symbol|CDK7|CDK7
+refseq_dna|NM_003592|NM_003592	hgnc_symbol|CUL1|CUL1
+refseq_dna|NM_003590|NM_003590
+entrezgene|U63131|11140	hgnc_symbol|CDC37|CDC37
+entrezgene|M64349|595
+refseq_dna|NM_001826|NM_001826
+entrezgene|AF077188|8451
+refseq_dna|NM_001827|NM_001827	hgnc_symbol|CKS2|CKS2
+refseq_dna|NM_003504|NM_003504
+entrezgene|U11791|902
+entrezgene|U10906|1027	hgnc_symbol|CDKN1B|CDKN1B
+entrezgene|X85753|1024	hgnc_symbol|CDK8|CDK8
+entrezgene|L22005|997	hgnc_symbol|CDC34|CDC34
+entrezgene|AF016582|1111	hgnc_symbol|CHEK1|CHEK1
+entrezgene|X77794|900
+entrezgene|L49506|901
+refseq_dna|NM_001256|NM_001256
+entrezgene|U17074|1031	hgnc_symbol|EEF1E1|EEF1E1
+embl|U47677|U47677
+refseq_dna|NM_002873|NM_002873	hgnc_symbol|RAD17|RAD17
+entrezgene|U63139|10111	hgnc_symbol|RAD50|RAD50
+entrezgene|U83410|8453
+entrezgene|AF059292|1876	hgnc_symbol|E2F6|E2F6
+refseq_dna|NM_004701|NM_004701
+entrezgene|U17105|899
+refseq_dna|NM_003981|NM_003981	hgnc_symbol|PRC1|PRC1
+entrezgene|AB014595|8450
+entrezgene|M73812|898
+refseq_dna|NM_004507|NM_004507	hgnc_symbol|HUS1|HUS1
+entrezgene|U74613|2305	hgnc_symbol|MPP2|MPP2
+entrezgene|X65550|4288
+entrezgene|U33760|6500
+entrezgene|U33761|6502	hgnc_symbol|SKP2|SKP2
+embl|J04718|J04718	hgnc_symbol|PCNA|PCNA
+entrezgene|L22474|581	hgnc_symbol|BAX|BAX
+refseq_dna|NM_004702|NM_004702
+entrezgene|M25753|891
+entrezgene|M74091|892
+refseq_dna|NM_006739|NM_006739
+entrezgene|U37359|4361	hgnc_symbol|MRE11A|MRE11A
+entrezgene|X66365|1021	hgnc_symbol|CDK6|CDK6
+entrezgene|AF058696|4683
+refseq_dna|NM_014248|NM_014248	hgnc_symbol|RBX1|RBX1
+entrezgene|D83987|4171	hgnc_symbol|MCM2|MCM2
+entrezgene|X74794|4173
+entrezgene|D28480|4176
+entrezgene|X16416|25
+entrezgene|Z12020|4193	hgnc_symbol|MDM2|MDM2
+entrezgene|L07493|6119

@@ -1,0 +1,783 @@
+# Generate Mapping Tables Script: Version 4 11:04 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:04 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+unigene|Hs.89832|Hs.89832	hgnc_symbol|INS|INS
+unigene|Hs.427202|Hs.427202	hgnc_symbol|TTR|TTR
+unigene|Hs.423901|Hs.423901	hgnc_symbol|GCG|GCG
+
+
+unigene|Hs.429437|Hs.429437	hgnc_symbol|PCSK1N|PCSK1N
+unigene|Hs.2265|Hs.2265	hgnc_symbol|SCG5|SCG5
+unigene|Hs.2281|Hs.2281	hgnc_symbol|CHGB|CHGB
+unigene|Hs.436980|Hs.436980
+unigene|Hs.75106|Hs.75106	hgnc_symbol|CLU|CLU
+unigene|Hs.48516|Hs.48516	hgnc_symbol|B2M|B2M
+unigene|Hs.75360|Hs.75360	hgnc_symbol|CPE|CPE
+unigene|Hs.142255|Hs.142255	hgnc_symbol|IAPP|IAPP
+unigene|Hs.127179|Hs.127179	hgnc_symbol|CFC1|CFC1
+
+
+unigene|Hs.374523|Hs.374523	hgnc_symbol|GNAS|GNAS
+unigene|Hs.404283|Hs.404283	hgnc_symbol|RAD23B|RAD23B
+unigene|Hs.116428|Hs.116428	hgnc_symbol|SCGN|SCGN
+unigene|Hs.89655|Hs.89655	hgnc_symbol|PTPRN|PTPRN
+unigene|Hs.119206|Hs.119206	hgnc_symbol|IGFBP7|IGFBP7
+unigene|Hs.54457|Hs.54457	hgnc_symbol|CD81|CD81
+unigene|Hs.169476|Hs.169476	hgnc_symbol|GAPDH|GAPDH
+unigene|Hs.184604|Hs.184604	hgnc_symbol|PPY|PPY
+unigene|Hs.112844|Hs.112844	hgnc_symbol|MEG3|MEG3
+
+unigene|Hs.180370|Hs.180370	hgnc_symbol|CFL1|CFL1
+unigene|Hs.283963|Hs.283963	hgnc_symbol|G6PC2|G6PC2
+unigene|Hs.160416|Hs.160416
+
+
+
+unigene|Hs.250723|Hs.250723
+unigene|Hs.290070|Hs.290070	hgnc_symbol|GSN|GSN
+unigene|Hs.11881|Hs.11881	hgnc_symbol|TM4SF4|TM4SF4
+unigene|Hs.106070|Hs.106070	hgnc_symbol|CDKN1C|CDKN1C
+unigene|Hs.433901|Hs.433901	hgnc_symbol|COX8A|COX8A
+unigene|Hs.250465|Hs.250465
+unigene|Hs.75375|Hs.75375	hgnc_symbol|MDH1|MDH1
+unigene|Hs.179082|Hs.179082
+
+
+unigene|Hs.80423|Hs.80423	hgnc_symbol|DOCK3 /// MED1 /// PEBP1 /// PKD1 /// PPBP|DOCK3 /// MED1 /// PEBP1 /// PKD1 /// PPBP
+unigene|Hs.74573|Hs.74573	hgnc_symbol|PLD3|PLD3
+unigene|Hs.74405|Hs.74405	hgnc_symbol|YWHAQ|YWHAQ
+unigene|Hs.172216|Hs.172216	hgnc_symbol|CHGA|CHGA
+unigene|Hs.169228|Hs.169228	hgnc_symbol|DLK1|DLK1
+unigene|Hs.150763|Hs.150763	hgnc_symbol|ERO1LB|ERO1LB
+unigene|Hs.131255|Hs.131255	hgnc_symbol|UQCRB|UQCRB
+unigene|Hs.117226|Hs.117226
+unigene|Hs.105547|Hs.105547	hgnc_symbol|NPDC1|NPDC1
+
+
+unigene|Hs.304682|Hs.304682	hgnc_symbol|CST3|CST3
+unigene|Hs.283719|Hs.283719
+unigene|Hs.181244|Hs.181244	hgnc_symbol|HLA-A|HLA-A
+unigene|Hs.278589|Hs.278589	hgnc_symbol|GTF2I|GTF2I
+
+unigene|Hs.7788|Hs.7788	hgnc_symbol|RHBDD2|RHBDD2
+unigene|Hs.416495|Hs.416495	hgnc_symbol|TMEM59|TMEM59
+unigene|Hs.394389|Hs.394389	hgnc_symbol|PPIB|PPIB
+unigene|Hs.198135|Hs.198135	hgnc_symbol|WDFY3|WDFY3
+unigene|Hs.193235|Hs.193235
+unigene|Hs.104696|Hs.104696	hgnc_symbol|KIAA1324|KIAA1324
+unigene|Hs.80305|Hs.80305	hgnc_symbol|ARHGAP19|ARHGAP19
+unigene|Hs.406455|Hs.406455	hgnc_symbol|PSAP|PSAP
+unigene|Hs.334842|Hs.334842	hgnc_symbol|TUBA1B|TUBA1B
+unigene|Hs.26136|Hs.26136	hgnc_symbol|PIGY|PIGY
+unigene|Hs.239625|Hs.239625	hgnc_symbol|ITM2B|ITM2B
+
+
+unigene|Hs.75445|Hs.75445	hgnc_symbol|SPARCL1|SPARCL1
+unigene|Hs.183435|Hs.183435	hgnc_symbol|NDUFB1|NDUFB1
+unigene|Hs.83469|Hs.83469	hgnc_symbol|NFE2L1|NFE2L1
+unigene|Hs.82961|Hs.82961	hgnc_symbol|TFF3|TFF3
+unigene|Hs.82890|Hs.82890	hgnc_symbol|DAD1|DAD1
+unigene|Hs.78040|Hs.78040	hgnc_symbol|KDELR1|KDELR1
+unigene|Hs.406096|Hs.406096	hgnc_symbol|ZFAND5|ZFAND5
+unigene|Hs.386793|Hs.386793	hgnc_symbol|GPX3|GPX3
+unigene|Hs.3763|Hs.3763	hgnc_symbol|APBB1|APBB1
+unigene|Hs.339697|Hs.339697	hgnc_symbol|VPS28|VPS28
+unigene|Hs.25829|Hs.25829	hgnc_symbol|RASD1|RASD1
+unigene|Hs.25348|Hs.25348	hgnc_symbol|VAMP2|VAMP2
+unigene|Hs.250899|Hs.250899	hgnc_symbol|HSBP1|HSBP1
+unigene|Hs.2384|Hs.2384	hgnc_symbol|TPD52|TPD52
+unigene|Hs.118174|Hs.118174	hgnc_symbol|TTC3|TTC3
+
+unigene|Hs.8372|Hs.8372	hgnc_symbol|UQCR11|UQCR11
+unigene|Hs.279518|Hs.279518	hgnc_symbol|APLP2|APLP2
+unigene|Hs.2706|Hs.2706	hgnc_symbol|GPX4|GPX4
+unigene|Hs.173724|Hs.173724	hgnc_symbol|CKB|CKB
+
+unigene|Hs.433957|Hs.433957	hgnc_symbol|GHITM|GHITM
+
+unigene|Hs.83920|Hs.83920	hgnc_symbol|PAM|PAM
+unigene|Hs.62349|Hs.62349	hgnc_symbol|RIN2|RIN2
+unigene|Hs.54470|Hs.54470	hgnc_symbol|ABCC8|ABCC8
+unigene|Hs.425808|Hs.425808	hgnc_symbol|CALM2|CALM2
+unigene|Hs.375214|Hs.375214	hgnc_symbol|SIRT2|SIRT2
+unigene|Hs.29665|Hs.29665	hgnc_symbol|CLSTN1|CLSTN1
+unigene|Hs.284243|Hs.284243	hgnc_symbol|TSPAN13|TSPAN13
+unigene|Hs.20621|Hs.20621	hgnc_symbol|TUBGCP4|TUBGCP4
+unigene|Hs.167679|Hs.167679	hgnc_symbol|SH3BP2|SH3BP2
+
+
+unigene|Hs.433419|Hs.433419	hgnc_symbol|COX4I1|COX4I1
+unigene|Hs.239370|Hs.239370	hgnc_symbol|GPSM1 /// RNASEH2C|GPSM1 /// RNASEH2C
+
+unigene|Hs.79033|Hs.79033	hgnc_symbol|QPCT|QPCT
+unigene|Hs.76780|Hs.76780	hgnc_symbol|PPP1R1A|PPP1R1A
+unigene|Hs.32356|Hs.32356	hgnc_symbol|TRMT61B|TRMT61B
+unigene|Hs.265827|Hs.265827	hgnc_symbol|IFI6|IFI6
+unigene|Hs.237536|Hs.237536	hgnc_symbol|NT5C3L|NT5C3L
+unigene|Hs.197922|Hs.197922
+unigene|Hs.182255|Hs.182255	hgnc_symbol|NHP2L1|NHP2L1
+unigene|Hs.171014|Hs.171014	hgnc_symbol|VGF|VGF
+unigene|Hs.12365|Hs.12365	hgnc_symbol|SYT13|SYT13
+unigene|Hs.118087|Hs.118087	hgnc_symbol|SPG20|SPG20
+unigene|Hs.111894|Hs.111894	hgnc_symbol|LAPTM4A|LAPTM4A
+unigene|Hs.103839|Hs.103839	hgnc_symbol|EPB41L3|EPB41L3
+
+
+unigene|Hs.70266|Hs.70266	hgnc_symbol|SEC31A|SEC31A
+unigene|Hs.352394|Hs.352394
+unigene|Hs.277477|Hs.277477	hgnc_symbol|HLA-C|HLA-C
+unigene|Hs.183706|Hs.183706	hgnc_symbol|ADD1|ADD1
+unigene|Hs.169487|Hs.169487	hgnc_symbol|MAFB|MAFB
+unigene|Hs.14317|Hs.14317	hgnc_symbol|NOP10|NOP10
+unigene|Hs.119475|Hs.119475	hgnc_symbol|CIRBP|CIRBP
+
+
+
+unigene|Hs.8737|Hs.8737	hgnc_symbol|WDR6|WDR6
+unigene|Hs.83916|Hs.83916	hgnc_symbol|NDUFA5|NDUFA5
+unigene|Hs.8262|Hs.8262	hgnc_symbol|LAMP2|LAMP2
+unigene|Hs.8110|Hs.8110	hgnc_symbol|HADH|HADH
+unigene|Hs.79025|Hs.79025	hgnc_symbol|SNRK|SNRK
+unigene|Hs.76722|Hs.76722	hgnc_symbol|CEBPD|CEBPD
+unigene|Hs.75658|Hs.75658	hgnc_symbol|PYGB|PYGB
+unigene|Hs.74637|Hs.74637	hgnc_symbol|TMBIM6|TMBIM6
+unigene|Hs.74615|Hs.74615	hgnc_symbol|PDGFRA|PDGFRA
+unigene|Hs.6551|Hs.6551	hgnc_symbol|ATP6AP1|ATP6AP1
+unigene|Hs.6522|Hs.6522	hgnc_symbol|EEFSEC|EEFSEC
+unigene|Hs.48375|Hs.48375	hgnc_symbol|SNRPN|SNRPN
+unigene|Hs.47062|Hs.47062	hgnc_symbol|POLR2I|POLR2I
+unigene|Hs.43910|Hs.43910	hgnc_symbol|CD164|CD164
+unigene|Hs.418542|Hs.418542	hgnc_symbol|PNKD|PNKD
+unigene|Hs.406404|Hs.406404	hgnc_symbol|HNRNPD|HNRNPD
+unigene|Hs.405987|Hs.405987	hgnc_symbol|SAMD11|SAMD11
+unigene|Hs.356531|Hs.356531	hgnc_symbol|HSP90AA1 /// HSP90AA2|HSP90AA1 /// HSP90AA2
+unigene|Hs.355906|Hs.355906	hgnc_symbol|C1orf43|C1orf43
+unigene|Hs.351546|Hs.351546
+unigene|Hs.326728|Hs.326728	hgnc_symbol|MIR7-3HG|MIR7-3HG
+unigene|Hs.31439|Hs.31439	hgnc_symbol|SPINT2|SPINT2
+unigene|Hs.306122|Hs.306122	hgnc_symbol|TECR|TECR
+unigene|Hs.300954|Hs.300954	hgnc_symbol|HYPK|HYPK
+unigene|Hs.284292|Hs.284292	hgnc_symbol|UQCR10|UQCR10
+unigene|Hs.279696|Hs.279696
+unigene|Hs.27384|Hs.27384
+unigene|Hs.273230|Hs.273230	hgnc_symbol|CNDP2|CNDP2
+unigene|Hs.272023|Hs.272023	hgnc_symbol|TACC2|TACC2
+unigene|Hs.27151|Hs.27151
+unigene|Hs.25001|Hs.25001	hgnc_symbol|YWHAG|YWHAG
+unigene|Hs.239500|Hs.239500	hgnc_symbol|C16orf13|C16orf13
+unigene|Hs.177536|Hs.177536	hgnc_symbol|CPXM1|CPXM1
+unigene|Hs.174051|Hs.174051	hgnc_symbol|SNRNP70|SNRNP70
+unigene|Hs.171626|Hs.171626	hgnc_symbol|SKP1|SKP1
+unigene|Hs.170009|Hs.170009	hgnc_symbol|TGFA|TGFA
+unigene|Hs.146549|Hs.146549	hgnc_symbol|CRYBA2|CRYBA2
+unigene|Hs.145664|Hs.145664
+unigene|Hs.121849|Hs.121849	hgnc_symbol|MAP1LC3B|MAP1LC3B
+unigene|Hs.117183|Hs.117183
+unigene|Hs.108080|Hs.108080	hgnc_symbol|CSRP1|CSRP1
+unigene|Hs.10432|Hs.10432	hgnc_symbol|RHOBTB3|RHOBTB3
+unigene|Hs.103561|Hs.103561	hgnc_symbol|ARL6IP4|ARL6IP4
+
+
+
+
+
+
+
+
+unigene|Hs.95262|Hs.95262
+unigene|Hs.92679|Hs.92679
+unigene|Hs.89072|Hs.89072	hgnc_symbol|TMEM175|TMEM175
+unigene|Hs.85087|Hs.85087	hgnc_symbol|LTBP4|LTBP4
+unigene|Hs.83869|Hs.83869	hgnc_symbol|SMCR7L|SMCR7L
+unigene|Hs.83126|Hs.83126	hgnc_symbol|TAF11|TAF11
+unigene|Hs.82023|Hs.82023	hgnc_symbol|FBXW5|FBXW5
+unigene|Hs.8059|Hs.8059	hgnc_symbol|SYT4|SYT4
+unigene|Hs.79748|Hs.79748	hgnc_symbol|SLC3A2|SLC3A2
+unigene|Hs.79162|Hs.79162	hgnc_symbol|SSRP1|SSRP1
+unigene|Hs.78977|Hs.78977	hgnc_symbol|PCSK1|PCSK1
+unigene|Hs.77311|Hs.77311	hgnc_symbol|BTG3|BTG3
+unigene|Hs.76666|Hs.76666	hgnc_symbol|FAM120A|FAM120A
+unigene|Hs.76118|Hs.76118	hgnc_symbol|UCHL1|UCHL1
+unigene|Hs.75087|Hs.75087	hgnc_symbol|FASTK|FASTK
+unigene|Hs.74497|Hs.74497	hgnc_symbol|YBX1|YBX1
+unigene|Hs.74137|Hs.74137	hgnc_symbol|TMED10|TMED10
+unigene|Hs.72925|Hs.72925	hgnc_symbol|RASSF7|RASSF7
+unigene|Hs.69855|Hs.69855	hgnc_symbol|CSDE1|CSDE1
+unigene|Hs.5669|Hs.5669
+unigene|Hs.5306|Hs.5306	hgnc_symbol|7-Mar|7-Mar
+unigene|Hs.49597|Hs.49597	hgnc_symbol|RAI2|RAI2
+unigene|Hs.446320|Hs.446320
+unigene|Hs.433581|Hs.433581	hgnc_symbol|SRSF11|SRSF11
+unigene|Hs.433387|Hs.433387	hgnc_symbol|CD99|CD99
+unigene|Hs.433355|Hs.433355	hgnc_symbol|LAMTOR5|LAMTOR5
+unigene|Hs.433328|Hs.433328
+unigene|Hs.4302|Hs.4302	hgnc_symbol|SLC29A4|SLC29A4
+unigene|Hs.426142|Hs.426142	hgnc_symbol|PIGF|PIGF
+unigene|Hs.418|Hs.418	hgnc_symbol|FAP|FAP
+unigene|Hs.4112|Hs.4112	hgnc_symbol|TCP1|TCP1
+unigene|Hs.406043|Hs.406043	hgnc_symbol|PPAP2A|PPAP2A
+unigene|Hs.381137|Hs.381137	hgnc_symbol|EID1|EID1
+unigene|Hs.374849|Hs.374849	hgnc_symbol|TMOD1|TMOD1
+unigene|Hs.356605|Hs.356605
+unigene|Hs.356560|Hs.356560
+unigene|Hs.351875|Hs.351875	hgnc_symbol|COX6C|COX6C
+unigene|Hs.3496|Hs.3496	hgnc_symbol|LSM10|LSM10
+unigene|Hs.335322|Hs.335322	hgnc_symbol|PON3|PON3
+unigene|Hs.334477|Hs.334477	hgnc_symbol|USP48|USP48
+unigene|Hs.333389|Hs.333389	hgnc_symbol|MAFG|MAFG
+unigene|Hs.32976|Hs.32976	hgnc_symbol|GNG4|GNG4
+unigene|Hs.31731|Hs.31731	hgnc_symbol|PRDX5|PRDX5
+unigene|Hs.303154|Hs.303154
+unigene|Hs.300816|Hs.300816	hgnc_symbol|RAB1B|RAB1B
+unigene|Hs.293732|Hs.293732	hgnc_symbol|ARMC10|ARMC10
+unigene|Hs.283664|Hs.283664	hgnc_symbol|ASPH|ASPH
+unigene|Hs.283639|Hs.283639	hgnc_symbol|CHCHD5|CHCHD5
+unigene|Hs.282410|Hs.282410	hgnc_symbol|CALM1|CALM1
+unigene|Hs.28149|Hs.28149
+unigene|Hs.279920|Hs.279920	hgnc_symbol|YWHAB|YWHAB
+unigene|Hs.266914|Hs.266914	hgnc_symbol|SSBP3|SSBP3
+unigene|Hs.250773|Hs.250773	hgnc_symbol|SSR1|SSR1
+unigene|Hs.24129|Hs.24129	hgnc_symbol|RCBTB1|RCBTB1
+unigene|Hs.2351|Hs.2351	hgnc_symbol|PROC|PROC
+unigene|Hs.225977|Hs.225977	hgnc_symbol|NCOA3|NCOA3
+unigene|Hs.225575|Hs.225575
+unigene|Hs.204354|Hs.204354
+unigene|Hs.20415|Hs.20415	hgnc_symbol|FAM3B|FAM3B
+unigene|Hs.18842|Hs.18842	hgnc_symbol|PACSIN2|PACSIN2
+unigene|Hs.184641|Hs.184641	hgnc_symbol|FADS2|FADS2
+unigene|Hs.183684|Hs.183684	hgnc_symbol|EIF4G2|EIF4G2
+unigene|Hs.182885|Hs.182885	hgnc_symbol|NFKBIE|NFKBIE
+unigene|Hs.182579|Hs.182579	hgnc_symbol|LAP3|LAP3
+unigene|Hs.182248|Hs.182248	hgnc_symbol|SQSTM1|SQSTM1
+unigene|Hs.178112|Hs.178112	hgnc_symbol|PTGDR /// REEP5 /// TFDP1|PTGDR /// REEP5 /// TFDP1
+unigene|Hs.177596|Hs.177596	hgnc_symbol|MAP7D1|MAP7D1
+unigene|Hs.17680|Hs.17680	hgnc_symbol|FUCA2|FUCA2
+unigene|Hs.174185|Hs.174185	hgnc_symbol|ENPP2|ENPP2
+unigene|Hs.173704|Hs.173704
+unigene|Hs.173048|Hs.173048	hgnc_symbol|RNF7|RNF7
+unigene|Hs.164502|Hs.164502
+unigene|Hs.16059|Hs.16059	hgnc_symbol|COA3|COA3
+unigene|Hs.159384|Hs.159384	hgnc_symbol|SAFB2|SAFB2
+unigene|Hs.158203|Hs.158203	hgnc_symbol|ABLIM1|ABLIM1
+unigene|Hs.149190|Hs.149190
+unigene|Hs.136644|Hs.136644	hgnc_symbol|WSB2|WSB2
+unigene|Hs.132886|Hs.132886	hgnc_symbol|DIS3L2|DIS3L2
+unigene|Hs.131055|Hs.131055
+unigene|Hs.1252|Hs.1252	hgnc_symbol|APOH|APOH
+unigene|Hs.1104|Hs.1104	hgnc_symbol|BMP5|BMP5
+unigene|Hs.108969|Hs.108969	hgnc_symbol|WDR83OS|WDR83OS
+unigene|Hs.106909|Hs.106909	hgnc_symbol|ANAPC13|ANAPC13
+unigene|Hs.100293|Hs.100293	hgnc_symbol|OGT|OGT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+unigene|Hs.99853|Hs.99853	hgnc_symbol|FBL|FBL
+unigene|Hs.99216|Hs.99216
+unigene|Hs.9905|Hs.9905	hgnc_symbol|FAM82A1|FAM82A1
+unigene|Hs.98658|Hs.98658	hgnc_symbol|BUB1|BUB1
+unigene|Hs.9857|Hs.9857	hgnc_symbol|DCXR|DCXR
+unigene|Hs.97896|Hs.97896
+unigene|Hs.9774|Hs.9774	hgnc_symbol|SS18L2|SS18L2
+unigene|Hs.9741|Hs.9741	hgnc_symbol|TJAP1|TJAP1
+unigene|Hs.9711|Hs.9711
+unigene|Hs.96334|Hs.96334	hgnc_symbol|RNF11|RNF11
+unigene|Hs.96253|Hs.96253	hgnc_symbol|CACNA1A|CACNA1A
+unigene|Hs.96063|Hs.96063	hgnc_symbol|IRS1|IRS1
+unigene|Hs.9547|Hs.9547	hgnc_symbol|THNSL2|THNSL2
+unigene|Hs.94806|Hs.94806	hgnc_symbol|ABCA2|ABCA2
+unigene|Hs.94695|Hs.94695	hgnc_symbol|IFI27L2|IFI27L2
+unigene|Hs.94|Hs.94	hgnc_symbol|DNAJA1|DNAJA1
+unigene|Hs.93837|Hs.93837	hgnc_symbol|PITPNM1|PITPNM1
+unigene|Hs.93675|Hs.93675	hgnc_symbol|C10orf10|C10orf10
+unigene|Hs.93199|Hs.93199	hgnc_symbol|LSS|LSS
+unigene|Hs.91954|Hs.91954
+unigene|Hs.91747|Hs.91747	hgnc_symbol|PFN2|PFN2
+unigene|Hs.91299|Hs.91299	hgnc_symbol|GNB2|GNB2
+unigene|Hs.90753|Hs.90753	hgnc_symbol|HTATIP2|HTATIP2
+unigene|Hs.90693|Hs.90693	hgnc_symbol|REPIN1|REPIN1
+unigene|Hs.90606|Hs.90606	hgnc_symbol|15-Sep|15-Sep
+unigene|Hs.90370|Hs.90370	hgnc_symbol|ARPC1A|ARPC1A
+unigene|Hs.90303|Hs.90303	hgnc_symbol|TSC2|TSC2
+unigene|Hs.89519|Hs.89519	hgnc_symbol|OTUD4|OTUD4
+unigene|Hs.89499|Hs.89499	hgnc_symbol|ALOX5|ALOX5
+unigene|Hs.89230|Hs.89230	hgnc_symbol|KCNN3|KCNN3
+unigene|Hs.88219|Hs.88219	hgnc_symbol|ZNF200|ZNF200
+unigene|Hs.8750|Hs.8750	hgnc_symbol|GLYR1|GLYR1
+unigene|Hs.87159|Hs.87159	hgnc_symbol|CAB39L|CAB39L
+unigene|Hs.86149|Hs.86149	hgnc_symbol|PLEKHA5 /// RHOXF2|PLEKHA5 /// RHOXF2
+unigene|Hs.8575|Hs.8575	hgnc_symbol|DUS2L|DUS2L
+unigene|Hs.848|Hs.848	hgnc_symbol|FKBP4|FKBP4
+unigene|Hs.84753|Hs.84753	hgnc_symbol|NT5DC2|NT5DC2
+unigene|Hs.8402|Hs.8402	hgnc_symbol|ADCY3|ADCY3
+unigene|Hs.82927|Hs.82927	hgnc_symbol|AMPD2|AMPD2
+unigene|Hs.82919|Hs.82919	hgnc_symbol|CUL2|CUL2
+unigene|Hs.82793|Hs.82793	hgnc_symbol|PSMB3|PSMB3
+unigene|Hs.82749|Hs.82749	hgnc_symbol|TSPAN7|TSPAN7
+unigene|Hs.82208|Hs.82208	hgnc_symbol|ACADVL|ACADVL
+unigene|Hs.82173|Hs.82173	hgnc_symbol|KLF10|KLF10
+unigene|Hs.8148|Hs.8148
+unigene|Hs.8146|Hs.8146	hgnc_symbol|SEC62|SEC62
+unigene|Hs.8136|Hs.8136
+unigene|Hs.80545|Hs.80545
+unigene|Hs.8054|Hs.8054	hgnc_symbol|LCMT1|LCMT1
+unigene|Hs.79914|Hs.79914	hgnc_symbol|LUM|LUM
+unigene|Hs.79658|Hs.79658	hgnc_symbol|CSNK1E|CSNK1E
+unigene|Hs.7960|Hs.7960	hgnc_symbol|DNAJB12|DNAJB12
+unigene|Hs.7942|Hs.7942	hgnc_symbol|AFTPH|AFTPH
+unigene|Hs.79358|Hs.79358	hgnc_symbol|TESK1|TESK1
+unigene|Hs.79222|Hs.79222	hgnc_symbol|GLB1|GLB1
+unigene|Hs.792|Hs.792	hgnc_symbol|TRIM23|TRIM23
+unigene|Hs.79137|Hs.79137	hgnc_symbol|PCMT1|PCMT1
+unigene|Hs.79095|Hs.79095	hgnc_symbol|EPS15|EPS15
+unigene|Hs.79093|Hs.79093
+unigene|Hs.78979|Hs.78979	hgnc_symbol|GLG1|GLG1
+unigene|Hs.78909|Hs.78909	hgnc_symbol|ZFP36L2|ZFP36L2
+unigene|Hs.78788|Hs.78788	hgnc_symbol|LZTR1|LZTR1
+unigene|Hs.78614|Hs.78614	hgnc_symbol|C1QBP|C1QBP
+unigene|Hs.78060|Hs.78060	hgnc_symbol|PHKB|PHKB
+unigene|Hs.77870|Hs.77870	hgnc_symbol|VPS37B|VPS37B
+unigene|Hs.77813|Hs.77813	hgnc_symbol|SMPD1|SMPD1
+unigene|Hs.77208|Hs.77208	hgnc_symbol|CNOT8 /// POPDC2 /// PYDC2|CNOT8 /// POPDC2 /// PYDC2
+unigene|Hs.76847|Hs.76847	hgnc_symbol|GANAB|GANAB
+unigene|Hs.76719|Hs.76719	hgnc_symbol|LSM4|LSM4
+unigene|Hs.76293|Hs.76293	hgnc_symbol|TMSB10|TMSB10
+unigene|Hs.75842|Hs.75842	hgnc_symbol|DYRK1A|DYRK1A
+unigene|Hs.75807|Hs.75807	hgnc_symbol|PDLIM1|PDLIM1
+unigene|Hs.75789|Hs.75789	hgnc_symbol|NDRG1|NDRG1
+unigene|Hs.75736|Hs.75736	hgnc_symbol|APOD|APOD
+unigene|Hs.75693|Hs.75693	hgnc_symbol|PRCP|PRCP
+unigene|Hs.7557|Hs.7557	hgnc_symbol|FKBP5|FKBP5
+unigene|Hs.75511|Hs.75511	hgnc_symbol|CTGF|CTGF
+unigene|Hs.75450|Hs.75450	hgnc_symbol|TSC22D3|TSC22D3
+unigene|Hs.75432|Hs.75432	hgnc_symbol|IMPDH2|IMPDH2
+unigene|Hs.75426|Hs.75426	hgnc_symbol|SCG2|SCG2
+unigene|Hs.75400|Hs.75400	hgnc_symbol|FAM168A|FAM168A
+unigene|Hs.75294|Hs.75294	hgnc_symbol|CRH|CRH
+unigene|Hs.7517|Hs.7517	hgnc_symbol|C9orf123|C9orf123
+unigene|Hs.75113|Hs.75113	hgnc_symbol|GTF3A|GTF3A
+unigene|Hs.75104|Hs.75104	hgnc_symbol|RNPS1|RNPS1
+unigene|Hs.74870|Hs.74870	hgnc_symbol|HLX|HLX
+unigene|Hs.7476|Hs.7476	hgnc_symbol|ATP6V0B|ATP6V0B
+unigene|Hs.74621|Hs.74621	hgnc_symbol|PRNP|PRNP
+unigene|Hs.7457|Hs.7457	hgnc_symbol|MAGED4|MAGED4
+unigene|Hs.74050|Hs.74050	hgnc_symbol|KDSR|KDSR
+unigene|Hs.73737|Hs.73737	hgnc_symbol|SRSF1|SRSF1
+unigene|Hs.7351|Hs.7351	hgnc_symbol|ARPP19|ARPP19
+unigene|Hs.7309|Hs.7309
+unigene|Hs.71968|Hs.71968
+unigene|Hs.71119|Hs.71119	hgnc_symbol|TUSC3|TUSC3
+unigene|Hs.70582|Hs.70582	hgnc_symbol|DDX54|DDX54
+unigene|Hs.70573|Hs.70573	hgnc_symbol|HINT2|HINT2
+unigene|Hs.70565|Hs.70565	hgnc_symbol|MOCS2|MOCS2
+unigene|Hs.695|Hs.695	hgnc_symbol|CSTB|CSTB
+unigene|Hs.6733|Hs.6733	hgnc_symbol|PLCE1|PLCE1
+unigene|Hs.6654|Hs.6654	hgnc_symbol|OBSL1|OBSL1
+unigene|Hs.65377|Hs.65377
+unigene|Hs.6451|Hs.6451	hgnc_symbol|FAM156A|FAM156A
+unigene|Hs.64056|Hs.64056	hgnc_symbol|PAK1|PAK1
+unigene|Hs.6163|Hs.6163	hgnc_symbol|PINK1|PINK1
+unigene|Hs.5978|Hs.5978	hgnc_symbol|LMO7|LMO7
+unigene|Hs.5867|Hs.5867	hgnc_symbol|SACM1L|SACM1L
+unigene|Hs.58606|Hs.58606	hgnc_symbol|SNURF|SNURF
+unigene|Hs.57764|Hs.57764	hgnc_symbol|PPM1A|PPM1A
+unigene|Hs.56|Hs.56	hgnc_symbol|PRPS1|PRPS1
+unigene|Hs.552|Hs.552	hgnc_symbol|SRD5A1|SRD5A1
+unigene|Hs.5461|Hs.5461
+unigene|Hs.5344|Hs.5344	hgnc_symbol|AP1G1|AP1G1
+unigene|Hs.5300|Hs.5300	hgnc_symbol|BLCAP|BLCAP
+unigene|Hs.5120|Hs.5120	hgnc_symbol|DYNLL1|DYNLL1
+unigene|Hs.50787|Hs.50787
+unigene|Hs.505|Hs.505	hgnc_symbol|ISL1|ISL1
+unigene|Hs.5022|Hs.5022	hgnc_symbol|IPW|IPW
+unigene|Hs.48876|Hs.48876	hgnc_symbol|FDFT1|FDFT1
+unigene|Hs.4877|Hs.4877	hgnc_symbol|SAMM50|SAMM50
+unigene|Hs.47913|Hs.47913	hgnc_symbol|F10|F10
+unigene|Hs.47209|Hs.47209
+unigene|Hs.47061|Hs.47061	hgnc_symbol|ULK1|ULK1
+unigene|Hs.46736|Hs.46736
+unigene|Hs.46721|Hs.46721	hgnc_symbol|EPDR1|EPDR1
+unigene|Hs.44833|Hs.44833
+unigene|Hs.43899|Hs.43899
+unigene|Hs.43847|Hs.43847	hgnc_symbol|ZCRB1|ZCRB1
+unigene|Hs.438314|Hs.438314
+unigene|Hs.437072|Hs.437072
+unigene|Hs.433810|Hs.433810	hgnc_symbol|PSME2|PSME2
+unigene|Hs.433676|Hs.433676	hgnc_symbol|ZFC3H1|ZFC3H1
+unigene|Hs.433618|Hs.433618	hgnc_symbol|MLH1|MLH1
+unigene|Hs.433247|Hs.433247
+unigene|Hs.433203|Hs.433203	hgnc_symbol|TMEM208|TMEM208
+unigene|Hs.432574|Hs.432574	hgnc_symbol|POLR2H|POLR2H
+unigene|Hs.432526|Hs.432526
+unigene|Hs.432419|Hs.432419	hgnc_symbol|LINC00152|LINC00152
+unigene|Hs.432170|Hs.432170	hgnc_symbol|COX7B|COX7B
+unigene|Hs.432121|Hs.432121	hgnc_symbol|PRDX2|PRDX2
+unigene|Hs.43141|Hs.43141	hgnc_symbol|KANSL1|KANSL1
+unigene|Hs.43107|Hs.43107	hgnc_symbol|JAKMIP2|JAKMIP2
+unigene|Hs.430637|Hs.430637	hgnc_symbol|PTGDS|PTGDS
+unigene|Hs.430439|Hs.430439	hgnc_symbol|NFU1|NFU1
+unigene|Hs.4291|Hs.4291	hgnc_symbol|GORASP1|GORASP1
+unigene|Hs.42712|Hs.42712	hgnc_symbol|MAX|MAX
+unigene|Hs.425456|Hs.425456	hgnc_symbol|CLPTM1L|CLPTM1L
+unigene|Hs.420106|Hs.420106	hgnc_symbol|ENDOG|ENDOG
+unigene|Hs.417068|Hs.417068	hgnc_symbol|CCDC120|CCDC120
+unigene|Hs.409829|Hs.409829	hgnc_symbol|NDUFS5|NDUFS5
+unigene|Hs.40919|Hs.40919	hgnc_symbol|ALG2|ALG2
+unigene|Hs.408790|Hs.408790	hgnc_symbol|PIGP|PIGP
+unigene|Hs.407995|Hs.407995	hgnc_symbol|MIF|MIF
+unigene|Hs.407120|Hs.407120
+unigene|Hs.406590|Hs.406590	hgnc_symbol|GPR153 /// MRFAP1|GPR153 /// MRFAP1
+unigene|Hs.406458|Hs.406458	hgnc_symbol|GPI|GPI
+unigene|Hs.406422|Hs.406422	hgnc_symbol|YIF1A|YIF1A
+unigene|Hs.406078|Hs.406078	hgnc_symbol|RBBP7|RBBP7
+unigene|Hs.401835|Hs.401835
+unigene|Hs.396982|Hs.396982	hgnc_symbol|ST13P4|ST13P4
+unigene|Hs.396644|Hs.396644	hgnc_symbol|PAIP2|PAIP2
+unigene|Hs.388623|Hs.388623	hgnc_symbol|SRSF3|SRSF3
+unigene|Hs.38628|Hs.38628
+unigene|Hs.3828|Hs.3828	hgnc_symbol|MVD|MVD
+unigene|Hs.375778|Hs.375778
+unigene|Hs.375580|Hs.375580
+unigene|Hs.375176|Hs.375176	hgnc_symbol|BCO2|BCO2
+unigene|Hs.374847|Hs.374847
+unigene|Hs.3745|Hs.3745	hgnc_symbol|MFGE8|MFGE8
+unigene|Hs.362806|Hs.362806	hgnc_symbol|GPR116|GPR116
+unigene|Hs.3576|Hs.3576	hgnc_symbol|TMEM230|TMEM230
+unigene|Hs.356626|Hs.356626
+unigene|Hs.356624|Hs.356624	hgnc_symbol|NID1|NID1
+unigene|Hs.355896|Hs.355896	hgnc_symbol|CDK11A|CDK11A
+unigene|Hs.355584|Hs.355584	hgnc_symbol|RPAIN|RPAIN
+unigene|Hs.355554|Hs.355554
+unigene|Hs.355454|Hs.355454	hgnc_symbol|NKX2-2|NKX2-2
+unigene|Hs.352413|Hs.352413	hgnc_symbol|FAM210B|FAM210B
+unigene|Hs.351747|Hs.351747	hgnc_symbol|FEM1A|FEM1A
+unigene|Hs.351621|Hs.351621	hgnc_symbol|C5orf45|C5orf45
+unigene|Hs.350936|Hs.350936
+unigene|Hs.35091|Hs.35091	hgnc_symbol|LRRC1|LRRC1
+unigene|Hs.34956|Hs.34956	hgnc_symbol|PTBP2|PTBP2
+unigene|Hs.349506|Hs.349506	hgnc_symbol|IFRD1 /// PCSK4 /// SUB1|IFRD1 /// PCSK4 /// SUB1
+unigene|Hs.348461|Hs.348461
+unigene|Hs.348428|Hs.348428	hgnc_symbol|MBD6|MBD6
+unigene|Hs.348390|Hs.348390	hgnc_symbol|IL33|IL33
+unigene|Hs.346945|Hs.346945	hgnc_symbol|TRIM41|TRIM41
+unigene|Hs.343586|Hs.343586	hgnc_symbol|ZFP36|ZFP36
+unigene|Hs.340634|Hs.340634	hgnc_symbol|CORIN|CORIN
+unigene|Hs.339837|Hs.339837
+unigene|Hs.339808|Hs.339808	hgnc_symbol|LRRC37A /// LRRC37A3|LRRC37A /// LRRC37A3
+unigene|Hs.334897|Hs.334897	hgnc_symbol|GFOD1|GFOD1
+unigene|Hs.334841|Hs.334841	hgnc_symbol|SELENBP1|SELENBP1
+unigene|Hs.334826|Hs.334826	hgnc_symbol|SF3B1|SF3B1
+unigene|Hs.334330|Hs.334330	hgnc_symbol|CALM3|CALM3
+unigene|Hs.333512|Hs.333512
+unigene|Hs.332795|Hs.332795
+unigene|Hs.326766|Hs.326766
+unigene|Hs.325948|Hs.325948	hgnc_symbol|USO1|USO1
+unigene|Hs.32567|Hs.32567	hgnc_symbol|SERF1A|SERF1A
+unigene|Hs.323966|Hs.323966
+unigene|Hs.3239|Hs.3239	hgnc_symbol|MECP2|MECP2
+unigene|Hs.323833|Hs.323833	hgnc_symbol|SNPH|SNPH
+unigene|Hs.323813|Hs.323813
+unigene|Hs.3187|Hs.3187	hgnc_symbol|NFX1|NFX1
+unigene|Hs.31584|Hs.31584	hgnc_symbol|MTX2|MTX2
+unigene|Hs.31575|Hs.31575	hgnc_symbol|SEC63|SEC63
+unigene|Hs.30985|Hs.30985	hgnc_symbol|PANX1|PANX1
+unigene|Hs.306814|Hs.306814	hgnc_symbol|LOXL4|LOXL4
+unigene|Hs.306210|Hs.306210	hgnc_symbol|PRMT3 /// PRMT8|PRMT3 /// PRMT8
+unigene|Hs.306123|Hs.306123	hgnc_symbol|MAGEF1|MAGEF1
+unigene|Hs.302428|Hs.302428	hgnc_symbol|WNT4|WNT4
+unigene|Hs.301927|Hs.301927
+unigene|Hs.301711|Hs.301711
+unigene|Hs.301198|Hs.301198	hgnc_symbol|ROBO1|ROBO1
+unigene|Hs.300423|Hs.300423	hgnc_symbol|LPCAT3|LPCAT3
+unigene|Hs.30002|Hs.30002	hgnc_symbol|SH3GLB2|SH3GLB2
+unigene|Hs.298573|Hs.298573	hgnc_symbol|SH3BP5L|SH3BP5L
+unigene|Hs.297214|Hs.297214	hgnc_symbol|PHPT1|PHPT1
+unigene|Hs.29696|Hs.29696	hgnc_symbol|TMEM106A|TMEM106A
+unigene|Hs.296242|Hs.296242	hgnc_symbol|WDR61|WDR61
+unigene|Hs.296014|Hs.296014	hgnc_symbol|POLR2B|POLR2B
+unigene|Hs.294008|Hs.294008	hgnc_symbol|AK2|AK2
+unigene|Hs.293724|Hs.293724
+unigene|Hs.289043|Hs.289043	hgnc_symbol|GTF2I /// SPIN1|GTF2I /// SPIN1
+unigene|Hs.289026|Hs.289026	hgnc_symbol|GNG2|GNG2
+unigene|Hs.288678|Hs.288678	hgnc_symbol|ZNF611|ZNF611
+unigene|Hs.288658|Hs.288658	hgnc_symbol|ZNF35|ZNF35
+unigene|Hs.288573|Hs.288573	hgnc_symbol|CTC1|CTC1
+unigene|Hs.288389|Hs.288389	hgnc_symbol|EDC3|EDC3
+unigene|Hs.287955|Hs.287955
+unigene|Hs.287912|Hs.287912	hgnc_symbol|LMAN1|LMAN1
+unigene|Hs.285681|Hs.285681	hgnc_symbol|MLXIPL|MLXIPL
+unigene|Hs.285647|Hs.285647
+unigene|Hs.284296|Hs.284296	hgnc_symbol|SURF4|SURF4
+unigene|Hs.284181|Hs.284181
+unigene|Hs.284162|Hs.284162	hgnc_symbol|RSL24D1|RSL24D1
+unigene|Hs.283609|Hs.283609	hgnc_symbol|MBNL2|MBNL2
+unigene|Hs.283429|Hs.283429	hgnc_symbol|KDM5C|KDM5C
+unigene|Hs.28107|Hs.28107
+unigene|Hs.279583|Hs.279583	hgnc_symbol|METTL9|METTL9
+unigene|Hs.279582|Hs.279582
+unigene|Hs.279061|Hs.279061	hgnc_symbol|GLOD4|GLOD4
+unigene|Hs.278877|Hs.278877	hgnc_symbol|OLA1|OLA1
+unigene|Hs.278500|Hs.278500	hgnc_symbol|GNPDA1|GNPDA1
+unigene|Hs.278479|Hs.278479	hgnc_symbol|TSPYL1|TSPYL1
+unigene|Hs.278411|Hs.278411	hgnc_symbol|NCKAP1|NCKAP1
+unigene|Hs.278362|Hs.278362	hgnc_symbol|MEA1|MEA1
+unigene|Hs.277445|Hs.277445	hgnc_symbol|DGKZ|DGKZ
+unigene|Hs.27693|Hs.27693	hgnc_symbol|PPIL1|PPIL1
+unigene|Hs.27475|Hs.27475	hgnc_symbol|CYB5D1|CYB5D1
+unigene|Hs.2730|Hs.2730	hgnc_symbol|HNRNPL|HNRNPL
+unigene|Hs.272808|Hs.272808	hgnc_symbol|BDP1|BDP1
+unigene|Hs.272168|Hs.272168	hgnc_symbol|SERINC3|SERINC3
+unigene|Hs.271687|Hs.271687	hgnc_symbol|U2AF1|U2AF1
+unigene|Hs.270956|Hs.270956	hgnc_symbol|SLC30A9|SLC30A9
+unigene|Hs.268488|Hs.268488	hgnc_symbol|LRRC47|LRRC47
+unigene|Hs.268189|Hs.268189	hgnc_symbol|KANSL2|KANSL2
+unigene|Hs.2642|Hs.2642	hgnc_symbol|EEF1A2|EEF1A2
+unigene|Hs.26373|Hs.26373	hgnc_symbol|D2HGDH|D2HGDH
+unigene|Hs.261927|Hs.261927	hgnc_symbol|PSMB5|PSMB5
+unigene|Hs.26110|Hs.26110
+unigene|Hs.256697|Hs.256697	hgnc_symbol|HINT1|HINT1
+unigene|Hs.256549|Hs.256549	hgnc_symbol|NUBP2|NUBP2
+unigene|Hs.256310|Hs.256310	hgnc_symbol|ARFGAP2|ARFGAP2
+unigene|Hs.25450|Hs.25450	hgnc_symbol|SLC29A1|SLC29A1
+unigene|Hs.254095|Hs.254095	hgnc_symbol|VWA5B2|VWA5B2
+unigene|Hs.25338|Hs.25338	hgnc_symbol|PRSS23|PRSS23
+unigene|Hs.25275|Hs.25275
+unigene|Hs.25237|Hs.25237
+unigene|Hs.24956|Hs.24956
+unigene|Hs.24907|Hs.24907	hgnc_symbol|CORO2B|CORO2B
+unigene|Hs.247452|Hs.247452	hgnc_symbol|ABHD16A|ABHD16A
+unigene|Hs.247362|Hs.247362	hgnc_symbol|DDAH2|DDAH2
+unigene|Hs.246970|Hs.246970	hgnc_symbol|MAP4K5|MAP4K5
+unigene|Hs.245188|Hs.245188	hgnc_symbol|TIMP3|TIMP3
+unigene|Hs.24183|Hs.24183
+unigene|Hs.241471|Hs.241471	hgnc_symbol|EVL|EVL
+unigene|Hs.24054|Hs.24054	hgnc_symbol|JAGN1|JAGN1
+unigene|Hs.24049|Hs.24049	hgnc_symbol|GOLGA2|GOLGA2
+unigene|Hs.239681|Hs.239681	hgnc_symbol|FNBP1L|FNBP1L
+unigene|Hs.239663|Hs.239663	hgnc_symbol|FOXO4|FOXO4
+unigene|Hs.238964|Hs.238964
+unigene|Hs.238296|Hs.238296	hgnc_symbol|GGA1|GGA1
+unigene|Hs.236510|Hs.236510	hgnc_symbol|TMEM165|TMEM165
+unigene|Hs.235975|Hs.235975	hgnc_symbol|PPP1R12C|PPP1R12C
+unigene|Hs.234653|Hs.234653
+unigene|Hs.23311|Hs.23311	hgnc_symbol|PRUNE2|PRUNE2
+unigene|Hs.231840|Hs.231840	hgnc_symbol|WBP2|WBP2
+unigene|Hs.23133|Hs.23133
+unigene|Hs.227750|Hs.227750	hgnc_symbol|NDUFB4|NDUFB4
+unigene|Hs.222513|Hs.222513	hgnc_symbol|LENG8|LENG8
+unigene|Hs.22215|Hs.22215	hgnc_symbol|SCG3|SCG3
+unigene|Hs.217493|Hs.217493	hgnc_symbol|ANXA2|ANXA2
+unigene|Hs.21537|Hs.21537	hgnc_symbol|PPP1CB|PPP1CB
+unigene|Hs.21432|Hs.21432
+unigene|Hs.21411|Hs.21411
+unigene|Hs.213628|Hs.213628
+unigene|Hs.21332|Hs.21332	hgnc_symbol|BTBD1|BTBD1
+unigene|Hs.21264|Hs.21264	hgnc_symbol|ARAP1|ARAP1
+unigene|Hs.208|Hs.208	hgnc_symbol|GCGR|GCGR
+unigene|Hs.20478|Hs.20478	hgnc_symbol|TPP1|TPP1
+unigene|Hs.20220|Hs.20220
+unigene|Hs.20159|Hs.20159	hgnc_symbol|COQ4|COQ4
+unigene|Hs.20013|Hs.20013	hgnc_symbol|PRTN3|PRTN3
+unigene|Hs.199402|Hs.199402	hgnc_symbol|UFD1L|UFD1L
+unigene|Hs.199248|Hs.199248	hgnc_symbol|PTGER4|PTGER4
+unigene|Hs.199160|Hs.199160	hgnc_symbol|MLL|MLL
+unigene|Hs.19597|Hs.19597
+unigene|Hs.194685|Hs.194685	hgnc_symbol|TOP3B|TOP3B
+unigene|Hs.194110|Hs.194110	hgnc_symbol|WDR82|WDR82
+unigene|Hs.194019|Hs.194019	hgnc_symbol|ATRN|ATRN
+unigene|Hs.193513|Hs.193513
+unigene|Hs.193490|Hs.193490	hgnc_symbol|SLFN13|SLFN13
+unigene|Hs.193482|Hs.193482	hgnc_symbol|FAM133B|FAM133B
+unigene|Hs.193331|Hs.193331
+unigene|Hs.192127|Hs.192127	hgnc_symbol|C19orf40|C19orf40
+unigene|Hs.1908|Hs.1908	hgnc_symbol|IER3 /// SRGN|IER3 /// SRGN
+unigene|Hs.190722|Hs.190722	hgnc_symbol|BABAM1|BABAM1
+unigene|Hs.18442|Hs.18442	hgnc_symbol|ENOPH1 /// L1CAM|ENOPH1 /// L1CAM
+unigene|Hs.184183|Hs.184183
+unigene|Hs.183773|Hs.183773	hgnc_symbol|GOLGA4|GOLGA4
+unigene|Hs.183438|Hs.183438	hgnc_symbol|PRPF31|PRPF31
+unigene|Hs.1832|Hs.1832	hgnc_symbol|NPY|NPY
+unigene|Hs.182986|Hs.182986	hgnc_symbol|THAP4|THAP4
+unigene|Hs.182741|Hs.182741	hgnc_symbol|TIAL1|TIAL1
+unigene|Hs.182280|Hs.182280	hgnc_symbol|MEF2A|MEF2A
+unigene|Hs.181271|Hs.181271	hgnc_symbol|COPZ1|COPZ1
+unigene|Hs.180402|Hs.180402	hgnc_symbol|ZNF671|ZNF671
+unigene|Hs.179986|Hs.179986	hgnc_symbol|FLOT1|FLOT1
+unigene|Hs.179882|Hs.179882	hgnc_symbol|LPCAT1|LPCAT1
+unigene|Hs.179735|Hs.179735	hgnc_symbol|RHOC|RHOC
+unigene|Hs.179697|Hs.179697
+unigene|Hs.17883|Hs.17883	hgnc_symbol|PPM1G|PPM1G
+unigene|Hs.173902|Hs.173902	hgnc_symbol|PPP2R1A|PPP2R1A
+unigene|Hs.173694|Hs.173694	hgnc_symbol|USP33|USP33
+unigene|Hs.173464|Hs.173464	hgnc_symbol|FKBP8|FKBP8
+unigene|Hs.173159|Hs.173159	hgnc_symbol|TACC1|TACC1
+unigene|Hs.172766|Hs.172766	hgnc_symbol|MARK3|MARK3
+unigene|Hs.17154|Hs.17154	hgnc_symbol|DYRK4|DYRK4
+unigene|Hs.17121|Hs.17121
+unigene|Hs.170133|Hs.170133	hgnc_symbol|FOXO1|FOXO1
+unigene|Hs.16986|Hs.16986	hgnc_symbol|TBC1D23|TBC1D23
+unigene|Hs.169750|Hs.169750	hgnc_symbol|TPR|TPR
+unigene|Hs.169743|Hs.169743	hgnc_symbol|OLFM2|OLFM2
+unigene|Hs.169294|Hs.169294	hgnc_symbol|TCF7|TCF7
+unigene|Hs.169271|Hs.169271	hgnc_symbol|CELP|CELP
+unigene|Hs.167496|Hs.167496	hgnc_symbol|RANBP6|RANBP6
+unigene|Hs.166244|Hs.166244	hgnc_symbol|FAM173A|FAM173A
+unigene|Hs.166011|Hs.166011	hgnc_symbol|CTNND1|CTNND1
+unigene|Hs.165743|Hs.165743	hgnc_symbol|TSSC4|TSSC4
+unigene|Hs.165464|Hs.165464
+unigene|Hs.164478|Hs.164478
+unigene|Hs.163990|Hs.163990	hgnc_symbol|FRMPD1|FRMPD1
+unigene|Hs.163859|Hs.163859
+unigene|Hs.1634|Hs.1634	hgnc_symbol|CDC25A|CDC25A
+unigene|Hs.16297|Hs.16297	hgnc_symbol|COX17|COX17
+unigene|Hs.162086|Hs.162086
+unigene|Hs.1600|Hs.1600	hgnc_symbol|CCT5|CCT5
+unigene|Hs.159637|Hs.159637	hgnc_symbol|VARS2|VARS2
+unigene|Hs.159526|Hs.159526	hgnc_symbol|PTCH1|PTCH1
+unigene|Hs.158135|Hs.158135	hgnc_symbol|PIKFYVE|PIKFYVE
+unigene|Hs.157986|Hs.157986	hgnc_symbol|MOCOS|MOCOS
+unigene|Hs.155595|Hs.155595	hgnc_symbol|2-Sep|2-Sep
+unigene|Hs.155410|Hs.155410	hgnc_symbol|IDH3B|IDH3B
+unigene|Hs.155191|Hs.155191	hgnc_symbol|EZR|EZR
+unigene|Hs.154796|Hs.154796	hgnc_symbol|EIF3A|EIF3A
+unigene|Hs.153489|Hs.153489	hgnc_symbol|ASB1|ASB1
+unigene|Hs.153357|Hs.153357	hgnc_symbol|PLOD3|PLOD3
+unigene|Hs.1526|Hs.1526	hgnc_symbol|ATP2A2|ATP2A2
+unigene|Hs.15192|Hs.15192	hgnc_symbol|PEMT|PEMT
+unigene|Hs.15164|Hs.15164	hgnc_symbol|C1D|C1D
+unigene|Hs.151449|Hs.151449	hgnc_symbol|ST18|ST18
+unigene|Hs.151413|Hs.151413	hgnc_symbol|GMFB|GMFB
+unigene|Hs.150557|Hs.150557	hgnc_symbol|KLF9|KLF9
+unigene|Hs.14945|Hs.14945	hgnc_symbol|ACSL6|ACSL6
+unigene|Hs.146388|Hs.146388	hgnc_symbol|MAP7|MAP7
+unigene|Hs.144405|Hs.144405
+unigene|Hs.14368|Hs.14368	hgnc_symbol|SH3BGRL|SH3BGRL
+unigene|Hs.14222|Hs.14222	hgnc_symbol|MITD1|MITD1
+unigene|Hs.13845|Hs.13845	hgnc_symbol|SLC25A20|SLC25A20
+unigene|Hs.136235|Hs.136235
+unigene|Hs.135183|Hs.135183	hgnc_symbol|ADAP1|ADAP1
+unigene|Hs.134012|Hs.134012	hgnc_symbol|C1QL1 /// CRH|C1QL1 /// CRH
+unigene|Hs.132744|Hs.132744
+unigene|Hs.129998|Hs.129998	hgnc_symbol|EPC1|EPC1
+unigene|Hs.12909|Hs.12909	hgnc_symbol|MCOLN1|MCOLN1
+unigene|Hs.127789|Hs.127789
+unigene|Hs.12520|Hs.12520	hgnc_symbol|C2orf72|C2orf72
+unigene|Hs.12372|Hs.12372	hgnc_symbol|TRIM2|TRIM2
+unigene|Hs.123460|Hs.123460
+unigene|Hs.12248|Hs.12248
+unigene|Hs.121549|Hs.121549	hgnc_symbol|CDIPT|CDIPT
+unigene|Hs.119286|Hs.119286	hgnc_symbol|APCDD1L|APCDD1L
+unigene|Hs.118796|Hs.118796	hgnc_symbol|ANXA6|ANXA6
+unigene|Hs.118131|Hs.118131	hgnc_symbol|MTHFS|MTHFS
+unigene|Hs.11393|Hs.11393	hgnc_symbol|RAD51C|RAD51C
+unigene|Hs.112499|Hs.112499	hgnc_symbol|BZRAP1|BZRAP1
+unigene|Hs.11125|Hs.11125	hgnc_symbol|SPCS1|SPCS1
+unigene|Hs.111224|Hs.111224	hgnc_symbol|NTNG1|NTNG1
+unigene|Hs.1098|Hs.1098
+unigene|Hs.109494|Hs.109494	hgnc_symbol|NENF|NENF
+unigene|Hs.109438|Hs.109438
+unigene|Hs.109428|Hs.109428	hgnc_symbol|ABT1|ABT1
+unigene|Hs.10927|Hs.10927
+unigene|Hs.10882|Hs.10882	hgnc_symbol|HBP1|HBP1
+unigene|Hs.108809|Hs.108809	hgnc_symbol|CCT7|CCT7
+unigene|Hs.108327|Hs.108327	hgnc_symbol|DDB1|DDB1
+unigene|Hs.108301|Hs.108301	hgnc_symbol|NR2C1|NR2C1
+unigene|Hs.107942|Hs.107942	hgnc_symbol|MOB4|MOB4
+unigene|Hs.10784|Hs.10784	hgnc_symbol|FAM46A|FAM46A
+unigene|Hs.10758|Hs.10758	hgnc_symbol|NDUFS4|NDUFS4
+unigene|Hs.107479|Hs.107479
+unigene|Hs.10710|Hs.10710	hgnc_symbol|ZNF434|ZNF434
+unigene|Hs.106876|Hs.106876	hgnc_symbol|ATP6V0D1|ATP6V0D1
+unigene|Hs.106747|Hs.106747	hgnc_symbol|SCPEP1|SCPEP1
+unigene|Hs.10669|Hs.10669	hgnc_symbol|ASAP1|ASAP1
+unigene|Hs.106004|Hs.106004	hgnc_symbol|TUT1|TUT1
+unigene|Hs.10458|Hs.10458	hgnc_symbol|CCL16|CCL16
+unigene|Hs.104555|Hs.104555	hgnc_symbol|NPFF|NPFF
+unigene|Hs.104125|Hs.104125	hgnc_symbol|BRD4 /// CAP1 /// LNPEP /// PTPLA /// SERPINB6 /// SORBS1|BRD4 /// CAP1 /// LNPEP /// PTPLA /// SERPINB6 /// SORBS1
+unigene|Hs.101657|Hs.101657	hgnc_symbol|SORL1|SORL1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

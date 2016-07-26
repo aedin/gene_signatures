@@ -1,0 +1,15 @@
+# Generate Mapping Tables Script: Version 4 11:08 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:08 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+refseq_dna|NM_007639.1|NM_007639	unigene|Mm.1894|Mm.1894	mgi_symbol|CD1d 1|CD1d 1
+refseq_dna|BC010262.1|62.1	unigene|Mm.18628|Mm.18628	mgi_symbol|CD36|CD36
+refseq_dna|XM_132621.2|XM_132621	unigene|Mm.1858|Mm.1858	mgi_symbol|CD8 alpha|CD8 alpha
+refseq_dna|AK079513.1|13.1	unigene|Mm.1452|Mm.1452	mgi_symbol|CD86|CD86
+refseq_dna|BC039137.1|37.1	unigene|Mm.2209|Mm.2209	mgi_symbol|CD4|CD4
+refseq_dna|AY049062.1|62.1	unigene|Mm.32510|Mm.32510	mgi_symbol|CD209a|CD209a
+embl|MMF480|MMF480	unigene|Mm.2254|Mm.2254	mgi_symbol|Emr1|Emr1
+refseq_dna|NM_198405.1|NM_198405	unigene|Mm.330924|Mm.330924	mgi_symbol|Sirpb1a|Sirpb1a
+mgi_symbol|Sirpb4|Sirpb4

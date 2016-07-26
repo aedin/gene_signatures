@@ -1,0 +1,44 @@
+# Generate Mapping Tables Script: Version 4 11:03 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:03 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+entrezgene|5770181|1267	hgnc_symbol|CNP|CNP
+entrezgene|134343|283131	hgnc_symbol|TncRNA|TncRNA
+hgnc_symbol|CHES1|CHES1
+hgnc_symbol|NS5ATP13TP2|NS5ATP13TP2
+entrezgene|5809010|10209	hgnc_symbol|SUI1|SUI1
+entrezgene|5931188|7203	hgnc_symbol|CCT3|CCT3
+entrezgene|252811|6788	hgnc_symbol|STK3|STK3
+entrezgene|347096|1173	hgnc_symbol|AP2M1|AP2M1
+entrezgene|238578|6234	hgnc_symbol|RPS28|RPS28
+entrezgene|428340|1660	hgnc_symbol|DHX9|DHX9
+entrezgene|4862574|3615	hgnc_symbol|IMPDH2|IMPDH2
+entrezgene|5539452|23243	hgnc_symbol|KIAA0379|KIAA0379
+entrezgene|270616|58528	hgnc_symbol|RRAGD|RRAGD
+entrezgene|274227|2266	hgnc_symbol|FGG|FGG
+entrezgene|3546201|6134	hgnc_symbol|RPL10|RPL10
+entrezgene|281852|116832	hgnc_symbol|RPL39L|RPL39L
+entrezgene|323854|81848	hgnc_symbol|SPRY4|SPRY4
+entrezgene|324999|2617	hgnc_symbol|GARS|GARS
+entrezgene|206375|55505	hgnc_symbol|NOLA3|NOLA3
+entrezgene|299081|6181	hgnc_symbol|RPLP2|RPLP2
+entrezgene|300916|6165	hgnc_symbol|RPL35A|RPL35A
+entrezgene|5455241|292	hgnc_symbol|SLC25A5|SLC25A5
+entrezgene|324242|54537	hgnc_symbol|FAM35A|FAM35A
+entrezgene|280586|4673	hgnc_symbol|ESTP1L1|ESTP1L1
+entrezgene|279253|55339	hgnc_symbol|WDR33|WDR33
+entrezgene|4767667|5004	hgnc_symbol|LOC158267|LOC158267
+entrezgene|491155|6155	hgnc_symbol|RPL27|RPL27
+hgnc_symbol|HSPCA|HSPCA
+hgnc_symbol|RPS13|RPS13
+entrezgene|4767928|2267	hgnc_symbol|FGL1|FGL1
+hgnc_symbol|NSEP1|NSEP1
+entrezgene|122814|1434	hgnc_symbol|CSE1L|CSE1L
+entrezgene|5735454|22836	hgnc_symbol|RHOBTB3|RHOBTB3
+entrezgene|4300428|6133	hgnc_symbol|RPL9|RPL9
+hgnc_symbol|LRRFIP2|LRRFIP2
+entrezgene|202665|722	hgnc_symbol|C4BPA|C4BPA
+entrezgene|5555400|117584	hgnc_symbol|LOC117584|LOC117584
+entrezgene|163466|4155	hgnc_symbol|MBP|MBP

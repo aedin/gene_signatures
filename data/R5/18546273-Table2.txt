@@ -1,0 +1,38 @@
+Gene	Description	Affymetrix-probe ID	MP/MN Class	16MP vs. MN tumors Score	16MP vs. MN tumors Ranking	12PO vs. 11GO tumors Score	12PO vs. 11GO tumors Ranking	qRT-PCR assay	Reference no.
+SLC9A1	Solute carrier family 9, isoform Al	32681_at	MP	0.85	21	0.99	17	Yes	24
+TCOF1	Treacher Collins-Franceschetti syndrome 1	40596_at	MP	0.75	31	0.76	45	Yes	25
+DPEP1	Dipeptidase 1	37413_at	MP	0.64	48	0.72	54		25
+CD97	CD97 molecule	35625_at	MP	0.56	65	0.55	84		24
+ST3GAL4	ST3 beta-galactoside alpha–2,3– sialyltransferase 4	36916_at	MP	0.47	92	0.37	146		28
+COL6A2	Collagen, type VI, alpha 2	34802_at	MP	0.46	96	0.38	141		25
+DST	Dystonin	32780_at	MP	0.09	201	0.54	87		25
+CXCL9	Chemokine, C–X–C motif, ligand 9	37219_at	MP	0.02	232	0.01	253		29
+TEK	TEK tyrosine kinase, endothelial	1596_g_at	MN	1.25	1	1.4	17	Yes	26
+TGFBR2	Transforming growth factor, beta receptor II	1814_at	MN	1.19	2	1.4	19	Yes	23
+LDBI	LIM domain binding 1	36065 at	MN	1.17	3	1.42	16	Yes	23, 26
+VCAMI	Vascular cell adhesion molecule 1	583_s_at	MN	1.14	4	1.31	27	Yes	24
+EDNRB	endothelin receptor type B	1198_at	MN	1.14	5	1.8	3	Yes	23
+SNRK	SNF related kinase	377l8_at	MN	1.13	6	1.49	11	Yes	23
+TGFBR2	Transforming growth factor, beta receptor II	1815_g_at	MN	1.07	9	1.51	9	Yes	23
+VCAMI	Vascular cell adhesion molecule 1	41433_at	MN	1.05	10	1.22	38	Yes	24
+TMEM47	transmembrane protein 47	37958_at	MN	1	15	1.8	2	Yes	23
+RGS5	Regulator of G-protein signaling 5	33890_at	MN	1	16	1.5	10	Yes	23
+TM4SF2	Transmembrane 4 superfamily member 2	38408_at	MN	0.9	28	1.4	18	Yes	23
+PPAP2B	Phosphatidic acid phosphatase type 2B	33862_at	MN	0.86	35	1.61	4	Yes	23
+SP3	Sp3 transcription factor	41573_at	MN	1.03	13	0.97	71		25
+PECAM1	Platelet/endothelial cell adhesion molecule	37398_at	MN	0.69	77	1.21	39		23
+SPARCL1	SPARC-like 1 (hevin)	36627_at	MN	0.69	78	0.97	73		23
+ALDH7A1	Aldehyde dehydrogenase 7 family, member Al	36132_at	MN	0.65	91	0.72	133		25
+ENPP2	Ectonucleotide pyrophosphatase/ phosphodiesterase 2 (autotaxin)	41123_s_at	MN	0.64	92	1.2	41		23
+ENPP2	Ectonucleotide pyrophosphatase/ phosphodiesterase 2 (autotaxin)	41124_r_at	MN	0.63	99	1.29	28		23
+SPRY1	Sprouty homolog 1	38767_at	MN	0.59	117	0.72	131		23
+LMO2	LIM domain only 2	32184_at	MN	0.56	125	0.79	119		23
+ADFP	Adipose differentiation-related protein	34378_at	MN	0.55	128	0.83	106		21
+ZNF292	Zinc finger protein 292	40838_at	MN	0.53	141	0.61	160		25
+AQP1	Aquaporin 1	36156_at	MN	0.5	150	1.36	21		30
+TIMP3	TIMP metalloproteinase inhibitor 3	1034_at	MN	0.49	153	0.71	134		23
+GPR116	G–protein coupled receptor 116	34235_at	MN	0.46	161	0.68	141		23
+IFIT1	Interferon–induced protein with tetratricopeptide repeats 1	915_at	MN	0.4	181	0.53	173		24
+CCND1	Cyclin Dl	2017_s_at	MN	0.31	200	0.5	181		31
+VEGF	Vascular endothelial growth factor	36101_s_at	MN	0.29	203	0.52	179		32
+TIMP3	TIMP metalloproteinase inhibitor 3	1035_g_at	MN	0.27	206	0.57	168		23

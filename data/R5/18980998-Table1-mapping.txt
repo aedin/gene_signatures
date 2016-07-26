@@ -1,0 +1,41 @@
+# Generate Mapping Tables Script: Version 4 11:04 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:04 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+entrezgene|D45352|11075	hgnc_symbol|STMN2|STMN2
+entrezgene|Y00064|1114	hgnc_symbol|CHGB|CHGB
+embl|U38810|U38810	hgnc_symbol|MAB21L1|MAB21L1
+entrezgene|D78014|1809	hgnc_symbol|DPYSL3|DPYSL3
+entrezgene|X04741|7345	hgnc_symbol|UCHL1|UCHL1
+entrezgene|AB011103|3800	hgnc_symbol|KIF5C|KIF5C
+entrezgene|M25667|2596	hgnc_symbol|GAP43|GAP43
+entrezgene|AA102788|1996	hgnc_symbol|ELAVL4|ELAVL4
+entrezgene|D78012|1400	hgnc_symbol|CRMP1|CRMP1
+embl|U52112|U52112	hgnc_symbol|L1CAM|L1CAM
+entrezgene|M25756|7857	hgnc_symbol|SCG2|SCG2
+entrezgene|AW016235|55384	hgnc_symbol|MEG3|MEG3
+entrezgene|AL037611|93621	hgnc_symbol|TACC2|TACC2
+entrezgene|U07559|3670	hgnc_symbol|ISL1|ISL1
+entrezgene|D82344|8929	hgnc_symbol|PHOX2B|PHOX2B
+embl|AI199503|AI199503	hgnc_symbol|PCSK1N|PCSK1N
+entrezgene|L10333|6252	hgnc_symbol|RTN1|RTN1
+entrezgene|X59798|595	hgnc_symbol|CCND1|CCND1
+entrezgene|Z78388|29114	hgnc_symbol|TAGLN3|TAGLN3
+entrezgene|AI687064|2891	hgnc_symbol|GRIA2|GRIA2
+embl|AA420624|AA420624	hgnc_symbol|MAOA|MAOA
+entrezgene|AI857856|55605	hgnc_symbol|KIF21A|KIF21A
+entrezgene|U16954|10962	hgnc_symbol|MLLT11|MLLT11
+entrezgene|AI198311|4852	hgnc_symbol|NPY|NPY
+entrezgene|M11433|5947	hgnc_symbol|RBP1|RBP1
+entrezgene|AI573279|6664	hgnc_symbol|SOX11|SOX11
+entrezgene|M76180|1644	hgnc_symbol|DDC|DDC
+entrezgene|AI377558|80319	hgnc_symbol|CXXC4|CXXC4
+embl|AA029437|AA029437	hgnc_symbol|CNTFR|CNTFR
+entrezgene|AA167714|4133	hgnc_symbol|MAP2|MAP2
+entrezgene|AB008109|8490	hgnc_symbol|RGS5|RGS5
+embl|W21875|W21875	hgnc_symbol|KIF1A|KIF1A
+entrezgene|AL096719|5217	hgnc_symbol|PFN2|PFN2
+entrezgene|AL120032|2562	hgnc_symbol|GABRB3|GABRB3
+entrezgene|M17589|7054	hgnc_symbol|TH|TH

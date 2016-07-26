@@ -1,0 +1,73 @@
+# Generate Mapping Tables Script: Version 4 11:06 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:06 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+hgnc_symbol|NR4A2|NR4A2
+hgnc_symbol|IL8|IL8
+hgnc_symbol|IL11|IL11
+hgnc_symbol|AREG|AREG
+hgnc_symbol|PLA2G4A|PLA2G4A
+hgnc_symbol|PTGS2|PTGS2
+hgnc_symbol|NPTX1|NPTX1
+hgnc_symbol|IL6|IL6
+hgnc_symbol|IL1B|IL1B
+hgnc_symbol|IL1RN|IL1RN
+hgnc_symbol|EGR2|EGR2
+hgnc_symbol|ITGA2|ITGA2
+hgnc_symbol|STC1|STC1
+hgnc_symbol|MMP1|MMP1
+hgnc_symbol|CGA|CGA
+hgnc_symbol|IER3|IER3
+hgnc_symbol|SOD2|SOD2
+hgnc_symbol|PLAU|PLAU
+hgnc_symbol|MAP3K5|MAP3K5
+hgnc_symbol|TCF7|TCF7
+hgnc_symbol|PLAT|PLAT
+hgnc_symbol|PLAB|PLAB
+hgnc_symbol|SALL1|SALL1
+hgnc_symbol|TWIST1|TWIST1
+hgnc_symbol|SFRP1|SFRP1
+hgnc_symbol|CYP1B1|CYP1B1
+hgnc_symbol|ATP2B1|ATP2B1
+hgnc_symbol|LRIG1|LRIG1
+hgnc_symbol|INHBA|INHBA
+hgnc_symbol|NFKBIA|NFKBIA
+hgnc_symbol|FOS|FOS
+hgnc_symbol|ICAM1|ICAM1
+hgnc_symbol|JUNB|JUNB
+hgnc_symbol|NFIL3|NFIL3
+hgnc_symbol|BHLHB2|BHLHB2
+hgnc_symbol|FACL4|FACL4
+hgnc_symbol|SMOX|SMOX
+hgnc_symbol|MMP3|MMP3
+hgnc_symbol|BTG1|BTG1
+hgnc_symbol|RB1CC1|RB1CC1
+hgnc_symbol|FST|FST
+hgnc_symbol|ETS2|ETS2
+hgnc_symbol|SERPINB2|SERPINB2
+hgnc_symbol|CREM|CREM
+hgnc_symbol|HSPCB|HSPCB
+hgnc_symbol|GG2-1|GG2-1
+hgnc_symbol|IGFBP5|IGFBP5
+hgnc_symbol|CEBPB|CEBPB
+hgnc_symbol|PDGFRA|PDGFRA
+hgnc_symbol|SGNE1|SGNE1
+hgnc_symbol|AHR|AHR
+hgnc_symbol|EDG2|EDG2
+hgnc_symbol|PHLDA1|PHLDA1
+hgnc_symbol|BCL6|BCL6
+hgnc_symbol|CASP4|CASP4
+hgnc_symbol|VEGF|VEGF
+hgnc_symbol|VEGFC|VEGFC
+hgnc_symbol|GAL|GAL
+hgnc_symbol|MADH7|MADH7
+hgnc_symbol|TNFAIP3|TNFAIP3
+hgnc_symbol|BMP2|BMP2
+hgnc_symbol|MOAP1|MOAP1
+hgnc_symbol|CLU|CLU
+hgnc_symbol|GLIPR1|GLIPR1
+hgnc_symbol|MAP3K7IP2|MAP3K7IP2
+hgnc_symbol|GJA1|GJA1
+hgnc_symbol|ANGPT1|ANGPT1

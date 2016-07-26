@@ -1,0 +1,34 @@
+# Generate Mapping Tables Script: Version 4 11:03 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:03 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+hgnc_symbol|INSIG1|INSIG1
+hgnc_symbol|SKP2|SKP2
+hgnc_symbol|ETS2|ETS2
+hgnc_symbol|OASL|OASL
+hgnc_symbol|CDC42SE1|CDC42SE1
+hgnc_symbol|CSNK1G3|CSNK1G3
+hgnc_symbol|CYP17A1|CYP17A1
+hgnc_symbol|CDO1|CDO1
+hgnc_symbol|CNGA1|CNGA1
+hgnc_symbol|NUDT9|NUDT9
+hgnc_symbol|SLC16A5|SLC16A5
+hgnc_symbol|SARA2|SARA2
+hgnc_symbol|ID2|ID2
+hgnc_symbol|RNF130|RNF130
+hgnc_symbol|MAFB|MAFB
+hgnc_symbol|ELL2|ELL2
+hgnc_symbol|PTP4A1|PTP4A1
+hgnc_symbol|PGGT1B|PGGT1B
+hgnc_symbol|HEXB|HEXB
+hgnc_symbol|SLC27A2|SLC27A2
+hgnc_symbol|AGPAT3|AGPAT3
+hgnc_symbol|GCH1|GCH1
+hgnc_symbol|SPACA3|SPACA3
+hgnc_symbol|AS3MT|AS3MT
+hgnc_symbol|TIGD2|TIGD2
+hgnc_symbol|KIAA0676|KIAA0676
+hgnc_symbol|LMBRD2|LMBRD2
+hgnc_symbol|MARVELD|MARVELD

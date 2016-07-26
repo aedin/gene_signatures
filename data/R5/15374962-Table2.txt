@@ -1,0 +1,142 @@
+Function	Gene	Symbol	Clone ID	NF-kB Association	Fold Change LY2/Ker	Fold Change LY2/IkB-aM
+CELL CYCLE/GROWTH	C-src tyrosine kinase	Csk	L0237H04		-2.693	2.358
+CELL CYCLE/GROWTH	Calmodulin	Calm	H3006H05	activates NF-kB via IKK	-2.554	2.42
+CELL CYCLE/GROWTH	Cell division cycle homolog 25a	Cdc25a	H3050E04		-2.341	2.269
+CELL CYCLE/GROWTH	Cell division cycle homolog 45	Cdc45l	H3003E07		-2.032	2.029
+CELL CYCLE/GROWTH	Cyclin C	Ccnc	C0117F09		-2.739	2.418
+CELL CYCLE/GROWTH	Cyclin E2	Ccne2	C0186A01		-2.309	2.155
+CELL CYCLE/GROWTH	Cyclin I	Ccni	H3149G05		-6.756	1.824
+CELL CYCLE/GROWTH	Cyclin dependent kinase 4	Cdk4	H3147D06	target gene of NF-kB	-2.734	2.05
+CELL CYCLE/GROWTH	Cyclin dependent kinase inhibit	Cdkn1c	H3097D03		-5.208	2.913
+CELL CYCLE/GROWTH	Disabled homolg 2	Dab2	H3112G10		-2.159	2.364
+CELL CYCLE/GROWTH	G1-related zinc finger protein	G1rzfp	H3101F04		-2.07	3.882
+CELL CYCLE/GROWTH	Kinesin family member 5B	Kif5b	H3001E01		-2.873	3.174
+CELL CYCLE/GROWTH	Platelet derived growth factor	Pdgfa	H3146C02		-2.15	2.906
+CELL CYCLE/GROWTH	TGF beta 2	Tgfb2	H3055G07	inhibits NF-kB	-7.042	1.908
+CELL CYCLE/GROWTH	Transmembrane 4 superfamily	Tm4sf1	H3116G07		-3.174	1.317
+APOPTOSIS	Apoptosis associated speck-like	Asc	H3097H07	inducer of NF-kB	-2.645	2.144
+APOPTOSIS	ATP binding cassette	Abcd3	H3143E03	NF-kB site in promoter	-2.89	2.535
+APOPTOSIS	Bcl2/adenovirus E1B	Bnip3	H3103B07	Transient inhibitor of NF-kB	-2.364	2.436
+APOPTOSIS	Cathepsin D	Ctsd	H3138H09		-3.948	7.462
+APOPTOSIS	Endothelial monocyte activating protein	Emap2	H3155H05	inducer of NF-kB	-3.831	1.536
+APOPTOSIS	Fas associating w/ death domain	Fadd	H3095D08	inducer of NF-kB	-3.597	2.975
+APOPTOSIS	PolyC binding 4	Pcbp4	H3153H01		-2.754	2.601
+INFLAMMATION/ANGIOGENESIS	Activated leukocyte cell adhesion	Alcam	H3120H03		-2.666	2.228
+INFLAMMATION/ANGIOGENESIS	Coagulation factor III	F3	H3014G02	activates NF-kB via IKK	-4.672	3.858
+INFLAMMATION/ANGIOGENESIS	Immunity associated protein 38	Imap38	H3091C02		-2.195	1.838
+INFLAMMATION/ANGIOGENESIS	Interleukin 17 receptor	Il17r	H3008A03	activates NF-kB via MAPK	-3.021	3.048
+INFLAMMATION/ANGIOGENESIS	Interleukin 2 receptor	Il2ra	J0052C08	NF-kB site in promoter	-2.262	2.207
+INFLAMMATION/ANGIOGENESIS	Lymphocyte antigen 6 complex	Ly6a	H3115A08	inducer of NF-kB	-5.617	3.311
+INFLAMMATION/ANGIOGENESIS	Mucin 18	Muc18	H3038B08		-2.398	2.395
+INFLAMMATION/ANGIOGENESIS	Prothymosin beta	Ptmb4	H3143A02		-21.739	8.858
+METASTASIS	A disintegrin/MMP	Adamts1	H3034B07		-2.695	2.736
+METASTASIS	Cadherin 1	Cdh1	H3076B06	associated with inflammation	-2.597	2.313
+METASTASIS	Extracellular proteinase inhibitor	Expi	H3097H03		-3.676	33.67
+METASTASIS	Kangai 1	Kai1	H3154D02	target gene of NF-kB	-2.816	2.139
+METASTASIS	Laminin B1	Lamb1	H3108H12		-2.816	1.801
+METASTASIS	Lipocalin 2	Lcn2	H3083G02	associated with inflammation	-2.506	11.235
+METASTASIS	Myristolated alanine rich	Macs	H3029H07		-5.319	7.398
+METASTASIS	Procollagen type 1 alpha	Col1a2	H3125D01		-4.901	2.886
+METASTASIS	Procollagen type II alpha	Col2a1	H3026G09		-6.896	2.139
+METASTASIS	Procollagen type III alpha	Col3a1	H3005D11	inducer of NF-kB	-3.205	4.268
+METASTASIS	Procollagen, type IV alpha	Col4a2	H3138E02		-3.257	4.492
+METASTASIS	Sema domain, IgG	Sema3e	H3005D10		-2.35	3.861
+METASTASIS	Secreted acidic C-rich	Sparc	H3026D08		-8.928	2.872
+METASTASIS	Tissue inhibitor of MMPs	Timp3	H3031E01	Two NF-kB sites in promoter	-3.3	3.289
+METABOLISM	AcetylCoenzymeA dehydrogen	Acadl	H3104E10		-2.157	2.077
+METABOLISM	ATPase, type 11A	Atp11a	H3097B05		-2.888	2.734
+METABOLISM	ATP synthase H+ transport	Atp5j2	H3118C01	inhibitor of NF-kB	-2.191	2.111
+METABOLISM	Beta glucuronidase	Gus	H3022D09		-2.309	4.034
+METABOLISM	Creatine kinase, mitochondrial	Ckmt1	H3047D01		-2.314	3.866
+METABOLISM	Diazepam binding inhibitor	Dbi	H3124E12	inhibitor of NF-kB	-1.926	2.887
+METABOLISM	Glutathione peroxidase	Gpx3	J0088G08	upregulates IkBa normal half-life	-2.604	4.065
+METABOLISM	Inositol 1,4,5-triphosphate	Itpr5	H3056A09	decreases NF-kB DNA binding	-3.311	1.955
+METABOLISM	Leukotriene A4 hydrolase	Lta4h	H3054C08		-2.076	1.117
+METABOLISM	Lipopolysaccharide binding	Lbp	H3086G08	activates NF-kB via MAPK	-2.977	2.103
+METABOLISM	Malate dehydrogenase	Mor2	H3059E05		-2.693	1.479
+METABOLISM	Phosphoprotein enriched	Pea15	H3014G07	inducer of NF-kB	-2.424	1.159
+METABOLISM	Procollagen-lysine 2-oxo	Plod3	H3060C03		-2.997	1.297
+METABOLISM	Proprotein convertase	Pcsk5	439378		-2.693	4.739
+METABOLISM	Pyruvate dehydrogenase	Pdha1	H3068G07	NF-kB site in promoter	-3.021	1.643
+METABOLISM	Sterol carrier protein 2	Scp2	H3122F12		-2.412	1.488
+METABOLISM	Thiosulfate sulfurtransferase	Tst	H3135H04		-2.683	1.157
+METABOLISM	Tyrosine 3 monooxygenase	Ywhaq	H3105E08		-2.001	1.876
+METABOLISM	UDP N-acetyl alpha D galactose	Galnt3	H3061B06		-2.614	1.414
+STRESS RESPONSE	Crystallin alpha 2	Crya2	H3143B04	inhibitor of NF-kB	-3.921	3.479
+SIGNAL TRANSDUCTION	Adenylate kinase	Ak2	H3052D11		-3.755	3.546
+SIGNAL TRANSDUCTION	Guanine nucleotide bp	Gna12	H3124D07		-1.988	2.543
+SIGNAL TRANSDUCTION	Max dimerization protein 4	Mad4	H3131B07		-2.008	2.131
+SIGNAL TRANSDUCTION	MAD homolog 4	Madh4	H3128C04		-2.765	2.114
+SIGNAL TRANSDUCTION	Map kinase phosphatase	Dusp14	H3042C08		-2.793	2.078
+SIGNAL TRANSDUCTION	NF-kB enhancer inhibitor	Nfkbia	H3026A08		-1.433	4.611
+SIGNAL TRANSDUCTION	NIK-related kinase	Nrk	H3008B02	activates NF-kB	-2.244	4.859
+SIGNAL TRANSDUCTION	Phosphoglycerate kinase	Pgk1	H3023D06		-2.659	2.061
+SIGNAL TRANSDUCTION	Protein tyrosine phosphatase4	Ptp4a2	H3088F03		-2.118	1.615
+SIGNAL TRANSDUCTION	Rho-associated coiled-coil	Rock1	H3069C09		-2.808	3.183
+SIGNAL TRANSDUCTION	Serine/threonine kinase 3	Stk3	H3025B05		-2.169	1.698
+SIGNAL TRANSDUCTION	Serine/threonine kinase 6	Stk6	H3013F02		-2.057	2.333
+SIGNAL TRANSDUCTION	Serpentine receptor	Cyt28	H3149F11		-2.005	1.246
+SIGNAL TRANSDUCTION	SKAP55 homolog	Saps	H3042D05		-2.38	3.615
+SIGNAL TRANSDUCTION	TNF receptor associated factor	Traf1	H3015E06	NF-kB dependent	-2.011	1.243
+SIGNAL TRANSDUCTION	Tumor-associated calcium signal transducer	Tacsd1	H3082F06		-3.288	1.679
+NUCLEAR PROTEINS/TRANSCRIPTION FACTORS	AE-binding protein2	Aebp2	H3025D08		-2.659	2.281
+NUCLEAR PROTEINS/TRANSCRIPTION FACTORS	Adaptor protein complex AP-1	Ap1s1	H3009H09		-2.546	2.101
+NUCLEAR PROTEINS/TRANSCRIPTION FACTORS	Cbp/p300 interacting transactivation	Cited4	H3076H08	NF-kB co-activator	-2.178	2.745
+NUCLEAR PROTEINS/TRANSCRIPTION FACTORS	High mobility group box 1	Hmgb1	H3126A05	binds p50 subunit	-3.104	1.739
+NUCLEAR PROTEINS/TRANSCRIPTION FACTORS	Hypoxia inducible factor 1	Hif1a	H3016A01		-2.127	1.062
+NUCLEAR PROTEINS/TRANSCRIPTION FACTORS	Jumonji	Jmj	H3104F06		-2.579	3.226
+NUCLEAR PROTEINS/TRANSCRIPTION FACTORS	Jun oncogene	Jun	H3058C09	NF-kB co-activator	-2.906	2.057
+NUCLEAR PROTEINS/TRANSCRIPTION FACTORS	LPS induced TNF alpha factor	Litaf	H3051H03		-2.364	3.487
+NUCLEAR PROTEINS/TRANSCRIPTION FACTORS	Rab 18	Rab18	J0920A09		-2.688	2.776
+NUCLEAR PROTEINS/TRANSCRIPTION FACTORS	Ras-related C3	Rac1	H3018C09	inducer of NF-kB	-2.004	3.329
+NUCLEAR PROTEINS/TRANSCRIPTION FACTORS	Signal transducer & activator	Stat3	H3158G04		-2.009	1.776
+NUCLEAR PROTEINS/TRANSCRIPTION FACTORS	Special AT-rich sequence	Satb1	H3032H03		-3.177	2.144
+NUCLEAR PROTEINS/TRANSCRIPTION FACTORS	Transcription factor 7 like 1	Tcf7l1	H3004D03		-2.08	1.204
+RNA PROCESSING	FGF inducible 14	Fin14	H3018G01		-1.914	3.204
+RNA PROCESSING	Nuclear protein 220	Np220	H3029A07		-2.259	1.827
+RNA PROCESSING	Nuclear ribonuclease	Hnrpa2b1	H3015F09		-2.122	3.021
+RNA PROCESSING	RNA polymerase II	Rpo2-3	H3055H08	co-activator of p65	-2.639	4.501
+RNA PROCESSING	Stem-loop binding protein	Slbp	H3113A01		-1.901	1.973
+PROTEIN SYNTHESIS/MODIFICATION	Eukaryotic translation 4g2	Eif4g2	H3113E10		-4.698	2.222
+PROTEIN SYNTHESIS/MODIFICATION	Neural precursor expressed	Nedd4	H3104B06		-2.994	2.672
+PROTEIN SYNTHESIS/MODIFICATION	Nedd4 WW-binding protein 4	N4wbp4	H3062G06		-6.966	2.814
+STRUCTURAL PROTEINS	Actin related protein 2/3	Arpc1a	H3011E10		-2.333	2.814
+STRUCTURAL PROTEINS	Activin receptor interacting	Acvrip1	H3004E04		-2.188	1.001
+STRUCTURAL PROTEINS	Actopaxin	Actp	J1033F05		-2.398	1.755
+STRUCTURAL PROTEINS	Alpha 2 glycoprotein1	Azgp1	521249		-2.013	1.398
+STRUCTURAL PROTEINS	Beta spectrin 2	Spnb2	H3010G09		-3.781	1.015
+STRUCTURAL PROTEINS	Calponin 1	Cnn1	H3053E04		-2.956	1.553
+STRUCTURAL PROTEINS	Catenin alpha 1	Catna1	H3018E08		-1.996	1.723
+STRUCTURAL PROTEINS	Catenin beta	Catnb	H3031E05	regulated by IKK	-3.998	3.061
+STRUCTURAL PROTEINS	Fibronectin	Fn1	H3116A10	NF-kB site in promoter	-6.201	4.723
+STRUCTURAL PROTEINS	Melanoma X-actin	Actx	J0056A11		-3.004	2.043
+STRUCTURAL PROTEINS	Microtubule associated protein	Mtap7	H3085D05		-2.113	1.009
+STRUCTURAL PROTEINS	Moesin	Msn	H3044C12		-2.01	1.928
+STRUCTURAL PROTEINS	Myosin 1B	Myo1b	H3001A08		-2.888	1.915
+STRUCTURAL PROTEINS	Shroom	Shrm	H3115E04		-1.901	2.374
+STRUCTURAL PROTEINS	Syndecan binding protein	Sdcbp	H3030C02		-2.563	1.981
+STRUCTURAL PROTEINS	Syndecan 2	Sdc2	H3142D10		-4.636	3.133
+STRUCTURAL PROTEINS	Tenascin C	Tnc	L0062E01	NF-kB site in promoter	-2.557	1.956
+OTHER	Amino terminal enhancer of split	Aes	H3137H06	co-repressor of NF-kB	-3.311	3.356
+OTHER	Annexin A7	Anxa7	H3149E08		-2.833	2.392
+OTHER	B-cell translocation gene	Btg1	H3114D11		-2.007	1.303
+OTHER	Carbon catabolite repression	Ccr4	H3085H12		-2.131	2.656
+OTHER	CD24a antigen	Cd24a	H3109A05		-2.755	1.175
+OTHER	Deleted in polyposis	Dp1	J0420H06		-2.473	2.137
+OTHER	Inhibitor of DNA binding	Idb1	H3003F10	inducer of NF-kB	-2.882	2.378
+OTHER	Insulin-like growth factor r2	Igf2r	H3148G08		-2.765	2.494
+OTHER	Macrophage/erythroblast attacher	Maea	H3022C11		-2.155	1.332
+OTHER	Ninjurin 1	Ninj1	H3072B10		-2.579	4.878
+OTHER	Osteoblast specific factor	Osf2	L0225A05		-2.858	1.532
+OTHER	Pim-1 associated protein	PAP-1	H3032D09		-3.129	1.428
+OTHER	Progesterone receptor membrane component	Pgrmc	H3017B11		-2.736	1.815
+OTHER	Rabaptin 5	Rab5ep	H3002C01		-2.739	1.333
+OTHER	SAR1a gene homolog	Sara	H3019C12	inducer of NF-kB	-1.926	2.152
+OTHER	TGF beta inducible	Tgfb1i1	H3122H01		-2.157	2.302
+OTHER	Topoisomerase II alpha	Top2a	H3139A05	inducer of NF-kB	-2.427	2.893
+OTHER	Transgelin 2	Tagln2	H3017H12		-1.906	6.929
+OTHER	Tumor differentially expressed	Tde11	H3014H10		-2.593	1.18
+OTHER	Tumor protein D52	Tpd52l1	H3057B11		-2.199	1.781
+OTHER	Tumor suppressing subchromo	Tssc4	H3142E09		-2.008	1.362
+OTHER	WW domain binding 5	Wbp5	H3127H02		-2.087	3.313
+OTHER	Zinc finger protein 68	Zfp68	H3058F07		-4.122	5.885

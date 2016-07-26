@@ -1,0 +1,34 @@
+Curated Gene Symbol	Gene Symbol	Gene transcripts	Microarray (relative intensity) Control	Microarray (relative intensity) IL-1beta, 10 ng/ml	Microarray (relative intensity) Fold change	RT-PCR (pixel intensity) Control	RT-PCR (pixel intensity) IL-1beta, 10 ng/ml	RT-PCR (pixel intensity) Fold change	Gene Description
+CSF3	CSF3	Granulocyte CSF-3)	45.99	2530.75	76	ND			Highest up-regulated (20–76-fold)
+SELE	SELE	SELE (endothelial leukocyte adhesion molecule 1/E-selectin)	80.88	3683.5	65	ND			Highest up-regulated (20–76-fold)
+LIF	LIF	LIF (leukemia inhibitory factor)	332.04	16253.5	49	ND			Highest up-regulated (20–76-fold)
+ADORA2A	ADORA2A	ADORA2A (adenosine A2A receptor)	68.51	1699	31	ND			Highest up-regulated (20–76-fold)
+PIM2	PIM2	PIM2 (serine threonine protein kinase)	251.93	6564.5	26	ND			Highest up-regulated (20–76-fold)
+PTGS2	PTGS2	PTGS2 (Cox-2)	1042.71	24325.25	23	ND			Highest up-regulated (20–76-fold)
+IL6	IL6	IL-6	2508.05	65050.5	26	0	8923	>>	Highest up-regulated (20–76-fold)
+NOS2P2	NOS2B	NOS2B	491.39	11247.5	23	0	8576	>>	Highest up-regulated (20–76-fold)
+	IL-1beta	IL-1beta	219.19	4123	20	0	8232	>>	Highest up-regulated (20–76-fold)
+RAC1	RAC1	RAC1 (RAS-like protein TC25)	574.16	12403.5	20	ND			Highest up-regulated (20–76-fold)
+NOS2	NOS2A	NOS2A (inducible NOS, type II)	324.74	6186	20	ND			Highest up-regulated (20–76-fold)
+CXCL2	CXCL2	CXCL2 (GRO-alpha)	434.41	32632.25	75	ND			Chemokine transcripts Group 1 (25–75-fold)
+IL8	CXCL8	CXCL8 (IL-8)	1159.28	65126.5	57	0	8607	>>	Chemokine transcripts Group 1 (25–75-fold)
+CXCL1	CXCL1	CXCL1 (GRO-alpha)	1648.54	65214.75	40	0	7337	>>	Chemokine transcripts Group 1 (25–75-fold)
+CXCL3	CXCL3	CXCL3 (GRO-gamma)	485.25	18605.75	40	ND			Chemokine transcripts Group 1 (25–75-fold)
+CCL4	CCL4	CCL4 (MIP-1beta)	221.41	6616	36	ND			Chemokine transcripts Group 1 (25–75-fold)
+CCL20	CCL20	CCL20 (MIP-3alpha)	1902.24	65190.25	35	0	8926	>>	Chemokine transcripts Group 1 (25–75-fold)
+CCL3L1	CCL3L1	CCL3L1 (LD78beta)	346.8	12004.5	34	ND			Chemokine transcripts Group 1 (25–75-fold)
+CXCL6	CXCL6	CXCL6 (GCP-2)	2040.93	56281.75	28	0	8532	>>	Chemokine transcripts Group 1 (25–75-fold)
+CCL3	CCL3	CCL3 (MIP-1alpha)	343.49	8495.75	25	ND			Chemokine transcripts Group 1 (25–75-fold)
+CCL5	CCL5	CCL5 (RANTES)	149.47	1686	12	ND			Chemokine transcripts Group 2 (3–12-fold)
+CXCL5	CXCL5	CXCL5 (ENA-78)	663.2	4155	6	ND			Chemokine transcripts Group 2 (3–12-fold)
+CX3CL1	CX3CL1	CX3CL1 (fractalkine)	237.9	1414.25	6	0	8080	>>	Chemokine transcripts Group 2 (3–12-fold)
+CCL2	CCL2	CCL2 (MCP-1)	3151.44	13374.75	4	2345	8996	3.84	Chemokine transcripts Group 2 (3–12-fold)
+CCL8	CCL8	CCL8 (MCP-2)	47.77	181	3	ND			Chemokine transcripts Group 2 (3–12-fold)
+NOS2P1	NOS2C	NOS2C	825.84	12485.75	15	ND			Other transcripts of interest
+IL24	IL24	IL-24	79.43	906.75	15	ND			Other transcripts of interest
+NFKBIA	NFKBIA	NFKBIA	1424.45	20898.5	15	0	8834	>>	Other transcripts of interest
+MMP13	MMP13	MMP-13	6784.55	42234.75	6	2097	8232	3.93	Other transcripts of interest
+COL2A1	COL2A1	COL2A1	11152.09	4873	0.44	8524	4341	0.51	Other transcripts of interest
+ADAMTS5	ADAMTS5	ADAMTS-5	1566.57	205.75	0.13	8473	4211	0.5	Other transcripts of interest
+	Aggrecan	Aggrecan	NDT	NDT	–	8718	4771	0.55	Other transcripts of interest
+BMP2	BMP2	BMP-2	NDT	NDT	–	6742	8482	1.26	Other transcripts of interest

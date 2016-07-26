@@ -1,0 +1,53 @@
+Gene Symbol	Gene Description	Signal Log Ratio (fold change log2) 1	2	3	4	5	6	7	8	9	10	Function	Expression
+AK1	adenylate kinase 1	0.05	-0.19	-0.3	0.15	-0.42	0.82	-0.31	-0.34	-0.47	-0.32	Signal Transduction	Down-regulated
+HPCAL1	hippocalcin-like 1	0.17	-0.42	0.13	-0.02	-0.76	0.3	-0.38	-0.31	-0.24	-0.53	Signal Transduction	Down-regulated
+NTRK2	neurotrophic tyrosine kinase receptor type 2 (trkB)	-0.29	0.52	-0.63	-0.32	-0.4	-0.4	-0.43	0.29	0.46	-1	Signal Transduction	Down-regulated
+NUCKS	similar to rat ubiquitous casein kinase 2	-0.39	-0.28	0.08	-0.62	-0.28	-0.57	0.17	-0.17	0.97	-1.23	Signal Transduction	Down-regulated
+APP	amyloid beta precursor protein	0.23	0.42	0.27	-0.03	-0.1	-0.33	0.53	0.4	0.42	0.36	Signal Transduction	Up-regulated
+CNK2	connector enhancer of KSR2	0.61	-0.11	0.64	1.1	1.06	0.07	0.43	0.01	-0.17	0.55	Signal Transduction	Up-regulated
+ENPP5	ectonucleotide pyrophosphatase/phosphodiesterase 5	1.16	-0.69	-0.04	0.94	0.43	-0.16	0.39	0.42	0.12	0.3	Signal Transduction	Up-regulated
+GEM GTP	binding protein overexpressed in skeletal muscle	1.58	0.41	-0.47	-0.24	-0.25	0.2	0.79	0.74	0.43	0.71	Signal Transduction	Up-regulated
+PPP2R2C	protein phosphatase 2, regulatory subunit B, gamma isoform	-1.21	-0.23	0.58	-0.23	-0.32	-0.46	-0.57	-0.48	0.07	-0.87	Signal Transduction	Down-regulated
+DEAF1	deformed epidermal autoregulatory factor 1	-0.66	-0.47	0.13	0.07	-0.57	-0.3	-0.67	-0.45	0.14	-0.55	Translation/Transcription/RNA Processing	Down-regulated
+EEF1G	eukaryotic translation elongation factor 1, gamma	0.24	-0.4	-0.42	-0.18	-0.2	-0.08	-0.46	-0.27	-0.21	-0.69	Translation/Transcription/RNA Processing	Down-regulated
+RPS10	ribosomal protein S10	0.13	-0.44	-0.39	-0.13	-0.27	-0.41	-0.33	-0.18	0.14	-0.53	Translation/Transcription/RNA Processing	Down-regulated
+RPS9	ribosomal protein S9	-0.1	-0.03	-0.39	-0.13	-0.47	0.21	-0.54	-0.54	-0.45	-0.53	Translation/Transcription/RNA Processing	Down-regulated
+EIF5A	eukaryotic translation initiation factor 5A	-0.35	-1.26	0.84	-0.23	-1.02	-0.91	-0.78	-0.02	-0.78	-2.01	Translation/Transcription/RNA Processing	Up-regulated
+EYA1	eyes absent homolog 1	-0.59	0.88	0.75	0.29	2.33	-1.25	0.18	0.41	1.01	0.68	Translation/Transcription/RNA Processing	Up-regulated
+NEDD4L	downregulated 4-like	0.28	0.39	0.37	0.47	0.79	0.57	0.68	-0.85	-0.61	0.39	Translation/Transcription/RNA Processing	Up-regulated
+TMEPAI	transmembrane, prostate androgen induced	0.63	0.23	0.28	0.26	0.98	0.54	0.26	0.36	0.22	0.46	Translation/Transcription/RNA Processing	Up-regulated
+TMEPAI	transmembrane, prostate androgen induced	0.8	0.27	0.22	0.73	0.85	-0.01	0.08	0.3	0.46	0.51	Translation/Transcription/RNA Processing	Up-regulated
+AP2S1	Adaptor related protein complex 2, sigma 1 subunit	0.11	-0.15	0.12	-0.05	-0.44	0.09	-0.49	-0.6	-0.42	-0.91	Neurotransmission/Synaptic Function/Membrane Recycling	Down-regulated
+CLTB	clathrin, light polypeptide	0.24	-0.35	0.31	0.07	-0.46	0.28	-0.43	-0.34	-0.54	-0.39	Neurotransmission/Synaptic Function/Membrane Recycling	Down-regulated
+CART	cocaine- and amphetamine-regulated transcript	0.09	-0.12	0.62	1.12	0.39	0.38	-0.1	0.67	0.4	0.79	Neurotransmission/Synaptic Function/Membrane Recycling	Up-regulated
+NETO2	neuropilin (NRP) and tolloid (TLL)-like2	0.45	0.15	0.63	0.89	1.29	-0.02	0.24	-0.1	-0.93	0.45	Neurotransmission/Synaptic Function/Membrane Recycling	Up-regulated
+PDYN	prodynorphin	-0.31	0.02	0.35	0.29	1.12	0.37	0.56	0.53	-0.06	0.22	Neurotransmission/Synaptic Function/Membrane Recycling	Up-regulated
+PCSK1N	proprotein convertase subtilisin/kexin type 1 inhibitor	0.27	-0.39	0.06	0.18	-0.45	0.35	-0.4	-0.22	-0.42	-0.41	Neurotransmission/Synaptic Function/Membrane Recycling	Down-regulated
+MBP	myelin basic protein	-1.38	0.08	-0.78	-1.45	-1.14	-1.01	-1.3	-0.53	0.07	-1.94	Glial	Down-regulated
+MBP 	myelin basic protein	-0.9	0.14	-0.4	-0.72	-0.64	-0.79	-0.6	-0.14	0.34	-0.97	Glial	Down-regulated
+MOBP	myelin-associated oligodendrocyte basic protien	-1.85	-0.23	-0.24	-1.06	-1.61	-0.48	-1.11	-0.18	0.21	-1.48	Glial	Down-regulated
+PLP1	proteolipid protein 1	-1.43	-0.73	0.23	-0.93	-0.27	-0.32	0.2	0.07	0.15	-0.66	Glial	Down-regulated
+CRYAB	crystallin, alpha B	1.44	-0.59	-0.36	0.42	-0.35	-0.45	-0.4	-0.11	0.5	-0.55	Glial	Down-regulated
+MAL2	mal, T-cell differentiation protein 2	0.9	0.25	0.64	0.69	1.29	-0.39	-0.04	0.48	-0.02	0.58	Glial	Up-regulated
+CRYBB2	crystallin, beta B2	-0.76	-1.9	0.46	-1.44	-1.39	-0.32	1.05	-0.53	0.48	-1.15	Structural/Cell Adhesion	Down-regulated
+PNUTL2	peanut-like 2	-0.98	-0.08	-0.04	-0.78	-0.83	-0.49	-0.47	-0.02	-0.11	-0.94	Structural/Cell Adhesion	Down-regulated
+SPTBN1	beta II spectrin	-0.17	-0.38	-0.56	-0.11	-0.71	-0.3	-0.23	-0.26	-0.43	-0.61	Structural/Cell Adhesion	Down-regulated
+ACTN2	actinin, alpha 2	0.04	-0.03	0.15	0.43	1.6	0.63	0.52	0.66	0.7	0.33	Structural/Cell Adhesion	Up-regulated
+ICAP-1A	integrin cytoplasmic domain-associated protein 1	0.91	0.35	0.88	-0.87	1.18	-0.97	-0.08	-0.56	1.41	0.54	Structural/Cell Adhesion	Up-regulated
+C14orf52	chromosome 14 open reading frame 52	0.46	-0.36	-0.94	0.93	-1.85	-0.29	-1.03	0.71	-1.22	1.04	Other	Down-regulated
+NDRG2	NDRG family member 2	-0.38	0.08	-0.4	-0.17	-0.49	-0.46	-0.44	-0.26	-0.03	-0.63	Other	Down-regulated
+NDRG2	 NDRG family member 2	-0.56	0	-0.46	-0.94	-0.96	-0.68	-0.37	-0.35	-0.05	-0.85	Other	Down-regulated
+KL	klotho	0.76	0.74	0.33	1.34	0.81	-1.51	-0.37	0.24	0.51	0.58	Other	Up-regulated
+EDG2	endothelial differentiation, lysophosphatidic acid G-proteincoupled receptor, 2	-0.34	0.21	-0.44	-1.58	-0.84	-0.79	-0.56	0.18	0.43	-1.07	Receptors/Transporters/Ion Channels	Down-regulated
+TFRC	transferrin receptor	0.66	1.59	-0.17	-1.6	0.49	-0.29	0.4	0.01	1.12	0.3	Receptors/Transporters/Ion Channels	Up-regulated
+MSCP	mitochondrial solute carrier protein	0.6	0.36	0.61	0.77	0.8	0.39	-0.03	0.04	-0.27	-0.05	Receptors/Transporters/Ion Channels	Up-regulated
+C20orf110	chromosome 20 open reading frame 110	-0.99	0.38	-0.19	-1.2	-1.24	-0.41	-0.4	-0.27	0.34	-1.09	Immune/Stress Response/Chaperones	Down-regulated
+IBA2	ionized calcium binding adaptor molecule 2	-1.63	-0.18	0.22	-0.77	-0.65	-0.44	0.13	0.38	0.45	-0.51	Immune/Stress Response/Chaperones	Down-regulated
+HSPA5	heat shock 70kDa protein 5	0.41	-0.24	-0.68	1.02	0.54	0.24	-0.25	0.39	-0.47	0.52	Immune/Stress Response/Chaperones	Up-regulated
+RCL	putative c-myc-responsive	-0.49	-0.24	-0.15	-0.07	-0.36	0.22	-0.4	-0.2	-0.31	-0.27	Cell Cycle/Cell Growth	Down-regulated
+TOB1	transducer of ERBB2, 1	-0.54	-1.43	-0.42	0.53	-1.1	2.1	0.31	-0.77	-1.15	-0.72	Cell Cycle/Cell Growth	Down-regulated
+CUL4B	cullin 4B	0.25	-0.04	0.03	0.34	0.45	0.47	0.6	0.09	-0.01	0.28	Cell Cycle/Cell Growth	Up-regulated
+UBE2M	ubiquitin-conjugating enzyme E2M	-0.43	-0.32	0.1	-0.03	-0.52	-0.14	-0.94	-0.74	-0.24	-1.02	Protein Processing/Degradation/Modification	Down-regulated
+PA200	proteasome activator 200 kDa	0.5	0.03	0.28	0.42	0.74	-0.13	0.34	0.05	0.69	0.61	Protein Processing/Degradation/Modification	Up-regulated
+OSBPL1A	oxysterol binding protein-like 1A	-0.3	-0.39	-0.72	-0.75	-0.44	0.09	-0.34	-0.06	-0.34	-0.82	Lipid-Related	Down-regulated
+UGCG	UDP-glucose ceramide glucosyltransferase	0.38	-0.03	0.61	0.3	0.69	0.56	0.57	0.16	0.57	0.18	Lipid-Related	Up-regulated

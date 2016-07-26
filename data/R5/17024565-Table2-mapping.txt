@@ -1,0 +1,32 @@
+# Generate Mapping Tables Script: Version 4 11:06 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:06 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+hgnc_symbol|RNR2|RNR2
+hgnc_symbol|RNR1|RNR1
+hgnc_symbol|ATP6|ATP6
+hgnc_symbol|COX2|COX2
+hgnc_symbol|ND1|ND1
+hgnc_symbol|COX1|COX1
+hgnc_symbol|ND5|ND5
+hgnc_symbol|ATP8|ATP8
+hgnc_symbol|ND4|ND4
+hgnc_symbol|CYTB|CYTB
+hgnc_symbol|CYTB|CYTB
+hgnc_symbol|HBB|HBB
+hgnc_symbol|DNAJB1|DNAJB1
+hgnc_symbol|RPL10|RPL10
+hgnc_symbol|28S rRNA|28S rRNA
+hgnc_symbol|RPS4X|RPS4X
+hgnc_symbol|RPS12|RPS12
+hgnc_symbol|EEF1A1|EEF1A1
+hgnc_symbol|HSPA8|HSPA8
+hgnc_symbol|ZNF331|ZNF331
+hgnc_symbol|BCL11B|BCL11B
+hgnc_symbol|FOS|FOS
+hgnc_symbol|FTH1|FTH1
+hgnc_symbol|HERPUD1|HERPUD1
+hgnc_symbol|RPS15A|RPS15A
+hgnc_symbol|SARS-CoV M|SARS-CoV M

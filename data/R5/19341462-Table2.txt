@@ -1,0 +1,59 @@
+Ref.Seq	Gene Symbol	Illumina array fold change PMA24	Illumina array fold change LPS	Illumina array fold change VitD3	Real time PCR Ct Cont	Real time PCR Ct PMA24	Real time PCR RQ fold LPS	Real time PCR RQ fold VitD3	Function
+NM_002983	CCL3	7.1	197.3	1.4	26	27.9	776	1.6	Cytokines and Chemokines
+NM_000594	TNFa	3	121.4	1.6	29	13.9	119.4	1.1	Cytokines and Chemokines
+NM_000584	IL8	3.7	82.9	2.3	25	1.2	222.9	3.2	Cytokines and Chemokines
+NM_000575	IL1A	1.1	98.7	-1	35	5.7	2195	2.3	Cytokines and Chemokines
+NM_000576	IL1B	2.9	75.2	1.1	26	2.5	415.9	0.7	Cytokines and Chemokines
+NM_004591	CCL20	-1	47.6	1.1	30	2.1	724.1	0.9	Cytokines and Chemokines
+NM_000600	IL6	3.7	29.9	2.1	28	4.6	157.6	3.5	Cytokines and Chemokines
+NM_001565	IP10	7.5	23.4	-1	30	97	222.9	0.7	Cytokines and Chemokines
+NM_002089	CXCL2	1.2	16.5	1.1	28	0.4	48.5	1.7	Cytokines and Chemokines
+NM_002984	CCL4	1.1	1.7	1.1	35	52	80000	1.9	Cytokines and Chemokines
+NM_004233	CD83	1.8	10.4	-1.1	23	3.2	9.8	0.6	Surface molecules
+NM_001781	CD69	1.4	4.1	-1.4	21	3.2	4.9	0.9	Surface molecules
+NM_000632	CD11b	3.3	3.1	2.7	24	7.5	3	2.6	Surface molecules
+NM_000591	CD14	-1	1.2	22.4	29	1.1	1.1	45.3	Surface molecules
+NM_002423	MMP7	29.9	36.5	-1.4	28	512	181	0.6	Signaling and effector molecules
+NM_002658	PLAU	1.3	19.9	-1	28	1.1	5.3	0.6	Signaling and effector molecules
+NM_000265	NCF1	18.6	17.8	3.8	29	32	39.4	2.6	Signaling and effector molecules
+NM_005627	SGK	7.5	13	-1	22	10.6	52	1.6	Signaling and effector molecules
+NM_000389	p21	6.1	11.8	1.3	25	42.2	42.2	1.1	Signaling and effector molecules
+NM_000014	A2M	10.4	11.5	1.1	30	52	32	3.2	Signaling and effector molecules
+NM_004994	MMP9	8.4	8.3	-1.2	30	21.1	9.2	1.1	Signaling and effector molecules
+NM_000228	LAMB3	2.9	6.5	8.5	28	32	19.7	64	Signaling and effector molecules
+NM_002468	MYD88	4.5	4.2	1.4	27	27.9	7.5	1.5	Signaling and effector molecules
+NM_000064	C3	1.8	2.3	-1	27	119.4	42.2	1.2	Signaling and effector molecules
+NM_003264	TLR2	1.4	1.6	1.1	31	11.3	3.2	2	Signaling and effector molecules
+NM_000215	JAK3	1.5	1.7	1.1	18	5.7	4.9	1.4	Signaling and effector molecules
+NM_004345	LL37	-1.2	-1.3	32.1	30	1.3	0.8	84.4	Signaling and effector molecules
+NM_001775	CD38	-1.9	-2	5.9	22	1.1	0.2	7.5	Signaling and effector molecules
+NM_001911	CTSG	-3.4	-4.8	-1.3	21	0.03	0.01	0.6	Signaling and effector molecules
+NM_006573	TNFSF13B	-4.3	-5.1	-1.2	22	0.3	0.1	1.9	Signaling and effector molecules
+NM_000250	MPO	-8.3	-9.6	-1.1	17	0.1	0.03	1.1	Signaling and effector molecules
+NM_005384	NFIL3	3.1	4.9	-1.3	27	9.8	78.8	3.2	Transcription factors/Histone modifiers
+NM_000321	RB1	2.2	1.8	1	19	3	1.1	-0.2	Transcription factors/Histone modifiers
+NM_005461	MAFB	3.3	35.8	1.2	27	17.1	18.4	-1.1	Transcription factors/Histone modifiers
+NM_005587	MEF2A	4	4.4	1.1	19	9.2	4.3	1.1	Transcription factors/Histone modifiers
+NM_002397	MEF2C	1.8	1.9	-1.2	19	8	4.3	1.6	Transcription factors/Histone modifiers
+NM_005920	MEF2D	2.1	7.9	-1.1	26	1.1	3	0.5	Transcription factors/Histone modifiers
+NM_021958	HLX1	2.2	2.3	-1	23	10.6	3.5	1.2	Transcription factors/Histone modifiers
+NM_021999	BRI	2.6	2.2	-1.2	22	8.6	3.7	1.2	Transcription factors/Histone modifiers
+NM_005474	HDAC5	NA			24	4.9	4	0.8	Transcription factors/Histone modifiers
+NM_012412	H2AV	NA			19	2.6	1	1.3	Transcription factors/Histone modifiers
+NM_173158	Nur77	1.2	11.7	1.1	35	1.1	2.3	1	Transcription factors/Histone modifiers
+NM_001706	BCL6	7.6	19.5	1.6	25	78.8	34.3	8	Transcription factors/Histone modifiers
+NM_001964	EGR1	4.2	13.6	1.1	27	14.9	1.2	1.4	Transcription factors/Histone modifiers
+NM_005252	FOS	2.4	3.3	-1.5	26	32	2.6	0.9	Transcription factors/Histone modifiers
+NM_002167	ID3	11.9	38.9	2.7	30	13	18.4	8	Transcription factors/Histone modifiers
+NM_006084	IRF9	2.5	2.8	1	25	214.5	5.3	1.4	Transcription factors/Histone modifiers
+NM_000399	EGR2	5.3	27.3	1.1	28	5.3	4.3	2.5	Transcription factors/Histone modifiers
+NM_016270	KLF2	13.9	9.8	-1.3	26	32	97	0.5	Transcription factors/Histone modifiers
+NM_021784	FOXA2	4.9	2.9	-1	30	73.5	16	0.3	Transcription factors/Histone modifiers
+NM_005524	HES1	2.8	2.8	1.2	32	27.9	64	0.8	Transcription factors/Histone modifiers
+NM_004235	KLF4	1.5	1.7	-1	27	3.7	3	1.9	Transcription factors/Histone modifiers
+NM_002698	OCT2	2.1	3.3	-1.2	26	14.9	7	0.4	Transcription factors/Histone modifiers
+NM_030756	TCF7L2	3	2.8	-1.2	21	8.6	5.3	0.5	Transcription factors/Histone modifiers
+NM_004030	IRF7	2.2	2.6	-1.3	26	13	4.6	1.2	Transcription factors/Histone modifiers
+NM_014707	HDAC7	3.2	2.5	-1.2	22	29.9	16	0.7	Transcription factors/Histone modifiers
+NM_003884	PCAF	2	1.8	-1.2	25	3.7	1.4	0.8	Transcription factors/Histone modifiers
+NM_005919	MEF2B	1.3	1.4	1.3	27	6.5	0.4	0.8	Transcription factors/Histone modifiers

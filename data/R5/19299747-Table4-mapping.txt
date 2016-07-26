@@ -1,0 +1,27 @@
+# Generate Mapping Tables Script: Version 4 11:05 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:05 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+entrezgene|N63940|43	hgnc_symbol|ACHE|ACHE
+entrezgene|AA683578|100	hgnc_symbol|ADA|ADA
+entrezgene|AA455941|327	hgnc_symbol|APEH|APEH
+entrezgene|AA425102|6347	hgnc_symbol|CCL2|CCL2
+entrezgene|AA101971|2113	hgnc_symbol|ETS1|ETS1
+entrezgene|AA410375|2766	hgnc_symbol|GMPR|GMPR
+entrezgene|H50114|2905	hgnc_symbol|GRIN2C|GRIN2C
+entrezgene|T80846|23498	hgnc_symbol|HAAO|HAAO
+entrezgene|AA457705|8870	hgnc_symbol|IER3|IER3
+entrezgene|AI870374|23641	hgnc_symbol|LDOC1|LDOC1
+embl|R83837|R83837	hgnc_symbol|LYN|LYN
+embl|H86558|H86558	hgnc_symbol|MAD|MAD
+refseq_dna|NM_012219|NM_012219	hgnc_symbol|MRAS|MRAS
+entrezgene|AA872383|4493	hgnc_symbol|MT1E|MT1E
+entrezgene|N55459|4494	hgnc_symbol|MT1F|MT1F
+entrezgene|H77597|4496	hgnc_symbol|MT1H|MT1H
+entrezgene|AA446246|4893	hgnc_symbol|NRAS|NRAS
+entrezgene|AI952615|1026	hgnc_symbol|p21|p21
+entrezgene|AA258001|5971	hgnc_symbol|RELB|RELB
+entrezgene|AI473336|8840	hgnc_symbol|WISP1|WISP1
+entrezgene|AA425900|10309	hgnc_symbol|UNG2|UNG2

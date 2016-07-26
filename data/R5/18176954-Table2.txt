@@ -1,0 +1,21 @@
+No	Metastasis- miRNA	Genomic Location	Parametric P-Value	Mean Intensities inM	Mean Intensities inNM	Ratio (M/NM)	Expressed in Metastatic HCC	Host targets	Survival-miRNA
+1	hsa-mir-338	17q25.3	0.0001	356	250	1.42	up	IRF2	hsa-mir-338
+2	hsa-mir-219-1	6p21.32	0.0002	578	391	1.48	up	ADD2	hsa-mir-219-1
+3	hsa-mir-207	9p21.1	0.0002	3676	2432	1.51	up	n.a.
+4	hsa-mir-185	22q11.21	0.0009	461	346	1.33	up	KCNN3
+5	hsa-mir-30c-1	1p34.2	0.0001	813	1618	0.5	down	KIAA0063	hsa-mir-30c-1
+6	hsa-mir-1-2	18q11.2	0.0002	294	571	0.51	down	G3BP2;GCLC;HAND2;TMSB4X;HDAC4;GJA1;KCNJ2	hsa-mir-1-2
+7	hsa-mir-34a	1p36.2	0.0004	261	539	0.48	down	SPTBN2;E2F3,DLL1,NOTCH1
+8	hsa-mir-19a	13q31.3	0.0004	535	947	0.56	down	PTEN	hsa-mir-19a
+9	hsa-mir-148a	7p15.2	0.0004	539	1084	0.5	down	GTF2H1;PSCD3	hsa-mir-148a
+10	hsa-mir-124a-2	8q12.3	0.0004	236	448	0.53	down	VAMP3;MTPN;MAPK14	hsa-mir-124a-2
+11	hsa-mir-9-2	5q14.3	0.0005	197	347	0.57	down	RAB8A;SLC20A2;VAMP3	hsa-mir-9-2
+12	hsa-mir-148b	12q13.13	0.0005	578	1063	0.54	down	GTF2H1;PSCD3	hsa-mir-148b
+13	hsa-mir-122a	18q21.31	0.0005	466	781	0.6	down	GYS1;CAT-1	hsa-mir-122a
+14	hsa-mir-125b-2	21q21.1	0.0007	1346	2337	0.58	down	ITGA9;YES1;LIN28	hsa-mir-125b-2
+15	hsa-mir-194	1q41	0.0008	406	689	0.59	down	HBEGF	hsa-mir-194
+16	hsa-mir-30a	6q13	0.0008	2915	4572	0.64	down	KIAA0063;VERATIN;TMEM2;THBS1,SLC7A6;PRO2730;TUBA3;CYR61;CDK6	hsa-mir-30a
+17	hsa-mir-126	9q34.3	0.0009	226	395	0.57	down	n.a.	hsa-mir-126
+18	hsa-let-7g	3p21.2	0.0009	582	838	0.69	down	PSCD3;KRAS;NRAS
+19	hsa-mir-15a	13q14.2	0.001	294	461	0.64	down	ASPH;SLC20A2;SPTBN2;DMTF1;BCL2	hsa-mir-15a
+20	hsa-mir-30e	1p34.2	0.001	960	1512	0.63	down	KIAA0063	hsa-mir-30e

@@ -1,0 +1,164 @@
+# Generate Mapping Tables Script: Version 4 11:08 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:08 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+unigene|Mm.970|Mm.970	mgi_symbol|Ckmt1|Ckmt1	mgi_symbol|Ckmt1|Ckmt1	mgi_symbol|Mt-CK|Mt-CK	mgi_symbol|mi-CK|mi-CK	mgi_symbol|ScCKmit|ScCKmit	mgi_symbol|UbCKmit|UbCKmit
+unigene|Mm.17911|Mm.17911	mgi_symbol|Lgals4|Lgals4
+unigene|Mm.38994|Mm.38994	mgi_symbol|D10Ertd749e|D10Ertd749e	mgi_symbol|D10Ertd749e|D10Ertd749e	mgi_symbol|Zwint-1|Zwint-1	mgi_symbol|2010007E07Rik|2010007E07Rik	mgi_symbol|2600001N01Rik|2600001N01Rik
+unigene|Mm.26127|Mm.26127	mgi_symbol|2210401J11Rik|2210401J11Rik
+unigene|Mm.4550|Mm.4550	mgi_symbol|Atp1b1|Atp1b1	mgi_symbol|Atp1b1|Atp1b1	mgi_symbol|Atpb|Atpb	mgi_symbol|Atpb-1|Atpb-1
+unigene|Mm.28217|Mm.28217	mgi_symbol|Epb4.1l4b|Epb4.1l4b	mgi_symbol|Epb4.1l4b|Epb4.1l4b	mgi_symbol|Ehm2|Ehm2	mgi_symbol|D4Ertd346e|D4Ertd346e
+unigene|Mm.28756|Mm.28756	mgi_symbol|Slc39a1|Slc39a1	mgi_symbol|Slc39a1|Slc39a1	mgi_symbol|MTP|MTP	mgi_symbol|Ol5|Ol5	mgi_symbol|Dusg|Dusg	mgi_symbol|FPN1|FPN1	mgi_symbol|Fpn1|Fpn1	mgi_symbol|MTP1|MTP1	mgi_symbol|IREG1|IREG1	mgi_symbol|Slc11a3|Slc11a3
+unigene|Mm.11869|Mm.11869	mgi_symbol|AI427122|AI427122
+unigene|Mm.4641|Mm.4641	mgi_symbol|Tff3|Tff3	mgi_symbol|Tff3|Tff3	mgi_symbol|ITF|ITF	mgi_symbol|mITF|mITF
+unigene|Mm.100144|Mm.100144	mgi_symbol|S100a6|S100a6	mgi_symbol|S100a6|S100a6	mgi_symbol|Cacy|Cacy
+unigene|Mm.205520|Mm.205520	mgi_symbol|A430096B05Rik|A430096B05Rik
+unigene|Mm.7244|Mm.7244	mgi_symbol|Agr2|Agr2	mgi_symbol|Agr2|Agr2	mgi_symbol|Agr2h|Agr2h	mgi_symbol|Gob-4|Gob-4	mgi_symbol|HAG-2|HAG-2	mgi_symbol|XAG-2|XAG-2	mgi_symbol|mAG-2|mAG-2
+unigene|Mm.29975|Mm.29975	mgi_symbol|Gatm|Gatm	mgi_symbol|Gatm|Gatm	mgi_symbol|AT|AT	mgi_symbol|1810003P21Rik|1810003P21Rik
+unigene|Mm.6853|Mm.6853	mgi_symbol|Sprr2a|Sprr2a
+unigene|Mm.4063|Mm.4063	mgi_symbol|Ndr1|Ndr1
+unigene|Mm.28958|Mm.28958	mgi_symbol|9130011B11Rik|9130011B11Rik
+unigene|Mm.4325|Mm.4325	mgi_symbol|Klf4|Klf4	mgi_symbol|Klf4|Klf4	mgi_symbol|Zie|Zie	mgi_symbol|GKLF|GKLF	mgi_symbol|Gklf|Gklf
+unigene|Mm.259702|Mm.259702	mgi_symbol|Anxa4|Anxa4	mgi_symbol|Anxa4|Anxa4	mgi_symbol|Anx4|Anx4	mgi_symbol|Xanx-4|Xanx-4
+unigene|Mm.31250|Mm.31250	mgi_symbol|2810423A18Rik|2810423A18Rik
+unigene|Mm.56769|Mm.56769	mgi_symbol|Dcn|Dcn	mgi_symbol|Dcn|Dcn	mgi_symbol|DC|DC
+unigene|Mm.2614|Mm.2614	mgi_symbol|Guca2|Guca2
+unigene|Mm.3126|Mm.3126	mgi_symbol|Fhl1|Fhl1	mgi_symbol|Fhl1|Fhl1	mgi_symbol|KyoT|KyoT	mgi_symbol|KyoT1|KyoT1	mgi_symbol|KyoT2|KyoT2
+unigene|Mm.24163|Mm.24163	mgi_symbol|Asc-pending|Asc-pending	mgi_symbol|Asc-pending|Asc-pending	mgi_symbol|masc|masc	mgi_symbol|PYCARD|PYCARD	mgi_symbol|9130417A21Rik|9130417A21Rik
+unigene|Mm.34609|Mm.34609	mgi_symbol|Plac8|Plac8	mgi_symbol|Plac8|Plac8	mgi_symbol|C15|C15
+unigene|Mm.29080|Mm.29080	mgi_symbol|1810074H01Rik|1810074H01Rik
+unigene|Mm.10633|Mm.10633	mgi_symbol|Hmgcs2|Hmgcs2	mgi_symbol|Hmgcs2|Hmgcs2	mgi_symbol|mHS|mHS	mgi_symbol|1300002P16|1300002P16
+unigene|Mm.28497|Mm.28497	mgi_symbol|Ppp1r1b|Ppp1r1b	mgi_symbol|Ppp1r1b|Ppp1r1b	mgi_symbol|Darpp32|Darpp32	mgi_symbol|DARPP-32|DARPP-32
+unigene|Mm.29483|Mm.29483	mgi_symbol|1600025H15Rik|1600025H15Rik
+unigene|Mm.24457|Mm.24457	mgi_symbol|Aldh1b1|Aldh1b1	mgi_symbol|Aldh1b1|Aldh1b1	mgi_symbol|2700007F14Rik|2700007F14Rik
+unigene|Mm.2777|Mm.2777	mgi_symbol|Tpd52|Tpd52	mgi_symbol|Tpd52|Tpd52	mgi_symbol|mD52|mD52
+unigene|Mm.1949|Mm.1949	mgi_symbol|Col6a2|Col6a2	mgi_symbol|Col6a2|Col6a2	mgi_symbol|Col6a-2|Col6a-2	mgi_symbol|MGC36205|MGC36205
+unigene|NA|NA
+unigene|Mm.21864|Mm.21864	mgi_symbol|2310075E07Rik|2310075E07Rik
+unigene|Mm.200916|Mm.200916	mgi_symbol|Gpx3|Gpx3	mgi_symbol|Gpx3|Gpx3	mgi_symbol|GPx|GPx
+unigene|Mm.216438|Mm.216438
+unigene|Mm.168712|Mm.168712	mgi_symbol|Col1a2|Col1a2	mgi_symbol|Col1a2|Col1a2	mgi_symbol|oim|oim	mgi_symbol|Cola2|Cola2	mgi_symbol|Cola-2|Cola-2	mgi_symbol|Col1a-2|Col1a-2
+unigene|Mm.6800|Mm.6800	mgi_symbol|Krt2-8|Krt2-8	mgi_symbol|Krt2-8|Krt2-8	mgi_symbol|K8|K8	mgi_symbol|EndoA|EndoA	mgi_symbol|Krt-2.8|Krt-2.8
+unigene|Mm.205791|Mm.205791	mgi_symbol|Atp1a1|Atp1a1	mgi_symbol|Atp1a1|Atp1a1	mgi_symbol|Atpa-1|Atpa-1	mgi_symbol|MGC38419|MGC38419
+unigene|Mm.3982|Mm.3982	mgi_symbol|Gas6|Gas6	mgi_symbol|Gas6|Gas6	mgi_symbol|Gas-6|Gas-6
+unigene|Mm.1012|Mm.1012	mgi_symbol|Krt1-19|Krt1-19	mgi_symbol|Krt1-19|Krt1-19	mgi_symbol|K19|K19	mgi_symbol|EndoC|EndoC	mgi_symbol|Krt-1.19|Krt-1.19	mgi_symbol|MGC25344|MGC25344
+unigene|Mm.2735|Mm.2735	mgi_symbol|Cubn|Cubn	mgi_symbol|CUBN|CUBN	mgi_symbol|D2Wsu88e|D2Wsu88e
+unigene|Mm.183126|Mm.183126	mgi_symbol|2210409B01Rik|2210409B01Rik	mgi_symbol|2210409B01Rik|2210409B01Rik	mgi_symbol|NG22|NG22
+unigene|Mm.28870|Mm.28870
+unigene|Mm.28986|Mm.28986	mgi_symbol|Sqrdl|Sqrdl	mgi_symbol|Sqrdl|Sqrdl	mgi_symbol|0610039J17Rik|0610039J17Rik	mgi_symbol|4930557M22Rik|4930557M22Rik
+unigene|Mm.156583|Mm.156583	mgi_symbol|Car8|Car8	mgi_symbol|Cals|Cals	mgi_symbol|Carp|Carp	mgi_symbol|Cals1|Cals1
+unigene|Mm.22621|Mm.22621	mgi_symbol|Col1a1|Col1a1	mgi_symbol|Cola1|Cola1	mgi_symbol|Mov13|Mov13	mgi_symbol|Cola-1|Cola-1	mgi_symbol|Mov-13|Mov-13	mgi_symbol|Col1a-1|Col1a-1
+unigene|Mm.22699|Mm.22699	mgi_symbol|Sepp1|Sepp1	mgi_symbol|Sepp1|Sepp1	mgi_symbol|selp|selp	mgi_symbol|D15Ucla1|D15Ucla1
+unigene|Mm.27800|Mm.27800	mgi_symbol|1810029G24Rik|1810029G24Rik
+unigene|Mm.27861|Mm.27861	mgi_symbol|P2rx4|P2rx4	mgi_symbol|P2rx4|P2rx4	mgi_symbol|P2X4|P2X4	mgi_symbol|D5Ertd444e|D5Ertd444e
+unigene|Mm.2974|Mm.2974	mgi_symbol|Fbp2|Fbp2	mgi_symbol|Fbp2|Fbp2	mgi_symbol|Fbp1|Fbp1	mgi_symbol|Fbp-1|Fbp-1
+unigene|Mm.42472|Mm.42472	mgi_symbol|Ugt1a1|Ugt1a1	mgi_symbol|Gnt1|Gnt1	mgi_symbol|UGT1A01|UGT1A01	mgi_symbol|Udpgt-1a|Udpgt-1a
+unigene|Mm.97885|Mm.97885	mgi_symbol|Bace2|Bace2	mgi_symbol|Bace2|Bace2	mgi_symbol|1110059C24Rik|1110059C24Rik
+unigene|Mm.4259|Mm.4259	mgi_symbol|Tacstd1|Tacstd1	mgi_symbol|Tacstd1|Tacstd1	mgi_symbol|EGP|EGP	mgi_symbol|Ly74|Ly74	mgi_symbol|TROP1|TROP1	mgi_symbol|Egp314|Egp314	mgi_symbol|Ep-CAM|Ep-CAM	mgi_symbol|Tacsd1|Tacsd1	mgi_symbol|GA733-2|GA733-2
+unigene|Mm.249788|Mm.249788	mgi_symbol|Gmds|Gmds	mgi_symbol|Gmds|Gmds	mgi_symbol|MGC18773|MGC18773
+unigene|Mm.8856|Mm.8856	mgi_symbol|Neu1|Neu1	mgi_symbol|Neu1|Neu1	mgi_symbol|G9|G9	mgi_symbol|Apl|Apl	mgi_symbol|Aglp|Aglp	mgi_symbol|Bat7|Bat7	mgi_symbol|Map-2|Map-2	mgi_symbol|Neu-1|Neu-1
+unigene|Mm.5885|Mm.5885	mgi_symbol|Tm9sf2|Tm9sf2	mgi_symbol|Tm9sf2|Tm9sf2	mgi_symbol|P76|P76	mgi_symbol|1500001N15Rik|1500001N15Rik
+unigene|Mm.4554|Mm.4554	mgi_symbol|Laptm5|Laptm5	mgi_symbol|Laptm5|Laptm5	mgi_symbol|E3|E3
+unigene|Mm.235090|Mm.235090	mgi_symbol|D930018N21Rik|D930018N21Rik
+unigene|Mm.20363|Mm.20363	mgi_symbol|Gale|Gale	mgi_symbol|Gale|Gale	mgi_symbol|2310002A12Rik|2310002A12Rik
+unigene|Mm.13705|Mm.13705	mgi_symbol|Rrbp1|Rrbp1	mgi_symbol|p180|p180	mgi_symbol|mRRp0|mRRp0	mgi_symbol|mRRp2|mRRp2	mgi_symbol|ES/130|ES/130	mgi_symbol|mRRp10|mRRp10	mgi_symbol|mRRp41|mRRp41	mgi_symbol|mRRp47|mRRp47	mgi_symbol|mRRp1.8|mRRp1.8	mgi_symbol|mRRp15a|mRRp15a	mgi_symbol|mRRp15b|mRRp15b	mgi_symbol|mRRp5.4|mRRp5.4	mgi_symbol|mRRp16.8|mRRp16.8	mgi_symbol|1700087N07Rik|1700087N07Rik	mgi_symbol|5730465C04Rik|5730465C04Rik
+unigene|Mm.24972|Mm.24972	mgi_symbol|Mvp|Mvp	mgi_symbol|Mvp|Mvp	mgi_symbol|LRP|LRP	mgi_symbol|VAULT1|VAULT1	mgi_symbol|2310009M24Rik|2310009M24Rik
+unigene|Mm.27647|Mm.27647	mgi_symbol|1110003E01Rik|1110003E01Rik	mgi_symbol|1110003E01Rik|1110003E01Rik	mgi_symbol|MGC7185|MGC7185	mgi_symbol|1700127H04Rik|1700127H04Rik
+unigene|Mm.584|Mm.584	mgi_symbol|Anxa2|Anxa2	mgi_symbol|Anxa2|Anxa2	mgi_symbol|Cal1h|Cal1h
+unigene|Mm.252343|Mm.252343	mgi_symbol|Cldn7|Cldn7
+unigene|Mm.240850|Mm.240850	mgi_symbol|2210416M21Rik|2210416M21Rik
+unigene|Mm.34404|Mm.34404	mgi_symbol|Sema4g|Sema4g
+unigene|Mm.26835|Mm.26835	mgi_symbol|Spint2|Spint2
+unigene|Mm.5095|Mm.5095	mgi_symbol|Sca1|Sca1	mgi_symbol|Sca1|Sca1	mgi_symbol|Ataxin-1|Ataxin-1
+unigene|Mm.250802|Mm.250802	mgi_symbol|Serpinb1a|Serpinb1a	mgi_symbol|Serpinb1a|Serpinb1a	mgi_symbol|LEI|LEI	mgi_symbol|ovalbumin|ovalbumin	mgi_symbol|1190005M04Rik|1190005M04Rik
+unigene|Mm.15801|Mm.15801	mgi_symbol|Lcn7|Lcn7	mgi_symbol|Lcn7|Lcn7	mgi_symbol|Arg1|Arg1	mgi_symbol|1110021J17Rik|1110021J17Rik
+unigene|Mm.30262|Mm.30262	mgi_symbol|Klf5|Klf5	mgi_symbol|Klf5|Klf5	mgi_symbol|IKLF|IKLF	mgi_symbol|Bteb2|Bteb2	mgi_symbol|4930520J07Rik|4930520J07Rik
+unigene|Mm.3963|Mm.3963	mgi_symbol|Elf3|Elf3	mgi_symbol|Elf3|Elf3	mgi_symbol|ESX|ESX	mgi_symbol|jen|jen	mgi_symbol|ESE-1|ESE-1
+unigene|NA|NA
+unigene|Mm.70065|Mm.70065	mgi_symbol|C030002B11Rik|C030002B11Rik
+unigene|Mm.4142|Mm.4142	mgi_symbol|Tgoln2|Tgoln2	mgi_symbol|Tgoln2|Tgoln2	mgi_symbol|TGN41|TGN41	mgi_symbol|Ttgn2|Ttgn2	mgi_symbol|TGN38B|TGN38B
+unigene|Mm.193096|Mm.193096	mgi_symbol|Scd2|Scd2	mgi_symbol|Scd2|Scd2	mgi_symbol|Scd-2|Scd-2
+unigene|Mm.18742|Mm.18742	mgi_symbol|Nupr1|Nupr1	mgi_symbol|Nupr1|Nupr1	mgi_symbol|p8|p8	mgi_symbol|Com1|Com1	mgi_symbol|P8-pending|P8-pending	mgi_symbol|2310032H04Rik|2310032H04Rik
+unigene|Mm.26722|Mm.26722	mgi_symbol|Ndr2|Ndr2
+unigene|Mm.28623|Mm.28623	mgi_symbol|Calml4|Calml4	mgi_symbol|Calml4|Calml4	mgi_symbol|2010002G05Rik|2010002G05Rik
+unigene|Mm.245890|Mm.245890	mgi_symbol|Spred1|Spred1
+unigene|Mm.27954|Mm.27954	mgi_symbol|C330006A16Rik|C330006A16Rik
+unigene|Mm.1662|Mm.1662	mgi_symbol|Fxyd3|Fxyd3	mgi_symbol|Fxyd3|Fxyd3	mgi_symbol|Mat8|Mat8
+unigene|Mm.28209|Mm.28209	mgi_symbol|Perp-pending|Perp-pending	mgi_symbol|Perp-pending|Perp-pending	mgi_symbol|1110017A08Rik|1110017A08Rik
+unigene|Mm.229761|Mm.229761	mgi_symbol|5031436O03Rik|5031436O03Rik
+unigene|Mm.181021|Mm.181021	mgi_symbol|Col4a2|Col4a2	mgi_symbol|Col4a2|Col4a2	mgi_symbol|Col4a-2|Col4a-2	mgi_symbol|MGC7371|MGC7371
+unigene|Mm.30241|Mm.30241	mgi_symbol|Ifi30|Ifi30	mgi_symbol|Ifi30|Ifi30	mgi_symbol|GILT|GILT	mgi_symbol|IP30|IP30
+unigene|Mm.28278|Mm.28278	mgi_symbol|Cav|Cav	mgi_symbol|Cav|Cav	mgi_symbol|Cav-1|Cav-1
+unigene|Mm.4533|Mm.4533	mgi_symbol|Apoa4|Apoa4	mgi_symbol|Apoa4|Apoa4	mgi_symbol|Apoa-4|Apoa-4
+unigene|Mm.3213|Mm.3213	mgi_symbol|Ldlr|Ldlr
+unigene|Mm.16769|Mm.16769	mgi_symbol|Tegt|Tegt	mgi_symbol|Tegt|Tegt	mgi_symbol|5031406P05Rik|5031406P05Rik
+unigene|Mm.3438|Mm.3438	mgi_symbol|Lmna|Lmna
+unigene|Mm.256499|Mm.256499	mgi_symbol|0610006A03Rik|0610006A03Rik	mgi_symbol|0610006A03Rik|0610006A03Rik	mgi_symbol|9530055J05Rik|9530055J05Rik
+unigene|Mm.219664|Mm.219664	mgi_symbol|Tgfa|Tgfa	mgi_symbol|Tgfa|Tgfa	mgi_symbol|wa1|wa1	mgi_symbol|wa-1|wa-1
+unigene|Mm.28794|Mm.28794	mgi_symbol|1810046J19Rik|1810046J19Rik	mgi_symbol|1810046J19Rik|1810046J19Rik	mgi_symbol|AI463380|AI463380
+unigene|Mm.2623|Mm.2623	mgi_symbol|Serpinb6|Serpinb6	mgi_symbol|Serpinb6|Serpinb6	mgi_symbol|Spi3|Spi3	mgi_symbol|ovalbumin|ovalbumin
+unigene|Mm.13694|Mm.13694	mgi_symbol|Oat|Oat
+unigene|Mm.218862|Mm.218862	mgi_symbol|Aldo2|Aldo2	mgi_symbol|Aldo2|Aldo2	mgi_symbol|Aldo-2|Aldo-2	mgi_symbol|MGC36398|MGC36398
+unigene|Mm.46782|Mm.46782	mgi_symbol|1700108L22Rik|1700108L22Rik	mgi_symbol|1700108L22Rik|1700108L22Rik	mgi_symbol|MGC38253|MGC38253
+unigene|Mm.27764|Mm.27764	mgi_symbol|1300002C13Rik|1300002C13Rik
+unigene|Mm.27447|Mm.27447	mgi_symbol|Akr1c13|Akr1c13
+unigene|Mm.2284|Mm.2284	mgi_symbol|Hexa|Hexa	mgi_symbol|Hexa|Hexa	mgi_symbol|Hex-1|Hex-1
+unigene|Mm.28262|Mm.28262	mgi_symbol|Rgs2|Rgs2	mgi_symbol|Rgs2|Rgs2	mgi_symbol|GOS8|GOS8
+unigene|Mm.57225|Mm.57225	mgi_symbol|Gpx2|Gpx2	mgi_symbol|Gpx2|Gpx2	mgi_symbol|GPx-GI|GPx-GI
+unigene|Mm.28254|Mm.28254	mgi_symbol|2210410E06Rik|2210410E06Rik
+unigene|Mm.221309|Mm.221309	mgi_symbol|Iqgap1|Iqgap1	mgi_symbol|Iqgap1|Iqgap1	mgi_symbol|D7Ertd237e|D7Ertd237e	mgi_symbol|D7Ertd257e|D7Ertd257e
+unigene|Mm.28951|Mm.28951	mgi_symbol|Pdgfrl|Pdgfrl	mgi_symbol|Pdgfrl|Pdgfrl	mgi_symbol|1110039P19Rik|1110039P19Rik
+unigene|Mm.4356|Mm.4356	mgi_symbol|Cnn1|Cnn1	mgi_symbol|Cnn1|Cnn1	mgi_symbol|CN|CN	mgi_symbol|CnnI|CnnI
+unigene|Mm.738|Mm.738	mgi_symbol|Col4a-1|Col4a-1	mgi_symbol|Col4a1|Col4a1	mgi_symbol|Col4a-1|Col4a-1
+unigene|Mm.234850|Mm.234850	mgi_symbol|Col3a1|Col3a1	mgi_symbol|Ms10w|Ms10w	mgi_symbol|Col3a-1|Col3a-1	mgi_symbol|MMS10-W|MMS10-W
+unigene|Mm.2734|Mm.2734	mgi_symbol|Sat|Sat	mgi_symbol|Sat|Sat	mgi_symbol|SSAT|SSAT
+unigene|Mm.180763|Mm.180763	mgi_symbol|Rap1ga1|Rap1ga1	mgi_symbol|Rap1GAP|Rap1GAP	mgi_symbol|1300019I11Rik|1300019I11Rik	mgi_symbol|2310004O14Rik|2310004O14Rik
+unigene|Mm.89474|Mm.89474	mgi_symbol|Qoo609|Qoo609	mgi_symbol|Cd80|Cd80	mgi_symbol|B7-1|B7-1	mgi_symbol|Ly53|Ly53	mgi_symbol|Cd28l|Cd28l	mgi_symbol|Ly-53|Ly-53	mgi_symbol|MIC17|MIC17	mgi_symbol|TS/A-1|TS/A-1
+unigene|Mm.2509|Mm.2509	mgi_symbol|Col6a1|Col6a1	mgi_symbol|Col6a1|Col6a1	mgi_symbol|Col6a-1|Col6a-1
+unigene|NA|NA
+unigene|Mm.21117|Mm.21117	mgi_symbol|Itgb4|Itgb4	mgi_symbol|CD104|CD104
+unigene|Mm.255070|Mm.255070	mgi_symbol|Glb1|Glb1	mgi_symbol|Glb1|Glb1	mgi_symbol|Bge|Bge	mgi_symbol|Bgl|Bgl	mgi_symbol|Bgs|Bgs	mgi_symbol|Bgt|Bgt	mgi_symbol|Bgl-e|Bgl-e	mgi_symbol|Bgl-s|Bgl-s	mgi_symbol|Bgl-t|Bgl-t
+unigene|Mm.45146|Mm.45146	mgi_symbol|Sypl|Sypl	mgi_symbol|Sypl|Sypl	mgi_symbol|Pphn|Pphn	mgi_symbol|D12Ertd446e|D12Ertd446e
+unigene|Mm.4163|Mm.4163	mgi_symbol|Dsc2|Dsc2	mgi_symbol|Dsc2|Dsc2	mgi_symbol|Dsc2a|Dsc2a	mgi_symbol|Dsc2b|Dsc2b
+unigene|Mm.36879|Mm.36879	mgi_symbol|Cltb|Cltb	mgi_symbol|2310046E19Rik|2310046E19Rik
+unigene|Mm.33263|Mm.33263	mgi_symbol|H2-D1|H2-D1	mgi_symbol|H2-D1|H2-D1	mgi_symbol|H-2D|H-2D
+unigene|Mm.18843|Mm.18843	mgi_symbol|Tgm2|Tgm2	mgi_symbol|Tgm2|Tgm2	mgi_symbol|G[a]h|G[a]h
+unigene|Mm.7281|Mm.7281	mgi_symbol|Col5a1|Col5a1
+unigene|Mm.196484|Mm.196484	mgi_symbol|Csrp1|Csrp1	mgi_symbol|Csrp1|Csrp1	mgi_symbol|CRP1|CRP1	mgi_symbol|CSRP1|CSRP1
+unigene|Mm.206854|Mm.206854	mgi_symbol|C76171|C76171	mgi_symbol|C76171|C76171	mgi_symbol|SPI3C|SPI3C	mgi_symbol|Serpinb6c|Serpinb6c
+unigene|Mm.78619|Mm.78619	mgi_symbol|4631427C17Rik|4631427C17Rik
+unigene|Mm.29027|Mm.29027	mgi_symbol|Sparcl1|Sparcl1	mgi_symbol|Sparcl1|Sparcl1	mgi_symbol|Sc1|Sc1	mgi_symbol|Ecm2|Ecm2	mgi_symbol|hevin|hevin	mgi_symbol|mast9|mast9
+unigene|Mm.22753|Mm.22753	mgi_symbol|Ctsb|Ctsb
+unigene|Mm.221278|Mm.221278	mgi_symbol|A130040M12Rik|A130040M12Rik
+unigene|Mm.646|Mm.646	mgi_symbol|Tpm2|Tpm2	mgi_symbol|Tpm2|Tpm2	mgi_symbol|Tpm-2|Tpm-2	mgi_symbol|Trop-2|Trop-2
+unigene|Mm.247447|Mm.247447	mgi_symbol|Sorbs1|Sorbs1	mgi_symbol|Sorbs1|Sorbs1	mgi_symbol|CAP|CAP	mgi_symbol|Sh3d5|Sh3d5	mgi_symbol|SH3P12|SH3P12
+unigene|Mm.28854|Mm.28854	mgi_symbol|1110001D15Rik|1110001D15Rik
+unigene|Mm.658|Mm.658	mgi_symbol|Slc25a5|Slc25a5	mgi_symbol|Slc25a5|Slc25a5	mgi_symbol|Ant2|Ant2
+unigene|Mm.2011|Mm.2011	mgi_symbol|Gstm1|Gstm1	mgi_symbol|Gstm1|Gstm1	mgi_symbol|Gstb1|Gstb1	mgi_symbol|Gstb-1|Gstb-1
+unigene|Mm.23739|Mm.23739	mgi_symbol|0610041O14Rik|0610041O14Rik
+unigene|Mm.2445|Mm.2445	mgi_symbol|Acadl|Acadl	mgi_symbol|Acadl|Acadl	mgi_symbol|LCAD|LCAD
+unigene|Mm.21990|Mm.21990	mgi_symbol|Jup|Jup	mgi_symbol|Jup|Jup	mgi_symbol|PG|PG
+unigene|Mm.4266|Mm.4266	mgi_symbol|Itm2b|Itm2b	mgi_symbol|Itm2b|Itm2b	mgi_symbol|E25BMM|E25BMM	mgi_symbol|D14Sel6|D14Sel6
+unigene|Mm.180189|Mm.180189	mgi_symbol|Dgat2|Dgat2	mgi_symbol|Dgat2|Dgat2	mgi_symbol|DGAT-2|DGAT-2	mgi_symbol|0610010B06Rik|0610010B06Rik
+unigene|Mm.192991|Mm.192991	mgi_symbol|Mt1|Mt1	mgi_symbol|Mt1|Mt1	mgi_symbol|MT-I|MT-I	mgi_symbol|Mt-1|Mt-1
+unigene|Mm.30010|Mm.30010	mgi_symbol|Arpc1b|Arpc1b	mgi_symbol|Arpc1b|Arpc1b	mgi_symbol|L72|L72	mgi_symbol|41kDa|41kDa	mgi_symbol|SOP2Hs|SOP2Hs	mgi_symbol|p41-ARC|p41-ARC
+unigene|Mm.26282|Mm.26282	mgi_symbol|BC004728|BC004728
+unigene|Mm.4426|Mm.4426	mgi_symbol|Cd63|Cd63	mgi_symbol|Cd63|Cd63	mgi_symbol|ME491|ME491
+unigene|Mm.28465|Mm.28465	mgi_symbol|Lrp10|Lrp10	mgi_symbol|Lrp10|Lrp10	mgi_symbol|Lrp9|Lrp9
+unigene|Mm.21322|Mm.21322
+unigene|Mm.163|Mm.163	mgi_symbol|B2m|B2m	mgi_symbol|B2m|B2m	mgi_symbol|Ly-m11|Ly-m11	mgi_symbol|beta2-m|beta2-m
+unigene|Mm.28921|Mm.28921	mgi_symbol|Cldn3|Cldn3	mgi_symbol|Cldn3|Cldn3	mgi_symbol|Cpetr2|Cpetr2
+unigene|Mm.104617|Mm.104617	mgi_symbol|9930104H07Rik|9930104H07Rik
+unigene|Mm.25299|Mm.25299	mgi_symbol|2310047M10Rik|2310047M10Rik
+unigene|Mm.216195|Mm.216195
+unigene|Mm.97|Mm.97	mgi_symbol|Semcap2-pending|Semcap2-pending	mgi_symbol|Semcap2-pending|Semcap2-pending	mgi_symbol|2200002N01Rik|2200002N01Rik
+unigene|Mm.1339|Mm.1339	mgi_symbol|Chgb|Chgb	mgi_symbol|Chgb|Chgb	mgi_symbol|Scg-1|Scg-1
+unigene|Mm.4168|Mm.4168	mgi_symbol|Slc12a2|Slc12a2	mgi_symbol|Slc12a2|Slc12a2	mgi_symbol|Nkcc1|Nkcc1	mgi_symbol|mBSC2|mBSC2	mgi_symbol|sy-ns|sy-ns
+unigene|Mm.193526|Mm.193526	mgi_symbol|Csda|Csda	mgi_symbol|Csda|Csda	mgi_symbol|Yb2|Yb2	mgi_symbol|Dpba|Dpba	mgi_symbol|MSY4|MSY4	mgi_symbol|Ybx3|Ybx3	mgi_symbol|dbpA|dbpA	mgi_symbol|oxyR|oxyR
+unigene|Mm.12723|Mm.12723	mgi_symbol|Arl4|Arl4
+unigene|Mm.22724|Mm.22724	mgi_symbol|Plaa|Plaa	mgi_symbol|Plaa|Plaa	mgi_symbol|PLAP|PLAP	mgi_symbol|2410007N06|2410007N06	mgi_symbol|D4Ertd618e|D4Ertd618e
+unigene|Mm.194709|Mm.194709	mgi_symbol|mKIAA1147|mKIAA1147	mgi_symbol|AI841796|AI841796
+unigene|Mm.30142|Mm.30142	mgi_symbol|Krt2-7|Krt2-7	mgi_symbol|Krt2-7|Krt2-7	mgi_symbol|K7|K7	mgi_symbol|Krt7|Krt7	mgi_symbol|MGC11625|MGC11625	mgi_symbol|D15Wsu77e|D15Wsu77e
+unigene|NA|NA

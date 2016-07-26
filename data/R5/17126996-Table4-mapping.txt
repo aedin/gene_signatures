@@ -1,0 +1,44 @@
+# Generate Mapping Tables Script: Version 4 11:03 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:03 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+hgnc_symbol|PRKACB|PRKACB
+hgnc_symbol|NTRK1|NTRK1
+hgnc_symbol|PSMA6|PSMA6
+hgnc_symbol|AHCY|AHCY
+hgnc_symbol|SCG2|SCG2
+hgnc_symbol|NXPH1|NXPH1
+hgnc_symbol|CAMK2B|CAMK2B
+hgnc_symbol|WSB1|WSB1
+hgnc_symbol|PRKCZ|PRKCZ
+hgnc_symbol|CCNB1|CCNB1
+hgnc_symbol|ATIC|ATIC
+hgnc_symbol|PAFAH1B1|PAFAH1B1
+hgnc_symbol|PCNA|PCNA
+hgnc_symbol|CLSTN1|CLSTN1
+hgnc_symbol|hfl-B5|hfl-B5
+hgnc_symbol|NME1|NME1
+hgnc_symbol|ECEL1|ECEL1
+hgnc_symbol|TNFRSF25|TNFRSF25
+hgnc_symbol|cDNA DKFZp564N1116|cDNA DKFZp564N1116
+hgnc_symbol|DPYSL3|DPYSL3
+hgnc_symbol|NME2|NME2
+hgnc_symbol|EFNB2|EFNB2
+hgnc_symbol|ARGBP2|ARGBP2
+hgnc_symbol|S100B|S100B
+
+hgnc_symbol|TOP2A|TOP2A
+hgnc_symbol|DIRAS3|DIRAS3
+hgnc_symbol|BTBD3|BTBD3
+hgnc_symbol|TFAP2B|TFAP2B
+hgnc_symbol|MYCN|MYCN
+hgnc_symbol|ARHGEF7|ARHGEF7
+hgnc_symbol|E2F1|E2F1
+hgnc_symbol|TKT|TKT
+hgnc_symbol|DDC|DDC
+hgnc_symbol|NCYM|NCYM
+hgnc_symbol|GAL|GAL
+hgnc_symbol|COX8|COX8
+hgnc_symbol|XAGE1|XAGE1

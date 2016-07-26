@@ -1,0 +1,22 @@
+# Generate Mapping Tables Script: Version 4 11:06 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:06 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+refseq_dna|{type:entrez-nucleotide,attrs:{text:NM_001795,term_id:166362712}}NM_001795|NM_001795	unigene|Hs.76206|Hs.76206
+refseq_dna|{type:entrez-nucleotide,attrs:{text:NM_030582,term_id:110611234}}NM_030582|NM_030582	unigene|Hs.517356|Hs.517356
+refseq_dna|{type:entrez-nucleotide,attrs:{text:NM_000091,term_id:297632355}}NM_000091|NM_000091	unigene|Hs.570065|Hs.570065
+refseq_dna|{type:entrez-nucleotide,attrs:{text:NM_002210,term_id:223468593}}NM_002210|NM_002210	unigene|Hs.436873|Hs.436873
+refseq_dna|{type:entrez-nucleotide,attrs:{text:NM_000212,term_id:47078291}}NM_000212|NM_000212	unigene|Hs.218040|Hs.218040
+refseq_dna|{type:entrez-nucleotide,attrs:{text:NM_000601,term_id:58533168}}NM_000601|NM_000601	unigene|Hs.396530|Hs.396530
+refseq_dna|{type:entrez-nucleotide,attrs:{text:NM_004952,term_id:156071497}}NM_004952|NM_004952	unigene|Hs.516656|Hs.516656
+refseq_dna|{type:entrez-nucleotide,attrs:{text:NM_002607,term_id:197333758}}NM_002607|NM_002607	unigene|Hs.645488|Hs.645488
+refseq_dna|{type:entrez-nucleotide,attrs:{text:NM_001963,term_id:296011011}}NM_001963|NM_001963	unigene|Hs.419815|Hs.419815
+refseq_dna|{type:entrez-nucleotide,attrs:{text:NM_003872,term_id:41872532}}NM_003872|NM_003872	unigene|Hs.471200|Hs.471200
+refseq_dna|{type:entrez-nucleotide,attrs:{text:NM_004093,term_id:317171923}}NM_004093|NM_004093	unigene|Hs.149239|Hs.149239
+refseq_dna|{type:entrez-nucleotide,attrs:{text:NM_000214,term_id:168480146}}NM_000214|NM_000214	unigene|Hs.224012|Hs.224012
+refseq_dna|{type:entrez-nucleotide,attrs:{text:NM_006291,term_id:26051239}}NM_006291|NM_006291	unigene|Hs.525607|Hs.525607
+refseq_dna|{type:entrez-nucleotide,attrs:{text:NM_000459,term_id:183396798}}NM_000459|NM_000459	unigene|Hs.89640|Hs.89640
+refseq_dna|{type:entrez-nucleotide,attrs:{text:NM_003236,term_id:153791671}}NM_003236|NM_003236	unigene|Hs.170009|Hs.170009
+refseq_dna|{type:entrez-nucleotide,attrs:{text:NM_005429,term_id:19924300}}NM_005429|NM_005429	unigene|Hs.435215|Hs.435215

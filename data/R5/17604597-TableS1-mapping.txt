@@ -1,0 +1,2260 @@
+# Generate Mapping Tables Script: Version 4 11:03 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:03 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+entrezgene|BM549033|27304	unigene|Hs.159410|Hs.159410
+entrezgene|H20529|595	unigene|Hs.523852|Hs.523852
+embl|BE879639|BE879639
+embl|AA046532|AA046532	unigene|Hs.234478|Hs.234478
+embl|BF175468|BF175468
+embl|R13896|R13896	unigene|Hs.445503|Hs.445503
+entrezgene|W38759|5537	unigene|Hs.584019|Hs.584019
+entrezgene|W39189|5514	unigene|Hs.106019|Hs.106019
+entrezgene|R66676|2119	unigene|Hs.43697|Hs.43697
+entrezgene|H70072|9924	unigene|Hs.273397|Hs.273397
+embl|W32992|W32992	unigene|Hs.6729|Hs.6729
+entrezgene|AL578468|175	unigene|Hs.207776|Hs.207776
+entrezgene|AA125790|6356	unigene|Hs.54460|Hs.54460
+entrezgene|BQ016724|387	unigene|Hs.247077|Hs.247077
+entrezgene|R67197|7067	unigene|Hs.724|Hs.724
+embl|BE881603|BE881603
+entrezgene|R61062|2820	unigene|Hs.512382|Hs.512382
+entrezgene|AA284237|9037	unigene|Hs.27621|Hs.27621
+embl|AA150063|AA150063	unigene|Hs.458355|Hs.458355
+entrezgene|R24989|3954	unigene|Hs.120165|Hs.120165
+entrezgene|BG740274|80004	unigene|Hs.436585|Hs.436585
+embl|AA010333|AA010333
+embl|AV711358|AV711358
+entrezgene|R10182|100130613	unigene|Hs.130370|Hs.130370
+entrezgene|W57953|5894	unigene|Hs.159130|Hs.159130
+entrezgene|AA137130|546	unigene|Hs.533526|Hs.533526
+entrezgene|N44142|3156	unigene|Hs.643495|Hs.643495
+entrezgene|AA134529|25847	unigene|Hs.106909|Hs.106909
+embl|N45997|N45997	unigene|Hs.102981|Hs.102981
+entrezgene|R73318|79153	unigene|Hs.289015|Hs.289015
+entrezgene|AA127314|286006	unigene|Hs.396189|Hs.396189
+entrezgene|BM968507|4659	unigene|Hs.49582|Hs.49582
+entrezgene|BQ067819|56986	unigene|Hs.127432|Hs.127432
+entrezgene|BI768209|288	unigene|Hs.499725|Hs.499725
+entrezgene|BM455686|254170	unigene|Hs.324342|Hs.324342
+entrezgene|AA149375|1536	unigene|Hs.292356|Hs.292356
+entrezgene|AA047336|7110	unigene|Hs.267632|Hs.267632
+entrezgene|BQ050022|167227	unigene|Hs.443875|Hs.443875
+entrezgene|W25190|92610	unigene|Hs.310640|Hs.310640
+entrezgene|R92833|7572	unigene|Hs.591057|Hs.591057
+entrezgene|AA009870|1992	unigene|Hs.381167|Hs.381167
+entrezgene|H87076|401152	unigene|Hs.173705|Hs.173705
+entrezgene|BG287142|23119	unigene|Hs.592456|Hs.592456
+entrezgene|AA040636|92935	unigene|Hs.116602|Hs.116602
+entrezgene|W16685|55768	unigene|Hs.368960|Hs.368960
+embl|T83058|T83058
+entrezgene|N53308|84722	unigene|Hs.405925|Hs.405925
+entrezgene|N90843|79627	unigene|Hs.368337|Hs.368337
+embl|AA203298|AA203298
+entrezgene|R52912|65055	unigene|Hs.368884|Hs.368884
+entrezgene|W31152|91833	unigene|Hs.36859|Hs.36859
+embl|W31529|W31529	unigene|Hs.655369|Hs.655369
+entrezgene|H94763|51100	unigene|Hs.136309|Hs.136309
+embl|AA043301|AA043301	unigene|Hs.17441|Hs.17441
+entrezgene|R56167|79608	unigene|Hs.655660|Hs.655660
+entrezgene|R47818|10411	unigene|Hs.8578|Hs.8578
+embl|H06802|H06802
+entrezgene|R73184|3119	unigene|Hs.409934|Hs.409934
+embl|W19961|W19961	unigene|Hs.54542|Hs.54542
+entrezgene|AA151028|6385
+embl|N22132|N22132	unigene|Hs.390428|Hs.390428
+entrezgene|H25594|5874	unigene|Hs.25318|Hs.25318
+entrezgene|BM966774|656	unigene|Hs.664022|Hs.664022
+entrezgene|N32672|1781	unigene|Hs.546250|Hs.546250
+embl|AA045461|AA045461
+entrezgene|R46281|81553	unigene|Hs.467769|Hs.467769
+entrezgene|N36068|56954	unigene|Hs.439152|Hs.439152
+entrezgene|AL565941|23360	unigene|Hs.6834|Hs.6834
+embl|N77560|N77560	unigene|Hs.460540|Hs.460540
+entrezgene|R69702|84441	unigene|Hs.428214|Hs.428214
+entrezgene|R77022|84930	unigene|Hs.276905|Hs.276905
+entrezgene|N57120|57589	unigene|Hs.211520|Hs.211520
+entrezgene|N51155|55669	unigene|Hs.478383|Hs.478383
+entrezgene|T96234|100131943	unigene|Hs.137552|Hs.137552
+entrezgene|AA126378|10724	unigene|Hs.500842|Hs.500842
+entrezgene|AI494175|8365	unigene|Hs.278483|Hs.278483
+entrezgene|AA058944|92935	unigene|Hs.116602|Hs.116602
+entrezgene|BQ027022|10092	unigene|Hs.518609|Hs.518609
+embl|AA011522|AA011522
+embl|W01762|W01762
+entrezgene|BM804585|6167	unigene|Hs.80545|Hs.80545
+entrezgene|T92153|9791	unigene|Hs.292579|Hs.292579
+entrezgene|BI004008|4688	unigene|Hs.587558|Hs.587558
+entrezgene|H25214|9413	unigene|Hs.118003|Hs.118003
+entrezgene|W85686|462	unigene|Hs.75599|Hs.75599
+entrezgene|W39130|9086	unigene|Hs.461178|Hs.461178
+entrezgene|AA147500|196740	unigene|Hs.522928|Hs.522928
+embl|R32571|R32571
+entrezgene|N63458|6487	unigene|Hs.597915|Hs.597915
+entrezgene|R36499|8842
+entrezgene|H44128|9169	unigene|Hs.210367|Hs.210367
+embl|AA057291|AA057291	unigene|Hs.247324|Hs.247324
+entrezgene|W39160|56986	unigene|Hs.127432|Hs.127432
+entrezgene|AI492376|346689
+embl|R28285|R28285
+embl|N48163|N48163	unigene|Hs.642715|Hs.642715
+entrezgene|AA069746|3745	unigene|Hs.84244|Hs.84244
+embl|W88606|W88606	unigene|Hs.491558|Hs.491558
+entrezgene|H29522|154810	unigene|Hs.503594|Hs.503594
+embl|AA047101|AA047101	unigene|Hs.54056|Hs.54056
+entrezgene|AA043562|84223	unigene|Hs.591675|Hs.591675
+entrezgene|N30436|221937	unigene|Hs.520634|Hs.520634
+entrezgene|AW665606|645206	unigene|Hs.388256|Hs.388256
+entrezgene|AA147456|1902	unigene|Hs.126667|Hs.126667
+entrezgene|N44490|128338	unigene|Hs.485606|Hs.485606
+embl|BQ006906|BQ006906	unigene|Hs.436973|Hs.436973
+entrezgene|H51003|2946	unigene|Hs.279837|Hs.279837
+entrezgene|N54190|29919	unigene|Hs.529006|Hs.529006
+embl|AA147618|AA147618	unigene|Hs.492407|Hs.492407
+entrezgene|T91433|10846
+entrezgene|R80286|5671	unigene|Hs.551511|Hs.551511
+entrezgene|AA001329|890	unigene|Hs.58974|Hs.58974
+embl|BG618213|BG618213	unigene|Hs.27836|Hs.27836
+entrezgene|BQ049778|54583	unigene|Hs.444450|Hs.444450
+entrezgene|W55993|2201	unigene|Hs.519294|Hs.519294
+entrezgene|R82262|8521	unigene|Hs.28346|Hs.28346
+entrezgene|T80079|23327	unigene|Hs.185677|Hs.185677
+embl|T74285|T74285	unigene|Hs.656823|Hs.656823
+entrezgene|BM852274|5440	unigene|Hs.351475|Hs.351475
+entrezgene|AA131844|400660	unigene|Hs.131718|Hs.131718
+embl|N77057|N77057
+entrezgene|R70082|4637
+entrezgene|N89746|4637	unigene|Hs.632717|Hs.632717
+embl|W56786|W56786	unigene|Hs.695|Hs.695
+entrezgene|R48720|27141	unigene|Hs.647549|Hs.647549
+entrezgene|T94681|9448	unigene|Hs.431550|Hs.431550
+entrezgene|H13022|1138	unigene|Hs.1614|Hs.1614
+entrezgene|N22313|1289	unigene|Hs.210283|Hs.210283
+embl|AI076556|AI076556	unigene|Hs.92993|Hs.92993
+entrezgene|N76699|5091	unigene|Hs.89890|Hs.89890
+entrezgene|W47609|11332	unigene|Hs.126137|Hs.126137
+entrezgene|H17395|4915	unigene|Hs.494312|Hs.494312
+entrezgene|AA131272|8516	unigene|Hs.171311|Hs.171311
+entrezgene|W52537|5683	unigene|Hs.333786|Hs.333786
+entrezgene|AA120837|286053	unigene|Hs.388297|Hs.388297
+entrezgene|W39020|10026	unigene|Hs.178305|Hs.178305
+entrezgene|AW963008|23357	unigene|Hs.497448|Hs.497448
+entrezgene|BQ067255|6277	unigene|Hs.275243|Hs.275243
+entrezgene|W31182|55848	unigene|Hs.584242|Hs.584242
+entrezgene|BI550180|805	unigene|Hs.282410|Hs.282410
+entrezgene|BQ070812|5702	unigene|Hs.250758|Hs.250758
+entrezgene|W20051|55802	unigene|Hs.141003|Hs.141003
+entrezgene|R66261|5553	unigene|Hs.512633|Hs.512633
+entrezgene|BQ127983|339287	unigene|Hs.532786|Hs.532786
+entrezgene|R24601|122622	unigene|Hs.592327|Hs.592327
+entrezgene|BM787035|7775	unigene|Hs.279914|Hs.279914
+entrezgene|AA418235|84952	unigene|Hs.148989|Hs.148989
+entrezgene|AA128268|9221	unigene|Hs.523238|Hs.523238
+entrezgene|R12649|64849	unigene|Hs.655498|Hs.655498
+embl|R71002|R71002	unigene|Hs.655572|Hs.655572
+entrezgene|N71850|84932	unigene|Hs.22399|Hs.22399
+entrezgene|H24812|10845	unigene|Hs.113823|Hs.113823
+entrezgene|R48706|26086	unigene|Hs.239370|Hs.239370
+entrezgene|H25541|51444	unigene|Hs.302408|Hs.302408
+entrezgene|W63752|3337	unigene|Hs.515210|Hs.515210
+embl|H94544|H94544	unigene|Hs.376351|Hs.376351
+entrezgene|N46700|11118	unigene|Hs.376046|Hs.376046
+entrezgene|BI962611|51668	unigene|Hs.525462|Hs.525462
+embl|H79411|H79411	unigene|Hs.191346|Hs.191346
+entrezgene|W38673|3398	unigene|Hs.180919|Hs.180919
+entrezgene|AI820685|364	unigene|Hs.455323|Hs.455323
+entrezgene|T80698|92292
+entrezgene|AA010424|375346	unigene|Hs.371222|Hs.371222
+entrezgene|W32547|23473	unigene|Hs.631920|Hs.631920
+entrezgene|AA055333|1054	unigene|Hs.429666|Hs.429666
+entrezgene|AA031853|6856	unigene|Hs.80919|Hs.80919
+entrezgene|BI772110|84328	unigene|Hs.327252|Hs.327252
+embl|AA135740|AA135740	unigene|Hs.646899|Hs.646899
+entrezgene|AA007463|144717	unigene|Hs.173088|Hs.173088
+entrezgene|W30866|7264	unigene|Hs.404119|Hs.404119
+entrezgene|N41306|55286	unigene|Hs.107527|Hs.107527
+entrezgene|BM469296|23300	unigene|Hs.16349|Hs.16349
+entrezgene|AA029895|2091	unigene|Hs.299002|Hs.299002
+embl|N26952|N26952	unigene|Hs.650822|Hs.650822
+entrezgene|BM917555|1185	unigene|Hs.193043|Hs.193043
+entrezgene|R78728|51088	unigene|Hs.272251|Hs.272251
+embl|H02112|H02112	unigene|Hs.28360|Hs.28360
+entrezgene|AW197514|6354	unigene|Hs.251526|Hs.251526
+embl|AA135690|AA135690	unigene|Hs.61481|Hs.61481
+entrezgene|H84464|441172	unigene|Hs.92290|Hs.92290
+embl|H47128|H47128	unigene|Hs.446315|Hs.446315
+entrezgene|H88417|51646	unigene|Hs.515890|Hs.515890
+entrezgene|BM720684|1634	unigene|Hs.156316|Hs.156316
+embl|R50205|R50205
+entrezgene|BQ008734|23516	unigene|Hs.491232|Hs.491232
+entrezgene|R28554|258010	unigene|Hs.349096|Hs.349096
+embl|T98389|T98389
+entrezgene|BQ069488|11075	unigene|Hs.521651|Hs.521651
+entrezgene|BM827016|1736	unigene|Hs.4747|Hs.4747
+entrezgene|AL702769|79649	unigene|Hs.446275|Hs.446275
+entrezgene|N30471|222161	unigene|Hs.112423|Hs.112423
+entrezgene|BF726202|375061	unigene|Hs.38516|Hs.38516
+entrezgene|R27073|407975	unigene|Hs.652877|Hs.652877
+entrezgene|R28090|57631	unigene|Hs.65366|Hs.65366
+entrezgene|H59600|64782	unigene|Hs.436102|Hs.436102
+embl|W38730|W38730	unigene|Hs.546271|Hs.546271
+entrezgene|W47090|1025	unigene|Hs.557646|Hs.557646
+entrezgene|H93163|134957	unigene|Hs.93534|Hs.93534
+entrezgene|R86309|55737	unigene|Hs.454528|Hs.454528
+entrezgene|W25385|5256	unigene|Hs.54941|Hs.54941
+entrezgene|AA045300|56990	unigene|Hs.508829|Hs.508829
+entrezgene|AA043040|206338	unigene|Hs.98288|Hs.98288
+entrezgene|N43955|23002	unigene|Hs.19156|Hs.19156
+embl|AA009959|AA009959
+embl|AA098859|AA098859	unigene|Hs.535775|Hs.535775
+entrezgene|U85990|23658	unigene|Hs.424908|Hs.424908
+entrezgene|W05406|10026	unigene|Hs.293653|Hs.293653
+entrezgene|T78984|84220	unigene|Hs.53558|Hs.53558
+entrezgene|BM818656|29927	unigene|Hs.518236|Hs.518236
+embl|AA115157|AA115157	unigene|Hs.522074|Hs.522074
+entrezgene|R77592|54108	unigene|Hs.279704|Hs.279704
+entrezgene|W57890|1475	unigene|Hs.518198|Hs.518198
+embl|T78061|T78061	unigene|Hs.133206|Hs.133206
+entrezgene|AI340082|6783	unigene|Hs.479898|Hs.479898
+entrezgene|AA132004|5690	unigene|Hs.471441|Hs.471441
+embl|R59528|R59528	unigene|Hs.434418|Hs.434418
+embl|W39164|W39164
+entrezgene|W25557|10155	unigene|Hs.467408|Hs.467408
+entrezgene|H12745|7707	unigene|Hs.592592|Hs.592592
+entrezgene|R26340|25939	unigene|Hs.580681|Hs.580681
+entrezgene|AA099193|1211	unigene|Hs.522114|Hs.522114
+entrezgene|BM968464|91833	unigene|Hs.36859|Hs.36859
+embl|H22097|H22097	unigene|Hs.534797|Hs.534797
+entrezgene|R79279|7769	unigene|Hs.145956|Hs.145956
+entrezgene|BE184857|2331	unigene|Hs.519168|Hs.519168
+entrezgene|AA069498|54714	unigene|Hs.154433|Hs.154433
+embl|AA041227|AA041227	unigene|Hs.494013|Hs.494013
+entrezgene|H15871|23530	unigene|Hs.482043|Hs.482043
+entrezgene|H87640|402415	unigene|Hs.592216|Hs.592216
+embl|W24074|W24074	unigene|Hs.55220|Hs.55220
+entrezgene|BM686754|6647	unigene|Hs.443914|Hs.443914
+entrezgene|BQ015074|25923	unigene|Hs.356719|Hs.356719
+entrezgene|R80454|57693	unigene|Hs.465829|Hs.465829
+entrezgene|R21970|728340	unigene|Hs.422901|Hs.422901
+entrezgene|H44472|254170	unigene|Hs.324342|Hs.324342
+entrezgene|R66025|4862	unigene|Hs.156832|Hs.156832
+embl|N44730|N44730
+embl|BM832831|BM832831
+entrezgene|BM462111|6228	unigene|Hs.527193|Hs.527193
+entrezgene|AL709781|29079	unigene|Hs.181112|Hs.181112
+entrezgene|H00518|9562	unigene|Hs.121260|Hs.121260
+entrezgene|AA042962|10949	unigene|Hs.96996|Hs.96996
+entrezgene|AA039684|166379	unigene|Hs.400698|Hs.400698
+entrezgene|BM925427|6146	unigene|Hs.659873|Hs.659873
+embl|W38749|W38749
+entrezgene|N31103|857	unigene|Hs.74034|Hs.74034
+embl|H10327|H10327	unigene|Hs.443831|Hs.443831
+entrezgene|W31173|55699	unigene|Hs.262823|Hs.262823
+embl|H79993|H79993	unigene|Hs.386402|Hs.386402
+entrezgene|R76155|85440	unigene|Hs.538059|Hs.538059
+entrezgene|BM009874|6144	unigene|Hs.381123|Hs.381123
+entrezgene|BQ073413|4817	unigene|Hs.146406|Hs.146406
+entrezgene|N75897|388327	unigene|Hs.262480|Hs.262480
+entrezgene|H88208|6832	unigene|Hs.106469|Hs.106469
+entrezgene|W52999|27109	unigene|Hs.438489|Hs.438489
+entrezgene|W32115|1407	unigene|Hs.151573|Hs.151573
+embl|AA131813|AA131813
+entrezgene|W79564|6279	unigene|Hs.416073|Hs.416073
+entrezgene|AA195575|3038	unigene|Hs.592069|Hs.592069
+embl|H04204|H04204	unigene|Hs.644105|Hs.644105
+entrezgene|W20171|5255	unigene|Hs.201379|Hs.201379
+entrezgene|AA127792|115362	unigene|Hs.513726|Hs.513726
+entrezgene|BG490288|8761	unigene|Hs.169900|Hs.169900
+embl|AA155669|AA155669	unigene|Hs.590900|Hs.590900
+embl|AA099691|AA099691
+entrezgene|BQ010054|54414	unigene|Hs.10056|Hs.10056
+embl|R25304|R25304	unigene|Hs.434418|Hs.434418
+entrezgene|AA130223|10713	unigene|Hs.654745|Hs.654745
+entrezgene|N45651|84893	unigene|Hs.498543|Hs.498543
+entrezgene|BM809132|2958	unigene|Hs.512934|Hs.512934
+entrezgene|AA147698|29072	unigene|Hs.517941|Hs.517941
+entrezgene|AA040364|284513	unigene|Hs.121406|Hs.121406
+entrezgene|N52313|4324	unigene|Hs.80343|Hs.80343
+embl|H24818|H24818	unigene|Hs.28456|Hs.28456
+entrezgene|AA120797|84085	unigene|Hs.421095|Hs.421095
+entrezgene|BM976142|54675	unigene|Hs.224764|Hs.224764
+embl|H52982|H52982
+entrezgene|R64412|51182	unigene|Hs.534169|Hs.534169
+entrezgene|H69632|54434	unigene|Hs.199763|Hs.199763
+entrezgene|R80273|3712	unigene|Hs.449599|Hs.449599
+entrezgene|H95168|51657	unigene|Hs.11615|Hs.11615
+entrezgene|AA115564|23438	unigene|Hs.432560|Hs.432560
+entrezgene|AA131884|51057	unigene|Hs.414952|Hs.414952
+entrezgene|R32757|5618
+entrezgene|AA099387|56287	unigene|Hs.69319|Hs.69319
+entrezgene|W93292|23788	unigene|Hs.269944|Hs.269944
+entrezgene|R59009|23517	unigene|Hs.274531|Hs.274531
+entrezgene|AA098907|211	unigene|Hs.476308|Hs.476308
+entrezgene|N72765|24149	unigene|Hs.509718|Hs.509718
+entrezgene|AA127898|200558	unigene|Hs.258941|Hs.258941
+entrezgene|H21214|374291	unigene|Hs.211914|Hs.211914
+entrezgene|AA055909|115426	unigene|Hs.493401|Hs.493401
+entrezgene|H48072|1337	unigene|Hs.497118|Hs.497118
+embl|T70731|T70731	unigene|Hs.670106|Hs.670106
+entrezgene|T84654|121355	unigene|Hs.524476|Hs.524476
+entrezgene|H19945|6811	unigene|Hs.654602|Hs.654602
+embl|AA011354|AA011354	unigene|Hs.471514|Hs.471514
+entrezgene|R62721|9255	unigene|Hs.591680|Hs.591680
+entrezgene|BQ066818|6176	unigene|Hs.356502|Hs.356502
+entrezgene|AL579290|5528	unigene|Hs.533308|Hs.533308
+entrezgene|BG477018|5580	unigene|Hs.155342|Hs.155342
+entrezgene|H45241|6171	unigene|Hs.660053|Hs.660053
+entrezgene|AA036810|8994	unigene|Hs.621057|Hs.621057
+entrezgene|H03723|79693	unigene|Hs.301564|Hs.301564
+entrezgene|W39190|51274	unigene|Hs.298658|Hs.298658
+entrezgene|W39664|29071	unigene|Hs.643920|Hs.643920
+entrezgene|R80601|26046	unigene|Hs.288773|Hs.288773
+entrezgene|R28059|10286	unigene|Hs.22960|Hs.22960
+entrezgene|H00793|2760	unigene|Hs.483873|Hs.483873
+entrezgene|W90154|25896	unigene|Hs.369285|Hs.369285
+embl|AA029013|AA029013	unigene|Hs.367890|Hs.367890
+entrezgene|H18899|7167	unigene|Hs.524219|Hs.524219
+entrezgene|BM694906|5213
+embl|BM796747|BM796747	unigene|Hs.148677|Hs.148677
+entrezgene|BM799548|8450	unigene|Hs.102914|Hs.102914
+entrezgene|AW580814|49855	unigene|Hs.458986|Hs.458986
+entrezgene|W40184|8604	unigene|Hs.470608|Hs.470608
+entrezgene|W33117|6595	unigene|Hs.298990|Hs.298990
+entrezgene|BM688690|9639	unigene|Hs.98594|Hs.98594
+embl|H40607|H40607	unigene|Hs.643454|Hs.643454
+entrezgene|R25798|7739	unigene|Hs.16622|Hs.16622
+entrezgene|BM311628|128866	unigene|Hs.472471|Hs.472471
+entrezgene|H44711|55851	unigene|Hs.534465|Hs.534465
+embl|H08967|H08967	unigene|Hs.656823|Hs.656823
+entrezgene|BQ049281|6574	unigene|Hs.187946|Hs.187946
+entrezgene|W68491|23383	unigene|Hs.654939|Hs.654939
+entrezgene|W30782|116840	unigene|Hs.348012|Hs.348012
+embl|BM982318|BM982318	unigene|Hs.488293|Hs.488293
+entrezgene|BI603841|5947	unigene|Hs.529571|Hs.529571
+entrezgene|AA136777|23252	unigene|Hs.374987|Hs.374987
+embl|AA150376|AA150376	unigene|Hs.591729|Hs.591729
+entrezgene|AA152352|84912	unigene|Hs.490181|Hs.490181
+embl|R13132|R13132
+entrezgene|BM976649|8879	unigene|Hs.499984|Hs.499984
+entrezgene|H41963|91833	unigene|Hs.36859|Hs.36859
+embl|W95019|W95019	unigene|Hs.149983|Hs.149983
+embl|R93756|R93756	unigene|Hs.282410|Hs.282410
+entrezgene|BM907252|22836	unigene|Hs.445030|Hs.445030
+entrezgene|R55178|55743	unigene|Hs.656770|Hs.656770
+entrezgene|T82054|3115	unigene|Hs.485130|Hs.485130
+entrezgene|AA044231|83999	unigene|Hs.229335|Hs.229335
+entrezgene|W30772|5918	unigene|Hs.131269|Hs.131269
+entrezgene|W42832|51074	unigene|Hs.447794|Hs.447794
+embl|R68198|R68198
+entrezgene|BM457262|4830	unigene|Hs.463456|Hs.463456
+embl|W01395|W01395	unigene|Hs.46473|Hs.46473
+entrezgene|AA055757|1466	unigene|Hs.530904|Hs.530904
+entrezgene|AA128250|56970	unigene|Hs.512651|Hs.512651
+entrezgene|H28266|2331	unigene|Hs.519168|Hs.519168
+entrezgene|H51359|785	unigene|Hs.120725|Hs.120725
+entrezgene|R76162|25984	unigene|Hs.9029|Hs.9029
+embl|R60838|R60838
+entrezgene|N64856|11064	unigene|Hs.653263|Hs.653263
+entrezgene|H80401|7525	unigene|Hs.194148|Hs.194148
+embl|N51836|N51836	unigene|Hs.643516|Hs.643516
+entrezgene|R23635|5718	unigene|Hs.646575|Hs.646575
+entrezgene|BM921829|51374	unigene|Hs.9527|Hs.9527
+entrezgene|R39624|83992	unigene|Hs.592285|Hs.592285
+entrezgene|AA029107|1287	unigene|Hs.369089|Hs.369089
+entrezgene|W39139|79956	unigene|Hs.591078|Hs.591078
+entrezgene|AA115108|966	unigene|Hs.278573|Hs.278573
+entrezgene|W25045|2971	unigene|Hs.445977|Hs.445977
+embl|N94625|N94625	unigene|Hs.82933|Hs.82933
+entrezgene|T67154|83943	unigene|Hs.655722|Hs.655722
+entrezgene|N42000|22879	unigene|Hs.513743|Hs.513743
+entrezgene|R97175|1954	unigene|Hs.132583|Hs.132583
+entrezgene|W47038|115701	unigene|Hs.656805|Hs.656805
+entrezgene|AA114871|48	unigene|Hs.651276|Hs.651276
+entrezgene|W39214|9247	unigene|Hs.227098|Hs.227098
+entrezgene|R74405|339745	unigene|Hs.333297|Hs.333297
+entrezgene|N99208|5511	unigene|Hs.533474|Hs.533474
+entrezgene|H21596|5468	unigene|Hs.162646|Hs.162646
+entrezgene|H68952|53918	unigene|Hs.644352|Hs.644352
+entrezgene|BG393423|440400	unigene|Hs.206824|Hs.206824
+embl|AA203137|AA203137	unigene|Hs.343015|Hs.343015
+entrezgene|R80701|885	unigene|Hs.458426|Hs.458426
+entrezgene|AA010228|2036	unigene|Hs.437422|Hs.437422
+entrezgene|H43546|149041
+embl|AA148806|AA148806
+embl|H09945|H09945
+entrezgene|N41907|375748	unigene|Hs.632686|Hs.632686
+entrezgene|R22272|5494	unigene|Hs.592298|Hs.592298
+entrezgene|R80974|7465	unigene|Hs.249441|Hs.249441
+entrezgene|R85191|146956	unigene|Hs.514330|Hs.514330
+embl|AA125913|AA125913
+entrezgene|AA024681|91133	unigene|Hs.128279|Hs.128279
+entrezgene|AA417686|1456	unigene|Hs.129206|Hs.129206
+embl|H48867|H48867
+entrezgene|BI916335|51510	unigene|Hs.415534|Hs.415534
+entrezgene|R85333|1327	unigene|Hs.433419|Hs.433419
+entrezgene|T98068|6876	unigene|Hs.443752|Hs.443752
+entrezgene|BG572617|23788	unigene|Hs.269944|Hs.269944
+embl|R05615|R05615
+entrezgene|W46647|4016	unigene|Hs.65436|Hs.65436
+entrezgene|AA099899|10735	unigene|Hs.496710|Hs.496710
+embl|R23351|R23351	unigene|Hs.42400|Hs.42400
+entrezgene|W79028|729020	unigene|Hs.458437|Hs.458437
+embl|R86152|R86152	unigene|Hs.684854|Hs.684854
+entrezgene|R31243|283131	unigene|Hs.523789|Hs.523789
+entrezgene|W39588|57118	unigene|Hs.659517|Hs.659517
+embl|T51910|T51910	unigene|Hs.9333|Hs.9333
+entrezgene|BM975246|308	unigene|Hs.480653|Hs.480653
+entrezgene|R22358|54472	unigene|Hs.368527|Hs.368527
+entrezgene|W88518|57212	unigene|Hs.49658|Hs.49658
+entrezgene|T98990|23357	unigene|Hs.497448|Hs.497448
+entrezgene|W30686|114825	unigene|Hs.653161|Hs.653161
+embl|AA035754|AA035754	unigene|Hs.529249|Hs.529249
+entrezgene|W38754|92595	unigene|Hs.132227|Hs.132227
+entrezgene|AA043597|55454	unigene|Hs.180758|Hs.180758
+entrezgene|H18571|84937	unigene|Hs.427284|Hs.427284
+entrezgene|H45017|55033	unigene|Hs.571333|Hs.571333
+entrezgene|N49822|2938	unigene|Hs.446309|Hs.446309
+entrezgene|BI197157|112	unigene|Hs.525401|Hs.525401
+entrezgene|R25519|51440	unigene|Hs.524688|Hs.524688
+entrezgene|R72449|64410	unigene|Hs.498371|Hs.498371
+entrezgene|R72674|54942	unigene|Hs.29276|Hs.29276
+entrezgene|BQ050102|5690	unigene|Hs.471441|Hs.471441
+entrezgene|N33749|203238	unigene|Hs.17267|Hs.17267
+entrezgene|AI017925|6383	unigene|Hs.1501|Hs.1501
+entrezgene|H59530|1111	unigene|Hs.24529|Hs.24529
+entrezgene|T70425|9330	unigene|Hs.470996|Hs.470996
+embl|AA131587|AA131587	unigene|Hs.5443|Hs.5443
+embl|N73209|N73209
+embl|R22500|R22500	unigene|Hs.224607|Hs.224607
+entrezgene|AA032031|152485	unigene|Hs.133916|Hs.133916
+entrezgene|W04381|79364	unigene|Hs.440049|Hs.440049
+entrezgene|AA131244|55811
+entrezgene|N90823|114876	unigene|Hs.370725|Hs.370725
+entrezgene|AA035381|10516	unigene|Hs.332708|Hs.332708
+embl|W24031|W24031	unigene|Hs.511138|Hs.511138
+embl|H46509|H46509	unigene|Hs.33314|Hs.33314
+entrezgene|N78300|2994	unigene|Hs.654368|Hs.654368
+embl|AA035066|AA035066	unigene|Hs.546449|Hs.546449
+entrezgene|BF697260|3929	unigene|Hs.154078|Hs.154078
+entrezgene|BQ017386|23588	unigene|Hs.509264|Hs.509264
+entrezgene|N76696|64145	unigene|Hs.475565|Hs.475565
+entrezgene|AA142986|55339	unigene|Hs.620490|Hs.620490
+entrezgene|N92785|94031	unigene|Hs.479119|Hs.479119
+entrezgene|N39086|27300	unigene|Hs.438994|Hs.438994
+entrezgene|T99046|10439	unigene|Hs.522484|Hs.522484
+entrezgene|R48713|57217	unigene|Hs.370603|Hs.370603
+entrezgene|R61223|154141	unigene|Hs.377830|Hs.377830
+entrezgene|BG618119|727	unigene|Hs.494997|Hs.494997
+entrezgene|H55982|5034	unigene|Hs.464336|Hs.464336
+entrezgene|BG287461|4534	unigene|Hs.655056|Hs.655056
+entrezgene|R23880|387715	unigene|Hs.120359|Hs.120359
+entrezgene|N39935|10443	unigene|Hs.507680|Hs.507680
+embl|AA059169|AA059169	unigene|Hs.591395|Hs.591395
+embl|T81851|T81851
+entrezgene|AW067888|56172	unigene|Hs.156727|Hs.156727
+entrezgene|BF741822|654433	unigene|Hs.469728|Hs.469728
+entrezgene|W01452|253769	unigene|Hs.131903|Hs.131903
+entrezgene|H50029|7335	unigene|Hs.420529|Hs.420529
+entrezgene|AA034977|57017	unigene|Hs.513632|Hs.513632
+entrezgene|BM789379|7458	unigene|Hs.520943|Hs.520943
+entrezgene|R72491|57182	unigene|Hs.480694|Hs.480694
+entrezgene|R71126|7940	unigene|Hs.436066|Hs.436066
+embl|AI733522|AI733522	unigene|Hs.25996|Hs.25996
+embl|T83676|T83676	unigene|Hs.520096|Hs.520096
+entrezgene|R39653|54799	unigene|Hs.652131|Hs.652131
+embl|R13634|R13634
+embl|AA044889|AA044889	unigene|Hs.550850|Hs.550850
+entrezgene|T78254|91833	unigene|Hs.36859|Hs.36859
+entrezgene|AA027029|6519	unigene|Hs.112916|Hs.112916
+entrezgene|AA045673|8572	unigene|Hs.424312|Hs.424312
+embl|R72271|R72271	unigene|Hs.181696|Hs.181696
+entrezgene|W68683|1240	unigene|Hs.197143|Hs.197143
+entrezgene|BM770518|649	unigene|Hs.1274|Hs.1274
+entrezgene|R83625|92	unigene|Hs.470174|Hs.470174
+entrezgene|H69159|23080	unigene|Hs.128056|Hs.128056
+entrezgene|AA136950|84898	unigene|Hs.658134|Hs.658134
+embl|T85826|T85826	unigene|Hs.655941|Hs.655941
+embl|T40674|T40674	unigene|Hs.436161|Hs.436161
+entrezgene|R77679|26	unigene|Hs.647097|Hs.647097
+entrezgene|H62616|6819	unigene|Hs.436123|Hs.436123
+entrezgene|T84669|50809	unigene|Hs.142442|Hs.142442
+entrezgene|R23556|84687	unigene|Hs.514323|Hs.514323
+entrezgene|BQ073285|7001	unigene|Hs.432121|Hs.432121
+entrezgene|H77475|126917	unigene|Hs.466625|Hs.466625
+entrezgene|T84846|5333	unigene|Hs.80776|Hs.80776
+entrezgene|R01798|26524	unigene|Hs.78960|Hs.78960
+entrezgene|N36058|23362	unigene|Hs.434255|Hs.434255
+entrezgene|AA150320|64149	unigene|Hs.655257|Hs.655257
+entrezgene|R55134|83439	unigene|Hs.516297|Hs.516297
+embl|T65600|T65600
+entrezgene|R09746|51454	unigene|Hs.653579|Hs.653579
+embl|T84526|T84526	unigene|Hs.430138|Hs.430138
+entrezgene|R13675|56924	unigene|Hs.513645|Hs.513645
+entrezgene|AL710007|30061	unigene|Hs.643005|Hs.643005
+embl|AA114965|AA114965	unigene|Hs.268675|Hs.268675
+embl|N44161|N44161	unigene|Hs.432548|Hs.432548
+entrezgene|BM835708|4780	unigene|Hs.155396|Hs.155396
+entrezgene|BE644608|2923	unigene|Hs.591095|Hs.591095
+entrezgene|R54688|66004
+entrezgene|R12731|63925	unigene|Hs.174193|Hs.174193
+embl|T70758|T70758	unigene|Hs.461453|Hs.461453
+entrezgene|R84720|9612	unigene|Hs.137510|Hs.137510
+entrezgene|N44486|55233	unigene|Hs.196437|Hs.196437
+entrezgene|W90264|79742	unigene|Hs.98321|Hs.98321
+entrezgene|H29950|10140	unigene|Hs.531550|Hs.531550
+entrezgene|R90763|9148	unigene|Hs.654845|Hs.654845
+entrezgene|H53304|387647	unigene|Hs.549324|Hs.549324
+entrezgene|H61499|7049	unigene|Hs.482390|Hs.482390
+embl|AA203248|AA203248
+entrezgene|BQ051499|29888	unigene|Hs.631590|Hs.631590
+embl|R56397|R56397	unigene|Hs.464971|Hs.464971
+embl|AA009953|AA009953	unigene|Hs.126397|Hs.126397
+entrezgene|T64853|384	unigene|Hs.653205|Hs.653205
+entrezgene|N44149|55619	unigene|Hs.46578|Hs.46578
+entrezgene|W03483|55283	unigene|Hs.535239|Hs.535239
+embl|H51378|H51378
+embl|N76871|N76871
+entrezgene|AW371974|85403	unigene|Hs.474479|Hs.474479
+embl|AA418117|AA418117
+entrezgene|W63762|1355	unigene|Hs.591916|Hs.591916
+embl|R54767|R54767	unigene|Hs.484396|Hs.484396
+entrezgene|H70440|10964	unigene|Hs.389724|Hs.389724
+embl|AA203276|AA203276	unigene|Hs.405153|Hs.405153
+entrezgene|H70153|56953	unigene|Hs.513977|Hs.513977
+entrezgene|H52445|79782	unigene|Hs.411295|Hs.411295
+entrezgene|AA037161|9590	unigene|Hs.371240|Hs.371240
+embl|R05624|R05624
+entrezgene|AA007323|78991	unigene|Hs.644397|Hs.644397
+entrezgene|N40367|1393	unigene|Hs.115617|Hs.115617
+entrezgene|R10514|1579	unigene|Hs.1645|Hs.1645
+embl|AA004570|AA004570
+entrezgene|H59688|23632	unigene|Hs.528988|Hs.528988
+entrezgene|BG469908|10723	unigene|Hs.172613|Hs.172613
+entrezgene|R25707|1463	unigene|Hs.169047|Hs.169047
+entrezgene|N27680|54187	unigene|Hs.522310|Hs.522310
+entrezgene|N41539|6667	unigene|Hs.649191|Hs.649191
+embl|N80979|N80979
+embl|AA099050|AA099050	unigene|Hs.657753|Hs.657753
+entrezgene|N40633|83935	unigene|Hs.44004|Hs.44004
+embl|T80689|T80689	unigene|Hs.483784|Hs.483784
+entrezgene|AA829824|5936	unigene|Hs.533712|Hs.533712
+embl|AA010372|AA010372	unigene|Hs.309849|Hs.309849
+entrezgene|W05496|6304	unigene|Hs.517717|Hs.517717
+entrezgene|R35704|139728	unigene|Hs.436667|Hs.436667
+embl|T85151|T85151
+embl|T72733|T72733	unigene|Hs.335599|Hs.335599
+embl|R59429|R59429
+embl|R22691|R22691	unigene|Hs.655699|Hs.655699
+entrezgene|T78351|5745	unigene|Hs.1019|Hs.1019
+embl|T70427|T70427	unigene|Hs.524336|Hs.524336
+embl|AA037296|AA037296	unigene|Hs.330463|Hs.330463
+embl|R10234|R10234	unigene|Hs.368611|Hs.368611
+embl|AA156978|AA156978	unigene|Hs.403933|Hs.403933
+embl|H08267|H08267
+entrezgene|AL532644|23270	unigene|Hs.284141|Hs.284141
+embl|R22836|R22836	unigene|Hs.654564|Hs.654564
+entrezgene|W00882|360	unigene|Hs.234642|Hs.234642
+entrezgene|N42714|10311	unigene|Hs.369488|Hs.369488
+entrezgene|H78764|54955	unigene|Hs.272673|Hs.272673
+embl|R10654|R10654	unigene|Hs.221785|Hs.221785
+entrezgene|R61775|146330	unigene|Hs.513244|Hs.513244
+embl|AA203486|AA203486	unigene|Hs.654566|Hs.654566
+entrezgene|H15287|56924	unigene|Hs.513645|Hs.513645
+entrezgene|H16097|115560	unigene|Hs.401045|Hs.401045
+embl|R14814|R14814
+entrezgene|H86020|4711	unigene|Hs.518424|Hs.518424
+embl|N80997|N80997
+entrezgene|N28915|64781	unigene|Hs.200668|Hs.200668
+embl|AA001811|AA001811	unigene|Hs.83722|Hs.83722
+entrezgene|H26642|440498	unigene|Hs.191582|Hs.191582
+embl|AA132197|AA132197
+embl|AA001716|AA001716	unigene|Hs.472558|Hs.472558
+embl|N42331|N42331	unigene|Hs.445387|Hs.445387
+entrezgene|AA004449|5635	unigene|Hs.77498|Hs.77498
+entrezgene|N79232|286	unigene|Hs.654438|Hs.654438
+embl|N40305|N40305
+entrezgene|R20318|170960	unigene|Hs.428360|Hs.428360
+entrezgene|H29923|2686	unigene|Hs.433738|Hs.433738
+entrezgene|H52976|1802	unigene|Hs.632398|Hs.632398
+embl|R56392|R56392	unigene|Hs.631988|Hs.631988
+entrezgene|AA009951|64398	unigene|Hs.652312|Hs.652312
+entrezgene|H66078|23302	unigene|Hs.370166|Hs.370166
+entrezgene|T75255|54816
+entrezgene|T83159|4046	unigene|Hs.56729|Hs.56729
+embl|H70311|H70311	unigene|Hs.506997|Hs.506997
+entrezgene|BI914695|57611	unigene|Hs.254775|Hs.254775
+embl|AA099171|AA099171	unigene|Hs.517356|Hs.517356
+embl|W87319|W87319	unigene|Hs.654677|Hs.654677
+entrezgene|H52973|55684	unigene|Hs.567803|Hs.567803
+embl|H91361|H91361
+entrezgene|AA059211|4117	unigene|Hs.446125|Hs.446125
+embl|AA056540|AA056540	unigene|Hs.401232|Hs.401232
+entrezgene|N40829|126070	unigene|Hs.418192|Hs.418192
+embl|N28912|N28912
+embl|R09580|R09580	unigene|Hs.549451|Hs.549451
+entrezgene|R92831|80862	unigene|Hs.653168|Hs.653168
+entrezgene|H29086|55904	unigene|Hs.592262|Hs.592262
+entrezgene|W88842|1387	unigene|Hs.459759|Hs.459759
+entrezgene|R52848|3992	unigene|Hs.503546|Hs.503546
+entrezgene|W19461|10152	unigene|Hs.471156|Hs.471156
+embl|N36478|N36478
+embl|N39815|N39815
+embl|W04479|W04479
+entrezgene|H28872|1615	unigene|Hs.503787|Hs.503787
+entrezgene|W47664|1728	unigene|Hs.406515|Hs.406515
+embl|H41577|H41577	unigene|Hs.268803|Hs.268803
+embl|T66987|T66987	unigene|Hs.356719|Hs.356719
+embl|H83495|H83495	unigene|Hs.163424|Hs.163424
+entrezgene|N91433|3075	unigene|Hs.363396|Hs.363396
+embl|AA044150|AA044150	unigene|Hs.584788|Hs.584788
+embl|N90493|N90493
+embl|T26478|T26478	unigene|Hs.511504|Hs.511504
+embl|H42800|H42800	unigene|Hs.547307|Hs.547307
+entrezgene|W37862|8490	unigene|Hs.24950|Hs.24950
+embl|H74091|H74091	unigene|Hs.409578|Hs.409578
+embl|W87330|W87330	unigene|Hs.387336|Hs.387336
+entrezgene|H73833|55660	unigene|Hs.643580|Hs.643580
+entrezgene|R89157|147339	unigene|Hs.116486|Hs.116486
+entrezgene|AA059376|653513	unigene|Hs.584841|Hs.584841
+entrezgene|N64116|80304	unigene|Hs.24624|Hs.24624
+embl|N99429|N99429
+entrezgene|BQ100969|5430	unigene|Hs.270017|Hs.270017
+embl|H73881|H73881	unigene|Hs.437958|Hs.437958
+embl|H45507|H45507	unigene|Hs.102336|Hs.102336
+embl|N98243|N98243	unigene|Hs.459691|Hs.459691
+entrezgene|R19763|79586	unigene|Hs.516711|Hs.516711
+embl|AA772319|AA772319	unigene|Hs.568555|Hs.568555
+entrezgene|H70367|10058	unigene|Hs.107911|Hs.107911
+entrezgene|R16431|80167	unigene|Hs.445817|Hs.445817
+entrezgene|T90167|170392	unigene|Hs.8366|Hs.8366
+entrezgene|H10416|56172	unigene|Hs.156727|Hs.156727
+entrezgene|W68436|64434	unigene|Hs.15825|Hs.15825
+embl|T66866|T66866	unigene|Hs.567582|Hs.567582
+embl|H95416|H95416
+entrezgene|R13742|57711
+embl|W87356|W87356	unigene|Hs.356604|Hs.356604
+embl|H72773|H72773	unigene|Hs.514494|Hs.514494
+entrezgene|H78468|11335	unigene|Hs.381189|Hs.381189
+entrezgene|BF111337|150290	unigene|Hs.517544|Hs.517544
+entrezgene|BG766316|7026	unigene|Hs.347991|Hs.347991
+entrezgene|T82940|993	unigene|Hs.437705|Hs.437705
+embl|H82185|H82185
+entrezgene|N27569|57412	unigene|Hs.34492|Hs.34492
+entrezgene|AA004472|80262	unigene|Hs.513666|Hs.513666
+embl|W30950|W30950
+entrezgene|N35453|4173	unigene|Hs.460184|Hs.460184
+embl|T85120|T85120
+embl|H46350|H46350
+embl|H51901|H51901
+embl|W88476|W88476
+embl|R85326|R85326
+entrezgene|BG110260|55033	unigene|Hs.390838|Hs.390838
+entrezgene|T97204|3570	unigene|Hs.591492|Hs.591492
+embl|N80347|N80347
+entrezgene|BI915449|139728	unigene|Hs.436667|Hs.436667
+entrezgene|H51993|57506	unigene|Hs.134883|Hs.134883
+embl|H71504|H71504
+embl|R13326|R13326
+embl|H59225|H59225	unigene|Hs.35755|Hs.35755
+entrezgene|H66235|6311	unigene|Hs.76253|Hs.76253
+entrezgene|H63698|222236	unigene|Hs.324271|Hs.324271
+embl|H93475|H93475
+embl|W85982|W85982	unigene|Hs.471277|Hs.471277
+embl|T72668|T72668	unigene|Hs.12664|Hs.12664
+embl|N40606|N40606	unigene|Hs.269028|Hs.269028
+embl|N31231|N31231	unigene|Hs.693637|Hs.693637
+entrezgene|N39630|5027	unigene|Hs.507102|Hs.507102
+embl|AA115258|AA115258	unigene|Hs.520348|Hs.520348
+embl|R09864|R09864	unigene|Hs.371979|Hs.371979
+embl|H67332|H67332	unigene|Hs.276925|Hs.276925
+embl|T91013|T91013
+entrezgene|BM968601|10615	unigene|Hs.514033|Hs.514033
+embl|R20847|R20847	unigene|Hs.659456|Hs.659456
+embl|AA001809|AA001809
+entrezgene|R25514|116228	unigene|Hs.411490|Hs.411490
+embl|H29394|H29394	unigene|Hs.118262|Hs.118262
+embl|H15507|H15507
+entrezgene|AA011627|5452	unigene|Hs.654420|Hs.654420
+embl|R51454|R51454
+entrezgene|AA033651|11226	unigene|Hs.505575|Hs.505575
+entrezgene|AI820771|11320	unigene|Hs.177576|Hs.177576
+embl|R09401|R09401
+entrezgene|AA033793|207063
+embl|H58208|H58208	unigene|Hs.101774|Hs.101774
+entrezgene|BG540413|84932	unigene|Hs.22399|Hs.22399
+entrezgene|W07294|8654	unigene|Hs.535008|Hs.535008
+entrezgene|H95221|84769
+entrezgene|AA143155|6648	unigene|Hs.510301|Hs.510301
+entrezgene|H80756|4026	unigene|Hs.444362|Hs.444362
+embl|T84155|T84155	unigene|Hs.15464|Hs.15464
+embl|AU133603|AU133603	unigene|Hs.443831|Hs.443831
+embl|AU146798|AU146798	unigene|Hs.483239|Hs.483239
+embl|W01921|W01921	unigene|Hs.191346|Hs.191346
+entrezgene|BQ027612|4089	unigene|Hs.75862|Hs.75862
+embl|R13776|R13776
+embl|W24540|W24540	unigene|Hs.657318|Hs.657318
+entrezgene|T89355|64097	unigene|Hs.584954|Hs.584954
+embl|T84449|T84449
+embl|H99439|H99439	unigene|Hs.655699|Hs.655699
+entrezgene|AA007268|1912	unigene|Hs.524271|Hs.524271
+entrezgene|T82899|9043	unigene|Hs.463439|Hs.463439
+embl|N73022|N73022
+entrezgene|H23930|23175	unigene|Hs.467740|Hs.467740
+entrezgene|BG032420|55798	unigene|Hs.433213|Hs.433213
+embl|N98743|N98743
+embl|AA203367|AA203367	unigene|Hs.461361|Hs.461361
+embl|AA203579|AA203579	unigene|Hs.654408|Hs.654408
+entrezgene|AA011699|57464	unigene|Hs.489988|Hs.489988
+entrezgene|H42171|5870	unigene|Hs.503222|Hs.503222
+embl|H37961|H37961
+embl|N40837|N40837
+embl|AA035135|AA035135
+entrezgene|AA203381|25992	unigene|Hs.159556|Hs.159556
+embl|AA059369|AA059369	unigene|Hs.446125|Hs.446125
+entrezgene|R13562|8629	unigene|Hs.535903|Hs.535903
+embl|AA009952|AA009952	unigene|Hs.420757|Hs.420757
+embl|R59156|R59156
+embl|BI913396|BI913396
+embl|T82919|T82919
+embl|T83044|T83044	unigene|Hs.649408|Hs.649408
+entrezgene|H14414|7748	unigene|Hs.386294|Hs.386294
+entrezgene|F12920|26272	unigene|Hs.165575|Hs.165575
+entrezgene|AA035152|6169	unigene|Hs.380953|Hs.380953
+embl|W01759|W01759
+entrezgene|H08880|79904	unigene|Hs.463549|Hs.463549
+entrezgene|BQ024932|347918	unigene|Hs.122115|Hs.122115
+embl|H53178|H53178
+entrezgene|AA044796|729096
+entrezgene|R67296|54733	unigene|Hs.524014|Hs.524014
+entrezgene|R10316|1915	unigene|Hs.654617|Hs.654617
+embl|H02480|H02480	unigene|Hs.416436|Hs.416436
+entrezgene|R56646|5413	unigene|Hs.283743|Hs.283743
+entrezgene|R60825|5601	unigene|Hs.654461|Hs.654461
+embl|H60507|H60507	unigene|Hs.130014|Hs.130014
+embl|R85157|R85157	unigene|Hs.505202|Hs.505202
+embl|AW963288|AW963288
+embl|AA059351|AA059351
+embl|H44682|H44682
+entrezgene|H73225|1021	unigene|Hs.119882|Hs.119882
+entrezgene|R20833|150568	unigene|Hs.107284|Hs.107284
+embl|W92881|W92881	unigene|Hs.660053|Hs.660053
+embl|T79884|T79884	unigene|Hs.448887|Hs.448887
+embl|N76285|N76285	unigene|Hs.20798|Hs.20798
+embl|H65569|H65569	unigene|Hs.591227|Hs.591227
+embl|H77878|H77878	unigene|Hs.418822|Hs.418822
+embl|H56413|H56413
+embl|H47448|H47448	unigene|Hs.502458|Hs.502458
+entrezgene|R48160|340554	unigene|Hs.21249|Hs.21249
+embl|T66865|T66865	unigene|Hs.567582|Hs.567582
+entrezgene|T70392|79092	unigene|Hs.655729|Hs.655729
+entrezgene|N59717|5566	unigene|Hs.631630|Hs.631630
+embl|H98488|H98488	unigene|Hs.535781|Hs.535781
+embl|H43156|H43156
+entrezgene|T84626|9663	unigene|Hs.132342|Hs.132342
+embl|AF039185|AF039185	unigene|Hs.494529|Hs.494529
+embl|N31707|N31707
+embl|H86214|H86214	unigene|Hs.258314|Hs.258314
+embl|H49751|H49751	unigene|Hs.546847|Hs.546847
+embl|H44996|H44996	unigene|Hs.431101|Hs.431101
+embl|H16378|H16378	unigene|Hs.190621|Hs.190621
+embl|H15482|H15482
+embl|W01514|W01514
+embl|BG678236|BG678236	unigene|Hs.432984|Hs.432984
+entrezgene|H17697|91949	unigene|Hs.185807|Hs.185807
+embl|R97958|R97958
+entrezgene|R98556|1528	unigene|Hs.465413|Hs.465413
+entrezgene|N24984|2936	unigene|Hs.271510|Hs.271510
+entrezgene|R73212|134145	unigene|Hs.481569|Hs.481569
+embl|AA010222|AA010222	unigene|Hs.445030|Hs.445030
+embl|AA002232|AA002232	unigene|Hs.546269|Hs.546269
+embl|H77360|H77360
+entrezgene|R15445|348235	unigene|Hs.463607|Hs.463607
+embl|R09079|R09079	unigene|Hs.476179|Hs.476179
+entrezgene|H17891|28511	unigene|Hs.632252|Hs.632252
+entrezgene|W02584|1130	unigene|Hs.532411|Hs.532411
+entrezgene|BE790941|79172	unigene|Hs.693660|Hs.693660
+entrezgene|AL535210|23046	unigene|Hs.169182|Hs.169182
+embl|N27034|N27034
+embl|H63351|H63351	unigene|Hs.19904|Hs.19904
+embl|N53160|N53160	unigene|Hs.512776|Hs.512776
+embl|R18657|R18657
+embl|W04230|W04230	unigene|Hs.31968|Hs.31968
+entrezgene|R09272|10548
+embl|R22291|R22291
+entrezgene|T72724|284900	unigene|Hs.549617|Hs.549617
+embl|R94090|R94090
+embl|N59753|N59753	unigene|Hs.475018|Hs.475018
+embl|W92841|W92841	unigene|Hs.658200|Hs.658200
+entrezgene|AA203453|8780	unigene|Hs.445511|Hs.445511
+entrezgene|R10799|23613	unigene|Hs.446240|Hs.446240
+embl|H03226|H03226
+entrezgene|H45907|79932
+embl|AA194094|AA194094
+entrezgene|H38121|79863	unigene|Hs.32766|Hs.32766
+embl|H15500|H15500	unigene|Hs.75694|Hs.75694
+embl|W88821|W88821	unigene|Hs.693681|Hs.693681
+embl|AA203153|AA203153
+entrezgene|T75301|151195
+embl|BG001070|BG001070	unigene|Hs.66|Hs.66
+embl|W84860|W84860
+embl|N40057|N40057
+embl|AA033796|AA033796
+entrezgene|R61235|10875	unigene|Hs.520989|Hs.520989
+embl|R01414|R01414
+embl|T84160|T84160
+embl|T77763|T77763
+embl|R89503|R89503
+embl|R00951|R00951
+embl|T89551|T89551	unigene|Hs.414407|Hs.414407
+entrezgene|BG541598|127262	unigene|Hs.20529|Hs.20529
+embl|T80652|T80652	unigene|Hs.303669|Hs.303669
+embl|R17992|R17992	unigene|Hs.507162|Hs.507162
+entrezgene|T65459|26034	unigene|Hs.146100|Hs.146100
+embl|AI820821|AI820821	unigene|Hs.444931|Hs.444931
+embl|R90973|R90973	unigene|Hs.476636|Hs.476636
+entrezgene|R81939|2673	unigene|Hs.645286|Hs.645286
+entrezgene|R14993|192670	unigene|Hs.471492|Hs.471492
+embl|AA007532|AA007532
+embl|R10608|R10608
+embl|T77316|T77316
+embl|R87818|R87818	unigene|Hs.210013|Hs.210013
+entrezgene|H72399|7018	unigene|Hs.518267|Hs.518267
+entrezgene|R67750|81607	unigene|Hs.492490|Hs.492490
+entrezgene|N26569|1773	unigene|Hs.657504|Hs.657504
+embl|R14513|R14513
+embl|T91293|T91293
+entrezgene|R70838|11160	unigene|Hs.125849|Hs.125849
+embl|R96585|R96585
+embl|R15896|R15896	unigene|Hs.546269|Hs.546269
+embl|R73468|R73468	unigene|Hs.499901|Hs.499901
+entrezgene|H43564|1355
+embl|R82287|R82287
+embl|AA011716|AA011716	unigene|Hs.395482|Hs.395482
+embl|H72435|H72435	unigene|Hs.335034|Hs.335034
+embl|R89424|R89424
+embl|H81132|H81132	unigene|Hs.535736|Hs.535736
+entrezgene|N24477|91316	unigene|Hs.407693|Hs.407693
+embl|R00458|R00458	unigene|Hs.567495|Hs.567495
+entrezgene|AA004532|2521	unigene|Hs.513522|Hs.513522
+embl|R14137|R14137
+embl|H61574|H61574
+entrezgene|BM552214|51109	unigene|Hs.653205|Hs.653205
+entrezgene|H85192|83743	unigene|Hs.400625|Hs.400625
+embl|W20275|W20275	unigene|Hs.287518|Hs.287518
+embl|BF540816|BF540816
+entrezgene|H29349|54806	unigene|Hs.386684|Hs.386684
+entrezgene|BQ014343|57488	unigene|Hs.490795|Hs.490795
+embl|H54658|H54658	unigene|Hs.268942|Hs.268942
+embl|T80666|T80666
+entrezgene|R13038|127262	unigene|Hs.20529|Hs.20529
+entrezgene|H19015|126231	unigene|Hs.531262|Hs.531262
+embl|N59038|N59038
+embl|R93799|R93799
+embl|T89549|T89549	unigene|Hs.369017|Hs.369017
+entrezgene|BG942204|6651	unigene|Hs.517262|Hs.517262
+embl|T96767|T96767
+entrezgene|H93958|2822	unigene|Hs.591810|Hs.591810
+embl|T81846|T81846
+entrezgene|H10872|11146	unigene|Hs.49105|Hs.49105
+entrezgene|W68477|51279	unigene|Hs.631730|Hs.631730
+embl|T83314|T83314	unigene|Hs.13854  |Hs.13854  
+embl|N72788|N72788
+embl|AA131265|AA131265
+entrezgene|H83085|284996	unigene|Hs.142074|Hs.142074
+entrezgene|R09890|6146	unigene|Hs.659873|Hs.659873
+entrezgene|R11616|79134	unigene|Hs.376722|Hs.376722
+entrezgene|H47468|84946	unigene|Hs.185675|Hs.185675
+entrezgene|R11683|30837	unigene|Hs.632261|Hs.632261
+embl|H68977|H68977
+embl|W63553|W63553	unigene|Hs.192586|Hs.192586
+embl|H48017|H48017	unigene|Hs.271771|Hs.271771
+entrezgene|H73255|9064	unigene|Hs.194694|Hs.194694
+embl|T83011|T83011	unigene|Hs.478892|Hs.478892
+entrezgene|AA115064|100131655
+embl|R20332|R20332
+embl|H21835|H21835	unigene|Hs.13349|Hs.13349
+embl|T84873|T84873	unigene|Hs.413416|Hs.413416
+entrezgene|AA009431|23236	unigene|Hs.431173|Hs.431173
+embl|AI241470|AI241470
+entrezgene|H52061|64224	unigene|Hs.651273|Hs.651273
+entrezgene|T83174|10095	unigene|Hs.489284|Hs.489284
+embl|R07141|R07141	unigene|Hs.245931|Hs.245931
+entrezgene|AA116105|51154	unigene|Hs.463797|Hs.463797
+embl|T64788|T64788	unigene|Hs.656783|Hs.656783
+embl|W87326|W87326
+embl|R66251|R66251
+entrezgene|T84327|6006	unigene|Hs.449968|Hs.449968
+embl|R72225|R72225	unigene|Hs.570065|Hs.570065
+embl|T82000|T82000	unigene|Hs.126941|Hs.126941
+embl|H68800|H68800	unigene|Hs.141283|Hs.141283
+entrezgene|R50904|54509
+embl|H59552|H59552	unigene|Hs.158126|Hs.158126
+embl|AA007283|AA007283	unigene|Hs.107845|Hs.107845
+entrezgene|H48337|5336	unigene|Hs.413111|Hs.413111
+embl|AA203245|AA203245	unigene|Hs.269211|Hs.269211
+entrezgene|H83829|23215	unigene|Hs.494614|Hs.494614
+entrezgene|H84133|162963	unigene|Hs.357663|Hs.357663
+embl|AA203154|AA203154	unigene|Hs.92033|Hs.92033
+embl|AI733537|AI733537	unigene|Hs.371828|Hs.371828
+embl|W89167|W89167	unigene|Hs.652174|Hs.652174
+embl|R20201|R20201	unigene|Hs.408497|Hs.408497
+entrezgene|W86935|4057	unigene|Hs.529517|Hs.529517
+embl|H58278|H58278
+embl|N73250|N73250
+entrezgene|H53893|8800	unigene|Hs.31034|Hs.31034
+embl|R94490|R94490	unigene|Hs.546404|Hs.546404
+entrezgene|BG288116|3673	unigene|Hs.482077  |Hs.482077  
+embl|AL599125|AL599125
+embl|N90450|N90450	unigene|Hs.507910|Hs.507910
+embl|R06336|R06336
+entrezgene|BI553511|285281	unigene|Hs.121333  |Hs.121333  
+entrezgene|Z42791|118460	unigene|Hs.461187|Hs.461187
+embl|AL601348|AL601348
+embl|H06821|H06821	unigene|Hs.459842|Hs.459842
+embl|T83773|T83773
+embl|R17784|R17784
+embl|R55949|R55949	unigene|Hs.520477|Hs.520477
+embl|AA203563|AA203563	unigene|Hs.485380|Hs.485380
+embl|H75915|H75915	unigene|Hs.477155|Hs.477155
+embl|AA011495|AA011495	unigene|Hs.173162|Hs.173162
+entrezgene|H95413|51478	unigene|Hs.492925|Hs.492925
+entrezgene|N77510|1106	unigene|Hs.220864|Hs.220864
+embl|T80917|T80917	unigene|Hs.269412|Hs.269412
+embl|N90462|N90462	unigene|Hs.99216|Hs.99216
+embl|AA130098|AA130098	unigene|Hs.576320|Hs.576320
+entrezgene|R52843|91977	unigene|Hs.91626|Hs.91626
+embl|N41549|N41549
+embl|T75288|T75288	unigene|Hs.658451|Hs.658451
+embl|AA203309|AA203309
+entrezgene|W67485|7695	unigene|Hs.479874|Hs.479874
+embl|H58180|H58180
+entrezgene|T83155|57542	unigene|Hs.505104|Hs.505104
+entrezgene|T84693|83549	unigene|Hs.522449|Hs.522449
+entrezgene|H29087|100131067
+embl|H69240|H69240
+entrezgene|AA045611|54876	unigene|Hs.655841|Hs.655841
+entrezgene|R79518|4162	unigene|Hs.230601|Hs.230601
+embl|T81569|T81569
+embl|R51521|R51521	unigene|Hs.572567  |Hs.572567  
+embl|H53470|H53470	unigene|Hs.301943|Hs.301943
+entrezgene|H78860|57534	unigene|Hs.140903|Hs.140903
+embl|T65200|T65200	unigene|Hs.388297|Hs.388297
+embl|R01338|R01338
+entrezgene|T81115|83608	unigene|Hs.37883|Hs.37883
+entrezgene|N41945|56242	unigene|Hs.659321|Hs.659321
+entrezgene|H08311|285605	unigene|Hs.655891|Hs.655891
+entrezgene|R66624|57534	unigene|Hs.140903|Hs.140903
+embl|W88843|W88843	unigene|Hs.474384|Hs.474384
+embl|H19386|H19386	unigene|Hs.643509|Hs.643509
+embl|T80219|T80219
+embl|AA045735|AA045735	unigene|Hs.501635|Hs.501635
+embl|H80571|H80571
+embl|H79989|H79989	unigene|Hs.224008|Hs.224008
+embl|T71395|T71395
+entrezgene|T74081|6309
+entrezgene|T67218|84245	unigene|Hs.439370|Hs.439370
+entrezgene|T84742|51449	unigene|Hs.591572|Hs.591572
+entrezgene|R92264|8560	unigene|Hs.299878|Hs.299878
+embl|R36181|R36181
+entrezgene|T66756|10251	unigene|Hs.381912|Hs.381912
+embl|T84792|T84792
+embl|H25629|H25629	unigene|Hs.643472|Hs.643472
+embl|AA126200|AA126200	unigene|Hs.66|Hs.66
+entrezgene|R99746|54799	unigene|Hs.652131|Hs.652131
+embl|R22311|R22311	unigene|Hs.643599|Hs.643599
+embl|R89866|R89866	unigene|Hs.471119|Hs.471119
+embl|R22088|R22088
+embl|T98982|T98982
+embl|AA203233|AA203233	unigene|Hs.283092|Hs.283092
+entrezgene|R67299|55652	unigene|Hs.438867|Hs.438867
+embl|T99914|T99914	unigene|Hs.269775|Hs.269775
+embl|AA125752|AA125752
+embl|R84397|R84397	unigene|Hs.431498|Hs.431498
+embl|T70532|T70532	unigene|Hs.444200|Hs.444200
+embl|H46447|H46447
+entrezgene|W19108|165324	unigene|Hs.591576|Hs.591576
+entrezgene|R74109|191585	unigene|Hs.472492|Hs.472492
+embl|BI772316|BI772316	unigene|Hs.655430|Hs.655430
+entrezgene|H93924|6491	unigene|Hs.525198|Hs.525198
+embl|N59245|N59245	unigene|Hs.47142|Hs.47142
+entrezgene|R16207|6566	unigene|Hs.75231|Hs.75231
+embl|H73646|H73646
+embl|H78115|H78115	unigene|Hs.591449|Hs.591449
+embl|R11620|R11620
+embl|R10043|R10043	unigene|Hs.256184|Hs.256184
+entrezgene|H64609|196	unigene|Hs.171189|Hs.171189
+embl|T84141|T84141	unigene|Hs.656746|Hs.656746
+embl|T82029|T82029	unigene|Hs.593446|Hs.593446
+embl|T70759|T70759	unigene|Hs.548299|Hs.548299
+embl|AA115009|AA115009
+embl|BM720199|BM720199
+embl|H80655|H80655	unigene|Hs.506655|Hs.506655
+entrezgene|R61769|57585	unigene|Hs.513261|Hs.513261
+embl|R96468|R96468	unigene|Hs.404741|Hs.404741
+embl|AI820750|AI820750	unigene|Hs.654807|Hs.654807
+embl|W23559|W23559
+embl|W78822|W78822	unigene|Hs.656673|Hs.656673
+embl|N76229|N76229	unigene|Hs.352638  |Hs.352638  
+embl|N40359|N40359	unigene|Hs.271896|Hs.271896
+entrezgene|R61480|148252	unigene|Hs.172753|Hs.172753
+embl|R05894|R05894
+embl|H73649|H73649	unigene|Hs.658939|Hs.658939
+embl|W04901|W04901	unigene|Hs.436031|Hs.436031
+entrezgene|H82010|8458	unigene|Hs.486818|Hs.486818
+embl|R96334|R96334
+embl|W88603|W88603	unigene|Hs.475319|Hs.475319
+embl|R14842|R14842
+embl|H10566|H10566
+embl|N94272|N94272
+embl|N95663|N95663
+embl|R02651|R02651
+entrezgene|BF967751|50940	unigene|Hs.570273|Hs.570273
+embl|H47667|H47667	unigene|Hs.591706|Hs.591706
+entrezgene|R19599|1267	unigene|Hs.273621|Hs.273621
+embl|R89399|R89399
+embl|T83091|T83091	unigene|Hs.498543|Hs.498543
+embl|AA001336|AA001336	unigene|Hs.443301|Hs.443301
+embl|H60907|H60907	unigene|Hs.533723|Hs.533723
+entrezgene|N44748|2065	unigene|Hs.118681|Hs.118681
+entrezgene|N31224|4162	unigene|Hs.599039|Hs.599039
+entrezgene|T84553|2934	unigene|Hs.522373|Hs.522373
+entrezgene|AV708544|23030	unigene|Hs.654816|Hs.654816
+embl|AA203598|AA203598
+embl|H29186|H29186	unigene|Hs.144513|Hs.144513
+embl|H49493|H49493	unigene|Hs.644610|Hs.644610
+entrezgene|N25871|5713	unigene|Hs.440604|Hs.440604
+embl|AA203349|AA203349
+entrezgene|AA029091|9559	unigene|Hs.499925|Hs.499925
+embl|R68861|R68861
+embl|W87347|W87347	unigene|Hs.191482|Hs.191482
+embl|R97868|R97868	unigene|Hs.438872|Hs.438872
+embl|R89549|R89549
+entrezgene|T84284|64431	unigene|Hs.115088|Hs.115088
+embl|T84730|T84730
+embl|R92545|R92545	unigene|Hs.482103|Hs.482103
+entrezgene|AA005287|152519	unigene|Hs.134190|Hs.134190
+embl|T82037|T82037	unigene|Hs.151777|Hs.151777
+entrezgene|AA011715|100129482	unigene|Hs.684178|Hs.684178
+embl|AI829555|AI829555	unigene|Hs.446123|Hs.446123
+embl|R52007|R52007
+embl|T77806|T77806
+entrezgene|H61379|493869	unigene|Hs.289044|Hs.289044
+embl|H64679|H64679
+entrezgene|H72135|8897	unigene|Hs.474536|Hs.474536
+entrezgene|T83804|80332
+embl|T72750|T72750
+embl|T84022|T84022	unigene|Hs.306764|Hs.306764
+embl|H79463|H79463
+embl|T84740|T84740
+embl|R89122|R89122	unigene|Hs.371344|Hs.371344
+embl|R69671|R69671
+embl|AA932087|AA932087
+embl|H78262|H78262
+embl|H59886|H59886	unigene|Hs.52788|Hs.52788
+embl|T83199|T83199	unigene|Hs.514494|Hs.514494
+embl|H62158|H62158
+embl|H01737|H01737	unigene|Hs.653144|Hs.653144
+embl|R89284|R89284	unigene|Hs.418493|Hs.418493
+embl|R14646|R14646	unigene|Hs.496408|Hs.496408
+embl|R51173|R51173
+embl|H18199|H18199
+embl|W20284|W20284	unigene|Hs.546620|Hs.546620
+embl|R95770|R95770	unigene|Hs.474536|Hs.474536
+embl|T82101|T82101	unigene|Hs.655388|Hs.655388
+embl|N95652|N95652	unigene|Hs.444360|Hs.444360
+embl|H92150|H92150	unigene|Hs.531632|Hs.531632
+embl|H17980|H17980
+embl|AA009926|AA009926	unigene|Hs.471851|Hs.471851
+embl|H69412|H69412	unigene|Hs.591184|Hs.591184
+embl|AA011531|AA011531	unigene|Hs.268785|Hs.268785
+embl|R10141|R10141
+embl|H08970|H08970
+embl|T86042|T86042	unigene|Hs.475319|Hs.475319
+embl|T67164|T67164	unigene|Hs.331478|Hs.331478
+embl|N42117|N42117	unigene|Hs.445052|Hs.445052
+embl|H73274|H73274	unigene|Hs.18631|Hs.18631
+embl|BQ025821|BQ025821	unigene|Hs.22242|Hs.22242
+embl|H29232|H29232	unigene|Hs.107284|Hs.107284
+embl|AA040657|AA040657
+entrezgene|T85153|9528	unigene|Hs.523262|Hs.523262
+embl|R01875|R01875	unigene|Hs.656595|Hs.656595
+entrezgene|R99136|26984
+entrezgene|H73844|80344	unigene|Hs.525251|Hs.525251
+embl|R12358|R12358
+embl|T74987|T74987	unigene|Hs.180711|Hs.180711
+embl|T80934|T80934	unigene|Hs.124366|Hs.124366
+embl|H08078|H08078	unigene|Hs.436178|Hs.436178
+embl|H13582|H13582	unigene|Hs.433057|Hs.433057
+entrezgene|AA028120|134265	unigene|Hs.483793|Hs.483793
+entrezgene|H65175|1317	unigene|Hs.532315|Hs.532315
+embl|AA135647|AA135647	unigene|Hs.12813|Hs.12813
+entrezgene|H61302|9563	unigene|Hs.463511|Hs.463511
+embl|R91202|R91202	unigene|Hs.444451|Hs.444451
+embl|R96786|R96786	unigene|Hs.653132|Hs.653132
+embl|T83515|T83515	unigene|Hs.271771|Hs.271771
+embl|H40414|H40414
+entrezgene|N76529|4311	unigene|Hs.307734|Hs.307734
+entrezgene|H15640|9991	unigene|Hs.269988|Hs.269988
+embl|R83065|R83065	unigene|Hs.34560|Hs.34560
+embl|R80107|R80107
+embl|T84176|T84176	unigene|Hs.658000|Hs.658000
+entrezgene|BQ010343|23360	unigene|Hs.6834|Hs.6834
+entrezgene|AA132089|54965	unigene|Hs.223296|Hs.223296
+embl|H60632|H60632
+entrezgene|AA002136|134526	unigene|Hs.591756|Hs.591756
+entrezgene|T80874|3375	unigene|Hs.693704|Hs.693704
+entrezgene|N52437|100130595	unigene|Hs.444541|Hs.444541
+entrezgene|R15303|23107	unigene|Hs.482491|Hs.482491
+embl|AW959279|AW959279	unigene|Hs.15833|Hs.15833
+embl|AI820700|AI820700
+entrezgene|R95030|54965	unigene|Hs.223296|Hs.223296
+entrezgene|T84763|55143	unigene|Hs.524571|Hs.524571
+embl|R84684|R84684	unigene|Hs.631525|Hs.631525
+embl|T78475|T78475	unigene|Hs.269542|Hs.269542
+embl|AA005427|AA005427
+entrezgene|N39833|283624	unigene|Hs.525210|Hs.525210
+entrezgene|AA482636|80856	unigene|Hs.209561|Hs.209561
+embl|T87507|T87507
+entrezgene|R25998|389136	unigene|Hs.435013|Hs.435013
+entrezgene|H08266|94239	unigene|Hs.488189|Hs.488189
+entrezgene|R26026|27250	unigene|Hs.232543|Hs.232543
+embl|N31849|N31849	unigene|Hs.657919|Hs.657919
+entrezgene|H38309|129049	unigene|Hs.474397|Hs.474397
+embl|R48704|R48704	unigene|Hs.197962|Hs.197962
+embl|T78107|T78107	unigene|Hs.655746  |Hs.655746  
+entrezgene|H83987|51496	unigene|Hs.693801|Hs.693801
+embl|AA046787|AA046787	unigene|Hs.519930|Hs.519930
+embl|R93462|R93462
+entrezgene|R55483|339290	unigene|Hs.447579|Hs.447579
+embl|H11931|H11931
+entrezgene|BG025149|154807	unigene|Hs.427232|Hs.427232
+embl|N28015|N28015	unigene|Hs.444414|Hs.444414
+embl|H38384|H38384
+embl|H82917|H82917	unigene|Hs.357025|Hs.357025
+embl|H59346|H59346	unigene|Hs.400584|Hs.400584
+entrezgene|T81551|220988	unigene|Hs.516539|Hs.516539
+entrezgene|AA099240|57185	unigene|Hs.523442|Hs.523442
+embl|W87948|W87948
+entrezgene|H64882|5465
+embl|W90576|W90576	unigene|Hs.408142|Hs.408142
+entrezgene|R36315|5782	unigene|Hs.61812|Hs.61812
+embl|H11704|H11704	unigene|Hs.5268|Hs.5268
+embl|H47511|H47511	unigene|Hs.516182|Hs.516182
+embl|H09011|H09011
+entrezgene|N72922|10611	unigene|Hs.480311|Hs.480311
+entrezgene|N31315|7094	unigene|Hs.471014|Hs.471014
+embl|H58824|H58824
+entrezgene|BM152847|84340	unigene|Hs.277154|Hs.277154
+embl|R98268|R98268	unigene|Hs.138211|Hs.138211
+embl|H72184|H72184
+embl|AA029153|AA029153
+entrezgene|H77767|25897	unigene|Hs.292882|Hs.292882
+entrezgene|R28062|7804	unigene|Hs.576154|Hs.576154
+embl|H95737|H95737	unigene|Hs.472044|Hs.472044
+entrezgene|H22696|26039	unigene|Hs.154429|Hs.154429
+embl|N91083|N91083	unigene|Hs.368160|Hs.368160
+embl|T97903|T97903	unigene|Hs.529053|Hs.529053
+embl|BG989208|BG989208
+embl|T83514|T83514	unigene|Hs.282901|Hs.282901
+embl|T82272|T82272
+embl|T85145|T85145	unigene|Hs.42217|Hs.42217
+embl|BM686086|BM686086	unigene|Hs.180711|Hs.180711
+entrezgene|H74123|25898	unigene|Hs.48297|Hs.48297
+embl|H25360|H25360
+embl|AI912860|AI912860
+embl|R73695|R73695	unigene|Hs.471119|Hs.471119
+embl|H18577|H18577	unigene|Hs.355768|Hs.355768
+embl|N76908|N76908	unigene|Hs.438233|Hs.438233
+embl|H86173|H86173	unigene|Hs.243994|Hs.243994
+entrezgene|AA203405|3064	unigene|Hs.518450|Hs.518450
+embl|H54622|H54622
+embl|AA039425|AA039425	unigene|Hs.201925|Hs.201925
+entrezgene|H77780|6902	unigene|Hs.291212|Hs.291212
+embl|T86503|T86503
+embl|T84744|T84744
+entrezgene|W89057|10404	unigene|Hs.156178|Hs.156178
+embl|T84865|T84865	unigene|Hs.443417|Hs.443417
+embl|T97035|T97035
+entrezgene|AI734239|90060	unigene|Hs.522643|Hs.522643
+entrezgene|R96415|6005	unigene|Hs.120950|Hs.120950
+embl|R10774|R10774	unigene|Hs.494529|Hs.494529
+embl|T71540|T71540
+embl|H75392|H75392
+embl|N76683|N76683	unigene|Hs.479867|Hs.479867
+entrezgene|R96692|7037	unigene|Hs.529618|Hs.529618
+embl|R13333|R13333
+embl|H03878|H03878
+embl|H67352|H67352	unigene|Hs.517517|Hs.517517
+embl|H23430|H23430	unigene|Hs.509523|Hs.509523
+embl|W04226|W04226
+embl|N80369|N80369	unigene|Hs.591706|Hs.591706
+embl|N48213|N48213	unigene|Hs.657490|Hs.657490
+entrezgene|H03415|83719	unigene|Hs.513491|Hs.513491
+embl|AA203467|AA203467
+embl|R01376|R01376
+embl|H70962|H70962	unigene|Hs.318894|Hs.318894	hgnc_symbol|Curated Gene Symbol|Curated Gene Symbol
+embl|N51794|N51794	hgnc_symbol|MOCS3|MOCS3
+entrezgene|R89913|965	unigene|Hs.34341|Hs.34341	hgnc_symbol|CCND1|CCND1
+embl|N53777|N53777	unigene|Hs.12967|Hs.12967
+entrezgene|BI492783|7756	unigene|Hs.500775|Hs.500775
+entrezgene|H30017|5296
+embl|T97499|T97499	unigene|Hs.67581|Hs.67581	hgnc_symbol|SYN2|SYN2
+embl|R53285|R53285	unigene|Hs.314543|Hs.314543	hgnc_symbol|PPP6C|PPP6C
+embl|R13996|R13996	unigene|Hs.330463|Hs.330463	hgnc_symbol|PPP1R10|PPP1R10
+embl|R09934|R09934	hgnc_symbol|ETV5|ETV5
+entrezgene|W24486|55732	unigene|Hs.443551|Hs.443551	hgnc_symbol|PAN2|PAN2
+embl|H72197|H72197	unigene|Hs.667457|Hs.667457
+entrezgene|N29108|11231	unigene|Hs.529957|Hs.529957	hgnc_symbol|AGA|AGA
+entrezgene|H06819|55751	unigene|Hs.203896|Hs.203896	hgnc_symbol|CCL11|CCL11
+entrezgene|N44567|26092	unigene|Hs.496459|Hs.496459	hgnc_symbol|RHOA|RHOA
+entrezgene|H45943|472	unigene|Hs.367437|Hs.367437	hgnc_symbol|THRA|THRA
+embl|R94322|R94322
+entrezgene|R34193|649	unigene|Hs.1274|Hs.1274	hgnc_symbol|GPD2|GPD2
+embl|T81147|T81147
+embl|N49986|N49986	hgnc_symbol|C1S|C1S
+embl|N91445|N91445	hgnc_symbol|LETM1|LETM1
+entrezgene|R12730|57798	unigene|Hs.21145|Hs.21145	hgnc_symbol|ESRP2|ESRP2
+embl|T84535|T84535	unigene|Hs.462732|Hs.462732
+entrezgene|N31221|147172	unigene|Hs.462684|Hs.462684
+embl|R99685|R99685	unigene|Hs.516468|Hs.516468
+entrezgene|R86231|55827	unigene|Hs.435741|Hs.435741	hgnc_symbol|RAF1|RAF1
+embl|N77679|N77679	unigene|Hs.485938|Hs.485938	hgnc_symbol|ATRX|ATRX
+embl|R33062|R33062	hgnc_symbol|HMGCR|HMGCR
+embl|R02248|R02248	unigene|Hs.491232|Hs.491232	hgnc_symbol|ANAPC13|ANAPC13
+embl|T84135|T84135
+embl|T83823|T83823	unigene|Hs.131489|Hs.131489	hgnc_symbol|GDPD3|GDPD3
+embl|R08377|R08377	hgnc_symbol|C7orf53|C7orf53
+entrezgene|N28330|4162	unigene|Hs.599039|Hs.599039	hgnc_symbol|PPP1R12A|PPP1R12A
+embl|H51675|H51675	hgnc_symbol|DTWD1|DTWD1
+embl|R52303|R52303	unigene|Hs.559718|Hs.559718	hgnc_symbol|ANK3|ANK3
+embl|H10916|H10916	hgnc_symbol|FBXO33|FBXO33
+embl|H09208|H09208	hgnc_symbol|CYBB|CYBB
+entrezgene|T70868|169841	unigene|Hs.387623|Hs.387623	hgnc_symbol|TMF1|TMF1
+embl|AA699540|AA699540	unigene|Hs.269542|Hs.269542	hgnc_symbol|DCP2|DCP2
+embl|H73375|H73375	unigene|Hs.268787|Hs.268787	hgnc_symbol|TIFA|TIFA
+embl|R36212|R36212	unigene|Hs.509707|Hs.509707	hgnc_symbol|ZNF24|ZNF24
+entrezgene|BG287101|23450	unigene|Hs.514435|Hs.514435	hgnc_symbol|SERPINB1|SERPINB1
+embl|H83464|H83464
+entrezgene|BG939095|6307	unigene|Hs.105269|Hs.105269	hgnc_symbol|HIC2|HIC2
+embl|H71730|H71730	hgnc_symbol|MARS2|MARS2
+embl|T85234|T85234	unigene|Hs.130031|Hs.130031	hgnc_symbol|NGLY1|NGLY1
+embl|T74429|T74429
+entrezgene|H05378|10311	unigene|Hs.369488|Hs.369488	hgnc_symbol|PSRC1|PSRC1
+embl|AA115234|AA115234	hgnc_symbol|LINC00472|LINC00472
+entrezgene|T80241|90993	unigene|Hs.405961|Hs.405961
+embl|AA009810|AA009810	unigene|Hs.435039|Hs.435039	hgnc_symbol|REEP1|REEP1
+entrezgene|H62319|162394	unigene|Hs.14691|Hs.14691	hgnc_symbol|WDR20|WDR20
+embl|AA053898|AA053898	hgnc_symbol|METTL7A|METTL7A
+embl|H71710|H71710	hgnc_symbol|SH3GLB1|SH3GLB1
+embl|R16031|R16031	hgnc_symbol|COL4A1|COL4A1
+embl|H48009|H48009	unigene|Hs.631758|Hs.631758	hgnc_symbol|RIC3|RIC3
+embl|R24750|R24750	hgnc_symbol|RAPGEF3|RAPGEF3
+embl|AA147516|AA147516	unigene|Hs.420541|Hs.420541
+embl|AI733539|AI733539	unigene|Hs.174838|Hs.174838	hgnc_symbol|HLA-DQB1|HLA-DQB1
+embl|W90245|W90245	unigene|Hs.38512|Hs.38512
+embl|H60520|H60520	unigene|Hs.35433|Hs.35433
+entrezgene|N20577|255252	unigene|Hs.234681|Hs.234681	hgnc_symbol|MAP3K4|MAP3K4
+entrezgene|R83101|6542	unigene|Hs.448520|Hs.448520	hgnc_symbol|RAB27B|RAB27B
+embl|H52273|H52273	unigene|Hs.163893|Hs.163893	hgnc_symbol|BMP8B|BMP8B
+embl|H06758|H06758	hgnc_symbol|DYNC1I2|DYNC1I2
+embl|H86004|H86004
+embl|W93023|W93023	hgnc_symbol|FAM49A|FAM49A
+embl|R27511|R27511	unigene|Hs.659311|Hs.659311	hgnc_symbol|NIT2|NIT2
+embl|T96595|T96595	unigene|Hs.444200|Hs.444200	hgnc_symbol|FNBP4|FNBP4
+embl|W88903|W88903	unigene|Hs.285363|Hs.285363
+embl|AA010023|AA010023	unigene|Hs.656586|Hs.656586	hgnc_symbol|MAML2|MAML2
+entrezgene|H75902|1378	unigene|Hs.334019|Hs.334019	hgnc_symbol|MASTL|MASTL
+entrezgene|H17033|51776	unigene|Hs.444451|Hs.444451	hgnc_symbol|KIAA1432|KIAA1432
+embl|R19725|R19725	unigene|Hs.462729|Hs.462729	hgnc_symbol|MFN1|MFN1
+entrezgene|T88760|147179	unigene|Hs.421622|Hs.421622
+embl|H61036|H61036	unigene|Hs.420229|Hs.420229	hgnc_symbol|MGEA5|MGEA5
+embl|AA009503|AA009503	unigene|Hs.507916|Hs.507916	hgnc_symbol|HIST1H4J|HIST1H4J
+embl|T08163|T08163	hgnc_symbol|MARS2|MARS2
+embl|N43985|N43985	unigene|Hs.76253|Hs.76253	hgnc_symbol|ARPC5|ARPC5
+embl|AA034075|AA034075
+entrezgene|H68270|57695	unigene|Hs.166068|Hs.166068
+entrezgene|R17153|912	hgnc_symbol|RPL37|RPL37
+entrezgene|R91604|54407	unigene|Hs.221847|Hs.221847	hgnc_symbol|PTDSS1|PTDSS1
+embl|T97119|T97119	hgnc_symbol|NCF2|NCF2
+embl|T98970|T98970	hgnc_symbol|FAM189A2|FAM189A2
+entrezgene|R99693|7594	unigene|Hs.534365|Hs.534365	hgnc_symbol|SERPINC1|SERPINC1
+entrezgene|H59348|6248	unigene|Hs.646775|Hs.646775	hgnc_symbol|EIF1AY|EIF1AY
+embl|H08238|H08238	hgnc_symbol|VSTM4|VSTM4
+embl|N98449|N98449
+embl|AI357692|AI357692	unigene|Hs.491060|Hs.491060	hgnc_symbol|ST3GAL3|ST3GAL3
+embl|N54935|N54935
+embl|W01688|W01688	hgnc_symbol|SCAF11|SCAF11
+entrezgene|T84382|114987	unigene|Hs.133331|Hs.133331	hgnc_symbol|MRPS14|MRPS14
+embl|AW954596|AW954596	hgnc_symbol|DTWD1|DTWD1
+embl|AA203363|AA203363	unigene|Hs.693790|Hs.693790
+embl|H17770|H17770
+embl|W89032|W89032	unigene|Hs.591388|Hs.591388	hgnc_symbol|NTPCR|NTPCR
+embl|R20893|R20893	unigene|Hs.120949|Hs.120949	hgnc_symbol|KCNB1|KCNB1
+embl|H48343|H48343	unigene|Hs.127530|Hs.127530	hgnc_symbol|ANK1|ANK1
+embl|H15520|H15520	hgnc_symbol|AMOTL1|AMOTL1
+entrezgene|AW964500|79993	unigene|Hs.274256|Hs.274256	hgnc_symbol|FAM53C|FAM53C
+embl|T84751|T84751	unigene|Hs.271771|Hs.271771	hgnc_symbol|IQCG|IQCG
+entrezgene|BE891135|84897	unigene|Hs.436410|Hs.436410	hgnc_symbol|AP5Z1|AP5Z1
+embl|W88924|W88924
+embl|T83386|T83386	unigene|Hs.404031|Hs.404031	hgnc_symbol|LPAR1|LPAR1
+entrezgene|H62176|2033	unigene|Hs.517517|Hs.517517	hgnc_symbol|DRAM2|DRAM2
+entrezgene|T85248|115294	unigene|Hs.308480|Hs.308480	hgnc_symbol|ZNF516|ZNF516
+embl|H09256|H09256	unigene|Hs.559718|Hs.559718	hgnc_symbol|GSTM2|GSTM2
+entrezgene|R35315|11276	unigene|Hs.655178|Hs.655178	hgnc_symbol|C18orf8|C18orf8
+entrezgene|BM459914|6789	unigene|Hs.472838|Hs.472838	hgnc_symbol|YWHAZ|YWHAZ
+entrezgene|H60482|55140	unigene|Hs.491336|Hs.491336
+embl|T87964|T87964	hgnc_symbol|PSG3|PSG3
+embl|BF341744|BF341744	hgnc_symbol|CCNA2|CCNA2
+entrezgene|N32584|4548	unigene|Hs.498187|Hs.498187	hgnc_symbol|FNDC4|FNDC4
+embl|H59556|H59556	hgnc_symbol|EGLN1|EGLN1
+embl|H68783|H68783	hgnc_symbol|FBN2|FBN2
+embl|H57479|H57479	unigene|Hs.269837|Hs.269837	hgnc_symbol|GCM1|GCM1
+entrezgene|AA011518|9846	unigene|Hs.429434|Hs.429434	hgnc_symbol|NEDD4L|NEDD4L
+embl|N49823|N49823	hgnc_symbol|RASAL2|RASAL2
+entrezgene|W86495|79145	unigene|Hs.436913|Hs.436913	hgnc_symbol|POLR2K|POLR2K
+embl|R52346|R52346
+entrezgene|R14286|84060
+entrezgene|H89876|256471	unigene|Hs.480701|Hs.480701
+embl|T98534|T98534	unigene|Hs.501735|Hs.501735	hgnc_symbol|MYL6|MYL6
+embl|H79410|H79410	hgnc_symbol|CSTB|CSTB
+embl|R50896|R50896	unigene|Hs.191482|Hs.191482	hgnc_symbol|CIDEB|CIDEB
+embl|AL534441|AL534441	unigene|Hs.591729|Hs.591729	hgnc_symbol|MAP4K4|MAP4K4
+embl|N73140|N73140	unigene|Hs.651221|Hs.651221	hgnc_symbol|CHRNA5|CHRNA5
+embl|T83006|T83006	unigene|Hs.98322|Hs.98322	hgnc_symbol|COL5A1|COL5A1
+embl|H48316|H48316
+embl|T81234|T81234	unigene|Hs.570355|Hs.570355	hgnc_symbol|PC|PC
+embl|H86400|H86400	unigene|Hs.431045|Hs.431045	hgnc_symbol|ACOT7|ACOT7
+entrezgene|BM837678|729082	unigene|Hs.632746|Hs.632746	hgnc_symbol|NTRK2|NTRK2
+entrezgene|R18627|10513	unigene|Hs.84084|Hs.84084	hgnc_symbol|ITGA8|ITGA8
+entrezgene|W20196|91612	unigene|Hs.325531|Hs.325531	hgnc_symbol|PSMA2|PSMA2
+embl|H68017|H68017	hgnc_symbol|NSMCE2|NSMCE2
+embl|R15155|R15155	hgnc_symbol|PIGK|PIGK
+embl|T77970|T77970	unigene|Hs.271501|Hs.271501	hgnc_symbol|ANGEL1|ANGEL1
+embl|N63842|N63842	hgnc_symbol|S100A6|S100A6
+embl|AA004897|AA004897	unigene|Hs.114194|Hs.114194	hgnc_symbol|PLGRKT|PLGRKT
+embl|W03772|W03772	unigene|Hs.567495|Hs.567495	hgnc_symbol|CALM2|CALM2
+embl|W03107|W03107	unigene|Hs.221497|Hs.221497	hgnc_symbol|PSMC3|PSMC3
+embl|T95234|T95234
+embl|H53955|H53955	unigene|Hs.380277|Hs.380277	hgnc_symbol|PRG2|PRG2
+entrezgene|H66019|51268	unigene|Hs.462585|Hs.462585	hgnc_symbol|MSL1|MSL1
+embl|R10945|R10945	hgnc_symbol|ADSSL1|ADSSL1
+embl|H62953|H62953	unigene|Hs.511626|Hs.511626	hgnc_symbol|ZNF232|ZNF232
+entrezgene|BI670486|3992	unigene|Hs.503546|Hs.503546	hgnc_symbol|CGNL1|CGNL1
+embl|W03159|W03159	unigene|Hs.24598|Hs.24598	hgnc_symbol|NOLC1|NOLC1
+embl|R61410|R61410	unigene|Hs.436297|Hs.436297	hgnc_symbol|SLC13A3|SLC13A3
+entrezgene|H14843|3423	unigene|Hs.460960|Hs.460960	hgnc_symbol|FAM122A|FAM122A
+embl|R10688|R10688	unigene|Hs.268653|Hs.268653	hgnc_symbol|RAB2B|RAB2B
+embl|AA011665|AA011665	hgnc_symbol|CLPX|CLPX
+embl|H19397|H19397	hgnc_symbol|GPSM1|GPSM1
+entrezgene|H12151|2618	unigene|Hs.473648|Hs.473648	hgnc_symbol|RNF138|RNF138
+entrezgene|AI096627|56262	unigene|Hs.173484|Hs.173484	hgnc_symbol|DNAJB1|DNAJB1
+embl|H23343|H23343	unigene|Hs.481186|Hs.481186	hgnc_symbol|PANK1|PANK1
+embl|H21394|H21394	hgnc_symbol|BTN3A2|BTN3A2
+embl|N90478|N90478	hgnc_symbol|HSPB11|HSPB11
+entrezgene|R33553|23509	unigene|Hs.472409|Hs.472409	hgnc_symbol|9/7/2013  12:00:00 AM|9/7/2013  12:00:00 AM
+embl|N72811|N72811	unigene|Hs.388297|Hs.388297	hgnc_symbol|ID2|ID2
+embl|R70592|R70592	unigene|Hs.128959|Hs.128959	hgnc_symbol|AQP7|AQP7
+embl|N79946|N79946
+embl|AA034140|AA034140	unigene|Hs.501127|Hs.501127	hgnc_symbol|TMEM110|TMEM110
+embl|R93573|R93573	unigene|Hs.648088|Hs.648088	hgnc_symbol|CAPN7|CAPN7
+embl|T79355|T79355	unigene|Hs.404031|Hs.404031	hgnc_symbol|CEBPG|CEBPG
+entrezgene|AA058399|124411	hgnc_symbol|SYPL1|SYPL1
+embl|W01500|W01500	unigene|Hs.250687|Hs.250687	hgnc_symbol|LZIC|LZIC
+embl|BM798024|BM798024	hgnc_symbol|EVC|EVC
+embl|H90466|H90466	hgnc_symbol|FAM109A|FAM109A
+embl|AA632632|AA632632	unigene|Hs.570355|Hs.570355	hgnc_symbol|TSTA3|TSTA3
+entrezgene|R13891|161823	unigene|Hs.533913|Hs.533913	hgnc_symbol|C4orf19|C4orf19
+embl|T86224|T86224	unigene|Hs.309849|Hs.309849	hgnc_symbol|ATMIN|ATMIN
+embl|T96441|T96441	unigene|Hs.387011|Hs.387011	hgnc_symbol|FBL|FBL
+embl|H49119|H49119	unigene|Hs.417549|Hs.417549	hgnc_symbol|SOGA2|SOGA2
+entrezgene|N76504|257407	unigene|Hs.551993|Hs.551993	hgnc_symbol|CLCN6|CLCN6
+embl|T83276|T83276	unigene|Hs.654567|Hs.654567	hgnc_symbol|KLHL5|KLHL5
+entrezgene|R56723|26084	unigene|Hs.240845|Hs.240845
+embl|AW797832|AW797832	hgnc_symbol|CCL7|CCL7
+embl|H11685|H11685
+entrezgene|H14692|93973	unigene|Hs.412186|Hs.412186
+entrezgene|N27056|11234	unigene|Hs.437599|Hs.437599	hgnc_symbol|FAM107B|FAM107B
+embl|H60491|H60491	hgnc_symbol|YPEL5|YPEL5
+embl|H29383|H29383	hgnc_symbol|DCN|DCN
+embl|R99067|R99067	unigene|Hs.105269|Hs.105269
+embl|W05086|W05086	hgnc_symbol|SLC39A14|SLC39A14
+embl|T92125|T92125	unigene|Hs.306307|Hs.306307
+embl|N51020|N51020
+entrezgene|R59010|54806	unigene|Hs.386684|Hs.386684	hgnc_symbol|STMN2|STMN2
+embl|BF692039|BF692039	unigene|Hs.336989|Hs.336989	hgnc_symbol|DKC1|DKC1
+entrezgene|BM913573|3178	unigene|Hs.444314|Hs.444314	hgnc_symbol|MAP7D3|MAP7D3
+embl|H69419|H69419	unigene|Hs.592742|Hs.592742
+embl|R18526|R18526	unigene|Hs.435103|Hs.435103	hgnc_symbol|FAM89A|FAM89A
+embl|R72522|R72522	unigene|Hs.434996|Hs.434996	hgnc_symbol|MIR17HG|MIR17HG
+entrezgene|H25971|54751	unigene|Hs.530101|Hs.530101	hgnc_symbol|LRCH2|LRCH2
+entrezgene|T81862|92400	unigene|Hs.415842|Hs.415842	hgnc_symbol|AEN|AEN
+embl|R56316|R56316	unigene|Hs.656937|Hs.656937	hgnc_symbol|PCBP2|PCBP2
+entrezgene|H48691|10157	unigene|Hs.156738|Hs.156738	hgnc_symbol|CDK9|CDK9
+embl|R94408|R94408	hgnc_symbol|STXBP5|STXBP5
+entrezgene|R89805|79993	unigene|Hs.274256|Hs.274256	hgnc_symbol|VPS35|VPS35
+embl|AA203618|AA203618	unigene|Hs.652174|Hs.652174	hgnc_symbol|PHKA2|PHKA2
+embl|R52841|R52841	hgnc_symbol|CDC42SE2|CDC42SE2
+embl|AA002234|AA002234
+embl|R11934|R11934	hgnc_symbol|DAAM1|DAAM1
+entrezgene|R12051|285381	unigene|Hs.388087|Hs.388087
+embl|H48372|H48372	unigene|Hs.181042|Hs.181042
+embl|T89487|T89487	hgnc_symbol|LSM5|LSM5
+entrezgene|T83154|23594	unigene|Hs.49760|Hs.49760	hgnc_symbol|PIGK|PIGK
+embl|AA151024|AA151024	unigene|Hs.103934|Hs.103934	hgnc_symbol|RGPD8|RGPD8
+embl|H14201|H14201	unigene|Hs.241411|Hs.241411	hgnc_symbol|SEC61A1|SEC61A1
+embl|H64256|H64256	unigene|Hs.167619|Hs.167619	hgnc_symbol|TSC22D3|TSC22D3
+embl|H60498|H60498	unigene|Hs.633334|Hs.633334	hgnc_symbol|CHRAC1|CHRAC1
+entrezgene|H60337|2013	unigene|Hs.531561|Hs.531561	hgnc_symbol|CSTA|CSTA
+embl|H05203|H05203
+embl|R08276|R08276	unigene|Hs.503222|Hs.503222	hgnc_symbol|SULT1E1|SULT1E1
+embl|H29067|H29067	hgnc_symbol|PSMB2|PSMB2
+entrezgene|R10020|7697	hgnc_symbol|MYT1L|MYT1L
+embl|H01884|H01884
+embl|R26953|R26953	hgnc_symbol|TRIM28|TRIM28
+entrezgene|R17830|285521	unigene|Hs.356697|Hs.356697	hgnc_symbol|ZNF148|ZNF148
+entrezgene|H85763|5933	unigene|Hs.207745|Hs.207745	hgnc_symbol|SAMHD1|SAMHD1
+embl|AA127681|AA127681	unigene|Hs.519855|Hs.519855	hgnc_symbol|CLTA|CLTA
+entrezgene|R13362|165324	unigene|Hs.591576|Hs.591576	hgnc_symbol|WDR20|WDR20
+embl|T81899|T81899	unigene|Hs.441498|Hs.441498	hgnc_symbol|CTNNA1|CTNNA1
+embl|AA057270|AA057270	unigene|Hs.660592|Hs.660592	hgnc_symbol|ZNF226|ZNF226
+embl|R54142|R54142	unigene|Hs.549509|Hs.549509	hgnc_symbol|FMOD|FMOD
+entrezgene|H68973|79915	unigene|Hs.528902|Hs.528902	hgnc_symbol|CNGB3|CNGB3
+embl|R20383|R20383	unigene|Hs.445265|Hs.445265
+embl|H59152|H59152	hgnc_symbol|NNT|NNT
+embl|AA010021|AA010021	unigene|Hs.650585|Hs.650585	hgnc_symbol|XKRX|XKRX
+embl|H57241|H57241	unigene|Hs.505516|Hs.505516	hgnc_symbol|BAG2|BAG2
+embl|BM926905|BM926905	unigene|Hs.80545  |Hs.80545  	hgnc_symbol|SOD1|SOD1
+embl|T77701|T77701	hgnc_symbol|ATL3|ATL3
+embl|H68408|H68408	unigene|Hs.38715|Hs.38715	hgnc_symbol|ZNF317|ZNF317
+embl|AI820736|AI820736
+embl|H06354|H06354	unigene|Hs.230601|Hs.230601	hgnc_symbol|FBXO33|FBXO33
+entrezgene|H91623|55731	unigene|Hs.564533|Hs.564533	hgnc_symbol|NPAS2|NPAS2
+entrezgene|H85748|205327	unigene|Hs.471040|Hs.471040
+entrezgene|H58035|9750	unigene|Hs.559459|Hs.559459
+entrezgene|R97618|25771	unigene|Hs.435044|Hs.435044	hgnc_symbol|RPS23|RPS23
+entrezgene|AA135649|100131602	unigene|Hs.374446|Hs.374446	hgnc_symbol|MED4|MED4
+entrezgene|T75124|51104	unigene|Hs.380389|Hs.380389	hgnc_symbol|MINPP1|MINPP1
+embl|H14666|H14666	hgnc_symbol|HNRNPA0|HNRNPA0
+embl|R55896|R55896	hgnc_symbol|BBS12|BBS12
+embl|H72480|H72480	unigene|Hs.35354|Hs.35354	hgnc_symbol|MECOM|MECOM
+entrezgene|AA047157|3732	unigene|Hs.527778|Hs.527778
+entrezgene|R19320|283464	unigene|Hs.259347|Hs.259347	hgnc_symbol|CAV1|CAV1
+embl|R92312|R92312	unigene|Hs.420024|Hs.420024	hgnc_symbol|PDCD5|PDCD5
+entrezgene|T86067|113251	unigene|Hs.653274|Hs.653274	hgnc_symbol|IARS2|IARS2
+embl|N49439|N49439
+embl|N50014|N50014	unigene|Hs.371078|Hs.371078	hgnc_symbol|DOCK7|DOCK7
+embl|T83535|T83535	hgnc_symbol|RPL21|RPL21
+embl|T75253|T75253	unigene|Hs.12333|Hs.12333	hgnc_symbol|NIT1|NIT1
+embl|H29128|H29128
+embl|N95479|N95479	unigene|Hs.77318|Hs.77318	hgnc_symbol|SUPV3L1|SUPV3L1
+embl|H65919|H65919	hgnc_symbol|ATP5S|ATP5S
+entrezgene|R73359|5861	unigene|Hs.310645|Hs.310645	hgnc_symbol|CRY1|CRY1
+embl|R60091|R60091
+entrezgene|N73208|7756	unigene|Hs.500775|Hs.500775	hgnc_symbol|S100A8|S100A8
+embl|T83102|T83102	unigene|Hs.119882|Hs.119882	hgnc_symbol|HAS3|HAS3
+embl|R11938|R11938	hgnc_symbol|CD24|CD24
+embl|H08953|H08953	hgnc_symbol|PHKA1|PHKA1
+embl|R14625|R14625	unigene|Hs.591606|Hs.591606	hgnc_symbol|GBP5|GBP5
+entrezgene|N72546|1520	unigene|Hs.181301|Hs.181301	hgnc_symbol|PABPC4|PABPC4
+entrezgene|T85663|55198	unigene|Hs.506603|Hs.506603	hgnc_symbol|MRPS9|MRPS9
+entrezgene|N20611|85865
+embl|H52618|H52618	hgnc_symbol|SIAE|SIAE
+embl|BF216736|BF216736	hgnc_symbol|MYT1L|MYT1L
+entrezgene|H02682|55974	unigene|Hs.292154|Hs.292154	hgnc_symbol|USP39|USP39
+entrezgene|T84174|8662	unigene|Hs.371001|Hs.371001	hgnc_symbol|FBXO18|FBXO18
+embl|AA148531|AA148531	unigene|Hs.591106|Hs.591106	hgnc_symbol|GTF2A2|GTF2A2
+embl|H74136|H74136	hgnc_symbol|SETD2|SETD2
+embl|R10633|R10633
+entrezgene|H70249|80817	hgnc_symbol|MMP15|MMP15
+embl|R14123|R14123	unigene|Hs.480281|Hs.480281
+entrezgene|H56735|80006	unigene|Hs.482301|Hs.482301	hgnc_symbol|FBXO30|FBXO30
+entrezgene|T89583|374955	unigene|Hs.656105|Hs.656105	hgnc_symbol|CRLS1|CRLS1
+entrezgene|AA011710|284309	unigene|Hs.656485|Hs.656485
+entrezgene|AA010266|55037	hgnc_symbol|HSPA14|HSPA14
+entrezgene|R60610|79158	unigene|Hs.46850|Hs.46850	hgnc_symbol|SSH1|SSH1
+embl|R13349|R13349	hgnc_symbol|IVD|IVD
+embl|H11872|H11872	unigene|Hs.368542|Hs.368542	hgnc_symbol|STYXL1|STYXL1
+embl|T85872|T85872	unigene|Hs.518084|Hs.518084	hgnc_symbol|HARS2|HARS2
+embl|T85065|T85065
+entrezgene|N49460|10180	unigene|Hs.439480|Hs.439480
+entrezgene|AL553069|10162	unigene|Hs.655248|Hs.655248	hgnc_symbol|GKN1|GKN1
+embl|H72169|H72169	hgnc_symbol|MTCH2|MTCH2
+embl|H63443|H63443	unigene|Hs.520785|Hs.520785	hgnc_symbol|SKIV2L2|SKIV2L2
+embl|H71668|H71668	hgnc_symbol|ALAS1|ALAS1
+embl|H47769|H47769	unigene|Hs.496459|Hs.496459	hgnc_symbol|ZNF318|ZNF318
+embl|W57876|W57876	hgnc_symbol|APLF|APLF
+embl|T65080|T65080	hgnc_symbol|NDUFS7|NDUFS7
+embl|H86621|H86621	hgnc_symbol|UHRF2|UHRF2
+embl|H65231|H65231	hgnc_symbol|COX6A1|COX6A1
+embl|W01982|W01982	unigene|Hs.546250|Hs.546250
+hgnc_symbol|GTSF1|GTSF1
+hgnc_symbol|STX5|STX5
+hgnc_symbol|RHBDD1|RHBDD1
+hgnc_symbol|AIMP1|AIMP1
+hgnc_symbol|RPLP1|RPLP1
+hgnc_symbol|PPP2R5D|PPP2R5D
+hgnc_symbol|PRKCD|PRKCD
+hgnc_symbol|RPL41|RPL41
+hgnc_symbol|LIMD1|LIMD1
+hgnc_symbol|YRDC|YRDC
+hgnc_symbol|KLF3|KLF3
+hgnc_symbol|C1GALT1C1|C1GALT1C1
+hgnc_symbol|LTN1|LTN1
+hgnc_symbol|BCAS2|BCAS2
+hgnc_symbol|GM2A|GM2A
+hgnc_symbol|INTS7|INTS7
+hgnc_symbol|TPI1|TPI1
+hgnc_symbol|SMCR7L|SMCR7L
+hgnc_symbol|CUL4B|CUL4B
+hgnc_symbol|SCAPER|SCAPER
+hgnc_symbol|SLC25A12|SLC25A12
+hgnc_symbol|SMARCA2|SMARCA2
+hgnc_symbol|ARHGEF10|ARHGEF10
+hgnc_symbol|DTNA|DTNA
+hgnc_symbol|ZNF185|ZNF185
+hgnc_symbol|CHMP4B|CHMP4B
+hgnc_symbol|PSENEN|PSENEN
+hgnc_symbol|RASAL2|RASAL2
+hgnc_symbol|SLC20A1|SLC20A1
+hgnc_symbol|MAU2|MAU2
+hgnc_symbol|CNTROB|CNTROB
+hgnc_symbol|EGFR|EGFR
+hgnc_symbol|RBP1|RBP1
+hgnc_symbol|OTUD3|OTUD3
+hgnc_symbol|PANK3|PANK3
+hgnc_symbol|SLC35B4|SLC35B4
+hgnc_symbol|SGPL1|SGPL1
+hgnc_symbol|WDR20|WDR20
+hgnc_symbol|PEX14|PEX14
+hgnc_symbol|CALM1|CALM1
+hgnc_symbol|RHOBTB3|RHOBTB3
+hgnc_symbol|CHFR|CHFR
+hgnc_symbol|HLA-DPB1|HLA-DPB1
+hgnc_symbol|KREMEN1|KREMEN1
+hgnc_symbol|RARRES1|RARRES1
+hgnc_symbol|APIP|APIP
+hgnc_symbol|NME2|NME2
+hgnc_symbol|CSRP2|CSRP2
+hgnc_symbol|ATXN7L3|ATXN7L3
+hgnc_symbol|FMOD|FMOD
+hgnc_symbol|KRT23|KRT23
+hgnc_symbol|CNTRL|CNTRL
+hgnc_symbol|YES1|YES1
+hgnc_symbol|TMEM136|TMEM136
+hgnc_symbol|PSMD12|PSMD12
+hgnc_symbol|ATRAID|ATRAID
+hgnc_symbol|CTTNBP2|CTTNBP2
+hgnc_symbol|COL4A5|COL4A5
+hgnc_symbol|ERMP1|ERMP1
+hgnc_symbol|CD59|CD59
+hgnc_symbol|GTF3A|GTF3A
+hgnc_symbol|TMEM167B|TMEM167B
+hgnc_symbol|IMMP2L|IMMP2L
+hgnc_symbol|MON1B|MON1B
+hgnc_symbol|MEGF8|MEGF8
+hgnc_symbol|ALPK2|ALPK2
+hgnc_symbol|ACO1|ACO1
+hgnc_symbol|GCM2|GCM2
+hgnc_symbol|PPP1R8|PPP1R8
+hgnc_symbol|PPARG|PPARG
+hgnc_symbol|PELO|PELO
+hgnc_symbol|RNASEK|RNASEK
+hgnc_symbol|CCK|CCK
+hgnc_symbol|EPB41L1|EPB41L1
+hgnc_symbol|ERCC6L2|ERCC6L2
+hgnc_symbol|PPM1A|PPM1A
+hgnc_symbol|WEE1|WEE1
+hgnc_symbol|EME1|EME1
+hgnc_symbol|L3MBTL4|L3MBTL4
+hgnc_symbol|CSNK1G3|CSNK1G3
+hgnc_symbol|CHMP5|CHMP5
+hgnc_symbol|COX4I1|COX4I1
+hgnc_symbol|PCSK7|PCSK7
+hgnc_symbol|MTCH2|MTCH2
+hgnc_symbol|LOXL1|LOXL1
+hgnc_symbol|STAG2|STAG2
+hgnc_symbol|USP12|USP12
+hgnc_symbol|CAMK1D|CAMK1D
+hgnc_symbol|PDE8A|PDE8A
+hgnc_symbol|ANXA5|ANXA5
+hgnc_symbol|TOLLIP|TOLLIP
+hgnc_symbol|TP73-AS1|TP73-AS1
+hgnc_symbol|ANGEL1|ANGEL1
+hgnc_symbol|ZNF764|ZNF764
+hgnc_symbol|ZNRF1|ZNRF1
+hgnc_symbol|FKBP14|FKBP14
+hgnc_symbol|GSTA1|GSTA1
+hgnc_symbol|ADCY6|ADCY6
+hgnc_symbol|HPCAL4|HPCAL4
+hgnc_symbol|KLHL25|KLHL25
+hgnc_symbol|FAM206A|FAM206A
+hgnc_symbol|PSMB2|PSMB2
+hgnc_symbol|CCDC171|CCDC171
+hgnc_symbol|SDC2|SDC2
+hgnc_symbol|CHEK1|CHEK1
+hgnc_symbol|GTF3C3|GTF3C3
+hgnc_symbol|BAG5|BAG5
+hgnc_symbol|SDC1|SDC1
+hgnc_symbol|ZXDC|ZXDC
+hgnc_symbol|OSBPL1A|OSBPL1A
+hgnc_symbol|FBLN5|FBLN5
+hgnc_symbol|TMEM87A|TMEM87A
+hgnc_symbol|GYPB|GYPB
+hgnc_symbol|AMMECR1L|AMMECR1L
+hgnc_symbol|LBP|LBP
+hgnc_symbol|KLHDC2|KLHDC2
+hgnc_symbol|ZFYVE20|ZFYVE20
+hgnc_symbol|WDR33|WDR33
+hgnc_symbol|HTRA3|HTRA3
+hgnc_symbol|ZNF544|ZNF544
+hgnc_symbol|OLFM1|OLFM1
+hgnc_symbol|TTC7A|TTC7A
+hgnc_symbol|MBOAT1|MBOAT1
+hgnc_symbol|C5|C5
+hgnc_symbol|P4HB|P4HB
+hgnc_symbol|MTM1|MTM1
+hgnc_symbol|ARMS2|ARMS2
+hgnc_symbol|N4BP2L2|N4BP2L2
+hgnc_symbol|MTMR9|MTMR9
+hgnc_symbol|ANKH|ANKH
+hgnc_symbol|PAX8|PAX8
+hgnc_symbol|WDR27|WDR27
+hgnc_symbol|UBE2V1|UBE2V1
+hgnc_symbol|COQ9|COQ9
+hgnc_symbol|EIF4H|EIF4H
+hgnc_symbol|ANKRD50|ANKRD50
+hgnc_symbol|LST1|LST1
+hgnc_symbol|BRPF3|BRPF3
+hgnc_symbol|MBTD1|MBTD1
+hgnc_symbol|WDR20|WDR20
+hgnc_symbol|SLC3A1|SLC3A1
+hgnc_symbol|PDLIM4|PDLIM4
+hgnc_symbol|BMP1|BMP1
+hgnc_symbol|ORC4|ORC4
+hgnc_symbol|AVL9|AVL9
+hgnc_symbol|PLXDC2|PLXDC2
+hgnc_symbol|RASA2|RASA2
+hgnc_symbol|MRPS18C|MRPS18C
+hgnc_symbol|ABP1|ABP1
+hgnc_symbol|SULT1C2|SULT1C2
+hgnc_symbol|HP1BP3|HP1BP3
+hgnc_symbol|PPP1R9B|PPP1R9B
+hgnc_symbol|PRDX2|PRDX2
+hgnc_symbol|PLCD1|PLCD1
+hgnc_symbol|LATS2|LATS2
+hgnc_symbol|PSD3|PSD3
+hgnc_symbol|C17orf75|C17orf75
+hgnc_symbol|TCF7L1|TCF7L1
+hgnc_symbol|GULP1|GULP1
+hgnc_symbol|PAK6|PAK6
+hgnc_symbol|SLC40A1|SLC40A1
+hgnc_symbol|MEF2A|MEF2A
+hgnc_symbol|FAM208B|FAM208B
+hgnc_symbol|NFE2L2|NFE2L2
+hgnc_symbol|PDIA3|PDIA3
+hgnc_symbol|ZNF335|ZNF335
+hgnc_symbol|WWOX|WWOX
+hgnc_symbol|NCOR2|NCOR2
+hgnc_symbol|MOB1A|MOB1A
+hgnc_symbol|CXorf36|CXorf36
+hgnc_symbol|TOB1|TOB1
+hgnc_symbol|NEURL|NEURL
+hgnc_symbol|TGFBR3|TGFBR3
+hgnc_symbol|STRN4|STRN4
+hgnc_symbol|PIK3C3|PIK3C3
+hgnc_symbol|ARG2|ARG2
+hgnc_symbol|DOCK10|DOCK10
+hgnc_symbol|MCOLN3|MCOLN3
+hgnc_symbol|EAF1|EAF1
+hgnc_symbol|COX15|COX15
+hgnc_symbol|IFI44L|IFI44L
+hgnc_symbol|NOD1|NOD1
+hgnc_symbol|NT5M|NT5M
+hgnc_symbol|LRRC31|LRRC31
+hgnc_symbol|AKAP12|AKAP12
+hgnc_symbol|PCYOX1L|PCYOX1L
+hgnc_symbol|CRHBP|CRHBP
+hgnc_symbol|CYP4A11|CYP4A11
+hgnc_symbol|CA14|CA14
+hgnc_symbol|SLC12A7|SLC12A7
+hgnc_symbol|NCAN|NCAN
+hgnc_symbol|NANS|NANS
+hgnc_symbol|SP1|SP1
+hgnc_symbol|EBF1|EBF1
+hgnc_symbol|TMEM133|TMEM133
+hgnc_symbol|SH3TC2|SH3TC2
+hgnc_symbol|RBM4|RBM4
+hgnc_symbol|C14orf159|C14orf159
+hgnc_symbol|SATB1|SATB1
+hgnc_symbol|PNCK|PNCK
+hgnc_symbol|SDK1|SDK1
+hgnc_symbol|PTH1R|PTH1R
+hgnc_symbol|FRMD4A|FRMD4A
+hgnc_symbol|ST3GAL2|ST3GAL2
+hgnc_symbol|FBXO32|FBXO32
+hgnc_symbol|TSPYL4|TSPYL4
+hgnc_symbol|IFNAR2|IFNAR2
+hgnc_symbol|AQP3|AQP3
+hgnc_symbol|DSCR3|DSCR3
+hgnc_symbol|C1orf109|C1orf109
+hgnc_symbol|FBXL16|FBXL16
+hgnc_symbol|IRF2|IRF2
+hgnc_symbol|PAK6|PAK6
+hgnc_symbol|ZNF501|ZNF501
+hgnc_symbol|NDUFB5|NDUFB5
+hgnc_symbol|CERK|CERK
+hgnc_symbol|EPS15|EPS15
+hgnc_symbol|ERGIC3|ERGIC3
+hgnc_symbol|RPS6KA3|RPS6KA3
+hgnc_symbol|PRPSAP1|PRPSAP1
+hgnc_symbol|ANK1|ANK1
+hgnc_symbol|ZNF721|ZNF721
+hgnc_symbol|GGT7|GGT7
+hgnc_symbol|DPH2|DPH2
+hgnc_symbol|DDR1|DDR1
+hgnc_symbol|MPP5|MPP5
+hgnc_symbol|WSCD1|WSCD1
+hgnc_symbol|LSP1|LSP1
+hgnc_symbol|RPS2|RPS2
+hgnc_symbol|ISLR2|ISLR2
+hgnc_symbol|COL18A1|COL18A1
+hgnc_symbol|GNL3L|GNL3L
+hgnc_symbol|RABL6|RABL6
+hgnc_symbol|MAK|MAK
+hgnc_symbol|ZNF440|ZNF440
+hgnc_symbol|ZNRD1-AS1|ZNRD1-AS1
+hgnc_symbol|MLL5|MLL5
+hgnc_symbol|CREBBP|CREBBP
+hgnc_symbol|FADS1|FADS1
+hgnc_symbol|ABI2|ABI2
+hgnc_symbol|DARS|DARS
+hgnc_symbol|NQO1|NQO1
+hgnc_symbol|ATL3|ATL3
+hgnc_symbol|NSUN4|NSUN4
+hgnc_symbol|CFH|CFH
+hgnc_symbol|PDE7A|PDE7A
+hgnc_symbol|TCF12|TCF12
+hgnc_symbol|RGS5|RGS5
+hgnc_symbol|STK38|STK38
+hgnc_symbol|UHRF1BP1L|UHRF1BP1L
+hgnc_symbol|PRPF40A|PRPF40A
+hgnc_symbol|C18orf25|C18orf25
+hgnc_symbol|PDE4DIP|PDE4DIP
+hgnc_symbol|C2orf44|C2orf44
+hgnc_symbol|POLR2A|POLR2A
+hgnc_symbol|ARHGAP8|ARHGAP8
+hgnc_symbol|PDPK1|PDPK1
+hgnc_symbol|CHPF|CHPF
+hgnc_symbol|CDCP2|CDCP2
+hgnc_symbol|ABCB6|ABCB6
+hgnc_symbol|C4orf29|C4orf29
+hgnc_symbol|OIT3|OIT3
+hgnc_symbol|ANKH|ANKH
+hgnc_symbol|NOM1|NOM1
+hgnc_symbol|FBXO31|FBXO31
+hgnc_symbol|WNK1|WNK1
+hgnc_symbol|FBF1|FBF1
+hgnc_symbol|CBX3|CBX3
+hgnc_symbol|DUSP18|DUSP18
+hgnc_symbol|NR2F2|NR2F2
+hgnc_symbol|CDC25A|CDC25A
+hgnc_symbol|C10orf32|C10orf32
+hgnc_symbol|C16orf70|C16orf70
+hgnc_symbol|MCM4|MCM4
+hgnc_symbol|FKBP14|FKBP14
+hgnc_symbol|IL6R|IL6R
+hgnc_symbol|PNCK|PNCK
+hgnc_symbol|ATXN2|ATXN2
+hgnc_symbol|NAPEPLD|NAPEPLD
+hgnc_symbol|ACADL|ACADL
+hgnc_symbol|MAPKBP1|MAPKBP1
+hgnc_symbol|P2RX7|P2RX7
+hgnc_symbol|SCARB1|SCARB1
+hgnc_symbol|CHD6|CHD6
+hgnc_symbol|GTPBP1|GTPBP1
+hgnc_symbol|SPAG5|SPAG5
+hgnc_symbol|NPAS3|NPAS3
+hgnc_symbol|COX20|COX20
+hgnc_symbol|CACNA1C|CACNA1C
+hgnc_symbol|POU2F2|POU2F2
+hgnc_symbol|GALNT6|GALNT6
+hgnc_symbol|MGAT4A|MGAT4A
+hgnc_symbol|KIF16B|KIF16B
+hgnc_symbol|RAB2B|RAB2B
+hgnc_symbol|LPP|LPP
+hgnc_symbol|PDCD5|PDCD5
+hgnc_symbol|ALDH7A1|ALDH7A1
+hgnc_symbol|SMAD4|SMAD4
+hgnc_symbol|FARP2|FARP2
+hgnc_symbol|EPB41L4A|EPB41L4A
+hgnc_symbol|SDK1|SDK1
+hgnc_symbol|PHC2|PHC2
+hgnc_symbol|SPAG9|SPAG9
+hgnc_symbol|LPIN1|LPIN1
+hgnc_symbol|METTL2B|METTL2B
+hgnc_symbol|CFDP1|CFDP1
+hgnc_symbol|NFKB1|NFKB1
+hgnc_symbol|STRIP2|STRIP2
+hgnc_symbol|RAB6A|RAB6A
+hgnc_symbol|MTERFD2|MTERFD2
+hgnc_symbol|MAK|MAK
+hgnc_symbol|JRK|JRK
+hgnc_symbol|GPATCH2|GPATCH2
+hgnc_symbol|IGF1R|IGF1R
+hgnc_symbol|ZNF195|ZNF195
+hgnc_symbol|FBXO4|FBXO4
+hgnc_symbol|RPL38|RPL38
+hgnc_symbol|EP400NL|EP400NL
+hgnc_symbol|SLC35F2|SLC35F2
+hgnc_symbol|EEF1A1|EEF1A1
+hgnc_symbol|STAG3L1|STAG3L1
+hgnc_symbol|MAPK9|MAPK9
+hgnc_symbol|CD302|CD302
+hgnc_symbol|BICD1|BICD1
+hgnc_symbol|CDK6|CDK6
+hgnc_symbol|RPL41|RPL41
+hgnc_symbol|PARP4|PARP4
+hgnc_symbol|PHF21A|PHF21A
+hgnc_symbol|ZC3H12B|ZC3H12B
+hgnc_symbol|FBXO31|FBXO31
+hgnc_symbol|CARD14|CARD14
+hgnc_symbol|PRKACA|PRKACA
+hgnc_symbol|TMEM232|TMEM232
+hgnc_symbol|LPIN2|LPIN2
+hgnc_symbol|FANCC|FANCC
+hgnc_symbol|BRE|BRE
+hgnc_symbol|F2R|F2R
+hgnc_symbol|GNG12|GNG12
+hgnc_symbol|SAR1B|SAR1B
+hgnc_symbol|COG7|COG7
+hgnc_symbol|CYB5A|CYB5A
+hgnc_symbol|GSR|GSR
+hgnc_symbol|RHOBTB3|RHOBTB3
+hgnc_symbol|RPL10A|RPL10A
+hgnc_symbol|SKA2|SKA2
+hgnc_symbol|SMARCC1|SMARCC1
+hgnc_symbol|NKIRAS2|NKIRAS2
+hgnc_symbol|LYST|LYST
+hgnc_symbol|ADCY3|ADCY3
+hgnc_symbol|KIF21B|KIF21B
+hgnc_symbol|CTH|CTH
+hgnc_symbol|LTBP2|LTBP2
+hgnc_symbol|POT1|POT1
+hgnc_symbol|TTC28-AS1|TTC28-AS1
+hgnc_symbol|TCF20|TCF20
+hgnc_symbol|ERC1|ERC1
+hgnc_symbol|RIOK3|RIOK3
+hgnc_symbol|ZMYND8|ZMYND8
+hgnc_symbol|RBFA|RBFA
+hgnc_symbol|MPI|MPI
+hgnc_symbol|TOR1AIP2|TOR1AIP2
+hgnc_symbol|IL1RL1|IL1RL1
+hgnc_symbol|FGL2|FGL2
+hgnc_symbol|NDC80|NDC80
+hgnc_symbol|TPRG1L|TPRG1L
+hgnc_symbol|SLC25A42|SLC25A42
+hgnc_symbol|VPS37B|VPS37B
+hgnc_symbol|IPCEF1|IPCEF1
+hgnc_symbol|MED17|MED17
+hgnc_symbol|GFPT1|GFPT1
+hgnc_symbol|EIF2C4|EIF2C4
+hgnc_symbol|TF|TF
+hgnc_symbol|PVRL4|PVRL4
+hgnc_symbol|DNASE1|DNASE1
+hgnc_symbol|ERLIN2|ERLIN2
+hgnc_symbol|RPL10A|RPL10A
+hgnc_symbol|PTK2|PTK2
+hgnc_symbol|DPYD|DPYD
+hgnc_symbol|TRNT1|TRNT1
+hgnc_symbol|FUS|FUS
+hgnc_symbol|ARG2|ARG2
+hgnc_symbol|GRWD1|GRWD1
+hgnc_symbol|AHI1|AHI1
+hgnc_symbol|ESYT2|ESYT2
+hgnc_symbol|ATP2B2|ATP2B2
+hgnc_symbol|TPRG1L|TPRG1L
+hgnc_symbol|ZNF573|ZNF573
+hgnc_symbol|RAB2A|RAB2A
+hgnc_symbol|SON|SON
+hgnc_symbol|GPLD1|GPLD1
+hgnc_symbol|GLMN|GLMN
+hgnc_symbol|C1RL|C1RL
+hgnc_symbol|PPTC7|PPTC7
+hgnc_symbol|RNF149|RNF149
+hgnc_symbol|MECOM|MECOM
+hgnc_symbol|TMEM185B|TMEM185B
+hgnc_symbol|LTV1|LTV1
+hgnc_symbol|SOCS7|SOCS7
+hgnc_symbol|CMBL|CMBL
+hgnc_symbol|SNCA|SNCA
+hgnc_symbol|MAP3K6|MAP3K6
+hgnc_symbol|NFASC|NFASC
+hgnc_symbol|JMJD1C|JMJD1C
+hgnc_symbol|PLCB1|PLCB1
+hgnc_symbol|HERPUD2|HERPUD2
+hgnc_symbol|ARPC1B|ARPC1B
+hgnc_symbol|MRTO4|MRTO4
+hgnc_symbol|CNTN5|CNTN5
+hgnc_symbol|RHCE|RHCE
+hgnc_symbol|COL4A3|COL4A3
+hgnc_symbol|FAM49B|FAM49B
+hgnc_symbol|CCDC93|CCDC93
+hgnc_symbol|PLCG2|PLCG2
+hgnc_symbol|ZMYM4|ZMYM4
+hgnc_symbol|PRRC2C|PRRC2C
+hgnc_symbol|ZNF610|ZNF610
+hgnc_symbol|ILKAP|ILKAP
+hgnc_symbol|PLGLB1|PLGLB1
+hgnc_symbol|LTF|LTF
+hgnc_symbol|PEX11A|PEX11A
+hgnc_symbol|AMBRA1|AMBRA1
+hgnc_symbol|ITGA2|ITGA2
+hgnc_symbol|PGRMC2|PGRMC2
+hgnc_symbol|MOBP|MOBP
+hgnc_symbol|EXOSC6|EXOSC6
+hgnc_symbol|RBFOX1|RBFOX1
+hgnc_symbol|DBF4|DBF4
+hgnc_symbol|ATP6V1A|ATP6V1A
+hgnc_symbol|EMC8|EMC8
+hgnc_symbol|HSD17B7|HSD17B7
+hgnc_symbol|CHD2|CHD2
+hgnc_symbol|SMIM14|SMIM14
+hgnc_symbol|MYOZ3|MYOZ3
+hgnc_symbol|EFNA5|EFNA5
+hgnc_symbol|ZNF136|ZNF136
+hgnc_symbol|KLHDC5|KLHDC5
+hgnc_symbol|POMT1|POMT1
+hgnc_symbol|DCAF16|DCAF16
+hgnc_symbol|DNAJC19|DNAJC19
+hgnc_symbol|ZNF429|ZNF429
+hgnc_symbol|SZT2|SZT2
+hgnc_symbol|MIB1|MIB1
+hgnc_symbol|NSMCE2|NSMCE2
+hgnc_symbol|C18orf21|C18orf21
+hgnc_symbol|ZNF253|ZNF253
+hgnc_symbol|DTWD2|DTWD2
+hgnc_symbol|MIB1|MIB1
+hgnc_symbol|SPECC1L|SPECC1L
+hgnc_symbol|CNNM2|CNNM2
+hgnc_symbol|FEZ1|FEZ1
+hgnc_symbol|MRI1|MRI1
+hgnc_symbol|PCYOX1|PCYOX1
+hgnc_symbol|DEGS1|DEGS1
+hgnc_symbol|SPRY3|SPRY3
+hgnc_symbol|HNRNPH3|HNRNPH3
+hgnc_symbol|IL1RL1|IL1RL1
+hgnc_symbol|MBTD1|MBTD1
+hgnc_symbol|PAPPA|PAPPA
+hgnc_symbol|BMPR2|BMPR2
+hgnc_symbol|SLC48A1|SLC48A1
+hgnc_symbol|TAB2|TAB2
+hgnc_symbol|FOXP1|FOXP1
+hgnc_symbol|BPTF|BPTF
+hgnc_symbol|UBXN2A|UBXN2A
+hgnc_symbol|PLAC4|PLAC4
+hgnc_symbol|YIPF6|YIPF6
+hgnc_symbol|STIL|STIL
+hgnc_symbol|SLC16A1|SLC16A1
+hgnc_symbol|MTF2|MTF2
+hgnc_symbol|TUT1|TUT1
+hgnc_symbol|AHR|AHR
+hgnc_symbol|HIST1H2AC|HIST1H2AC
+hgnc_symbol|FRS2|FRS2
+hgnc_symbol|PRDM4|PRDM4
+hgnc_symbol|HN1L|HN1L
+hgnc_symbol|NFE2L3|NFE2L3
+hgnc_symbol|USP34|USP34
+hgnc_symbol|EIF2AK4|EIF2AK4
+hgnc_symbol|ZNF525|ZNF525
+hgnc_symbol|ABHD12B|ABHD12B
+hgnc_symbol|DIRAS1|DIRAS1
+hgnc_symbol|KIF15|KIF15
+hgnc_symbol|IREB2|IREB2
+hgnc_symbol|TTF2|TTF2
+hgnc_symbol|LRRFIP2|LRRFIP2
+hgnc_symbol|PDE11A|PDE11A
+hgnc_symbol|TSPAN5|TSPAN5
+hgnc_symbol|CNP|CNP
+hgnc_symbol|FBXO18|FBXO18
+hgnc_symbol|CEP63|CEP63
+hgnc_symbol|INTS4|INTS4
+hgnc_symbol|ERBB3|ERBB3
+hgnc_symbol|MCAM|MCAM
+hgnc_symbol|GSN|GSN
+hgnc_symbol|KDM4B|KDM4B
+hgnc_symbol|TMEFF2|TMEFF2
+hgnc_symbol|MLYCD|MLYCD
+hgnc_symbol|PSMD7|PSMD7
+hgnc_symbol|VPS26A|VPS26A
+hgnc_symbol|GINM1|GINM1
+hgnc_symbol|ACTR6|ACTR6
+hgnc_symbol|NIPAL1|NIPAL1
+hgnc_symbol|EIF2S1|EIF2S1
+hgnc_symbol|ZNF37BP|ZNF37BP
+hgnc_symbol|CAPZA2|CAPZA2
+hgnc_symbol|MTMR3|MTMR3
+hgnc_symbol|KANK1|KANK1
+hgnc_symbol|PIK3R2|PIK3R2
+hgnc_symbol|FXR2|FXR2
+hgnc_symbol|FBF1|FBF1
+hgnc_symbol|RUFY2|RUFY2
+hgnc_symbol|GRHL1|GRHL1
+hgnc_symbol|MTMR3|MTMR3
+hgnc_symbol|ADAM12|ADAM12
+hgnc_symbol|RABL3|RABL3
+hgnc_symbol|HDLBP|HDLBP
+hgnc_symbol|PPM1D|PPM1D
+hgnc_symbol|ACSL4|ACSL4
+hgnc_symbol|LRRFIP2|LRRFIP2
+hgnc_symbol|USP46|USP46
+hgnc_symbol|MSH6|MSH6
+hgnc_symbol|MSL2|MSL2
+hgnc_symbol|ECHDC3|ECHDC3
+hgnc_symbol|TMEM59|TMEM59
+hgnc_symbol|CCBP2|CCBP2
+hgnc_symbol|DCAF11|DCAF11
+hgnc_symbol|STX3|STX3
+hgnc_symbol|BBX|BBX
+hgnc_symbol|FBXL7|FBXL7
+hgnc_symbol|AFAP1L1|AFAP1L1
+hgnc_symbol|SLC31A1|SLC31A1
+hgnc_symbol|TIPARP|TIPARP
+hgnc_symbol|H6PD|H6PD
+hgnc_symbol|BORA|BORA
+hgnc_symbol|SNCA|SNCA
+hgnc_symbol|MME|MME
+hgnc_symbol|PTBP3|PTBP3
+hgnc_symbol|LMO2|LMO2
+hgnc_symbol|MYO1D|MYO1D
+hgnc_symbol|FNBP4|FNBP4
+hgnc_symbol|PIGX|PIGX
+hgnc_symbol|ACOT12|ACOT12
+hgnc_symbol|PYROXD1|PYROXD1
+hgnc_symbol|MRPS27|MRPS27
+hgnc_symbol|PIGX|PIGX
+hgnc_symbol|CDCA8|CDCA8
+hgnc_symbol|FRYL|FRYL
+hgnc_symbol|ARMC1|ARMC1
+hgnc_symbol|KIAA1715|KIAA1715
+hgnc_symbol|VGLL3|VGLL3
+hgnc_symbol|H2AFV|H2AFV
+hgnc_symbol|PDCD4|PDCD4
+hgnc_symbol|FAM13B|FAM13B
+hgnc_symbol|SGSM1|SGSM1
+hgnc_symbol|CTDSPL2|CTDSPL2
+hgnc_symbol|C6orf62|C6orf62
+hgnc_symbol|VKORC1L1|VKORC1L1
+hgnc_symbol|AFF3|AFF3
+hgnc_symbol|FAM149A|FAM149A
+hgnc_symbol|HNRNPA3|HNRNPA3
+hgnc_symbol|NIPAL3|NIPAL3
+hgnc_symbol|KIAA1109|KIAA1109
+hgnc_symbol|PTPN12|PTPN12
+hgnc_symbol|ZDHHC4|ZDHHC4
+hgnc_symbol|SMEK2|SMEK2
+hgnc_symbol|PDLIM5|PDLIM5
+hgnc_symbol|TLN1|TLN1
+hgnc_symbol|GFM2|GFM2
+hgnc_symbol|MAPK8|MAPK8
+hgnc_symbol|RNF19A|RNF19A
+hgnc_symbol|LRP8|LRP8
+hgnc_symbol|SS18L1|SS18L1
+hgnc_symbol|PCDHGC3|PCDHGC3
+hgnc_symbol|C3|C3
+hgnc_symbol|RBM39|RBM39
+hgnc_symbol|ITFG1|ITFG1
+hgnc_symbol|STX3|STX3
+hgnc_symbol|RCHY1|RCHY1
+hgnc_symbol|BMPR2|BMPR2
+hgnc_symbol|DEAF1|DEAF1
+hgnc_symbol|HTT|HTT
+hgnc_symbol|TBCA|TBCA
+hgnc_symbol|CPQ|CPQ
+hgnc_symbol|MINK1|MINK1
+hgnc_symbol|CCDC120|CCDC120
+hgnc_symbol|RHAG|RHAG
+hgnc_symbol|FANCC|FANCC
+hgnc_symbol|CENPC1|CENPC1
+hgnc_symbol|TFRC|TFRC
+hgnc_symbol|EP300|EP300
+hgnc_symbol|MNAT1|MNAT1
+hgnc_symbol|TSPAN5|TSPAN5
+hgnc_symbol|PDE4DIP|PDE4DIP
+hgnc_symbol|YPEL3|YPEL3
+hgnc_symbol|GPR126|GPR126
+hgnc_symbol|CD58|CD58
+hgnc_symbol|SYNE1|SYNE1
+hgnc_symbol|ZNF207|ZNF207
+hgnc_symbol|CCDC162P|CCDC162P
+hgnc_symbol|CTNND2|CTNND2
+hgnc_symbol|FRMD4A|FRMD4A
+hgnc_symbol|C1orf112|C1orf112
+hgnc_symbol|RNF152|RNF152
+hgnc_symbol|SEC63|SEC63
+hgnc_symbol|TMEM184C|TMEM184C
+hgnc_symbol|TOR1AIP1|TOR1AIP1
+hgnc_symbol|ATM|ATM
+hgnc_symbol|BMP1|BMP1
+hgnc_symbol|GATAD1|GATAD1
+hgnc_symbol|SUZ12|SUZ12
+hgnc_symbol|ARL6IP6|ARL6IP6
+hgnc_symbol|DCAF6|DCAF6
+hgnc_symbol|RRAGD|RRAGD
+hgnc_symbol|SLC39A14|SLC39A14
+hgnc_symbol|PARD3|PARD3
+hgnc_symbol|MCAM|MCAM
+hgnc_symbol|AK5|AK5
+hgnc_symbol|ZNF169|ZNF169
+hgnc_symbol|ARMC1|ARMC1
+hgnc_symbol|ARIH1|ARIH1
+hgnc_symbol|TMEM229B|TMEM229B
+hgnc_symbol|SF3B3|SF3B3
+hgnc_symbol|MSMO1|MSMO1
+hgnc_symbol|TRIO|TRIO
+hgnc_symbol|DSCR3|DSCR3
+hgnc_symbol|CREB3L1|CREB3L1
+hgnc_symbol|AGAP1|AGAP1
+hgnc_symbol|SLFN5|SLFN5
+hgnc_symbol|TAOK1|TAOK1
+hgnc_symbol|SHROOM4|SHROOM4
+hgnc_symbol|ZNF777|ZNF777
+hgnc_symbol|CDC42BPA|CDC42BPA
+hgnc_symbol|LRRC57|LRRC57
+hgnc_symbol|SLC7A2|SLC7A2
+hgnc_symbol|PICALM|PICALM
+hgnc_symbol|CBR4|CBR4
+hgnc_symbol|BPTF|BPTF
+hgnc_symbol|ADK|ADK
+hgnc_symbol|CR1|CR1
+hgnc_symbol|COPRS|COPRS
+hgnc_symbol|WIPF2|WIPF2
+hgnc_symbol|RSF1|RSF1
+hgnc_symbol|TSC22D1|TSC22D1
+hgnc_symbol|ATXN2|ATXN2
+hgnc_symbol|USP37|USP37
+hgnc_symbol|SLC38A2|SLC38A2
+hgnc_symbol|ZNF43|ZNF43
+hgnc_symbol|PLEKHM2|PLEKHM2
+hgnc_symbol|ASH1L|ASH1L
+hgnc_symbol|WDR31|WDR31
+hgnc_symbol|ATG10|ATG10
+hgnc_symbol|ZNF596|ZNF596
+hgnc_symbol|CD36|CD36
+hgnc_symbol|ARMC4|ARMC4
+hgnc_symbol|ELOVL7|ELOVL7
+hgnc_symbol|SNCA|SNCA
+hgnc_symbol|TBRG1|TBRG1
+hgnc_symbol|EP300|EP300
+hgnc_symbol|PCMTD1|PCMTD1
+hgnc_symbol|AK5|AK5
+hgnc_symbol|SYNRG|SYNRG
+hgnc_symbol|STK4|STK4
+hgnc_symbol|ELP3|ELP3
+hgnc_symbol|MTR|MTR
+hgnc_symbol|ARHGAP42|ARHGAP42
+hgnc_symbol|GAB2|GAB2
+hgnc_symbol|CHCHD7|CHCHD7
+hgnc_symbol|MFSD8|MFSD8
+hgnc_symbol|STIM1|STIM1
+hgnc_symbol|PANK3|PANK3
+hgnc_symbol|AKAP9|AKAP9
+hgnc_symbol|OTUD7B|OTUD7B
+hgnc_symbol|ADNP|ADNP
+hgnc_symbol|SPECC1|SPECC1
+hgnc_symbol|KRTAP4-7|KRTAP4-7
+hgnc_symbol|APPBP2|APPBP2
+hgnc_symbol|CHURC1|CHURC1
+hgnc_symbol|TRNT1|TRNT1
+hgnc_symbol|C16orf72|C16orf72
+hgnc_symbol|DAPK1|DAPK1
+hgnc_symbol|PIPOX|PIPOX
+hgnc_symbol|FADS1|FADS1
+hgnc_symbol|ARHGEF12|ARHGEF12
+hgnc_symbol|IDS|IDS
+hgnc_symbol|GART|GART
+hgnc_symbol|LRRC8A|LRRC8A
+hgnc_symbol|CLCN3|CLCN3
+hgnc_symbol|POFUT1|POFUT1
+hgnc_symbol|NSMCE2|NSMCE2
+hgnc_symbol|PCF11|PCF11
+hgnc_symbol|ATRNL1|ATRNL1
+hgnc_symbol|IGF2BP3|IGF2BP3
+hgnc_symbol|TRPC1|TRPC1
+hgnc_symbol|ADNP|ADNP
+hgnc_symbol|ADAL|ADAL
+hgnc_symbol|C14orf159|C14orf159
+hgnc_symbol|PTPN1|PTPN1
+hgnc_symbol|C2orf72|C2orf72
+hgnc_symbol|DENND4A|DENND4A
+hgnc_symbol|ARHGEF26|ARHGEF26
+hgnc_symbol|ACTR8|ACTR8
+hgnc_symbol|HPS5|HPS5
+hgnc_symbol|MSMO1|MSMO1
+hgnc_symbol|ROCK1|ROCK1
+hgnc_symbol|AHI1|AHI1
+hgnc_symbol|GAREM|GAREM
+hgnc_symbol|ELL2|ELL2
+hgnc_symbol|XRN1|XRN1
+hgnc_symbol|GIT2|GIT2
+hgnc_symbol|FBLIM1|FBLIM1
+hgnc_symbol|RBM18|RBM18
+hgnc_symbol|CPEB2|CPEB2
+hgnc_symbol|AASS|AASS
+hgnc_symbol|ELOVL7|ELOVL7
+hgnc_symbol|PLGLB1|PLGLB1
+hgnc_symbol|DPH3|DPH3
+hgnc_symbol|DMXL1|DMXL1
+hgnc_symbol|ORC6|ORC6
+hgnc_symbol|FKBP9|FKBP9
+hgnc_symbol|NUP153|NUP153
+hgnc_symbol|EMP2|EMP2
+hgnc_symbol|RAB6A|RAB6A
+hgnc_symbol|COX18|COX18
+hgnc_symbol|RBL1|RBL1
+hgnc_symbol|C6orf201|C6orf201
+hgnc_symbol|UBXN2A|UBXN2A
+hgnc_symbol|STAM|STAM
+hgnc_symbol|CHKA|CHKA
+hgnc_symbol|ATAD5|ATAD5
+hgnc_symbol|LHX2|LHX2
+hgnc_symbol|LAMB1|LAMB1
+hgnc_symbol|DIP2B|DIP2B
+hgnc_symbol|RPL37|RPL37
+hgnc_symbol|DNAJC19|DNAJC19
+hgnc_symbol|FAM222B|FAM222B
+hgnc_symbol|C2orf69|C2orf69
+hgnc_symbol|FAM65B|FAM65B
+hgnc_symbol|TBC1D22A|TBC1D22A
+hgnc_symbol|ARHGAP23|ARHGAP23
+hgnc_symbol|FAM108B1|FAM108B1
+hgnc_symbol|IGF2BP2|IGF2BP2
+hgnc_symbol|CD82|CD82
+hgnc_symbol|GXYLT1|GXYLT1
+hgnc_symbol|CACUL1|CACUL1
+hgnc_symbol|LARP4|LARP4
+hgnc_symbol|FAM179B|FAM179B
+hgnc_symbol|RNF13|RNF13
+hgnc_symbol|PAFAH1B1|PAFAH1B1
+hgnc_symbol|RAB1A|RAB1A
+hgnc_symbol|ZNF207|ZNF207
+hgnc_symbol|CDK6|CDK6
+hgnc_symbol|KCNJ3|KCNJ3
+hgnc_symbol|CTSS|CTSS
+hgnc_symbol|APPL2|APPL2
+hgnc_symbol|SLC50A1|SLC50A1
+hgnc_symbol|EIF3B|EIF3B
+hgnc_symbol|DPP8|DPP8
+hgnc_symbol|GRID2|GRID2
+hgnc_symbol|SGTB|SGTB
+hgnc_symbol|SPATA21|SPATA21
+hgnc_symbol|ZNF551|ZNF551
+hgnc_symbol|GNPTAB|GNPTAB
+hgnc_symbol|PCSK5|PCSK5
+hgnc_symbol|LRRC58|LRRC58
+hgnc_symbol|RBM5|RBM5
+hgnc_symbol|LPCAT3|LPCAT3
+hgnc_symbol|ZNF767|ZNF767
+hgnc_symbol|TOR1AIP1|TOR1AIP1
+hgnc_symbol|DYNC1I2|DYNC1I2

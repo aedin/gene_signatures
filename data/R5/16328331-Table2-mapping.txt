@@ -1,0 +1,46 @@
+# Generate Mapping Tables Script: Version 4 11:07 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:07 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+unigene|Mm.234654|Mm.234654	mgi_symbol|TIMD2|TIMD2
+unigene|Mm.40336|Mm.40336	mgi_symbol|TNFRSF19L|TNFRSF19L
+unigene|Mm.3986|Mm.3986	mgi_symbol|GHR|GHR
+unigene|Mm.293614|Mm.293614	mgi_symbol|CXCL7|CXCL7
+unigene|Mm.258946|Mm.258946	mgi_symbol|CCL19|CCL19
+unigene|Mm.268521|Mm.268521	mgi_symbol|IGF1|IGF1
+unigene|Mm.94519|Mm.94519	mgi_symbol|TBLYM|TBLYM
+unigene|Mm.131422|Mm.131422	mgi_symbol|OSM|OSM
+unigene|Mm.235137|Mm.235137	mgi_symbol|SCYE1|SCYE1
+unigene|Mm.882|Mm.882	mgi_symbol|IL1RN|IL1RN
+unigene|Mm.91920|Mm.91920	mgi_symbol|SOCS6|SOCS6
+unigene|Mm.269363|Mm.269363	mgi_symbol|IL17BR|IL17BR
+unigene|Mm.3862|Mm.3862	mgi_symbol|IGF2|IGF2
+unigene|Mm.1284|Mm.1284	mgi_symbol|IL13|IL13
+unigene|Mm.56903|Mm.56903	mgi_symbol|GPR44|GPR44
+unigene|Mm.281356|Mm.281356	mgi_symbol|TNFRSF19|TNFRSF19
+unigene|Mm.795|Mm.795	mgi_symbol|CSF1|CSF1
+unigene|Mm.303231|Mm.303231	mgi_symbol|CXCL12|CXCL12
+unigene|Mm.244187|Mm.244187	mgi_symbol|TNFRSF9|TNFRSF9
+unigene|Mm.1337|Mm.1337	mgi_symbol|CCR4|CCR4
+unigene|Mm.271833|Mm.271833	mgi_symbol|TNFRSF5|TNFRSF5
+unigene|Mm.766|Mm.766	mgi_symbol|CXCL9|CXCL9
+unigene|Mm.15383|Mm.15383	mgi_symbol|TNFRSF11B|TNFRSF11B
+unigene|Mm.15510|Mm.15510	mgi_symbol|GZMA|GZMA
+unigene|Mm.168|Mm.168	mgi_symbol|IFRD1|IFRD1
+unigene|Mm.101198|Mm.101198	mgi_symbol|DDR3|DDR3
+unigene|Mm.328086|Mm.328086	mgi_symbol|EDA|EDA
+unigene|Mm.290320|Mm.290320	mgi_symbol|CCL2|CCL2
+unigene|Mm.261647|Mm.261647	mgi_symbol|IL22R|IL22R
+unigene|Mm.46424|Mm.46424	mgi_symbol|CXCL16|CXCL16
+unigene|Mm.14302|Mm.14302	mgi_symbol|CCR5|CCR5
+unigene|Mm.240313|Mm.240313	mgi_symbol|PRF1|PRF1
+unigene|Mm.268863|Mm.268863	mgi_symbol|TXLN|TXLN
+unigene|Mm.273188|Mm.273188	mgi_symbol|F3|F3
+unigene|Mm.221227|Mm.221227	mgi_symbol|IL23R|IL23R
+unigene|Mm.4864|Mm.4864	mgi_symbol|MPL|MPL
+unigene|Mm.29261|Mm.29261	mgi_symbol|IL1F5|IL1F5
+unigene|Mm.14874|Mm.14874	mgi_symbol|GZMB|GZMB
+unigene|Mm.284248|Mm.284248	mgi_symbol|CCL5|CCL5
+unigene|Mm.877|Mm.877	mgi_symbol|CXCL10|CXCL10

@@ -1,0 +1,167 @@
+Function	Gene	Symbol	Clone ID	NF-kB Association	Fold Change LY-2/Ker	Fold Change LY-2/IkB-aM
+CELL CYCLE/GROWTH	Annexin A1	Anxa1	H3008H01		3.653	-4.611
+CELL CYCLE/GROWTH	Annexin A2	Anxa2	H3126C03		3.918	-1.89
+CELL CYCLE/GROWTH	Amyloid beta precursor protein	App	H3132G02	target gene	3.814	-4.091
+CELL CYCLE/GROWTH	Cyclin D1	Ccnd1	H3084D05	target gene	3.351	-2.266
+CELL CYCLE/GROWTH	Cyclin D2	Ccnd2	H3152D01	target gene	2.957	-2.05
+CELL CYCLE/GROWTH	Growth arrest specific 5	Gas5	H3113A12		6.304	-7.813
+CELL CYCLE/GROWTH	Hepatoma derived growth factor	Hdgf	H3046C06		1.964	-2.933
+CELL CYCLE/GROWTH	Kinesin family member 3a	Kif3a	H3111B02		2.111	-3.734
+CELL CYCLE/GROWTH	Lectin, galactose binding	Lgals1	H3022G07	target gene	4.074	-2.514
+CELL CYCLE/GROWTH	Lectin, galctose binding	Lgals7	H3135C02		12.87	-1.381
+CELL CYCLE/GROWTH	Milk fat globule-EGF factor 8	Mfge8	H3126F11	target gene	2.594	-3.525
+CELL CYCLE/GROWTH	#Protein phosphatase 3	Ppp3cb	H3065C08	inhibitor of NF-kB	3.117	-2.231
+CELL CYCLE/GROWTH	Proliferating cell nuclear antigen	Pcna	H3021F12	target gene	5.775	-2.811
+CELL CYCLE/GROWTH	Set translocation	Set	H3027B05		2.41	-3.45
+CELL CYCLE/GROWTH	Son cell proliferation protein	Son	H3035B06		5.066	-8.329
+CELL CYCLE/GROWTH	Split hand/foot deleted gene	Shfdg1	H3095C05		2.593	-2.915
+APOPTOSIS	#Baculoviral IAP repeat	Birc2	H3074A02	target gene	9.154	-6.013
+APOPTOSIS	Bcl-2 related ovarian killer	Bok1	H3081D02		1.994	-3.461
+APOPTOSIS	Cathepsin L	Ctsl	H3028F03		3.474	-4.281
+APOPTOSIS	Immediate early reponse 3	Ier3	H3057B07	target gene	2.865	-3.851
+APOPTOSIS	#Transformation related protein	Trp53	H3142D07	target gene	2.9	-4.142
+APOPTOSIS	#Uchrp	Uchrp	605056		2.188	-4.353
+INFLAMMATION/ANGIOGENESIS	Colony stimulating factor 1	Csf1	H3057D05	target gene	14.639	-5.574
+INFLAMMATION/ANGIOGENESIS	Complement component 3	C3	H3054A08	target gene	5.145	-8.303
+INFLAMMATION/ANGIOGENESIS	FGF receptor	fgfr4	406823	target gene	1.982	-1.991
+INFLAMMATION/ANGIOGENESIS	Gro 1 oncogene	Gro1	H3051F10	target gene	12.394	-4.094
+INFLAMMATION/ANGIOGENESIS	Histocompatibility 2-L	H2-L	H3096A12	target gene	2.342	-3.431
+INFLAMMATION/ANGIOGENESIS	Histocompatibility 2-D	H2-D	H3141B11	target gene	2.968	-3.927
+INFLAMMATION/ANGIOGENESIS	Interferon receptor	Ifnar	H3118F09	inhibitor of NF-kB	4.5	-3.054
+INFLAMMATION/ANGIOGENESIS	Lymphocyte antigen complex	Ly6e	H3027D05	inducer of NF-kB	4.029	-2.613
+INFLAMMATION/ANGIOGENESIS	Peptidylprolyl isomerase A	Ppia	H3028A03	inhibitor of NF-kB	2.174	-2.301
+METASTASIS	#Integrin alpha 3	Itga3	H3137A03	inducer of NF-kB	15.597	-3.917
+METASTASIS	Laminin alpha 5	Lama5	H3002G01	target gene	2.272	-2.967
+METASTASIS	Laminin receptor 1	Lamr1	H3075G08		2.169	-1.619
+METASTASIS	p8 protein	p8	H3106H03		7.314	-2.163
+METASTASIS	Plasminogen activator, tissue	Plat	H3080H11	target gene	2.667	-2.487
+METASTASIS	Procollagen type 5 alpha 2	Col5a2	H3156E09	target gene	5.103	-2.094
+METASTASIS	Serine protease inhibitor 6	Spi6	H3015H02		1.878	-2.831
+METASTASIS	Syndecan 1	Sdc1	H3013F05	target gene	2.948	-2.034
+METABOLISM	Alcohol dehydrogenase	Aldh3a2	H3123B09		2.024	-2.679
+METABOLISM	#ATPase H+ transport	Atp6b	H3120H04	inhibitor of NF-kB	2.247	-2.858
+METABOLISM	Branched chain ketoacid dehyd	Bckdk	H3136B09		2.455	-3.042
+METABOLISM	Carbonyl reductase	Cbr2	H3097E03		10.288	-3.19
+METABOLISM	Choline kinase	Chk	H3088E07	inducer of NF-kB	6.662	-3.252
+METABOLISM	Cytochrome p450	Cyp1b1	J0216F07	target gene	22.289	-4.286
+METABOLISM	#Dodecenoyl CoenzymeA delta	Dci	H3095C08		2.739	-1.373
+METABOLISM	Glutathione-s-transferase	Gstm1	H3133A06	target gene	3.037	-3.061
+METABOLISM	Heme binding protein	Hebp	H3152G09		2.645	-2.419
+METABOLISM	Hemoglobin, beta	Hbb-b1	H3140G04	target gene	2.867	-1.402
+METABOLISM	isocitrate dehydrogenase	Idh3g	420772		38.85	-1.975
+METABOLISM	Low density lipoprotein receptor	Ldlr	H3014C04	target gene	2.689	-3.226
+METABOLISM	#Mannose-6-phosphate receptor	M6pr	H3092C05	inhibitor of NF-kB	6.303	-3.612
+METABOLISM	Methylenetetrahydrofolate	Mthfd2	H3158E03		2.471	-1.289
+METABOLISM	Phosphodiesterase 7	Pde7a	H3085D03		2.643	-4.685
+METABOLISM	Potassium intermediate	Kcnn4	H3054H04		2.778	-2.197
+METABOLISM	Peroxiredoxin 5	Prdx5	H3023C07	inhibitor of NF-kB	2.626	-1.546
+METABOLISM	Phenylalkylamine Ca+2 antag	Ebp	607026		2.017	-1.313
+METABOLISM	Solute carrier family 12	Slc12a2	H3077B02		2.551	-2.145
+STRESS RESPONSE	Heat shock protein 25 kD	Hsp25	H3082D09		2.704	-1.161
+STRESS RESPONSE	Heat shock protein, 70kD	Hspa5	H3032A08	activates NF-kB	14.303	-6.369
+STRESS RESPONSE	Heat shock protein 84 kD	Hsp84	H3042G07	activates NF-kB	3.437	-7.198
+STRESS RESPONSE	Heat shock protein 86 kD	Hsp86	H3023G01	activates NF-kB	2.61	-2.34
+STRESS RESPONSE	Heat shock protein cognate 70	Hsc70	H3133H01	binds NF-kB	3.42	-10.229
+STRESS RESPONSE	Inositol requiring 1 alpha	Ire1a	H3051D08		3.939	-3.447
+STRESS RESPONSE	Superoxide dismutase	Sod1	H3130B11	target gene	4.784	-2.145
+STRESS RESPONSE	STIP1 homology and U-box	Stub1	H3033A03		2.244	-2.127
+SIGNAL TRANSDUCTION	Acid phosphatase, tartrate res	Acp5	H3007C07		2.752	-4.332
+SIGNAL TRANSDUCTION	#AXL receptortyrosine kinase	Axl	H3152F05	inhibitor of NF-kB	2.459	0.938
+SIGNAL TRANSDUCTION	CD97	Cd97	H3032G06		2.283	-1.352
+SIGNAL TRANSDUCTION	Interleukin-1 receptor associated	Il1rak	H3042E08	activates NF-kB	1.999	-1.296
+SIGNAL TRANSDUCTION	Frizzled 7 homolog	Fzd7	H3031A03		2.717	-0.843
+SIGNAL TRANSDUCTION	Growth arrest & DNA damage specific	Gadd45g	H3054C02	activates NF-kB	3.144	-1.407
+SIGNAL TRANSDUCTION	Growth factor receptor bound	Grb2	H3153D02	activates NF-kB	2.483	-2.341
+SIGNAL TRANSDUCTION	N-myc downstream regulated	Ndr2	G0110H06	inhibits p50	2.248	-2.039
+SIGNAL TRANSDUCTION	PI3 kinase regulatory	Pik3r1	H3067B08	activates NF-kB	4.206	-3.539
+SIGNAL TRANSDUCTION	Protein tyrosine phosphatase	Ptpn13	H3118G02	inhibitor of NF-kB	2.844	-9.071
+SIGNAL TRANSDUCTION	Rab7 RAS family member	Rab7	H3133C08		1.807	-2.207
+SIGNAL TRANSDUCTION	RAN binding protein	Ranbp1	H3104D06	IkBa accumulation	2.796	-3.122
+SIGNAL TRANSDUCTION	#Ras p21 protein activator 3	Rasa3	H3054E01	activates NF-kB	3.223	-2.71
+SIGNAL TRANSDUCTION	Ras-related C3	Rac1	477981		2.042	-3.875
+SIGNAL TRANSDUCTION	Serine/threonine kinase 11	Stk11	H3052C12		2.134	-1.273
+SIGNAL TRANSDUCTION	Serum/glucocorticoid regulated	Sgk	H3110E08		2.899	-0.534
+SIGNAL TRANSDUCTION	Transferrin receptor	Trfr	H3059G03		2.216	-1.145
+SIGNAL TRANSDUCTION	Wingless related MMTV	Wnt4	H3121F01		2.353	-1.043
+NUCLEAR PROTEINS/TRANSCRIPTION FACTORS	Activating transcription factor	Atf2	J0221F08		1.606	-2.696
+NUCLEAR PROTEINS/TRANSCRIPTION FACTORS	#Breast cancer, early onset	Brca2	H3069F08		2.216	-0.604
+NUCLEAR PROTEINS/TRANSCRIPTION FACTORS	Butyrate response factor	Brf2	H3015E08		2.072	-2.008
+NUCLEAR PROTEINS/TRANSCRIPTION FACTORS	Cellular nucleic acid bp	Cnbp	H3123E02		2.884	-3.637
+NUCLEAR PROTEINS/TRANSCRIPTION FACTORS	DNA binding protein A	Dbpa	H3132D03		1.837	-2.935
+NUCLEAR PROTEINS/TRANSCRIPTION FACTORS	Downs syndrome critical	Dscr1	H3130C02		2.069	-2.392
+NUCLEAR PROTEINS/TRANSCRIPTION FACTORS	High mobility group AT	Hmga1	H3029B11	target gene	2.816	-2.591
+NUCLEAR PROTEINS/TRANSCRIPTION FACTORS	Jerky	Jrk	H3119F06		2.849	-3.329
+NUCLEAR PROTEINS/TRANSCRIPTION FACTORS	Myelocytomatosis oncogene	Myc	H3089H11	target gene	2.224	-2.42
+NUCLEAR PROTEINS/TRANSCRIPTION FACTORS	Nuclear factor kappaB p105	Nfkb1	H3072E09		2.919	-1.443
+NUCLEAR PROTEINS/TRANSCRIPTION FACTORS	Nuclear receptor subfamily 2	Nr2f2	H3124H07	inhibitor of NF-kB	3.207	-4.303
+NUCLEAR PROTEINS/TRANSCRIPTION FACTORS	Nucleolar autoantigen	Noa36	G0106E01		2.758	-1.124
+NUCLEAR PROTEINS/TRANSCRIPTION FACTORS	PHD finger protein 2	Phf2	H3012B10		3.001	0.813
+NUCLEAR PROTEINS/TRANSCRIPTION FACTORS	RuvB like protein	Ruvbl2	H3145E05		3.329	-2.922
+NUCLEAR PROTEINS/TRANSCRIPTION FACTORS	Sex comb on midleg-like 1	Scml1	H3113B01		2.355	-1.154
+NUCLEAR PROTEINS/TRANSCRIPTION FACTORS	Transcription factor Dp-1	Tfdp1	H3146G01		4.034	-2.203
+NUCLEAR PROTEINS/TRANSCRIPTION FACTORS	Yes-associated protein 65kD	Yap	H3089H07		2.072	-1.746
+RNA PROCESSING	DEAD box protein 3	Ddx3	H3018F11		2.976	-2.055
+RNA PROCESSING	#DJ-1 protein	DJ-1	H3150D06		3.155	-4.611
+RNA PROCESSING	Fibrillarin	Fbl	H3007F05		2.604	-1.23
+RNA PROCESSING	FGF inducible 14	Fin14	H3018G01		2.358	-3.355
+RNA PROCESSING	Nuclear ribonuclease	Hnrpa1	H3111H11		4.926	-2.785
+RNA PROCESSING	Nucleophosmin 1	Npm1	H3136B07		7.575	-4.672
+RNA PROCESSING	PolyA binding protein	Pabpc1	H3012E11		4.048	-2.793
+RNA PROCESSING	RNA polymerase 1-1	Rpo1-1	H3049D09		2.703	-2.328
+PROTEIN SYNTHESIS/MODIFICATION	3-Phosphoglycerate dehydrogen	Phgdh	H3047A08		4.535	-2.427
+PROTEIN SYNTHESIS/MODIFICATION	Acidic ribosomal phosphoprotein	Arbp	H3008E12		2.008	-2.087
+PROTEIN SYNTHESIS/MODIFICATION	Asparagine synthase	Asns	H3154F02		2.062	-2.202
+PROTEIN SYNTHESIS/MODIFICATION	Chaperonin subunit 3	Cct3	H3024B03		2.055	-2.409
+PROTEIN SYNTHESIS/MODIFICATION	Chaperonin subunit 7	Cct7	H3026F07		2.601	-2.137
+PROTEIN SYNTHESIS/MODIFICATION	#ERO1 like	Ero1l	H3126B01		2.529	-2.456
+PROTEIN SYNTHESIS/MODIFICATION	Eukaryotic translation initiation	Eifa1	H3007B09	inhibits NF-kB	4.698	-2.101
+PROTEIN SYNTHESIS/MODIFICATION	Nucleolin	Ncl	H3016D12		2.771	-2.094
+PROTEIN SYNTHESIS/MODIFICATION	Ribosomal protein L27a	Rpl27a	H3009B05		2.183	1.369
+PROTEIN SYNTHESIS/MODIFICATION	Ribosomal protein L8	Rpl8	H3141F09		2.778	1.005
+PROTEIN SYNTHESIS/MODIFICATION	Ribosomal protein S18	Rps18	H3006C11		2.487	-2.424
+PROTEIN SYNTHESIS/MODIFICATION	Tetratricopeptide repeat domain	Ttc3	H3144C09	inhibits NF-kB	2.312	-2.192
+PROTEIN SYNTHESIS/MODIFICATION	Transglutaminase 2	Tgm2	H3137C06	target gene	3.446	-2.813
+PROTEIN SYNTHESIS/MODIFICATION	Ubiquitin activating enzyme E1	Ube1x	H3022E03	phosphorylates IkB	5.313	-3.139
+PROTEIN SYNTHESIS/MODIFICATION	Ubiquitin B	Ubb	H3138A08	labels IkB	8.144	-1.171
+PROTEIN SYNTHESIS/MODIFICATION	Ubiquitin conjugating enzyme E2	Ube2h	H3057B09	phosphorylates IkB	3.333	-1.199
+PROTEIN SYNTHESIS/MODIFICATION	Ubiquitin conjugating enzyme E3	Ube3a	H3102B01	phosphorylates IkB	4.878	-5.096
+PROTEIN SYNTHESIS/MODIFICATION	Ubiquitin specific protease 9	Usp9x	H3139F12		3.769	-3.175
+STRUCTURAL PROTEINS	Alpha tropomyosin	Tpm1	H3120G06	binds p65	2.421	-4.36
+STRUCTURAL PROTEINS	Cadherin	Cdh3	H3018F05	inflammatory	2.328	-2.706
+STRUCTURAL PROTEINS	Capping protein alpha 2	Cappa2	H3085F12		14.293	-7.458
+STRUCTURAL PROTEINS	Caveolin, 22kd	Cav	H3089D06	activates NF-kB	3.202	-1.154
+STRUCTURAL PROTEINS	Dystroglycan 1	Dag1	H3008B05	activates NF-kB	2.593	-4.738
+STRUCTURAL PROTEINS	#Epithelial protein lost	Eplin	H3153C05	activates NF-kB	2.066	-2.971
+STRUCTURAL PROTEINS	Fascin homolog 1	Fscn1	H3006D08		2.315	-2.581
+STRUCTURAL PROTEINS	Four and a half LIM domains	Fhl2	H3033C07		2.169	-1.189
+STRUCTURAL PROTEINS	Keratin complex 1 acidic	Krt1-18	H3021B02	target gene	3.105	-5.517
+STRUCTURAL PROTEINS	Keratin complex 2 basic	Krt2-8	H3031C01		2.094	-5.568
+STRUCTURAL PROTEINS	PDZ and LIM domain 1	Pdlim1	J0824B03		5.7	-3.775
+STRUCTURAL PROTEINS	Podocalyxin-like	Podxl	H3112A07		2.248	-3.775
+STRUCTURAL PROTEINS	#Protocadherin 7	Pcdh7	H3067F12	inflammatory	6.556	-1.026
+STRUCTURAL PROTEINS	Thymopoietin	Tmpo	H3096B08		9.939	-8.153
+OTHER	Bystin-like	Bysl	H3109H09		3.86	-2.101
+OTHER	Embigen	Emb	H3024E05		2.067	-3.576
+OTHER	Enhancer of rudimentary homo	Erh	H3113G12		2.919	-1.333
+OTHER	Ethanol decreased 4	Etohd4	H3068D08		2.178	-1.582
+OTHER	Exportin 4	Xpo4	J0420C11		2.834	-1.003
+OTHER	Gene rich cluster, C8	Grcc8	H3043F09		2.176	-1.033
+OTHER	Globin inducing factor	Gbif	H3053F12		2.003	1.002
+OTHER	IGF binding protein 3	Igfbp3	H3154G07		2.237	-1.442
+OTHER	Interferon alpha response	Ifrg15	H3135C12		3.081	-1.513
+OTHER	Makorin, ring finger 3	Mkrn3	H3002E09		2.098	-1.012
+OTHER	Metallothionein 2	Mt2	H3013D11	inhibits IkB degradation	2.145	-3.029
+OTHER	Next to the Brca1	Nbr1	H3061D04		2.367	-1.888
+OTHER	Placental/embryo oncofetal	Pem	H3027G05		2.538	-2.184
+OTHER	Proliferin	Plf	C0118D06		4.055	-4.378
+OTHER	Phosphatase and tensin	Pten	H3086A07		2.099	-2.113
+OTHER	RAN binding protein	Ranbp9	H3013A10	accumulates IkBa	2.87	-3.189
+OTHER	Repeat family 3 gene	Llrep3	H3107F07		3.556	-7.704
+OTHER	Ring finger protein 19	Rnf19	H3153A08	activates NF-kB	2.148	-4.402
+OTHER	Sema domain, immunoglobin	Sema3f	H3134D09		2.191	-1.667
+OTHER	#Suppressor of Lec15	Supl15h	H3090D12		2.001	-1.383
+OTHER	Syntrophin, acidic 1	Snta1	H3028E02		4.831	-4.114
+OTHER	Tcfcp2-related transcript	Crtr1	H3157D08		2.06	1.673
+OTHER	Testis derived transcript	Tes	H3049B08		2.358	-2.119
+OTHER	TGF beta inducible transcript	Tgfb1i1	H3122H01		3.068	-2.974
+OTHER	Tumor suppressing subchromo	Tssc4	H3142E09		2.359	-1.329

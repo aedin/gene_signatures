@@ -1,0 +1,223 @@
+Curated Gene Symbol	Domain	Gene Name	Gene Symbol	Reference Sequence	Description	Geometric mean of CD4+ T cell samples	Geometric mean of CD8+ T cell samples	Fold up-regulation in CD4+ T cells	P-value
+CX3CR1	Immune	Chemokine (C-X3-C) receptor 1	CX3CR1	NM_001337	Chemokine receptor	1.5	0.92	1.63	0.0015
+PLCG1	Immune	Phospholipase C, gamma 1	PLCG1	NM_002660	Signal transduction	0.61	0.39	1.56	0.0451
+FGFBP2	Immune	KSP37	KSP37	NM_031950	Secreted	0.8	0.55	1.47	0.0022
+CCL4	Immune	Chemokine (C-C motif) ligand 4	CCL4	NM_002984	Chemokine	3.95	2.73	1.45	0.0032
+HLA-DOB	Immune	MHC Class II, DO beta	HLA-DOB	NM_002120	MHC	1.52	1.05	1.44	0.0478
+CLEC10A	Immune	Macrophage lectin 2 (calcium dependent)	HML2	NM_006344	Receptor	0.82	0.58	1.42	0.0009
+IL8	Immune	Interleukin 8	IL8	NM_000584	Cytokine	2	1.42	1.41	0.0026
+CCR5	Immune	Chemokine (C-C motif) receptor 5	CCR5	NM_000579	Chemokine receptor	1.27	0.96	1.32	0.0379
+C1QTNF5	Immune	C1q and tumor necrosis factor related protein 5	C1QTNF5	NM_015645	Unknown	0.76	1	0.76	0.0299
+ICAM1	Immune	Intercellular adhesion molecule 1 (CD54)	ICAM1	NM_000201	Adhesion	1.04	1.43	0.73	0.0137
+MARCO	Immune	Macrophage receptor with collagenous structure	MARCO	NM_006770	Receptor	0.8	1.17	0.68	0.003
+CSF3	Immune	Colony stimulating factor 3	CSF3	NM_000759	Cytokine	0.93	1.65	0.56	0.0152
+PTGES3	Signal Transduction	Unactive progesterone receptor, 23 kD	TEBP	NM_006601	Regulation	2.53	1.48	1.71	0.0029
+AKAP13	Signal Transduction	A kinase (PRKA) anchor protein 13 isoform 1	AKAP13	NM_006738	Scaffold	1.46	0.87	1.68	0.001
+HOMER1	Signal Transduction	Homer, neuronal immediate early gene, 1B	SYN47	NM_004272	Unknown	1.41	0.89	1.58	0.0032
+P2RY13	Signal Transduction	G protein-coupled receptor 86	GPR86	NM_023914	Receptor	1.32	0.89	1.49	0.0023
+TP53BP2	Signal Transduction	Tumor protein p53-binding protein, 2	TP53BP2	NM_005426	Adaptor	0.87	0.58	1.49	0.0243
+NUMB	Signal Transduction	Numb homolog	NUMB	NM_003744	Adaptor	1.14	0.8	1.42	0.0005
+PTGER2	Signal Transduction	Prostaglandin E receptor 2 (subtype EP2), 53kDa	PTGER2	NM_000956	Receptor	1.3	0.95	1.38	0.0024
+VSNL1	Signal Transduction	Visinin-like 1	VSNL1	NM_003385	Calcium binding	1.21	0.88	1.37	0.02
+LMO7	Signal Transduction	LIM domain only 7	LMO7	NM_005358	Unknown	1.6	1.19	1.35	0.0169
+S1PR4	Signal Transduction	Endothelial differentiation, G-protein-coupled receptor 6	EDG6	NM_003775	Receptor	1.95	1.46	1.33	0.0047
+MTMR9	Signal Transduction	Myotubularin related protein 9	MTMR9	NM_015458	Cell cycle	1.97	1.48	1.33	0.0232
+PPP1R16B	Signal Transduction	Protein phosphatase 1, regulatory (inhibitor) subunit 16B	PPP1R16B	NM_015568	TGF beta	1.75	1.34	1.31	0.0011
+MAPKBP1	Signal Transduction	Likely ortholog of mouse mitogen activated protein kinase binding proten 1	MAPKBP1	AB011168	MAPK pathway	0.98	1.28	0.77	0.042
+CYTH2	Signal Transduction	Pleckstrin homology, Sec7 and coiled/coil domains 2-like	PSCD2L	U59752	Integrins	0.99	1.31	0.76	0.0037
+RAF1	Signal Transduction	V-raf-1 murine leukemia viral oncogene homolog 1	RAF1	NM_002880	MAPK pathway	4.35	5.76	0.75	0.024
+FLNA	Signal Transduction	Filamin A, alpha (actin-binding protein-280)	FLNA	NM_001456	Scaffold	0.92	1.29	0.71	0.0024
+DACT1	Signal Transduction	Dapper homolog 1, antagonist of beta-catenin	DAPPER1	NM_016651	MAPK pathway	0.94	1.43	0.66	0.0135
+CALM1	Signal Transduction	Calmodulin 1 (phosphorylase kinase, delta)	CALM1	NM_006888	Calcium binding	0.28	0.45	0.63	0.0081
+S100A6	Signal Transduction	S100 calcium binding protein A6 (calcyclin)	S100A6	NM_014624	Cell cycle	1.77	2.95	0.6	0.0039
+HPCAL1	Signal Transduction	Hippocalcin-like 1	HPCAL1	NM_002149	Calcium binding	0.52	0.88	0.59	0.0023
+ADCY3	Signal Transduction	Adenylate cyclase 3	ADCY3	NM_004036	Broad	0.53	0.94	0.57	0.002
+AUP1	Signal Transduction	Ancient ubiquitous protein 1	AUP1	NM_012103	Integrins	0.2	0.46	0.44	0.0025
+LRP10	Signal Transduction	Low density lipoprotein receptor-related protein 10	LRP10	NM_014045	Receptor	0.51	1.41	0.36	0.0076
+ARHGEF3	Signal Transduction	Rho guanine nucleotide exchange factor 3	ARHGEF3	NM_019555	Ras superfamily	0.13	0.48	0.26	0.0063
+TIMELESS	Transcription Factor	Timeless (Drosophila) homolog	TIMELESS	NM_003920		0.77	0.41	1.88	0.0046
+HSF1	Transcription Factor	Heat shock transcription factor 1	HSF1	NM_005526		1.46	0.81	1.82	0.014
+PAM	Transcription Factor	Protein associated with Myc	PAM	NM_015057		2.16	1.36	1.59	0.0022
+ZNF195	Transcription Factor	Zinc finger protein 195	ZNF195	NM_007152		1.42	0.91	1.57	0.0123
+ZMYM2	Transcription Factor	Zinc finger protein 198	ZNF198	NM_003453		1.8	1.2	1.5	0.0029
+NR3C1	Transcription Factor	Nuclear receptor subfamily 3, group C, member 1	NR3C1	NM_000176		1.18	0.83	1.42	0.0124
+MAFG	Transcription Factor	V-maf musculoaponeurotic fibrosarcoma oncogene homolog G (avian)	MAFG	NM_002359		1.51	1.08	1.4	0.0278
+SRCAP	Transcription Factor	Snf2-related CBP activator protein	SRCAP	NM_006662		1.49	1.07	1.39	0.0004
+NFIA	Transcription Factor	Nuclear factor I/A	NFIA	AW972951		1.49	1.07	1.39	0.0018
+RXRA	Transcription Factor	Retinoid X receptor, alpha	RXRA	NM_002957		1.07	0.77	1.39	0.0033
+E2F3	Transcription Factor	E2F transcription factor 3	E2F3	NM_001949		1.44	1.07	1.34	0.0018
+KLF11	Transcription Factor	TGFB inducible early growth response 2	TIEG2	NM_003597		1.68	1.26	1.33	0.043
+IRF1	Transcription Factor	Interferon regulatory factor 1	IRF1	NM_002198		2.7	2.06	1.31	0.0008
+PRDM4	Transcription Factor	PR domain containing 4	PRDM4	NM_012406		1.2	0.91	1.31	0.0016
+RXRB	Transcription Factor	Retinoid X receptor, beta	RXRB	NM_021976		1.58	1.2	1.31	0.0019
+	Transcription Factor	Papillomavirus regulatory factor PRF-1	LOC55893	NM_018660		1.46	1.12	1.3	0.0002
+BHLHE40	Transcription Factor	Basic helix-loop-helix domain containing, class B, 2	BHLHB2	NM_003670		0.67	0.9	0.74	0.01
+SMAD5	Transcription Factor	Mothers against decapentaplegic homolog 5	MADH5	NM_005903		1.11	1.63	0.68	0.0028
+ZNF177	Transcription Factor	Zinc finger protein 177	ZNF177	NM_003451		0.63	0.97	0.65	0.0394
+TFAP2A	Transcription Factor	Transcription factor AP-2 alpha (activating enhancer-binding protein 2 alpha)	TFAP2A	NM_003220		0.47	0.74	0.64	0.0155
+ZFP36	Transcription Factor	Zinc finger protein 36, C3H type, homolog	ZFP36	NM_003407		0.4	0.7	0.58	0.0007
+FOXP1	Transcription Factor	Forkhead box P1	FOXP1	NM_032682		0.12	0.55	0.22	0.0022
+TPX2	Nuclear - other	Chromosome 20 open reading frame 1	C20orf1	NM_012112	Cell cycle	1.73	1.08	1.61	0.0016
+DMAP1	Nuclear - other	DNA methyltransferase 1-associated protein 1	DMAP1	NM_019100	Cell cycle	1.3	0.86	1.51	0.0089
+ELL2	Nuclear - other	ELL-related RNA polymerase II, Elongation Factor	ELL2	NM_012081	Elongation factor	1.78	1.24	1.44	0.0179
+H3F3A	Nuclear - other	H3 histone, family 3A	H3F3A	NM_002107	Structural	1.88	1.37	1.38	0.0031
+KPNB1	Nuclear - other	Karyopherin (importin) beta 1	KPNB1	NM_002265	Importer	1.24	0.91	1.37	0.0225
+H2AFY	Nuclear - other	H2A histone family, member Y isoform 2	H2AFY	NM_138609	Structural	1.25	0.91	1.37	0.0026
+CDC16	Nuclear - other	CDC16 (cell division cycle 16, S. cerevisiae, homolog)	CDC16	NM_003903	Cell cycle	1.57	1.18	1.32	0.0286
+GTF2H3	Nuclear - other	General transcription factor IIH, polypeptide 3 (34kD subunit)	GTF2H3	NM_001516	DNA repair	0.63	0.86	0.73	0.0327
+KIF2C	Nuclear - other	Kinesin-like 6 (mitotic centromere-associated kinesin)	KNSL6	NM_006845	Cell cycle	1.25	1.76	0.71	0.0315
+ANAPC11	Nuclear - other	APC11 anaphase promoting complex subunit 11	ANAPC11	NM_016476	Cell cycle	0.28	0.64	0.43	0.0097
+DNM2	Intracellular Trafficking	Dynamin 2	DNM2	NM_004945	Endocytosis	1.11	0.58	1.91	0.0188
+AGAP3	Intracellular Trafficking	Centaurin, gamma 3	CENTG3	NM_031946	Regulation	1.11	0.6	1.84	0.0354
+KIF16B	Intracellular Trafficking	Chromosome 20 open reading frame 23	C20orf23	NM_024704	Regulation	1.3	0.82	1.59	0.0023
+OLFM1	Intracellular Trafficking	Olfactomedin 1	OLFM1	NM_006334	ER targeting	1.18	0.76	1.55	0.0049
+VPS4B	Intracellular Trafficking	Vacuolar protein sorting 4B (yeast)	VPS4B	NM_004869		1.26	0.81	1.54	0.03
+GGA1	Intracellular Trafficking	Golgi associated, gamma adaptin ear containing, ARF binding protein 1	GGA1	NM_013365	Golgi Apparatus	1.17	0.81	1.44	0.0043
+RUFY2	Intracellular Trafficking	RUN and FYVE domain containing 2	RUFY2	NM_017987	Regulation	1.39	0.98	1.41	0.0066
+ARF4	Intracellular Trafficking	ADP-ribosylation factor 4	ARF4	NM_001660	Golgi Apparatus	2.8	2.02	1.39	0.0209
+TSG101	Intracellular Trafficking	Tumor susceptibility gene 101	TSG101	NM_006292	Endosomes	2	1.51	1.33	0.0035
+ARFRP1	Intracellular Trafficking	ADP-ribosylation factor related protein 1	ARFRP1	NM_003224	Regulation	1.03	1.34	0.77	0.0016
+AP1G2	Intracellular Trafficking	Adaptor-related protein complex 1, gamma 2 subunit	AP1G2	NM_003917	Vesicles	0.88	1.15	0.76	0.0186
+VTI1B	Intracellular Trafficking	Vesicle-associated soluble NSF attachment protein receptor	VTI1B	NM_006370	Vesicles	0.62	0.85	0.73	0.0014
+RIN3	Intracellular Trafficking	Ras and Rab interactor 3	RIN3	NM_024832	Regulation	0.35	0.55	0.63	0.0019
+SEC22C	Intracellular Trafficking	Vesicle trafficking protein isoform B	SEC22C	NM_004206	Vesicles	0.5	0.8	0.63	0.0037
+FURIN	Intracellular Trafficking	Furin preproprotein	FURIN	NM_002569	Golgi Apparatus	0.12	0.36	0.34	0.0009
+CTSB	Proteolyisis	Cathepsin B	CTSB	NM_001908	Lysosomal	7.45	3.64	2.05	0.0038
+UBE3A	Proteolyisis	Ubiquitin protein ligase E3A (human papilloma virus E6-associated protein, Angelman syndrome)	UBE3A	NM_000462	Ubiquitination	2.08	1.24	1.67	0.0066
+LAP3	Proteolyisis	Leucine aminopeptidase	LAP3	NM_015907	Peptidase	2.14	1.57	1.36	0.0033
+MMP7	Proteolyisis	Matrix metalloproteinase 7 (matrilysin, uterine)	MMP7	NM_002423	Metalloproteinase	1.08	1.48	0.73	0.0412
+NEU1	Proteolyisis	Sialidase 1 (lysosomal sialidase)	NEU1	NM_000434	Lysosomal enzyme	0.87	1.28	0.68	0.0043
+GGH	Proteolyisis	Gamma-glutamyl hydrolase (conjugase, folylpolygammaglutamyl hydrolase)	GGH	NM_003878	Lysosomal enzyme	0.35	0.66	0.52	0.0312
+RPL22	Protein Biosynthesis	Ribosomal protein L22	RPL22	NM_000983	Ribosomal protein	1.68	0.89	1.9	0.0051
+	Protein Biosynthesis	SF3b10	SF3b10	NM_031287	mRNA modification	4.04	2.39	1.69	0.0093
+EIF1	Protein Biosynthesis	Putative translation initiation factor	SUI1	NM_005801	Translation Factor	1.64	1.05	1.57	0.0008
+RPL17	Protein Biosynthesis	Ribosomal protein L17	RPL17	NM_000985	Ribosomal protein	2.8	1.92	1.46	0.0007
+RPUSD1	Protein Biosynthesis	Ribosomal large subunit pseudouridine synthase C like	RLUCL	NM_058192	Ribosomal protein	1.51	1.04	1.45	0.0009
+PRPF4B	Protein Biosynthesis	Serine/threonine-protein kinase PRP4 homolog	PRPF4B	NM_003913	mRNA Splicing	1.38	0.95	1.44	0.0035
+ZCCHC17	Protein Biosynthesis	Putative S1 RNA binding domain protein	PS1D	NM_016505	Ribosomal protein	1.23	0.86	1.42	0
+TBCE	Protein Biosynthesis	Tubulin-specific chaperone	TBCE	NM_003193	Folding	1.29	0.92	1.4	0.0041
+HNRNPL	Protein Biosynthesis	Heterogeneous nuclear ribonucleoprotein L	HNRPL	NM_001533	mRNA processing	1.46	1.05	1.4	0.0004
+PIGH	Protein Biosynthesis	Phosphatidylinositol glycan, class H	PIGH	NM_004569	Protein Modification	1.38	0.99	1.39	0.0156
+RPP30	Protein Biosynthesis	Ribonuclease P (30kD)	RPP30	NM_006413	tRNA processing	1.12	0.81	1.38	0.0243
+RPL37A	Protein Biosynthesis	Ribosomal protein L37a	RPL37A	NM_000998	Ribosomal protein	2.18	1.6	1.36	0.0047
+CTIF	Protein Biosynthesis	KIAA0427 gene product	KIAA0427	NM_014772	Initiation factor	1.02	0.75	1.35	0.0382
+RPL3	Protein Biosynthesis	Ribosomal protein L3	RPL3	NM_000967	Ribosomal protein	1.19	0.89	1.33	0.0272
+DNAJC1	Protein Biosynthesis	DnaJ (Hsp40) homolog, subfamily C, member 1	DNAJC1	NM_022365	Folding	1.78	1.35	1.32	0.0041
+EIF4G2	Protein Biosynthesis	Eukaryotic translation initiation factor 4 gamma, 2	EIF4G2	NM_001418	Translation Factor	2.11	1.59	1.32	0.0169
+CSTF3	Protein Biosynthesis	Cleavage stimulation factor, 3 pre-RNA, subunit 3, 77kD	CSTF3	NM_001326	mRNA polyadenylation	0.5	0.66	0.76	0.0451
+DHX30	Protein Biosynthesis	DEAD/H (Asp-Glu-Ala-Asp/His) box polypeptide 30	DDX30	NM_014966	mRNA modification	4.48	5.99	0.75	0.0369
+EFTUD2	Protein Biosynthesis	U5 snRNP-specific protein, 116 kD	U5-116KD	NM_004247	mRNA Splicing	2.42	3.28	0.74	0.0083
+RPS4X	Protein Biosynthesis	Ribosomal protein S4, X-linked	RPS4X	NM_001007	Ribosomal protein	6.08	8.61	0.71	0.0049
+EEF1A1	Protein Biosynthesis	Eukaryotic translation elongation factor 1 alpha 1	EEF1A1	NM_001402	Translation Factor	22.69	33.77	0.67	0.0165
+HNRNPF	Protein Biosynthesis	Heterogeneous nuclear ribonucleoprotein F	HNRPF	NM_004966	mRNA processing	0.68	1.14	0.6	0.0086
+RPS11	Protein Biosynthesis	Ribosomal protein S11	RPS11	NM_001015	Ribosomal protein	2.75	4.71	0.58	0.0099
+CYFIP2	Protein Biosynthesis	Cytoplasmic FMRP interacting protein 2	CYFIP2	NM_014376	Regulation	0.65	1.13	0.58	0.0029
+EIF2AK3	Protein Biosynthesis	Eukaryotic translation initiation factor 2 alpha kinase 3	EIF2AK3	NM_004836	Translation Factor	0.45	0.88	0.51	0.0157
+MRPL54	Protein Biosynthesis	Mitochondrial ribosomal protein L54	MRPL54	NM_172251	Ribosomal protein	0.49	1	0.49	0.0008
+RPL39	Protein Biosynthesis	Ribosomal protein L39	RPL39	NM_001000	Ribosomal protein	0.3	0.69	0.43	0.0031
+RPS25	Protein Biosynthesis	Ribosomal protein S25	RPS25	NM_001028	Ribosomal protein	0.28	0.7	0.4	0.0098
+RPL23	Protein Biosynthesis	Ribosomal protein L23	RPL23	NM_000978	Ribosomal protein	0.27	0.68	0.4	0.0062
+HSPA8	Protein Biosynthesis	Heat shock 70kDa protein 8 isoform 1 NM_153201	HSPA8	NM_006597	Folding	0.25	0.68	0.37	0.0024
+TUFM	Protein Biosynthesis	Tu translation elongation factor, mitochondrial	TUFM	NM_003321	Translation Factor	0.28	1.16	0.24	0.0013
+RPS27A	Protein Biosynthesis	Ribosomal protein S27a	RPS27A	NM_002954	Ribosomal protein	0.22	1.21	0.18	0.006
+SQRDL	Metabolism	Sulfide quinone reductase-like	SQRDL	NM_021199	Energy	1.01	0.64	1.59	0.0007
+PGD	Metabolism	Phosphogluconate dehydrogenase	PGD	NM_002631	Carbohydrate	2.39	1.53	1.56	0.0027
+HBB	Metabolism	Hemoglobin, beta	HBB	NM_000518	Iron-binding	1.51	0.99	1.53	0.0018
+HADHB	Metabolism	Hydroxyacyl-Coenzyme A dehydrogenase/3-ketoacyl-Coenzyme A thiolase/enoyl-Coenzyme A hydratase (trifunctional protein), beta subunit	HADHB	NM_000183	Lipid	1.77	1.16	1.52	0.0064
+PRKAB1	Metabolism	Protein kinase, AMP-activated, beta 1 non-catalytic subunit	PRKAB1	NM_006253	Lipid	1.53	1.02	1.49	0.0055
+B4GALT5	Metabolism	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 5	B4GALT5	NM_004776	Complex carbohydrate	1.29	0.88	1.47	0.0009
+MGLL	Metabolism	Monoglyceride lipase	MGLL	NM_007283	Lipid	1.26	0.88	1.43	0.0032
+GALNT1	Metabolism	Polypeptide N-acetylgalactosaminyltransferase 1	GALNT1	NM_020474	Complex carbohydrate	1.43	1	1.43	0.0256
+AKR7A2	Metabolism	Aldo-keto reductase family 7, member A2 (aflatoxin aldehyde reductase)	AKR7A2	NM_003689	Carbohydrate	1.19	0.86	1.38	0.0159
+ADH1B	Metabolism	Alcohol dehydrogenase 1B (class I), beta polypeptide	ADH1B	NM_000668	Carbohydrate	1.02	0.76	1.34	0.0082
+OSBPL10	Metabolism	Oxysterol binding protein-like 10	OSBPL10	NM_017784	Lipid	0.76	0.57	1.34	0.0026
+PYCR2	Metabolism	Pyrroline 5-carboxylate reductase isoform	P5CR2	NM_013328	Energy	1.57	1.19	1.32	0.002
+MAN1B1	Metabolism	Mannosidase, alpha, class 1B, member 1	MAN1B1	NM_007230	Complex carbohydrate	1.14	0.87	1.31	0.001
+FAAH	Metabolism	Fatty acid amide hydrolase	FAAH	NM_001441	Lipid	1.11	0.85	1.3	0.0424
+MT-ND1	Metabolism	NADH dehydrogenase	MTND1	NM_173708	Energy	29.7	39.4	0.75	0.0383
+HMGCR	Metabolism	3-hydroxy-3-methylglutaryl-Coenzyme A reductase	HMGCR	NM_000859	Lipid	1.12	1.51	0.75	0.0437
+UGT2B7	Metabolism	UDP glycosyltransferase 2 family, polypeptide B10	UGT2B7	NM_001074	Lipid	0.75	1.03	0.73	0.0278
+ENDOG	Metabolism	Endonuclease G	ENDOG	NM_004435	Nucleotide	0.91	1.28	0.71	0.0441
+NDUFB3	Metabolism	NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 3 (12kD, B12)	NDUFB3	NM_002491	Energy	0.83	1.21	0.69	0.02
+MT-CO1	Metabolism	Cytochrome c oxidase I	MTCO1	NM_173704	Energy	4.97	7.27	0.68	0.0041
+ALDH9A1	Metabolism	Aldehyde dehydrogenase 9 (gamma-aminobutyraldehyde dehydrogenase, E3 isozyme)	ALDH9A1	NM_000696	Carbohydrate	0.69	1.04	0.66	0.0053
+	Metabolism	Selenoprotein T	SELT	NM_016275	Unknown	0.81	1.33	0.61	0.0031
+TKT	Metabolism	Transketolase	TKT	NM_001064	Carbohydrate	0.1	0.39	0.26	0.0049
+PEX12	Structural	Peroxisomal biogenesis factor 12	PEX12	NM_000286	Peroxisome	2.76	1.99	1.39	0.0357
+APC	Structural	Adenomatosis polyposis coli	APC	NM_000038	Cytoskeleton	1.39	1.04	1.34	0.0254
+SSH1	Structural	Slingshot 1	SSH1	NM_018984	Cytoskeleton	1.24	0.93	1.33	0.0014
+SLC25A12	Solute Transporter	Solute carrier family 25 (mitochondrial carrier, Aralar), member 12	SLC25A12	NM_003705	Cation	1.6	0.99	1.61	0.0015
+SLC2A4	Solute Transporter	Solute carrier family 2 (facilitated glucose transporter), member 4	SLC2A4	NM_001042	Glucose	2.31	1.68	1.37	0.0064
+ATP1A2	Solute Transporter	ATPase, Na+/K+ transporting, alpha 2 (+) polypeptide	ATP1A2	NM_000702	Sodium/Potassium	1.49	1.95	0.77	0.0315
+SLC5A1	Solute Transporter	Solute carrier family 5 (sodium/glucose cotransporter), member 1	SLC5A1	NM_000343	Sodium/Glucose	0.85	1.18	0.71	0.0104
+GRIK2	Channel	Glutamate receptor, ionotropic, kainate 2	GRIK2	NM_021956	gated	1.85	1.42	1.31	0.0118
+KCNJ1	Channel	Potassium inwardly-rectifying channel, subfamily J, member 1	KCNJ1	NM_000220	potassium	1.37	1.84	0.74	0.0045
+KCNA5	Channel	Potassium voltage-gated channel, shaker-related subfamily, member 5	KCNA5	NM_002234	potassium	0.32	0.46	0.69	0.0398
+PRRC2C	Unknown	HBxAg transactivated protein 2	XTP2	AW994568		1.79	0.75	2.39	0.0014
+TTC38	Unknown	Hypothetical protein FLJ20699	FLJ20699	NM_017931		1.1	0.54	2.02	0.008
+TMEM177	Unknown	Hypothetical protein MGC10993	MGC10993	NM_030577		1.21	0.65	1.85	0.0023
+LMBR1	Unknown	Chromosome 7 open reading frame 2	C7orf2	NM_022458		1.02	0.58	1.77	0.0068
+	Unknown	Hypothetical protein LOC201191		AF035306		1.52	0.92	1.66	0.0033
+LMBRD1	Unknown	Hypothetical protein FLJ11240	FLJ11240	NM_018368		1.34	0.84	1.6	0.0008
+	Unknown	Hypothetical protein MGC16063		NM_053047		0.93	0.59	1.59	0.0494
+KIAA1009	Unknown	KIAA1009 protein	KIAA1009	NM_014895		1.07	0.69	1.57	0.0004
+GSTCD	Unknown	Hypothetical protein FLJ13273	FLJ13273	NM_024751		1.5	0.96	1.56	0.0018
+TCTN3	Unknown	DKFZP564D116 protein	DKFZP564D116	NM_015631		1.83	1.18	1.55	0.0038
+PPP4R1L	Unknown	Protein phosphatase 4, regulatory subunit 1-lik	PPP4R1L	NM_018498		1.19	0.77	1.55	0.0028
+	Unknown	FLJ11174 fis, clone PLACE1007367		AA699594		1.31	0.85	1.54	0.0242
+	Unknown	Hypothetical protein LOC157567		BG699407		1.43	0.96	1.49	0.0019
+	Unknown	LOC124491	LOC124491	NM_145254		2.98	2.01	1.48	0.0026
+	Unknown	KIAA0495 protein		AB007964		1.59	1.1	1.45	0.0024
+GLCCI1	Unknown	Glucocorticoid induced transcript 1	GLCCI1	AA058770		1.26	0.88	1.43	0.0132
+	Unknown	Hypothetical protein FLJ12707	FLJ12707	NM_022067		1.4	0.98	1.43	0.0006
+FAM160A2	Unknown	Hypothetical protein DKFZp566M1046	DKFZP566M1046	NM_032127		0.89	0.62	1.42	0.0037
+	Unknown	Hypothetical protein FLJ22789		AA916310		1.48	1.04	1.42	0.0205
+KIAA0040	Unknown	KIAA0040 gene product	KIAA0040	NM_014656		1.47	1.04	1.42	0.0003
+	Unknown	Hypothetical protein LOC51319	LOC51319	NM_016625		1.79	1.27	1.41	0.0286
+ALG13	Unknown	Uncharacterized hematopoietic stem/progenitor cells protein MDS031	MDS031	NM_018466		1.07	0.76	1.41	0.0048
+RIOK2	Unknown	Hypothetical protein FLJ11159	FLJ11159	NM_018343		1.52	1.09	1.4	0.0003
+SAMD4A	Unknown	KIAA1053 protein	KIAA1053	NM_015589		1.39	1	1.4	0.0046
+TMEM154	Unknown	Hypothetical protein FLJ32028	FLJ32028	NM_152680		1.25	0.9	1.39	0.0006
+YTHDF3	Unknown	Hypothetical protein FLJ31657	FLJ31657	NM_152758		1.46	1.05	1.39	0.0013
+	Unknown	Hypothetical protein FLJ23468	FLJ23468	NM_024629		1.25	0.91	1.37	0.0038
+	Unknown	FLJ38577 fis, clone HCHON2007650		BE745101		5.54	3.93	1.37	0.0033
+NUBP2	Unknown	Nucleotide binding protein 2 (MinD homolog, E. coli)	NUBP2	NM_012225		1.04	0.76	1.36	0.0008
+	Unknown	FLJ39779 fis, clone SPLEN2001945		AA280200		0.96	0.7	1.36	0.0144
+	Unknown	Hypothetical protein BC009518	LOC90799	NM_138363		0.93	0.69	1.36	0.0003
+	Unknown	Hypothetical protein LOC155036		AK022851		1.04	0.77	1.35	0.0007
+FAM189B	Unknown	C1orf2	C1orf2	NM_006589		1.64	1.22	1.34	0.0009
+	Unknown	PP4189	LOC158427	NM_139246		1.69	1.26	1.34	0.0226
+	Unknown	FLJ21533 fis, clone COL06072		BF369014		1.65	1.24	1.33	0.0434
+	Unknown	Hypothetical protein LOC257106		AA342355		2.11	1.59	1.33	0.0037
+RNF103	Unknown	Zinc finger protein homologous to Zfp103 in mouse	ZFP103	NM_005667		1.96	1.47	1.33	0.023
+	Unknown	5296353		AA833832		1.22	0.92	1.33	0
+	Unknown	KIAA1228 protein		AB033054		1.43	1.08	1.33	0.0017
+	Unknown	Hypothetical protein DKFZp434P0531		BE273266		1.28	0.97	1.32	0.0006
+LRRC17	Unknown	37 kDa leucine-rich repeat (LRR) protein	P37NB	NM_005824		1.46	1.11	1.32	0.0019
+LSM12	Unknown	Hypothetical protein FLJ30656	FLJ30656	NM_152344		1.65	1.25	1.32	0.0159
+	Unknown	FLJ32605 fis, clone STOMA1000175		AW849055		1.87	1.42	1.31	0.0044
+TMEM206	Unknown	Hypothetical protein FLJ10874	FLJ10874	NM_018252		0.94	0.72	1.31	0.0354
+	Unknown	cDNA DKFZp586I0324		AL110164.1		2.35	3.07	0.76	0.0374
+	Unknown	MGC:46487 IMAGE:5223751		BE669879		0.68	0.9	0.76	0.0047
+ZNF576	Unknown	Hypothetical protein MGC2508	MGC2508	NM_024327		0.76	1.02	0.75	0.0026
+TCTEX1D2	Unknown	Hypothetical protein MGC33212	MGC33212	NM_152773		0.72	1	0.72	0.0479
+C7orf13	Unknown	Chromosome 7 open reading frame 13	C7orf13	NM_032625		0.7	0.99	0.71	0.0415
+	Unknown	Hypothetical protein FLJ36748		H28999		1.17	1.71	0.68	0.0173
+DFNA5	Unknown	Deafness, autosomal dominant 5 protein	DFNA5	NM_004403		0.73	1.07	0.68	0.0338
+CCDC22	Unknown	JM1 protein	JM1	NM_014008		0.61	0.89	0.68	0.0033
+	Unknown	Hypothetical gene supported by AL449243	LOC91689	NM_033318		0.74	1.09	0.68	0.0154
+SLC35E3	Unknown	Bladder cancer overexpressed protein	BLOV1	NM_018656		0.45	0.91	0.49	0.0425
+ANKZF1	Unknown	Hypothetical protein FLJ10415	FLJ10415	NM_018089		0.12	0.47	0.26	0.0042
+	Unknown	Hypothetical protein LOC285381		BC010181		0.11	0.53	0.21	0.0015
+	ESTs	ESTs		AA767380		1.32	0.82	1.62	0.0037
+	ESTs	ESTs		AB002449		1.25	0.79	1.6	0.0063
+	ESTs	ESTs		AI014812		1.12	0.74	1.52	0.0169
+	ESTs	ESTs		BF057707		1.3	0.87	1.49	0.0008
+	ESTs	ESTs		H54558		0.87	0.6	1.46	0.0236
+	ESTs	ESTs		AF087984		1.19	0.84	1.41	0.0089
+	ESTs	ESTs		AW665381		1.54	1.13	1.36	0.0042
+	ESTs	ESTs		AW297599		1.27	0.94	1.34	0.0033
+	ESTs	ESTs		W56900		1.43	1.08	1.32	0.0422
+	ESTs	ESTs		NM_152737		1.06	0.8	1.32	0.0494
+	ESTs	ESTs		BF885869		1.65	1.26	1.3	0.0033
+	ESTs	ESTs		AA740679		0.74	0.97	0.76	0.0136

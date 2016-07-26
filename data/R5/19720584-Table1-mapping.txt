@@ -1,0 +1,29 @@
+# Generate Mapping Tables Script: Version 4 11:08 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:08 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+refseq_dna|XM_215090.3|XM_215090	rgd_symbol|LOC293511|LOC293511
+refseq_dna|XM_214512.3|XM_214512	rgd_symbol|Rpp38|Rpp38
+refseq_dna|XM_342337.2|XM_342337	rgd_symbol|Ank3|Ank3
+refseq_dna|XM_227409.3|XM_227409	rgd_symbol|Ash1l|Ash1l
+refseq_dna|XM_228548.3|XM_228548	rgd_symbol|LOC302412|LOC302412
+refseq_dna|NM_022266.1|NM_022266	rgd_symbol|Ctgf|Ctgf
+refseq_dna|NM_031751.1|NM_031751	rgd_symbol|Shank1|Shank1
+refseq_dna|NM_013129.1|NM_013129	rgd_symbol|Il15|Il15
+refseq_dna|XM_237232.3|XM_237232	rgd_symbol|Rpe|Rpe
+refseq_dna|XM_343492.2|XM_343492	rgd_symbol|LOC363153|LOC363153
+refseq_dna|NM_134408.1|NM_134408	rgd_symbol|Lphn2|Lphn2
+refseq_dna|XM_576588.1|XM_576588	rgd_symbol|LOC501164|LOC501164
+refseq_dna|XM_340901.2|XM_340901	rgd_symbol|LOC360627|LOC360627
+refseq_dna|XM_227769.2|XM_227769	rgd_symbol|LOC310926|LOC310926
+refseq_dna|XM_236020.3|XM_236020	rgd_symbol|RICS_predicted|RICS_predicted
+refseq_dna|XM_577290.1|XM_577290	rgd_symbol|LOC501872|LOC501872
+refseq_dna|XM_575587.1|XM_575587	rgd_symbol|LOC500237|LOC500237
+refseq_dna|XM_232828.3|XM_232828	rgd_symbol|Usp45|Usp45
+refseq_dna|XM_226561.3|XM_226561	rgd_symbol|Pgbd5|Pgbd5
+refseq_dna|XM_576400.1|XM_576400	rgd_symbol|LOC500988|LOC500988
+refseq_dna|NM_024128.3|NM_024128	rgd_symbol|Nsg1|Nsg1
+refseq_dna|NM_017169.1|NM_017169	rgd_symbol|Prdx2|Prdx2
+refseq_dna|XM_343975.2|XM_343975	rgd_symbol|Prkca|Prkca

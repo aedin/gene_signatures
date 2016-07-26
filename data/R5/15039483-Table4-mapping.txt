@@ -1,0 +1,60 @@
+# Generate Mapping Tables Script: Version 4 11:08 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:08 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+embl|AA858970|AA858970	protein_id|P27952|P27952
+entrezgene|AA996595|304431	protein_id|Q12872|Q12872
+entrezgene|AA819815|64440	protein_id|P40749|P40749
+entrezgene|AI547754|373065
+entrezgene|AA997617|25604	protein_id|P22062|P22062
+entrezgene|AA858780|289668	protein_id|Q9CPY7|Q9CPY7
+entrezgene|AA926053|64023	protein_id|Q8CIR7|Q8CIR7
+entrezgene|AI071697|311881	protein_id|Q9QUH1|Q9QUH1
+embl|AA957242|AA957242	protein_id|Q3R3E9|Q3R3E9
+embl|BF542359|BF542359	protein_id|Q9WVS6|Q9WVS6
+entrezgene|AA818368|80881	protein_id|Q9R2C1|Q9R2C1
+entrezgene|AA900647|292305
+entrezgene|AA924748|89818
+entrezgene|AA818995|29411	protein_id|P45479|P45479
+entrezgene|AA923855|297459	protein_id|Q9D125|Q9D125
+entrezgene|AA997210|56783	protein_id|Q07205|Q07205
+entrezgene|AA924448|361846	protein_id|O75436|O75436
+entrezgene|AA819442|299027	protein_id|Q9Z0N1|Q9Z0N1
+entrezgene|AA955475|641452	protein_id|P70711|P70711
+entrezgene|AA900290|310395	protein_id|P06238|P06238
+entrezgene|AA925151|288923	protein_id|P49366|P49366
+entrezgene|AA956713|297695	protein_id|Q9Y2W2|Q9Y2W2
+entrezgene|AA964605|117180	protein_id|P18395|P18395
+entrezgene|AA924964|309451	protein_id|Q92538|Q92538
+entrezgene|AA957995|29663	protein_id|P52303|P52303
+entrezgene|AA963455|688466
+entrezgene|AA957976|59114	protein_id|Q9JJ19|Q9JJ19
+entrezgene|AA957260|362720	protein_id|Q62940|Q62940
+entrezgene|AA901276|50558	protein_id|P22062|P22062
+entrezgene|AA923836|56783	protein_id|Q07205|Q07205
+entrezgene|AA858763|116483	protein_id|P15178|P15178
+entrezgene|AA819367|689890	protein_id|Q07955|Q07955
+entrezgene|AI029703|362281	protein_id|P78406|P78406
+entrezgene|AA819494|307039	protein_id|P35293|P35293
+entrezgene|AA996892|295217
+entrezgene|AA875346|360818	protein_id|Q8WW89|Q8WW89
+entrezgene|AA899335|287703	protein_id|P48024|P48024
+entrezgene|AA963374|81830	protein_id|P24410|P24410
+entrezgene|AA900410|25604	protein_id|P22062|P22062
+entrezgene|AA900292|293551	protein_id|Q9JKW0|Q9JKW0
+entrezgene|AI043800|311078
+entrezgene|AA963606|300674	protein_id|Q8C0G7|Q8C0G7
+embl|AA874811|AA874811	protein_id|Q63507|Q63507
+entrezgene|AA964001|287670	protein_id|O43242|O43242
+entrezgene|AA900426|81920	protein_id|P47986|P47986
+entrezgene|AI059765|79124	protein_id|P55260|P55260
+entrezgene|AA963305|287716
+entrezgene|AA819445|288666	protein_id|Q9QZ88|Q9QZ88
+entrezgene|AA956589|84496	protein_id|O95793|O95793
+entrezgene|AA899406|65158	protein_id|P05712|P05712
+entrezgene|AA818669|29448	protein_id|P09527|P09527
+embl|AA997766|AA997766	protein_id|P23588|P23588
+entrezgene|AI454367|79120	protein_id|P36403|P36403
+entrezgene|AA900117|29497	protein_id|Q00438|Q00438

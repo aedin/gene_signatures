@@ -1,0 +1,45 @@
+# Generate Mapping Tables Script: Version 4 11:08 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:08 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+embl|AI029492|AI029492	protein_id|Q08499|Q08499
+entrezgene|AA965179|362788	protein_id|Q60803|Q60803
+entrezgene|AI030581|140585	protein_id|Q9QW24|Q9QW24
+entrezgene|AA859005|24896
+entrezgene|AA997832|499022	protein_id|Q61110|Q61110
+embl|AA866393|AA866393	protein_id|Q03070|Q03070
+embl|AI059117|AI059117	protein_id|Q9QWY8|Q9QWY8
+embl|AA963250|AA963250	protein_id|Q16760|Q16760
+entrezgene|AA963596|25275
+entrezgene|AA925692|288077	protein_id|P49710|P49710
+entrezgene|AA998554|64534	protein_id|O70444|O70444
+entrezgene|AA900596|360915
+entrezgene|AI716111|64666	protein_id|Q9JLS3|Q9JLS3
+entrezgene|AA874981|25579	protein_id|Q12852|Q12852
+entrezgene|AA956259|81741
+entrezgene|AA817843|25336	protein_id|P25208|P25208
+entrezgene|AI072656|29150	protein_id|P43244|P43244
+entrezgene|AA819514|83422	protein_id|Q54987|Q54987
+entrezgene|AI045183|362280	protein_id|Q61312|Q61312
+embl|AA859671|AA859671	protein_id|P38533|P38533
+entrezgene|AI059293|360762	protein_id|P97304|P97304
+embl|AA819652|AA819652
+entrezgene|AA818466|24790	protein_id|O89090|O89090
+entrezgene|AI713633|307498	protein_id|Q00577|Q00577
+entrezgene|AA925106|81673	protein_id|P29053|P29053
+entrezgene|AA818542|252855	protein_id|O54725|O54725
+entrezgene|AI059059|306516
+entrezgene|AA963458|114490	protein_id|Q99967|Q99967
+entrezgene|AA997899|302553	protein_id|O43463|O43463
+entrezgene|AI030850|83726	protein_id|Q9R1D1|Q9R1D1
+entrezgene|AA900046|246770	protein_id|Q9JI57|Q9JI57
+entrezgene|AA997064|691842	protein_id|P56671|P56671
+entrezgene|AA859478|25690	protein_id|P41738|P41738
+embl|AA957629|AA957629
+entrezgene|AA957565|313591	protein_id|O09000|O09000
+embl|AA819041|AA819041	protein_id|Q16254|Q16254
+entrezgene|AI044356|84578	protein_id|O15379|O15379
+embl|AA963141|AA963141	protein_id|O54864|O54864
+entrezgene|AA925720|25271	protein_id|Q05343|Q05343

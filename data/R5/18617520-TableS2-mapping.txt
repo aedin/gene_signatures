@@ -1,0 +1,22 @@
+# Generate Mapping Tables Script: Version 4 11:07 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:07 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+refseq_dna|NM_004994|NM_004994	mgi_symbol|MMP9|MMP9
+refseq_dna|NM_000576|NM_000576	mgi_symbol|IL1B|IL1B
+refseq_dna|NM_000962|NM_000962	mgi_symbol|PTGS1|PTGS1
+refseq_dna|NM_001511|NM_001511	mgi_symbol|CXCL1|CXCL1
+refseq_dna|NM_002619|NM_002619	mgi_symbol|PF4|PF4
+refseq_dna|NM_015136|NM_015136	mgi_symbol|STAB1|STAB1
+refseq_dna|NM_002632|NM_002632	mgi_symbol|PGF|PGF
+refseq_dna|NM_000212|NM_000212	mgi_symbol|ITGB3|ITGB3
+refseq_dna|NM_000362|NM_000362	mgi_symbol|TIMP3|TIMP3
+refseq_dna|NM_001565|NM_001565	mgi_symbol|CXCL10|CXCL10
+refseq_dna|NM_003376|NM_003376	mgi_symbol|VEGFA|VEGFA
+refseq_dna|NM_005429|NM_005429	mgi_symbol|VEGFC|VEGFC
+refseq_dna|NM_004469|NM_004469	mgi_symbol|VEGFD|VEGFD
+refseq_dna|NM_000601|NM_000601	mgi_symbol|HGF|HGF
+refseq_dna|NM_000800|NM_000800	mgi_symbol|FGF1|FGF1
+refseq_dna|NM_002006|NM_002006	mgi_symbol|FGF2|FGF2

@@ -1,0 +1,42 @@
+# Generate Mapping Tables Script: Version 4 11:05 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:05 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+hgnc_symbol|CALM1|CALM1
+hgnc_symbol|MYH10|MYH10
+hgnc_symbol|MYLK|MYLK
+hgnc_symbol|PIK3R1|PIK3R1
+hgnc_symbol|MYPT1|MYPT1
+hgnc_symbol|RAC2|RAC2
+hgnc_symbol|RPS6KA3|RPS6KA3
+hgnc_symbol|ARHGEF7|ARHGEF7
+hgnc_symbol|NCK1|NCK1
+hgnc_symbol|PDLIM1|PDLIM1
+hgnc_symbol|PIK3R1|PIK3R1
+hgnc_symbol|PLEC1|PLEC1
+hgnc_symbol|PTPN11|PTPN11
+hgnc_symbol|RAC2|RAC2
+hgnc_symbol|SMAD3|SMAD3
+hgnc_symbol|TGFBR1|TGFBR1
+hgnc_symbol|TGFBR2|TGFBR2
+hgnc_symbol|APPBP1|APPBP1
+hgnc_symbol|CCL5|CCL5
+hgnc_symbol|CDH2|CDH2
+hgnc_symbol|COL4A4|COL4A4
+hgnc_symbol|CTNNB1|CTNNB1
+hgnc_symbol|CTNND1|CTNND1
+hgnc_symbol|GOLGA1|GOLGA1
+hgnc_symbol|GOLGA2|GOLGA2
+hgnc_symbol|GOLGA3|GOLGA3
+hgnc_symbol|HAPLN1|HAPLN1
+hgnc_symbol|PRSS3|PRSS3
+hgnc_symbol|RAB1A|RAB1A
+hgnc_symbol|RAB4A|RAB4A
+hgnc_symbol|RAB5B|RAB5B
+hgnc_symbol|RAB9A|RAB9A
+hgnc_symbol|RAB9P40|RAB9P40
+hgnc_symbol|RABGGTB|RABGGTB
+hgnc_symbol|TGM2|TGM2
+hgnc_symbol|VCAN|VCAN

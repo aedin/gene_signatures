@@ -1,0 +1,26 @@
+# Generate Mapping Tables Script: Version 4 11:03 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:03 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+protein_id|P50550|P50550	hgnc_symbol|UBE2I|UBE2I
+protein_id|P14415|P14415
+protein_id|Q12933|Q12933	hgnc_symbol|TRAF2|TRAF2
+protein_id|Q13885|Q13885
+protein_id|P04141|P04141	hgnc_symbol|CSF2|CSF2
+protein_id|P25388|P25388	hgnc_symbol|GNB2L1|GNB2L1
+protein_id|P23025|P23025	hgnc_symbol|XPA|XPA
+protein_id|P38936|P38936
+protein_id|P52565|P52565
+protein_id|Q9BQH3|Q9BQH3
+protein_id|O75382|O75382	hgnc_symbol|TRIM3|TRIM3
+protein_id|O00221|O00221
+protein_id|P17964|P17964	hgnc_symbol|RAP2A|RAP2A
+protein_id|P25912|P25912	hgnc_symbol|MAX|MAX
+protein_id|Q14790|Q14790
+protein_id|P10809|P10809	hgnc_symbol|HSPD1|HSPD1
+protein_id|P24941|P24941	hgnc_symbol|CDK2|CDK2
+protein_id|O15359|O15359
+protein_id|P04901|P04901
+protein_id|Q9NNW1|Q9NNW1	hgnc_symbol|PPP1R1B|PPP1R1B

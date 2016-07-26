@@ -1,0 +1,28 @@
+# Generate Mapping Tables Script: Version 4 11:03 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:03 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+entrezgene|H54393|729082	unigene|Hs.116206|Hs.116206
+entrezgene|H94482|7122	unigene|Hs.110903|Hs.110903
+entrezgene|AA286908|4600	unigene|Hs.926|Hs.926
+entrezgene|R87497|60343	unigene|Hs.289108|Hs.289108
+entrezgene|AA146773|4938	unigene|Hs.82396|Hs.82396
+entrezgene|AA598758|7184	unigene|Hs.82689|Hs.82689
+entrezgene|W84789|5069	unigene|Hs.433703|Hs.433703
+embl|H51066|H51066	unigene|Hs.23581|Hs.23581
+entrezgene|R01139|4736	unigene|Hs.425293|Hs.425293
+entrezgene|N54053|6694	unigene|Hs.12230|Hs.12230
+embl|AA459401|AA459401	unigene|Hs.69423|Hs.69423
+embl|N45131|N45131	unigene|Hs.1042|Hs.1042
+entrezgene|N59426|7073	unigene|Hs.182741|Hs.182741
+entrezgene|W92431|2779	unigene|Hs.51147|Hs.51147
+entrezgene|AA476625|51763	unigene|Hs.178347|Hs.178347
+entrezgene|T68892|6422	unigene|Hs.7306|Hs.7306
+entrezgene|N62620|3775	unigene|Hs.79351|Hs.79351
+embl|W88740|W88740	unigene|Hs.966|Hs.966
+entrezgene|W90085|8431	unigene|Hs.427055|Hs.427055
+entrezgene|AA630017|6923	unigene|Hs.172772|Hs.172772
+entrezgene|H58953|4778	unigene|Hs.75643|Hs.75643
+entrezgene|AA017383|27044	unigene|Hs.79093|Hs.79093

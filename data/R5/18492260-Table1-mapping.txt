@@ -1,0 +1,45 @@
+# Generate Mapping Tables Script: Version 4 11:04 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:04 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+affy_hg_u133_plus_2|206785_s_at|206785_s_at	hgnc_symbol|Killer cell lectin-like receptor subfamily C|Killer cell lectin-like receptor subfamily C	hgnc_symbol|member 1///member 2|member 1///member 2
+affy_hg_u133_plus_2|243779_at|243779_at	affy_hg_u133_plus_2|236536_at|236536_at	hgnc_symbol|UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 13 (GalNAc-T13)|UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 13 (GalNAc-T13)
+affy_hg_u133_plus_2|1558706_a_at|1558706_a_at	affy_hg_u133_plus_2|228890_at|228890_at	hgnc_symbol|Atonal homolog 8 (Drosophila)|Atonal homolog 8 (Drosophila)
+affy_hg_u133_plus_2|240228_at|240228_at	hgnc_symbol|CUB and Sushi multiple domains 3|CUB and Sushi multiple domains 3
+affy_hg_u133_plus_2|207723_s_at|207723_s_at	hgnc_symbol|Killer cell lectin-like receptor subfamily C|Killer cell lectin-like receptor subfamily C	hgnc_symbol|member 3|member 3
+affy_hg_u133_plus_2|230826_at|230826_at	hgnc_symbol|Monocyte to macrophage differentiation-associated 2|Monocyte to macrophage differentiation-associated 2
+affy_hg_u133_plus_2|60474_at|60474_at	affy_hg_u133_plus_2|218796_at|218796_at	hgnc_symbol|Chromosome 20 open reading frame 42|Chromosome 20 open reading frame 42
+affy_hg_u133_plus_2|231798_at|231798_at	hgnc_symbol|Noggin|Noggin
+affy_hg_u133_plus_2|1556599_s_at|1556599_s_at	hgnc_symbol|Cyclic AMP-regulated phosphoprotein|Cyclic AMP-regulated phosphoprotein	hgnc_symbol|21 kD|21 kD
+affy_hg_u133_plus_2|227845_s_at|227845_s_at	hgnc_symbol|Src homology 2 domain containing transforming protein D|Src homology 2 domain containing transforming protein D
+affy_hg_u133_plus_2|205289_at|205289_at	affy_hg_u133_plus_2|205290_s_at|205290_s_at	hgnc_symbol|Bone morphogenetic protein 2|Bone morphogenetic protein 2
+affy_hg_u133_plus_2|205330_at|205330_at	hgnc_symbol|Meningioma (disrupted in balanced translocation) 1|Meningioma (disrupted in balanced translocation) 1
+affy_hg_u133_plus_2|219668_at|219668_at	hgnc_symbol|Ganglioside-induced differentiation-associated protein 1-like 1|Ganglioside-induced differentiation-associated protein 1-like 1
+affy_hg_u133_plus_2|204530_s_at|204530_s_at	hgnc_symbol|Thymus high mobility group box protein TOX|Thymus high mobility group box protein TOX
+affy_hg_u133_plus_2|228790_at|228790_at	affy_hg_u133_plus_2|221959_at|221959_at	hgnc_symbol|Chromosome 8 open reading frame 72|Chromosome 8 open reading frame 72
+affy_hg_u133_plus_2|232136_s_at|232136_s_at	hgnc_symbol|Cortactin binding protein 2|Cortactin binding protein 2
+affy_hg_u133_plus_2|233136_at|233136_at	hgnc_symbol|Poly(A) binding protein|Poly(A) binding protein	hgnc_symbol|cytoplasmic 5|cytoplasmic 5
+affy_hg_u133_plus_2|219093_at|219093_at	hgnc_symbol|Phosphotyrosine interaction domain containing 1|Phosphotyrosine interaction domain containing 1
+affy_hg_u133_plus_2|205773_at|205773_at	hgnc_symbol|Cytoplasmic polyadenylation element binding protein 3|Cytoplasmic polyadenylation element binding protein 3
+affy_hg_u133_plus_2|1560265_at|1560265_at	hgnc_symbol|Glutamate receptor|Glutamate receptor	hgnc_symbol|ionotropic|ionotropic	hgnc_symbol|kainate 2|kainate 2
+affy_hg_u133_plus_2|238526_at|238526_at	hgnc_symbol|RAB3A interacting protein (rabin3)|RAB3A interacting protein (rabin3)
+affy_hg_u133_plus_2|213001_at|213001_at	affy_hg_u133_plus_2|219514_at|219514_at	hgnc_symbol|Angiopoietin-like 2|Angiopoietin-like 2
+affy_hg_u133_plus_2|229590_at|229590_at	hgnc_symbol|Ribosomal protein L13|Ribosomal protein L13
+affy_hg_u133_plus_2|206117_at|206117_at	hgnc_symbol|Tropomyosin 1 (alpha)|Tropomyosin 1 (alpha)
+affy_hg_u133_plus_2|202315_s_at|202315_s_at	affy_hg_u133_plus_2|217223_s_at|217223_s_at	hgnc_symbol|Breakpoint cluster region|Breakpoint cluster region
+affy_hg_u133_plus_2|234268_at|234268_at	hgnc_symbol|Solute carrier family 2 (facilitated glucose transporter)|Solute carrier family 2 (facilitated glucose transporter)	hgnc_symbol|member 13|member 13
+affy_hg_u133_plus_2|228813_at|228813_at	affy_hg_u133_plus_2|204225_at|204225_at	hgnc_symbol|Histone deacetylase 4|Histone deacetylase 4
+affy_hg_u133_plus_2|209511_at|209511_at	hgnc_symbol|Polymerase (RNA) II (DNA directed) polypeptide F|Polymerase (RNA) II (DNA directed) polypeptide F
+affy_hg_u133_plus_2|213033_s_at|213033_s_at	affy_hg_u133_plus_2|213032_at|213032_at	hgnc_symbol|Nuclear factor I/B|Nuclear factor I/B
+affy_hg_u133_plus_2|204100_at|204100_at	hgnc_symbol|Thyroid hormone receptor|Thyroid hormone receptor	hgnc_symbol|alpha (erythroblastic leukemia viral (v-erb-a) oncogene homolog|alpha (erythroblastic leukemia viral (v-erb-a) oncogene homolog	hgnc_symbol|avian)|avian)
+affy_hg_u133_plus_2|230198_at|230198_at	hgnc_symbol|WD repeat domain 37|WD repeat domain 37
+affy_hg_u133_plus_2|213758_at|213758_at	hgnc_symbol|Cytochrome c oxidase subunit IV isoform 1|Cytochrome c oxidase subunit IV isoform 1
+affy_hg_u133_plus_2|221012_s_at|221012_s_at	hgnc_symbol|Tripartite motif-containing 8///tripartite motif-containing 8|Tripartite motif-containing 8///tripartite motif-containing 8
+affy_hg_u133_plus_2|202182_at|202182_at	hgnc_symbol|GCN5 general control of amino-acid synthesis 5-like 2 (yeast)|GCN5 general control of amino-acid synthesis 5-like 2 (yeast)
+affy_hg_u133_plus_2|214198_s_at|214198_s_at	hgnc_symbol|DiGeorge syndrome critical region gene 2|DiGeorge syndrome critical region gene 2
+affy_hg_u133_plus_2|225334_at|225334_at	hgnc_symbol|Chromosome 10 open reading frame 32|Chromosome 10 open reading frame 32
+affy_hg_u133_plus_2|210690_at|210690_at	hgnc_symbol|Killer cell lectin-like receptor subfamily C|Killer cell lectin-like receptor subfamily C	hgnc_symbol|member 4|member 4
+affy_hg_u133_plus_2|203938_s_at|203938_s_at	hgnc_symbol|TATA box binding protein (TBP)-associated factor|TATA box binding protein (TBP)-associated factor	hgnc_symbol|RNA polymerase I|RNA polymerase I	hgnc_symbol|C|C	hgnc_symbol|110kDa|110kDa
+affy_hg_u133_plus_2|217969_at|217969_at	hgnc_symbol|Chromosome 11 open reading frame2|Chromosome 11 open reading frame2

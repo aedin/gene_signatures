@@ -1,0 +1,55 @@
+# Generate Mapping Tables Script: Version 4 11:05 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:05 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+entrezgene|H41285|54857	hgnc_symbol|GDPD2|GDPD2
+entrezgene|T46878|8669	hgnc_symbol|EIF3S1|EIF3S1
+entrezgene|AA479795|3669	hgnc_symbol|ISG20|ISG20
+entrezgene|AA151214|9908	hgnc_symbol|G3BP2|G3BP2
+entrezgene|H28091|5376	hgnc_symbol|PMP22|PMP22
+entrezgene|N59330|129401	hgnc_symbol|NUP35|NUP35
+embl|H19333|H19333	hgnc_symbol|LOC285550|LOC285550
+entrezgene|AA449688|201283	hgnc_symbol|FLJ32065|FLJ32065
+embl|N/A|N/A	hgnc_symbol|N/A|N/A
+embl|AA977417|AA977417	hgnc_symbol|AA977417|AA977417
+entrezgene|N50636|5910	hgnc_symbol|RAP1GDS1|RAP1GDS1
+entrezgene|T61866|10527	hgnc_symbol|IPO7|IPO7
+entrezgene|AA453435|84946	hgnc_symbol|LTV1|LTV1
+entrezgene|N91962|9521	hgnc_symbol|EEF1E1|EEF1E1
+entrezgene|H77636|968	hgnc_symbol|CD68|CD68
+entrezgene|AI308916|5646	hgnc_symbol|PRSS3|PRSS3
+entrezgene|AA478589|348	hgnc_symbol|APOE|APOE
+embl|AA459401|AA459401	hgnc_symbol|KLK10|KLK10
+entrezgene|AA625765|79016	hgnc_symbol|DDA1|DDA1
+entrezgene|AA205665|6418	hgnc_symbol|SET|SET
+entrezgene|AA707453|386757	hgnc_symbol|FLJ43855|FLJ43855
+entrezgene|AA464147|833	hgnc_symbol|CARS|CARS
+entrezgene|AA456630|23370	hgnc_symbol|ARHGEF18|ARHGEF18
+entrezgene|N20475|1509	hgnc_symbol|CTSD|CTSD
+entrezgene|N31935|55103	hgnc_symbol|ANGPTL1|ANGPTL1
+entrezgene|R77512|5097	hgnc_symbol|PCDH1|PCDH1
+entrezgene|N31492|2329	hgnc_symbol|FMO4|FMO4
+entrezgene|N45236|57291	hgnc_symbol|KIAA0114|KIAA0114
+entrezgene|H60549|966	hgnc_symbol|CD59|CD59
+embl|AA907626|AA907626	hgnc_symbol|KIF26B|KIF26B
+entrezgene|AA917374|7077	hgnc_symbol|TIMP2|TIMP2
+entrezgene|AA983530|8876	hgnc_symbol|VNN1|VNN1
+entrezgene|N90109|4691	hgnc_symbol|NCL|NCL
+entrezgene|H15431|5433	hgnc_symbol|POLR2D|POLR2D
+entrezgene|H52673|578	hgnc_symbol|BAK1|BAK1
+embl|T72259|T72259	hgnc_symbol|CYP2A6|CYP2A6
+entrezgene|AA455910|2149	hgnc_symbol|F2R|F2R
+entrezgene|AA775840|90871	hgnc_symbol|C9orf123|C9orf123
+entrezgene|AA464566|4035	hgnc_symbol|LRP1|LRP1
+entrezgene|AA489640|3434	hgnc_symbol|IFIT1|IFIT1
+entrezgene|AA962541|6482	hgnc_symbol|LOC286167|LOC286167
+entrezgene|AA464421|7703	hgnc_symbol|PCGF2|PCGF2
+embl|H25761 AI668603|H25761AI668603
+entrezgene|AA447748|1738	hgnc_symbol|DLD|DLD
+entrezgene|AA278755|55142	hgnc_symbol|CEP27|CEP27
+entrezgene|AI261833|11136	hgnc_symbol|SLC7A9|SLC7A9
+embl|H72802|H72802	hgnc_symbol|ESPN|ESPN
+embl|AA608713|AA608713	hgnc_symbol|C1QDC1|C1QDC1
+entrezgene|AA047465|6535	hgnc_symbol|SLC6A8|SLC6A8

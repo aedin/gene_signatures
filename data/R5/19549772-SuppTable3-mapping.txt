@@ -1,0 +1,160 @@
+# Generate Mapping Tables Script: Version 4 11:04 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:04 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+refseq_dna|NM_001505|NM_001505	hgnc_symbol|GPER|GPER
+refseq_dna|NM_152578|NM_152578	hgnc_symbol|FMR1NB|FMR1NB
+refseq_dna|NM_001351|NM_001351	hgnc_symbol|DAZL|DAZL
+refseq_dna|NM_018665|NM_018665	hgnc_symbol|DDX43|DDX43
+entrezgene|BC036938|58160
+refseq_dna|NM_000852|NM_000852	hgnc_symbol|GSTP1|GSTP1
+refseq_dna|NM_001323|NM_001323	hgnc_symbol|CST6|CST6
+embl|THC2376729|THC2376729
+refseq_dna|NM_016379|NM_016379	hgnc_symbol|VCX3A|VCX3A
+refseq_dna|NM_013452|NM_013452	hgnc_symbol|VCX|VCX
+refseq_dna|NM_016378|NM_016378	hgnc_symbol|VCX2|VCX2
+embl|THC2407823|THC2407823
+refseq_dna|NM_153694|NM_153694	hgnc_symbol|SYCP3|SYCP3
+refseq_dna|NM_021076|NM_021076	hgnc_symbol|NEFH|NEFH
+refseq_dna|NM_207339|NM_207339	hgnc_symbol|PAGE2|PAGE2
+refseq_dna|NM_138440|NM_138440	hgnc_symbol|VASN|VASN
+refseq_dna|NM_002416|NM_002416	hgnc_symbol|CXCL9|CXCL9
+refseq_dna|NM_003327|NM_003327	hgnc_symbol|TNFRSF4|TNFRSF4
+refseq_dna|NM_206956|NM_206956	hgnc_symbol|PRAME|PRAME
+refseq_dna|NM_006849|NM_006849	hgnc_symbol|PDIA2|PDIA2
+refseq_dna|NM_001824|NM_001824	hgnc_symbol|CKM|CKM
+refseq_dna|NM_130467|NM_130467	hgnc_symbol|PAGE5|PAGE5
+refseq_dna|NM_001005785|NM_001005785	hgnc_symbol|DAZ2|DAZ2
+efg_agilent_wholegenome_4x44k_v1|A_24_P7750|A_24_P7750
+refseq_dna|NR_001564|NR_001564	hgnc_symbol|XIST|XIST
+refseq_dna|NM_004181|NM_004181	hgnc_symbol|UCHL1|UCHL1
+embl|BM668321|BM668321
+ensembl_gene_id|ENST00000370363|ENST00000370363
+refseq_dna|NM_032649|NM_032649	hgnc_symbol|CNDP1|CNDP1
+entrezgene|AK023134|91646	hgnc_symbol|TDRD12|TDRD12
+refseq_dna|NM_020997|NM_020997	hgnc_symbol|LEFTY1|LEFTY1
+ensembl_gene_id|ENST00000311695|ENST00000311695
+refseq_dna|NM_032348|NM_032348	hgnc_symbol|MXRA8|MXRA8
+refseq_dna|NM_138697|NM_138697	hgnc_symbol|TAS1R1|TAS1R1
+refseq_dna|NM_031440|NM_031440	hgnc_symbol|RTP3|RTP3
+refseq_dna|NM_018476|NM_018476	hgnc_symbol|BEX1|BEX1
+refseq_dna|NM_052813|NM_052813	hgnc_symbol|CARD9|CARD9
+refseq_dna|NM_002276|NM_002276	hgnc_symbol|KRT19|KRT19
+refseq_dna|NM_006498|NM_006498	hgnc_symbol|LGALS2|LGALS2
+refseq_dna|NM_001562|NM_001562	hgnc_symbol|IL18|IL18
+refseq_dna|NM_002005|NM_002005	hgnc_symbol|FES|FES
+refseq_dna|NM_177403|NM_177403	hgnc_symbol|RAB7B|RAB7B
+refseq_dna|NM_001803|NM_001803	hgnc_symbol|CD52|CD52
+refseq_dna|NM_001030005|NM_001030005	hgnc_symbol|CPLX3|CPLX3
+refseq_dna|NM_004847|NM_004847	hgnc_symbol|AIF1|AIF1
+refseq_dna|NM_005767|NM_005767	hgnc_symbol|LPAR6|LPAR6
+efg_agilent_wholegenome_4x44k_v1|A_23_P15226|A_23_P15226
+refseq_dna|NM_004679|NM_004679	hgnc_symbol|VCY|VCY
+refseq_dna|NM_003004|NM_003004	hgnc_symbol|SECTM1|SECTM1
+refseq_dna|NM_001179|NM_001179	hgnc_symbol|ART3|ART3
+refseq_dna|NM_182494|NM_182494	hgnc_symbol|CALHM3|CALHM3
+refseq_dna|NM_004360|NM_004360	hgnc_symbol|CDH1|CDH1
+embl|THC2304038|THC2304038
+refseq_dna|NM_002286|NM_002286	hgnc_symbol|LAG3|LAG3
+refseq_dna|NM_016229|NM_016229	hgnc_symbol|CYB5R2|CYB5R2
+refseq_dna|NM_001864|NM_001864	hgnc_symbol|COX7A1|COX7A1
+refseq_dna|NM_001839|NM_001839	hgnc_symbol|CNN3|CNN3
+refseq_dna|NM_003485|NM_003485	hgnc_symbol|GPR68|GPR68
+refseq_dna|NM_016378|NM_016378	hgnc_symbol|VCX2|VCX2
+embl|THC2437822|THC2437822
+embl|THC2333719|THC2333719
+refseq_dna|NM_017527|NM_017527	hgnc_symbol|LY6K|LY6K
+refseq_dna|NM_000606|NM_000606	hgnc_symbol|C8G|C8G
+refseq_dna|XM_928128|XM_928128
+refseq_dna|NM_033067|NM_033067	hgnc_symbol|DMRTB1|DMRTB1
+efg_agilent_wholegenome_4x44k_v1|A_32_P112546|A_32_P112546
+refseq_dna|NM_006569|NM_006569	hgnc_symbol|CGREF1|CGREF1
+refseq_dna|NM_003965|NM_003965	hgnc_symbol|CCRL2|CCRL2
+refseq_dna|NM_032728|NM_032728	hgnc_symbol|PPAPDC3|PPAPDC3
+efg_agilent_wholegenome_4x44k_v1|A_24_P401124|A_24_P401124
+refseq_dna|NM_052957|NM_052957	hgnc_symbol|ACRC|ACRC
+refseq_dna|NM_033054|NM_033054	hgnc_symbol|MYO1G|MYO1G
+refseq_dna|NM_001007279|NM_001007279	hgnc_symbol|RASL10A|RASL10A
+refseq_dna|NM_001007551|NM_001007551
+refseq_dna|NM_003462|NM_003462	hgnc_symbol|DNALI1|DNALI1
+refseq_dna|NM_032132|NM_032132	hgnc_symbol|HORMAD1|HORMAD1
+refseq_dna|NM_000413|NM_000413	hgnc_symbol|HSD17B1|HSD17B1
+refseq_dna|NM_053054|NM_053054	hgnc_symbol|CATSPER1|CATSPER1
+refseq_dna|NM_018059|NM_018059	hgnc_symbol|RADIL|RADIL
+refseq_dna|NM_000394|NM_000394	hgnc_symbol|CRYAA|CRYAA
+refseq_dna|NM_014466|NM_014466	hgnc_symbol|TEKT2|TEKT2
+refseq_dna|NM_001645|NM_001645	hgnc_symbol|APOC1|APOC1
+refseq_dna|NM_007183|NM_007183	hgnc_symbol|PKP3|PKP3
+efg_agilent_wholegenome_4x44k_v1|A_24_P745352|A_24_P745352
+refseq_dna|NM_012232|NM_012232	hgnc_symbol|PTRF|PTRF
+entrezgene|AY358993|200634	hgnc_symbol|KRTCAP3|KRTCAP3
+refseq_dna|NM_032858|NM_032858	hgnc_symbol|MAEL|MAEL
+refseq_dna|NM_001886|NM_001886	hgnc_symbol|CRYBA4|CRYBA4
+refseq_dna|NM_005855|NM_005855	hgnc_symbol|RAMP1|RAMP1
+refseq_dna|NM_022910|NM_022910	hgnc_symbol|NDRG4|NDRG4
+ensembl_gene_id|ENST00000353250|ENST00000353250
+refseq_dna|NM_003069|NM_003069	hgnc_symbol|SMARCA1|SMARCA1
+efg_agilent_wholegenome_4x44k_v1|A_24_P195974|A_24_P195974
+refseq_dna|NM_181773|NM_181773
+refseq_dna|NM_002922|NM_002922	hgnc_symbol|RGS1|RGS1
+refseq_dna|NM_174901|NM_174901	hgnc_symbol|FAM9C|FAM9C
+refseq_dna|NM_173544|NM_173544	hgnc_symbol|FAM129C|FAM129C
+refseq_dna|NM_002615|NM_002615	hgnc_symbol|SERPINF1|SERPINF1
+refseq_dna|NM_002870|NM_002870	hgnc_symbol|RAB13|RAB13
+refseq_dna|NM_002427|NM_002427	hgnc_symbol|MMP13|MMP13
+refseq_dna|NM_000955|NM_000955	hgnc_symbol|PTGER1|PTGER1
+refseq_dna|NM_001012974|NM_001012974	hgnc_symbol|LRRC73|LRRC73
+refseq_dna|NM_080388|NM_080388	hgnc_symbol|S100A16|S100A16
+refseq_dna|NM_004165|NM_004165	hgnc_symbol|RRAD|RRAD
+refseq_dna|NM_173853|NM_173853	hgnc_symbol|KRTCAP3|KRTCAP3
+refseq_dna|NM_024600|NM_024600	hgnc_symbol|TMEM204|TMEM204
+embl|CR613736|CR613736
+refseq_dna|NM_013369|NM_013369	hgnc_symbol|DNMT3L|DNMT3L
+efg_agilent_wholegenome_4x44k_v1|A_24_P93111|A_24_P93111
+refseq_dna|NM_031934|NM_031934	hgnc_symbol|RAB34|RAB34
+embl|AK091178|AK091178
+refseq_dna|NM_002344|NM_002344	hgnc_symbol|LTK|LTK
+refseq_dna|NM_000142|NM_000142	hgnc_symbol|FGFR3|FGFR3
+embl|BC024020|BC024020	hgnc_symbol|VMP1|VMP1
+refseq_dna|NM_002889|NM_002889	hgnc_symbol|RARRES2|RARRES2
+refseq_dna|NM_004165|NM_004165	hgnc_symbol|RRAD|RRAD
+refseq_dna|NM_003897|NM_003897	hgnc_symbol|IER3|IER3
+refseq_dna|NM_004049|NM_004049	hgnc_symbol|BCL2A1|BCL2A1
+refseq_dna|NM_022370|NM_022370	hgnc_symbol|ROBO3|ROBO3
+refseq_dna|NM_032621|NM_032621	hgnc_symbol|BEX2|BEX2
+refseq_dna|NM_001006121|NM_001006121	hgnc_symbol|RBMY1B|RBMY1B
+refseq_dna|NM_003775|NM_003775	hgnc_symbol|S1PR4|S1PR4
+efg_agilent_wholegenome_4x44k_v1|A_24_P341546|A_24_P341546
+refseq_dna|NM_012253|NM_012253	hgnc_symbol|TKTL1|TKTL1
+refseq_dna|NM_004669|NM_004669	hgnc_symbol|CLIC3|CLIC3
+refseq_dna|NM_174901|NM_174901	hgnc_symbol|FAM9C|FAM9C
+refseq_dna|NM_002273|NM_002273	hgnc_symbol|KRT8|KRT8
+refseq_dna|NM_018068|NM_018068	hgnc_symbol|PIWIL2|PIWIL2
+embl|THC2312585|THC2312585
+refseq_dna|NM_033210|NM_033210	hgnc_symbol|ZNF502|ZNF502
+refseq_dna|NM_000594|NM_000594	hgnc_symbol|TNF|TNF
+embl|BC005107|BC005107	hgnc_symbol|ERVH48-1|ERVH48-1
+refseq_dna|NM_000035|NM_000035	hgnc_symbol|ALDOB|ALDOB
+efg_agilent_wholegenome_4x44k_v1|A_24_P281605|A_24_P281605
+efg_agilent_wholegenome_4x44k_v1|A_24_P418216|A_24_P418216
+efg_agilent_wholegenome_4x44k_v1|A_24_P844100|A_24_P844100
+refseq_dna|NM_005345|NM_005345	hgnc_symbol|HSPA1A|HSPA1A
+refseq_dna|NM_000705|NM_000705	hgnc_symbol|ATP4B|ATP4B
+refseq_dna|NM_001109|NM_001109	hgnc_symbol|ADAM8|ADAM8
+refseq_dna|NM_005202|NM_005202	hgnc_symbol|COL8A2|COL8A2
+refseq_dna|NM_181873|NM_181873	hgnc_symbol|MTMR11|MTMR11
+refseq_dna|NM_001511|NM_001511	hgnc_symbol|CXCL1|CXCL1
+ensembl_gene_id|ENST00000267857|ENST00000267857
+refseq_dna|NM_001305|NM_001305	hgnc_symbol|CLDN4|CLDN4
+embl|BC031250|BC031250
+refseq_dna|NM_181755|NM_181755	hgnc_symbol|HSD11B1|HSD11B1
+refseq_dna|NM_014767|NM_014767	hgnc_symbol|SPOCK2|SPOCK2
+refseq_dna|NM_000394|NM_000394	hgnc_symbol|CRYAA|CRYAA
+refseq_dna|NM_020387|NM_020387	hgnc_symbol|RAB25|RAB25
+refseq_dna|NM_001005217|NM_001005217	hgnc_symbol|FRG2|FRG2
+refseq_dna|NM_032048|NM_032048	hgnc_symbol|EMILIN2|EMILIN2
+embl|THC2414226|THC2414226
+refseq_dna|NM_017556|NM_017556	hgnc_symbol|FBLIM1|FBLIM1
+refseq_dna|NM_002273|NM_002273	hgnc_symbol|KRT8|KRT8

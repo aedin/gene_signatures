@@ -1,0 +1,24 @@
+# Generate Mapping Tables Script: Version 4 11:05 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:05 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+unigene|Hs.118832|Hs.118832	hgnc_symbol|CD40|CD40
+unigene|Hs.326691|Hs.326691	hgnc_symbol|CDC42BPA|CDC42BPA
+unigene|Hs.84746|Hs.84746	hgnc_symbol|CHC1|CHC1
+unigene|Hs.129953|Hs.129953	hgnc_symbol|EWSR1|EWSR1
+unigene|Hs.49585|Hs.49585	hgnc_symbol|FGF18|FGF18
+unigene|Hs.250723|Hs.250723	hgnc_symbol|FRAP1/MTOR|FRAP1/MTOR
+unigene|Hs.85112|Hs.85112	hgnc_symbol|IGF-I|IGF-I
+unigene|Hs.3185|Hs.3185	hgnc_symbol|Ly6D|Ly6D
+unigene|Hs.157199|Hs.157199	hgnc_symbol|MARK2|MARK2
+unigene|Hs.204732|Hs.204732	hgnc_symbol|MMP26|MMP26
+unigene|Hs.777|Hs.777	hgnc_symbol|PDE3A|PDE3A
+unigene|Hs.136348|Hs.136348	hgnc_symbol|POSTN|POSTN
+unigene|Hs.183648|Hs.183648	hgnc_symbol|PPFIA1|PPFIA1
+unigene|Hs.170917|Hs.170917	hgnc_symbol|PTGER3|PTGER3
+unigene|Hs.179770|Hs.179770	hgnc_symbol|PTPRH|PTPRH
+unigene|Hs.121748|Hs.121748	hgnc_symbol|TRIM17|TRIM17
+unigene|Hs.24594|Hs.24594	hgnc_symbol|UBE4B|UBE4B
+unigene|Hs.152601|Hs.152601	hgnc_symbol|UQCRH|UQCRH

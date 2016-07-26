@@ -1,0 +1,45 @@
+# Generate Mapping Tables Script: Version 4 11:07 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:07 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+mgi_symbol|IL1 beta|IL1 beta
+mgi_symbol|IL4|IL4
+mgi_symbol|IL6|IL6
+mgi_symbol|IL10|IL10
+mgi_symbol|IL12a|IL12a
+mgi_symbol|IL12b|IL12b
+mgi_symbol|IL17f|IL17f
+mgi_symbol|TNF-alpha|TNF-alpha
+mgi_symbol|IFN-gamma|IFN-gamma
+mgi_symbol|IL1RL1|IL1RL1
+mgi_symbol|IL12RB1|IL12RB1
+mgi_symbol|IL12RB2|IL12RB2
+mgi_symbol|TNFRST1B|TNFRST1B
+mgi_symbol|TLR2|TLR2
+mgi_symbol|TLR4|TLR4
+mgi_symbol|TLR9|TLR9
+mgi_symbol|S100A8|S100A8
+mgi_symbol|S100A9|S100A9
+mgi_symbol|PAP|PAP
+mgi_symbol|COX-2|COX-2
+mgi_symbol|CCL2|CCL2
+mgi_symbol|CCL4|CCL4
+mgi_symbol|CCL5|CCL5
+mgi_symbol|CCL7|CCL7
+mgi_symbol|CCL8|CCL8
+mgi_symbol|CCL24|CCL24
+mgi_symbol|CCR3|CCR3
+mgi_symbol|CCR7|CCR7
+mgi_symbol|CXCL1|CXCL1
+mgi_symbol|CXCL2|CXCL2
+mgi_symbol|CXCL5|CXCL5
+mgi_symbol|CXCL9|CXCL9
+mgi_symbol|CXCL10|CXCL10
+mgi_symbol|MMP3|MMP3
+mgi_symbol|MMP9|MMP9
+mgi_symbol|MMP10|MMP10
+mgi_symbol|MMP13|MMP13
+mgi_symbol|MMP14|MMP14
+mgi_symbol|DEFA1|DEFA1

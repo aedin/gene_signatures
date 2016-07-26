@@ -1,0 +1,23 @@
+# Generate Mapping Tables Script: Version 4 11:04 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:04 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+unigene|Hs.1722|Hs.1722	hgnc_symbol|IL1A|IL1A
+unigene|Hs.126256|Hs.126256	hgnc_symbol|IL1B|IL1B
+unigene|Hs.89679|Hs.89679	hgnc_symbol|IL2|IL2
+unigene|Hs.673|Hs.673	hgnc_symbol|IL12A|IL12A
+unigene|Hs.674|Hs.674	hgnc_symbol|IL12B|IL12B
+unigene|Hs.311958|Hs.311958	hgnc_symbol|IL15|IL15
+unigene|Hs.856|Hs.856	hgnc_symbol|IFNG|IFNG
+unigene|Hs.241570|Hs.241570	hgnc_symbol|TNF|TNF
+unigene|Hs.73917|Hs.73917	hgnc_symbol|IL4|IL4
+unigene|Hs.2247|Hs.2247	hgnc_symbol|IL5|IL5
+unigene|Hs.624|Hs.624	hgnc_symbol|IL8|IL8
+unigene|Hs.193717|Hs.193717	hgnc_symbol|IL10|IL10
+unigene|Hs.173894|Hs.173894	hgnc_symbol|CSF1|CSF1
+unigene|Hs.494173|Hs.494173	hgnc_symbol|ANXA1|ANXA1
+unigene|Hs.520048|Hs.520048	hgnc_symbol|HLA-DRA|HLA-DRA
+unigene|Hs.347270|Hs.347270	hgnc_symbol|HLA-DPA1|HLA-DPA1
+unigene|Hs.1908|Hs.1908	hgnc_symbol|PRG1|PRG1

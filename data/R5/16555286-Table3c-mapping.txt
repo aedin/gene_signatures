@@ -1,0 +1,24 @@
+# Generate Mapping Tables Script: Version 4 11:06 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:06 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+affy_moe430a|1421946_at|1421946_at	mgi_symbol|Crp|Crp
+affy_moe430a|1418897_at|1418897_at	mgi_symbol|F2|F2
+affy_moe430a|1426642_at|1426642_at	mgi_symbol|Fn1|Fn1
+affy_moe430a|1448881_at|1448881_at	mgi_symbol|Hp|Hp
+affy_moe430a|1423944_at|1423944_at	mgi_symbol|Hpxn|Hpxn
+affy_moe430a|1451054_at|1451054_at	mgi_symbol|Orm1|Orm1
+affy_moe430a|1419075_s_at|1419075_s_at	mgi_symbol|Saa1|Saa1
+affy_moe430a|1419075_s_at|1419075_s_at	mgi_symbol|Saa2|Saa2
+affy_moe430a|1449326_x_at|1449326_x_at	mgi_symbol|Saa2|Saa2
+affy_moe430a|1450826_a_at|1450826_a_at	mgi_symbol|Saa3|Saa3
+affy_moe430a|1419318_at|1419318_at	mgi_symbol|Saa4|Saa4
+affy_moe430a|1420553_x_at|1420553_x_at	mgi_symbol|Serpina1a|Serpina1a
+affy_moe430a|1448680_at|1448680_at	mgi_symbol|Serpina1a|Serpina1a
+affy_moe430a|1451513_x_at|1451513_x_at	mgi_symbol|Serpina1b|Serpina1b
+affy_moe430a|1449321_x_at|1449321_x_at	mgi_symbol|Serpina1b|Serpina1b
+affy_moe430a|1449321_x_at|1449321_x_at	mgi_symbol|Serpina1d|Serpina1d
+affy_moe430a|1449321_x_at|1449321_x_at	mgi_symbol|Serpina1a|Serpina1a
+affy_moe430a|1449321_x_at|1449321_x_at	mgi_symbol|Serpina1e|Serpina1e

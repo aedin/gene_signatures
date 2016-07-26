@@ -1,0 +1,38 @@
+# Generate Mapping Tables Script: Version 4 11:05 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:05 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+entrezgene|X04430|3569	hgnc_symbol|IL6|IL6
+embl|M28130|M28130	hgnc_symbol|IL8|IL8
+embl|AB008822|AB008822	hgnc_symbol|TNFRSF11B|TNFRSF11B
+entrezgene|D78579|8013	hgnc_symbol|NR4A3|NR4A3
+entrezgene|L13740|3164	hgnc_symbol|NR4A1|NR4A1
+embl|D15050|D15050	hgnc_symbol|TCF8|TCF8
+entrezgene|X63741|1960	hgnc_symbol|EGR3|EGR3
+entrezgene|AF059214|9023	hgnc_symbol|CH25H|CH25H
+entrezgene|AJ224878|50852	hgnc_symbol|TRIM|TRIM
+embl|J05008|J05008	hgnc_symbol|EDN1|EDN1
+embl|AF054598|AF054598	hgnc_symbol|TGFBR1|TGFBR1
+embl|U31120|U31120	hgnc_symbol|IL13|IL13
+entrezgene|U81262|1948	hgnc_symbol|EFNB2|EFNB2
+entrezgene|L05515|9586	hgnc_symbol|ATF2|ATF2
+embl|L10717|L10717	hgnc_symbol|EMT|EMT
+entrezgene|X51345|3726	hgnc_symbol|JUNB|JUNB
+entrezgene|X84003|6884	hgnc_symbol|TAF13|TAF13
+entrezgene|AI017981|51761	hgnc_symbol|ATP8A2|ATP8A2
+entrezgene|M20681|6515	hgnc_symbol|SLC2A3|SLC2A3
+entrezgene|J02940|2811	hgnc_symbol|GP1BA|GP1BA
+entrezgene|AB005666|6494	hgnc_symbol|SIPA1|SIPA1
+embl|L05424|L05424	hgnc_symbol|CD44|CD44
+entrezgene|U91616|4794	hgnc_symbol|IKBE|IKBE
+entrezgene|D29767|7006	hgnc_symbol|TEC|TEC
+entrezgene|L11329|1844	hgnc_symbol|DUSP2|DUSP2
+entrezgene|X90976|861	hgnc_symbol|RUNX1|RUNX1
+entrezgene|X07024|6872	hgnc_symbol|TAF1|TAF1
+entrezgene|U71364|5272	hgnc_symbol|PI9|PI9
+entrezgene|U10886|5795	hgnc_symbol|PTPRJ|PTPRJ
+entrezgene|Y10183|214	hgnc_symbol|ALCAM|ALCAM
+entrezgene|U57094|5873	hgnc_symbol|RAB27A|RAB27A
+entrezgene|M15330|3553	hgnc_symbol|IL1B|IL1B

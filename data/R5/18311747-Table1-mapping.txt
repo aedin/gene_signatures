@@ -1,0 +1,39 @@
+# Generate Mapping Tables Script: Version 4 11:03 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:03 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+affy_hg_u133_plus_2|209464 at|209464 at	hgnc_symbol|AURKB|AURKB
+affy_hg_u133_plus_2|202503 s at|202503 s at	hgnc_symbol|KIAA0101|KIAA0101
+affy_hg_u133_plus_2|201075 s at|201075 s at	hgnc_symbol|SMARCC1|SMARCC1
+affy_hg_u133_plus_2|202107 s at|202107 s at	hgnc_symbol|MCM2|MCM2
+affy_hg_u133_plus_2|218009 s at|218009 s at	hgnc_symbol|PRC1|PRC1
+affy_hg_u133_plus_2|210052 s at|210052 s at	hgnc_symbol|TPX2|TPX2
+affy_hg_u133_plus_2|203764 at|203764 at	hgnc_symbol|DLG7|DLG7
+affy_hg_u133_plus_2|212801 at|212801 at	hgnc_symbol|CIT|CIT
+affy_hg_u133_plus_2|218355 at|218355 at	hgnc_symbol|KIF4A|KIF4A
+affy_hg_u133_plus_2|201112 s at|201112 s at	hgnc_symbol|CSE1L|CSE1L
+affy_hg_u133_plus_2|218755 at|218755 at	hgnc_symbol|KIF20A|KIF20A
+affy_hg_u133_plus_2|202705 at|202705 at	hgnc_symbol|CCNB2|CCNB2
+affy_hg_u133_plus_2|204709 s at|204709 s at	hgnc_symbol|KIF23|KIF23
+affy_hg_u133_plus_2|206102 at|206102 at	hgnc_symbol|PSF1|PSF1
+affy_hg_u133_plus_2|209642 at|209642 at	hgnc_symbol|BUB1|BUB1
+affy_hg_u133_plus_2|225687 at|225687 at	hgnc_symbol|C20orf129|C20orf129
+affy_hg_u133_plus_2|1552619 a at|1552619 a at	hgnc_symbol|ANLN|ANLN
+affy_hg_u133_plus_2|202326 at|202326 at	hgnc_symbol|EHMT2|EHMT2
+affy_hg_u133_plus_2|206550 s at|206550 s at	hgnc_symbol|NUP155|NUP155
+affy_hg_u133_plus_2|210115 at|210115 at	hgnc_symbol|RPL39L|RPL39L
+affy_hg_u133_plus_2|226980 at|226980 at	hgnc_symbol|DEPDC1B|DEPDC1B
+affy_hg_u133_plus_2|201111 at|201111 at	hgnc_symbol|CSE1L|CSE1L
+affy_hg_u133_plus_2|201292 at|201292 at	hgnc_symbol|TOP2A|TOP2A
+affy_hg_u133_plus_2|204603 at|204603 at	hgnc_symbol|EX01|EX01
+affy_hg_u133_plus_2|223271 s at|223271 s at	hgnc_symbol|CTDSPL2|CTDSPL2
+affy_hg_u133_plus_2|201663 s at|201663 s at	hgnc_symbol|SMC4L1|SMC4L1
+affy_hg_u133_plus_2|207828 s at|207828 s at	hgnc_symbol|CENPF|CENPF
+affy_hg_u133_plus_2|209714 s at|209714 s at	hgnc_symbol|CDKN3|CDKN3
+affy_hg_u133_plus_2|212639 x at|212639 x at	hgnc_symbol|K-ALPHA-1|K-ALPHA-1
+affy_hg_u133_plus_2|214710 s at|214710 s at	hgnc_symbol|CCNB1|CCNB1
+affy_hg_u133_plus_2|223699 at|223699 at	hgnc_symbol|CNDP1|CNDP1
+affy_hg_u133_plus_2|224753 at|224753 at	hgnc_symbol|CDCA5|CDCA5
+affy_hg_u133_plus_2|1555278 a at|1555278 a at	hgnc_symbol|CKAP5|CKAP5
