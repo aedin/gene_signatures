@@ -1,0 +1,81 @@
+Category	Probe set	Gene Symbol	Description	Fold change^a (Ad5-GFP infected vs. uninfected) 24h^b	Fold change^a (Ad5-GFP infected vs. uninfected) 24h	Fold change^a (Ad5-GFP infected vs. uninfected) 72h	Fold change^a (Ad5-GFP infected vs. uninfected) 72h
+Immune response	202859_x_at	IL8	IL8	4.74	3.36	16.46	70.15
+Immune response	211506_s_at	IL8	IL8	3.57	–	10.56	–
+Immune response	202270_at	GBP1	Guanylate binding protein 1, interferon inducible, 67 kDa	2.18	1.37	7.43	23.08
+Immune response	202644_s_at	TNFAIP3	TNFalpha-induced protein 3	–1.03	1.03	4.83	7.46
+Immune response	202643_s_at	TNFAIP3	TNFalpha-induced protein 3	1.14	–1.67	2	4.9
+Immune response	209189_at	FOS	v-fos FBJ murine osteosarcoma viral oncogene homolog	2.21	2.82	–1.40	–1.90
+Immune response	209774_x_at	CXCL2	Chemokine (C-X-C motif) ligand 2	1.05	2.36	3.21	3.23
+Immune response	204924_at	TLR2	Toll-like receptor 2	1.27	1.18	2.11	2.32
+Immune response	204470_at	CXCL1	chemokine (C-X-C motif) ligand 1  (melanoma growth stimulating activity, alpha)	–1.07	–	4.71	4.62
+Immune response	203535_at	S100A9	S100 calcium binding protein A9 (calgranulin B)	2.26	1.15	2.1	3.45
+Immune response	206247_at	MICB	MHC class I polypeptide-related sequence B	1.21	2.13	3	2.36
+Immune response	205207_at	IL6	IL6 (IFNbeta2)	–1.27	–	3.09	3.05
+Immune response	204924_at	TLR2	Toll-like receptor 2	1.27	1.18	2.11	2.32
+Immune response	204781_s_at	TNFRSF6	TNF receptor superfamily, member 6	1.19	1.26	2.09	3.18
+Immune response	204780_s_at	TNFRSF6	TNF receptor superfamily, member 6	1.14	1.1	2.18	2.54
+Immune response	215719_x_at	TNFRSF6	TNF receptor superfamily, member 6	1.45	1.33	2.3	3.45
+Immune response	206508_at	TNFSF7	TNF (ligand) superfamily, member 7	1.18	1.31	2.37	2.52
+Immune response	204420_at	FOSL1	FOS-like antigen 1	1.15	1.35	1.99	3.09
+Immune response	204363_at	F3	Coagulation factor III (thromboplastin, tissue factor)	–1.16	1.08	1.99	2.19
+Immune response	206467_x_at	TNFRSF6B	TNF receptor superfamily, member 6b, decoy	–1.06	–1.68	2.17	2.6
+Regulation of transcription	222227_at	ZNF236	Zinc finger protein 236	10.45	23.51	12.45	17.16
+Regulation of transcription	210336_x_at	ZNF42	Zinc finger protein 42 (myeloid-specific retinoic acid responsive)	–1.04	–	3.14	2.46
+Regulation of transcription	209636_at	NFkB2	NF of kappa light polypeptide gene enhancer in B cells 2 (p49/p100)	1.56	1.08	5.4	2.24
+Regulation of transcription	205205_at	RELB	v-rel reticuloendotheliosis viral oncogene homolog B, NF of  kappa; light polypeptide gene enhancer in B cells 3 (avian)	1.21	1.15	2.07	2.93
+Regulation of transcription	208025_s_at	HMGA2	High-mobility group AT-hook 2	1.26	1.14	3.51	3.6
+Signal transduction	209877_at	SNCG	Synuclein, gamma (breast-cancer-specific protein 1)	3.64	2.1	–1.96	–1.60
+Signal transduction	221577_x_at	PLAB	Prostate differentiation factor	–	1.45	2.12	2.14
+Signal transduction	208084_at	ITGB6	Integrin, beta 6	–1.11	–1.46	2.86	2.68
+Signal transduction	208083_s_at	ITGB6	Integrin, beta 6	–1.32	–1.38	3.67	4.4
+Signal transduction	214021_x_at	ITGB5	Integrin, beta5	–1.40	1.55	2.05	2.39
+Signal transduction	201389_at	ITGA5	Integrin, alpha 5 (fibronectin receptor, alpha polypeptide)	1.38	1.57	3.49	3.3
+Signal transduction	207610_s_at	EMR2	EGF-like module containing, mucin-like, hormone receptor-like sequence 2	1.14	–	2.09	3.52
+Signal transduction	209099_x_at	JAG1	Jagged 1 (Alagille syndrome)	–2.01	1.53	2.49	2.63
+Signal transduction	217875_s_at	TMEPAI	Transmembrane, prostate-androgen-induced RNA	–1.74	–	8.68	13.33
+Cell cycle regulation	218723_s_at	RGC32	RGC32 protein	5.02	3.52	–2.28	–
+Cell cycle regulation	210512_s_at	VEGF	Vascular endothelial growth factor	1.55	–1.09	3.56	2.8
+Cell cycle regulation	205767_at	EREG	Epiregulin	1.89	1.61	2.15	3.07
+Cell cycle regulation	204858_s_at	ECGF1	Endothelial cell growth factor 1 (platelet derived)	–1.06	1.65	1.99	3.01
+Cell cycle regulation	202388_at	RGS2	Regulator of G-protein signalling 2, 24 kDa	–1.01	1.44	2.01	2.91
+Apoptosis	203078_at	CUL2	Cullin 2	2.84	2.14	1.1	–
+Cell adhesion	218182_s_at	CLDN1	Claudin 1	1.95	–2.04	3.61	3.89
+Cell adhesion	205534_at	PCDH7	BH-protocadherin (brain-heart)	–1.18	–1.25	2.14	2.26
+Lipid metabolism	221750_at	HMGCS1	3-Hydroxy-3-methylglutaryl-coenzyme A synthase 1 (soluble)	1.03	1.1	2.1	2.06
+Lipid metabolism	219257_s_at	SPHK1	Sphingosine kinase 1	1.1	–1.01	2.36	2.43
+Lipid metabolism	219181_at	LIPG	Lipase, endothelial	–1.08	1.07	4.13	4.69
+Lipid metabolism	209146_at	SC4MOL	Sterol-C4-methyl oxidase-like	–1.26	1.01	2.29	2.34
+Catabolism	203936_s_at	MMP9	Matrix metalloproteinase 9 (gelatinase B, 92-kDa gelatinase, 92-kDa type IV collagenase)	–1.25	1.18	2.59	3.39
+Catabolism	203665_at	HMOX1	Heme oxygenase (decycling) 1	2.8	1.68	2.55	2.5
+Electron transport	202437_s_at	CYP1B1	Cytochrome P450, subfamily I (dioxin-inducible), polypeptide 1 (glaucoma 3, primary infantile)	4.68	3.23	1.57	2.04
+Electron transport	202436_s_at	CYP1B1	Cytochrome P450, subfamily I (dioxin inducible), polypeptide 1 (glaucoma 3, primary infantile)	2.37	2.23	1.25	2.15
+Electron transport	201467_s_at	NQO1	NAD(P)H dehydrogenase, quinone 1	2.37	2.17	1.28	1.71
+Transport	221014_s_at	RAB33B	RAB33B, member RAS oncogene family	3.47	7.97	–1.23	–1.06
+Transport	220556_at	ATP1B4	ATPase, (Na+)/K+ transporting, beta4 polypeptide	2.35	2.07	2.78	–
+Protein nucleus import	212102_s_at	KPNA6	Karyopherin alpha6 (importin alpha7)	2.52	2.19	–1.11	1.33
+Protein metabolism	208947_s_at	RENT1	Regulator of nonsense transcripts 1	2.49	2.13	–1.08	1.45
+Biosynthesis	203452_at	B3GAT3	beta-1,3-Glucuronyltransferase 3 (glucuronosyltransferase I)	1.4	1.12	2.23	2.1
+Blood coagulation	209278_s_at	TFPI2	Tissue factor pathway inhibitor 2	1.16	1.04	2.93	5.24
+Blood coagulation	202628_s_at	SERPINE1	Serine (or cysteine) proteinase inhibitor, clade E (nexin, plasminogen activator inhibitor type 1), member 1	–1.97	–1.20	3.43	4.76
+Blood coagulation	202627_s_at	SERPINE1	Serine (or cysteine) proteinase inhibitor, clade E (nexin, plasminogen activator inhibitor type 1), member 1	–1.72	–1.28	3.07	2.92
+Metabolism	205192_at	MAP3K14	Mitogen-activated protein kinase kinase kinase 14	1.44	1.55	2.03	2.2
+Physiological process	204222_s_at	GLIPR1	GLI pathogenesis-related 1 (glioma)	–2.44	–	7.01	21.13
+Physiological process	204221_x_at	GLIPR1	GLI pathogenesis-related 1 (glioma)	1.192	–6.29	2.04	–
+Ectoderm development	209126_x_at	KRT6B	Keratin 6B	–1.52	–1.59	2.63	2.1
+Ectoderm development	209125_at	KRT6A	Keratin 6A	–1.42	–1.01	3.92	3.92
+Ectoderm development	217312_s_at	COL7A1	Collagen, type VII, alpha1 (epidermolysis bullosa, dystrophic, dominant and recessive)	–	–	2.79	4.31
+Miscellaneous	204351_at	S100P	S100 calcium binding protein P	2.24	2.1	1.12	1.14
+Miscellaneous	203691_at	PI3	Protease inhibitor 3, skin derived (SKALP)	1.56	–1.02	2.79	2.83
+Miscellaneous	221009_s_at	ANGPTL4	Angiopoietin-like 4	1.12	1.19	2.65	3.15
+Miscellaneous	218451_at	CDCP1	CUB domain-containing protein 1	–1.31	–1.24	2.18	2.78
+Miscellaneous	215629_s_at	BCMSUNL	BCMS upstream neighbor-like	1.96	1.59	2.76	2.14
+Miscellaneous	209884_s_at	SLC4A7	Solute carrier family 4, sodium bicarbonate cotransporter, member 7	1.47	–1.71	2.33	2.1
+Miscellaneous	207263_x_at	VEZATIN	Transmembrane protein vezatin	–	–	11.44	2.56
+Unknown/ ESTs	218260_at	MGC2594	Hypothetical protein MGC2594	2.21	2.55	0.77	1.29
+Unknown/ ESTs	213703_at	LOC150759	Unnamed protein product [Homo sapiens], mRNA sequence	2.33	2.16	–	–
+Unknown/ ESTs	207761_s_at	DKFZP586A0522	DKFZP586A0522 protein	2.15	3.16	–1.29	–1.49
+Unknown/ ESTs	222108_at		Homo sapiens BAC clone GS1-99H8 from 12, complete sequence.	–2.23	–1.31	4.68	6.13
+Unknown/ ESTs	219029_at	FLJ21657	Hypothetical protein FLJ21657	1.32	1.12	2.09	2.78
+Unknown/ ESTs	214945_at	NY-REN-7	KIAA0752 protein	–	–	2.28	4.28
+Unknown/ ESTs	204435_at	NUPL1	KIAA0410 gene product	1.17	1.31	2.2	2.62
+Unknown/ ESTs	221841_s_at		Homo sapiens cDNA FLJ38575 fis, clone HCHON2007046, mRNA sequence	–1.03	1.92	2.34	3.69

@@ -1,0 +1,44 @@
+Symbol	Name	Locus ID	Fold change	P	Up or down	Group
+VEGFC	Vascular endothelial growth factor C	7424	30.9	2.42E-02	Up	Angiogenesis
+PLOD2	Procollagen-lysine, 2-oxoglutarate 5-dioxygenase 2	5352	6.17	2.96E-02	Up	Angiogenesis
+STC1	Stanniocalcin 1	6781	12	2.35E-03	Up	Angiogenesis
+SPARC	Secreted protein, acidic, cysteine-rich	6678	28.2	2.57E-02	Up	AP1 target
+CSF1	Colony stimulating factor 1	1435	102	6.36E-05	Up	Cytokine
+ITGB1	Integrin, beta 1	3688	5.13	2.03E-02	Up	Cytoskeleton
+RAC2	Ras-related C3 botulinum toxin substrate 2	5880	6.76	1.59E-02	Up	Cytoskeleton
+KRT7	Keratin 7	3855	0.0602	1.97E-02	Down	Cytoskeleton
+KRT8	Keratin 8	3856	0.0251	5.38E-04	Down	Cytoskeleton
+KRT19	Keratin 19	3880	0.00891	3.10E-04	Down	Cytoskeleton
+RHOB	Ras homolog gene family, member B	388	0.0589	9.87E-03	Down	Cytoskeleton
+ARHD	Ras homolog gene family, member D	29984	0.0871	3.42E-02	Down	Cytoskeleton
+DSP	Desmoplakin	1832	0.0631	1.22E-03	Down	Cytoskeleton/adhesion
+CAV1	Caveolin 1	857	126	3.65E-05	Up	Cytoskeleton/adhesion
+CAV2	Caveolin 2	858	10.7	1.50E-03	Up	Cytoskeleton/adhesion
+CD44	CD44 antigen	960	51.3	5.27E-05	Up	Cytoskeleton/adhesion
+FN1	Fibronectin 1	2335	17.4	2.36E-03	Up	Cytoskeleton/adhesion
+MSN	Moesin	4478	115	1.26E-04	Up	Cytoskeleton/adhesion
+S100A2	S100 calcium binding protein A2	6273	5.5	4.72E-02	Up	Cytoskeleton/adhesion
+S100A3	S100 calcium binding protein A3	6274	7.41	1.08E-02	Up	Cytoskeleton/adhesion
+CDH1	E-cadherin	999	0.0589	2.82E-02	Down	Cytoskeleton/adhesion
+MAPK1	Mitogen-activated protein kinase 1	5594	54.9	1.69E-03	Up	MAPK
+COL5A1	Collagen type V alpha 1	1289	8.32	1.58E-02	Up	Matrix
+COL15A1	Collagen type XV alpha 1	1306	3.31	3.94E-02	Up	Matrix
+BMP1	Bone morphogenetic protein 1	649	9.55	1.85E-02	Up	Matrix degradation
+MMP2	Matrix metalloproteinase 2	4313	27.5	9.29E-03	Up	Matrix degradation
+MMP3	Matrix metalloproteinase 3	4314	2.45	4.81E-02	Up	Matrix degradation
+MMP14	Matrix metalloproteinase 14	4323	53.7	5.27E-05	Up	Matrix degradation
+PLAU	Plasminogen activator, urokinase	5328	14.45	3.32E-03	Up	Matrix degradation
+SERPINE1	Serine or cysteine proteinase inhibitor member 1	5054	19.1	1.44E-02	Up	Matrix degradation
+SERPINE2	Serine or cysteine proteinase inhibitor member 2	5270	759	1.40E-04	Up	Matrix degradation
+TPD52	Tumor protein D52	7163	0.25	1.86E-02	Down	Morphogenesis
+ANXA1	Annexin A1	301	6.31	3.82E-05	Up	Phospho-lipid binding
+ANXA5	Annexin A5	244	5.75	3.66E-05	Up	Phospho-lipid binding
+ANXA8	Annexin A8	244	3.09	3.24E-02	Up	Phospho-lipid binding
+TGFB1	Transforming growth factor beta 1	7040	11.8	3.76E-02	Up	TGFbeta
+TGFB2	Transforming growth factor beta 2	7042	23.4	1.50E-03	Up	TGFbeta
+TGFBR2	Transforming growth factor beta receptor II	7048	11.2	9.56E-04	Up	TGFbeta
+FST	Follistatin	10468	11.5	6.41E-04	Up	TGFbeta
+FOSB	FBJ murine osteosarcoma viral oncogene homolog B	2354	2.24	4.47E-02	Up	Transcription factor
+TFAP2A	Transcription factor AP-2 alpha	7020	0.224	2.29E-03	Down	Transcription factor
+TFAP2C	Transcription factor AP-2 gamma	7022	0.144	3.58E-02	Down	Transcription factor
+MDM2	Mouse double minute 2 homolog isoform	4193	0.38	5.59E-03	Down	Ubiquitination

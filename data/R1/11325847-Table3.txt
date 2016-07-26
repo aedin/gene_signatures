@@ -1,0 +1,70 @@
+Clone ID	Unigene no.	Gene Symbol	Description	Putative function	Fold change a HEC-151	Fold change a HHUA	Fold change a Ishikawa
+A0157	Hs.23960	CCNB1	Cyclin B1	Cell proliferation	0.23	0.59	0.52
+A0354	Hs.92374	CG11	Cyclin G1 interacting protein	Cell proliferation	0.2	0.74	(-)b
+A0480	Hs.77550	CKS1	CDC28 protein kinase 1	Cell proliferation	0.12	0.37	0.6
+A0499	Hs.83758	CKS2	CDC28 protein kinase 2	Cell proliferation	0.03	0.44	0.57
+A0245	Hs.82906	CDC20	Cell division cycle 20	Cell proliferation	0.06	0.51	0.52
+A0249	Hs.227789	MAPKAPK3	Mitogen-activated protein kinase-activated protein kinase 3	Cell proliferation	0.24	0.19	0.38
+A0333	Hs.179718	MYBL2	V-myb avian myeloblastosis viral oncogene homolog-like 2	Cell proliferation	0.27	0.46	0.76
+A2369	Hs.77597	PLK	Polo-like kinase	Cell proliferation	0.3	0.51	0.3
+A2506	Hs.15243	NOL1	Nucleolar protein 1	Cell proliferation	0.33	1	0
+A2452	Hs.108080	CSRP1	Cysteine and glycine-rich protein 1	Cell proliferation	0.39	0.93	0.6
+A5651	Hs.5181	PA2G4	Proliferation-associated 2G4	Cell proliferation	0.25	0.47	0.49
+A0018	Hs.48915	STK15	Serine/threonine kinase 15	Cell proliferation (centrosome-associated kinase)	0.49	0.65	0.23
+A4854	Hs.180655	AIM1, STK12	Serine/threonine kinase 12	Cell proliferation (cell division, chromosome segregation)	0.15	0.57	0.63
+A1216	Hs.84746	RCC1, CHC1	Chromosome condensation 1	Cell proliferation (cell division)	0.37	0.65	0.9
+A2154	Hs.2934	RR1, RRM1	Ribonucleotide reductase M1 polypeptide	Cell proliferation (cell division)	0.45	0.43	1.15
+A0106	Hs.165950	FGFR4	Fibroblast growth factor 4	Cell proliferation (growth factor)	0.19	1.79	2.25
+A0682	Hs.104	HGFAC	Hepatocyte growth factor activator	Cell proliferation (growth factor activator)	0.21	(-)	(-)
+A0080	Hs.78202	SMARCA	SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily a member 4	Cell proliferation and transcription	0.31	1.09	0.85
+A1970	Hs.79078	MAD2L1	MAD2-like 1	Fundamental function (cell cycle checkpoint)	0	0.46	0.57
+A4383	Hs.25292	RNASEHI	Ribonuclease H1 large subunit	Fundamental function (DNA replication and repair)	0.34	0.55	0.52
+A5087	Hs.74598	POLD2	Polymerase . 2 regulatory subunit	Fundamental function (DNA replication and repair)	0.26	0.52	0.49
+A4259	Hs.105465	SNRPF	Small nuclear ribonucleoprotein polypeptide F	Fundamental function (RNA processing)	0.3	0.7	0.75
+A2268	Hs.63525	PCBP2	Poly(rC)-binding protein 2	Fundamental function (post-translationally modification by phosphorylation)	0.36	0.48	0.53
+A1825	Hs.77522	HLADMA	Major histocompatibility complex class II DM	Immune response	0.19	0	(-)
+A0378	Hs.394	ADM	Adrenomedullin	Signal transduction	0.06	0.12	0.24
+A1824	Hs.77515	ITPR3	Inositol 1,4,5-triphosphate receptor type 3	Signal transduction	0.25	1.19	1.61
+A5155	Hs.75545	IL4R	Interleukin 4 receptor	Signal transduction	0.18	0.68	(-)
+A1933	Hs.130227	TNFRSF14	Tumor necrosis factor receptor superfamily member 14	Signal transduction (TNF and TNF receptor family)	0.38	1.71	(-)
+A3058	Hs.239	FKHL16;FOXM1	Forkhead box M1	Signal transduction (regulation of transcription, Forkhead gene family)	0	0.44	0.65
+A4228	Hs.251238	DRAP1	DR1-associated protein 1	Signal transduction (repressor of transcription)	0.39	0.67	0.85
+A0492	Hs.89657	TAF2H	TBP-associated factor	Transcription factor	0.34	0.74	0.68
+A2776	Hs.76362	GTF2A1	General transcription factor IIA 1	Transcription factor	0.42	0.54	0
+A3049	Hs.166	SREBP1;SREBF1	Sterol regulatory element binding transcription factor 1	Transcription factor	0.37	1.21	0.77
+A5119		---	2-Amino-3-ketobutyrate-CoA ligase	Metabolic enzyme	0.11	0.84	0.74
+A2936	Hs.83393	CST6	Cystatin E/M	Metabolic enzyme inhibitor	0.25	0	0.84
+A0904	Hs.75105	EBP	Emopamil-binding protein	Metabolic enzyme	0	0.5	0.38
+A3036	Hs.154890	FACL2	Fatty-acid-coenzyme A ligase	Metabolic enzyme	0.25	1.1	1.19
+A0688	Hs.135	GGT1	g-glutamyltransferase 1	Metabolic enzyme	0.34	0.88	(-)
+A3929	Hs.105435	GMDS	GDP-mannose 4,6-dehydratase	Metabolic enzyme	0.29	0.85	0.19
+A0800	Hs.772	GYS1	Glycogen synthase 1	Metabolic enzyme	0.41	0.51	0.74
+A4981	Hs.51043	HEXB	Hexosaminidase B	Metabolic enzyme	0.4	0.55	1.08
+A4699	Hs.3828	MVD	Mevalonate decarboxylase	Metabolic enzyme	0.07	0.93	0.24
+A3795	Hs.118721	NEU1	Neuraminidase 1	Metabolic enzyme	0.44	0.9	0.32
+A2164	Hs.1869	PGM1	Phosphoglucomutase 1	Metabolic enzyme	0.1	0.41	0.66
+A0899	Hs.75093	PLOD	Procollagen-lysine 2-oxoglutarate 5-dioxygenase	Metabolic enzyme	0.35	0.59	0.63
+A3469	Hs.111024	SLC25A1	Solute carrier family 25 member 1	Metabolic enzyme	0.3	0.76	0.97
+A0833	Hs.878	SORD	Sorbitol dehydrogenase	Metabolic enzyme	0.14	0.44	0.73
+A0439	Hs.388	NUDT1	Nudix-type motif 1	Catalytic enzyme (prevents mutation)	0.47	0.88	0.82
+A2832	Hs.80986	ATP5G1	ATP synthase H. transporting mitochondrial F0 complex subunit c isoform 1	Production of biochemical energy	0.17	0.56	0.38
+A2930	Hs.85539	ATP5I	ATP synthase H. transporting mitochondrial F0 complex subunit e	Production of biochemical energy	0.18	0.56	0.55
+A4132	Hs.153028	CYB561	Cytochrome b-561	Production of biochemical energy	0.02	0.6	0.09
+A2770	Hs.181028	COX5A	Cytochrome c oxidase subunit Va subunit	Production of biochemical energy	0.35	0.56	0.76
+A2931	Hs.81097	COX8	Cytochrome c oxidase subunit VIII	Production of biochemical energy	0.28	0.63	0.61
+A4177	Hs.109760	NDUFB3	NADH dehydrogenase 1 . subcomplex 3	Production of biochemical energy	0.4	0.69	0.75
+A2943	Hs.84549	NDUFC1	NADH dehydrogenase 1 subcomplex unknown 1	Production of biochemical energy	0.34	0.44	0.71
+A5677	Hs.5273	NDUFS3	NADH dehydrogenase Fe-S protein 3	Production of biochemical energy	0.29	0.81	0.67
+A4248	Hs.109059	RPML12	Ribosomal protein mitochondrial L12	Production of biochemical energy	0.46	0.63	0.54
+A4693	Hs.18141	LAD1	Ladinin 1	Cell structure (component of basement membrane)	0.23	0.83	0.74
+A0124	Hs.78452	SLC20A1	Solute carrier family 20 member 1	Other (phosphate transporter)	0.35	1	0.75
+A4686	Hs.169900	PABPC4	Poly(A)-binding protein, cytoplasmic 4	Other (pseudogene)	0.43	0.73	0.41
+A2518	Hs.106283	IGFBP6	Insulin-like growth factor-binding protein 6	Growth inhibitor	0.11	1.09	(-)
+A4234	Hs.14623	IFI30	Interferon g-inducible protein 30	Unknown (interferon-induced protein)	0.23	1.06	0
+A1054	Hs.833	ISG15	Interferon-stimulated protein	Unknown (interferon-stimulated protein)	0.33	0.64	0.82
+A4184	Hs.24391	BET3	BET3	Unknown	0.32	1.04	0.86
+A4677	Hs.194662	CNN3	Calponin 3 acidic	Unknown	0.44	0.91	1.16
+A4797		---	DBI-related protein	Unknown	0.18	0.6	0.66
+A4356	Hs.182265	KRT19	Keratin 19	Unknown	0.36	1.22	1.16
+A5172	Hs.153591	NOT56L	Not56-like protein	Unknown	0.37	0.76	0
+A4301	Hs.101033	---	Putative GTP-binding protein	Unknown	0.24	1.29	0.76

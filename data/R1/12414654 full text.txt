@@ -1,0 +1,331 @@
+[CANCER RESEARCH 62, 6246 –6254, November 1, 2002] 
+Gene Expression after Treatment with Hydrogen Peroxide, Menadione, or t-Butyl Hydroperoxide in Breast Cancer Cells 
+Yao-Yu Eric Chuang, Yidong Chen, Gadisetti, V. R. Chandramouli, John A. Cook, Deborah Coffin, Mong-Hsun Tsai, William DeGraff, Hailing Yan, Shuping Zhao, Angelo Russo, Edison T. Liu, and James B. Mitchell1 
+Radiation Biology Branch, Center for Cancer Research, National Cancer Institute [Y-Y. E. C., G. V. R. C., J. A. C., D. C., M-H. T., W. D., H. Y., S. Z., A. R., J. B. M.], and Cancer Genetics Branch, National Human Genome Research Institute [Y. C.], NIH, Bethesda, Maryland 20892, and Genome Institute of Singapore, Singapore 117528 [E. T. L.] 
+ABSTRACT 
+Global gene expression patterns in breast cancer cells after treatment with oxidants (hydrogen peroxide, menadione, and t-butyl hydroperoxide) were investigated in three replicate experiments. RNA collected after treatment (at 1, 3, 7, and 24 h) rather than after a single time point, enabled an analysis of gene expression patterns. Using a 17,000 microar­ray, template-based clustering and multidimensional scaling analysis of the gene expression over the entire time course identified 421 genes as being either up-or down-regulated by the three oxidants. In contrast, only 127 genes were identified for any single time point and a 2-fold change criteria. Surprisingly, the patterns of gene induction were highly similar among the three oxidants; however, differences were observed, particu­larly with respect to p53, IL-6, and heat-shock related genes. Replicate experiments increased the statistical confidence of the study, whereas changes in gene expression patterns over a time course demonstrated significant additional information versus a single time point. Analyzing the three oxidants simultaneously by template cluster analysis identified genes that heretofore have not been associated with oxidative stress. 
+
+INTRODUCTION 
+Cells normally maintain intracellular redox homeostasis by enlist­ing functional antioxidant buffers through redox-coupled enzymatic networks that regenerate oxidized substrates. A variety of oxidants, including superoxide, HP,2 lipid hydroperoxides, and hydroxyl radi­cal, are produced by diverse initiating agents or modalities such as ionizing radiation, redox cycling drugs, leakage from the mitochon­dria during electron transport (1, 2), activation of signal transduction pathways (3), and a variety of cell types of the immune system when stressed or activated (3). Left unchecked, oxidizing species can dam­age cells and tissues (4). Indeed, an extensive list of human diseases and/or conditions are etiologically associated with oxidative stress. Among these are inflammatory diseases, heart disease and stroke, hypertension, gastric ulcers, Alzheimer’s disease, Parkinson’s disease, smoking-related diseases, cancer, and aging (4). Yet, free radicals are important and essential as intermediates in primary metabolism and the regulation of specific signal transduction pathways and gene expression (3, 5). The characteristic short lifetimes of free radicals may serve as ideal cellular switches that initiate molecular events in response to stresses and normal cellular metabolism. Understanding the regulation of complex molecular circuits and biochemical path­ways resulting from oxidative stress will provide the necessary infra­structure to develop novel ways to protect against oxidative damage. 
+Whereas considerable information has accumulated from studying 
+Received 6/11/02; accepted 9/4/02. 
+The costs of publication of this article were defrayed in part by the payment of page charges. This article must therefore be hereby marked advertisement in accordance with 18 U.S.C. Section 1734 solely to indicate this fact. 
+1 To whom requests for reprints should be addressed, at Radiation Biology Branch, National Cancer Institute, Building 10, Room B3-B69, Bethesda, Maryland 20827. Phone: 
+(301) 496-7511; Fax: (301) 480-2238; E-mail: jbm@helix.nih.gov. 
+2 The abbreviations used are: MEN, menadione; HP, hydrogen peroxide; TBH, t-butyl hydroperoxide; RT, reverse transcription; MDS, multidimensional scaling; ARE, antiox­idant response element; IL, interleukin; GSH, reduced glutathione; MAPK, mitogen-activated protein kinase; MT, metallothionein; HSP, heat shock protein; PTP, protein tyrosine phosphatase; SHP, SH2-containing protein-tyrosine phosphatase. 
+individual genes and associated gene products or specific signal transduction pathways after treatment with various oxidants, microar­ray technology affords the opportunity to interrogate the expression of thousands of genes in a single experiment (6). Not surprisingly, the simultaneous study of expression profiles of a huge population of genes present on microarrays is challenging. Historically, gene ex­pressions, monitored at different time points or under different con­ditions, were analyzed by clustering genes having similar expression profiles (7, 8) and by a comparison of distributions, line graphs of a clustered gene expressions (9). However, none of these reports criti­cally address the statistical significance of the observed differences with respect to measurement accuracy. A single time course study involves multiple arrays measured under the same conditions at dif­ferent time points. Systematic study of expressions of successive time points can provide an estimate of reliability in principle. However, a true replicate would additionally cover the variations that can occur within biological samples. 
+Here, we report time course experiments with multiple replicates to obtain the statistical significance for every measured expression ratio and to verify reproducibility. The global gene expression of a single cell type exposed to three different oxidants: MEN, HP, and TBH was followed by microarray analysis. HP can be reduced by metals to generate OH radicals leading to cellular damage and cytotoxicity (10). In addition, HP has been implicated in the induction of various signal transduction pathways (11). MEN through redox cycling may gener­ate superoxide, HP, and semiquinone radicals (12). TBH is a known tumor promoter in which OH and lipid radicals have been implicated (13). Collectively, the selected oxidants may generate a broad spec­trum of free radicals in different intracellular compartments and would be expected to evoke common and perhaps disparate gene expression responses. 
+
+
+MATERIALS AND METHODS 
+Cell Culture. MCF7 cells (human breast cancer) were grown in RPMI 1640 supplemented with 10% FCS, penicillin, and streptomycin. Cells (2 . 106) from exponentially growing stock cultures were plated into 150-mm dishes and were incubated for 3 days before treatment. Cells were treated with HP (0, 500 .M), MEN (0, 25 .M), or TBH (0, 2000 .M) for 1 h, and total RNAs were extracted from untreated cells or treated cells at 1, 3, 7, and 24 h after treatments for cDNA microarrays. Cytotoxicity was assessed by clono­genic assay for each treatment group immediately after treatment, as described previously (14). Survival of MCF7 cells, plated in parallel with each array study, treated with HP, MEN, and TBH was 17 . 7%; 67. 46%; and 27. 27%, respectively (n . 3). 
+Microarray Fabrication. The microarrays used for the experiments con­tained 17,600 human cDNA clones and were prepared from two different clone sets including Incyte UniGEM2 set (Fremont, CA) and Research Genetics Named Genes set (Huntsville, AL). These cDNA clones are enriched for known genes. All 17,000 cDNAs were spotted onto poly-L-lysine-coated slides (NCI ROSP 17,000 Human Array) according to Eisen & Brown (15) using an OmniGrid arrayer (GeneMachines, San Carlos, CA). 
+RNA Extraction. For each collection point, the cell monolayer was washed once with PBS (4°C) and cells (.15 . 106) were scraped in 10 ml of PBS (4°C) followed by centrifugation (1000 rpm at 4°C, 5 min). Total RNA was extracted with the use of Trizol reagent (Invitrogen, Carlsbad, CA) and the Qiagen RNAeasy Mini kit according to the manufacturers’ instructions (Va­lencia, CA). 
+
+Probe Labeling and Microarray Hybridization. The methods for probe labeling reaction and microarray hybridization were used as described previ­ously (16) with a few modifications. For all experiments, the cDNA probes from untreated and treated MCF7 cells were compared with a reference probe that was generated from a universal human reference RNA (Stratagene, La Jolla, CA), which consisted of RNAs isolated from 10 cell lines. Forty .gof MCF-7 RNA or 20 .g of universal reference RNA were labeled with Cy5 and Cy3, respectively, by using Superscript II Reverse Transcriptase (Invitrogen, Carlsbad, CA). 
+The arrays were prehybridized with buffer (5. SSC, 0.1% SDS, 1% BSA) at 42°C for 1 h. Slides were washed in deionized water followed by 2-propa­nol. Cy5-and Cy3-labeled cDNA samples were mixed with 1 .l of COT1­DNA (10 .g/.l; Invitrogen, Carlsbad, CA), polyadenylate (8 –10 .g/.l; Amersham Pharmacia Biotech, Piscataway, NJ), and yeast tRNA (4 .g/.l; Ambion, Austin, TX) for hybridization. The mixed samples were denatured and after the addition of 20 .lof2. hybridization buffer (50% formamide, 10. SSC, 0.2% SDS) the entire sample was loaded onto the slides for overnight hybridization at 42°C. After hybridization, the hybridized slides were then washed in 2. SSC, 0.1%, 1. SSC, 0.1% SDS, and 0.2. SSC, for 4 min each, followed by a 1-min wash in 0.05. SSC. Slides were then placed in 2-propanol followed by spin drying. 
+Microarray Image Analysis. Hybridized arrays were scanned at 10-.m resolution on a GenePix 4000A scanner (Axon Instruments, Inc., Foster City, CA). The Cy5-and the Cy3-labeled cDNA samples were scanned at 635 nm and 532 nm, respectively. The resulting TIFF images were analyzed by GenePix Pro 3.0 software (Axon Instruments, Inc., Foster City, CA). The ratios of the sample intensity to the reference red (Cy5)/green (Cy3) intensity for all targets were determined, and ratio normalization was performed to normalize the center of ratio distribution to 1.0. 
+TaqMan Assay. After initial expression analysis, 11 clones were selected based on the following criteria: (a) .2-fold induction; (b) high correlation among the three replicates; and (c) signal intensities .4000 for both channels. In addition, one clone (GADPH) was selected as a control gene. Quantitative RT-PCR was performed using 1 .g of total RNA. After RT, all of the samples were diluted 1:9 with sterile water and 4 .l were used for each SYBR Green PCR assay. Real-time PCR was performed using the ABI Prism 7900HT sequence detection system according to the manufacturer’s instructions. 
+Statistical Analyses of Microarray Data. The raw fluorescent intensities were initially subjected to a spot quality filter to ensure the accuracy of the expression ratios. The spot quality filter was defined as follows: (a) signal: background ratios higher than 3; (b) a minimum background corrected signal of 250 counts; and (c) 70% of pixels in the spot have greater than a SD plus background. The local median pixel intensity level of the unspotted area around the spot was considered as background. MDS was performed to visualize the similarity of gene expression profile between any pair of samples by Pearson correlation coefficients of the log-transformed expression ratios of 446 genes. Samples with similar gene expression profiles (shorter distances) were thereby placed near each other in the MDS plot and separated from other dissimilar groups (longer distances). 
+Template-based Clustering and Gene Selection. A template-based clus­tering algorithm was used to study the temporal changes of gene expression after oxidant treatment (17). First, a set of templates (12) that corresponded to possible gene expression response for a given treatment was designed (see website)3 to ensure that the temporal changes of selected genes were not attributable to random phenomena, at the expense of excluding some unex­plainable expression profiles. In addition, we selected genes with higher maximum ratio fold-change during the time course or, equivalently, eliminated genes with no significant ratio changes or no response to the treatment. To assess the significance of the selection criteria, a bootstrap method was designed as follows. First the SD for each gene was estimated. Then the temporal profiles were simulated by randomly drawing five data points, 1,000,000 times, to provide the P of a gene being selected by random chance. 
+3 Additional information regarding methods, statistical analysis, and tables can be found at https://arrayanalysis.nih.gov/resources/pub_download/CancerRes1_supplement.htm. 
+The P for each gene was estimated based on the three replicated ratio profiles, which assumed independence between the experiments. 
+Selected genes satisfied the following criteria in at least one of the treat­ments: (a) at least 60% of data points (at least three time points) in each profile had a maximum intensity .500 and a minimum intensity .200 (gray-levels); 
+(b) correlation coefficient of fitting .k . 0.85; (c) maximum fold-change .2; and (d) total P of three replicates .0.001. Among 17,000 genes, 421 genes were selected after removing 4 duplicated clones. Also selected were 25 genes that had importance in oxidative stress-related gene expression or that were related to the other 421 genes but failed one of the aforementioned selection criterion. Therefore, 446 genes were chosen for further statistical analysis. 
+
+
+RESULTS 
+Gene Expression Clustering Analysis. Gene expression profiles from the three different oxidants experiments were analyzed using a template-based clustering algorithm. Fig. 1A shows the hierarchical clustering map of the 446 genes that met the selection criteria. A number of observations can be made from Fig. 1A. First, of the 446 genes selected, the majority of genes were down-regulated for all three of the oxidants (average overall time points: 71%, HP; 68%, MEN; 63%, TBH). Second, within a few subclusters, there were distinct differences in gene expression resulting from exposure to the three different oxidants (Fig. 1A, panels C, E, and F; e.g., panel C) shows that the TBH-treated cells strongly overexpressed a number of MT clones, whereas there was minimal expression of the MT gene after treatment with HP and MEN. Third, regardless of the oxidant, more gene expression was altered (either up or down) at the later time points. Approximately 1% of the genes among the selected gene set were overexpressed (.2-fold) immediately after oxidant exposure (1 h), whereas 12–19% of the genes were overexpressed at one of the later time points after treatment (3, 7, or 24 h). Lastly, most of the overexpressed genes returned to pretreatment levels by 24 h (only 4–9% of the genes remained overexpressed). Of those genes the expression of which was suppressed, a significant number remained suppressed at 24 h (see Fig. 1A). 
+MDS Analysis. To further examine the global similarity of gene expression patterns, MDS analysis was performed using the 446 genes selected for the hierarchical clustering analysis as shown in Fig. 1B. The figure illustrates the relationships between all of the samples. The initial time point (0 h) for all three of the treatments is the same because the “0h” is the untreated sample. MEN treatment had the least impact on the MCF7 cells, showing the smallest variation in the MDS plot, whereas HP and TBH treatments exhibited larger pertur­bations. Overall, the MDS analysis indicated that the MEN treatment gave a different expression profile than either the HP or the TBH treatment. 
+Validation of Microarray Data. To further confirm the results of microarray analysis, quantitative RT-PCR (TaqMan) analysis was conducted for 12 selected genes at the 7-h time point for each oxidant. Both over-and underexpressed genes were selected. Fig. 2 shows that there was excellent agreement between the microarray and TaqMan analyses. GADPH had expression ratios .1.5-fold for all three of the oxidants, and MT2A had expression ratios .1.5-fold for HP-treated cells; however, even with these small differences, the TaqMan results were in excellent agreement with the microarray ratios for these genes. 
+Patterns of Gene Expression of Different Functional Catego­ries. From the hierarchical map shown in Fig. 1A, all three of the oxidants gave similar global gene expression profiles. However, there were a number of different expression profiles observed among the three oxidant treatments. Fig. 3 shows different patterns of response among the three oxidants for selected genes over the time course after treatment. Fig. 3A shows a distinct pattern that emerged showing an 
+
+
+Fig. 1. A, hierarchical clustering of RNA expression observed for HP, MEN, and TBH treatment of MCF7 cells using Pearson correlation and complete linkage. Average expressions of the 3 replicates of 446 genes are shown in logarithmic scale. All of the expressions shown are relative to untreated cells. For each treat­ment, expressions shown are for 0, 1, 3, 7, and 24 h after treatment (left to right). Selected subclusters (A–F) are shown on the right with clone identification numbers (bold text, IMAGE clones; reg­ular text, Incyte clones) and gene symbols. B, MDS plot. The MDS plot (of the total 446 genes shown in A) illustrates the relationship among all of the samples; MEN (blue), HP (red), andTBH(green). Labeled in black, the initial time point (0 h or untreated) for all three treatments. The average expression ratios of three replicates were used in the calculation of the Pearson correlation (see “Ma­terials and Methods” and website3). 
+
+6248 
+
+up-regulation in TBH-treated cells but not in either HP-or MEN-treated cells. The reproducibility of the minor changes in the profiles may indicate real variations, because these were confirmed by the correlation coefficients .0.9 among the replicates. A second pattern (Fig. 3B) was an up-regulation over 3–7 h followed by a decrease in gene expression at 24 h. There was a difference with respect to the maximal increases with MEN exhibiting less induction than HP or TBH. HSPs were expressed at higher levels in MEN-treated cells compared with HP-and TBH-treated cells, as shown in Fig. 3C. 
+Finally, in Fig. 3D, a number of genes were down-regulated after HP and TBH treatment to a greater extent than after MEN treatment. 
+Statistical Validation of Distinctiveness of Gene Expression Patterns. Statistical validation of expression differences requires an understanding of the reproducibility of expression data. To test whether two gene expression patterns were significantly different, paired Student t-tests were used to determine the difference of each gene’s expressions from different treatments. However, under many experimental conditions, the mean of the difference is not coherently shifted; instead, the spread of the difference is different when com­paring within or between treatments. When t-tests were performed on many of the genes, it was found that, because of the variability between experiments, very few differences noted were significant at the 95% level. For example, p21 expression, well known to be overexpressed by oxidative stress (18), was found not to be significant at the 95% level at any time point after TBH, even though it was clearly up-regulated in all three experiments (control, 1.6 . 0.4; 1 h, 
+1.7 . 0.9; 3 h, 16.9 . 12.6; 7 h, 16.8 . 14.9; and 24 h, 10.5 . 7.7). For this reason, we chose the .2 statistic (Table 1) to test for the significance of the difference between two treatments (see website for details).3 Table 1 gives .2 values calculated for each pair at each time point. The critical .2 value for . . 0.05 is 495. It should be noted that, although MDS analysis using correlation reveals the similarity of expression patterns, the .2 value addresses overall magnitude changes between a treatment pair. The .2 values fell below 95% significance level at the first hour of treatment (Table 1), which indicated that the three oxidants did not show significant differences in their overall expression pattern. However, the expression differences between HP and MEN treatments appear to be significant at 3, 7, and 24 h resulting in .2 values that are much higher than the 95% significance level. The same is true between TBH and MEN treatments. Expression differ­ences between HP and TBH treatments were below significance level at all time points except at 7 h. The results of the difference analysis agree on the conclusion from the MDS analysis, suggesting an overall similarity of expression pattern between HP and TBH, whereas both treatments differ significantly with MEN. 
+Single Time Point versus Multiple Time Course Analysis. Rou­tinely, gene expression experiments are carried out using a single time point, optimized with some prior knowledge or supporting experi­ments. We assumed that oxidative treatment with different agents would perturb the cell at different times with different downstream effects. In an attempt to identify genes the expressions of which can be unambiguously detected from single-time-point measurements, we selected genes expressed or repressed 2-fold compared with untreated samples. Expression of all of the replicates at all of the time points and treatments measured for 446 selected genes was used for this purpose. A 100% agreement of three replicates showing 2-fold over-or under-expression was used instead of the average value. Using the 2-fold criterion at any time point, 44 genes were up-regulated and 80 genes were down-regulated, whereas 3 genes showed both up-and down-regulation at different time points. These analyses are in sharp contrast to those for the 421 genes that were determined to be significantly altered by the time analysis (see Fig. 1A) because single measure­ments do not permit an estimation of some of the systematic errors that are detectable by multiple time point measurements. 
+Table 2 lists the genes (of the 446 genes given in Fig. 1A) that were overexpressed more than 2-fold at each time point (boldface) after TBH, HP, and MEN treatment and also shows the distribution of these overexpressed genes at the other time points studied. For example, there were 60 genes overexpressed more than 2-fold in the 7th hour after TBH treatment. Among them, none (0) were overexpressed at 1 h, 27 were overexpressed at 3 h, only 22 were overexpressed at 7 h, and 18 continued to be overexpressed at 24 h. Clearly, if only the 
+
+Fig. 3. Selected expression patterns observed after treatment with HP, MEN, and TBH at 0, 1, 3, 7, and 24 h (left to right). Each expression pattern is a computed average of three replicates having good correlation and is relative to the untreated control. Comparison of patterns among HP, MEN, and TBH shows significant stimulus in one or two treatments and differences of expression profiles among HP, MEN, and TBH. Gene expression pro­file patterns: panels A, B, C, different examples of up-followed by down-regulation; D, down-regulation. 
+7th-hour measurement were taken, we would have missed genes uniquely associated with other time points; however, we obtained many of the genes shared with other time points (60 . 22 . 38 genes). 
+Oxidant-mediated Gene Expression. Table 3 shows 70 genes arranged in 12 subcategories of biological significance. Included are the ratios between the maximal:minimal induction and the times at which either the maximal or minimal induction was achieved. The greatest induction levels were for p53-related genes. HP and TBH treatment significantly elevated genes involved in the p53 response when compared with MEN treatment. This specific p53 pattern (Fig. 3B) was used to identify other potential p53-regulated genes, includ­ing GGT1, SLAM, and LIF, that have not been reported previously. An unexpected finding was that a number of genes known to be elevated by IL-6 and its analogues (LIF, OncostatinM) were induced by TBH treatment, but not by either HP or MEN treatment. Two genes (MGEA6, RNAHP), not previously noted in the literature as IL-6 responsive, have expression patterns that are similar to those of the other IL-6-regulated genes. In the signal transduction gene category, several immediate/early genes (ERG1, CYR61, NR4A1) were found to be overexpressed in the MEN-treated cells when compared with either HP-or TBH-treated cells. A number of genes that are regulated by the ARE were overexpressed by all three of the oxidants but to a greater extent by TBH treatment. Oxidative stress-related genes such as the HSP70 and HSP105 were overexpressed by MEN treatment and to a lesser extent by HP and TBH treatments. Expression of genes asso­ciated with oxidative stress and detoxification such as superoxide dismutase, catalase, and glutathione transferase, surprisingly, were not significantly influenced by any of the three oxidant treatments. 
+
+
+DISCUSSION 
+Global gene expression profiles of cells after exposure to oxidants may provide important clues as to how cells defend against oxidative stress. Because a relatively small number of expression profiling studies on oxidative stress have been reported, the current microarray analysis techniques may not be able to answer which of these re­sponses is necessary or, for that matter, sufficient. However, assessing secondary activation of genes and their consequences can offer insight into vagaries of control mechanisms and their downstream sequelae. This is particularly true when temporal profiles rather than “snap shot” (one time point) investigations are done. 
+
+
+Because HP, MEN, and TBH treatments would be expected to produce a different spectrum of, and/or a different concentration of free radical species in different intracellular compartments, it would not be surprising that different gene expression profiles would be 
+Table 1 Significance of overall expression differences between treatments HP and MEN, TBH and MEN, and HP and TBH as determined by modified .2 test using 446 genes 
+.2 value for . . 0.05 level is 495. .2 value above this level indicates significant difference. 
+.2 value calculated 
+Treatmentpair 1h 3h 7h 24h 
+HP-MEN 193 600 1019 884 TBH-MEN 215 704 1035 700 HP-TBH 193 492 605 378 
+Table 2 Number of genes overexpressed at each time point (second column) Numbers in bold represent genes that were uniquely overexpressed more than 2-fold, only at the time point indicated. Genes overexpressed more than 2-fold at other time points (in addition to the specified time point) are listed in columns 3 to 6. 
+Total no. of unique overexpressed  No. of genes expressed at other time points  
+genes at each  
+Time point (TBH)  time point  1h  3h  7h  24 h  
+TBH  
+1h  5*  6  1  0  0  
+3h  10  1  39  27  8  
+7h  22  0  27  60  18  
+24 h  13  0  8  18  32  
+HP  
+1h  0*  4  1  2  3  
+3h  7  1  25  16  9  
+7h  16  2  16  37  11  
+24 h  25  3  9  11  39  
+MEN  
+1h  2*  6  1  0  3  
+3h  12  1  26  13  3  
+7h  15  0  13  30  5  
+24 h  8  3  3  5  16  
+
+
+Table 3 Gene expression for HP-, MEN-, TBH-treated cells according to functional categories IMAGE clone identifications are shown in bold and IncytePD clones in regular text. Table shows the maximum:minimum ratio with the numbers in parentheses being the time point at which the maximum or minimum ratio occurs. 
+Oxidant  
+Names  Clone ID  HP  MEN  TBH  
+p53-regulated genes  
+prostate differentiation factor (PLAB)  788832  14.53 (7)  3.64 (7)  14.95 (3)  
+p21, Cip1 (CDKN1A)  1804548  10.65 (7)  5.02 (7)  9.83 (3)  
+Wip-1 (PPM1D)  2748141  5.33 (3)  1.46 (7)  5.66 (3)  
+BTG family, member 2 (BTG2)  1598617  4.04 (3)  1.58 (24)  5.96 (3)  
+dickkopf homolog 1 (DKK1)  669375  6.99 (7)  2.50 (3)  4.40 (7)  
+Maspin (SERPINB5)  1628341  9.09 (7)  2.56 (7)  2.87 (7)  
+CD95-Fas (TNFRSF6)  714213  7.64 (7)  2.78 (7)  3.77 (3)  
+ATF-3 (ATF3)  1888594  3.99 (3)  1.93 (3)  4.11 (3)  
+geranylgeranyltransferase type I (PGGT1B)  815861  13.78 (7)  3.88 (7)  12.16 (7)  
+signaling lymphocytic activation molecule (SLAM)  347764  5.14 (3)  1.45 (7)  5.77 (3)  
+LIF (LIF)  153025  2.26 (3)  1.30 (3)  2.08 (3)  
+IL-6-regulated genes  
+metallothionein (MT1H)  214162  1.26 (3)  1.55 (7)  4.61 (7)  
+metallothionein 1X (MT1X)  297392  1.19 (3)  1.28 (7)  3.83 (7)  
+metallothionein-IG (MT1G)  202535  1.27 (3)  1.50 (7)  3.88 (3)  
+metallothionein 2A (MT2A)  590150  1.28 (3)  1.82 (7)  4.28 (7)  
+fibrinogen, . polypeptide (FGP)  119882  1.31 (3)  1.28 (3)  3.51 (3)  
+proteasome, 26S subunit (PSMD12)  823598  1.26 (3)  1.25 (7)  2.48 (7)  
+Protein phosphatase 2A catalytic subunit (PPP2CB)  823876  1.05 (7)  1.20 (7)  2.24 (7)  
+meningioma-expressed antigen 6 (MGEA6)  122915  1.22 (3)  1.34 (7)  4.84 (3)  
+RNA-HP (RNAHP)  2757583  1.16 (3)  1.44 (7)  4.64 (3)  
+Adherent-regulated genes  
+lamin B receptor (LBR)  1803808  .3.14 (24)  .1.76 (24)  .2.72 (7)  
+tubulin, . 3 (TUBA3)  1470060  .3.23 (24)  .1.70 (24)  .3.41 (24)  
+Signal transduction genes  
+insulin-like growth factor binding protein 5 (IGFBP5)  2212182  7.39 (24)  2.57 (24)  4.92 (24)  
+pregnancy-induced growth inhibitor (OKL38)  955807  6.17 (3)  10.42 (7)  5.45 (3)  
+early growth response 1 (EGR1)  840944  6.47 (3)  6.83 (7)  3.89 (7)  
+cysteine-rich, angiogenic inducer, 61 (CYR61)  1514989  2.65 (3)  3.90 (3)  1.79 (3)  
+Nu77 homolog (NR4A1)  1958560  2.71 (3)  4.21 (3)  2.88 (3)  
+glutamate receptor, ionotropic (GRIN2C)  1890164  1.79 (3)  4.03 (24)  3.48 (24)  
+inhibin, beta . (INHBB)  1504993  1.44 (24)  3.32 (7)  2.23 (24)  
+Cell cycle-regulated genes  
+serine/threonine kinase 12 (STK12)  161207  .3.26 (7)  .1.56 (24)  .2.80 (7)  
+polo-like kinase (PLK)  744047  .6.68 (7)  .1.66 (7)  .4.66 (7)  
+CHK1 (CHEK1)  246524  .2.05 (7)  .1.66 (24)  .1.96 (7)  
+H4 histone family, member G (H4FG)  1461138  .4.57 (24)  .1.43 (24)  .3.65 (24)  
+cyclin A (CCNA2)  950690  .2.98 (7)  .1.47 (7)  .3.96 (7)  
+centromere protein A (CENPA)  2444942  .3.95 (7)  .1.60 (24)  .3.97 (7)  
+thymidine kinase 1, soluble (TK1)  2055926  .3.34 (24)  .1.74 (24)  .3.07 (24)  
+cAMP/Ca.. regulated genes  
+3HMCoA reductase (HMGCR)  160822  2.21 (7)  2.14 (7)  2.53 (7)  
+LDL receptor-related protein 6 (LRP6)  322547  1.66 (7)  1.17 (7)  2.13 (7)  
+low-density lipoprotein receptor (LDLR)  1986809  2.02 (3)  2.63 (3)  3.08 (3)  
+adenylate cyclase 3 (ADCY3)  897793  .2.58 (7)  .1.57 (24)  .2.18 (7)  
+S100 calcium binding Protein P (S100P)  2060823  4.66 (24)  1.69 (24)  3.70 (24)  
+DNA damage/repair regulated genes  
+flap structure-specific endonuclease 1(FEN1)  2050085  .2.88 (24)  .2.09 (24)  .3.19 (24)  
+GADD153 (DD1T3)  361456  1.62 (3)  1.36 (7)  1.93 (7)  
+polymerase, epsilon 2 (POLE2)  4521835  .2.85 (7)  .1.61 (24)  .2.44 (7)  
+uracil DNA-glycosylase (UNG)  49464  .2.16 (7)  .1.45 (24)  .2.48 (7)  
+Transcription factors regulated genes  
+forkhead box M1 (FOXM1)  1516301  .3.78 (7)  .2.04 (7)  .3.68 (7)  
+v-maf, protein G (MAFG)  1965689  1.35 (7)  1.49 (3)  2.11 (7)  
+v-jun avian sarcoma virus homolog (JUN)  358531  1.73 (3)  1.68 (3)  2.03 (3)  
+Protein degradation regulated genes  
+ubiquitin-conjugating enzyme E2C (UBE2C)  769921  .3.90 (7)  .1.50 (24)  .3.77 (7)  
+ubiquitin ligase (TOM1)  1879811  2.05 (7)  2.83 (7)  3.07 (7)  
+Oxidative/Stress regulated Genes  
+heat shock 70kD protein 1B (HSPA1B)  2492634  1.73 (3)  2.38 (7)  1.53 (3)  
+heat shock 70kD protein 1A (HSPA1A)  1696224  1.31 (7)  4.21 (7)  1.68 (3)  
+heat shock 70kD protein 6 (HSP70B.)  2123516  1.69 (7)  3.52 (7)  1.59 (3)  
+phospholipase A2 receptor 1 (PLA2R1)  511303  2.61 (24)  1.64 (3)  2.44 (24)  
+glutathione peroxidase 2 (GPX2)  1633118  1.55 (7)  1.75 (24)  1.45 (7)  
+glutaredoxin (GLRX)  1238577  2.34 (1)  2.17 (1)  1.96 (1)  
+Cytokines/Hormones regulated genes  
+endothelin-1 (EDN1)  47359  7.00 (7)  7.05 (3)  5.59 (7)  
+amphiregulin (AREG)  2352645  2.90 (7)  2.23 (3)  1.84 (7)  
+thymopoietin (TMPO)  2289176  .2.89 (7)  .1.28 (24)  .2.77 (7)  
+somatostatin (SST)  2494617  .1.81 (7)  .1.28 (7)  .1.79 (24)  
+
+Oxidant  
+Names  Clone ID  HP  MEN  TBH  
+ARE-regulated genes  
+dihydrodiol dehydrogenase 2 (AKR1C2)  2449395  2.48 (24)  2.09 (24)  4.31 (7)  
+cationic amino acid transporter, y. system (SLC7A11)  1397926  5.62 (7)  4.03 (7)  8.33 (7)  
+glutamate-cysteine ligase, modifier subunit (GCLM)  132212  1.63 (7)  2.00 (7)  2.82 (7)  
+heme oxygenase 1 (HMOX1)  85259  1.05 (7)  1.37 (7)  1.51 (7)  
+NAD(P)H dehydrogenase (NQO1)  813387  1.25 (7)  1.25 (7)  1.71 (7)  
+malic enzyme 1, NADP(.)-dependent (ME1)  2622181  1.51 (7)  1.85 (7)  2.02 (7)  
+thioredoxin reductase 1 (TXNRD1)  630625  3.84 (7)  3.92 (7)  5.23 (7)  
+cytochrome P450 IB1 (CYP1B1)  782760  3.16 (7)  3.26 (3)  3.61 (7)  
+ferredoxin reductase (FDXR)  2409863  1.89 (7)  1.56 (24)  2.57 (7)  
+ferritin, light polypeptide (FTL)  2868138  1.21 (24)  1.25 (24)  1.62 (7)  
+
+elicited from the three oxidants. Surprisingly, the data of the present study show a greater commonality with regards to gene expression rather than highly unique mRNA expression profiles. The different magnitude of expression levels for HP, TBH and MEN treatments may result in statistical significance between three treatments as shown in Fig. 1B and .2 values (Table 1). 
+Reproducibility of Replicate Experiments. Systematic develop­ment of statistical significance of expressions measured by cDNA microarrays can be found in some recent reports (18 –20). However, rigorous methods of analyzing time-dependent data set with relatively few time points and without obvious oscillation model are apparently lacking. 
+To alleviate the difficulty of assessing the significance of response to the oxidative agents used in the present study, we chose to use replicate measurements at each time point to estimate the reproduc­ibility levels explicitly for every spot. The reproducibility of expres­sion was interrogated by the calculation of average and variance of expression ratios using replicate experiments for all of the time points separately. The median level of variance corresponds to a ratio of .1.5-fold, which suggests that an expression ratio of .2-fold is a valid means of selecting significant response to the treatment. Aver­
+– 
+aging the replicated experiments effectively reduced noise by .n, where n is the number of replicates. The strategy appears to be reasonable as seen by the reproducible patterns of a variety of genes with similar function as shown in Fig. 3A. Reproducibility is also evident in some cases with lower than a 2-fold change (in Fig. 3A, MEN). 
+Gene Expression Patterns after Oxidative Treatment. To assess the significance of gene expression levels in response to the treatment, one may attempt to choose an optimal time point when most genes respond to the treatment. However, single-time-point measurements can reveal limited information compared with a time course pattern. A time course pattern shows gradual change in expressions giving importance to low expressions as well as high expression changes. For instance, a significant change in expression of many genes at 3 and 7 h after treatment support the expressions observed at 1 h that are consistent with the path of expression within the same gene and within a cluster of genes. Additionally, the confidence in a time course pattern increases, even at lower statistical significance level of ex­pressions, when significant patterns of similar clones are available. To use this important observation, we chose the template-based time course analysis method because a set of preselected response-templates may possess certain characteristics of a smooth response and thereby ensure reinforcement between gene expression measure­ments from adjacent time points. At the same time, a smooth response pattern also eliminates noise patterns that render no biological mean­ing at all. To further reduce the rate of false selection of genes that respond to the treatment besides requiring matching similarity of 0.85 and minimum 2-fold change during the time course, we assessed the probability that the preselected templates may meet the same criterion when random noise (simulated, based on the parameters estimated from each gene) were presented. By requiring the probability of selecting genes with random expression values in all three replicate experiments to be small enough, we used the advantages offered by replicate experiments (template pattern for time-dependent data set, average of replicated time point for noise reduction, P assessment from three replicate experiments) to ensure consistency among three replicates. 
+Antioxidant Response. Given the importance of cell redox in maintaining protein structure and function, MCF7 cells responded to all three oxidants by overexpressing a number of genes responsible for returning cells to a more reducing state. For example, both GPX (glutathione peroxidase) and GLRX (glutaradoxin) were induced dur­ing the oxidant exposure time and remained elevated for 24 h. Genes for cystine transport (SLC7A11), glutamate transport (GRIN2C), and GSH synthesis (GCLM) were up-regulated. Finally, TXNRD1 was also significantly overexpressed, presumably to aid in the reduction of oxidized protein sulfhydryls. TBH induced the highest expression of the antioxidant genes. As noted above, we unexpectedly found neither superoxide dismutase nor catalase expression to be induced. However, a number of other ARE-containing genes were induced by the three oxidants (Table 3). TBH was particularly effective in inducing these genes. This robust activation of ARE by TBH could make the cells more resistant to subsequent exposure to oxidants than HP treatment. Likewise, MEN-treated cells may be more resistant by virtue of the heat shock response because it is known that overexpression of the constitutive form of HSP 70 confers oxidative protection (21). 
+p53 Response. Eleven p53-regulated genes were induced by all three of the oxidants, presumably because of DNA damage. Among the genes induced by the three oxidants were genes that heretofore have not been associated with the inducible p53 response (SLAM, LIF, PGGT1B). Nonetheless, they exhibit patterns of response consistent with genes that are known to be modulated by p53 such as PLAB (22), PPM1D (23), and BTG2 (24). IL-6 mRNA regulation has been linked to wild-type p53 when overexpression of wild-type p53 inhibits IL-6 expression (25). On the other hand, it has been reported that UV irradiation up-regulates LIF expression and secretion in human kera­tinocytes (26). This conflicting data may be explained by the differ­ences in phosphorylation status of p53 induced by different cytotoxic conditions (27). PPM1D has been shown to dephosphorylate and inactivate p38 MAPK (23). Because p38 MAPK is known to regulate the p53 response, the induction of PPM1D may be an important mechanism that suppresses the p53 response and possibly prevents apoptosis (23). We cannot rule out the possibility of other mechanisms for the induction of SLAM, LIF,or PGGT1B genes based on these results alone. 
+IL-6 Response. A key finding of the study was that both HP and TBH increased the LIF transcript, but only the TBH-treated cells exhibited an IL-6 like-response. IL-6 is associated with a proinflam­matory response, which may result from free radical generation as a part of the inflammatory response (28). LIF is an IL-6 type cytokine, which can share the same receptor as IL-6 and elicits most of the responses that IL-6 generates (29). Genes responding to the IL-6 response included FGP, MT1, MT2, and PP2A (30–32). Importantly, it has been shown that LIF functions as a growth factor in MCF7 cells, presumably through the erb-b2-gp130 interaction (33). MT is of particular interest because others have shown that oxidants induce both MT-1 and MT-2 (34). It is clear from our studies, however, that HP did not induce MT1 or MT2 expression. Dalton et al. (35) showed that HP could induce MT1 overexpression in Hepa cells; however, it was also noted that other cell lines did not respond to HP by increas­ing MT1 (35). The authors noted that the MT1 HP response was dependent on the volume of media used, the amount of serum used in the medium, and the reductive capacity of the cells (35). These factors can influence the amount of HP in the medium and cytosol. Although the concentration of HP used in the present study resulted in cytotox­icity, it may not have reached the concentration required to induce MT1 overexpression. 
+
+Heat Shock Response. Cells treated with either MEN or TBH induced HSP-associated genes to a similar extent by 3 h; whereas, HP-treated cells did not. Xie et al. (36) showed that the nuclear factor of IL-6 and the heat shock transcription factor 1 can interact with each other to reduce the effect of either transcription activator depending on their relative quantities. Perhaps the mutually antagonistic nature of the HSP and the IL-6 responses account for these findings. It is also well documented that a proinflammatory response can inhibit a heat shock response and vice versa (37). 
+Up-and down-regulation of cytokine/hormones (LIF, EDN1, CTGF, AREG, TMPO, and SST) by each of the oxidants was most impressive. Several mechanisms of oxidative stress-mediated signal transduction pathway inhibition may be involved, but one that is currently of interest is the finding that HP inhibits tyrosine and serine/threonine phosphatases (38, 39). Meng et al. (40) showed that HP oxidatively modifies the SHP-2 PTPs resulting in SHP-2 inhibi­tion. This inhibition increased phosphorylation on a number of recep­tor and nonreceptor tyrosine kinases (11). Importantly, TBH could not oxidize SHP-2 PTP because of steric hindrance (38). Moreover, the PTP cysteine oxidation was reversed by GSH or thioredoxin-mediated reduction, such that the SHP-2 protein regained full activity (40). The SHP-2 PTP is an intricate component of both epidermal growth factor receptor signaling as well as the gp130-IL6 receptor group (29, 40). Unlike HP, TBH primarily partitions into membranes and perhaps this compartmentalization also prevents significant PTP oxidation. 
+Survival differences between the MEN and TBH or HP could explain some of the different patterns of gene expression (see MDS plot, Fig. 1B). Although beyond the scope of the present study, experiments are planned to determine whether gene expression pro­files differ for treatment with various concentrations (and survival levels) of MEN. The variability observed in the present study, with respect to both survival and gene expression profiles among experi­ments, serve to underscore the importance of conducting independent replicate experiments for gene expression studies. Although it is important to include intra-experimental controls (same sample run on replicate chips, and/or performing dye reversal Cy3/Cy5 studies), because of biological variability it is indeed important to replicate experiments. The present study demonstrates the statistical strength that both replicate and time course studies provide for gene expression studies. There is currently a trend in microarray-based gene expres­sion studies to increase the stringency associated with “true” gene induction by accepting only genes that are .3–4-fold expressed. Whereas this convenient criterion will assure more certainty, such certainty will be gained at the expense of potentially forfeiting infor­mation that can be harvested as a result of more subtle changes that occur over time in the cellular milieu. We have introduced several methods to analyze bioinformatic data resulting from stress by three oxidants. By using replicate studies and multiple time points, we have been able to examine changes in gene expression of .2-fold and at times as low as .1.5-fold and, consequently, to evaluate more infor­mation. The ability to interrogate more subtle perturbations in gene expression and ascertain how they relate to more robust, better-defined pathways should enable a more complete understanding of the complex responses associated with oxidative stress. 
+
+
+ACKNOWLEDGMENTS 
+We thank Dr. David Gius for helpful discussions and critical review of the manuscript. 
+
+
+REFERENCES 
+1. 
+Chance, B., Sies, H., and Boveris, A. Hydroperoxide metabolism in mammalian organs. Physiol. Rev., 59: 527–605, 1979. 
+
+2. 
+Cadenas, E., and Davies, K. J. A. Mitchondrial free radical generation: oxidative stress and aging. Free Radic. Biol. Med., 29: 222–230, 2000. 
+
+3. 
+Thannickal, V. J., and Fansburg, B. L. Reactive oxygen species in cell signaling. Am. J. Physiol. Lung Cell Mol. Physiol., 279: L1005–L1028, 2000. 
+
+4. 
+Halliwell, B., and Gutteridge, J. M. C. Free Radicals in Biology and Medicine, Ed. 3. Oxford, United Kingdom: Oxford University Press, pp. 246 –350, 1999. 
+
+5. 
+Dalton, T. P., Shertzer, H. G., and Puga, A. Regulation of gene expression by reactive oxygen. Annu. Rev. Pharmacol. Toxicol., 39: 67–101, 1999. 
+
+6. 
+Schena, M., Shalon, D., Davis, R. W., and Brown, P. O. Quantitative monitoring of gene expression patterns with a complementary DNA microarray. Science (Wash. DC), 270: 467–470, 1995. 
+
+7. 
+DeRisi, J. L., Iyer, V. R., and Brown, P. O. Exploring the metabolic and genetic control of gene expression on a genomic scale. Science (Wash. DC), 278: 680–686, 1997. 
+
+8. 
+Eisen, M. B., Spellman, P. T., Brown, P. O., and Botstein, D. Cluster analysis and display of genome-wide expression patterns. Proc. Natl. Acad. Sci. USA, 95: 14863– 14868, 1998. 
+
+9. 
+Mariadason, J. M., Corner, G. A., and Augenlicht, L. H. Genetic reprogramming in pathways of colonic cell maturation induced by short chain fatty acids: comparison with trichostatin A, sulindac, and curcumin and implications for chemoprevention of colon cancer. Cancer Res., 60: 4561–4572, 2000. 
+
+10. 
+Imlay, J. A., Chin, S. M., and Linn, S. Toxic DNA damage by hydrogen peroxide through the Fenton reaction in vivo and in vitro. Science (Wash. DC), 240: 640–642, 1988. 
+
+11. 
+Rhee, S. G., Bae, Y. S., Lee, S. R., and Kwon, J. Hydrogen peroxide: a key messenger that modulates protein phosphorylation through cysteine oxidation. Sci. STKE, 2000: 1–6, 2000. 
+
+12. 
+Thor, H., Smith, M. T., Hartzill, P., Bellomo, G., Jewell, S. A., and Orrenius, S. The metabolism of menadione (2-methyl-1,4-naphthaquinone) by isolated hepatocytes. 
+
+J. Biol. Chem., 257: 12419–12425, 1982. 
+
+13. 
+Taffe, B. G., Takahashi, N., Kensler, T. W., and Mason, R. P. Generation of free radicals from organic hydroperoxide tumor promoters in isolated mouse keratino­cytes. Formation of alkyl and alkoxyl radicals from tert-butyl hydroperoxide and cumene hydroperoxide. J. Biol. Chem., 262: 12143–12149, 1987. 
+
+14. 
+Mitchell, J. B., Samuni, A., Krishna, M. C., DeGraff, W. G., Ahn, M. S., Samuni, U., and Russo, A. Biologically active metal-independent superoxide dismutase mimics. Biochemistry, 29: 2802–2807, 1990. 
+
+15. 
+Eisen, M. B., and Brown, P. O. DNA arrays for analysis of gene expression. Methods Enzymol., 303: 179–205, 1999. 
+
+16. 
+Khan, J., Simon, R., Bittner, M., Chen, Y., Leighton, S. B., Pohida, T., Smith, P. D., Jiang, Y., Gooden, G. C., Trent, J. M., and Meltzer, P. S. Gene expression profiling of alveolar rhabdomyosarcoma with cDNA microarrays. Cancer Res., 58: 5009– 5013, 1998. 
+
+17. 
+Mousses, S., Wagner, U., Chen, Y., Kim, J. W., Bubendorf, L., Bittner, M., Pretlow, T., Elkahloun, A. G., Trepel, J. B., and Kallioniemi, O. P. Failure of hormone therapy in prostate cancer involves systematic restoration of androgen responsive genes and activation of rapamycin sensitive signaling. Oncogene, 20: 6718–6723, 2001. 
+
+18. 
+Tusher, V. G., Tibshirani, R., and Chu, G. Significance analysis of microarrays applied to the ionizing radiation response. Proc. Natl. Acad. Sci. USA, 98: 5116– 5121, 2001. 
+
+19. 
+Kerr, M. K., Martin, M., and Churchill, G. A. Analysis of variance for gene expression microarray data. J. Comput. Biol., 7: 819–837, 2000. 
+
+20. 
+Chen, Y., Kamat, V., Dougherty, E. R., Bittner, M. L., Meltzer, P. S., and Trent, J. M. Ratio statistics of gene expression levels and applications to microarray data analysis. Bioinformatics, 18: 1207–1215, 2002. 
+
+21. 
+Chong, K. Y., Lai, C. C., Lille, S., Chang, C., and Su, C. Y. Stable overexpression of the constitutive form of heat shock protein 70 confers oxidative protection. J. Mol. Cell. Cardiol., 30: 599–608, 1998. 
+
+
+
+22. 
+Kannan, K., Amariglio, N., Rechavi, G., and Givol, D. Profile of gene expression regulated by induced p53: connection to the TGF-. family. FEBS Lett., 470: 77–82, 2000. 
+
+23. 
+Takekawa, M., Adachi, M., Nakahata, A., Nakayama, I., Itoh, F., Tsukuda, H., Taya, Y., and Imai, K. p53-inducible wip1 phosphatase mediates a negative feedback regulation of p38 MAPK-p53 signaling in response to UV radiation. EMBO J., 19: 6517–6526, 2000. 
+
+24. 
+Tirone, F. The gene PC3 TI S21/BTG2, protype member of the PC3/BTG/TOB family: regulator in control of cell growth, differentiation, and DNA repair? J. Cell Physiol., 187: 155–165, 2001. 
+
+25.	
+Angelo, L. S., Talpaz, M., and Kurzrock, R. Autocrine interleukin-6 production in renal cell carcinoma: evidence for the involvement of p53. Cancer Res., 62: 932–940, 2002. 
+
+26. 
+McKenzie, R. C. Ultraviolet radiation B (UVB)-induction of Leukaemia Inhibitory Factor (LIF) in human keratinocytes. Photodermatol. Photoimmunol. Photomed., 17: 284–285, 2001. 
+
+27. 
+Keller, D., Zeng, X., Li, X., Kapoor, M., Iordanov, M. S., Taya, Y., Lozano, G., Magun, B., and Lu, H. The p38MAPK inhibitor SB203580 alleviates ultraviolet-induced phosphorylation at serine 389 but not serine 15 and activation of p53. Biochem. Biophys. Res. Commun., 261: 464–471, 1999. 
+
+28. 
+Gadient, R. A., and Patterson, P. H. Leukemia inhibitory factor, interleukin 6, and other cytokines using the GP130 transducing receptor: roles in inflammation and injury. Stem Cells (Dayton), 17: 127–137, 1999. 
+
+29. 
+Heinrich, P. C., Behrmann, I., Muller-Newen, G., Schaper, F., and Graeve, L. Interleukin-6-type cytokine signalling through the gp130/Jak/STAT pathway. Bio­chem. J., 334: 297–314, 1998. 
+
+30. 
+Fuller, G. M., and Zhang, Z. Transcriptional control mechanism of fibrinogen gene expression. Ann. N. Y. Acad. Sci., 936: 469–479, 2001. 
+
+
+31.	
+Hernandez, J., and Hidalgo, J. Endotoxin and intracerebroventricular injection of IL-1 and IL-6 induce rat brain metallothionein-I and -II. Neurochem. Int., 32: 369–373, 1998. 
+
+32. 
+Choi, I., Lee, M. J., Kim, E. J., Kang, H. S., and Pyun, K. H. Roles of protein phosphatase 2A in IL-6 signal transduction in Hep3B cells. Immunol. Lett., 61: 103–107, 1998. 
+
+33. 
+Qiu, Y., Ravi, L., and Kung, H. J. Requirement of ErbB2 for signalling by interleu­kin-6 in prostate carcinoma cells. Nature (Lond.), 393: 83–85, 1998. 
+
+34. 
+Ghoshal, K., and Jacob, S. T. Regulation of metallothionein gene expression. Prog. Nucleic Acid Res. Mol. Biol., 66: 357–384, 2001. 
+
+35. 
+Dalton, T., Palmiter, R. D., and Andrews, G. K. Transcriptional induction of the mouse metallothionein-I gene in hydrogen peroxide-treated Hepa cells involves a composite major late transcription factor/antioxidant response element and metal response promoter elements. Nucleic Acids Res., 22: 5016–5023, 1994. 
+
+36. 
+Xie, Y., Chen, C., Stevenson, M. A., Hume, D. A., Auron, P. E., and Calderwood, 
+
+S. K. NF-IL6 and HSF1 have mutually antagonistic effects on Transcription in monocytic cells. Biochem. Biophys. Res. Commun., 291: 1071–1080, 2002. 
+
+37. 
+Xie, Y., Chen, C., Stevenson, M. A., Auron, P. E., and Calderwood, S. K. Heat shock factor 1 represses transcription of the IL-1. gene through physical interaction with the nuclear factor of interleukin 6. J. Biol. Chem., 277: 11802–11810, 2002. 
+
+38. 
+Denu, J. M., and Tanner, K. G. Specific and reversible inactivation of protein tyrosine phosphatases by hydrogen peroxide: evidence for a sulfenic acid intermediate and implications for redox regulation. Biochemistry, 37: 5633–5642, 1998. 
+
+39. 
+Bogumil, R., Namgaladze, D., Schaarschmidt, D., Schmachtel, T., Hellstern, S., Mutzel, R., and Ullrich, V. Inactivation of calcineurin by hydrogen peroxide and phenylarsine oxide. Evidence for a dithiol-disulfide equilibrium and implications for redox regulation. Eur. J. Biochem., 267: 1407–1415, 2000. 
+
+40. 
+Meng, T. C., Fukada, T., and Tonks, N. K. Reversible oxidation and inactivation of protein tyrosine phosphatases in vivo. Mol. Cell, 9: 387–399, 2002. 
+
+
+
+
+
+

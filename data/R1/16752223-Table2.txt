@@ -1,0 +1,12 @@
+Gene symbol	Genbank	Parametric p-value	% CV support	RD^a	pCR^b	Fold difference^c	Description
+ABCC5	AF146074	0.000368	100	6009.1	2427.5	2.48	ABC, sub-family C (CFTR/MRP), member 5
+ABCC5	BE550362	0.000463	100	3571.5	1234.4	2.89	ABC, sub-family C (CFTR/MRP), member 5
+ABCA12	AL080207	0.000795	100	711.7	93.1	7.64	ABC, sub-family A (ABC1), member 12
+ABCA1	AL833227	0.000859	100	166.8	50.5	3.3	ABC, sub-family A (ABC1), member 1
+CFTR	NM_000492	0.00703	100	27.7	104.4	0.27	cystic fibrosis transmembrane conductance regulator, ABC (sub-family C, member 7)
+ABCF2	NM_005692	0.015901	100	49.4	154.1	0.32	ABC, sub-family F (GCN20), member 2
+TAP2	M74447	0.019345	89	543.4	1008.5	0.54	Transporter 2, ABC, sub-family B (MDR/TAP)
+ABCC13	NM_172025	0.019377	100	157.5	20.9	7.54	ABC, sub-family C (CFTR/MRP), member 13
+ABCB6	NM_005689	0.027077	89	1471.9	677.5	2.17	ABC, sub-family B (MDR/TAP), member 6
+TAP2	AA573502	0.042069	58	1740.5	2802	0.62	Transporter 2, ABC, sub-family B (MDR/TAP)
+ABCC11	AF352582	0.048626	42	160.9	59.4	2.71	ABC, sub-family C (CFTR/MRP), member 11

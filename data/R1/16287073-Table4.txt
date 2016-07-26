@@ -1,0 +1,17 @@
+Gene Symbol	Gene Description	Microarray gene selection (n = 24) Mann-Whitney (p-value)	Microarray gene selection (n = 24) ROC (p-value)	qRT-PCR comparison (n = 20)1 Mann-Whitney (p-value)
+TOP2A	Topoisomerase II alpha	<0.005	0.016	0.002
+LBR	Lamin B Receptor	<0.005	0.016	0.003
+SGPP1	Sphingosine-1-phosphate phosphatase	0.006	0.036	0.005
+PCNA	Proliferating cell nuclear antigen	0.01	0.008	0.01
+ASS	Argininosuccinate synthetase	0.014	0.044	0.032
+COL3A1	Collagen type 3 alpha 1	0.036	0.016	0.04
+FN1	Fibronectin 1	0.036	0.036	0.04
+STK6	Serine/threonine kinase 6	0.012	0.063	0.04
+ITGAE	Integrin alpha E	0.01	0.005	0.05
+CDC42EP4	CDC42 effector protein 4	0.017	0.075	0.074
+HDAC2	Histone deacetylase 2	0.006	0.036	0.15
+INPP5A	Inositol polyphosphate-5-phosphatase	0.008	0.036	0.176
+WTAP	Wilms tumor 1-associating protein	<0.005	0.013	0.206
+HIF1A	Hypoxia-inducible factor 1 alpha	0.06	0.063	0.316
+SENP6	SUMO-1/sentrin specific protease 6	0.014	0.036	0.695
+ZNF74	Zinc finger protein 74	<0.005	0.02	0.965

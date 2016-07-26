@@ -1,0 +1,98 @@
+Clone ID	Unigene no.	GenBank ID	Gene Symbol	Description	Putative function	Fold Change HEC-151	Fold Change HHUA	Fold Change Ishikawa
+A0493	Hs.238990		p27;Kip1;CDKN1B	CDK inhibitor 1B	Cell cycle arrest	0.1	3.6	6.8
+A0485	Hs.72901		p15;INK4B;CDKN2B	CDK inhibitor 2B	Cell cycle arrest	0.1	2.9	4.4
+A1775	Hs.183874		CUL4A	Cullin 4A	Cell cycle arrest	23.3	1.2	(-)b
+A1778	Hs.77054		BTG1	B-cell translocation gene 1	Cell cycle arrest (tob family)	0.1	2	6.5
+A2469	Hs.118442		CCNC	Cyclin C	Cell cycle arrest (target genes of VD)	3.1	0.8	(-)
+A1800	Hs.77313		CDK10	Cyclin-dependent kinase 10	Cell cycle	3.3	2.2	8.7
+A4817	Hs.20938		SCR3	RNA-binding protein	Fundamental function (translation)	2.8	2.7	1.4
+A2278	Hs.49007		PAP	Poly(A) polymerase	Fundamental function (RNA processing)	0.1	1.3	1.8
+A2519	Hs.3530		TASR	TLS-associated serine-arginine protein	Fundamental function (RNA processing)	8.8	0.9	1.2
+A1421	Hs.79658		CSNK1E	Casein kinase I epsilon	Fundamental function (DNA replication and repair)	2.6	2.2	2.1
+A4659	Hs.8997		HSPA1A	Heat shock 70kD protein 1	Fundamental function (inhibition of protein degradation)	3.7	8	1.4
+A4602	Hs.4147		TRAM	Translocating chain-associating membrane protein	Fundamental function (protein translocation)	3.7	1.4	0.9
+A4329	Hs.92962		SEC23A	Sec23 homolog A	Fundamental function (protein transport)	5.9	1.2	2
+A3979	Hs.139336		ABCC4	ATP-binding cassette member 4	Fundamental function (anion transporter)	87.3	1.8	0.9
+A1348		AF065164	HCN2	Hyperpolarization-activated channel 2	Fundamental function (channel)	45.8	5.2	3.3
+A4927	Hs.194625		DNCLI2	Dynein light intermediate chain 2	Fundamental function (motor protein)	0.1	1.8	1.6
+A1703	Hs.154546		STX5A	Syntaxin 5A	Fundamental function (vesicle transport)	2.8	1.2	1
+A1174	Hs.112378		LIMS1	LIM and senescent cell antigen-like domains 1	Immune response (cell antigen)	55.5	1.6	1.7
+A4683	Hs.177559		IFNGR2	Interferon . receptor 2	Immune response	3.2	0.9	1.7
+A2244	Hs.73895		TNFRSF9	TNF-receptor superfamily, member 9	Signal transduction (TNF and TNF receptor family)	2.1	2.9	(-)
+A1281	Hs.129844		TNFRSF10D	Decoy receptor 2	Signal transduction (TNF and TNF receptor family)	3	1.5	1.1
+A1095	Hs.81791		TNFRSF11B	TNF receptor superfamily member 11b	Signal transduction (TNF and TNF receptor family)	0.1	1.5	(-)
+A0137	Hs.89862		TRADD	TNFRSF1A-associated via death domain	Signal transduction (TNF-associated protein)	4.2	2.1	1.9
+A6286	Hs.8375		TRAF4	TNF-receptor-associated factor 4	Signal transduction (TNF receptor-associated factor)	2.3	1.3	1.5
+A1717	Hs.76090		TNFAIP1	TNF . induced protein 1	Signal transduction (TNF-induced protein)	3.4	1.5	2
+A1329	Hs.124024		DTX1	Deltex	Signal transduction (notch-signalling pathway)	10	32.5	0.1
+A3662	Hs.91143		JAG1	Jagged1	Signal transduction (notch-signalling pathway)	38.4	1.3	0.8
+A9582	Hs.173063		TLE2	Transducin like enhancer of split 2	Signal transduction (notch-signalling pathway)	2.5	7.8	5.9
+A2748	Hs.3260		PSEN1	Presenillin 1	Signal transduction (notch-signalling pathway)	2.7	1.2	1.5
+A4947	Hs.46348		BDKRB1	Bradykinin receptor B1	Signal transduction (G protein-coupled receptor)	2.8	3.1	0.7
+A5864	Hs.183800		RANGAP1	Ran GTPase-activating protein 1	Signal transduction (small G)	6.7	1.8	1.8
+A4887	Hs.37604		ARHGAP5	Rho GTPase-activating protein 5	Signal transduction (small G)	27.7	1.9	1.2
+A0436	Hs.102402		MAD4	Mad4 homolog	Signal transduction (Mad family)	2	2.7	12.9
+A5022	Hs.153863		MADH6	MAD homolog 6	Signal transduction (Mad family)	3.8	2.1	1.7
+A0578	Hs.171695		DUSP1	Dual specificity phosphatase 1	Signal transduction (MAP kinase inhibition)	3.6	2.4	(-)
+A1686	Hs.75842		DYRK1A	Protein kinase	Signal transduction (kinase)	2.7	1.2	1.4
+A0964	Hs.75339		INPPL1	Inositol polyphosphate phosphatase-like 1	Signal transduction (phosphatase)	2.1	2.7	2.1
+A1984	Hs.155079		PPP2R5A	Protein phosphatase 2A regulatory subunit B	Signal transduction (phosphatase)	2.9	1.2	1.4
+A1270	Hs.123085		CBX4	Chromobox homolog 4	Signal transduction (repressor of protooncogene)	3.5	1.9	(-)
+A2849	Hs.80962		NTS	Neurotensin	Signal transduction (neurotransmitter)	24.6	2.7	1.2
+A1673	Hs.75789		NDRG1	Drg1 protein	Signal transduction (potential cancer suppressor gene)	3.5	1.3	(-)
+A1046	Hs.621		LGALS3	Galectin 3	Signal transduction	8.6	1.1	1.1
+A4601	Hs.14601		HCLS1	Haematopoietic lineage cell-specific protein	Signal transduction	10.2	2.1	1.2
+A4733	Hs.7879		IFRD1	Interferon-related developmental regulator 1	Signal transduction	3	0.3	0.7
+A3714	Hs.112049		SBF1	SET-binding factor 1	Signal transduction	2.6	1.7	0.9
+A0341	Hs.2780		JUND	jun D	Transcription factor (negative regulation of cell proliferation)	2.5	2.7	2.5
+A2872	Hs.131953		MAFK	Basic leucine zipper transcription factor	Transcription factor	19.6	1.7	2.5
+A0857	Hs.1004		BR140	Bromodomain-containing protein	Transcription factor	3.2	2	(-)
+A0551	Hs.54473		CSX	Cardiac-specific homeo box	Transcription factor	4.1	1.7	2.5
+A4266	Hs.82071		CITED2	Cbp/p300-interacting transactivator	Transcription factor	15.6	1.3	5.8
+A0011	Hs.4055		COPEB	Core promoter element-binding protein	Transcription factor	6.5	2.5	2.2
+A0438	Hs.1395		EGR2	Early growth response 2	Transcription factor	2.5	(-)	(-)
+A1367	Hs.84728		BTEB2	GC-box-binding protein	Transcription factor	7.1	1.7	(-)
+A4622	Hs.184122		GTF2I	General transcription factor II, I	Transcription factor	2.8	2.8	3.1
+A5048	Hs.34853		ID4	Inhibitor of DNA-binding 4	Transcription factor	19.1	(-)	11.2
+A1923	Hs.78788		LZTR1	Leucine zipper like transcriptional regulator 1	Transcription factor	2.9	1.9	1.7
+A0121	Hs.167923		MEF2D	MADS box transcription enhancer factor 2	Transcription factor	5.3	2	(-)
+A2006	Hs.79334		NFIL3	Nuclear factor, interleukin 3-regulated	Transcription factor	4.8	0.5	1.5
+A3745	Hs.144630		NR2F1	Nuclear receptor subfamily 2	Transcription factor	4.4	1.2	1.6
+A2703	Hs.2982		SP4	Sp4 transcription factor	Transcription factor	10.1	2.4	2.6
+A1618	Hs.83484		SOX4	SRY box 4	Transcription factor	4.2	5.6	2.7
+A4050	Hs.82037		TAF2J	TBP-associated factor	Transcription factor	23.6	(-)	1.3
+A2973	Hs.123057		TAF2K	TBP-associated factor	Transcription factor	2.7	2	1.4
+A1873	Hs.169832		ZNF42	Zinc finger protein 42	Transcription factor	3.7	3	2.8
+B5101	Hs.9028		NYCO9	Histone deacetylase 5	Transcriptional regulator (chromatin remodelling)	2.7	32	10.2
+A3992	Hs.239894		LRRFIP1	Leucine-rich repeat interacting protein 1	Transcription repressor	2.7	1.1	0.5
+A4009	Hs.78183		AKR1C3	Aldo-keto reductase family 1	Metabolic enzyme	4.5	1.6	0.4
+A1212	Hs.198365		BPGM	2,3-bisphosphoglycerate mutase	Metabolic enzyme	6.4	1.2	1.6
+A1494	Hs.121576		ASPH	Aspartate b-hydroxylase	Metabolic enzyme	3.4	(-)	(-)
+A2568		U62389	---	Isocitrate dehydrogenase	Metabolic enzyme	0.1	0.6	(-)
+A2121	Hs.771		PYGL	Liver glycogen phosphorylase	Metabolic enzyme	4.1	2.8	3.6
+A1154	Hs.82568		CYP27A1	Sterol 27-hydroxylase	Metabolic enzyme	19.7	(-)	(-)
+A3744	Hs.155455		PFKL	Liver phosphofructokinase	Metabolic enzyme	2.7	1.3	1.5
+A4848	Hs.185973		MLD	Membrane fatty acid desaturase	Metabolic enzyme	6	2.2	1.5
+A1610	Hs.172153		GPX3	Plasma glutathione peroxidase 3	Catalytic enzyme (detoxification of hydrogen peroxide)	12.3	(-)	3.5
+A2378	Hs.77502		MAT2A	Methionine adenosyltransferase II	Catalytic enzyme	3.9	2.1	1.7
+A0420	Hs.28491		SAT	Spermidine/spermine N1-acetyltransferase	Catabolic enzyme	4.6	1.6	5.8
+A4820	Hs.9482		TOM1	Target of myb1 homolog	Other (degradation of growth factor receptor)	4.7	2	(-)
+A1317	Hs.129711		HAVCR1	Hepatitis A virus cellular receptor 1	Other (virus receptor)	5.5	2.1	(-)
+A0402	Hs.251664		IGF2	Insulin-like growth factor II	Cell proliferation (growth factor)	6.8	2.5	0.7
+A0168	Hs.199067		ERBB3	Epidermal growth factor receptor	Cell proliferation (growth factor receptor)	4.4	3.3	3.1
+A0092	Hs.81688		MET	Hepatocyte growth factor receptor	Cell proliferation (growth factor receptor)	0.1	1.3	0.1
+A2366	Hs.78225		ANXA1	Annexin A1	Cell proliferation (signal transducer of growth factor)	0.1	2.4	1.5
+A5158	Hs.147189		HYA22	HYA22 protein	Unknown (potential cancer suppressor gene)	2.7	4	0.9
+A1194		NM_000445	Plectin1	Plectin 1	Unknown (intermediates filament-binding protein)	6.3	4.9	3
+A3692		U82939	p53BP3	p53-binding protein	Unknown (associated with p53)	4.8	2.2	1.1
+A0306	Hs.87246		BBC3	Bcl-2-binding component 3	Unknown (associated with Bcl-2)	2.5	1.2	(-)
+A0431	Hs.210604		PMS5;PMS2L3	Mismatch repair gene PMS1 homologue	Unknown (mismatch repair gene homologue)	2.3	2.5	1.1
+A1425	Hs.83086		GT212	GT212	Unknown	3.9	2	(-)
+A4811	Hs.21753		JM5	JM5 protein	Unknown	4.5	2.1	7.4
+A4243	Hs.118786		MT2A	Metallothionein 2A	Unknown	3.3	0.9	1
+A2440		U96628	---	Nuclear antigen H731-like protein	Unknown	2.3	1.5	(-)
+A1232	Hs.85273		RBBP6	Retinoblastoma-binding protein 6	Unknown	2.4	1.2	(-)
+A2556		Y14820	SURF4	SURF-4 protein	Unknown	3.4	1.6	1.6
+A3696	Hs.232070		TEP1	Telomerase-associated protein 1	Unknown	2.5	3	1.3
+A4626	Hs.4316		TNRC12	Trinucleotide repeat containing 12	Unknown	0.1	1.3	(-)
+A0284	Hs.76329		TDE1	Tumor differentially expressed 1	Unknown	2.8	1.5	3.3

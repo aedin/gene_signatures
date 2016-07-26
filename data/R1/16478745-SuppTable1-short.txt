@@ -1,0 +1,129 @@
+no	d-stat	p(FD>0)	p(FD>1)	p(FD>2)	U133A_probeset	gene_symbol	description	GO_cellular_component	GO_biological_process	GO_molecular_function
+1	2.12	0	0	0	202954_at	UBE2C	ubiquitin-conjugating enzyme E2C		cell cycle | cyclin catabolism | cytokinesis | mitosis | positive regulation of cell proliferation | ubiquitin cycle | ubiquitin-dependent protein catabolism	ligase activity | ubiquitin conjugating enzyme activity | ubiquitin-protein ligase activity
+2	1.9	0	0	0	222077_s_at	RACGAP1	Rac GTPase activating protein 1		electron transport | intracellular signaling cascade	electron transporter activity | iron ion binding
+3	1.73	0	0	0	201088_at	KPNA2	karyopherin alpha 2 (RAG cohort 1, importin alpha 1)	cytoplasm | nucleoplasm	DNA metabolism | G2 phase of mitotic cell cycle | M phase specific microtubule process | NLS-bearing substrate-nucleus import | intracellular protein transport | regulation of DNA recombination	nuclear localization sequence binding | protein binding | protein transporter activity
+4	1.73	0	0	0	218542_at	C10orf3	chromosome 10 open reading frame 3
+5	1.73	0	0	0	203554_x_at	PTTG1	pituitary tumor-transforming 1	cytoplasm | nucleus	DNA metabolism | DNA repair | DNA replication and chromosome cycle | cell growth and/or maintenance | chromosome segregation | mitosis | spermatogenesis | transcription from Pol II promoter	cysteine protease inhibitor activity | protein binding | transcription factor activity
+6	1.71	0	0	0	218355_at	KIF4A	kinesin family member 4A	cytoplasm | microtubule associated complex | nucleus | spindle microtubule	anterograde axon cargo transport | organelle organization and biogenesis	ATP binding | DNA binding | microtubule motor activity
+7	1.66	0	0	0	210052_s_at	TPX2	TPX2, microtubule-associated protein homolog (Xenopus laevis)	nucleus | spindle	cell proliferation | mitosis	ATP binding | GTP binding
+8	1.66	0	0	0	202580_x_at	FOXM1	forkhead box M1	nucleus	regulation of transcription, DNA-dependent | response to oxidative stress | transcription from Pol II promoter	RNA polymerase II transcription factor activity | transcription factor activity
+9	1.65	0	0	0	208079_s_at	STK6	serine/threonine kinase 6	nucleus | spindle	cell cycle | mitosis | protein amino acid phosphorylation	ATP binding | protein serine/threonine kinase activity | transferase activity
+10	1.65	0	0	0	204092_s_at	STK6	serine/threonine kinase 6	nucleus | spindle	cell cycle | mitosis | protein amino acid phosphorylation	ATP binding | protein serine/threonine kinase activity | transferase activity
+11	1.65	0	0	0	218755_at	KIF20A	kinesin family member 20A	Golgi apparatus | microtubule associated complex	protein transport | vesicle-mediated transport	ATP binding | motor activity | transporter activity
+12	1.64	0	0	0	201584_s_at	DDX39	DEAD (Asp-Glu-Ala-Asp) box polypeptide 39	nucleus		ATP binding | ATP-dependent helicase activity | hydrolase activity | nucleic acid binding
+13	1.63	0	0	0	203764_at	DLG7	discs, large homolog 7 (Drosophila)		cell-cell signaling
+14	1.62	0	0	0	204825_at	MELK	maternal embryonic leucine zipper kinase		protein amino acid phosphorylation	ATP binding | protein serine/threonine kinase activity | protein-tyrosine kinase activity | transferase activity
+15	1.62	0	0	0	203418_at	CCNA2	cyclin A2	nucleus	cytokinesis | mitosis | mitotic G2 checkpoint | regulation of cyclin dependent protein kinase activity
+16	1.61	0	0	0	204766_s_at	NUDT1	nudix (nucleoside diphosphate linked moiety X)-type motif 1		DNA repair | response to oxidative stress	8-oxo-7,8-dihydroguanine triphosphatase activity | GTPase activity | hydrolase activity
+17	1.61	0	0	0	206102_at	KIAA0186	KIAA0186 gene product
+18	1.6	0	0	0	202095_s_at	BIRC5	baculoviral IAP repeat-containing 5 (survivin)	intracellular | spindle microtubule	G2/M transition of mitotic cell cycle | anti-apoptosis | apoptosis	caspase inhibitor activity | cysteine protease inhibitor activity | microtubule binding | protease inhibitor activity | zinc ion binding
+19	1.6	0	0	0	201710_at	MYBL2	v-myb myeloblastosis viral oncogene homolog (avian)-like 2	chromatin | nucleus	anti-apoptosis | development | regulation of cell cycle | regulation of transcription, DNA-dependent | transcription from Pol II promoter	transcription factor activity
+20	1.59	0	0	0	211762_s_at	KPNA2	karyopherin alpha 2 (RAG cohort 1, importin alpha 1)	cytoplasm | nucleoplasm	DNA metabolism | G2 phase of mitotic cell cycle | M phase specific microtubule process | NLS-bearing substrate-nucleus import | intracellular protein transport | regulation of DNA recombination	nuclear localization sequence binding | protein binding | protein transporter activity
+21	1.58	0	0	0	209680_s_at	KIFC1	Kinesin family member C1	microtubule associated complex	mitotic sister chromatid segregation	ATP binding | microtubule motor activity
+22	1.58	0	0	0	209408_at	KIF2C	kinesin family member 2C	chromosome, pericentric region | kinesin complex | nucleus	cell proliferation | mitosis	ATP binding | centromeric DNA binding | microtubule motor activity
+23	1.57	0	0	0	219918_s_at	ASPM	asp (abnormal spindle)-like, microcephaly associated (Drosophila)
+24	1.57	0	0	0	203145_at	SPAG5	sperm associated antigen 5		cell cycle | cytokinesis | mitosis
+25	1.56	0	0	0	204962_s_at	CENPA	centromere protein A, 17kDa	chromosome, pericentric region | nucleosome | nucleus	chromosome organization and biogenesis (sensu Eukaryota) | nucleosome assembly	DNA binding | chromatin binding
+26	1.56	0	0	0	202870_s_at	CDC20	CDC20 cell division cycle 20 homolog (S. cerevisiae)	spindle	cytokinesis | mitosis | regulation of cell cycle | ubiquitin cycle | ubiquitin-dependent protein catabolism
+27	1.54	0	0	0	38158_at	ESPL1	extra spindle poles like 1 (S. cerevisiae)	centrosome | nucleus	apoptosis | chromosome segregation | cytokinesis | mitotic sister chromatid segregation | mitotic spindle positioning or orientation | negative regulation of sister chromatid cohesion | positive regulation of mitotic metaphase/anaphase transition | regulation of cell cycle	cysteine-type peptidase activity | hydrolase activity | protein binding
+28	1.54	0	0	0	202107_s_at	MCM2	MCM2 minichromosome maintenance deficient 2, mitotin (S. cerevisiae)	chromatin | nucleus	DNA replication | DNA replication initiation | cell cycle | regulation of transcription, DNA-dependent	ATP binding | DNA binding | DNA-dependent ATPase activity
+29	1.52	0	0	0	204767_s_at	FEN1	flap structure-specific endonuclease 1	nucleus	DNA replication | UV protection | double-strand break repair	damaged DNA binding | double-stranded DNA binding | double-stranded DNA specific exodeoxyribonuclease activity | endonuclease activity | exonuclease activity | hydrolase activity
+30	1.52	0	0	0	203046_s_at	TIMELESS	timeless homolog (Drosophila)		circadian rhythm | detection of abiotic stimulus	protein binding
+31	1.52	0	0	0	221677_s_at	DONSON	downstream neighbor of SON
+32	1.51	0	0	0	210559_s_at	CDC2	cell division cycle 2, G1 to S and G2 to M	nucleus	cytokinesis | mitosis | protein amino acid phosphorylation | traversing start control point of mitotic cell cycle	ATP binding | cyclin-dependent protein kinase activity | protein serine/threonine kinase activity | protein-tyrosine kinase activity | transferase activity
+33	1.5	0	0	0	221520_s_at	CDCA8	cell division cycle associated 8		cytokinesis
+34	1.5	0	0	0	214710_s_at	CCNB1	cyclin B1	nucleus	G2/M transition of mitotic cell cycle | cytokinesis | mitosis | regulation of cell cycle
+35	1.49	0	0	0	209714_s_at	CDKN3	cyclin-dependent kinase inhibitor 3 (CDK2-associated dual specificity phosphatase)		cell cycle | cell cycle arrest | negative regulation of cell proliferation | protein amino acid dephosphorylation | regulation of cyclin dependent protein kinase activity	hydrolase activity | kinase activity | protein tyrosine/serine/threonine phosphatase activity
+36	1.49	0	0	0	204444_at	KIF11	kinesin family member 11	kinesin complex | spindle	mitotic spindle assembly	ATP binding | microtubule motor activity
+37	1.49	0	0	0	210821_x_at	CENPA	centromere protein A, 17kDa	chromosome, pericentric region | nucleosome | nucleus	chromosome organization and biogenesis (sensu Eukaryota) | nucleosome assembly	DNA binding | chromatin binding
+38	1.49	0	0	0	218726_at	DKFZp762E1312	hypothetical protein DKFZp762E1312
+39	1.49	0	0	0	220651_s_at	MCM10	MCM10 minichromosome maintenance deficient 10 (S. cerevisiae)
+40	1.49	0	0	0	201475_x_at	MARS	methionine-tRNA synthetase	cytoplasm | soluble fraction	methionyl-tRNA aminoacylation | protein biosynthesis	ATP binding | ligase activity | methionine-tRNA ligase activity | tRNA binding
+41	1.47	0	0	0	204033_at	TRIP13	thyroid hormone receptor interactor 13	nucleus	transcription from Pol II promoter	ATP binding | nucleotide binding | receptor activity | transcription cofactor activity
+42	1.47	0	0	0	202705_at	CCNB2	cyclin B2	nucleus	cytokinesis | mitosis | regulation of cell cycle
+43	1.46	0	0	0	204649_at	TROAP	trophinin associated protein (tastin)	cytoplasm	cell adhesion	protein binding
+44	1.46	0	0	0	220060_s_at	FLJ20641	hypothetical protein FLJ20641
+45	1.45	0	0	0	209836_x_at	LAT1-3TM	LAT1-3TM protein
+46	1.45	0	0	0	203276_at	LMNB1	lamin B1	lamin filament | nucleus		structural molecule activity
+47	1.45	0	0	0	205034_at	CCNE2	cyclin E2	nucleus	cell cycle checkpoint | cytokinesis | regulation of cell cycle | regulation of cyclin dependent protein kinase activity
+48	1.45	0	0	0	203213_at	CDC2	cell division cycle 2, G1 to S and G2 to M	nucleus	cytokinesis | mitosis | protein amino acid phosphorylation | traversing start control point of mitotic cell cycle	ATP binding | cyclin-dependent protein kinase activity | protein serine/threonine kinase activity | protein-tyrosine kinase activity | transferase activity
+49	1.44	0	0	0	209464_at	AURKB	aurora kinase B		cell cycle | protein amino acid phosphorylation	ATP binding | protein serine/threonine kinase activity | transferase activity
+50	1.44	0	0	0	205046_at	CENPE	centromere protein E, 312kDa	kinetochore | microtubule associated complex | nucleus	DNA replication and chromosome cycle | cytokinesis | mitotic chromosome movement | mitotic metaphase plate congression	ATP binding | microtubule motor activity
+51	1.44	0	0	0	203755_at	BUB1B	BUB1 budding uninhibited by benzimidazoles 1 homolog beta (yeast)	anaphase-promoting complex | kinetochore | nucleus	cell cycle | mitosis | mitotic checkpoint | protein amino acid phosphorylation	ATP binding | protein serine/threonine kinase activity | transferase activity
+52	1.43	0	0	0	203214_x_at	CDC2	cell division cycle 2, G1 to S and G2 to M	nucleus	cytokinesis | mitosis | protein amino acid phosphorylation | traversing start control point of mitotic cell cycle	ATP binding | cyclin-dependent protein kinase activity | protein serine/threonine kinase activity | protein-tyrosine kinase activity | transferase activity
+53	1.42	0	0	0	214804_at	FSHPRH1	FSH primary response (LRPR1 homolog, rat) 1		female gamete generation | sex differentiation | spermatogenesis
+54	1.42	0	0	0	212949_at	BRRN1	barren homolog (Drosophila)	nucleus	mitosis | mitotic cell cycle | mitotic chromosome condensation
+55	1.41	0	0	0	204318_s_at	GTSE1	G-2 and S-phase expressed 1	cytoplasmic microtubule	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest | G2 phase of mitotic cell cycle | microtubule-based process
+56	1.41	0	0	0	207165_at	HMMR	hyaluronan-mediated motility receptor (RHAMM)		cell motility	hyaluronic acid binding
+57	1.41	0	0	0	212022_s_at	MKI67	antigen identified by monoclonal antibody Ki-67	nucleolus	regulation of cell cycle	ATP binding
+58	1.41	0	0	0	213226_at	CCNA2	cyclin A2	nucleus	cytokinesis | mitosis | mitotic G2 checkpoint | regulation of cyclin dependent protein kinase activity
+59	1.39	0	0	0	219510_at	POLQ	polymerase (DNA directed), theta	nucleoplasm	DNA repair | DNA replication	ATP binding | DNA-directed DNA polymerase activity | damaged DNA binding | transferase activity
+60	1.39	0	0	0	204026_s_at	ZWINT	ZW10 interactor	nucleus
+61	1.39	0	0	0	203432_at	TMPO	thymopoietin	chromosome | integral to membrane | nuclear membrane		DNA binding | lamin binding
+62	1.39	0	0	0	204768_s_at	FEN1	flap structure-specific endonuclease 1	nucleus	DNA replication | UV protection | double-strand break repair	damaged DNA binding | double-stranded DNA binding | double-stranded DNA specific exodeoxyribonuclease activity | endonuclease activity | exonuclease activity | hydrolase activity
+63	1.39	0	0	0	209773_s_at	RRM2	ribonucleotide reductase M2 polypeptide	cytoplasm	DNA replication | deoxyribonucleoside diphosphate metabolism	oxidoreductase activity | ribonucleoside-diphosphate reductase activity
+64	1.38	0	0	0	214431_at	GMPS	guanine monphosphate synthetase		GMP biosynthesis | biosynthesis | cell growth and/or maintenance | glutamine metabolism | purine base biosynthesis | purine nucleotide biosynthesis	ATP binding | GMP synthase (glutamine-hydrolyzing) activity | GMP synthase activity | anthranilate synthase activity | ligase activity
+65	1.38	0	0	0	212023_s_at	MKI67	antigen identified by monoclonal antibody Ki-67	nucleolus	regulation of cell cycle	ATP binding
+66	1.38	0.01	0	0	218883_s_at	MLF1IP	MLF1 interacting protein
+67	1.35	0.01	0	0	211519_s_at	KIF2C	kinesin family member 2C	chromosome, pericentric region | kinesin complex | nucleus	cell proliferation | mitosis	ATP binding | centromeric DNA binding | microtubule motor activity
+68	1.35	0.01	0	0	202240_at	PLK1	polo-like kinase 1 (Drosophila)	nucleus	mitosis | protein amino acid phosphorylation | regulation of cell cycle	ATP binding | protein serine/threonine kinase activity | transferase activity
+69	1.35	0.01	0	0	205733_at	BLM	Bloom syndrome	nucleus	DNA recombination | DNA repair | DNA replication | antimicrobial humoral response (sensu Vertebrata)	ATP binding | ATP-dependent DNA helicase activity | DNA binding | hydrolase activity
+70	1.35	0.01	0	0	222039_at	LOC146909	hypothetical protein LOC146909
+71	1.34	0.01	0	0	209642_at	BUB1	BUB1 budding uninhibited by benzimidazoles 1 homolog (yeast)	kinetochore | nucleus | spindle pole body	cell cycle | mitosis | mitotic spindle checkpoint | protein amino acid phosphorylation	ATP binding | protein serine/threonine kinase activity | transferase activity
+72	1.34	0.01	0	0	213599_at	OIP5	Opa-interacting protein 5		cell communication	protein binding
+73	1.34	0.01	0	0	214096_s_at	SHMT2	serine hydroxymethyltransferase 2 (mitochondrial)	mitochondrion	L-serine metabolism | glycine metabolism | one-carbon compound metabolism	glycine hydroxymethyltransferase activity | transferase activity
+74	1.33	0.01	0	0	211072_x_at	K-ALPHA-1	tubulin, alpha, ubiquitous	microtubule | tubulin	microtubule polymerization | microtubule-based movement	GTP binding | GTPase activity | structural molecule activity
+75	1.32	0.01	0	0	202779_s_at	UBE2S	ubiquitin-conjugating enzyme E2S		ubiquitin cycle	ligase activity | ubiquitin conjugating enzyme activity | ubiquitin-protein ligase activity
+76	1.32	0.01	0	0	218447_at	DC13	DC13 protein
+77	1.32	0.01	0	0	213911_s_at	H2AFZ	H2A histone family, member Z	chromosome | nucleosome | nucleus	chromosome organization and biogenesis (sensu Eukaryota) | nucleosome assembly	DNA binding
+78	1.32	0.01	0	0	212141_at	MCM4	MCM4 minichromosome maintenance deficient 4 (S. cerevisiae)	nucleus	DNA replication | DNA replication initiation | regulation of transcription, DNA-dependent	ATP binding | DNA binding | DNA-dependent ATPase activity | nucleotide binding
+79	1.32	0.02	0	0	221591_s_at	FLJ10156	hypothetical protein FLJ10156
+80	1.31	0.02	0	0	204822_at	TTK	TTK protein kinase	spindle	mitotic spindle assembly | mitotic spindle checkpoint | positive regulation of cell proliferation | protein amino acid phosphorylation | regulation of cell cycle	ATP binding | protein serine/threonine kinase activity | protein-tyrosine kinase activity | transferase activity
+81	1.31	0.02	0	0	209251_x_at	TUBA6	tubulin alpha 6	tubulin	microtubule polymerization | microtubule-based movement	GTP binding | GTPase activity | structural molecule activity
+82	1.31	0.02	0	0	217835_x_at	C20orf24	chromosome 20 open reading frame 24
+83	1.31	0.02	0	0	201890_at	RRM2	ribonucleotide reductase M2 polypeptide	cytoplasm	DNA replication | deoxyribonucleoside diphosphate metabolism	oxidoreductase activity | ribonucleoside-diphosphate reductase activity
+84	1.31	0.02	0	0	213671_s_at	MARS	methionine-tRNA synthetase	cytoplasm | soluble fraction	methionyl-tRNA aminoacylation | protein biosynthesis	ATP binding | ligase activity | methionine-tRNA ligase activity | tRNA binding
+85	1.31	0.02	0	0	218009_s_at	PRC1	protein regulator of cytokinesis 1	nucleus | spindle microtubule	cytokinesis | mitotic spindle elongation
+86	1.3	0.02	0	0	207828_s_at	CENPF	centromere protein F, 350/400ka (mitosin)	kinetochore | nucleus | spindle	DNA replication and chromosome cycle | regulation of mitosis
+87	1.3	0.02	0	0	219555_s_at	BM039	uncharacterized bone marrow protein BM039
+88	1.3	0.02	0	0	204695_at	CDC25A	cell division cycle 25A	intracellular	cytokinesis | mitosis | protein amino acid dephosphorylation | regulation of cyclin dependent protein kinase activity	hydrolase activity | protein tyrosine phosphatase activity
+89	1.3	0.02	0	0	212021_s_at	MKI67	antigen identified by monoclonal antibody Ki-67	nucleolus	regulation of cell cycle	ATP binding
+90	1.29	0.02	0	0	201090_x_at	K-ALPHA-1	tubulin, alpha, ubiquitous	microtubule | tubulin	microtubule polymerization | microtubule-based movement	GTP binding | GTPase activity | structural molecule activity
+91	1.29	0.02	0	0	218039_at	NUSAP1	nucleolar and spindle associated protein 1	nucleus
+92	1.29	0.02	0	0	204603_at	EXO1	exonuclease 1		DNA recombination | DNA repair | mismatch repair	5-3 exonuclease activity | DNA binding | exonuclease activity | ribonuclease H activity
+93	1.28	0.02	0	0	203362_s_at	MAD2L1	MAD2 mitotic arrest deficient-like 1 (yeast)	kinetochore | nucleus	cell cycle | mitosis | mitotic checkpoint
+94	1.28	0.02	0	0	202094_at	BIRC5	baculoviral IAP repeat-containing 5 (survivin)	intracellular | spindle microtubule	G2/M transition of mitotic cell cycle | anti-apoptosis | apoptosis	caspase inhibitor activity | cysteine protease inhibitor activity | microtubule binding | protease inhibitor activity | zinc ion binding
+95	1.28	0.02	0	0	204162_at	KNTC2	kinetochore associated 2	chromosome, pericentric region | nucleus	mitosis | mitotic sister chromatid segregation
+96	1.28	0.03	0	0	222036_s_at	MCM4	MCM4 minichromosome maintenance deficient 4 (S. cerevisiae)	nucleus	DNA replication | DNA replication initiation | regulation of transcription, DNA-dependent	ATP binding | DNA binding | DNA-dependent ATPase activity | nucleotide binding
+97	1.28	0.03	0	0	204252_at	CDK2	cyclin-dependent kinase 2	cytoplasm | nucleus	G2/M transition of mitotic cell cycle | cell cycle | cytokinesis | mitosis | positive regulation of cell proliferation | protein amino acid phosphorylation | regulation of DNA replication | traversing start control point of mitotic cell cycle	ATP binding | cyclin-dependent protein kinase activity | protein serine/threonine kinase activity | transferase activity
+98	1.28	0.03	0	0	219000_s_at	DCC1	defective in sister chromatid cohesion homolog 1 (S. cerevisiae)
+99	1.28	0.03	0	0	201524_x_at	UBE2N	ubiquitin-conjugating enzyme E2N (UBC13 homolog, yeast)		ubiquitin cycle	ligase activity | ubiquitin conjugating enzyme activity | ubiquitin-protein ligase activity
+100	1.27	0.03	0	0	204817_at	ESPL1	extra spindle poles like 1 (S. cerevisiae)	centrosome | nucleus	apoptosis | chromosome segregation | cytokinesis | mitotic sister chromatid segregation | mitotic spindle positioning or orientation | negative regulation of sister chromatid cohesion | positive regulation of mitotic metaphase/anaphase transition | regulation of cell cycle	cysteine-type peptidase activity | hydrolase activity | protein binding
+101	1.27	0.03	0	0	218662_s_at	HCAP-G	chromosome condensation protein G	nucleus	cell cycle | mitosis | mitotic chromosome condensation
+102	1.26	0.03	0.01	0	206364_at	KIF14	Kinesin family member 14
+103	1.26	0.03	0.01	0	221436_s_at	CDCA3	cell division cycle associated 3
+104	1.26	0.03	0.01	0	201195_s_at	SLC7A5	solute carrier family 7 (cationic amino acid transporter, y+ system), member 5	integral to membrane | plasma membrane	amino acid metabolism | amino acid transport | transport	amino acid permease activity | neutral amino acid transporter activity
+105	1.26	0.03	0.01	0	208696_at	CCT5	chaperonin containing TCP1, subunit 5 (epsilon)		protein folding	ATP binding | unfolded protein binding
+106	1.26	0.04	0.01	0	218556_at	ORMDL2	ORM1-like 2 (S. cerevisiae)	integral to membrane
+107	1.25	0.04	0.01	0	211058_x_at	K-ALPHA-1	tubulin, alpha, ubiquitous	microtubule | tubulin	microtubule polymerization | microtubule-based movement	GTP binding | GTPase activity | structural molecule activity
+108	1.25	0.04	0.01	0	212723_at	PTDSR	phosphatidylserine receptor
+109	1.24	0.04	0.01	0	203022_at	RNASEH2A	ribonuclease H2, large subunit		DNA replication | RNA catabolism	RNA binding | endonuclease activity | hydrolase activity | ribonuclease H activity | ribonuclease activity
+110	1.24	0.05	0.01	0	210334_x_at	BIRC5	baculoviral IAP repeat-containing 5 (survivin)	intracellular | spindle microtubule	G2/M transition of mitotic cell cycle | anti-apoptosis | apoptosis	caspase inhibitor activity | cysteine protease inhibitor activity | microtubule binding | protease inhibitor activity | zinc ion binding
+111	1.24	0.05	0.01	0	203744_at	HMGB3	high-mobility group box 3	chromatin | nucleus	development | regulation of transcription, DNA-dependent	DNA bending activity
+112	1.24	0.05	0.01	0	219306_at	KNSL7	kinesin-like 7	centrosome | microtubule associated complex | plus-end kinesin complex	cell proliferation | mitosis	ATP binding | DNA binding | motor activity
+186	-1.47	0	0	0	213103_at	STARD13	START domain containing 13			GTPase activator activity
+187	-1.46	0	0	0	204703_at	TTC10	tetratricopeptide repeat domain 10	intracellular | ribosome	excretion | protein biosynthesis	structural constituent of ribosome
+188	-1.42	0	0	0	218346_s_at	SESN1	sestrin 1	nucleus	cell cycle arrest | negative regulation of cell proliferation | response to DNA damage stimulus
+189	-1.41	0	0	0	218471_s_at	BBS1	Bardet-Biedl syndrome 1		visual perception
+190	-1.38	0	0	0	205898_at	CX3CR1	chemokine (C-X3-C motif) receptor 1	integral to plasma membrane	G-protein coupled receptor protein signaling pathway | cell adhesion | cellular defense response | chemotaxis	chemokine receptor activity | coreceptor activity | rhodopsin-like receptor activity
+191	-1.35	0.01	0	0	204072_s_at	13CDNA73	hypothetical protein CG003
+192	-1.32	0.01	0	0	219455_at	FLJ21062	hypothetical protein FLJ21062
+193	-1.28	0.02	0	0	217889_s_at	CYBRD1	cytochrome b reductase 1	integral to membrane	electron transport
+194	-1.28	0.03	0	0	219238_at	FLJ20477	hypothetical protein FLJ20477
+195	-1.27	0.03	0	0	216264_s_at	LAMB2	laminin, beta 2 (laminin S)	basal lamina	cell adhesion | synaptic transmission	protein binding | structural molecule activity
+196	-1.27	0.03	0	0	221562_s_at	SIRT3	sirtuin (silent mating type information regulation 2 homolog) 3 (S. cerevisiae)
+197	-1.26	0.03	0	0	216520_s_at	TPT1	tumor protein, translationally-controlled 1	cytoplasm | extracellular space
+198	-1.26	0.04	0.01	0	220141_at	FLJ23554	hypothetical protein FLJ23554
+199	-1.26	0.04	0.01	0	218483_s_at	FLJ21827	hypothetical protein FLJ21827	nucleus
+200	-1.25	0.04	0.01	0	221771_s_at	HSMPP8	M-phase phosphoprotein, mpp8	cytoplasm | nucleus	cell cycle
+201	-1.24	0.05	0.01	0	220917_s_at	WDR19	WD repeat domain 19

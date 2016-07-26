@@ -1,0 +1,51 @@
+ Tag	Gene	Description	Locus link	Fold change	P value	Status
+     GTATTTAACT	PKD1-like	Polycystic kidney disease 1-like	79932	13.7	0.01	DCIS overexpressed genes
+     CGGACTCACT	STARD10	START domain containing 10	10809	11.2	0.0086	DCIS overexpressed genes
+     GTGTTGGGGG	EPS8L2	EPS8-like 2	64787	9.6	0.0099	DCIS overexpressed genes
+     TTTCTGGAGG	KIAA0545	KIAA0545 protein	23094	8.6	0.01	DCIS overexpressed genes
+     GATAAATTAA	FLJ14153	Hypothetical protein	64747	8.5	0.0055	DCIS overexpressed genes
+     GAGAAATATC	NP_220	Nuclear protein	27332	8	0.0088	DCIS overexpressed genes
+     CCCTCTTTGG	LOC118487	mRNA similar to RIKEN cDNA 1110001019	118487	7.4	0.0037	DCIS overexpressed genes
+     CTGGGACTGA	LSM4	U6 small nuclear RNA associated (S. cerevisiae)	25804	6.4	0.0055	DCIS overexpressed genes
+     CTGGGCCAGC	VAMP5	Vesicle-associated membrane protein 5	10791	6.4	0.0068	DCIS overexpressed genes
+     GCCCTTTCTC	MRC2	Mannose receptor, C type 2	9902	5.8	0.0015	DCIS overexpressed genes
+     TCTTGATTTA	A2M	Alpha-2-macroglobulin	2	5.8	0.0083	DCIS overexpressed genes
+     TAGTTTGTGG	MSH2	MutS homolog 2, colon cancer	4436	5.6	0.0091	DCIS overexpressed genes
+     TCAGTGAACT	HPS4	Hermansky–Pudlak syndrome 4	89781	5.6	0.01	DCIS overexpressed genes
+     GTTTATTCTT	FOXA1	Forkhead box A1	3169	5.3	0.0044	DCIS overexpressed genes
+     GCCGCTGCCA	PPP1R13B	Protein phosphatase 1	23368	4.3	0.0054	DCIS overexpressed genes
+     TAAAGTGTCT	PIGS	Phosphatidylinositol glycan, class S	94005	3.9	0.01	DCIS overexpressed genes
+     GGGACGAGTG	TM4SF1	Transmembrane 4 superfamily member 1	4071	-442.6	0.0083	DCIS underexpressed genes
+     TAACAGCCAG	NFKBIA	Nuclear factor kappa light polypeptide gene	4792	-158.6	2.4 × 10-6	DCIS underexpressed genes
+     CAACTAATTC	CLU	Clusterin	1191	-63.9	0.0036	DCIS underexpressed genes
+     GCCTTAACAA	PBEF	Pre-B-cell colony-enhancing factor	10135	-44.3	0.002	DCIS underexpressed genes
+     GGGTTTTTAT	NSEP1	Nuclease sensitive element binding protein 1	4904	-36.2	0.0001	DCIS underexpressed genes
+     GACACGAACA	RASD1	RAS, dexamethasone-induce 1	51655	-31.4	0.0095	DCIS underexpressed genes
+     AAGATTGGTG	CD9	CD9 antigen (p24)	928	-29.6	0.0003	DCIS underexpressed genes
+     ACCAAATTAA	TNFRSF10B	Tumor necrosis factor receptor superfamily	8795	-29.4	0.0003	DCIS underexpressed genes
+     CTGGGCCTGA	LITAF	Lipopolysaccharide-induced tumor necrosis factor	9516	-28.9	0.0076	DCIS underexpressed genes
+     CTGCCATAAC	SBDS	Shwachman–Bodian–Diamond syndrome	51119	-24.2	0.0005	DCIS underexpressed genes
+     CACAGGCAAA	BZW1	Basic leucine zipper and W2 domains 1	9689	-22.1	0.0056	DCIS underexpressed genes
+     GTTCCCTGGC	FAU	Finkel–Biskis–Reilly murine sarcoma virus	2197	-22.1	0.0028	DCIS underexpressed genes
+     GTCTGCACCT	DKFZp547C1	Hypothetical protein	254851	-21.9	0.0087	DCIS underexpressed genes
+     TACGTTGCAG	GC20	Translocation factor sui1 homolog	10289	-21.8	0.0079	DCIS underexpressed genes
+     TGTAAAGATT	CCNL1	Cyclin L1	57018	-21.2	0.0008	DCIS underexpressed genes
+     TGTTAAGTTC	CRY1	Cryptochrome 1 (photolyase-like)	1407	-18.7	0.0091	DCIS underexpressed genes
+     GAAATAAAGT	FLJ21657	Hypothetical protein	64417	-18.5	0.0032	DCIS underexpressed genes
+     ATGGGCTTGA	SQRDL	Sulfide quinone reductase-like (yeast)	58472	-17.3	0.0061	DCIS underexpressed genes
+     TCAAGAAATT	PSME3	Proteasome activator subunit 3	10197	-15.7	0.0028	DCIS underexpressed genes
+     CCGTGGTCGT	FBL	Fibrillarin	2091	-15.3	0.01	DCIS underexpressed genes
+     TGGAACAGGA	TGIF	Transforming growth factor beta-induced factor (TALE family homeobox)	7050	-12.2	0.003	DCIS underexpressed genes
+     AATGCTGGCA	DNAJB6	DnaJ homolog, subfamily B, member 6	10049	-11.7	0.0065	DCIS underexpressed genes
+     AATGAGCAAC	GBP2	Guanylate binding protein 2, interferon-inducible	2634	-11.1	0.0082	DCIS underexpressed genes
+     GACCTATCTC	KIAA0992	Paladin	23022	-10.9	0.0092	DCIS underexpressed genes
+     AACTCTTGAA	EIF3S3	Eukaryotic translation initiation factor 3	8667	-10.6	0.0082	DCIS underexpressed genes
+     GGGATTTTGT	PMAIP1	Phorbol-12-myristate-13-acetate-induced protein 1	5366	-10.6	0.0091	DCIS underexpressed genes
+     AAAGCAAAAA	PTPN4	Protein tyrosine phosphatase, non-receptor type 4	5775	-10.4	0.004	DCIS underexpressed genes
+     ACTGACTATC	NEU1	Sialidase 1 (lysosomal sialidase)	4758	-10.3	0.0095	DCIS underexpressed genes
+     TTCCAGTTCA	PDE4B	Phosphodiesterase 4B, camp-specific	5142	-9.9	0.0087	DCIS underexpressed genes
+     GAATGATTTC	ORF1-FL49	Putative nuclear protein	84418	-9.5	0.007	DCIS underexpressed genes
+     GACTCGCTCC	HSJ001348	cDNA for differentially expressed CO16 gene	54742	-9.5	0.0072	DCIS underexpressed genes
+     TGGTTACAAA	NDEL1	Nude nuclear distribution gene E homolog like 1	81565	-8.9	0.01	DCIS underexpressed genes
+     AGTATGAGGA	TNFAIP3	Tumor necrosis factor, alpha-induced protein 3	7128	-8.1	0.0083	DCIS underexpressed genes
+     CAGTTTAAAA	CRSP6	Cofactor required for Sp1 transcriptional activation	9440	-7.7	0.01	DCIS underexpressed genes

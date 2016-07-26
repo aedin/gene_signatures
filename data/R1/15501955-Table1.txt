@@ -1,0 +1,30 @@
+Genes	Gene definition	Gene characterisation	Non-IBC (n = 22)	IBC (n = 36)	P	ROC-AUC
+JUN	Jun oncogene	Transcription factor	1.0 (0.2–10.4)	8.3 (0.8–230.7)	<10–6	0.908
+EGR1	Early growth response 1 (Krox-24)	Transcription factor	1.0 (0.1–5.2)	13.8 (0.3–625.1)	<10–6	0.896
+DUSP1	Dual specificity phosphatase 1 (CL100, MKP-1)	Signaling transduction	1.0 (0.2–4.8)	13.7 (0.6–303.0)	<10–6	0.896
+JUNB	Jun B oncogene	Transcription factor	1.0 (0.1–4.2)	6.7 (0.6–47.9)	<10–6	0.893
+FOS	Fos oncogene	Transcription factor	1.0 (0.3–15.9)	30.1 (0.4–1051.5)	<10–6	0.886
+FOSB	Fos B oncogene	Transcription factor	1.0 (0.1–19.7)	40.5 (0.2–1580.4)	0.000002	0.876
+VEGF	Vascular endothelial growth factor	Angiogenesis	1.0 (0.1–2.4)	2.9 (0.5–13.8)	0.000008	0.852
+DTR;HBEGF	Diphtheria toxin receptor (heparin-binding EGF-like growth factor)	Growth factor	1.0 (0.3–4.9)	4.7 (0.4–56.4)	0.00004	0.824
+TBXA2R	Thromboxane A2 receptor	Angiogenesis	1.0 (0.4–4.0)	4.4 (1.2–22.2)	0.00004	0.824
+PTGS2;COX2	Prostaglandin-endoperoxide synthase 2 (cyclooxygenase-2)	Angiogenesis	1.0 (0.2–22.9)	10.7 (0.2–256.3)	0.00004	0.824
+IGFBP7	Insulin-like growth factor binding protein 7 (IGFBP-rP1/MAC25)	Growth factor	1.0 (0.1–2.8)	3.1 (0.3–23.1)	0.00012	0.803
+IL6	Interleukin 6	Growth factor	1.0 (0.2–20.6)	9.3 (0.4–93.11)	0.0002	0.793
+NOS3	Nitric oxide synthase 3, endothelial (ENOS)	Oxidative stress	1.0 (0.2–3.6)	3.5 (0.6–9.6)	0.00029	0.785
+MAP3K8;COT	Mitogen-activated protein kinase kinase kinase 8	Signaling transduction	1.0 (0.3–3.0)	2.7 (0.1–11.6)	0.00068	0.768
+RASGRF1	Ras protein-specific guanine nucleotide-releasing factor 1	Signaling transduction	1.0 (0.1–108.0)	6.6 (0.7–183.5)	0.0012	0.755
+KAI1	Kangai 1 (CD82 antigen)	Cell motility	1.0 (0.2–4.1)	3.4 (1.0–10.5)	0.0014	0.752
+THBD	Thrombomodulin	Angiogenesis	1.0 (0.2–4.6)	3.6 (0.5–23.6)	0.0014	0.751
+PPARGC1	Peroxisome proliferative activated receptor, gamma, coactivator 1 (PGC1)	Transcription factor coactivator	1.0 (0.0–14.0)	3.0 (0.4–156.6)	0.0024	0.739
+ANGPT2	Angiopoietin 2	Angiogenesis	1.0 (0.2–4.7)	3.0 (0.3–10.7)	0.0024	0.739
+EREG	Epiregulin	Growth factor	1.0 (0.0–173.2)	16.1 (0.2–10744.5)	0.0037	0.729
+TNFRSF10A	Tumor necrosis factor receptor superfamily, member 10a (TRAILR1, DR4)	Apoptosis	1.0 (0.4–2.3)	2.7 (0.2–17.9)	0.0043	0.725
+ROBO2	Roundabout homolog 2	Growth factor receptor	1.0 (0.0–771.6)	14.8 (0.0–1521.1)	0.0073	0.711
+CCL3;MIP1A	Chemokine (C-C motif) ligand 3	Growth factor	1.0 (0.1–5.6)	2.0 (0.2–31.2)	0.019	0.684
+MYCN	N-myc oncogene	Transcription factor	1.0 (0.1–41.8)	3.1 (0.2–144.4)	0.021	0.682
+CCL5;RANTES	Chemokine (C-C motif) ligand 5	Growth factor	1.0 (0.1–5.0)	3.2 (0.1–33.1)	0.029	0.672
+SNAIL1	Snail homolog 1	Transcription factor	1.0 (0.3–5.3)	2.2 (0.5–7.3)	0.043	0.66
+H19	H19, imprinted maternally expressed untranslated mRNA	Development	1.0 (0.1–13.4)	6.4 (0.1–58.6)	0.046	0.657
+MKI67	Proliferation-related Ki-67 antigen	Cell cycle regulation	1.0 (0.1–3.7)	1.6 (0.2–21.2)	NS (0.07)	0.644
+ESR1	Estrogen receptor 1 (alpha)	Nuclear receptor	1.0 (0.0–21.1)	0.4 (0.0–21.3)	NS (0.18)	0.606

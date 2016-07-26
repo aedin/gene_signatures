@@ -1,0 +1,70 @@
+Gene	Cluster	Unigene	Gene symbol	Location	Cell	Function	Pt res	Keywords
+1	1	W32509	CDC42EP4	17q24				Regulates the organization of the actin cytoskeleton
+2	1	AA676405	ASS	9q34.1	C			Urea cycle, metabolism of amino groups
+3	2	AA127093	HDAC2	6q21	N	T C		Histone deacetylase
+4	2	AA099534	PC4	5p13.3	N	T
+5	2	AA465168	FLJ34922	17q12
+6	3	AA521347	SUZ12	17q11.2	N	T
+7	3	W73732	HCFC1	Xq28	N	T		mRNA splicing, transcritpion factor
+8	3	AI310142	DYSF	2p13	PM			Muscle contraction, membrane protein
+9	3	AA621256	SENP6	6q13	C			Proteolysis of B-galactosidase and SUMO1
+10	4	N95358	MYO1B	2q12-34	C			Distribution of endosomes
+11	4	AA598526	HIF1A	14q21	N	T A	(24, 25)	Hypoxia-VEGF pathway (angiogenesis)
+12	4	T58773	INPP5A	10q26.3	PM			Cell communication, inositol/phosphatidylinositol phosphatase
+13	4	AA428029	LOC151579	3q13.31
+14	4	AA497029	LDHA	11p15.4	C	A		Hypoxia-Inducible Factor, glycolysis
+15	4	AA156787	TEAD3	6p21.2	N	T		RNA polymerase II transcription factor activity
+16	5	N48062	BTBD7	14q32.13				Protein binding
+17	5	AA431434	C2orf29	2q11.2
+18	5	AA489087	KPNA2	17q23	N	A		Nuclear protein transporter
+19	5	AA099136	LBR	1q42.1	N			Lamin/chromatin binding receptor
+20	6	AA419016	B4GALT1	9p13	C			Glycoprotein biosynthesis (golgi)
+21	6	H11320	UBA2	19q12	C			SUMO1 activation
+22	6	AA450265	PCNA	20p12	N	C	(26, 27)	Rad6 dependent DNA excisionrepair (p53 pathway)
+23	6	AA599092	PPP2CA	5q23	C	A C		Protein serine/threonin phosphatase
+24	6	N40959	CSRP2BP	20p11.2	N
+25	7	AA629838	ZNF74	22q11.2	N	T
+26	7	AA504201	DKFZP586L0724	17q24.2
+27	7	AA620393	STIM2	4p15.3	PM	E		Cell adhesion
+28	7	AA459866	SR140	3q24
+29	8	AA425451	ITGAE	17p13	PM	E		Integrin-mediated signaling pathway
+30	8	AA280514	PRG4	1q25	E	E		Cell proliferation
+31	8	AA974817	ATRN	20p13	E	E		Membrane receptor, inflammationresponse, cell adhesion
+32	8	AA683490	FLJ25952	13q12.1
+33	8	AA489647	CCNG2	4q21.2	N	C		Cell cycle checkpoint
+34	8	AA455225	PTPN11	12q24	C	A E		Cytoskeleton, cell adhesion
+35	9	AA481054	SFRS11	1p31	N			Pre-mRNA splicing factor
+36	9	AA459353	MGC57820	15q12
+37	9	AA418483	Hs.104806	20p13
+38	9	AA425164	FLJ12874	14
+39	9	AA459935	MLSTD2	11p15.2
+40	9	W15157	CBFB	16q22.1	N			Transcription factor
+41	10	AA454642	Hs.99376	19q13.3		T
+42	10	AA488676	BASP1	5p15	PM			Cytoskeleton
+43	10	H03978	SGPP1	14q23.2				Glycosphingolipid metabolism
+44	10	AA457116	ERO1L	14q22.1	C
+45	10	H04390	DDX18	2q14.2	N			RNA helicase
+46	10	R37817	RIF1	1p13.2
+47	11	H26183 H26184	CEBPB	20q13.1	N	T A		Inflammatory response(IL6-pathway), necessary for ovulation
+48	11	AI359037	Hs.502696	8 or 11
+49	11	AA404709	SLC43A3	11q11
+50	11	N49763	WTAP	6q25	N			Putative pre-mRNA splicing regulator
+51	11	N66443	AP1G1	16q23	C			Part of AP1-complex that regulates protein transport
+52	11	AA999949	ADP-GK	15q22.3				Glycolysis
+53	11	AI360334	CAD	2p22	C			Amino acid and pyrimidine metabolism
+54	11	AA452237	ZNF43	19p13	N
+55	12	AA456621	GGH	8q12.1		T		Folate biosynthesis, lysosome
+56	12	R45054	CRH	8q13	E	A		Neuropeptide hormone, immune response
+57	12	AA487064	PMSCL2	1p36.2	N			Protein serine/threonine kinase, rRNA processing
+58	12	AA026682	TOP2A	17q21	N		(28-33)	Chromatin organization
+59	12	AA670197	HMGB3	Xq28	N	T		DNA bending acitvity
+60	12	AA430504	UBE2C	20q13.1	C	T		Ubiquitin conjugating enzyme
+61	12	H63492	STK6	20q13	N		-37	Amplification of centrosome
+62	13	R62612	FN1	2q34	PM	A E	(34-36)
+63	13	AA857098	COL5A2	2q14-32	C	E		Extracellular matrix structural constituent
+64	13	AA463510	SDHB	1p36	C			Aerobic respiration, electrontransfer (mitochondrion)
+65	13	T98612	COL3A1	2Q31	C	E
+66	13	H51574	ALOX5	10q11.2	C	A		Prostaglandin & leukotriene metabolism, inflammatory response
+67	13	AA419015	ANXA4	2p13	PM			Ca-dependent phospholipase inhibitor
+68	13	H60549	CD59	11p13	PM	A E		Stabilization of membrane
+69	13	H99170	CALR	19p13	N	T A E		Ca-ion storage ER

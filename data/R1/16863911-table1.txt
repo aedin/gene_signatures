@@ -1,0 +1,111 @@
+Gene	Function	Symbol	Probe ID	Ratio (log2)	p value (?log10)	Function
+ Myeloperoxidase	antiapoptosis	MPO	203948_s_at/203949_at	0.634	10.23	Apoptosis
+ Heat shock 70-kDa protein 1B	antiapoptosis	HSPA1B	202581_at	0.706	8.068	Apoptosis
+ Melanoma differentiation associated protein-5	proapoptosis	MDA5	1555464_at	?0.480	8.546	Apoptosis
+ B-Cell CLL/lymphoma 10	proapoptosis	BCL10	1557257_at	?0.529	10.024	Apoptosis
+ Nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, alpha	proapoptosis	NFKBIA IKBA	201502_s_at	?0.422	13.501	Apoptosis
+ Tumor necrosis factor (ligand)						Cell adhesion/motility
+ Superfamily, member 4	cell adhesion	TNFSF4	207426_s_at	0.511	8.98	Cell adhesion/motility
+ Hyaluronam-mediated motility receptor (RHAMM)	cell motility	HMMR	207165_at	0.653	14.765	Cell adhesion/motility
+BUB1 budding uninhibited by benzimidazoles 1 homolog beta		BUB1	203755_at	0.54	9.194	Cell cycle
+ Cyclin D3		CCND3	201700_at	0.501	17.84	Cell cycle
+ Cyclin E2		CCNE2 CDC2	205034_at	0.508	11.131	Cell cycle
+ Cell division cycle 2		CDK1 CDCA1	203213_at	0.76	12.569	Cell cycle
+ Cell division cycle associated 1		Nuf2	223381_at	0.513	10.688	Cell cycle
+ CDC-like kinase 1		CLK1	210346_s_at	0.604	23.621	Cell cycle
+ CDC-like kinase 4		CLK4	228751_at	0.628	18.075	Cell cycle
+ Discs, large homolog 7 (Drosophila)		DLG7	203764_at	0.532	10.7	Cell cycle
+ Kinesin family member 11		KIF11	204444_at	0.533	12.373	Cell cycle
+ Nucleolar and spindle associated protein 1		NUSAP1	218039_at	0.611	14.945	Cell cycle
+ RA-regulated nuclear matrix-associated protein		RAMP	218585_s_at	0.505	14.398	Cell cycle
+ RGC32 protein		RGC32	218723_s_at	0.513	5.026	Cell cycle
+ Ribonucleotide reductase M2 Polypeptide		RRM2	201890_at	0.804	12.501	Cell cycle
+ Serine/threonine kinase 6		STK6	208079_s_at	0.532	16.141	Cell cycle
+ Membrane-spanning 4-domains, subfamily A, member 3 (hematopoietic cell-specific)		MS4A3	210254_at	0.993	17.625	Cell cycle
+ Deoxynucleotidyltransferase, termimal		DNTT	1566363_at/210487_at	0.765	10.354	Replication
+ Ribonucleotide reductase M2 polypeptide		RRM2	209773_s_at	0.763	17.178	Replication
+ Ariadne homolog 2 (Drosophilla)		ARIH2	227932_at	?0.479	13.301	Transcription
+ Basic helix-loop-helix domain Containing, class B, 2		BHLHB2	201170_s_at	?0.441	4.386	Transcription
+ Chromodomain helicase DNA binding protein 2		CHD2	228999_at	?0.434	11.017	Transcription
+ Cbp/p300-interacting transactivator 2		CITED2	209357_at	0.511	19.769	Transcription
+ Early growth response 1		EGR1	201694_s_at	0.602	7.571	Transcription
+ Early growth response 3		EGR3	206115_at	0.549	4.924	Transcription
+ Elongation factor, RNA polymerase II, 2		ELL2	226982_at	?0.417	10.967	Transcription
+ V-fos FBJ murine osteosarcoma viral oncogene homolog		FOS	209189_at	1.303	17.778	Transcription
+ FBJ murine osteosarcoma viral oncogene homolog B		FOSB	202768_at	0.916	11.184	Transcription
+ Far upstream element (FUSE) binding protein 1		FUBP1	214093_s_at	?0.620	17.645	Transcription
+ Inhibitor of DNA binding 1, dominant negative helix-loop-helix protein		ID1	208937_s_at	0.876	11.178	Transcription
+ Interferon consensus sequence binding protein 1		IRF8	204057_at	1.109	10.183	Transcription
+ Kruppel-like-factor 4 (gut)		KLF4	220266_s_at/221841_s_at	0.888	9.607	Transcription
+ Maternal embryonic leucine zipper kinase		MELK	204825_at	0.574	7.094	Transcription
+ V-myc myelocytomatosis viral		MYC	202431_s_at	1.006	17.688	Transcription
+ V-myc myelocytomatosis viral oncogene homolog (avian)		MYC	202431_s_at	1.006	17.688	Transcription
+ V-myc myeloctyomatosis viral related oncogene, nueroblastoma derived (avian)		MYCN	209757_s_at	?0.479	13.755	Transcription
+ Activated RNA polymeraseran II transcription cofactor 4		PC4	221727_at	?0.458	16.518	Transcription
+ RING1 and YY1 binding protein		RYBP	201845_s_at	0.529	16.859	Transcription
+ Topoisomerase (DNA) II alpha 170-kDa		TOP2A	201291__s_at/201292_at	0.635	10.866	Transcription
+ Ubiquin-like, containing PHD and RING finger domains RING finger domains, 1		UHRF1	225655_at	0.642	16.933	Transcription
+ Zinc finger protein 450		ZBTB24	1554037_a_at	?0.426	12.986	Transcription
+ Zinc finger protein 450		ZBTB24	1554036_at	?0.515	12.106	Transcription
+ Zinc finger protein 325		ZNF12	226015_at	?0.425	11.099	Transcription
+ Likely ortholog of rat F-actin binding protein nexilin		NEX2	212847_at	?0.606	17.751	Cytoskeleton
+ Spectrin, beta, non-erythrocytic		SPTBN1	226342_at	?0.548	7.384	Cytoskeleton
+ Tubulin, beta 2		TUBB2	208977_x_at	0.526	17.109	Cytoskeleton
+ Annexin A1		ANXA1	233011_at	0.633	9.633	Immune response
+ CD83 antigen (activated B lymphocytes, immunoglobulin superfamily)		CD83	204440_at	?0.406	4.685	Immune response
+ Immunoglobulin J polypeptide, linker protein for immunoglobulin alpha and mu polypeptides		IGJ	212592_at	0.917	10.606	Immune response
+ Lysozyme (renal amyloidosis)	microbicidal activity	LYZ	212975_s_at	1.072	20.227	Immune response
+ Mannan-binding lectin serine protease 2		MASP2	229111_at	?0.404	14.586	Immune response
+ Proteoglycan 2, bone marrow (natural killer cell activator, eosinophil granule major basic protein)	microbicidal activity	PRG2	211743_s_at	1.273	11.853	Immune response
+ Arachidonate 5-lipoxygenase	eicosanoid synthesis	ALXO5	204446_s_at	0.728	19.764	Inflammation
+ Prostaglandin-endoperoxide synthase 2 (prostaglandin G/H synthase and cyclooxygenase)	eicosanoid synthesis	PTGS2	204748_at	0.981	13.241	Inflammation
+ Pentaxin-realted gene, rapidly induced by IL-1 beta) tumor necrosis factor-inducible protein TSG-14)		PTX3	206157_at	?0.409	5.025	Inflammation
+ S100 calcium binding protein A8 (calgranulin A)		S100A8	202917_s_at	1.391	7.696	Inflammation
+ Chacrot-Leyden crystal protein	phospholipid metabolism	CLC	206207_at	2.599	31.586	Metabolism
+ Isocitrate dehydrogenease 1 (NADP+), soluble		IDH1	1555037__at/201193_at	0.516	11.629	Metabolism
+ Nucleoside phosphorylase	nucleotide metabolism	NP	201695_s_at	0.65	20.599	Metabolism
+ Thioredoxin interacting protein		TXNIP	201008_s_at/201009_s_at/201010_s_at	0.797	13.027	Metabolism
+ ADP-ribosylation factor-like 8		ARL8	226345_at	?0.449	12.316	Signaling
+ B-cell linker		BLNK	207655_s_at	0.751	11.612	Signaling
+ Cell division cyle 42 (GTP binding protein, 25-kDa		CDC42	210232_at/214230_at	?0.517	10.254	Signaling
+ Chemokine (C-X-C motif) receptor 4		CXCR4	209201_x_at	0.563	10.882	Signaling
+ Dual specificity phosphatase 1		DUSP1	201041_s_at/201044_x_at	0.541	10.042	Signaling
+ Dual specificity phosphatase 6		DUSP6	208891at	0.623	11.91	Signaling
+ Epidermal growth factor receptor (erythroblastic leukemia viral v-erb-b) oncogene homolog, avian)		EGFR	1565483_at	?0.522	8.206	Signaling
+ Fms-related tyrosine kinase 3		FLT3	206674_at	0.502	17.76	Signaling
+ Immediate early protein		IER2	202081_at	0.588	10.23	Signaling
+ Interleukine 7 receptor		IL7R	226218_at	0.57	5.347	Signaling
+ V-Ki-ras2 Kirsten rat sarcoma 2 viral oncogene homolog		KRAS	1559203_s_at/1559204_x_at	?0.557	8.566	Signaling
+ Membrane-spanning 4-domains, subfamily A, member 6A		MS4A6A	219666_at	0.509	9.724	Signaling
+ Regulator of G-protein signaling 18		RGS18	223809_at	0.622	16.386	Signaling
+ SAC1 suppressor of actin mutations 1-like (yeast)	ATP transport	SACM1L	202797_at	0.533	19.311	Miscellaneous
+ RAD51-interacting protein	DNA repair	RAD51AP1	204146_at	0.564	15.495	Miscellaneous
+ Proteoglycan 1, secretory granule	ECM	PRG1	201858_s_at	0.801	25.485	Miscellaneous
+ Potassium channel tetramerisation domain containg 12	ion transport	KCTD12	212192_at	0.525	14.337	Miscellaneous
+ Potassium channel regulator	ion transport	RFP2	230192_at	0.503	7.837	Miscellaneous
+ H3 histone, family 3B (H3.3B)	nucleosome assembly	H3F3B	211998_at	?0.446	10.719	Miscellaneous
+ Histone 1, H2bk	nucleosome assembly	HIST1H2 BK	209806_at	0.624	20.839	Miscellaneous
+ Histone 2, H2aa	nucleosome assembly	HIST2H2 AA	214290_s_at/218280_×_at	0.823	11.562	Miscellaneous
+ Hemoglobin, alpha 2	oxygen transport	HBA1; HBA2	204018_×_at/209458_×_at/211699_×_at/211745_×_at/214414_×_at	0.952	5.282	Miscellaneous
+ Hemoglobin, beta	oxygen transport phosphatidylethanolamin	HBB	209116_×_at/211696_×_at	0.86	6.323	Miscellaneous
+ Etahnolamine kinase	e biosynthesis	ETNK1	224454_at	?0.400	6.737	Miscellaneous
+ FK506 biding protein 5	protein folding	FKBP5	224840_at/224856_at	0.604	17.632	Miscellaneous
+ HECT domain containg 1	protein transport	HECTD1	24349_at	?0.417	5.547	Miscellaneous
+ Ribonuclease, RNase A family 2 (liver eosinophil derived nutrition)	RNA catabolism	RNASE2	206111_at	1.029	8.098	Miscellaneous
+ Ribonuclease, Rnase A family, 3 (eosinophil cationic protein)	RNA catabolism	RNASE3	206851_at	0.518	4.397	Miscellaneous
+ Cleavage and poly denylation specific factor 6, 68/kDa	RNA processing	CPSF6	226934_at	?0.521	11.592	Miscellaneous
+ Kinesin family member 20A	ubiquitine pathway	KIF20A	218755_at	0.504	6.014	Miscellaneous
+ Activating transcription factor 7						Unknown
+ Interacting protein 2		ATF IP2	228381_at	?0.401	7.112	Unknown
+ Antigen identified by monoclonal antibody MRC OX-2		CD200	209583_s_at	0.531	14.285	Unknown
+ Epstein-Barr virus induced gene 2 (lymphocyte-specific protein-coupled receptor) aaaa		EBI2	205419_at	0.633	10.672	Unknown
+ Fidgetin-like 1		FIGNL1	222843_at	0.507	19.019	Unknown
+ Human immune-associated nucleotide 6		hIAN6	235306_at	0.539	12.332	Unknown
+ Immune-associated nucleotide		hIAN7	228071_at	0.728	9.237	Unknown
+ MAM domain containing 1		MAMDC2	228885_at	0.581	15.871	Unknown
+ Muscleblind-like (Drosophila)		MBNL1	1558111_at	?0.542	16.003	Unknown
+ Membrane-associated nucleic acid binding protein aaaa		MNAB	230133_at/230134_s_at	?0.464	6.011	Unknown
+ Myoneurin		MYNN	237510_at	0.641	15.388	Unknown
+ PDZ domain containing guanine nucleotide exchange factor (GEF) 2		PDZGEF2	230078_at	0.508	19.557	Unknown
+ PRO0149 protein		PRO0149	225183_at	0.506	16.801	Unknown
+ Zinc finger protein 451		ZNF451

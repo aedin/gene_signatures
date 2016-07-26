@@ -1,0 +1,67 @@
+# PMID: 15608061
+# Table 1.
+# Selection of the 50 genes most down-regulated in the INV and/or MET libraries with respect to the Br_N library from normal mammary epithelium
+Gene symbol 	Br_N 	INV 	MET 	Unigene ID 	Genetic map
+Transcription factors/chromatin/nuclear proteins 					
+    NFKBLA 	20 	0 	1 	81328 	14q13
+    LMNA 	9 	1 	1 	436441 	1q21.2-q21.3
+    JUNB 	8 	0 	0 	400124 	19p13.2
+    HMGN1 	7 	1 	1 	356285 	21q22.3
+    PNRC1 	6 	0 	0 	75969 	6q16.1
+    JUND 	5 	0 	0 	2780 	19p13.2
+    DDB1 	5 	0 	1 	290758 	11q12-q13
+    DDX5 	12 	4 	1 	279806 	17q21
+    BAP1 	4 	0 	1* 	106674 	3p21.31-p21.2
+Cell cycle/apoptosis/cell growth 					
+    MSF 	6 	0 	0 	288094 	17q25
+    GADD45B 	6 	1 	0 	110571 	19p13.3
+    PPM1G 	6 	1 	1 	17883 	2p23.3
+    AREG 	5 	0 	0 	270833 	4q13-q21
+    LGALS3 	5 	0 	0 	411701 	14q21-q22
+    DOC-1R 	4 	0 	0 	379039 	11q13
+    PDCD5 	4 	0 	0 	443831 	19q12-q13.1
+Membrane proteins/antigens/receptors/adhesion 					
+    TM4SF1 	16 	0 	0 	351316 	3q21-q25
+    ANXA1 	9 	1 	1 	287558 	9q12-q21.2
+    ZYX 	7 	0 	0 	75873 	7q32
+    CLDN4 	4 	0 	0 	5372 	7q11.23
+Signal transduction 					
+    TACSTD2 	12 	1 	0 	23582 	1p32-p31
+    ARHA 	8 	0 	0 	77273 	3p21.3
+    STRN4 	5 	0 	0 	406918 	19q13.2
+    RASD1 	4 	0 	0 	25829 	17p11.2
+    YWHAE 	7 	2 	1 	79474 	17p13.3
+Secreted and ECM proteins 					
+    LOC118430 	60 	1 	0 	348419 	12q
+    CXCL1 	45 	0 	0 	789 	4q21
+    IL8 	44 	0 	0 	624 	4q13-q21
+    CXCL2 	22 	0 	0 	75765 	4q21
+    LIF 	10 	0 	0 	2250 	22q12.2
+    SCGB1D2 	7 	0 	0 	204096 	11q13
+    CXCL3 	5 	0 	0 	89690 	4q21
+    CCL20 	4 	0 	0 	75498 	2q33-q37
+    CXCL6 	4 	0 	0 	164021 	4q21
+    IL6 	4 	0 	0 	512234 	7p21
+    SEMA3B 	4 	0 	0 	82222 	3p21.3
+    CST3 	6 	0 	2* 	304682 	20p11.21
+Cytoskeleton 					
+    ACTG1 	21 	1 	0 	14376 	17q25
+    KRT6B 	8 	0 	0 	432677 	12q12-q13
+    PDLIM1 	8 	0 	0 	75807 	10q22-q26.3
+    KRT7 	14 	2 	2 	23881 	12q12-q13
+    PFN1 	20 	6 	4 	408943 	17p13.3
+Protein synthesis, transport, and degradation 					
+    EIF4A1 	11 	0 	2 	129673 	17p13
+    SEC61B 	8 	0 	0 	191887 	9q22.32-q31.3
+    SUI1 	10 	2 	3 	150580 	17q21.31
+    EIF3S4 	4 	0 	0 	28081 	19p13.2
+    PICALM 	4 	0 	0 	39252 	11q14
+    ST13 	4 	0 	1* 	377199 	22q13.2
+Metabolism 					
+    SOD2 	26 	0 	9 	384944 	6q25.3
+    SAT 	10 	0 	0 	28491 	Xp22.1
+
+# The frequency for each tag is given for a 10,000-tag library. Asterisks refer to tags whose /P/ value is not statistically significant in one of the libraries. 
+
+#The complete data are published in Tables 3-8.
+#Proc Natl Acad Sci U S A. 2004 December 28; 101(52): 18147–18152.
