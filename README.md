@@ -1,0 +1,1 @@
+GeneSigDB raw data is contained in folder R1, R2, R2 etc each refers to the release. Each folder contains folders of PMID, each of which contains the raw data
