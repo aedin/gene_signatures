@@ -1,0 +1,11 @@
+GO id	GO term	Array count	List count	p-value	Gene symbol	Use
+50776	regulation of immune response	70	8	2.27E-05	LCK;SMAD3;BCL6;SERPING1;C1R;C1S;C7;C8A	In biological process
+6958	complement activation, classical pathway	24	5	4.34E-05	SERPING1;C1R;C1S;C7;C8A	In biological process
+6952	defense response	410	19	6.95E-05	CBARA1;HCP5;CX3CR1;BLNK;AOX1;APCS;IL1R1;ITIH4;BCL6;SERPING1;C1R;C1S;C7;C8A;PLA2G4C;CD5L;CD59;HDAC9;CD81	In biological process
+19724	B cell mediated immunity	49	6	0.000167	BCL6;SERPING1;C1R;C1S;C7;C8A	In biological process
+6954	inflammatory response	243	13	0.000255	BLNK;AOX1;APCS;IL1R1;ITIH4;BCL6;SERPING1;C1R;C1S;C7;C8A;PLA2G4C;HDAC9	In biological process
+17015	regulation of transforming growth factor beta receptor signaling pathway	10	3	0.000526	ENG;SMAD3;HTRA1	In biological process
+9611	response to wounding	333	15	0.000550	CX3CR1;BLNK;AOX1;APCS;IL1R1;ITIH4;BCL6;SERPING1;C1R;C1S;C7;C8A;PLA2G4C;CD59;HDAC9	In biological process
+16491	oxidoreductase activity	555	24	2.33E-05	C1QTNF3;ADH1A;ADH1C;ADH6;CYP1A1;CYP2B7P1;CYP2C9;CYP2E1;DAO;ALDH2;ALDH3A2;FBXL11;FMO3;FMO4;UQCRQ;HGD;AOX1;HPD;HSD11B1;PHYH;GFOD1;PH-4;CAT;HSD17B6	In molecular function
+4867	serine-type endopeptidase inhibitor activity	65	6	0.000790	ITIH4;PEBP1;WFDC1;SERPING1;C1S;ITIH5	In molecular function
+5506	iron ion binding	210	11	0.000902	CYP1A1;CYP2B7P1;CYP2C9;CYP2E1;FBXL11;HGD;AOX1;HPD;PHYH;PH-4;CAT	In molecular function

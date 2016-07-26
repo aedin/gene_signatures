@@ -1,0 +1,1152 @@
+ProbeSet	Gene Symbol	p-Value	Gene Title	GO Biological Process	GO Molecular Function	GO Cellular Component	Pathway	Pathway Hyperlink	N2.C_Signal	N3.C_Signal	L1.C._Signal	L3.C_Signal	L4.C_Signal
+1053_at	RFC2	0.012065	replication factor C (activator 1) 2, 40kDa	DNA replication	nucleotide binding	nucleus	DNA_replication	GENMAPP/KEGG	-0.55	-1.12	0.43	0.51	0.81
+1405_i_at	CCL5	0.03559	chemokine (C-C motif) ligand 5	calcium ion homeostasis	chemokine activity	extracellular			-1.98	-1.95	1.58	-0.04	2.28
+200066_at	IK	0.044271	IK cytokine, down-regulator of HLA II	immune response	cytokine activity	extracellular space			-0.21	-0.51	0.13	0.13	0.46
+200070_at	C2orf24	0.040377	chromosome 2 open reading frame 24						-0.89	-0.7	1.03	0.51	0.03
+200621_at	CSRP1	0.037272	cysteine and glycine-rich protein 1		zinc ion binding	nucleus			-0.35	-0.84	0.19	0.3	0.72
+200628_s_at	WARS	0.019779	tryptophanyl-tRNA synthetase	protein biosynthesis	tryptophan-tRNA ligase activity	soluble fraction	Tryptophan metabolism	GENMAPP/KEGG	-0.37	-0.24	0.05	0.29	0.27
+200681_at	GLO1	0.023973	glyoxalase I	carbohydrate metabolism	lactoylglutathione lyase activity		Pyruvate metabolism	GENMAPP/KEGG	-0.67	-1.73	1.31	0.53	0.82
+200722_s_at	M11S1	0.035795	membrane component, chromosome 11, surface marker 1			integral to plasma membrane			-0.45	-0.89	0.35	0.17	0.84
+201100_s_at	USP9X	0.046442	ubiquitin specific protease 9, X-linked (fat facets-like, Drosophila)	ubiquitin-dependent protein catabolism	cysteine-type endopeptidase activity				-0.26	-0.98	0.69	0.26	0.35
+201218_at	CTBP2	0.008636	C-terminal binding protein 2	L-serine biosynthesis	oxidoreductase activity	nucleus			-1.01	-0.97	0.96	0.81	0.27
+201265_at	FTL	0.006845							-1.16	-1.2	0.95	0.37	1.13
+201291_s_at	TOP2A	0.013758	topoisomerase (DNA) II alpha 170kDa	DNA topological change	DNA binding	nucleus			-0.93	-0.72	0.45	0.28	0.94
+201292_at	TOP2A	0.005303	topoisomerase (DNA) II alpha 170kDa	DNA topological change	DNA binding	nucleus			-0.52	-0.35	0.34	0.36	0.17
+201344_at	UBE2D2	0.011511	ubiquitin-conjugating enzyme E2D 2 (UBC4/5 homolog, yeast)	ubiquitin cycle	ubiquitin conjugating enzyme activity		Ubiquitin mediated proteolysis	GENMAPP/KEGG	-0.48	-0.47	0.15	0.27	0.53
+201404_x_at	PSMB2	0.040852	proteasome (prosome, macropain) subunit, beta type, 2	ubiquitin-dependent protein catabolism	endopeptidase activity	proteasome core complex (sensu Eukaryota)	Proteasome	GENMAPP/KEGG	-0.46	-0.32	0.08	0.16	0.54
+201472_at	VBP1	0.012653	von Hippel-Lindau binding protein 1						-0.53	-1	0.78	0.41	0.39
+201579_at	FAT	0.011323	FAT tumor suppressor homolog 1 (Drosophila)	cell adhesion	structural molecule activity	integral to plasma membrane			-1.02	-1.6	0.89	1.4	0.5
+201599_at	OAT	0.03448	ornithine aminotransferase (gyrate atrophy)	amino acid metabolism	ornithine-oxo-acid transaminase activity	mitochondrial matrix	Urea cycle and metabolism of amino groups	GENMAPP/KEGG	-0.89	-1.37	1.17	0.02	1.1
+201661_s_at	ACSL3	0.037276	acyl-CoA synthetase long-chain family member 3	fatty acid metabolism	magnesium ion binding		Fatty acid metabolism	GENMAPP/KEGG	-0.32	-0.44	0.38	0.4	-0.01
+201672_s_at	USP14	0.035959	ubiquitin specific protease 14 (tRNA-guanine transglycosylase)	ubiquitin-dependent protein catabolism	cysteine-type endopeptidase activity				-0.45	-0.85	0.61	0.04	0.67
+201822_at	TIMM17A	0.005088	translocase of inner mitochondrial membrane 17 homolog A (yeast)	protein-mitochondrial targeting	protein translocase activity	mitochondrion			-0.88	-1.4	0.54	0.94	0.96
+201829_at	NET1	0.029422	neuroepithelial cell transforming gene 1						-1.25	-1.03	1.18	0.02	1.09
+201830_s_at	NET1	0.009039	neuroepithelial cell transforming gene 1						-1.25	-1.67	1.52	0.5	1.09
+201865_x_at	NR3C1	0.004558	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid receptor)	regulation of transcription, DNA-dependent	transcription factor activity	nucleus	Apoptosis	GENMAPP/KEGG	-0.78	-1.03	0.53	0.45	0.89
+202124_s_at	ALS2CR3	0.031594	amyotrophic lateral sclerosis 2 (juvenile) chromosome region, candidate 3	neurotransmitter transport	receptor binding	cytoplasm			-0.79	-0.44	0.1	0.4	0.74
+202152_x_at	USF2	0.020618	upstream transcription factor 2, c-fos interacting	regulation of transcription, DNA-dependent	transcription factor activity	nucleus			-0.76	-0.69	0.89	0.21	0.35
+202176_at	ERCC3	0.046889	excision repair cross-complementing rodent repair deficiency, complementation group 3 (xeroderma pigmentosum group B complementing)	DNA topological change	damaged DNA binding	nucleus			-0.18	-0.63	0.47	0.15	0.21
+202403_s_at	COL1A2	0.011979	collagen, type I, alpha 2	skeletal development	extracellular matrix structural constituent	collagen	Inflammatory_Response_Pathway	GENMAPP/KEGG	-1.47	-0.95	0.74	1.32	0.47
+202412_s_at	USP1	0.031419	ubiquitin specific protease 1	ubiquitin-dependent protein catabolism	cysteine-type endopeptidase activity				-0.49	-1.34	0.33	1.03	0.59
+202478_at	TRIB2	0.034174	tribbles homolog 2 (Drosophila)	protein amino acid phosphorylation	protein kinase activity				-1.44	-1.24	0.87	0.08	1.67
+202491_s_at	IKBKAP	0.029676	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase complex-associated protein	protein complex assembly	signal transducer activity				-0.45	-1.03	0.86	0.4	0.27
+202507_s_at	SNAP25	0.034127	synaptosomal-associated protein, 25kDa						-0.98	-0.42	0.8	0.5	0.15
+202547_s_at	ARHGEF7	0.044828	Rho guanine nucleotide exchange factor (GEF) 7	signal transduction	guanyl-nucleotide exchange factor activity				-0.52	-0.19	0.44	0.1	0.18
+202676_x_at	FASTK	0.041574	FAST kinase	protein amino acid phosphorylation	protein serine/threonine kinase activity				-1.33	-1.13	0.21	0.47	1.67
+202739_s_at	PHKB	0.013827	phosphorylase kinase, beta	glycogen metabolism	phosphorylase kinase activity		Glycogen_Metabolism	GENMAPP/KEGG	-0.52	-0.39	0.22	0.18	0.51
+202780_at	OXCT1	0.046167	3-oxoacid CoA transferase 1	succinyl-CoA metabolism	3-oxoacid CoA-transferase activity	mitochondrion	Synthesis and degradation of ketone bodies	GENMAPP/KEGG	-0.56	-0.65	0.12	0.21	0.86
+202850_at	ABCD3	0.002801	ATP-binding cassette, sub-family D (ALD), member 3	transport	nucleotide binding	integral to peroxisomal membrane			-0.7	-0.49	0.48	0.29	0.44
+202868_s_at	POP4	0.009417	processing of precursor 4, ribonuclease P/MRP subunit (S. cerevisiae)	rRNA processing	RNA binding	ribonuclease MRP complex			-0.22	-0.17	0.05	0.17	0.17
+203016_s_at	SSX2IP	0.014896	synovial sarcoma, X breakpoint 2 interacting protein						-0.98	-1.32	0.84	1.25	0.28
+203065_s_at	CAV1	0.004185	caveolin 1, caveolae protein, 22kDa		structural molecule activity	integral to plasma membrane	Integrin-mediated_cell_adhesion	GENMAPP/KEGG	-1.09	-1.6	0.66	1.25	1
+203091_at	FUBP1	0.035844	far upstream element (FUSE) binding protein 1	regulation of transcription, DNA-dependent	transcription factor activity	nucleus			-0.73	-1.11	0.01	0.82	1.02
+203130_s_at	KIF5C	0.028546	kinesin family member 5C	organelle organization and biogenesis	microtubule motor activity	kinesin complex			-1.45	-0.46	0.51	0.59	0.98
+203177_x_at	TFAM	0.010295	transcription factor A, mitochondrial	DNA-dependent DNA replication	transcription factor activity	mitochondrion			-0.63	-0.63	0.64	0.47	0.16
+203192_at	ABCB6	0.037195	ATP-binding cassette, sub-family B (MDR/TAP), member 6	transport	nucleotide binding	mitochondrion			-0.5	-1.76	1	0.41	1.15
+203206_at	KIAA0140	0.009492	KIAA0140		S-adenosylmethionine-dependent methyltransferase activity				-0.36	-0.38	0.09	0.34	0.31
+203230_at	DVL1	0.045728	dishevelled, dsh homolog 1 (Drosophila)	frizzled signaling pathway	signal transducer activity	cytoplasm	Wnt_signaling	GENMAPP/KEGG	-0.73	-1.2	0.84	1.14	-0.04
+203260_at	C6orf74	0.01965	chromosome 6 open reading frame 74		catalytic activity				-0.36	-0.14	0.11	0.21	0.17
+203411_s_at	LMNA	0.004161	lamin A/C	muscle development	structural molecule activity	nucleus			-1.85	-1.47	1.71	1.05	0.86
+203423_at	RBP1	0.003982	retinol binding protein 1, cellular	vitamin A metabolism	transporter activity				-1.44	-1.48	1.37	1.16	0.57
+203451_at	LDB1	0.010267	LIM domain binding 1	development	transcription cofactor activity	nucleus			-0.95	-0.53	0.29	0.67	0.58
+203517_at	MTX2	0.009381	metaxin 2	mitochondrial transport		mitochondrion			-0.26	-0.54	0.24	0.23	0.33
+203565_s_at	MNAT1	0.013463	menage a trois 1 (CAK assembly factor)	regulation of cyclin dependent protein kinase activity	ubiquitin-protein ligase activity	ubiquitin ligase complex			-0.58	-0.38	0.3	0.15	0.51
+203596_s_at	IFIT5	0.039205	interferon-induced protein with tetratricopeptide repeats 5	immune response					-1.08	-1.33	0.81	0.02	1.52
+203623_at	PLXNA3	0.010837	plexin A3	development	transmembrane receptor activity	integral to membrane			-0.93	-0.57	0.79	0.34	0.42
+203697_at	FRZB	0.035579	frizzled-related protein	skeletal development	transmembrane receptor activity	extracellular			-0.4	-0.78	0.66	0.06	0.47
+203736_s_at	PPFIBP1	0.026544	PTPRF interacting protein, binding protein 1 (liprin beta 1)						-1.15	-0.52	0.19	0.73	0.81
+203785_s_at	DDX28	0.021395	DEAD (Asp-Glu-Ala-Asp) box polypeptide 28		nucleic acid binding				-0.61	-0.33	0.34	0.11	0.5
+203891_s_at	DAPK3	0.034937	death-associated protein kinase 3	protein amino acid phosphorylation	protein serine/threonine kinase activity	nucleus			-0.67	-0.7	0.9	0.09	0.37
+203962_s_at	NEBL	0.020686	nebulette	regulation of actin filament length	actin binding	actin cytoskeleton			-0.88	-1.31	0.2	0.85	1.2
+204000_at	GNB5	0.030189	guanine nucleotide binding protein (G protein), beta 5	signal transduction	GTPase activity	heterotrimeric G-protein complex	G_Protein_Signaling	GENMAPP/KEGG	-0.45	-0.81	0.65	0.06	0.56
+204179_at	MB	0.002192	myoglobin	transport	oxygen transporter activity				-0.8	-1.17	0.76	0.54	0.78
+204207_s_at	RNGTT	0.009794	RNA guanylyltransferase and 5-phosphatase	mRNA capping	nucleic acid binding	nucleus			-0.74	-0.53	0.63	0.46	0.2
+204219_s_at	PSMC1	0.042133	proteasome (prosome, macropain) 26S subunit, ATPase, 1				Proteasome_Degradation	GENMAPP/KEGG	-0.52	-0.29	0.5	0.3	0.02
+204235_s_at	GULP1	0.016295	GULP, engulfment adaptor PTB domain containing 1	phagocytosis, engulfment	signal transducer activity				-1.08	-1.26	0.93	1.25	0.21
+204252_at	CDK2	0.037451	cyclin-dependent kinase 2	G2/M transition of mitotic cell cycle	protein serine/threonine kinase activity	nucleus	Cell_cycle	GENMAPP/KEGG	-0.94	-1.4	0.45	0.29	1.56
+204285_s_at	PMAIP1	0.010185	phorbol-12-myristate-13-acetate-induced protein 1						-0.96	-0.68	0.76	0.69	0.23
+204378_at	BCAS1	0.011513	breast carcinoma amplified sequence 1						-1.33	-0.57	0.59	0.66	0.8
+204465_s_at	INA	0.021746	internexin neuronal intermediate filament protein, alpha	neurogenesis	structural constituent of cytoskeleton	neurofilament			-0.81	-0.61	0.2	0.87	0.36
+204471_at	GAP43	0.048653	growth associated protein 43	regulation of cell growth	calmodulin binding	membrane			-1.28	-1.31	0.78	-0.04	1.72
+204476_s_at	PC	0.019065	pyruvate carboxylase	gluconeogenesis	pyruvate carboxylase activity	mitochondrion	Citrate cycle (TCA cycle)	GENMAPP/KEGG	-0.64	-1.77	0.7	1.19	0.86
+204492_at	ARHGAP11A	0.008325	similar to human GTPase-activating protein						-1.08	-0.56	0.73	0.43	0.57
+204603_at	EXO1	0.00612	exonuclease 1	DNA repair	DNA binding				-1.12	-0.84	0.97	0.4	0.65
+204625_s_at	ITGB3	0.049394	integrin, beta 3 (platelet glycoprotein IIIa, antigen CD61)	cell-matrix adhesion	receptor activity	integrin complex	Integrin-mediated_cell_adhesion	GENMAPP/KEGG	-0.5	-1.41	1.24	0.38	0.37
+204651_at	NRF1	0.007328	nuclear respiratory factor 1	energy pathways	transcription factor activity	nucleus			-0.56	-0.31	0.36	0.21	0.31
+204652_s_at	NRF1	0.035634	nuclear respiratory factor 1	energy pathways	transcription factor activity	nucleus			-0.34	-0.37	0.1	0.48	0.12
+204740_at	CNKSR1	2.60E-05	connector enhancer of kinase suppressor of Ras 1		protein binding	membrane			-1.25	-1.39	0.95	0.95	0.95
+204743_at	NP_25	0.036204	neuronal protein	central nervous system development					-0.87	-1.12	0.22	1.33	0.4
+204803_s_at	RRAD	0.029749	Ras-related associated with diabetes	small GTPase mediated signal transduction	GTPase activity				-0.63	-0.36	0.05	0.45	0.5
+204825_at	MELK	0.002762	maternal embryonic leucine zipper kinase	protein amino acid phosphorylation	protein serine/threonine kinase activity				-0.83	-1.02	0.4	0.73	0.79
+204895_x_at	MUC4	0.033956	mucin 4, tracheobronchial	cell-matrix adhesion	ErbB-2 class receptor binding	integral to plasma membrane			-0.66	-1.06	1.05	0.1	0.58
+204925_at	CTNS	0.005443	cystinosis, nephropathic	amino acid metabolism	L-cystine transporter activity	lysosomal membrane			-0.83	-0.85	0.78	0.66	0.28
+204934_s_at	HPN	0.001058	hepsin (transmembrane protease, serine 1)	proteolysis and peptidolysis	chymotrypsin activity	integral to plasma membrane			-0.55	-0.6	0.34	0.32	0.5
+204935_at	PTPN2	0.004096	protein tyrosine phosphatase, non-receptor type 2	protein amino acid dephosphorylation	protein tyrosine phosphatase activity				-1.24	-1.15	1.08	0.98	0.45
+204956_at	MTAP	0.015316	methylthioadenosine phosphorylase	nucleobase, nucleoside, nucleotide and nucleic acid metabolism	phosphorylase activity				-1.11	-1.32	0.71	1.4	0.35
+205032_at	ITGA2	0.028273					Integrin-mediated_cell_adhesion	GENMAPP/KEGG	-0.97	-0.89	0.78	0.04	1.04
+205105_at	MAN2A1	0.035897	mannosidase, alpha, class 2A, member 1	carbohydrate metabolism	alpha-mannosidase activity	membrane fraction	N-Glycans biosynthesis	GENMAPP/KEGG	-0.46	-0.33	0.19	0.52	0.07
+205115_s_at	RBM19	0.025975	RNA binding motif protein 19		RNA binding				-0.44	-1.3	0.37	0.84	0.67
+205133_s_at	HSPE1	0.027201	heat shock 10kDa protein 1 (chaperonin 10)						-1.01	-1.39	0.34	0.53	1.52
+205171_at	PTPN4	0.004481	protein tyrosine phosphatase, non-receptor type 4 (megakaryocyte)	protein amino acid dephosphorylation	non-membrane spanning protein tyrosine phosphatase activity	cytoskeleton			-1.26	-1.19	1.23	0.52	0.82
+205187_at	SMAD5	0.008244	SMAD, mothers against DPP homolog 5 (Drosophila)	regulation of transcription, DNA-dependent	receptor signaling protein activity	nucleus	TGF_Beta_Signaling_Pathway	GENMAPP/KEGG	-0.45	-0.95	0.5	0.49	0.47
+205190_at	PLS1	0.008156	plastin 1 (I isoform)		structural constituent of cytoskeleton	brush border			-1.16	-1.21	0.44	1.28	0.72
+205366_s_at	HOXB6	0.040787	homeo box B6	regulation of transcription, DNA-dependent	transcription factor activity	nucleus			-1.27	-0.75	-0.01	0.92	1.12
+205405_at	SEMA5A	0.004446	sema domain, seven thrombospondin repeats (type 1 and type 1-like), transmembrane domain (TM) and short cytoplasmic domain, (semaphorin) 5A	cell adhesion	receptor activity	integral to membrane			-1.01	-1.16	0.84	1.01	0.41
+205433_at	BCHE	0.011791	butyrylcholinesterase	cocaine metabolism	beta-amyloid binding	extracellular			-1.43	-1.24	0.88	1.48	0.4
+205440_s_at	NPY1R	0.038923	neuropeptide Y receptor Y1	G-protein signaling, coupled to cyclic nucleotide second messenger	rhodopsin-like receptor activity	integral to plasma membrane	GPCRs_Class_A_Rhodopsin-like	GENMAPP/KEGG	-0.64	-1.19	1.18	0.49	0.18
+205457_at	C6orf106	0.036418	chromosome 6 open reading frame 106						-0.75	-0.24	0.54	0.23	0.24
+205461_at	RAB35	0.03493	RAB35, member RAS oncogene family	small GTPase mediated signal transduction	GTPase activity				-1.58	-0.81	1.54	0.5	0.41
+205521_at	ENDOGL1	0.030506	endonuclease G-like 1		nucleic acid binding				-0.69	-0.31	0.09	0.43	0.49
+205612_at	MMRN1	0.017184	multimerin 1	cell adhesion					-0.52	-1.36	0.6	0.57	0.86
+205616_at	---	0.02025	CDNA FLJ25134 fis, clone CBR06934						-1.55	-1.49	0.16	1.49	1.45
+205622_at	SMPD2	0.028134	sphingomyelin phosphodiesterase 2, neutral membrane (neutral sphingomyelinase)	sphingomyelin metabolism	magnesium ion binding	integral to plasma membrane			-1.1	-0.4	0.54	0.76	0.27
+205690_s_at	G10	0.042845	maternal G10 transcript	regulation of transcription from Pol II promoter	transcription factor activity	nucleus			-0.55	-1.12	0.13	0.49	1.07
+205714_s_at	ZMYND10	0.005428	zinc finger, MYND domain containing 10						-1.62	-1.29	0.54	1.23	1.33
+205718_at	ITGB7	0.001704	integrin, beta 7	cell-matrix adhesion	receptor activity	integrin complex	Integrin-mediated_cell_adhesion	GENMAPP/KEGG	-1.44	-1.6	1.01	1.45	0.83
+205744_at	DOC2A	0.048012	double C2-like domains, alpha	transport	transporter activity	synaptic vesicle			-0.76	-1.31	1.11	1.05	-0.07
+205749_at	CYP1A1	0.046592	cytochrome P450, family 1, subfamily A, polypeptide 1	electron transport	monooxygenase activity	endoplasmic reticulum	Fatty acid metabolism	GENMAPP/KEGG	-1.28	-0.71	0.78	0	1.21
+205761_s_at	PP35	0.007152	protein similar to E.coli yhdg and R. capsulatus nifR3	tRNA processing	oxidoreductase activity				-0.44	-0.5	0.15	0.33	0.47
+205790_at	SCAP1	0.024626	src family associated phosphoprotein 1	immune response	protein-tyrosine kinase activity				-0.61	-1	0.12	0.87	0.64
+205822_s_at	HMGCS1	0.001254	3-hydroxy-3-methylglutaryl-Coenzyme A synthase 1 (soluble)	acetyl-CoA metabolism	hydroxymethylglutaryl-CoA synthase activity	soluble fraction	Cholesterol_Biosynthesis	GENMAPP/KEGG	-1.09	-1.35	0.72	0.79	1.09
+205848_at	GAS2	0.009736	growth arrest-specific 2	cellular morphogenesis		cytoskeleton			-1.27	-1.57	0.52	0.89	1.56
+205866_at	FCN3	0.01747							-1.08	-0.9	0.33	1.19	0.48
+205947_s_at	VIPR2	0.045308	vasoactive intestinal peptide receptor 2	signal transduction	G-protein coupled receptor activity	integral to plasma membrane	GPCRs_Class_B_Secretin-like	GENMAPP/KEGG	-0.35	-0.78	0.11	0.73	0.3
+205987_at	CD1C	0.03398	CD1C antigen, c polypeptide	antimicrobial humoral response (sensu Vertebrata)		integral to plasma membrane			-0.68	-0.37	0.22	0.66	0.16
+206052_s_at	SLBP	0.030958	stem-loop (histone) binding protein	histone mRNA 3-end processing	mRNA binding	nucleus			-0.8	-0.92	0.59	0.06	1.05
+206085_s_at	CTH	0.002865	cystathionase (cystathionine gamma-lyase)	amino acid metabolism	cystathionine gamma-lyase activity		Methionine metabolism	GENMAPP/KEGG	-1.58	-1.48	0.67	1.21	1.42
+206118_at	STAT4	0.028555	signal transducer and activator of transcription 4	regulation of transcription from Pol II promoter	transcription factor activity	nucleus			-1.2	-0.95	0.08	1.25	0.83
+206121_at	AMPD1	0.046958	adenosine monophosphate deaminase 1 (isoform M)	nucleotide metabolism	AMP deaminase activity		Purine metabolism	GENMAPP/KEGG	-0.74	-0.36	0.31	0.07	0.72
+206125_s_at	KLK8	0.010941	kallikrein 8 (neuropsin/ovasin)	proteolysis and peptidolysis	chymotrypsin activity				-0.73	-0.92	0.33	0.44	0.92
+206127_at	ELK3	0.028271	ELK3, ETS-domain protein (SRF accessory protein 2)	regulation of transcription from Pol II promoter	transcription factor activity	nucleus			-0.17	-0.51	0.28	0.13	0.28
+206176_at	BMP6	0.0143	bone morphogenetic protein 6	skeletal development	cytokine activity				-0.76	-0.53	0.21	0.71	0.38
+206188_at	ZNF623	0.00288	zinc finger protein 623	regulation of transcription, DNA-dependent	DNA binding	nucleus			-1.35	-1.58	1.23	0.64	1.29
+206209_s_at	CA4	0.015874	carbonic anhydrase IV	one-carbon compound metabolism	carbonate dehydratase activity	membrane fraction	Nitrogen metabolism	GENMAPP/KEGG	-0.49	-0.78	0.26	0.32	0.71
+206223_at	LMTK2	0.043908	lemur tyrosine kinase 2	autophosphorylation	protein serine/threonine kinase activity	integral to membrane			-1.52	-1.38	0.24	0.49	1.97
+206274_s_at	CROCC	0.0158	ciliary rootlet coiled-coil, rootletin						-0.67	-0.81	0.39	0.87	0.24
+206311_s_at	PLA2G1B	0.045588	phospholipase A2, group IB (pancreas)	actin filament organization	phospholipase A2 activity		Glycerolipid metabolism	GENMAPP/KEGG	-1.47	-1.4	0.4	0.29	1.97
+206318_at	SPINLW1	0.044012	serine protease inhibitor-like, with Kunitz and WAP domains 1 (eppin)		serine-type endopeptidase inhibitor activity				-0.41	-1.07	0.84	0.6	0.1
+206322_at	SYN3	0.032272	synapsin III	neurotransmitter secretion	ATP binding	synaptic vesicle			-1.28	-1.14	0.51	0.26	1.59
+206412_at	FER	0.043225	fer (fps/fes related) tyrosine kinase (phosphoprotein NCP94)	protein amino acid phosphorylation	protein-tyrosine kinase activity	nucleus			-1.32	-1.52	1.86	0.84	0.02
+206427_s_at	MLANA	0.036531	melan-A			integral to plasma membrane			-0.81	-1.41	0.54	0.26	1.44
+206458_s_at	WNT2B	0.025718	wingless-type MMTV integration site family, member 2B	protein folding	signal transducer activity	extracellular space	Wnt_signaling	GENMAPP/KEGG	-0.59	-1.49	0.88	1.03	0.34
+206462_s_at	NTRK3	0.043015	neurotrophic tyrosine kinase, receptor, type 3	protein amino acid phosphorylation	transmembrane receptor protein tyrosine kinase activity	integral to plasma membrane			-0.12	-0.22	0.11	0.22	0.01
+206475_x_at	CSH1	0.014122							-0.67	-0.77	0.13	0.63	0.69
+206484_s_at	XPNPEP2	0.032558	X-prolyl aminopeptidase (aminopeptidase P) 2, membrane-bound	proteolysis and peptidolysis	metalloexopeptidase activity	membrane			-1.05	-0.6	0.09	0.95	0.63
+206535_at	SLC2A2	0.033128	solute carrier family 2 (facilitated glucose transporter), member 2	carbohydrate metabolism	transporter activity	membrane fraction			-0.48	-0.59	0	0.48	0.59
+206573_at	KCNQ3	0.01785	potassium voltage-gated channel, KQT-like subfamily, member 3	cation transport	voltage-gated potassium channel activity	membrane fraction			-0.82	-1.48	0.33	0.88	1.21
+206577_at	VIP	0.031106	vasoactive intestinal peptide	muscle contraction	hormone activity	extracellular			-0.67	-0.79	0.17	0.32	0.96
+206646_at	GLI	0.048492	glioma-associated oncogene homolog (zinc finger protein)	regulation of transcription from Pol II promoter	DNA binding	nucleus			-0.59	-1.37	0.22	0.48	1.3
+206692_at	KCNJ10	0.015594	potassium inwardly-rectifying channel, subfamily J, member 10	ion transport	voltage-gated ion channel activity	integral to plasma membrane			-1.37	-1.26	0.59	1.57	0.5
+206728_at	ECE2	0.008194	endothelin converting enzyme 2	proteolysis and peptidolysis	neprilysin activity	integral to membrane			-1.42	-0.73	0.83	0.94	0.56
+206758_at	EDN2	0.042125	endothelin 2	transmembrane receptor protein tyrosine kinase signaling pathway	growth factor activity	extracellular			-0.8	-0.62	-0.05	0.79	0.68
+206760_s_at	FCER2	0.049488	Fc fragment of IgE, low affinity II, receptor for (CD23A)		receptor activity	integral to plasma membrane			-0.41	-0.49	0.04	0.64	0.22
+206811_at	ADCY8	0.0414	adenylate cyclase 8 (brain)	cAMP biosynthesis	magnesium ion binding	membrane fraction	Purine metabolism	GENMAPP/KEGG	-0.47	-0.72	0	0.47	0.72
+206835_at	STATH	0.042945	KIAA0097 gene product						-0.83	-1.53	0.57	0.23	1.57
+206923_at	PRKCA	0.035667	protein kinase C, alpha	regulation of cell cycle	protein kinase C activity	membrane fraction	Phosphatidylinositol signaling system	GENMAPP/KEGG	-1.17	-0.84	1	1.02	-0.01
+206939_at	DCC	0.037826	deleted in colorectal carcinoma	induction of apoptosis	transmembrane receptor activity	integral to plasma membrane			-0.84	-0.68	0.04	0.49	0.98
+206954_at	WIT-1	0.007642	Wilms tumor associated protein	cell proliferation					-1.72	-1.86	0.8	1.98	1.01
+206985_at	HSD17B3	0.007099	hydroxysteroid (17-beta) dehydrogenase 3	steroid biosynthesis	estradiol 17-beta-dehydrogenase activity	microsome	Androgen and estrogen metabolism	GENMAPP/KEGG	-1.12	-0.57	0.53	0.7	0.54
+207071_s_at	ACO1	0.006936	aconitase 1, soluble	tricarboxylic acid cycle	RNA binding	cytoplasm	Citrate cycle (TCA cycle)	GENMAPP/KEGG	-0.57	-0.53	0.52	0.16	0.43
+207119_at	PRKG1	0.03526	protein kinase, cGMP-dependent, type I	protein amino acid phosphorylation	protein serine/threonine kinase activity	cAMP-dependent protein kinase complex	Phosphatidylinositol signaling system	GENMAPP/KEGG	-1.11	-1.11	1.31	0.9	-0.01
+207152_at	NTRK2	0.013668	neurotrophic tyrosine kinase, receptor, type 2	protein amino acid phosphorylation	transmembrane receptor protein tyrosine kinase activity	integral to plasma membrane			-0.85	-0.55	0.21	0.48	0.74
+207199_at	TERT	0.01821	telomerase reverse transcriptase	RNA-dependent DNA replication	DNA binding	chromosome, telomeric region			-0.41	-0.83	0.36	0.25	0.65
+207244_x_at	CYP2A6	0.004022	cytochrome P450, family 2, subfamily A, polypeptide 6	electron transport	coumarin 7-hydroxylase activity	endoplasmic reticulum	Fatty acid metabolism	GENMAPP/KEGG	-0.98	-0.88	0.74	0.83	0.35
+207260_at	FEV	0.002671	FEV (ETS oncogene family)	regulation of transcription, DNA-dependent	transcription factor activity	nucleus			-0.51	-0.69	0.53	0.39	0.3
+207351_s_at	SH2D2A	0.016325	SH2 domain protein 2A	angiogenesis					-0.7	-1.62	1.2	0.65	0.7
+207352_s_at	GABRB2	0.00142	gamma-aminobutyric acid (GABA) A receptor, beta 2	ion transport	GABA-A receptor activity	integral to plasma membrane			-1.45	-1.39	0.7	1.25	1.1
+207367_at	ATP12A	0.022353	ATPase, H+/K+ transporting, nongastric, alpha polypeptide	potassium ion transport	magnesium ion binding	hydrogen:potassium-exchanging ATPase complex			-1.09	-1.36	0.17	0.92	1.4
+207399_at	BFSP2	0.038192	beaded filament structural protein 2, phakinin	visual perception	structural constituent of cytoskeleton	cytoskeleton			-1.5	-1.54	-0.08	1.72	1.35
+207406_at	CYP7A1	0.041909	cytochrome P450, family 7, subfamily A, polypeptide 1	electron transport	monooxygenase activity	endoplasmic reticulum	Bile acid biosynthesis	GENMAPP/KEGG	-0.57	-1.55	1.13	0.17	0.98
+207445_s_at	CCR9	0.023559	chemokine (C-C motif) receptor 9	chemotaxis	rhodopsin-like receptor activity	integral to plasma membrane			-0.63	-0.41	0.56	0.42	0.07
+207491_at	MOGAT2	0.030084	monoacylglycerol O-acyltransferase 2		acyltransferase activity				-0.85	-1.45	0.15	0.87	1.34
+207501_s_at	FGF12	0.039576	fibroblast growth factor 12						-0.36	-1.05	0.62	0.71	0.14
+207504_at	CA7	0.015748	carbonic anhydrase VII	one-carbon compound metabolism	carbonate dehydratase activity		Nitrogen metabolism	GENMAPP/KEGG	-1.41	-1.6	1.24	0.27	1.59
+207507_s_at	ATP5G3	0.031242	ATP synthase, H+ transporting, mitochondrial F0 complex, subunit c (subunit 9) isoform 3	energy pathways	transporter activity	membrane fraction	Electron_Transport_Chain	GENMAPP/KEGG	-0.31	-1.01	0.54	0.25	0.59
+207526_s_at	IL1RL1	0.043572	interleukin 1 receptor-like 1	signal transduction	transmembrane receptor activity	integral to membrane			-1.01	-1.74	1.6	1.21	-0.01
+207646_s_at	CDY1	0.047671	chromodomain protein, Y-linked, 1	chromatin assembly or disassembly	chromatin binding	chromatin			-0.79	-1.57	1.57	0.16	0.65
+207701_at	C22orf24	0.013614	chromosome 22 open reading frame 24						-0.5	-0.68	0.39	0.16	0.64
+207759_s_at	DISC1	0.024918	disrupted in schizophrenia 1						-1.4	-0.82	1.36	0.44	0.47
+207779_at	---	0.02991							-0.47	-0.45	0.45	0	0.47
+207854_at	GYPE	0.011946	glycophorin E			integral to plasma membrane			-1.28	-1.54	1.06	0.37	1.5
+207958_at	UGT2A1	0.030367	UDP glycosyltransferase 2 family, polypeptide A1	perception of smell	glucuronosyltransferase activity	microsome			-0.65	-0.43	0.22	0.7	0.17
+208027_s_at	TLL2	0.000461	tolloid-like 2	proteolysis and peptidolysis	calcium ion binding				-1.32	-1.15	1.01	0.9	0.73
+208134_x_at	PSG2	0.015217							-0.55	-0.4	0.1	0.37	0.49
+208205_at	PCDHA9	0.001754	protocadherin alpha 9	cell adhesion	calcium ion binding	integral to membrane			-0.41	-0.34	0.33	0.22	0.2
+208220_x_at	AMELY	0.01996	amelogenin, Y-linked	development	extracellular matrix structural constituent	extracellular matrix (sensu Metazoa)			-0.76	-1.25	0.2	0.83	1.04
+208228_s_at	FGFR2	0.041706	fibroblast growth factor receptor 2 (bacteria-expressed kinase, keratinocyte growth factor receptor, craniofacial dysostosis 1, Crouzon syndrome, Pfeiffer syndrome, Jackson-Weiss syndrome)	protein amino acid phosphorylation	protein serine/threonine kinase activity	integral to membrane			-0.32	-0.88	0.29	0.22	0.73
+208297_s_at	EVI5	0.033235	ecotropic viral integration site 5	development	protein binding				-0.38	-0.67	0.43	0.04	0.58
+208304_at	CCR3	0.020116	chemokine (C-C motif) receptor 3	chemotaxis	rhodopsin-like receptor activity	integral to plasma membrane	GPCRs_Class_A_Rhodopsin-like	GENMAPP/KEGG	-0.75	-0.54	0.78	0.27	0.25
+208334_at	NDST4	0.014249	N-deacetylase/N-sulfotransferase (heparan glucosaminyl) 4		sulfotransferase activity				-1.33	-0.88	0.28	1.1	0.92
+208398_s_at	TBPL1	0.036959	TBP-like 1						-0.68	-1.11	0.75	0.03	1.03
+208408_at	PTN	0.007204							-0.72	-1.2	0.74	0.86	0.41
+208416_s_at	SPTB	0.049295	spectrin, beta, erythrocytic (includes spherocytosis, clinical type I)		actin binding	membrane fraction			-1.69	-1.58	1.41	-0.22	1.93
+208456_s_at	RRAS2	0.001119	related RAS viral (r-ras) oncogene homolog 2						-1.63	-1.49	1.46	0.95	1
+208463_at	GABRA4	0.003014	gamma-aminobutyric acid (GABA) A receptor, alpha 4	ion transport	GABA-A receptor activity	integral to plasma membrane			-1.47	-1.2	1.23	0.61	1.01
+208475_at	FLJ10210	0.025913	FERM domain containing 4A		cytoskeletal protein binding	cytoskeleton			-1.15	-0.91	0.49	1.31	0.26
+208562_s_at	ABCC9	0.01285	ATP-binding cassette, sub-family C (CFTR/MRP), member 9	transport	nucleotide binding	integral to membrane			-0.86	-0.59	0.62	0.67	0.18
+208711_s_at	CCND1	0.042761	cyclin D1 (PRAD1: parathyroid adenomatosis 1)	regulation of cell cycle		nucleus	Wnt_signaling	GENMAPP/KEGG	-1.03	-1.53	1.33	-0.08	1.32
+208761_s_at	SUMO1	0.003097	SMT3 suppressor of mif two 3 homolog 1 (yeast)	DNA repair	ubiquitin conjugating enzyme activity	nucleus	Circadian_Exercise	GENMAPP/KEGG	-0.64	-0.38	0.37	0.31	0.36
+208766_s_at	HNRPR	0.014567	heterogeneous nuclear ribonucleoprotein R	mRNA processing	RNA binding	heterogeneous nuclear ribonucleoprotein complex			-0.79	-1.15	1.11	0.42	0.45
+208835_s_at	LUC7A	0.043688	cisplatin resistance-associated overexpressed protein	apoptosis		nucleus			-1.12	-0.28	0.63	0.62	0.23
+208858_s_at	MBC2	0.017942	likely ortholog of mouse membrane bound C2 domain containing protein						-1.38	-1.04	1.38	0.28	0.81
+208900_s_at	TOP1	0.03607	topoisomerase (DNA) I	DNA topological change	DNA binding				-0.52	-1.2	0.78	0.89	0.12
+208974_x_at	KPNB1	0.040495	karyopherin (importin) beta 1	protein-nucleus import, docking	nuclear localization sequence binding	nucleus			-0.6	-0.51	0.02	0.35	0.73
+208999_at	8-Sep	0.010993	septin 8						-1.28	-1.56	1.19	0.36	1.42
+209049_s_at	PRKCBP1	0.048119	protein kinase C binding protein 1	regulation of transcription, DNA-dependent	DNA binding				-0.33	-1.42	1	0.52	0.4
+209058_at	EDF1	0.037496							-0.39	-0.11	0.1	0.22	0.19
+209109_s_at	TM4SF6	0.045265	transmembrane 4 superfamily member 6	cell motility	signal transducer activity	integral to membrane			-1.48	-0.73	1.49	0.43	0.31
+209147_s_at	PPAP2A	0.015731	phosphatidic acid phosphatase type 2A	protein kinase C activation	phosphatidate phosphatase activity	membrane fraction	Glycerolipid metabolism	GENMAPP/KEGG	-2.25	-2.38	2.66	0.55	1.58
+209148_at	RXRB	0.046405	retinoid X receptor, beta	regulation of transcription, DNA-dependent	transcription factor activity	nucleus	Nuclear_Receptors	GENMAPP/KEGG	-0.16	-0.64	0.22	0.42	0.17
+209172_s_at	CENPF	0.025553	centromere protein F, 350/400ka (mitosin)	DNA replication and chromosome cycle		kinetochore			-0.9	-0.87	0.35	0.28	1.13
+209218_at	SQLE	0.010169	squalene epoxidase	electron transport	squalene monooxygenase activity	microsome	Sterols biosynthesis	GENMAPP/KEGG	-1.06	-1.19	1.25	0.67	0.4
+209257_s_at	CSPG6	0.033028	chondroitin sulfate proteoglycan 6 (bamacan)	DNA repair	microtubule motor activity	spindle pole			-0.85	-1.45	1.32	0.1	0.94
+209258_s_at	CSPG6	0.041966	chondroitin sulfate proteoglycan 6 (bamacan)	DNA repair	microtubule motor activity	spindle pole			-0.34	-0.92	0.73	0.12	0.45
+209283_at	CRYAB	0.016106	crystallin, alpha B	protein folding	structural constituent of eye lens	nucleus			-1.4	-1.45	0.23	1.44	1.25
+209284_s_at	RAP140	0.038957	retinoblastoma-associated protein 140						-0.94	-0.36	0.12	0.51	0.71
+209384_at	PROSC	0.013317	proline synthetase co-transcribed homolog (bacterial)		alanine racemase activity	cytoplasm			-0.26	-0.4	0.08	0.29	0.29
+209399_at	HLCS	0.015014	holocarboxylase synthetase (biotin-[proprionyl-Coenzyme A-carboxylase (ATP-hydrolysing)] ligase)	protein modification	biotin-[acetyl-CoA-carboxylase] ligase activity		Biotin metabolism	GENMAPP/KEGG	-0.34	-0.6	0.47	0.33	0.14
+209415_at	FZR1	0.016191	fizzy/cell division cycle 20 related 1 (Drosophila)	cell cycle					-0.63	-1.59	0.99	0.57	0.9
+209492_x_at	ATP5I	0.008381	ATP synthase, H+ transporting, mitochondrial F0 complex, subunit e	ATP synthesis coupled proton transport	hydrogen-transporting ATP synthase activity, rotational mechanism	proton-transporting two-sector ATPase complex	Electron_Transport_Chain	GENMAPP/KEGG	-1.05	-0.81	0.62	0.96	0.33
+209520_s_at	NCBP1	0.014349	nuclear cap binding protein subunit 1, 80kDa	mRNA processing	RNA cap binding	nucleoplasm			-0.9	-0.73	0.73	0.15	0.78
+209608_s_at	ACAT2	0.033496	acetyl-Coenzyme A acetyltransferase 2 (acetoacetyl Coenzyme A thiolase)						-0.95	-0.91	-0.02	0.86	1.01
+209625_at	PIGH	0.011071	phosphatidylinositol glycan, class H	protein modification	transferase activity, transferring glycosyl groups	endoplasmic reticulum			-0.84	-0.59	0.31	0.36	0.78
+209627_s_at	OSBPL3	0.047657	oxysterol binding protein-like 3	lipid transport	nucleic acid binding				-0.76	-0.99	1.23	0.14	0.33
+209639_s_at	RGS12	0.002667	regulator of G-protein signalling 12	signal transduction	receptor signaling protein activity	condensed nuclear chromosome			-1.41	-1.45	1.17	0.62	1.28
+209664_x_at	NFATC1	0.033283	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 1	regulation of transcription, DNA-dependent	transcription factor activity	nucleus			-1.07	-1.19	1.13	1.16	-0.02
+209736_at	SOX13	0.000944	SRY (sex determining region Y)-box 13	regulation of transcription, DNA-dependent	transcription factor activity	nucleus			-1.58	-1.46	1.22	1.29	0.81
+209855_s_at	KLK2	0.004348	kallikrein 2, prostatic	proteolysis and peptidolysis	chymotrypsin activity				-0.22	-0.17	0.13	0.18	0.08
+209881_s_at	LAT	0.003051	linker for activation of T cells	immune response	SH3/SH2 adaptor protein activity	integral to membrane			-1.69	-2.19	1.7	0.94	1.74
+209963_s_at	EPOR	0.02589	erythropoietin receptor	signal transduction	erythropoietin receptor activity	integral to plasma membrane			-0.52	-0.85	0.4	0.17	0.83
+209999_x_at	SOCS1	0.013256	suppressor of cytokine signaling 1	regulation of cell growth	protein kinase inhibitor activity	cytoplasm			-1.35	-1.44	1.62	0.48	0.76
+210056_at	RND1	0.037092	Rho family GTPase 1	actin filament organization	GTPase activity	cytoskeleton			-1.59	-1.01	0.01	1.19	1.44
+210168_at	C6	0.008658	complement component 6	complement activation, classical pathway		membrane attack complex	Complement_Activation_Classical	GENMAPP/KEGG	-0.6	-0.79	0.2	0.62	0.59
+210234_at	GRM4	0.045751	glutamate receptor, metabotropic 4	G-protein coupled receptor protein signaling pathway	metabotropic glutamate, GABA-B-like receptor activity	integral to plasma membrane	GPCRs_Class_C_Metabotropic_glutamate_pheromone	GENMAPP/KEGG	-1.66	-0.27	0.82	0.68	0.76
+210245_at	ABCC8	0.016254							-0.35	-0.75	0.39	0.21	0.51
+210277_at	AP4S1	0.007343	adaptor-related protein complex 4, sigma 1 subunit	transport	transporter activity	coated pit			-0.66	-1.33	0.82	0.7	0.62
+210282_at	ZNF198	0.037489	zinc finger protein 198	regulation of transcription, DNA-dependent	zinc ion binding	nucleus			-1.49	-0.42	0.37	0.98	0.74
+210324_at	C8G	0.044578	complement component 8, gamma polypeptide	transport	transporter activity	membrane attack complex			-0.78	-0.72	0.81	0.75	-0.08
+210394_x_at	SSX4	0.017809	synovial sarcoma, X breakpoint 4	regulation of transcription, DNA-dependent	nucleic acid binding	intracellular			-0.67	-0.94	0.91	0.19	0.54
+210436_at	CCT8	0.024531	chaperonin containing TCP1, subunit 8 (theta)	protein folding	ATP binding	cytosol			-1.41	-0.6	0.29	0.99	0.87
+210447_at	GLUD1	0.041919	glutamate dehydrogenase 1	amino acid metabolism	glutamate dehydrogenase [NAD(P)+] activity	mitochondrion	Urea cycle and metabolism of amino groups	GENMAPP/KEGG	-0.68	-1.45	0.91	0.07	1.22
+210467_x_at	MAGEA12	0.016086	melanoma antigen, family A, 12						-0.55	-0.99	0.73	0.64	0.21
+210491_at	---	0.009368							-0.74	-1.55	0.7	0.75	1.05
+210500_at	NICE-4	0.047898							-0.26	-1.73	0.88	0.72	0.76
+210567_s_at	SKP2	0.036779	S-phase kinase-associated protein 2 (p45)	regulation of cell cycle			Cell_cycle	GENMAPP/KEGG	-0.59	-0.69	0.67	-0.03	0.64
+210593_at	SAT	0.002371	spermidine/spermine N1-acetyltransferase		diamine N-acetyltransferase activity		Arginine and proline metabolism	GENMAPP/KEGG	-1.61	-1.58	1.43	1.31	0.72
+210615_at	NRP1	0.00819	neuropilin 1	angiogenesis	receptor activity	membrane fraction			-0.78	-0.78	0.51	0.81	0.25
+210680_s_at	MASP1	0.046264					Complement_Activation_Classical	GENMAPP/KEGG	-0.66	-0.48	0.74	0.39	-0.01
+210705_s_at	TRIM5	0.029535	tripartite motif-containing 5						-0.68	-1.11	0.18	1.1	0.52
+210814_at	TRPC3	0.039404	transient receptor potential cation channel, subfamily C, member 3	cation transport	store-operated calcium channel activity	integral to plasma membrane			-0.38	-1.29	0.9	0.29	0.61
+210868_s_at	ELOVL6	0.035513	ELOVL family member 6, elongation of long chain fatty acids (FEN1/Elo2, SUR4/Elo3-like, yeast)			integral to membrane			-0.59	-1.82	0.59	1.44	0.66
+210915_x_at		0.038751							-0.53	-1.21	1.01	0.12	0.67
+210946_at	PPAP2A	0.019034	phosphatidic acid phosphatase type 2A	protein kinase C activation	phosphatidate phosphatase activity	membrane fraction	Glycerolipid metabolism	GENMAPP/KEGG	-2.12	-2.33	2.68	1.15	0.62
+211005_at	LAT	0.001614	linker for activation of T cells	immune response	SH3/SH2 adaptor protein activity	integral to membrane			-1.57	-2.15	1.58	1.1	1.57
+211051_s_at	EXTL3	0.038959	exostoses (multiple)-like 3	cell growth and/or maintenance	transferase activity, transferring glycosyl groups	endoplasmic reticulum			-1.3	-0.53	0.99	0.13	0.79
+211054_at	INVS	0.049187	inversin						-0.45	-0.89	0.87	0.05	0.42
+211150_s_at	DLAT	0.004102	dihydrolipoamide S-acetyltransferase (E2 component of pyruvate dehydrogenase complex)	acetyl-CoA biosynthesis	dihydrolipoyllysine-residue acetyltransferase activity	mitochondrion	Glycolysis / Gluconeogenesis	GENMAPP/KEGG	-0.97	-0.86	0.37	0.64	0.87
+211241_at	ANXA2P3	0.035153							-1.5	-0.34	0.77	0.73	0.57
+211422_at	TRPM3	0.047723	transient receptor potential cation channel, subfamily M, member 3	cation transport	cation channel activity	membrane			-0.4	-0.4	0.41	0.43	-0.05
+211641_x_at	IGHM	0.049098	Clone RA702-M3-2.fa immunoglobulin heavy chain mRNA, partial cds	immune response	antigen binding	membrane fraction			-1.24	-0.37	0.95	0.57	0.19
+211738_x_at	ELA3A	0.02139	elastase 3A, pancreatic (protease E)	proteolysis and peptidolysis	chymotrypsin activity				-0.56	-0.38	0.37	0.07	0.5
+211759_x_at	CKAP1	0.015434	cytoskeleton associated protein 1	protein folding	unfolded protein binding	microtubule cytoskeleton			-0.42	-0.48	0.52	0.26	0.13
+211832_s_at	MDM2	0.027877					Apoptosis	GENMAPP/KEGG	-1.37	-0.69	0.17	1.06	0.92
+211838_x_at	PCDHA5	0.027144	protocadherin alpha 5	cell adhesion	calcium ion binding	integral to membrane			-1.48	-1	0.1	1.25	1.2
+211843_x_at	CYP3A7	0.01731	cytochrome P450, family 3, subfamily A, polypeptide 7	electron transport	monooxygenase activity	membrane fraction	Fatty acid metabolism	GENMAPP/KEGG	-1.47	-1.1	1.51	0.38	0.74
+211848_s_at	CEACAM7	0.008517	carcinoembryonic antigen-related cell adhesion molecule 7			plasma membrane			-0.59	-0.31	0.35	0.21	0.35
+211855_s_at	SLC25A14	0.011371	solute carrier family 25 (mitochondrial carrier, brain), member 14	transport	carrier activity	mitochondrion	Electron_Transport_Chain	GENMAPP/KEGG	-0.71	-1.07	0.95	0.33	0.55
+211861_x_at	CD28	0.02138	CD28 antigen (Tp44)	humoral immune response	protein binding	integral to plasma membrane	Inflammatory_Response_Pathway	GENMAPP/KEGG	-1.16	-1.51	0.16	1.17	1.4
+211891_s_at	ARHGEF4	0.007801	Rho guanine nucleotide exchange factor (GEF) 4	intracellular signaling cascade	guanyl-nucleotide exchange factor activity				-0.54	-0.85	0.7	0.37	0.37
+212000_at	SFRS14	0.046852	splicing factor, arginine/serine-rich 14	RNA processing	RNA binding	intracellular			-1.47	-1.5	1.53	1.55	-0.2
+212089_at	LMNA	0.024607	lamin A/C	muscle development	structural molecule activity	nucleus			-1.27	-1.86	1.45	0.17	1.63
+212185_x_at	MT2A	0.047449	metallothionein 2A	copper ion homeostasis	copper ion binding				-1.86	-1.85	2.24	1.47	-0.2
+212333_at	DKFZP564F0522	0.047104	DKFZP564F0522 protein						-0.14	-0.72	0.24	0.37	0.27
+212338_at	MYO1D	0.013226	myosin ID		motor activity	myosin			-1.38	-1.56	0.83	0.49	1.69
+212379_at	GART	0.042172	phosphoribosylglycinamide formyltransferase, phosphoribosylglycinamide synthetase, phosphoribosylaminoimidazole synthetase	purine nucleotide biosynthesis	catalytic activity	cytoplasm	Purine metabolism	GENMAPP/KEGG	-0.24	-0.77	0.25	0.2	0.58
+212711_at	CAMSAP1	0.010449	calmodulin regulated spectrin-associated protein 1						-0.61	-0.6	0.68	0.25	0.29
+212900_at	SEC24A	0.003978	SEC24 related gene family, member A (S. cerevisiae)	intracellular protein transport	protein binding	endoplasmic reticulum			-0.7	-1.04	0.4	0.69	0.72
+212949_at	BRRN1	0.001804	barren homolog (Drosophila)	mitotic cell cycle		nucleus			-1	-1.23	0.81	0.56	0.98
+212994_at	THOC2	0.044007	THO complex 2						-0.71	-0.37	0.42	0.65	0.02
+213083_at	SLC35D2	0.022935	solute carrier family 35, member D2		nucleotide-sugar transporter activity				-0.36	-0.74	0.36	0.59	0.17
+213096_at	HUCEP11	0.032397	cerebral protein 11			integral to membrane			-0.45	-1.61	0.7	0.54	1.07
+213107_at	TNIK	0.007634	TRAF2 and NCK interacting kinase	regulation of translation	protein serine/threonine kinase activity				-0.51	-0.57	0.29	0.23	0.57
+213128_s_at	UBE3A	0.007743	ubiquitin protein ligase E3A (human papilloma virus E6-associated protein, Angelman syndrome)	proteolysis and peptidolysis	ubiquitin conjugating enzyme activity	intracellular			-0.48	-0.78	0.32	0.36	0.62
+213149_at	DLAT	0.036538	dihydrolipoamide S-acetyltransferase (E2 component of pyruvate dehydrogenase complex)	acetyl-CoA biosynthesis	dihydrolipoyllysine-residue acetyltransferase activity	mitochondrion	Glycolysis / Gluconeogenesis	GENMAPP/KEGG	-0.99	-0.69	0.08	0.52	1.07
+213157_s_at	KIAA0523	0.011951	KIAA0523 protein		sulfotransferase activity				-0.62	-0.65	0.17	0.69	0.42
+213228_at	PDE8B	0.018459	phosphodiesterase 8B	signal transduction	magnesium ion binding		G_Protein_Signaling	GENMAPP/KEGG	-0.56	-1.25	0.56	0.94	0.41
+213231_at	DMWD	0.017031	dystrophia myotonica-containing WD repeat motif	meiosis					-1.47	-0.8	0.89	1.18	0.34
+213238_at	ATP10D	0.032661	ATPase, Class V, type 10D	cation transport	magnesium ion binding	integral to membrane			-0.53	-1.74	0.98	0.45	1.14
+213265_at	PGA5	0.031593	pepsinogen 5, group I (pepsinogen A)	proteolysis and peptidolysis	pepsin A activity				-1.32	-0.57	1.06	0.21	0.71
+213303_x_at	ZBTB7	0.038005	zinc finger and BTB domain containing 7						-1.43	-0.68	0.88	1.2	0.11
+213387_at	KIAA1240	0.035096	KIAA1240 protein						-0.43	-0.76	0.18	0.76	0.25
+213421_x_at	PRSS3	0.002482	protease, serine, 3 (mesotrypsin)	proteolysis and peptidolysis	chymotrypsin activity	extracellular			-0.94	-1.27	0.53	0.89	0.91
+213562_s_at	SQLE	0.020824	squalene epoxidase	electron transport	squalene monooxygenase activity	microsome	Sterols biosynthesis	GENMAPP/KEGG	-1.04	-1.05	0.97	0.1	1.05
+213577_at	SQLE	0.008404	squalene epoxidase	electron transport	squalene monooxygenase activity	microsome	Sterols biosynthesis	GENMAPP/KEGG	-0.74	-0.7	0.67	0.19	0.6
+213662_at	FLJ20152	0.04399	LOC389275						-1.12	-0.54	0.24	1.1	0.33
+213735_s_at	COX5B	0.049889	cytochrome c oxidase subunit Vb	electron transport	cytochrome-c oxidase activity	mitochondrial membrane	Oxidative phosphorylation	GENMAPP/KEGG	-0.75	-0.6	-0.09	0.76	0.67
+213745_at	ATRNL1	0.020778	attractin-like 1	development	receptor activity	membrane			-1.5	-1.5	0.15	1.5	1.41
+213756_s_at	HSF1	0.028366	heat shock transcription factor 1	regulation of transcription, DNA-dependent	transcription factor activity	nucleus			-0.46	-0.33	0.02	0.37	0.4
+213795_s_at	PTPRA	0.025538	protein tyrosine phosphatase, receptor type, A	protein amino acid dephosphorylation	transmembrane receptor protein tyrosine phosphatase activity	integral to plasma membrane			-0.43	-0.36	0.4	0.36	0.02
+213906_at	MYBL1	0.007216	v-myb myeloblastosis viral oncogene homolog (avian)-like 1	regulation of transcription, DNA-dependent	DNA binding	nucleus			-1.06	-1.1	0.79	0.34	1.08
+213919_at	DNAJC4	0.017253							-0.32	-0.61	0.14	0.35	0.45
+213983_s_at	KIAA0648	0.006437	SCC-112 protein						-0.68	-0.91	0.33	0.5	0.79
+213989_x_at	C21orf18	0.046084	chromosome 21 open reading frame 18						-1.41	-0.4	0.21	0.92	0.84
+214141_x_at	SFRS7	0.015472	splicing factor, arginine/serine-rich 7, 35kDa	nuclear mRNA splicing, via spliceosome	nucleic acid binding	nucleus			-0.81	-0.83	0.14	0.69	0.83
+214174_s_at	RIL	0.048218							-1.14	-1.25	0.42	1.67	0.16
+214193_s_at	MGC29875	0.044291	hypothetical protein MGC29875						-1.25	-0.51	0.07	0.87	0.9
+214208_at	---	0.041783							-1.28	-0.77	0.07	1.31	0.68
+214236_at	CDC27	0.03985	cell division cycle 27	mitotic metaphase/anaphase transition		nucleus			-1.47	-0.4	0.7	0.35	1
+214237_x_at	PAWR	0.035224	PRKC, apoptosis, WT1, regulator	negative regulation of transcription from Pol II promoter	transcription corepressor activity	nucleus			-0.71	-1.3	1.3	0.43	0.3
+214246_x_at	MINK	0.026731	misshapen/NIK-related kinase	protein amino acid phosphorylation	protein serine/threonine kinase activity				-0.37	-0.28	0.25	0.37	0.03
+214320_x_at	CYP2A6	0.032076	cytochrome P450, family 2, subfamily A, polypeptide 6	electron transport	coumarin 7-hydroxylase activity	endoplasmic reticulum	Fatty acid metabolism	GENMAPP/KEGG	-1.3	-1.41	1.29	-0.01	1.43
+214330_at	ATPAF2	0.002393	ATP synthase mitochondrial F1 complex assembly factor 2						-1.33	-0.82	0.8	0.78	0.72
+214338_at	DNAJB12	0.042065	DnaJ (Hsp40) homolog, subfamily B, member 12	protein folding	unfolded protein binding	integral to membrane			-1.48	-1.08	1.11	1.49	-0.06
+214345_at	EDIL3	0.00034							-0.95	-1.07	0.62	0.67	0.83
+214371_at	STK22B	0.008864	serine/threonine kinase 22B (spermiogenesis associated)	protein amino acid phosphorylation	protein serine/threonine kinase activity				-0.76	-1.14	0.48	0.5	1
+214381_at	---	0.00289	CDNA clone MGC:87642 IMAGE:5265802, complete cds						-1.53	-1.66	0.7	1.49	1.26
+214386_at	HMX1	0.031997							-1.31	-0.65	0.5	0.3	1.21
+214425_at	AMBP	0.005267							-0.93	-1.6	1.17	0.85	0.75
+214461_at	LBP	0.022818	lipopolysaccharide binding protein	lipid transport	lipid binding	extracellular space			-0.48	-0.18	0.27	0.12	0.27
+214491_at	SSTR3	0.011433	somatostatin receptor 3	G-protein signaling, coupled to cyclic nucleotide second messenger	rhodopsin-like receptor activity	integral to plasma membrane			-0.59	-0.45	0.51	0.13	0.41
+214495_at	CACNG2	0.015969	calcium channel, voltage-dependent, gamma subunit 2	ion transport	structural molecule activity	membrane fraction	Calcium_Channels	GENMAPP/KEGG	-1.4	-1.41	1.66	0.76	0.42
+214514_at	MCM3AP	0.028197	MCM3 minichromosome maintenance deficient 3 (S. cerevisiae) associated protein	DNA replication	DNA binding	nucleus			-0.62	-0.41	0.05	0.42	0.57
+214551_s_at	CD7	0.001326	CD7 antigen (p41)	calcium ion transport	receptor activity	membrane fraction			-0.7	-0.8	0.36	0.57	0.62
+214561_at	ILT10	0.040187	leukocyte immunoglobulin-like receptor, subfamily A (without TM domain), member 5						-0.95	-0.33	0.35	0.76	0.21
+214647_s_at	HFE	0.028139	hemochromatosis	protein complex assembly	MHC class I receptor activity	cytoplasm			-0.38	-0.17	0.11	0.31	0.13
+214682_at	PKD1	0.010475	polycystic kidney disease 1 (autosomal dominant)	homophilic cell adhesion	sugar binding	integral to plasma membrane			-1.38	-0.63	0.65	0.9	0.62
+214792_x_at	VAMP2	0.007431	vesicle-associated membrane protein 2 (synaptobrevin 2)						-0.68	-0.79	0.57	0.7	0.22
+214829_at	AASS	0.030602	aminoadipate-semialdehyde synthase	electron transport	lysine-ketoglutarate reductase activity	mitochondrion	Lysine biosynthesis	GENMAPP/KEGG	-1.39	-0.61	0.51	1.21	0.38
+214851_at	HNF4A	0.004949					Nuclear_Receptors	GENMAPP/KEGG	-1.24	-1.31	1.33	0.63	0.7
+214898_x_at	MUC3B	0.037966	mucin 3B						-0.82	-0.87	0.92	0.82	-0.05
+214936_at	LRCH1	0.038166	leucine-rich repeats and calponin homology (CH) domain containing 1						-0.89	-0.4	0.42	0.78	0.12
+214984_at	LAT1-3TM	0.025506	LAT1-3TM protein						-0.24	-0.71	0.21	0.34	0.42
+214991_s_at	PIGO	0.006899	phosphatidylinositol glycan, class O	GPI anchor biosynthesis	hydrolase activity	endoplasmic reticulum membrane			-0.4	-0.54	0.2	0.28	0.47
+215095_at	ESD	0.031182	esterase D/formylglutathione hydrolase		serine esterase activity	cytoplasmic vesicle			-0.84	-0.65	0.94	0.46	0.09
+215150_at	DKFZp451J1719	0.022285	hypothetical DKFZp451J1719						-0.58	-1.58	1.08	0.51	0.8
+215162_at	GARNL1	0.048997	GTPase activating RANGAP domain-like 1						-0.98	-0.71	0.51	0.01	1.14
+215198_s_at	CALD1	0.00967	caldesmon 1	muscle contraction	actin binding	cytoskeleton			-1.03	-1.57	0.79	0.57	1.4
+215255_at	KIAA1030	0.046544	KIAA1030 protein						-0.49	-1.73	0.79	1.33	0.35
+215424_s_at	SKIIP	0.03603	SKI interacting protein	regulation of transcription from Pol II promoter	transcription coactivator activity	nucleus			-0.48	-0.98	0.18	0.39	0.92
+215467_x_at	DHX9	0.023343	DEAH (Asp-Glu-Ala-His) box polypeptide 9		DNA binding	nucleus			-0.47	-0.33	0.19	0.49	0.12
+215472_at	PACRG	0.045839	PARK2 co-regulated						-0.69	-1.31	0.82	1.2	0.01
+215491_at	MYCL1	0.016908	v-myc myelocytomatosis viral oncogene homolog 1, lung carcinoma derived (avian)	regulation of transcription, DNA-dependent	transcription factor activity	nucleus			-0.62	-1.17	0.53	0.97	0.36
+215507_x_at	RAB22A	0.000554	RAB22A, member RAS oncogene family	endocytosis	GTPase activity	early endosome			-0.94	-1.2	0.7	0.85	0.71
+215510_at	ETV2	0.007211	ets variant gene 2						-1.57	-0.76	0.83	0.81	0.93
+215591_at	SATB2	0.036235	SATB family member 2	regulation of transcription, DNA-dependent	DNA binding	nucleus			-0.53	-0.53	-0.02	0.59	0.49
+215678_at	---	0.010748							-0.48	-0.8	0.22	0.61	0.47
+215725_at	DGCR11	0.035873	DiGeorge syndrome critical region gene 11						-0.55	-1.78	1.34	0.48	0.8
+215727_x_at	FLJ20811	0.025073							-1.41	-1.38	0.29	1.74	0.73
+215773_x_at	ADPRTL2	0.038034	poly (ADP-ribose) polymerase family, member 2	protein amino acid ADP-ribosylation	DNA binding	nucleus			-0.6	-0.82	0.12	0.33	0.95
+215793_at	MTMR7	0.030378	myotubularin related protein 7	protein amino acid dephosphorylation	protein tyrosine phosphatase activity				-0.51	-0.8	0.06	0.52	0.74
+215813_s_at	PTGS1	0.025408	prostaglandin-endoperoxide synthase 1 (prostaglandin G/H synthase and cyclooxygenase)	prostaglandin biosynthesis	peroxidase activity	nucleus	Prostaglandin and leukotriene metabolism	GENMAPP/KEGG	-1.1	-1.52	1.63	0.32	0.69
+215839_at	ILT11	0.038933							-0.93	-1.46	0.06	0.85	1.48
+215850_s_at	NDUFA5	0.002013	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 5, 13kDa	electron transport	NADH dehydrogenase activity	mitochondrion	Ubiquinone biosynthesis	GENMAPP/KEGG	-0.71	-0.72	0.55	0.6	0.31
+215877_at	C14orf56	0.006175	chromosome 14 open reading frame 56						-0.78	-1.47	0.73	0.73	0.98
+215889_at	SKIL	0.025208	SKI-like	cell growth and/or maintenance		nucleus	TGF_Beta_Signaling_Pathway	GENMAPP/KEGG	-1.26	-1.35	1.4	0.08	1.15
+215972_at	---	0.045987	Clone 24820 mRNA sequence						-1.02	-1.06	-0.06	1.34	0.75
+216023_at	JMJD2B	0.032467	jumonji domain containing 2B						-0.34	-0.49	0.33	0.02	0.48
+216067_at	---	0.008223	CDNA FLJ11624 fis, clone HEMBA1004193						-1.47	-0.82	1.08	0.84	0.55
+216092_s_at	SLC7A8	0.046683	solute carrier family 7 (cationic amino acid transporter, y+ system), member 8	protein complex assembly	amino acid-polyamine transporter activity	integral to plasma membrane			-0.62	-1.27	0.46	1.26	0.18
+216302_at	HNRPC	0.026432	heterogeneous nuclear ribonucleoprotein C (C1/C2)	RNA splicing	RNA binding	heterogeneous nuclear ribonucleoprotein complex			-0.8	-0.78	0.33	0.23	1.02
+216314_at	CRISP1	0.036469	cysteine-rich secretory protein 1	spermatogenesis		extracellular space			-0.84	-1.25	1.39	0.43	0.25
+216336_x_at	MT1A	0.027002	metallothionein 1A (functional)		copper ion binding	cytoplasm			-1.57	-1.67	2.05	0.66	0.43
+216361_s_at	MYST3	0.011777	MYST histone acetyltransferase (monocytic leukemia) 3	DNA packaging	DNA binding	ubiquitin ligase complex			-0.35	-0.76	0.28	0.39	0.47
+216366_x_at	---	0.043556							-0.75	-0.54	0.22	0.15	0.9
+216371_at	---	0.04231							-0.63	-1.76	0.56	0.49	1.52
+216373_at	FLJ90013	0.005564	hypothetical protein FLJ90013						-1.41	-1.44	0.62	1.5	0.87
+216418_at	ABCD1	0.041053	ATP-binding cassette, sub-family D (ALD), member 1	transport	transporter activity	peroxisome			-0.51	-1.25	0.2	0.54	1.08
+216470_x_at	PRSS2	0.021345	protease, serine, 2 (trypsin 2)	proteolysis and peptidolysis	chymotrypsin activity				-0.65	-1.57	0.7	0.52	1.2
+216512_s_at	DCT	0.006351	dopachrome tautomerase (dopachrome delta-isomerase, tyrosine-related protein 2)	melanin biosynthesis from tyrosine	dopachrome isomerase activity	integral to membrane			-0.53	-0.3	0.26	0.36	0.22
+216540_at		0.003805							-0.7	-0.56	0.52	0.24	0.51
+216564_at	---	0.015268	Similar to Argininosuccinate synthase (Citrulline--aspartate ligase)						-0.78	-0.91	0.95	0.21	0.55
+216578_at		0.015206							-0.66	-0.43	0.16	0.59	0.35
+216648_s_at	RREB1	0.011948							-1.18	-1.05	1.28	0.48	0.51
+216747_at	APBB2	0.007857							-0.63	-0.94	0.28	0.71	0.63
+216753_at	---	0.035229							-0.32	-0.62	0.22	0.59	0.13
+216758_at	---	0.046722							-1.06	-1.17	0.46	0.12	1.55
+216771_at	---	0.046531	CDNA: FLJ21541 fis, clone COL06166						-1.09	-1.28	-0.14	1.3	1.16
+216791_at	---	0.046752							-0.42	-0.24	0.11	0.09	0.46
+216939_s_at	HTR4	0.035657	5-hydroxytryptamine (serotonin) receptor 4	G-protein signaling, coupled to cyclic nucleotide second messenger	rhodopsin-like receptor activity	integral to plasma membrane	GPCRs_Class_A_Rhodopsin-like	GENMAPP/KEGG	-1.29	-1.49	1.11	-0.01	1.64
+217119_s_at	CXCR3	0.01305	chemokine (C-X-C motif) receptor 3	cell motility	rhodopsin-like receptor activity	cytoplasm	GPCRs_Class_A_Rhodopsin-like	GENMAPP/KEGG	-0.43	-0.22	0.22	0.3	0.13
+217124_at	KIAA1023	0.005321	IQ motif containing E						-0.98	-1.72	1.03	1.2	0.75
+217204_at	MTRF1L	0.019583	mitochondrial translational release factor 1-like	translational termination	translation release factor activity				-1.35	-1.17	1.13	0.15	1.29
+217215_s_at	---	0.00725							-0.79	-0.68	0.35	0.78	0.35
+217249_x_at	---	0.035946							-1.33	-0.36	0.87	0.49	0.46
+217293_at	---	0.014378							-0.51	-0.71	0.13	0.5	0.6
+217390_x_at	---	0.029463							-0.48	-1.2	0.4	0.96	0.39
+217404_s_at	COL2A1	0.00778	collagen, type II, alpha 1 (primary osteoarthritis, spondyloepiphyseal dysplasia, congenital)	skeletal development	extracellular matrix structural constituent	collagen			-0.46	-0.81	0.41	0.59	0.31
+217415_at	POLR2A	0.005067					Purine metabolism	GENMAPP/KEGG	-0.72	-0.95	0.48	0.4	0.83
+217457_s_at	RAP1GDS1	0.033026	RAP1, GTP-GDP dissociation stimulator 1		GTPase activator activity				-0.4	-0.64	0.31	0.08	0.65
+217460_at	TNP2	0.020044	transition protein 2 (during histone to protamine replacement)	DNA packaging	DNA binding	nucleosome			-0.48	-0.42	0.53	0.28	0.09
+217464_at	---	0.034442					Ribosomal_Proteins	GENMAPP/KEGG	-0.85	-0.3	0.16	0.6	0.42
+217518_at	FER1L3	0.04664	fer-1-like 3, myoferlin (C. elegans)	muscle contraction		nuclear membrane			-1.29	-1.34	1.66	0.97	-0.1
+217685_at	SLC16A3	0.019415							-1.28	-0.43	0.68	0.54	0.64
+217699_at	---	0.013239							-1.37	-1.13	0.39	0.75	1.41
+217777_s_at	HSPC121	0.046884	butyrate-induced transcript 1	I-kappaB kinase/NF-kappaB cascade	GTPase activator activity				-1.35	-1.11	-0.01	0.75	1.63
+217845_x_at	HIG1	0.037851	likely ortholog of mouse hypoxia induced gene 1						-0.89	-1.09	1.12	-0.04	0.89
+217944_at	FLJ20277	0.038015	O-linked mannose beta1,2-N-acetylglucosaminyltransferase	N-linked glycosylation	alpha-1,3-mannosylglycoprotein 2-beta-N-acetylglucosaminyltransferase activity	Golgi membrane			-0.79	-1.67	1.2	1.28	0.11
+218027_at	MRPL15	0.005184	mitochondrial ribosomal protein L15	protein biosynthesis	structural constituent of ribosome	intracellular			-0.89	-1.13	0.54	1.03	0.53
+218049_s_at	MRPL13	0.047583	mitochondrial ribosomal protein L13	protein biosynthesis	structural constituent of ribosome	intracellular			-0.54	-0.8	0.04	0.38	0.91
+218056_at	BFAR	0.008182	bifunctional apoptosis regulator	anti-apoptosis	ubiquitin-protein ligase activity	ubiquitin ligase complex			-0.54	-0.85	0.7	0.35	0.37
+218130_at	MGC4368	0.039975	hypothetical protein MGC4368						-0.23	-0.57	0.35	0.05	0.42
+218238_at	GTPBP4	0.013987	GTP binding protein 4		GTP binding	nucleus			-0.2	-0.5	0.24	0.22	0.25
+218299_at	C11orf24	0.010457	chromosome 11 open reading frame 24						-0.89	-0.96	0.92	0.74	0.23
+218395_at	ACTR6	0.02332	ARP6 actin-related protein 6 homolog (yeast)		structural constituent of cytoskeleton	actin cytoskeleton			-0.46	-0.79	0.67	0.12	0.47
+218417_s_at	FLJ20489	0.049788	hypothetical protein FLJ20489						-1.07	-0.34	0.87	0.22	0.38
+218583_s_at	RP42	0.018196	RP42 homolog						-0.54	-0.75	0.1	0.62	0.59
+218651_s_at	FLJ11196	0.034587	acheron						-0.69	-1.08	0.99	0.03	0.77
+218685_s_at	SMUG1	0.039224	single-strand selective monofunctional uracil DNA glycosylase	DNA repair	single-stranded DNA binding				-0.34	-0.61	0.36	0.56	0.03
+218736_s_at	PALMD	0.020576	palmdelphin	regulation of cell shape		membrane			-0.72	-1.31	0.57	0.37	1.17
+218755_at	KIF20A	0.0168	kinesin family member 20A	protein transport	motor activity	Golgi apparatus			-0.59	-1.23	0.82	0.79	0.31
+218911_at	GAS41	0.041165	YEATS domain containing 4	regulation of transcription, DNA-dependent	transcription factor activity	nucleus			-0.61	-1.07	1.02	0.63	0.04
+218945_at	MGC2654	0.029497	hypothetical protein MGC2654						-1.3	-0.74	0.11	0.93	1.05
+219002_at	FLJ21901	0.010521	hypothetical protein FLJ21901						-0.52	-1.19	0.55	0.6	0.68
+219227_at	FLJ14166	0.019718	hypothetical protein FLJ14166						-0.42	-0.69	0.33	0.63	0.17
+219346_at	LRFN3	0.016468	leucine rich repeat and fibronectin type III domain containing 3						-1.22	-1.29	0.32	0.75	1.46
+219355_at	FLJ10178	0.016897	hypothetical protein FLJ10178		nucleic acid binding				-0.43	-0.51	0.55	0.15	0.23
+219395_at	FLJ21918	0.036412	hypothetical protein FLJ21918						-0.83	-0.94	1.06	0.7	-0.01
+219471_at	C13orf18	0.049235	chromosome 13 open reading frame 18						-1.03	-0.67	1.2	0.22	0.24
+219473_at	GDAP2	0.024866	ganglioside induced differentiation associated protein 2						-0.68	-0.93	0.11	0.57	0.94
+219511_s_at	SNCAIP	0.039336	synuclein, alpha interacting protein (synphilin)		protein binding	cytoplasm			-0.71	-0.59	0.01	0.46	0.83
+219526_at	C14orf169	0.026623	chromosome 14 open reading frame 169						-0.36	-0.47	0.23	0.08	0.51
+219561_at	COPZ2	0.049409	coatomer protein complex, subunit zeta 2	intracellular protein transport		Golgi cis-face			-0.41	-1.39	0.35	0.44	1.13
+219617_at	FLJ23451	0.012553	hypothetical protein FLJ23451						-1.24	-1.56	0.33	1.4	1.19
+219744_at	FN3K	0.003565	fructosamine-3-kinase	fructoselysine metabolism	transferase activity				-1.03	-1.1	0.56	1.06	0.58
+219773_at	NOX4	0.021551	NADPH oxidase 4	energy pathways	nucleotide binding	membrane			-1.46	-0.63	1.05	0.36	0.82
+219785_s_at	FBXO31	0.000118	F-box protein 31						-0.99	-0.93	0.58	0.71	0.72
+219916_s_at	RNF39	0.028114	ring finger protein 39	protein ubiquitination	ubiquitin-protein ligase activity	ubiquitin ligase complex			-1.57	-0.98	1.08	1.41	0.13
+220093_at	ANTXR1	0.029122	anthrax toxin receptor 1		receptor activity	integral to membrane			-1.35	-1.57	0.51	1.89	0.45
+220160_s_at	KPTN	0.014866	kaptin (actin binding protein)	cell motility	actin binding	nucleus			-1.42	-1.31	0.4	0.79	1.59
+220267_at	KRT24	0.005046	keratin 24		structural molecule activity	intermediate filament			-1.09	-1.43	0.65	1.29	0.73
+220287_at	ADAMTS9	0.021632	a disintegrin-like and metalloprotease (reprolysin type) with thrombospondin type 1 motif, 9	glycoprotein catabolism	metalloendopeptidase activity	extracellular matrix (sensu Metazoa)			-0.61	-0.36	0.14	0.55	0.29
+220295_x_at	DEPDC1	0.004463	DEP domain containing 1	intracellular signaling cascade					-0.59	-0.72	0.27	0.63	0.44
+220337_at	NGB	0.011025	neuroglobin	transport	oxygen transporter activity	hemoglobin complex			-1.32	-0.9	0.32	1.06	0.93
+220343_at	PDE7B	0.030188	phosphodiesterase 7B	signal transduction	cAMP-specific phosphodiesterase activity		G_Protein_Signaling	GENMAPP/KEGG	-0.35	-0.16	0.13	0.3	0.08
+220349_s_at	FLJ21865	0.029143	endo-beta-N-acetylglucosaminidase	carbohydrate metabolism	hydrolase activity, acting on glycosyl bonds	intracellular	N-Glycan degradation	GENMAPP/KEGG	-0.26	-0.85	0.51	0.34	0.3
+220358_at	SNFT	0.008165	Jun dimerization protein p21SNFT	regulation of transcription, DNA-dependent	transcription factor activity	nucleus			-1.51	-1.18	1.45	0.54	0.84
+220407_s_at	TGFB2	0.004165							-0.84	-1.46	0.72	0.96	0.81
+220429_at	NDST3	0.023267	N-deacetylase/N-sulfotransferase (heparan glucosaminyl) 3	protein amino acid deacetylation	sulfotransferase activity				-0.56	-0.53	0.46	0.05	0.59
+220432_s_at	CYP39A1	0.002201	cytochrome P450, family 39, subfamily A, polypeptide 1	electron transport	monooxygenase activity	endoplasmic reticulum			-1.34	-1.34	0.97	1.25	0.63
+220468_at	FLJ22595	0.031248	hypothetical protein FLJ22595	small GTPase mediated signal transduction	GTP binding				-1.24	-0.85	1.28	0.12	0.7
+220486_x_at	FLJ22679	0.007795	hypothetical protein FLJ22679						-0.67	-1.25	0.47	0.72	0.84
+220533_at	FLJ13385	0.018571							-1.51	-1.54	0.35	0.92	1.8
+220545_s_at	TSKS	0.034517	testis-specific kinase substrate						-0.29	-0.92	0.61	0.42	0.22
+220567_at	ZNFN1A2	0.00304	zinc finger protein, subfamily 1A, 2 (Helios)	regulation of transcription, DNA-dependent	nucleic acid binding	nucleus			-1.57	-1.63	1.59	0.76	1.1
+220682_s_at	KLHL5	0.020168	kelch-like 5 (Drosophila)	actin cytoskeleton organization and biogenesis	actin binding	cytoskeleton			-1.45	-1.35	1.5	0.17	1.18
+220685_at	CXorf17	0.045669	chromosome X open reading frame 17						-0.37	-1.59	0.62	1.11	0.47
+220691_at	PRO0097	0.016739	PRO0097 protein						-0.6	-1.57	1.03	0.67	0.71
+220737_at	RPS6KA6	0.002092					Ribosomal_Proteins	GENMAPP/KEGG	-0.99	-1.25	0.96	0.54	0.87
+220865_s_at	TPRT	0.027467	trans-prenyltransferase	isoprenoid biosynthesis	transferase activity				-0.76	-0.57	0.08	0.46	0.79
+220951_s_at	ACF	0.043636	apobec-1 complementation factor	mRNA editing	double-stranded RNA binding	nucleus			-0.59	-0.75	0.53	-0.03	0.83
+221073_s_at	CARD4	0.037671	caspase recruitment domain family, member 4	signal transduction	signal transducer activity	intracellular			-1.04	-0.31	0.7	0.24	0.48
+221101_at	C14orf113	0.003958	chromosome 14 open reading frame 113						-0.99	-1.1	0.58	1.06	0.53
+221106_at	SLC22A17	0.016719	solute carrier family 22 (organic cation transporter), member 17	tRNA aminoacylation for protein translation	tRNA ligase activity	integral to membrane			-1.27	-1.13	0.84	1.35	0.25
+221119_at	FLJ20184	0.042707	hypothetical protein FLJ20184						-0.94	-0.76	1.1	0	0.57
+221141_x_at	EPN1	0.049195	epsin 1	endocytosis	lipid binding				-1.34	-1.2	1.71	0	0.68
+221171_at	FLJ20972	0.023294	hypothetical protein FLJ20972						-0.78	-1.3	0.16	0.93	1.06
+221177_at	MIA2	0.014246	melanoma inhibitory activity 2						-0.61	-1.42	0.68	0.55	0.96
+221189_s_at	FLJ12528	0.023431	threonyl-tRNA synthetase	protein biosynthesis	threonine-tRNA ligase activity				-0.59	-0.56	0.16	0.27	0.73
+221264_s_at	TARDBP	0.035024	TAR DNA binding protein	nuclear mRNA splicing, via spliceosome	transcription factor activity	nucleus			-0.23	-0.86	0.33	0.29	0.52
+221299_at	SREB3	0.029491	G-protein coupled receptor 173	signal transduction	rhodopsin-like receptor activity	integral to membrane	GPCRs_Class_A_Rhodopsin-like	GENMAPP/KEGG	-1.53	-0.39	0.78	0.63	0.76
+221343_at	OR11A1	0.034405	olfactory receptor, family 11, subfamily A, member 1	G-protein coupled receptor protein signaling pathway	olfactory receptor activity	integral to membrane	GPCRs_Class_A_Rhodopsin-like	GENMAPP/KEGG	-1.47	-1.07	0.01	1.15	1.41
+221384_at	UCP1	0.008039	uncoupling protein 1 (mitochondrial, proton carrier)	energy pathways	transporter activity	membrane fraction	Electron_Transport_Chain	GENMAPP/KEGG	-1.09	-1.46	0.55	0.76	1.36
+221447_s_at	LOC83468	0.008708	gycosyltransferase	carbohydrate biosynthesis	transferase activity				-1.24	-1.31	0.45	1.38	0.81
+221452_s_at	MGC1223	0.01493							-0.7	-1.16	0.88	0.24	0.8
+221454_at	BOK	0.008458	BCL2-related ovarian killer	induction of apoptosis			Apoptosis	GENMAPP/KEGG	-0.14	-0.14	0.13	0.04	0.13
+221548_s_at	ILKAP	0.045711	integrin-linked kinase-associated serine/threonine phosphatase 2C	protein amino acid dephosphorylation	magnesium ion binding	protein serine/threonine phosphatase complex			-0.88	-0.49	0.87	0.02	0.48
+221570_s_at	HSPC133	0.039862	HSPC133 protein		S-adenosylmethionine-dependent methyltransferase activity				-0.19	-0.82	0.29	0.31	0.45
+221573_at	C7orf25	0.008263	chromosome 7 open reading frame 25						-0.99	-0.57	0.72	0.54	0.35
+221615_at	BMP8B	0.009889	bone morphogenetic protein 8b (osteogenic protein 2)	skeletal development	cytokine activity	extracellular			-1.68	-1.39	1.08	1.64	0.49
+221685_s_at	FLJ20364	0.012054	hypothetical protein FLJ20364						-0.5	-0.44	0.49	0.35	0.11
+221727_at	PC4	0.003054	activated RNA polymerase II transcription cofactor 4	transcription	single-stranded DNA binding	nucleus			-1.09	-1.37	1.08	0.54	0.99
+221783_at	WIZ	0.014849	widely-interspaced zinc finger motifs		nucleic acid binding	nucleus			-1.53	-1.5	0.3	1.19	1.63
+221786_at	PHF10	0.01564	PHD finger protein 10	regulation of transcription, DNA-dependent	DNA binding				-0.53	-0.42	0.32	0.53	0.11
+221851_at	LOC90379	0.022294	hypothetical protein BC002926						-0.64	-0.21	0.26	0.36	0.25
+221925_s_at	FLJ22490	0.049425	hypothetical protein FLJ22490						-0.83	-0.86	0.73	1.03	-0.1
+221999_at	VRK3	0.01737	vaccinia related kinase 3	protein amino acid phosphorylation	protein serine/threonine kinase activity				-0.4	-0.6	0.31	0.13	0.56
+222028_at	ZNF45	0.008897	zinc finger protein 45 (a Kruppel-associated box (KRAB) domain polypeptide)	regulation of transcription, DNA-dependent	transcription factor activity	nucleus			-0.19	-0.39	0.19	0.24	0.16
+222047_s_at	ARS2	0.042869	arsenate resistance protein ARS2	response to arsenate					-0.33	-0.59	0.01	0.37	0.54
+222077_s_at	RACGAP1	0.036094	Rac GTPase activating protein 1	electron transport	electron transporter activity				-0.46	-0.66	0.61	0.51	0
+222204_s_at	RRN3	0.026307	RRN3 RNA polymerase I transcription factor homolog (yeast)	transcription from Pol I promoter	RNA polymerase I transcription factor activity				-1.23	-0.98	1.41	0.45	0.34
+222227_at	ZNF236	0.03749	zinc finger protein 236	regulation of transcription, DNA-dependent	transcription factor activity	nucleus			-1.4	-0.82	0.04	1.27	0.95
+222325_at	---	0.025276							-1.14	-1.14	0.98	0.07	1.24
+222327_x_at	OR7E156P	0.045655	olfactory receptor, family 7, subfamily E, member 156 pseudogene						-0.45	-0.43	0.63	0.1	0.14
+37170_at	BMP2K	0.049649	BMP2 inducible kinase	protein amino acid phosphorylation	protein serine/threonine kinase activity	nucleus			-0.53	-0.41	0.62	-0.03	0.34
+37226_at	BNIP1	0.030015	BCL2/adenovirus E1B 19kDa interacting protein 1	apoptosis		integral to membrane			-0.31	-0.98	0.3	0.65	0.41
+37512_at	RODH	0.002586	3-hydroxysteroid epimerase	androgen biosynthesis	electron transporter activity				-0.16	-0.23	0.16	0.13	0.1
+40273_at	SPHK2	0.030827	sphingosine kinase 2	sphinganine-1-phosphate biosynthesis	diacylglycerol kinase activity	membrane fraction	S1P_Signaling	GENMAPP/KEGG	-0.37	-0.15	0.06	0.26	0.2
+40837_at	TLE2	0.019491	transducin-like enhancer of split 2 (E(sp1) homolog, Drosophila)	regulation of transcription, DNA-dependent		nucleus			-1.12	-0.89	0.14	0.85	1.05
+52159_at	HEMK1	0.000909	HemK methyltransferase family member 1	DNA methylation	DNA binding				-0.48	-0.42	0.23	0.32	0.36
+53720_at	FLJ11286	0.039064	hypothetical protein FLJ11286						-1.03	-0.42	0.91	0.26	0.33
+AFFX-r2-Hs28SrRNA-M_at	AFFX-r2-Hs28SrRNA-M_at	0.039195							-0.37	-1.3	0.86	0.29	0.64
+200652_at	SSR2	0.043824	signal sequence receptor, beta (translocon-associated protein beta)	cotranslational protein-membrane targeting	signal sequence binding	endoplasmic reticulum			0.34	0.75	-0.13	-0.71	-0.27
+200700_s_at	KDELR2	0.001234	KDEL (Lys-Asp-Glu-Leu) endoplasmic reticulum protein retention receptor 2	intracellular protein transport	receptor activity	endoplasmic reticulum			1.34	1.34	-1.04	-0.67	-1.16
+200711_s_at	SKP1A	0.000845	S-phase kinase-associated protein 1A (p19A)						0.57	0.63	-0.32	-0.39	-0.51
+200714_x_at	OS-9	0.019154	amplified in osteosarcoma	cell growth and/or maintenance		soluble fraction			0.56	1.44	-0.51	-0.69	-0.98
+200732_s_at	PTP4A1	0.000915	protein tyrosine phosphatase type IVA, member 1	protein amino acid dephosphorylation	structural constituent of ribosome	nucleus			0.47	0.38	-0.22	-0.33	-0.3
+200740_s_at	SUMO3	0.01078	SMT3 suppressor of mif two 3 homolog 3 (yeast)			kinetochore	Circadian_Exercise	GENMAPP/KEGG	0.6	0.69	-0.6	-0.55	-0.15
+200810_s_at	CIRBP	0.043399	cold inducible RNA binding protein	response to cold	RNA binding	nucleus			0.5	1.24	-0.25	-1.11	-0.44
+200827_at	PLOD	0.027185	procollagen-lysine, 2-oxoglutarate 5-dioxygenase (lysine hydroxylase, Ehlers-Danlos syndrome type VI)	protein modification	electron transporter activity	endoplasmic reticulum	Lysine degradation	GENMAPP/KEGG	0.75	1.01	-0.6	-0.11	-1.05
+200857_s_at	NCOR1	0.028741	nuclear receptor co-repressor 1	regulation of transcription, DNA-dependent	DNA binding	nucleus	Ovarian_Infertility_Genes	GENMAPP/KEGG	0.97	0.74	-0.06	-0.99	-0.67
+200920_s_at	BTG1	0.010683					Circadian_Exercise	GENMAPP/KEGG	1.76	1.24	-1.67	-0.64	-0.86
+200927_s_at	RAB14	0.01198	RAB14, member RAS oncogene family						0.36	0.43	-0.29	-0.4	-0.09
+201056_at	---	0.01702	MRNA; cDNA DKFZp686F09142 (from clone DKFZp686F09142)						0.93	0.38	-0.35	-0.6	-0.4
+201367_s_at	ZFP36L2	0.032726	zinc finger protein 36, C3H type-like 2	cell proliferation	transcription factor activity	nucleus			1.39	0.9	-1.48	-0.27	-0.54
+201401_s_at	ADRBK1	0.021169	adrenergic, beta, receptor kinase 1	protein amino acid phosphorylation	G-protein coupled receptor kinase activity	soluble fraction			1.02	1.34	-1.42	-0.29	-0.67
+201427_s_at	SEPP1	0.007337	selenoprotein P, plasma, 1	response to oxidative stress	selenium binding	extracellular	Integrin-mediated_cell_adhesion	GENMAPP/KEGG	2.96	1.35	-2	-1.92	-1.67
+201474_s_at	ITGA3	0.036773	integrin, alpha 3 (antigen CD49C, alpha 3 subunit of VLA-3 receptor)	cell-matrix adhesion	receptor activity	integrin complex	Integrin-mediated_cell_adhesion	GENMAPP/KEGG	0.53	0.58	0.03	-0.55	-0.58
+201487_at	CTSC	0.026716	cathepsin C	proteolysis and peptidolysis	cysteine-type endopeptidase activity	lysosome			0.67	1.77	-1.29	-0.98	-0.44
+201536_at	DUSP3	0.01036	dual specificity phosphatase 3 (vaccinia virus phosphatase VH1-related)	protein amino acid dephosphorylation	protein tyrosine phosphatase activity				1.31	1.36	-0.72	-0.51	-1.51
+201560_at	CLIC4	0.044846	chloride intracellular channel 4	ion transport	voltage-gated chloride channel activity	membrane			0.29	1.09	-0.72	-0.22	-0.51
+201598_s_at	INPPL1	0.007124	inositol polyphosphate phosphatase-like 1	phosphate metabolism	inositol or phosphatidylinositol phosphatase activity		Inositol phosphate metabolism	GENMAPP/KEGG	0.13	0.18	-0.05	-0.14	-0.12
+201630_s_at	ACP1	0.022603	acid phosphatase 1, soluble	protein amino acid dephosphorylation	acid phosphatase activity	soluble fraction	gamma-Hexachlorocyclohexane degradation	GENMAPP/KEGG	0.5	0.31	-0.48	-0.18	-0.15
+201782_s_at	AIP	0.006532	aryl hydrocarbon receptor interacting protein	protein folding	transcription coactivator activity	cytoplasm			0.42	0.44	-0.22	-0.2	-0.45
+201813_s_at	TBC1D5	0.048606	TBC1 domain family, member 5		GTPase activator activity				0.28	0.41	-0.46	-0.22	0
+201815_s_at	TBC1D5	0.021387	TBC1 domain family, member 5		GTPase activator activity				0.57	0.52	-0.67	-0.18	-0.23
+201941_at	CPD	0.014048	carboxypeptidase D	proteolysis and peptidolysis	carboxypeptidase A activity	membrane fraction			0.85	0.47	-0.45	-0.24	-0.67
+202009_at	PTK9L	0.011301	PTK9L protein tyrosine kinase 9-like (A6-related protein)		actin binding	intracellular			0.28	0.41	-0.18	-0.15	-0.37
+202030_at	BCKDK	0.005086	branched chain alpha-ketoacid dehydrogenase kinase	signal transduction	two-component sensor molecule activity	mitochondrion			0.25	0.3	-0.25	-0.21	-0.1
+202033_s_at	RB1CC1	0.044959	RB1-inducible coiled-coil 1						0.78	0.52	0	-0.45	-0.84
+202048_s_at	CBX6	0.011588	chromobox homolog 6	chromatin assembly or disassembly	chromatin binding	chromatin			1.5	1.25	-0.54	-1.57	-0.73
+202056_at	KPNA1	0.028726	karyopherin alpha 1 (importin alpha 5)	regulation of DNA recombination	protein binding	nucleus			0.95	1.01	-0.24	-0.43	-1.27
+202058_s_at	KPNA1	0.049297	karyopherin alpha 1 (importin alpha 5)	regulation of DNA recombination	protein binding	nucleus			0.24	0.22	-0.28	0.03	-0.2
+202061_s_at	SEL1L	0.010629	sel-1 suppressor of lin-12-like (C. elegans)			integral to membrane			0.74	1.44	-0.83	-0.49	-1.02
+202161_at	PRKCL1	0.014305	protein kinase N1	protein amino acid phosphorylation	protein serine/threonine kinase activity	intracellular	G13_Signaling_Pathway	GENMAPP/KEGG	0.59	1.29	-0.77	-0.83	-0.4
+202283_at	SERPINF1	0.006085	serine (or cysteine) proteinase inhibitor, clade F (alpha-2 antiplasmin, pigment epithelium derived factor), member 1	development	serine-type endopeptidase inhibitor activity	extracellular			2.32	1.96	-0.78	-1.9	-2.06
+202315_s_at	BCR	0.043338	breakpoint cluster region	protein amino acid phosphorylation	protein serine/threonine kinase activity				1.11	1.25	0.1	-1.37	-1.04
+202344_at	HSF1	0.0028	heat shock transcription factor 1	regulation of transcription, DNA-dependent	transcription factor activity	nucleus			0.38	0.48	-0.37	-0.19	-0.31
+202367_at	CUTL1	0.003689	cut-like 1, CCAAT displacement protein (Drosophila)	negative regulation of transcription from Pol II promoter	transcription factor activity	nucleus			1.06	0.95	-0.69	-0.97	-0.43
+202378_s_at	OBRGRP	0.000465	leptin receptor gene-related protein			integral to plasma membrane			1.39	1.34	-1.06	-1.12	-0.77
+202395_at	NSF	0.020408	N-ethylmaleimide-sensitive factor	protein transport	nucleotide binding	endoplasmic reticulum			0.6	1.52	-0.44	-0.91	-0.97
+202423_at	MYST3	0.013983	MYST histone acetyltransferase (monocytic leukemia) 3	DNA packaging	DNA binding	ubiquitin ligase complex			0.95	0.63	-0.89	-0.34	-0.39
+202450_s_at	CTSK	0.01638	cathepsin K (pycnodysostosis)	proteolysis and peptidolysis	cathepsin K activity	lysosome			1.57	1.3	-0.4	-0.85	-1.68
+202470_s_at	CPSF6	0.043608	cleavage and polyadenylation specific factor 6, 68kDa	mRNA processing	RNA binding	nucleus			0.25	0.36	-0.43	-0.14	-0.05
+202495_at	TBCC	0.000835	tubulin-specific chaperone c	protein folding	unfolded protein binding	cytoskeleton			0.97	0.89	-0.68	-0.48	-0.77
+202612_s_at	CRSP2	0.028065	cofactor required for Sp1 transcriptional activation, subunit 2, 150kDa	regulation of transcription from Pol II promoter	receptor activity	mediator complex			0.36	1.18	-0.61	-0.67	-0.36
+202636_at	RNF103	0.004342	ring finger protein 103	central nervous system development	ubiquitin-protein ligase activity	ubiquitin ligase complex			0.8	0.99	-0.36	-0.84	-0.65
+202657_s_at	SERTAD2	0.002362	SERTA domain containing 2	regulation of transcription, DNA-dependent					1.05	0.98	-0.96	-0.49	-0.67
+202765_s_at	FBN1	0.005949							1.32	2.42	-1.72	-1.62	-1.1
+202766_s_at	FBN1	0.001753							1.58	2.03	-1.43	-1.62	-0.99
+202781_s_at	SKIP	0.031643	skeletal muscle and kidney enriched inositol phosphatase						0.34	0.28	-0.1	-0.11	-0.41
+202789_at	PLCG1	0.045208	phospholipase C, gamma 1	lipid metabolism	phosphoinositide phospholipase C activity		Inositol phosphate metabolism	GENMAPP/KEGG	1.11	1.24	0.01	-0.73	-1.54
+202849_x_at	GRK6	0.005586	G protein-coupled receptor kinase 6	protein amino acid phosphorylation	G-protein coupled receptor kinase activity				1.32	1.37	-1.28	-0.46	-1.09
+202869_at	OAS1	0.04329	2,5-oligoadenylate synthetase 1, 40/46kDa	nucleobase, nucleoside, nucleotide and nucleic acid metabolism	RNA binding	cytoplasm			1.39	0.52	-0.98	-0.93	-0.12
+202951_at	STK38	0.013266	serine/threonine kinase 38	protein amino acid phosphorylation	protein serine/threonine kinase activity	nucleus			1.18	0.58	-0.58	-0.4	-0.87
+202956_at	BIG1	0.00352	ADP-ribosylation factor guanine nucleotide-exchange factor 1(brefeldin A-inhibited)	exocytosis	guanyl-nucleotide exchange factor activity				0.71	0.56	-0.26	-0.56	-0.47
+203025_at	ARD1	0.027997	ARD1 homolog, N-acetyltransferase (S. cerevisiae)	DNA packaging	N-acetyltransferase activity	nucleus			0.46	0.22	-0.4	-0.11	-0.17
+203052_at	C2	0.032279	complement component 2	proteolysis and peptidolysis	classical-complement-pathway C3/C5 convertase activity	complement component C2 complex	Complement_Activation_Classical	GENMAPP/KEGG	0.49	1.13	-0.33	-0.37	-0.98
+203063_at	PPM1F	0.030795	protein phosphatase 1F (PP2C domain containing)	protein amino acid dephosphorylation	magnesium ion binding	protein serine/threonine phosphatase complex			0.63	1.75	-1.15	-0.36	-1.14
+203070_at	SEMA3B	0.002569							1.63	0.99	-0.99	-0.89	-0.99
+203082_at	BMS1L	0.0041	BMS1-like, ribosome assembly protein (yeast)	ribosome biogenesis	ATP binding	nucleus			0.61	0.35	-0.35	-0.27	-0.35
+203122_at	TTC15	0.042671	tetratricopeptide repeat domain 15						0.2	0.87	-0.52	-0.36	-0.25
+203136_at	RABAC1	0.00059	Rab acceptor 1 (prenylated)						1.47	1.2	-1	-1.08	-0.8
+203147_s_at	TRIM14	0.033092	tripartite motif-containing 14	compartment specification	protein binding	cytoplasm			1.06	0.49	-0.81	-0.11	-0.68
+203148_s_at	TRIM14	0.020689	tripartite motif-containing 14	compartment specification	protein binding	cytoplasm			2.27	0.87	-1.77	-0.92	-1.02
+203173_s_at	MGC16824	0.017501	esophageal cancer associated protein						0.37	0.93	-0.53	-0.29	-0.52
+203183_s_at	SMARCD1	0.023608	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 1	chromatin remodeling		nucleus			0.3	0.29	-0.37	-0.16	-0.07
+203263_s_at	ARHGEF9	0.043625	Cdc42 guanine nucleotide exchange factor (GEF) 9						0.22	0.77	-0.53	-0.14	-0.35
+203290_at	HLA-DQA1	0.028124	major histocompatibility complex, class II, DQ alpha 1	immune response	MHC class II receptor activity	integral to membrane			2.68	0.62	-1.25	-1.54	-1.67
+203363_s_at	KIAA0652	0.047831	KIAA0652 gene product						0.91	0.22	-0.24	-0.32	-0.62
+203422_at	POLD1	0.027022	polymerase (DNA directed), delta 1, catalytic subunit 125kDa	DNA replication	nucleotide binding	nucleus	Purine metabolism	GENMAPP/KEGG	0.96	0.46	-0.15	-0.56	-0.75
+203425_s_at	IGFBP5	0.011304	insulin-like growth factor binding protein 5	regulation of cell growth	insulin-like growth factor binding	extracellular			0.54	1.14	-0.54	-0.45	-0.78
+203446_s_at	OCRL	0.039709	oculocerebrorenal syndrome of Lowe	lipid metabolism	phosphoinositide 5-phosphatase activity	Golgi membrane	Phosphatidylinositol signaling system	GENMAPP/KEGG	0.45	0.77	-0.12	-0.3	-0.81
+203453_at	SCNN1A	0.012405	sodium channel, nonvoltage-gated 1 alpha	ion transport	ion channel activity	membrane fraction			0.95	1.59	-1.23	-1.08	-0.41
+203509_at	SORL1	0.00794							2.77	1.5	-2.22	-1.73	-1.2
+203546_at	IPO13	0.04965	importin 13	protein-nucleus import, docking	protein transporter activity	nucleus			0.57	0.39	-0.58	0.04	-0.42
+203556_at	ZHX2	0.022849	zinc fingers and homeoboxes 2	negative regulation of transcription, DNA-dependent	transcription factor activity	nucleus			0.49	0.63	-0.7	-0.17	-0.26
+203563_at	AFAP	0.01239	actin filament associated protein						1.45	1.38	-1.28	-0.3	-1.36
+203572_s_at	TAF6	0.023629	TAF6 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 80kDa	transcription initiation	DNA binding	nucleus			0.34	0.66	-0.34	-0.13	-0.54
+203586_s_at	ARF4L	0.005173	ADP-ribosylation factor 4-like	small GTPase mediated signal transduction	GTPase activity	nucleus			0.8	0.63	-0.26	-0.54	-0.65
+203627_at	IGF1R	0.035097	insulin-like growth factor 1 receptor	regulation of cell cycle	receptor activity	integral to membrane			1.66	0.36	-0.84	-0.68	-0.82
+203628_at	IGF1R	0.037666	insulin-like growth factor 1 receptor	regulation of cell cycle	receptor activity	integral to membrane			0.78	1.55	-1.34	-0.1	-0.98
+203631_s_at	GPRC5B	0.03835	G protein-coupled receptor, family C, group 5, member B				GPCRs_Class_C_Metabotropic_glutamate_pheromone	GENMAPP/KEGG	0.28	0.79	-0.46	-0.1	-0.53
+203706_s_at	FZD7	0.044263	frizzled homolog 7 (Drosophila)	cell surface receptor linked signal transduction	non-G-protein coupled 7TM receptor activity	plasma membrane	Wnt_signaling	GENMAPP/KEGG	0.46	0.57	-0.12	-0.73	-0.16
+203753_at	TCF4	0.015044	transcription factor 4	regulation of transcription from Pol II promoter	DNA binding	nucleus			1.39	0.53	-0.8	-0.59	-0.71
+203762_s_at	D2LIC	0.007289	dynein 2 light intermediate chain						1.82	0.93	-0.83	-1.25	-1.01
+203778_at	MANBA	0.034867					N-Glycan degradation	GENMAPP/KEGG	0.52	2.22	-1.51	-0.85	-1.04
+203799_at	DCL-1	0.005274	type I transmembrane C-type lectin receptor DCL-1		receptor activity	integral to membrane			1.49	1.05	-1.23	-0.57	-0.9
+203806_s_at	FANCA	0.031894	Fanconi anemia, complementation group A	DNA repair		nucleus			1.97	1.08	-1.58	-1.49	-0.15
+203883_s_at	RAB11FIP2	0.024085	RAB11 family interacting protein 2 (class I)						0.63	1.23	-0.96	-0.2	-0.78
+204028_s_at	RABGAP1	0.037195	RAB GTPase activating protein 1	cell cycle	GTPase activator activity	centrosome			0.86	1.64	-0.08	-1.15	-1.37
+204057_at	ICSBP1	0.005801							1.89	1.56	-0.65	-1.4	-1.69
+204157_s_at	KIAA0999	0.04162	KIAA0999 protein	protein amino acid phosphorylation	protein serine/threonine kinase activity				0.47	0.14	-0.24	-0.08	-0.3
+204192_at	CD37	0.022592	CD37 antigen	N-linked glycosylation		integral to plasma membrane			0.84	1.36	-1.17	-0.18	-0.92
+204214_s_at	RAB32	0.018088	RAB32, member RAS oncogene family	small GTPase mediated signal transduction	GTP binding	mitochondrion			1.08	1.04	-1.29	-0.45	-0.39
+204225_at	HDAC4	0.001451	histone deacetylase 4	regulation of transcription, DNA-dependent	histone deacetylase activity	histone deacetylase complex	Cell_cycle	GENMAPP/KEGG	1.33	0.95	-0.93	-0.68	-0.82
+204273_at	EDNRB	0.010803	endothelin receptor type B	negative regulation of adenylate cyclase activity	rhodopsin-like receptor activity	integral to plasma membrane	GPCRs_Class_A_Rhodopsin-like	GENMAPP/KEGG	1.23	1.81	-0.46	-1.46	-1.35
+204301_at	KIAA0711	0.044347	KIAA0711 gene product		protein binding				0.7	2.27	-1.91	-0.98	-0.53
+204308_s_at	KIAA0329	0.032531	KIAA0329						0.37	1.17	-0.75	-0.61	-0.27
+204311_at	ATP1B2	0.004585	ATPase, Na+/K+ transporting, beta 2 polypeptide	transport	sodium:potassium-exchanging ATPase activity	integral to membrane			1.7	1.36	-1.3	-1.39	-0.61
+204332_s_at	AGA	0.030717					N-Glycan degradation	GENMAPP/KEGG	0.44	1.59	-0.5	-0.86	-0.93
+204343_at	ABCA3	0.049264	ATP-binding cassette, sub-family A (ABC1), member 3	transport	nucleotide binding	membrane fraction			0.24	1.1	-0.3	-0.7	-0.43
+204346_s_at	RASSF1	0.006313	Ras association (RalGDS/AF-6) domain family 1	cell cycle	protein binding	nucleus			1.22	0.64	-0.54	-0.69	-0.74
+204404_at	SLC12A2	0.006068	solute carrier family 12 (sodium/potassium/chloride transporters), member 2	ion transport	transporter activity	membrane fraction			1.29	1.49	-1.09	-1.35	-0.49
+204454_at	LDOC1	0.030934	leucine zipper, down-regulated in cancer 1	negative regulation of cell proliferation		nucleus			1.43	0.6	-0.8	-0.24	-1.11
+204473_s_at	ZNF592	0.004636	zinc finger protein 592	regulation of transcription, DNA-dependent	DNA binding	nucleus			0.56	0.35	-0.31	-0.39	-0.22
+204556_s_at	DZIP1	0.046795	DAZ interacting protein 1	spermatogenesis	nucleic acid binding	nucleus			1.51	1.46	-1.55	-1.54	0.2
+204578_at	KIAA0377	0.034763	KIAA0377 gene product		acid phosphatase activity				1.05	0.5	-0.92	-0.15	-0.52
+204647_at	HOMER3	0.010176	homer homolog 3 (Drosophila)	protein targeting	protein binding				1.17	2.56	-1.52	-1.17	-1.87
+204689_at	HHEX	0.03673	hematopoietically expressed homeobox	regulation of transcription, DNA-dependent	transcription factor activity	nucleus			0.85	0.5	-0.73	-0.62	-0.02
+204785_x_at	IFNAR2	0.009984	interferon (alpha, beta and omega) receptor 2	cell surface receptor linked signal transduction	receptor activity	extracellular			0.9	0.45	-0.52	-0.31	-0.56
+204806_x_at	HLA-F	0.005088	major histocompatibility complex, class I, F	immune response	MHC class I receptor activity	integral to membrane	Proteasome_Degradation	GENMAPP/KEGG	1.34	2.18	-1.69	-0.95	-1.39
+204834_at	FGL2	0.032408	fibrinogen-like 2			fibrinogen complex			1.25	1.06	-0.03	-0.92	-1.35
+204888_s_at	NEURL	0.035391	neuralized-like (Drosophila)	neurogenesis	ubiquitin-protein ligase activity	ubiquitin ligase complex			1.07	1	0.04	-1.01	-1.09
+204893_s_at	ZFYVE9	0.000128	zinc finger, FYVE domain containing 9	electron transport	receptor activity	cytoplasm	TGF_Beta_Signaling_Pathway	GENMAPP/KEGG	0.2	0.23	-0.14	-0.16	-0.13
+205035_at	CTDP1	0.048412	CTD (carboxy-terminal domain, RNA polymerase II, polypeptide A) phosphatase, subunit 1		phosphoprotein phosphatase activity	nucleus			1.04	0.89	-0.86	-1.15	0.11
+205054_at	NEB	0.01221	nebulin	somatic muscle development	actin binding	actin cytoskeleton			1.41	0.72	-1.08	-0.5	-0.7
+205178_s_at	RBBP6	0.036424	retinoblastoma binding protein 6	regulation of cell cycle	nucleic acid binding	ubiquitin ligase complex			0.2	0.41	-0.05	-0.36	-0.2
+205233_s_at	PAFAH2	0.012671	platelet-activating factor acetylhydrolase 2, 40kDa	lipid catabolism	1-alkyl-2-acetylglycerophosphocholine esterase activity	soluble fraction	Glycerolipid metabolism	GENMAPP/KEGG	1	1.49	-1.18	-1.11	-0.33
+205235_s_at	MPHOSPH1	0.022642	M-phase phosphoprotein 1	cell cycle arrest	motor activity	nucleoplasm			0.29	0.8	-0.51	-0.35	-0.27
+205248_at	C21orf5	0.031364	chromosome 21 open reading frame 5	development					0.78	1.08	-1.11	-0.07	-0.69
+205304_s_at	KCNJ8	0.012861	potassium inwardly-rectifying channel, subfamily J, member 8	ion transport	voltage-gated ion channel activity	membrane fraction			1.31	1.53	-1.41	-1.23	-0.31
+205319_at	PSCA	0.018695	prostate stem cell antigen			plasma membrane			1.93	0.86	-1.12	-0.56	-1.46
+205358_at	GRIA2	0.048037	glutamate receptor, ionotropic, AMPA 2	ion transport	receptor activity	plasma membrane			0.11	0.29	-0.07	-0.07	-0.25
+205377_s_at	ACHE	0.025968	acetylcholinesterase (YT blood group)	acetylcholine breakdown in synaptic cleft	beta-amyloid binding	extracellular	Glycerolipid metabolism	GENMAPP/KEGG	2.07	0.54	-1.02	-1.15	-1.03
+205382_s_at	DF	0.013839	D component of complement (adipsin)	proteolysis and peptidolysis	complement factor D activity				1.2	3	-2.14	-1.29	-2.03
+205418_at	FES	0.041736	feline sarcoma oncogene	protein amino acid phosphorylation	protein-tyrosine kinase activity				0.5	0.86	-0.67	0.01	-0.72
+205434_s_at	AAK1	0.044409	AP2 associated kinase 1	protein amino acid phosphorylation	protein serine/threonine kinase activity				1.19	0.53	-0.16	-1.1	-0.49
+205471_s_at	DACH1	0.007885	dachshund homolog 1 (Drosophila)	regulation of transcription, DNA-dependent	DNA binding	nucleus			1.76	1.04	-1.44	-0.84	-0.78
+205491_s_at	GJB3	0.047837	gap junction protein, beta 3, 31kDa (connexin 31)	cell communication	connexon channel activity	connexon complex	Gap_Junction_Proteins-Connexins	GENMAPP/KEGG	1.39	1.14	-1.08	0.13	-1.52
+205496_at	KIAA0408	0.002833	KIAA0408						1.21	0.97	-0.7	-1.03	-0.55
+205516_x_at	CIZ1	0.045794	CDKN1A interacting zinc finger protein 1	regulation of cell cycle	nucleic acid binding	nucleus			0.3	1.26	-0.63	-0.27	-0.79
+205518_s_at	CMAH	0.024205	cytidine monophosphate-N-acetylneuraminic acid hydroxylase (CMP-N-acetylneuraminate monooxygenase)						1.46	1.8	-1.32	-0.17	-1.82
+205571_at	LIPT1	0.028123	lipoyltransferase 1	protein modification	ligase activity	mitochondrion			0.42	1.59	-0.84	-0.65	-0.79
+205606_at	LRP6	0.008765	low density lipoprotein receptor-related protein 6	endocytosis	receptor activity	plasma membrane			0.56	1.19	-0.71	-0.54	-0.61
+205657_at	HAAO	0.016662	3-hydroxyanthranilate 3,4-dioxygenase		3-hydroxyanthranilate 3,4-dioxygenase activity		Tryptophan metabolism	GENMAPP/KEGG	1	0.8	-0.27	-1.05	-0.5
+205668_at	LY75	0.025517	lymphocyte antigen 75	endocytosis	receptor activity	integral to plasma membrane			1.01	0.91	-1.02	-0.06	-0.85
+205685_at	CD86	0.01998	CD86 antigen (CD28 antigen ligand 2, B7-2 antigen)	immune response	protein binding	plasma membrane	Inflammatory_Response_Pathway	GENMAPP/KEGG	0.6	1.91	-0.89	-1.05	-1.01
+205726_at	DIAPH2	0.01168	diaphanous homolog 2 (Drosophila)	cytokinesis	actin binding	membrane	DNA_replication	GENMAPP/KEGG	0.76	1.19	-0.74	-0.31	-0.98
+205728_at	SH2D1A	0.001833	SH2 domain protein 1A, Duncans disease (lymphoproliferative syndrome)	cellular defense response	SH3/SH2 adaptor protein activity	cytoplasm			1.6	1.05	-0.94	-1.07	-0.88
+205752_s_at	GSTM5	0.005022	glutathione S-transferase M5	metabolism	glutathione transferase activity		Glutathione metabolism	GENMAPP/KEGG	0.99	0.58	-0.5	-0.69	-0.44
+205812_s_at	HSGP25L2G	0.023312	gp25L2 protein						0.44	0.74	-0.29	-0.2	-0.7
+205818_at	DBC1	0.000149	deleted in bladder cancer 1	cell cycle	protein binding				1.45	1.41	-0.95	-0.97	-1.19
+205819_at	MARCO	0.041958	macrophage receptor with collagenous structure	phosphate transport	receptor activity	cytoplasm			0.47	0.95	-0.94	-0.27	-0.22
+205821_at	KLRK1	0.020005	killer cell lectin-like receptor subfamily K, member 1						1.67	0.56	-1.02	-0.74	-0.76
+205827_at	CCK	0.00121	cholecystokinin	signal transduction	hormone activity	extracellular			1.08	1.37	-0.69	-1.05	-0.86
+205829_at	HSD17B1	0.024986	hydroxysteroid (17-beta) dehydrogenase 1	estrogen biosynthesis	estradiol 17-beta-dehydrogenase activity	cytoplasm	Steroid_Biosynthesis	GENMAPP/KEGG	0.69	0.78	-0.76	-0.04	-0.67
+205910_s_at	CEL	0.04418					Bile acid biosynthesis	GENMAPP/KEGG	0.52	0.13	-0.22	-0.32	-0.12
+206036_s_at	REL	0.011221	v-rel reticuloendotheliosis viral oncogene homolog (avian)	regulation of transcription, DNA-dependent	transcription factor activity	nucleus			1.19	1.19	-1.25	-0.3	-0.89
+206040_s_at	MAPK11	0.006574	mitogen-activated protein kinase 11	protein amino acid phosphorylation	protein serine/threonine kinase activity				0.27	0.17	-0.12	-0.21	-0.12
+206212_at	CPA2	0.033617	carboxypeptidase A2 (pancreatic)	proteolysis and peptidolysis	carboxypeptidase activity				0.33	0.87	-0.42	-0.16	-0.65
+206246_at	PFKFB4	0.000772	6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 4	fructose 2,6-bisphosphate metabolism	6-phosphofructo-2-kinase activity				2.13	1.6	-1.28	-1.38	-1.61
+206254_at	EGF	0.008079	epidermal growth factor (beta-urogastrone)	activation of MAPK	epidermal growth factor receptor activating ligand activity	extracellular	TGF_Beta_Signaling_Pathway	GENMAPP/KEGG	1.5	0.71	-0.7	-0.89	-0.83
+206271_at	TLR3	0.012142	toll-like receptor 3	inflammatory response	double-stranded RNA binding	integral to plasma membrane			0.82	1.97	-1.31	-1	-0.93
+206289_at	HOXA4	0.026941	homeo box A4	regulation of transcription, DNA-dependent	transcription factor activity	nucleus			1.27	0.41	-0.71	-0.73	-0.37
+206304_at	MYBPH	0.003922	myosin binding protein H	regulation of striated muscle contraction	protein binding	cytoskeleton	G13_Signaling_Pathway	GENMAPP/KEGG	1.6	1.17	-1.16	-1.2	-0.61
+206324_s_at	DAPK2	0.019638	death-associated protein kinase 2	protein amino acid phosphorylation	protein serine/threonine kinase activity	cytoplasm			1.59	0.75	-0.37	-1.03	-1.14
+206326_at	GRP	0.028325	gastrin-releasing peptide	signal transduction	growth factor activity	soluble fraction			1.57	0.51	-1.09	-0.68	-0.53
+206351_s_at	PEX10	0.011468	peroxisome biogenesis factor 10	peroxisome organization and biogenesis	ubiquitin-protein ligase activity	ubiquitin ligase complex			1.58	0.98	-1.19	-0.41	-1.14
+206430_at	CDX1	0.02681	caudal type homeo box transcription factor 1	regulation of transcription, DNA-dependent	transcription factor activity	nucleus			0.84	0.34	-0.21	-0.63	-0.37
+206567_s_at	C20orf104	0.035641	chromosome 20 open reading frame 104	regulation of transcription, DNA-dependent	DNA binding	nucleus			0.83	0.25	-0.2	-0.52	-0.39
+206583_at	FLJ20344	0.04241	hypothetical protein FLJ20344	regulation of transcription, DNA-dependent	nucleic acid binding	intracellular			1.13	0.85	-1.29	-0.62	-0.03
+206589_at	GFI1	0.041018	growth factor independent 1	G1/S-specific transcription in mitotic cell cycle	DNA binding	nucleus			0.76	1	-1.03	0.04	-0.77
+206604_at	OVOL1	0.032583	ovo-like 1(Drosophila)	regulation of transcription, DNA-dependent	transcription factor activity	nucleus			0.96	1.23	-1.13	0	-1.07
+206657_s_at	MYOD1	0.01437	myogenic factor 3	regulation of transcription, DNA-dependent	DNA binding	nucleus			0.83	1.64	-1.31	-0.79	-0.57
+206674_at	FLT3	0.040792	fms-related tyrosine kinase 3	protein amino acid phosphorylation	receptor activity	integral to plasma membrane			2.58	0.39	-1.36	-1.22	-1.52
+206694_at	PNLIPRP1	0.001413	pancreatic lipase-related protein 1	lipid metabolism	catalytic activity	extracellular	Glycerolipid metabolism	GENMAPP/KEGG	1.6	1.27	-1.31	-0.96	-0.86
+206701_x_at	EDNRB	0.043881	endothelin receptor type B	negative regulation of adenylate cyclase activity	rhodopsin-like receptor activity	integral to plasma membrane	GPCRs_Class_A_Rhodopsin-like	GENMAPP/KEGG	0.69	1.95	-0.23	-1.18	-1.51
+206782_s_at	DNAJC4	0.028946	DnaJ (Hsp40) homolog, subfamily C, member 4	protein folding	unfolded protein binding	integral to membrane			1.26	0.5	-0.48	-0.37	-1
+206801_at	NPPB	0.043458	natriuretic peptide precursor B	cell surface receptor linked signal transduction	diuretic hormone activity	extracellular space			0.68	0.35	-0.21	-0.69	-0.13
+206803_at	PDYN	0.009479							1.12	0.76	-1	-0.42	-0.52
+206817_x_at	TNRC4	0.031483	trinucleotide repeat containing 4	nuclear mRNA splicing, via spliceosome	transcription factor activity	nucleus			0.42	0.78	-0.37	-0.73	-0.12
+206822_s_at	L3MBTL	0.003006	l(3)mbt-like (Drosophila)	regulation of transcription, DNA-dependent	transcription factor activity	nucleus			1.29	2.16	-1.17	-1.35	-1.49
+206824_at	CES4	0.013402	carboxylesterase 4-like	xenobiotic metabolism	carboxylesterase activity	endoplasmic reticulum			1.03	1.03	-1.19	-0.34	-0.56
+206844_at	FBP2	0.018191	fructose-1,6-bisphosphatase 2	carbohydrate metabolism	fructose-2,6-bisphosphate 2-phosphatase activity		Glycolysis / Gluconeogenesis	GENMAPP/KEGG	0.37	0.68	-0.58	-0.21	-0.27
+206848_at	HOXA7	0.016247							0.45	0.26	-0.36	-0.09	-0.27
+206860_s_at	FLJ20323	0.023093	hypothetical protein FLJ20323						0.36	0.91	-0.38	-0.28	-0.64
+206869_at	CHAD	0.024301	chondroadherin	regulation of cell growth	extracellular matrix structural constituent	extracellular matrix (sensu Metazoa)			0.27	0.71	-0.33	-0.18	-0.48
+206884_s_at	SCEL	0.03495	sciellin	epidermis development		cytoplasm			0.74	1.57	-1.3	-0.16	-0.96
+206889_at	ARHGDIG	0.007458	Rho GDP dissociation inhibitor (GDI) gamma	negative regulation of cell adhesion	Rho GDP-dissociation inhibitor activity	cytoplasmic vesicle			0.63	0.76	-0.72	-0.41	-0.27
+206896_s_at	GNG7	0.048052	guanine nucleotide binding protein (G protein), gamma 7	signal transduction	signal transducer activity	heterotrimeric G-protein complex			0.25	1.45	-0.75	-0.49	-0.67
+206922_at	VCY1B	0.031533	variable charge, Y-linked 1B						0.87	1.54	-0.63	-1.52	-0.31
+206953_s_at	LPHN2	0.015896	latrophilin 2	neuropeptide signaling pathway	G-protein coupled receptor activity	integral to membrane			0.74	2.12	-1.02	-1.22	-1.22
+207000_s_at	PPP3CC	0.044352	protein phosphatase 3 (formerly 2B), catalytic subunit, gamma isoform (calcineurin A gamma)		phosphoprotein phosphatase activity	calcineurin complex	G_Protein_Signaling	GENMAPP/KEGG	1.01	1.14	0.09	-1.29	-0.91
+207019_s_at	AKAP4	0.021819	A kinase (PRKA) anchor protein 4	cell motility	protein kinase A binding	cytoskeleton			0.63	2.07	-1.28	-0.99	-0.99
+207022_s_at	LDHC	0.040585	lactate dehydrogenase C	glycolysis	L-lactate dehydrogenase activity		Glycolysis / Gluconeogenesis	GENMAPP/KEGG	1.03	0.67	-0.18	-1.15	-0.36
+207054_at	IMPG1	0.033186	interphotoreceptor matrix proteoglycan 1	visual perception	receptor activity	extracellular matrix (sensu Metazoa)			0.66	0.66	-0.76	-0.56	0
+207105_s_at	PIK3R2	0.020103	phosphoinositide-3-kinase, regulatory subunit, polypeptide 2 (p85 beta)	intracellular signaling cascade	phosphatidylinositol 3-kinase activity	phosphoinositide 3-kinase complex	G13_Signaling_Pathway	GENMAPP/KEGG	0.62	0.64	-0.78	-0.2	-0.28
+207108_s_at	IDN3	0.009782	Nipped-B homolog (Drosophila)	cell cycle		nucleus			0.7	0.81	-0.7	-0.65	-0.19
+207118_s_at	MMP23A	0.003954	matrix metalloproteinase 23A	reproduction	metalloendopeptidase activity	extracellular matrix (sensu Metazoa)			1.47	0.89	-0.68	-0.84	-1.03
+207138_at	PHF2	0.002348	PHD finger protein 2	regulation of transcription, DNA-dependent	DNA binding	nucleus			1.26	1.54	-1.22	-1.14	-0.66
+207179_at	TLX1	0.039541							0.66	0.39	-0.03	-0.38	-0.65
+207187_at	JAK3	0.006975	Janus kinase 3 (a protein tyrosine kinase, leukocyte)	protein amino acid phosphorylation	protein serine/threonine kinase activity	cytoskeleton			0.23	0.37	-0.19	-0.28	-0.13
+207195_at	CNTN6	0.030524	contactin 6	cell adhesion					1.29	0.86	-1.3	-0.75	-0.12
+207232_s_at	DZIP3	0.001365	zinc finger DAZ interacting protein 3						1.34	0.93	-0.91	-0.74	-0.77
+207299_s_at	GRM1	0.007606	glutamate receptor, metabotropic 1	G-protein coupled receptor protein signaling pathway	metabotropic glutamate, GABA-B-like receptor activity	integral to plasma membrane	GPCRs_Class_C_Metabotropic_glutamate_pheromone	GENMAPP/KEGG	1.91	0.88	-1.07	-1.07	-1.07
+207361_at	HBP1	0.000622	HMG-box transcription factor 1	regulation of transcription, DNA-dependent	DNA binding				0.7	0.85	-0.53	-0.62	-0.45
+207437_at	NOVA1	0.014443	neuro-oncological ventral antigen 1	synaptic transmission	RNA binding	nucleus			1.78	0.95	-1.28	-1.23	-0.47
+207461_at	CHD3	0.041028							1.54	1.07	-1.33	0.07	-1.35
+207523_at	C6orf10	0.034783	chromosome 6 open reading frame 10						1.16	1.68	0	-1.46	-1.41
+207565_s_at	MR1	0.006004	major histocompatibility complex, class I-related	immune response	MHC class I receptor activity	membrane			1.06	1.22	-0.76	-0.44	-1.16
+207586_at	SHH	0.006354	sonic hedgehog homolog (Drosophila)	proteolysis and peptidolysis	peptidase activity				1.14	1.3	-1.1	-0.39	-1.06
+207638_at	PRSS7	0.035816	protease, serine, 7 (enterokinase)	proteolysis and peptidolysis	chymotrypsin activity	brush border			1.17	0.96	-1.4	-0.15	-0.53
+207728_at	ATF7IP	0.001693	activating transcription factor 7 interacting protein	DNA methylation	protein binding	nucleus			1.69	1.34	-1.04	-0.86	-1.4
+207756_at	---	0.018178							0.75	2.4	-1.28	-1.32	-1.38
+207767_s_at	EGR4	0.017845							0.45	0.88	-0.3	-0.34	-0.72
+207801_s_at	RNF10	0.030712	ring finger protein 10	protein ubiquitination	ubiquitin-protein ligase activity	ubiquitin ligase complex			0.95	0.38	-0.73	-0.46	-0.19
+207838_x_at	PBXIP1	0.020979	pre-B-cell leukemia transcription factor interacting protein 1	negative regulation of transcription	transcription corepressor activity	nucleus			1.55	1.07	-0.63	-1.59	-0.45
+207849_at	IL2	0.001343	interleukin 2						1.04	1.41	-0.71	-1.02	-0.9
+207913_at	CYP2F1	0.026211	cytochrome P450, family 2, subfamily F, polypeptide 1	electron transport	monooxygenase activity	endoplasmic reticulum	Fatty acid metabolism	GENMAPP/KEGG	0.59	2.04	-0.78	-1.32	-1.05
+207915_at	MYCL2	0.015288	v-myc myelocytomatosis viral oncogene homolog 2 (avian)						0.77	1.34	-1.11	-0.77	-0.34
+207955_at	CCL27	0.013256	chemokine (C-C motif) ligand 27	chemotaxis	chemokine activity	extracellular			0.85	1.7	-1.32	-0.85	-0.6
+207966_s_at	GLG1	0.029911	golgi apparatus protein 1		receptor binding	Golgi membrane			0.82	0.98	-0.18	-0.45	-1.15
+207979_s_at	CD8B1	0.024196	CD8 antigen, beta polypeptide 1 (p37)	immune response	protein binding	integral to plasma membrane			1.4	1.19	-0.28	-0.69	-1.6
+208045_at	SPAR	0.033644	surfactant protein A binding protein	respiratory gaseous exchange	receptor activity	plasma membrane			1.64	0.77	-1.42	-0.9	-0.23
+208104_s_at	THG-1	0.049415	TSC-22-like	regulation of transcription, DNA-dependent	transcription factor activity	nucleus			0.13	0.6	-0.23	-0.15	-0.36
+208158_s_at	OSBPL1A	0.003817	oxysterol binding protein-like 1A	lipid transport	phospholipid binding	intracellular			0.74	1.07	-0.7	-0.77	-0.41
+208192_at	---	0.011157							0.91	2.02	-0.81	-1.29	-1.29
+208198_x_at	KIR3DL1	0.049985	killer cell immunoglobulin-like receptor, three domains, long cytoplasmic tail, 1	immune response	receptor activity	integral to plasma membrane			1.09	1.83	-1.42	-1.64	0.12
+208373_s_at	P2RY6	0.015106	pyrimidinergic receptor P2Y, G-protein coupled, 6	G-protein signaling, coupled to IP3 second messenger (phospholipase C activating)	rhodopsin-like receptor activity	integral to plasma membrane	GPCRs_Class_A_Rhodopsin-like	GENMAPP/KEGG	1.24	1.43	-0.82	-0.37	-1.54
+208407_s_at	CTNND1	0.028925	catenin (cadherin-associated protein), delta 1	cell-cell adhesion	structural molecule activity	nucleus			1.25	1.48	-0.09	-1.59	-1.04
+208415_x_at	ING1	0.016731	inhibitor of growth family, member 1	regulation of transcription, DNA-dependent	DNA binding	nucleus			0.78	0.38	-0.3	-0.6	-0.28
+208492_at	RFXAP	0.042156	regulatory factor X-associated protein	transcription from Pol II promoter	transcription factor activity	nucleus			0.4	0.53	0.02	-0.57	-0.37
+208522_s_at	PTCH	0.031447	patched homolog (Drosophila)	signal transduction	receptor activity	integral to plasma membrane			1.73	0.49	-1.13	-0.87	-0.54
+208620_at	PCBP1	0.007495	poly(rC) binding protein 1	mRNA metabolism	single-stranded DNA binding	nucleus			0.94	1.07	-0.95	-0.82	-0.3
+208634_s_at	MACF1	0.020882	microtubule-actin crosslinking factor 1	cell cycle arrest	actin binding	cytoskeleton			0.92	1.12	-1.23	-0.57	-0.24
+208686_s_at	BRD2	0.015432	bromodomain containing 2	spermatogenesis	protein serine/threonine kinase activity	nucleus			0.62	1.55	-0.67	-1.03	-0.69
+208702_x_at	APLP2	0.019497	amyloid beta (A4) precursor-like protein 2	G-protein coupled receptor protein signaling pathway	DNA binding	nucleus			1.6	1.49	-1.14	-1.75	-0.25
+208704_x_at	APLP2	0.026229	amyloid beta (A4) precursor-like protein 2	G-protein coupled receptor protein signaling pathway	DNA binding	nucleus			2.37	0.71	-1.47	-1.53	-0.81
+208741_at	SAP18	0.046382	sin3-associated polypeptide, 18kDa	regulation of transcription from Pol II promoter	transcription corepressor activity	histone deacetylase complex			0.19	0.99	-0.41	-0.32	-0.53
+208760_at	UBE2I	0.040239	ubiquitin-conjugating enzyme E2I (UBC9 homolog, yeast)	ubiquitin-dependent protein catabolism	ubiquitin conjugating enzyme activity	synaptonemal complex	Ubiquitin mediated proteolysis	GENMAPP/KEGG	0.38	0.41	0.03	-0.43	-0.4
+208943_s_at	TLOC1	0.038494	translocation protein 1	cotranslational protein-membrane targeting	receptor activity	endoplasmic reticulum			0.4	1.62	-0.48	-0.74	-1.06
+208982_at	PECAM1	0.015699	platelet/endothelial cell adhesion molecule (CD31 antigen)	cell motility	nucleic acid binding	plasma membrane			0.66	1.74	-0.89	-1.1	-0.73
+208992_s_at	STAT3	0.036	signal transducer and activator of transcription 3 (acute-phase response factor)	negative regulation of transcription from Pol II promoter	transcription factor activity	nucleus			0.47	0.76	-0.78	-0.38	-0.08
+209001_s_at	ANAPC13	0.044111	anaphase promoting complex subunit 13						0.2	0.85	-0.45	-0.44	-0.2
+209012_at	TRIO	0.024557	triple functional domain (PTPRF interacting)	protein amino acid phosphorylation	protein serine/threonine kinase activity				1.19	0.83	-0.1	-1.06	-0.89
+209076_s_at	LOC56270	0.036281	WDR45-like						0.87	0.41	-0.11	-0.42	-0.76
+209114_at	TSPAN-1	0.013832	tetraspan 1	cell motility		integral to membrane			0.5	0.66	-0.14	-0.43	-0.61
+209201_x_at	CXCR4	0.047244	chemokine (C-X-C motif) receptor 4				GPCRs_Class_A_Rhodopsin-like	GENMAPP/KEGG	0.6	1.02	-1.12	-0.34	-0.15
+209376_x_at	SFRS2IP	0.036278	splicing factor, arginine/serine-rich 2, interacting protein	mRNA processing	pre-mRNA splicing factor activity	DNA-directed RNA polymerase II, core complex	Apoptosis	GENMAPP/KEGG	0.51	0.42	-0.13	-0.16	-0.63
+209407_s_at	DEAF1	0.03017	deformed epidermal autoregulatory factor 1 (Drosophila)						1.02	0.61	-0.92	-0.64	-0.09
+209419_at	C22orf19	0.049915	chromosome 22 open reading frame 19						0.8	0.42	-0.27	-0.83	-0.11
+209424_s_at	AMACR	0.001916	alpha-methylacyl-CoA racemase	metabolism	alpha-methylacyl-CoA racemase activity	mitochondrion			0.72	1.09	-0.7	-0.65	-0.55
+209428_s_at	ZFPL1	0.028427	zinc finger protein-like 1			integral to membrane			0.49	0.63	-0.72	-0.27	-0.13
+209432_s_at	CREB3	0.013322	cAMP responsive element binding protein 3	regulation of transcription, DNA-dependent	DNA binding	nucleus			0.25	0.61	-0.28	-0.28	-0.31
+209435_s_at	ARHGEF2	0.019063	rho/rac guanine nucleotide exchange factor (GEF) 2	cellular morphogenesis	Rho guanyl-nucleotide exchange factor activity	microtubule			0.89	1.11	-0.22	-0.63	-1.17
+209508_x_at	CFLAR	0.031345	CASP8 and FADD-like apoptosis regulator	proteolysis and peptidolysis	signal transducer activity				0.36	1.04	-0.7	-0.22	-0.54
+209515_s_at	RAB27A	0.03908	RAB27A, member RAS oncogene family	small GTPase mediated signal transduction	GTPase activity				0.91	1.79	-1.71	-0.21	-0.86
+209593_s_at	TOR1B	0.022809	torsin family 1, member B (torsin B)	protein folding	ATP binding	endoplasmic reticulum			0.61	0.83	-0.65	-0.08	-0.74
+209630_s_at	FBXW2	0.042261	F-box and WD-40 domain protein 2				Wnt_signaling	GENMAPP/KEGG	0.8	0.53	-0.42	-0.04	-0.86
+209686_at	S100B	0.022484	S100 calcium binding protein, beta (neural)	energy reserve metabolism	calcium ion binding	extracellular			0.71	2.53	-1.53	-1.16	-1.51
+209707_at	PIGK	0.009096	phosphatidylinositol glycan, class K	proteolysis and peptidolysis	legumain activity	endoplasmic reticulum			1.28	0.86	-0.83	-0.37	-1.04
+209766_at	PRDX3	0.035334	peroxiredoxin 3		peroxidase activity	mitochondrion			0.82	0.46	-0.77	-0.07	-0.45
+209783_at	DBP	0.02054							0.74	0.87	-0.13	-0.92	-0.57
+209797_at	TMEM4	0.001138	transmembrane protein 4			integral to plasma membrane			0.44	0.53	-0.38	-0.36	-0.24
+209807_s_at	NFIX	0.002316	nuclear factor I/X (CCAAT-binding transcription factor)	DNA replication	transcription factor activity	nucleus			1.28	1.28	-0.56	-1.04	-1.12
+209844_at	HOXB13	0.049964	homeo box B13	regulation of transcription, DNA-dependent	transcription factor activity	nucleus			0.36	0.44	-0.57	-0.19	-0.03
+209859_at	TRIM9	0.015151	tripartite motif-containing 9	protein ubiquitination	ubiquitin-protein ligase activity	ubiquitin ligase complex			1.72	0.66	-1.03	-0.97	-0.7
+209925_at	OCLN	0.004239	occludin	protein complex assembly	structural molecule activity	plasma membrane			1.43	1.16	-1.29	-0.6	-0.85
+209943_at	FBXL4	0.033666	F-box and leucine-rich repeat protein 4			nucleus			1.11	0.79	-0.01	-1.01	-0.9
+209960_at	HGF	0.03408	hepatocyte growth factor (hepapoietin A; scatter factor)	proteolysis and peptidolysis	chymotrypsin activity				2.18	0.77	-1.84	-0.88	-0.66
+209961_s_at	HGF	0.03701							1.73	0.89	-1.71	-0.42	-0.55
+209993_at	ABCB1	0.046654	ATP-binding cassette, sub-family B (MDR/TAP), member 1	transport	nucleotide binding	membrane fraction			1.31	0.55	-0.2	-0.51	-1.2
+210000_s_at	SOCS1	0.040835							1.08	1.73	-1.53	0.03	-1.35
+210022_at	NSPC1	0.049317	likely ortholog of mouse nervous system polycomb 1	protein ubiquitination	ubiquitin-protein ligase activity	ubiquitin ligase complex			0.7	0.58	-0.36	-0.01	-0.89
+210025_s_at	CARD10	0.044294	caspase recruitment domain family, member 10	protein complex assembly	protein binding	cytoplasm			0.65	0.72	-0.75	-0.69	0.07
+210163_at	CXCL11	0.007322	chemokine (C-X-C motif) ligand 11	chemotaxis	chemokine activity	extracellular			0.98	1.62	-0.85	-0.66	-1.31
+210191_s_at	PHTF1	0.002273	putative homeodomain transcription factor 1	regulation of transcription, DNA-dependent	transcription factor activity	nucleus			0.69	0.63	-0.57	-0.28	-0.49
+210239_at	IRX5	0.04809	iroquois homeobox protein 5	regulation of transcription, DNA-dependent	transcription factor activity	nucleus			0.75	0.96	-0.92	0.1	-0.88
+210252_s_at	MADD	0.045848	MAP-kinase activating death domain	cell surface receptor linked signal transduction	death receptor binding	cytoplasm			0.23	0.77	-0.43	-0.1	-0.49
+210341_at	MYT1	0.027247	myelin transcription factor 1	regulation of transcription, DNA-dependent	transcription factor activity	nucleus			0.79	0.73	-0.91	-0.55	-0.07
+210392_x_at	NR6A1	0.000472	nuclear receptor subfamily 6, group A, member 1	regulation of transcription, DNA-dependent	transcription factor activity	nucleus			1.53	1.68	-0.94	-1.25	-1.34
+210417_s_at	PIK4CB	0.036822	phosphatidylinositol 4-kinase, catalytic, beta polypeptide		phosphotransferase activity, alcohol group as acceptor				0.35	0.71	-0.53	-0.5	-0.04
+210486_at	ANKMY1	0.001106	ankyrin repeat and MYND domain containing 1						1.5	1.96	-1.54	-1.27	-1.08
+210596_at	DKFZp564K142	0.030468							0.85	0.53	-0.05	-0.62	-0.72
+210637_at	TACR1	0.039858	tachykinin receptor 1	inflammatory response	rhodopsin-like receptor activity	plasma membrane	Peptide_GPCRs	GENMAPP/KEGG	0.75	1.76	-1.53	-0.92	-0.22
+210669_at	TFAP2A	0.01322	transcription factor AP-2 alpha (activating enhancer binding protein 2 alpha)	regulation of transcription, DNA-dependent	transcription factor activity	nucleus			1.13	1.21	-0.23	-1.04	-1.14
+210706_s_at	RNF24	0.018277	ring finger protein 24	protein ubiquitination	ubiquitin-protein ligase activity	ubiquitin ligase complex			1.05	0.86	-1.15	-0.45	-0.33
+210721_s_at	PAK7	0.029428	p21(CDKN1A)-activated kinase 7	protein amino acid phosphorylation	protein serine/threonine kinase activity				1.02	0.37	-0.21	-0.59	-0.65
+210755_at	HGF	0.002841	hepatocyte growth factor (hepapoietin A; scatter factor)	proteolysis and peptidolysis	chymotrypsin activity				2.11	1.51	-1.75	-1.03	-1.3
+210769_at	CNGB1	0.002892	cyclic nucleotide gated channel beta 1	ion transport	ion channel activity	intracellular cyclic nucleotide activated cation channel complex			1.4	1.2	-0.94	-0.59	-1.22
+210827_s_at	ELF3	0.020382	E74-like factor 3 (ets domain transcription factor, epithelial-specific )	regulation of transcription, DNA-dependent	transcription factor activity	nucleus			0.77	1.34	-1.07	-0.22	-0.91
+210855_at	GREB1	0.002209	GREB1 protein						1.29	1.68	-1.32	-0.76	-1.16
+210909_x_at	LPAL2	0.021639	lipoprotein, Lp(a)-like 2						0.72	1.73	-0.56	-1.34	-0.8
+210945_at	COL4A6	0.009614	collagen, type IV, alpha 6	phosphate transport	extracellular matrix structural constituent	collagen			1.64	1.18	-0.44	-1.18	-1.38
+210990_s_at	LAMA4	0.014056	laminin, alpha 4	regulation of cell adhesion	receptor binding	laminin-1			0.55	0.36	-0.24	-0.17	-0.5
+210997_at	HGF	0.028915	hepatocyte growth factor (hepapoietin A; scatter factor)	proteolysis and peptidolysis	chymotrypsin activity				2.4	1.61	-2.24	-1.77	-0.17
+210998_s_at	HGF	0.013894	hepatocyte growth factor (hepapoietin A; scatter factor)	proteolysis and peptidolysis	chymotrypsin activity				1.88	2.41	-2.16	-1.96	-0.49
+211022_s_at	ATRX	0.000305	alpha thalassemia/mental retardation syndrome X-linked (RAD54 homolog, S. cerevisiae)	DNA repair	DNA helicase activity	nucleus			0.68	0.75	-0.44	-0.58	-0.45
+211034_s_at	FLJ30092	0.021178	AF-1 specific protein phosphatase	ubiquitin cycle	ubiquitin-protein ligase activity	intracellular			0.44	0.71	-0.31	-0.68	-0.18
+211284_s_at	GRN	0.035729	granulin	signal transduction	cytokine activity	extracellular			0.74	2.32	-1.14	-0.61	-1.86
+211330_s_at	HFE	0.033761	hemochromatosis	protein complex assembly	MHC class I receptor activity	cytoplasm			0.97	0.5	-0.36	-0.21	-0.92
+211340_s_at	MCAM	0.015544	melanoma cell adhesion molecule	cell adhesion	protein binding	integral to plasma membrane			0.85	1.28	-0.92	-0.24	-1.04
+211380_s_at	PRKG1	0.030446	protein kinase, cGMP-dependent, type I	protein amino acid phosphorylation	protein serine/threonine kinase activity	cAMP-dependent protein kinase complex	Phosphatidylinositol signaling system	GENMAPP/KEGG	1.33	1.01	-0.03	-1.1	-1.22
+211397_x_at	KIR3DL1	0.007861	killer cell immunoglobulin-like receptor, three domains, long cytoplasmic tail, 1	immune response	receptor activity	integral to plasma membrane			0.66	0.75	-0.7	-0.21	-0.52
+211404_s_at	APLP2	0.006072	amyloid beta (A4) precursor-like protein 2	G-protein coupled receptor protein signaling pathway	DNA binding	nucleus			1.58	0.89	-0.69	-0.87	-1.13
+211405_x_at	IFNA17	0.00027	interferon, alpha 17	defense response	interferon-alpha/beta receptor binding	extracellular			0.26	0.23	-0.16	-0.19	-0.14
+211529_x_at	HLA-G	0.033008	HLA-G histocompatibility antigen, class I, G	cellular defense response	MHC class I receptor activity	integral to membrane	Proteasome_Degradation	GENMAPP/KEGG	1.34	1.61	-1.2	-1.71	-0.02
+211575_s_at	UBE3A	0.033597	ubiquitin protein ligase E3A (human papilloma virus E6-associated protein, Angelman syndrome)	proteolysis and peptidolysis	ubiquitin conjugating enzyme activity	intracellular			0.75	0.79	-0.16	-1.03	-0.33
+211588_s_at	PML	0.031341	promyelocytic leukemia	regulation of transcription, DNA-dependent	nucleic acid binding	ubiquitin ligase complex			1.93	0.66	-1.33	-1.19	-0.43
+211638_at	IGHM	0.037213	Partial mRNA for immunoglobulin heavy chain variable region (IGHV32-D-JH-Cmu gene), clone ET39						0.91	1.06	-1.34	-0.31	-0.27
+211663_x_at	PTGDS	0.025247	prostaglandin D2 synthase 21kDa (brain)	prostaglandin biosynthesis	prostaglandin-D synthase activity	extracellular	Prostaglandin and leukotriene metabolism	GENMAPP/KEGG	0.99	0.86	-0.97	-0.84	-0.05
+211695_x_at	MUC1	0.042481	mucin 1, transmembrane		actin binding	cytoskeleton			0.99	0.63	-0.9	-0.75	0.03
+211709_s_at	SCGF	0.029147	stem cell growth factor; lymphocyte secreted C-type lectin	positive regulation of cell proliferation	nucleic acid binding	extracellular			0.85	2.65	-2.15	-1.04	-1.15
+211748_x_at	PTGDS	0.009277	prostaglandin D2 synthase 21kDa (brain)	prostaglandin biosynthesis	prostaglandin-D synthase activity	extracellular	Prostaglandin and leukotriene metabolism	GENMAPP/KEGG	1.11	2.51	-1.31	-1.4	-1.75
+211756_at	PTHLH	0.045248	parathyroid hormone-like hormone	cell-cell signaling	hormone activity	extracellular space			0.36	2.35	-1.31	-0.89	-1.37
+211771_s_at	POU2F2	0.008044	POU domain, class 2, transcription factor 2	regulation of transcription, DNA-dependent	DNA binding	nucleus			0.87	1.62	-0.63	-1.14	-0.95
+211789_s_at	MONDOA	0.005031	Mlx interactor						0.63	0.56	-0.6	-0.33	-0.27
+211809_x_at	COL13A1	0.001042	collagen, type XIII, alpha 1	phosphate transport	extracellular matrix structural constituent	collagen type XIII			0.93	1.23	-0.85	-0.62	-0.82
+211818_s_at	PDE4C	0.040988	phosphodiesterase 4C, cAMP-specific (phosphodiesterase E1 dunce homolog, Drosophila)	porphyrin biosynthesis	catalytic activity		Purine metabolism	GENMAPP/KEGG	0.51	1.65	-1.25	-0.34	-0.79
+211837_s_at	PTCRA	0.000107							1.72	2.04	-1.44	-1.44	-1.4
+211901_s_at	PDE4A	0.004461	phosphodiesterase 4A, cAMP-specific (phosphodiesterase E2 dunce homolog, Drosophila)	porphyrin biosynthesis	catalytic activity	membrane fraction	Purine metabolism	GENMAPP/KEGG	1.95	1.11	-1.39	-1.02	-1.07
+211905_s_at	ITGB4	0.029499	integrin, beta 4	cell-matrix adhesion	receptor activity	integrin complex	Integrin-mediated_cell_adhesion	GENMAPP/KEGG	0.26	0.52	-0.44	-0.27	-0.08
+211919_s_at	CXCR4	0.016468	chemokine (C-X-C motif) receptor 4				GPCRs_Class_A_Rhodopsin-like	GENMAPP/KEGG	1	1.51	-1.13	-1.24	-0.27
+211925_s_at	PLCB1	0.023301	phospholipase C, beta 1 (phosphoinositide-specific)	regulation of cell cycle	phosphoinositide phospholipase C activity	nucleus	Inositol phosphate metabolism	GENMAPP/KEGG	1.88	0.54	-1.06	-0.92	-0.88
+211979_at	GPR107	0.030923	G protein-coupled receptor 107						0.68	1.26	-1.16	-0.64	-0.19
+212068_s_at	KIAA0515	0.022332	KIAA0515						1.28	1.37	-1.17	-0.12	-1.4
+212069_s_at	KIAA0515	0.03469	KIAA0515						0.72	1.26	-0.56	-0.18	-1.25
+212118_at	RFP	0.001679	ret finger protein	transcription	DNA binding	ubiquitin ligase complex			0.81	0.74	-0.67	-0.36	-0.57
+212133_at	NIPA2	0.036193	non-imprinted in Prader-Willi/Angelman syndrome 2						0.4	0.41	-0.28	-0.51	-0.02
+212140_at	KIAA0648	0.006338	SCC-112 protein						0.56	0.82	-0.67	-0.31	-0.43
+212167_s_at	SMARCB1	0.03299	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily b, member 1	chromatin remodeling		nuclear chromosome			0.54	0.14	-0.22	-0.22	-0.25
+212187_x_at	PTGDS	0.0029	prostaglandin D2 synthase 21kDa (brain)	prostaglandin biosynthesis	prostaglandin-D synthase activity	extracellular	Prostaglandin and leukotriene metabolism	GENMAPP/KEGG	1.44	1.59	-1.51	-0.95	-0.79
+212198_s_at	TM9SF4	0.006152	transmembrane 9 superfamily protein member 4	transport	transporter activity	integral to membrane			1.04	1.24	-1.1	-0.4	-0.88
+212204_at	DKFZP564G2022	0.012087	DKFZP564G2022 protein			integral to membrane			1.4	1.05	-1.26	-0.96	-0.32
+212208_at	THRAP2	0.012841	thyroid hormone receptor associated protein 2		receptor activity				0.97	0.55	-0.55	-0.27	-0.75
+212239_at	PIK3R1	0.011925	phosphoinositide-3-kinase, regulatory subunit, polypeptide 1 (p85 alpha)	intracellular signaling cascade	phosphatidylinositol binding	phosphoinositide 3-kinase complex			1.65	0.76	-0.96	-0.6	-1.1
+212245_at	MCFD2	0.041481	multiple coagulation factor deficiency 2						0.8	0.24	-0.51	-0.14	-0.42
+212259_s_at	PBXIP1	0.002133	pre-B-cell leukemia transcription factor interacting protein 1	negative regulation of transcription	transcription corepressor activity	nucleus			1.25	1.34	-0.84	-1.24	-0.67
+212263_at	QKI	0.003612	quaking homolog, KH domain RNA binding (mouse)		nucleic acid binding				0.58	0.36	-0.32	-0.37	-0.26
+212277_at	MTMR4	0.046241	myotubularin related protein 4	protein amino acid dephosphorylation	phosphoprotein phosphatase activity				1	0.62	-0.9	0.05	-0.78
+212288_at	FNBP1	0.041041	formin binding protein 1						1.11	0.78	-1.22	-0.62	-0.04
+212319_at	RUTBC1	0.013828	RUN and TBC1 domain containing 1						0.54	1.21	-0.75	-0.4	-0.69
+212341_at	MGC21416	0.002236	hypothetical protein MGC21416						0.61	0.65	-0.26	-0.51	-0.51
+212382_at	TCF4	0.0336	transcription factor 4	regulation of transcription from Pol II promoter	DNA binding	nucleus			1.53	0.49	-1.12	-0.42	-0.67
+212385_at	TCF4	0.00286	transcription factor 4	regulation of transcription from Pol II promoter	DNA binding	nucleus			1.53	0.92	-0.96	-0.9	-0.8
+212387_at	TCF4	0.015653	transcription factor 4	regulation of transcription from Pol II promoter	DNA binding	nucleus			1.26	0.61	-0.74	-0.89	-0.34
+212408_at	LAP1B	0.036176	lamina-associated polypeptide 1B						0.31	0.56	-0.53	-0.05	-0.31
+212465_at	C14orf154	0.012323	chromosome 14 open reading frame 154						0.21	0.44	-0.18	-0.18	-0.3
+212480_at	KIAA0376	0.031053	KIAA0376 protein						0.84	0.6	-0.91	-0.43	-0.11
+212484_at	MTVR1	0.014416	Mouse Mammary Turmor Virus Receptor homolog 1		receptor activity				1.32	0.81	-0.42	-1.18	-0.62
+212496_s_at	JMJD2B	0.029161	jumonji domain containing 2B						0.32	1.01	-0.64	-0.29	-0.46
+212505_s_at	KIAA0892	0.004719	KIAA0892						0.64	1.07	-0.56	-0.74	-0.48
+212518_at	PIP5K1C	0.007237	phosphatidylinositol-4-phosphate 5-kinase, type I, gamma		1-phosphatidylinositol-4-phosphate 5-kinase activity				0.91	1.13	-0.36	-0.72	-1.02
+212527_at	D15Wsu75e	0.026288	DNA segment, Chr 15, Wayne State University 75, expressed						0.37	0.54	-0.38	-0.04	-0.5
+212592_at	IGJ	0.000871	immunoglobulin J polypeptide, linker protein for immunoglobulin alpha and mu polypeptides	immune response	antigen binding	extracellular			2.11	1.48	-1.38	-1.41	-1.35
+212598_at	WDFY3	0.008692	WD repeat and FYVE domain containing 3		zinc ion binding				0.74	1.65	-0.93	-0.85	-0.89
+212630_at	SEC6L1	0.023705	SEC6-like 1 (S. cerevisiae)	exocytosis					0.55	1.44	-0.97	-0.38	-0.81
+212662_at	PVR	0.021337	poliovirus receptor		receptor activity	extracellular space			0.55	0.22	-0.38	-0.23	-0.18
+212741_at	MAOA	0.022038	monoamine oxidase A	electron transport	amine oxidase activity	mitochondrion	Glycine, serine and threonine metabolism	GENMAPP/KEGG	0.87	1.08	-0.67	-0.16	-1.13
+212742_at	ZNF364	0.023508	zinc finger protein 364	protein ubiquitination	ubiquitin-protein ligase activity	ubiquitin ligase complex			0.57	0.56	-0.06	-0.43	-0.65
+212764_at	TCF8	0.009353	transcription factor 8 (represses interleukin 2 expression)	negative regulation of transcription from Pol II promoter	transcription factor activity	nucleus	Hypertrophy_model	GENMAPP/KEGG	0.64	1.01	-0.79	-0.3	-0.6
+212796_s_at	KIAA1055	0.024207	KIAA1055 protein	regulation of transcription, DNA-dependent	nucleic acid binding	intracellular			0.71	1.87	-1.14	-0.5	-1.28
+212834_at	DDX52	0.048583	DEAD (Asp-Glu-Ala-Asp) box polypeptide 52		nucleic acid binding	nucleus			0.33	0.4	0.04	-0.34	-0.42
+212856_at	KIAA0767	0.009623							1.4	0.82	-1.14	-0.7	-0.51
+212993_at	SAP18	0.042838	Clone IMAGE:5311129, mRNA						0.64	1.88	-0.23	-1.3	-1.26
+213073_at	ZFYVE26	0.039061	zinc finger, FYVE domain containing 26		nucleic acid binding	nucleus			0.68	1.45	-0.72	-0.17	-1.3
+213076_at	ITPKC	0.000548	inositol 1,4,5-trisphosphate 3-kinase C		inositol-trisphosphate 3-kinase activity				0.66	0.66	-0.52	-0.48	-0.34
+213091_at	MECT1	0.018075	mucoepidermoid carcinoma translocated 1						0.46	1.24	-0.59	-0.75	-0.47
+213100_at	UNC5B	0.00783	unc-5 homolog B (C. elegans)	signal transduction	receptor activity	integral to membrane			0.95	1.95	-1.3	-1.13	-0.89
+213106_at	ATP8A1	0.008768	ATPase, aminophospholipid transporter (APLT), Class I, type 8A, member 1	cation transport	magnesium ion binding	integral to membrane	Peptide_GPCRs	GENMAPP/KEGG	1.56	1.19	-0.98	-0.48	-1.43
+213110_s_at	COL4A5	0.005245	collagen, type IV, alpha 5 (Alport syndrome)	phosphate transport	extracellular matrix structural constituent	collagen			0.72	1.22	-0.86	-0.52	-0.68
+213146_at	JMJD3	0.045521	jumonji domain containing 3						1.33	0.51	-0.1	-0.79	-1.04
+213172_at	TTC9	0.00252	tetratricopeptide repeat domain 9						1.3	1.1	-1.03	-0.53	-0.97
+213174_at	TTC9	0.026643	tetratricopeptide repeat domain 9						0.52	1.56	-1.04	-0.46	-0.81
+213177_at	MAPK8IP3	0.010934	mitogen-activated protein kinase 8 interacting protein 3	proteolysis and peptidolysis	MAP-kinase scaffold activity	cytoplasm			1	2.02	-0.72	-1.39	-1.33
+213182_x_at	CDKN1C	0.009933	cyclin-dependent kinase inhibitor 1C (p57, Kip2)	regulation of cyclin dependent protein kinase activity	cyclin-dependent protein kinase inhibitor activity	nucleus			1.62	1.75	-0.43	-1.57	-1.55
+213204_at	PARC	0.016443	p53-associated parkin-like cytoplasmic protein						1.42	1.53	-0.35	-1.71	-0.95
+213208_at	KIAA0240	0.039998	KIAA0240						0.35	1.06	-0.53	-0.18	-0.76
+213297_at	FLJ22318	0.043485	hypothetical protein FLJ22318						0.7	0.87	-0.63	-0.96	0.04
+213348_at	CDKN1C	0.036206	cyclin-dependent kinase inhibitor 1C (p57, Kip2)	regulation of cyclin dependent protein kinase activity	cyclin-dependent protein kinase inhibitor activity	nucleus			0.35	1.43	-0.85	-0.64	-0.48
+213402_at	LOC126208	0.007748	hypothetical protein LOC126208						1.08	1.07	-0.56	-1.17	-0.47
+213430_at	RIPX	0.035593	rap2 interacting protein x						1.69	1.01	-1.39	-0.04	-1.35
+213469_at	PGAP1	0.003424	GPI deacylase		catalytic activity				1.38	1.82	-0.91	-1.6	-0.98
+213473_at	BRAP	0.007496	BRCA1 associated protein						1.6	0.78	-0.79	-1.03	-0.81
+213541_s_at	ERG	0.014318	v-ets erythroblastosis virus E26 oncogene like (avian)	regulation of transcription, DNA-dependent	transcription factor activity	nucleus			2.26	1.42	-1.98	-1.49	-0.57
+213545_x_at	SNX3	0.040756	sorting nexin 3	endocytosis					1.02	0.9	-1.07	0.07	-0.9
+213552_at	GLCE	0.026263	glucuronyl C5-epimerase	peptidoglycan biosynthesis	isomerase activity	Golgi apparatus			0.75	0.56	-0.04	-0.67	-0.61
+213589_s_at	B3GNTL1	0.046976	UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase-like 1						0.77	1.14	-1.33	-0.34	-0.19
+213640_s_at	LOX	0.032407	lysyl oxidase	protein modification	protein-lysine 6-oxidase activity	extracellular matrix (sensu Metazoa)			1.19	0.94	-1.26	-0.04	-0.82
+213656_s_at	KNS2	0.032953	kinesin 2 60/70kDa		microtubule motor activity	kinesin complex			0.33	1.19	-0.54	-0.73	-0.36
+213669_at	FCHO1	0.012928	FCH domain only 1						1.57	1.2	-0.63	-1.6	-0.63
+213689_x_at	RPL5	0.037701	ribosomal protein L5	protein biosynthesis	structural constituent of ribosome	intracellular	Ribosomal_Proteins	GENMAPP/KEGG	1.07	0.23	-0.45	-0.47	-0.48
+213690_s_at	PTOV1	0.013806	prostate tumor overexpressed gene 1						0.5	1.21	-0.45	-0.66	-0.71
+213716_s_at	SECTM1	0.021807	secreted and transmembrane 1	positive regulation of I-kappaB kinase/NF-kappaB cascade	signal transducer activity	integral to membrane			1.99	1.05	-1.19	-1.69	-0.41
+213718_at	RBM4	0.039508	RNA binding motif protein 4	RNA processing	nucleic acid binding				1.68	0.55	-1.16	-1.04	-0.26
+213719_s_at	SMARCA4	0.000578							1.23	1.15	-1.03	-0.82	-0.69
+213764_s_at	MFAP5	0.029102	microfibrillar associated protein 5		extracellular matrix structural constituent	microfibril			0.52	2.08	-1.14	-0.84	-1.21
+213768_s_at	ASCL1	0.024242	achaete-scute complex-like 1 (Drosophila)	regulation of transcription from Pol II promoter	transcription factor activity	nucleus			0.44	0.42	-0.55	-0.17	-0.14
+213772_s_at	GGA2	0.028371	golgi associated, gamma adaptin ear containing, ARF binding protein 2	protein complex assembly	protein transporter activity	Golgi stack			0.99	0.76	-0.19	-0.44	-1.11
+213784_at	RABL4	0.026968	RAB, member of RAS oncogene family-like 4	small GTPase mediated signal transduction	GTP binding				0.23	0.44	-0.06	-0.26	-0.35
+213796_at	SPRR1A	0.01909	small proline-rich protein 1A	epidermis development	structural molecule activity				0.86	0.55	-0.51	-0.16	-0.76
+213804_at	INPP5B	0.027845	inositol polyphosphate-5-phosphatase, 75kDa		phosphoinositide 5-phosphatase activity	integral to membrane	Inositol phosphate metabolism	GENMAPP/KEGG	0.74	0.5	-0.76	-0.36	-0.12
+213844_at	HOXA5	0.018403	homeo box A5	regulation of transcription, DNA-dependent	transcription factor activity	nucleus			2.04	0.79	-1.48	-1.03	-0.77
+213868_s_at	retSDR4	0.008746							1.33	0.84	-0.39	-0.97	-0.93
+213902_at	ASAH1	0.029717	N-acylsphingosine amidohydrolase (acid ceramidase) 1	fatty acid metabolism	hydrolase activity	lysosome	Sphingoglycolipid metabolism	GENMAPP/KEGG	0.47	1.92	-0.81	-1.07	-0.98
+213934_s_at	ZNF23	0.011104	zinc finger protein 23 (KOX 16)	regulation of transcription, DNA-dependent	DNA binding	nucleus			1.93	1.18	-1.45	-1.42	-0.53
+213940_s_at	FNBP1	0.040742	formin binding protein 1						0.86	1.09	-0.96	0.07	-1.05
+213947_s_at	NUP210	0.038108	nucleoporin 210						0.59	0.31	-0.45	-0.44	-0.02
+213976_at	CIZ1	0.030707	CDKN1A interacting zinc finger protein 1	regulation of cell cycle	nucleic acid binding	nucleus			1.09	1.01	0	-1.07	-1.03
+214015_at	SOCS7	0.002996	suppressor of cytokine signaling 7	regulation of cell growth	SH3 domain binding				0.7	1.11	-0.56	-0.59	-0.75
+214029_at	---	0.015546							1.06	0.41	-0.6	-0.52	-0.43
+214043_at	PTPRD	0.01271	protein tyrosine phosphatase, receptor type, D	protein amino acid dephosphorylation	protein tyrosine phosphatase activity	integral to plasma membrane			0.48	0.57	-0.56	-0.38	-0.13
+214100_x_at	WBSCR20B	0.027309	Williams-Beuren Syndrome critical region protein 20 copy B						0.62	0.81	-0.15	-0.38	-0.9
+214120_at	RFPL1S	0.002815	ret finger protein-like 1 antisense						1.6	1.03	-0.79	-0.93	-1.15
+214134_at	---	0.020701							0.45	0.85	-0.19	-0.43	-0.7
+214160_at	CDK6	0.012908					Cell_cycle	GENMAPP/KEGG	0.69	1.71	-1.08	-0.81	-0.83
+214192_at	NUP88	0.035545	nucleoporin 88kDa	protein transport	transporter activity	nucleus			0.41	0.75	-0.23	-0.18	-0.75
+214217_at	GRM5	0.049125	glutamate receptor, metabotropic 5	G-protein coupled receptor protein signaling pathway	metabotropic glutamate, GABA-B-like receptor activity	integral to plasma membrane	GPCRs_Class_C_Metabotropic_glutamate_pheromone	GENMAPP/KEGG	1.52	0.48	-0.51	-0.35	-1.28
+214262_at	TRIP6	0.028248	thyroid hormone receptor interactor 6		protein binding				1.69	0.95	-1.54	-0.23	-0.99
+214334_x_at	DAZAP2	0.032921	DAZ associated protein 2				Circadian_Exercise	GENMAPP/KEGG	1.15	0.29	-0.43	-0.49	-0.62
+214343_s_at	MGC33190	0.024258	ataxin 7-like 1						0.59	1.51	-0.96	-0.96	-0.36
+214395_x_at	PP3856	0.0337	similar to CG3714 gene product	pyridine nucleotide biosynthesis	nicotinate phosphoribosyltransferase activity				1.28	0.56	-0.87	-0.14	-0.92
+214436_at	FBXL2	0.015016	F-box and leucine-rich repeat protein 2						0.34	0.82	-0.28	-0.43	-0.48
+214445_at	ELL2	0.025568							0.65	1.51	-0.51	-0.55	-1.25
+214486_x_at	CFLAR	0.04965	CASP8 and FADD-like apoptosis regulator	proteolysis and peptidolysis	signal transducer activity				0.37	1.34	-0.96	-0.21	-0.66
+214500_at	H2AFY	0.00031	H2A histone family, member Y	nucleosome assembly	DNA binding	nucleosome			1.8	1.64	-1.1	-1.48	-1.24
+214502_at	HIST1H2BJ	0.041717	histone 1, H2bj	nucleosome assembly	DNA binding	nucleosome			1.81	0.39	-0.52	-1.04	-1.01
+214563_at	PCDHGC3	0.010613	protocadherin gamma subfamily C, 3	cell adhesion	calcium ion binding	membrane			2.26	1	-0.99	-1.36	-1.54
+214581_x_at	TNFRSF21	0.014019	tumor necrosis factor receptor superfamily, member 21	apoptosis	receptor activity	integral to membrane			1.13	1.47	-1.16	-1.26	-0.27
+214689_at	PLAC3	0.004374							1.26	2.29	-1.43	-1.56	-1.21
+214693_x_at	LOC376745	0.022464	AG1						0.82	1.35	-0.83	-0.21	-1.19
+214719_at	LOC283537	0.01914	hypothetical protein LOC283537						0.74	0.9	-0.73	-0.1	-0.82
+214761_at	ZNF423	0.047657	zinc finger protein 423		nucleic acid binding	nucleus			1.57	0.58	-1.09	-0.1	-1.12
+214841_at	FLJ38993	0.003096	hypothetical protein FLJ38993	intracellular signaling cascade		integral to membrane			1.09	1.71	-1.04	-0.83	-1.23
+214875_x_at	APLP2	0.001567	amyloid beta (A4) precursor-like protein 2	G-protein coupled receptor protein signaling pathway	DNA binding	nucleus			1.53	1.97	-1.32	-1.6	-1
+214895_s_at	ADAM10	0.027619	a disintegrin and metalloproteinase domain 10	embryonic development (sensu Mammalia)	metalloendopeptidase activity	nucleus	Hypertrophy_model	GENMAPP/KEGG	0.41	0.82	-0.18	-0.72	-0.35
+214943_s_at	KIAA0117	0.002722							1.4	1.45	-0.67	-1.38	-1
+214956_at	---	0.003385	Clone IMAGE 23915						1.19	0.93	-0.83	-0.93	-0.46
+214964_at	---	0.001911	CDNA FLJ14343 fis, clone THYRO1000916						1.51	1.06	-1.03	-0.72	-1.02
+214996_at	---	0.049206	MRNA full length insert cDNA clone EUROIMAGE 362780						0.6	0.57	-0.68	-0.56	0.08
+215012_at	ZNF451	0.014433	zinc finger protein 451	regulation of transcription, DNA-dependent	DNA binding	nucleus			0.58	1.02	-0.66	-0.24	-0.76
+215049_x_at	CD163	0.02661	CD163 antigen		scavenger receptor activity	extracellular			0.95	2.37	-0.82	-0.98	-2.03
+215077_at	COL3A1	0.02294					Inflammatory_Response_Pathway	GENMAPP/KEGG	0.5	0.63	-0.47	-0.06	-0.6
+215086_at	IBTK	0.003319	inhibitor of Bruton agammaglobulinemia tyrosine kinase		protein binding				1.06	1.09	-0.49	-1.05	-0.7
+215116_s_at	DNM1	0.042214	dynamin 1	receptor mediated endocytosis	motor activity	coated pit			1.09	0.4	-0.84	-0.13	-0.57
+215142_at	HYPM	0.016841	chromosome X open reading frame 27						1.21	0.66	-0.26	-0.89	-0.81
+215152_at	MYB	0.044598	v-myb myeloblastosis viral oncogene homolog (avian)	regulation of transcription, DNA-dependent	DNA binding	nucleus			0.45	1.88	-0.41	-1.07	-1.22
+215233_at	PTDSR	0.008886	phosphatidylserine receptor						1.25	1.59	-0.5	-1.5	-0.98
+215235_at	SPTAN1	0.035343	spectrin, alpha, non-erythrocytic 1 (alpha-fodrin)		actin binding	membrane fraction			0.66	1.08	-0.17	-0.44	-1.13
+215289_at	---	0.000394	Similar to R30217_1						1.1	1.18	-0.97	-0.72	-0.72
+215296_at	CDC42BPA	0.042226	CDC42 binding protein kinase alpha (DMPK-like)	protein amino acid phosphorylation	protein serine/threonine kinase activity	membrane			0.8	1.37	-1.44	-0.56	-0.16
+215313_x_at	HLA-A	0.04437	major histocompatibility complex, class I, A	immune response	MHC class I receptor activity	integral to plasma membrane	Proteasome_Degradation	GENMAPP/KEGG	1.51	1	0	-1.6	-0.88
+215386_at	AUTS2	0.047898	autism susceptibility candidate 2						1.22	0.49	-0.2	-1.11	-0.44
+215397_x_at	---	0.038395	MRNA; cDNA DKFZp686P02129 (from clone DKFZp686P02129)						2.01	0.47	-1.23	-0.6	-1.14
+215408_at	---	0.000632	CDNA: FLJ21419 fis, clone COL04084						1.63	1.47	-1.12	-1.36	-0.91
+215523_at	---	0.019229	Similar to dJ153G14.3 (novel C2H2 type Zinc Finger protein)						1.23	0.95	-0.15	-1.07	-1.01
+215547_at	KIAA0669	0.004894							1	1.61	-0.67	-1.2	-0.97
+215573_at	CAT	0.046273	catalase	electron transport	catalase activity	peroxisome	Tryptophan metabolism	GENMAPP/KEGG	0.56	0.18	-0.41	-0.07	-0.27
+215619_at	---	0.047936							1.86	0.48	-1.25	-0.32	-1.11
+215626_at	---	0.030429	CDNA FLJ11568 fis, clone HEMBA1003278						1.6	0.91	-1.11	-1.36	-0.13
+215724_at	PLD1	0.009406	phospholipase D1, phophatidylcholine-specific	phospholipid metabolism	phospholipase D activity	endoplasmic reticulum			0.88	0.72	-0.75	-0.21	-0.67
+215735_s_at	TSC2	0.025691	tuberous sclerosis 2	protein folding	GTPase activator activity	membrane fraction			0.59	0.71	-0.64	-0.64	-0.03
+215783_s_at	ALPL	0.045727	alkaline phosphatase, liver/bone/kidney	ossification	magnesium ion binding	integral to membrane	gamma-Hexachlorocyclohexane degradation	GENMAPP/KEGG	0.92	1.59	-1.71	-0.49	-0.27
+215810_x_at	D6S1101	0.027703	Dystonia musculorum of mouse, human homolog of						0.34	0.42	-0.01	-0.39	-0.36
+215814_at	D6S1101	0.006413							2.26	1.14	-1.4	-1.11	-1.51
+215900_at	---	0.009526	CDNA FLJ12269 fis, clone MAMMA1001635						0.62	0.94	-0.25	-0.68	-0.67
+215926_x_at	SNAPC4	0.038718	small nuclear RNA activating complex, polypeptide 4, 190kDa	transcription from Pol II promoter	transcription factor activity	nucleus			1.22	0.27	-0.62	-0.6	-0.4
+215965_at	---	0.001508							1.44	1.11	-1.12	-0.72	-0.9
+216041_x_at	GRN	0.026593							0.84	2.87	-1.19	-1.46	-2.21
+216096_s_at	NRXN1	0.038705	neurexin 1	cell adhesion	structural molecule activity	integral to membrane			1.21	0.8	-0.41	-0.23	-1.34
+216135_at	MGC35048	0.001499	hypothetical protein MGC35048						1.74	1.2	-0.95	-1.08	-1.23
+216165_at	---	0.025007	CDNA: FLJ21997 fis, clone HEP06590						0.57	1.77	-1.09	-0.58	-1
+216176_at	---	0.047348							1.04	0.91	-1.38	-0.31	-0.18
+216190_x_at	ITGB1	0.027686					Integrin-mediated_cell_adhesion	GENMAPP/KEGG	2.04	0.63	-0.68	-1.41	-1.06
+216193_at	---	0.010617							0.98	1.79	-1.29	-1.2	-0.57
+216221_s_at	PUM2	0.0465	pumilio homolog 2 (Drosophila)						0.93	0.54	-0.84	-0.67	0.03
+216266_s_at	BIG1	0.015073	ADP-ribosylation factor guanine nucleotide-exchange factor 1(brefeldin A-inhibited)	exocytosis	guanyl-nucleotide exchange factor activity				0.58	0.57	-0.67	-0.2	-0.28
+216273_at	ZNF272	0.004349							1.31	1.39	-0.61	-1.38	-0.85
+216278_at	---	0.004293	MRNA full length insert cDNA clone EUROIMAGE 73337						1.03	1.49	-0.66	-1.22	-0.82
+216362_at	---	0.033714							1.82	0.59	-1.18	-1.16	-0.39
+216401_x_at	---	0.043981							1.05	0.44	-0.06	-0.8	-0.66
+216439_at	ACK1	0.000557	activated Cdc42-associated kinase 1	protein amino acid phosphorylation	non-membrane spanning protein tyrosine kinase activity	cytoplasm			0.49	0.64	-0.42	-0.37	-0.37
+216461_at	---	0.048936							1.85	0.5	-1.2	-1.21	-0.27
+216476_at	LOC115131	0.009294	similar to POSSIBLE GUSTATORY RECEPTOR CLONE PTE01	G-protein coupled receptor protein signaling pathway	olfactory receptor activity	integral to membrane			1.12	2.08	-1.51	-0.75	-1.38
+216526_x_at	HLA-C	0.009196					Proteasome_Degradation	GENMAPP/KEGG	0.89	1.78	-0.82	-1.29	-0.85
+216527_at	---	0.049865	Hypothetical gene supported by AK055657						0.89	1.1	-0.33	-0.16	-1.41
+216730_at	---	0.046036							0.27	0.47	-0.12	-0.51	-0.1
+216762_at	---	0.044735	MRNA; cDNA DKFZp686M03112 (from clone DKFZp686M03112)						1.29	0.74	-0.18	-0.46	-1.37
+216764_at	---	0.001215							1.3	0.97	-0.84	-0.65	-0.92
+216838_at	LOC92249	0.003714							0.84	0.84	-0.48	-0.41	-0.83
+216850_at	SNRPN	0.000703	small nuclear ribonucleoprotein polypeptide N						1.36	1.11	-0.88	-1.03	-0.73
+216878_x_at	HAB1	0.039639							0.66	0.5	0	-0.71	-0.44
+216879_at	HR44	0.002037							1.19	1.67	-1.24	-1.08	-0.8
+216906_at	ST14	0.033971	suppression of tumorigenicity 14 (colon carcinoma, matriptase, epithin)	proteolysis and peptidolysis	chymotrypsin activity	integral to plasma membrane			0.49	2.36	-0.99	-1.44	-1.26
+216943_at	GPR51	0.027606							1.18	0.6	-0.89	-0.8	-0.14
+216947_at	DES	0.012039							0.9	0.87	-1.01	-0.32	-0.46
+217045_x_at	NCR2	0.046877	natural cytotoxicity triggering receptor 2						0.19	1.07	-0.46	-0.51	-0.37
+217054_at	MUC3A	0.025691	CDNA FLJ39484 fis, clone PROST2014925						1.15	0.37	-0.7	-0.37	-0.54
+217066_s_at	DMPK	0.005161	dystrophia myotonica-protein kinase	protein amino acid phosphorylation	protein serine/threonine kinase activity				1.65	0.87	-0.88	-0.9	-1.01
+217082_at	---	0.031694	Unknown protein mRNA, partial cds						1.58	0.71	-0.21	-0.99	-1.24
+217098_s_at	ZNF305	0.019122	zinc finger protein 305	regulation of transcription, DNA-dependent	transcription factor activity	nucleus			0.36	0.72	-0.16	-0.41	-0.53
+217117_x_at	MUC3B	0.046826	mucin 3B						0.14	0.74	-0.35	-0.23	-0.33
+217130_at	C9orf33	0.020535	chromosome 9 open reading frame 33						1.54	0.63	-0.76	-1.13	-0.48
+217156_at	---	0.012191					Fatty acid biosynthesis (path 2)	GENMAPP/KEGG	1.73	1.26	-0.57	-0.87	-1.69
+217178_at	RARG	0.010708					Nuclear_Receptors	GENMAPP/KEGG	1.34	1.35	-1	-0.36	-1.43
+217217_at	MGC27165	0.006927	Immunoglobulin heavy constant epsilon						0.36	0.27	-0.31	-0.21	-0.12
+217332_at	---	0.04112	LOC387937						0.53	0.83	-0.77	0.02	-0.61
+217343_at	---	0.036493					Glycerolipid metabolism	GENMAPP/KEGG	0.97	1.19	-0.16	-1.42	-0.52
+217357_at	---	0.01613							1.09	0.73	-0.19	-0.89	-0.78
+217399_s_at	FOXO3A	0.019508	forkhead box O3A	regulation of transcription, DNA-dependent	transcription factor activity	nucleus			1.21	0.48	-0.59	-0.82	-0.39
+217436_x_at	---	0.023495							0.73	2.01	-1.02	-1.48	-0.67
+217453_at	---	0.028558							1.37	1.01	-1.34	-0.08	-0.98
+217477_at	PIP5K1B	0.010757							1.44	0.93	-1.27	-0.75	-0.48
+217490_at	---	0.022032							1.7	0.96	-0.27	-1.17	-1.39
+217521_at	HAL	0.040962					Histidine metabolism	GENMAPP/KEGG	0.97	1.01	-1.07	0.08	-0.96
+217574_at	---	0.037517							1.46	0.79	-1.47	-0.42	-0.38
+217593_at	FLJ12895	0.027814	hypothetical protein FLJ12895	regulation of transcription, DNA-dependent	transcription factor activity	nucleus			1.9	0.84	-1.42	-1.27	-0.32
+217607_x_at	EIF4G2	0.023865	eukaryotic translation initiation factor 4 gamma, 2	regulation of translational initiation	RNA binding	eukaryotic translation initiation factor 4F complex	Circadian_Exercise	GENMAPP/KEGG	0.54	1.32	-0.31	-0.91	-0.77
+217611_at	LOC157697	0.020976	hypothetical protein LOC157697						1.66	0.6	-1.07	-0.91	-0.55
+217655_at	FXYD5	0.006986	FXYD domain containing ion transport regulator 5	ion transport	actin binding	integral to membrane			0.66	1.11	-0.45	-0.55	-0.84
+217808_s_at	MAPKAP1	0.001386	mitogen-activated protein kinase associated protein 1		Ras interactor activity				0.57	0.55	-0.49	-0.28	-0.36
+217889_s_at	CYBRD1	0.009038	cytochrome b reductase 1	electron transport		integral to membrane			0.99	2.06	-1.45	-0.93	-1.15
+217904_s_at	BACE1	0.011142	beta-site APP-cleaving enzyme 1	proteolysis and peptidolysis	pepsin A activity	endosome			1.23	0.73	-0.83	-0.89	-0.33
+217931_at	TNRC5	0.031746	trinucleotide repeat containing 5						0.75	1.2	-1.2	-0.15	-0.62
+217948_at	DKFZP564B147	0.008902	DKFZP564B147 protein						0.85	1.29	-0.89	-0.98	-0.37
+218052_s_at	ATP13A	0.012671	ATPase type 13A	cation transport	magnesium ion binding	integral to membrane			0.71	0.44	-0.62	-0.26	-0.28
+218066_at	SLC12A7	0.044868	solute carrier family 12 (potassium/chloride transporters), member 7	ion transport	transporter activity	integral to plasma membrane			0.92	0.39	-0.85	-0.23	-0.24
+218077_s_at	ZDHHC3	0.015389	zinc finger, DHHC domain containing 3		metal ion binding	Golgi apparatus			0.36	0.39	-0.36	-0.06	-0.34
+218094_s_at	C20orf35	0.036363	chromosome 20 open reading frame 35		protein binding	cytoplasm			1.07	0.26	-0.58	-0.49	-0.35
+218132_s_at	LENG5	0.043473	leukocyte receptor cluster (LRC) member 5						1.2	0.58	-0.88	-0.92	-0.02
+218174_s_at	C10orf57	0.032423	chromosome 10 open reading frame 57						0.5	1.38	-1.04	-0.32	-0.65
+218206_x_at	SCAND1	0.036518	SCAN domain containing 1	regulation of cell cycle	transcription factor activity	nucleus			0.56	1.29	-1.16	-0.38	-0.37
+218271_s_at	PSARL	0.022288	presenilin associated, rhomboid-like						0.46	1.05	-0.67	-0.67	-0.22
+218272_at	FLJ20699	0.02365	hypothetical protein FLJ20699						0.42	0.72	-0.47	-0.09	-0.58
+218279_s_at	HIST2H2AA	0.030479							0.9	0.95	-0.47	-0.16	-1.19
+218282_at	C20orf31	0.034642	chromosome 20 open reading frame 31	carbohydrate metabolism	mannosyl-oligosaccharide 1,2-alpha-mannosidase activity	membrane			0.68	0.68	-0.79	0.01	-0.57
+218287_s_at	EIF2C1	0.034267	eukaryotic translation initiation factor 2C, 1	protein biosynthesis	translation initiation factor activity	eukaryotic translation initiation factor 2 complex			0.45	1.19	-0.59	-0.22	-0.91
+218300_at	MGC4606	0.011122	hypothetical protein MGC4606						0.39	0.61	-0.44	-0.43	-0.14
+218312_s_at	FLJ12895	0.004563	hypothetical protein FLJ12895	regulation of transcription, DNA-dependent	transcription factor activity	nucleus			0.96	0.9	-0.78	-0.81	-0.33
+218331_s_at	C10orf18	0.002173	chromosome 10 open reading frame 18						0.74	1.01	-0.77	-0.48	-0.56
+218336_at	PFDN2	0.049052	prefoldin 2	protein folding	unfolded protein binding	prefoldin complex			0.29	0.54	-0.38	-0.48	0.02
+218379_at	RBM7	0.017874	RNA binding motif protein 7	meiosis	RNA binding				0.6	0.3	-0.21	-0.48	-0.23
+218399_s_at	CDCA4	0.015957	cell division cycle associated 4						0.99	0.98	-1.14	-0.26	-0.59
+218421_at	CERK	0.013206	ceramide kinase	ceramide metabolism	magnesium ion binding	integral to membrane of membrane fraction			0.85	1.22	-0.82	-0.27	-1.05
+218439_s_at	COMMD10	0.023404	COMM domain containing 10						1.4	0.53	-0.39	-0.96	-0.74
+218457_s_at	DNMT3A	0.000417	DNA (cytosine-5-)-methyltransferase 3 alpha	DNA methylation	DNA binding	euchromatin	Methionine metabolism	GENMAPP/KEGG	1.44	1.51	-0.96	-1.29	-0.95
+218476_at	POMT1	0.026556	protein-O-mannosyltransferase 1	O-linked glycosylation	dolichyl-phosphate-mannose-protein mannosyltransferase activity	endoplasmic reticulum			0.62	1.47	-1.13	-0.78	-0.33
+218533_s_at	URKL1	0.008942	uridine-cytidine kinase 1-like 1	biosynthesis	uridine kinase activity				0.43	0.77	-0.53	-0.24	-0.46
+218537_at	HCFC1R1	0.016101	host cell factor C1 regulator 1 (XPO1 dependant)						0.81	1.96	-1.27	-1.23	-0.67
+218596_at	TBC1D13	0.017888	TBC1 domain family, member 13						1.85	0.69	-1.14	-0.67	-1.1
+218618_s_at	FAD104	0.011271	FAD104						0.9	1.54	-0.54	-0.77	-1.29
+218623_at	HMP19	0.047099							0.32	2.23	-0.89	-1.13	-1.29
+218718_at	PDGFC	0.007302	platelet derived growth factor C	regulation of cell cycle	growth factor activity	extracellular			2.1	1.12	-1.04	-1.6	-1.05
+218753_at	FLJ10307	0.025429	hypothetical protein FLJ10307						0.33	0.81	-0.41	-0.58	-0.18
+218789_s_at	FLJ20010	0.003929	hypothetical protein FLJ20010						0.85	0.53	-0.37	-0.59	-0.45
+218795_at	ACP6	0.047443	acid phosphatase 6, lysophosphatidic		acid phosphatase activity				1.05	0.37	-0.46	-0.86	-0.14
+218856_at	TNFRSF21	0.010983	tumor necrosis factor receptor superfamily, member 21	apoptosis	receptor activity	integral to membrane			2.28	1	-1.18	-1.1	-1.62
+218865_at	FLJ22390	0.014642	hypothetical protein FLJ22390						1.15	1.73	-1.36	-0.35	-1.34
+218876_at	CGI-38	0.04236	brain specific protein						0.48	0.41	-0.6	-0.03	-0.25
+218988_at	SLC35E3	0.01363	solute carrier family 35, member E3						1.14	1.41	-0.32	-1.38	-0.93
+219015_s_at	MDS031	0.015954	glycosyltransferase 28 domain containing 1	carbohydrate metabolism	transferase activity, transferring hexosyl groups				0.96	0.54	-0.31	-0.41	-0.82
+219032_x_at	OPN3	0.047926	opsin 3 (encephalopsin, panopsin)	G-protein coupled receptor protein signaling pathway	G-protein coupled photoreceptor activity	integral to membrane	GPCRs_Class_A_Rhodopsin-like	GENMAPP/KEGG	0.85	0.73	-0.73	0.09	-0.93
+219057_at	RABEP2	0.010649	rabaptin, RAB GTPase binding effector protein 2	endocytosis	GTPase activator activity				0.91	0.96	-0.67	-0.25	-0.99
+219059_s_at	XLKD1	0.00603	extracellular link domain containing 1	cell motility	receptor activity	membrane fraction			0.98	1.22	-1.01	-0.38	-0.9
+219066_at	MDS018	0.029024	hypothetical protein MDS018						0.47	1.07	-0.17	-0.62	-0.8
+219122_s_at	ICF45	0.040256	interphase cyctoplasmic foci protein 45						0.74	0.17	-0.33	-0.37	-0.23
+219154_at	ARHF	0.013263	Ras homolog gene family, member F (in filopodia)						2.09	0.81	-0.95	-1.24	-1.26
+219194_at	SEMA4G	0.038348	sema domain, immunoglobulin domain (Ig), transmembrane domain (TM) and short cytoplasmic domain, (semaphorin) 4G	development	receptor activity	integral to membrane			1.11	0.79	0.03	-0.96	-0.98
+219199_at	AF5Q31	0.043194	ALL1 fused gene from 5q31	transcription from Pol II promoter	transcription factor activity				0.27	0.68	-0.09	-0.56	-0.3
+219223_at	C9orf7	0.025601	chromosome 9 open reading frame 7						1.18	0.95	-0.8	-1.23	-0.11
+219234_x_at	SCRN3	0.028682	secernin 3						0.59	0.6	-0.05	-0.41	-0.72
+219271_at	GALNT14	0.046101	UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 14 (GalNAc-T14)		polypeptide N-acetylgalactosaminyltransferase activity	Golgi apparatus			0.46	2.78	-2.02	-1.43	-1.02
+219314_s_at	ZNF219	0.042811	zinc finger protein 219	regulation of transcription, DNA-dependent	transcription factor activity	nucleus			1.06	0.68	-1.19	-0.24	-0.28
+219315_s_at	C16orf30	0.006378	chromosome 16 open reading frame 30						1.04	0.85	-0.62	-0.97	-0.37
+219368_at	NAP1L2	0.030844	nucleosome assembly protein 1-like 2	nucleosome assembly	DNA binding	nucleus			1.67	0.4	-0.8	-0.88	-0.72
+219421_at	OSRF	0.033355	osmosis responsive factor						0.51	0.73	-0.11	-0.8	-0.32
+219447_s_at	SLC35C2	0.009958	solute carrier family 35, member C2	transport		integral to membrane			0.97	1.27	-1.07	-0.31	-0.94
+219495_s_at	ZNF180	0.008456	zinc finger protein 180 (HHZ168)	regulation of transcription, DNA-dependent	DNA binding	nucleus			1.03	1.37	-0.68	-1.29	-0.53
+219505_at	CECR1	0.049282	cat eye syndrome chromosome region, candidate 1	development	growth factor activity				0.26	2.75	-1.4	-1.48	-1.55
+219569_s_at	TMEM22	0.011057	transmembrane protein 22			membrane			1.29	0.96	-0.81	-0.34	-1.18
+219606_at	CGI-72	0.008341	CGI-72 protein		nucleic acid binding				0.82	1.53	-0.8	-1.12	-0.62
+219607_s_at	MS4A4A	0.021703	membrane-spanning 4-domains, subfamily A, member 4	signal transduction	receptor activity	integral to membrane			2.17	1.26	-0.35	-1.78	-1.59
+219618_at	IRAK4	0.026241	interleukin-1 receptor-associated kinase 4						0.15	0.45	-0.2	-0.15	-0.26
+219664_s_at	DECR2	0.032219	2,4-dienoyl CoA reductase 2, peroxisomal	metabolism	oxidoreductase activity				0.68	1.24	-1.2	-0.54	-0.22
+219666_at	MS4A6A	0.001439	membrane-spanning 4-domains, subfamily A, member 6A	signal transduction	receptor activity	integral to membrane			1.97	2.05	-1.89	-1.07	-1.55
+219729_at	PRRX2	0.032197	paired related homeobox 2	regulation of transcription, DNA-dependent	transcription factor activity	nuclear chromosome			0.53	2.44	-1.56	-1.24	-1.08
+219748_at	TREML2	0.004793	triggering receptor expressed on myeloid cells-like 2						0.91	1.49	-0.93	-0.62	-1.05
+219768_at	B7-H4	0.001126	immune costimulatory protein B7-H4						0.57	0.73	-0.34	-0.5	-0.49
+219815_at	GAL3ST4	0.022877	galactose-3-O-sulfotransferase 4						1.22	0.62	-0.97	-0.23	-0.71
+219872_at	DKFZp434L142	0.000751	hypothetical protein DKFZp434L142						1.63	1.66	-0.97	-1.14	-1.5
+219924_s_at	ZNF258	0.003592	zinc finger protein 258	development	DNA binding	nucleus			0.56	0.74	-0.5	-0.27	-0.55
+219950_s_at	TIAM2	0.031813	T-cell lymphoma invasion and metastasis 2	intracellular signaling cascade	receptor signaling protein activity				0.64	0.66	-0.6	0	-0.7
+219989_s_at	EB-1	0.023417	E2a-Pbx1-associated protein						2.19	0.6	-1.27	-1.13	-1.06
+220097_s_at	FLJ20255	0.011532	hypothetical protein FLJ20255	amino acid transport	amino acid-polyamine transporter activity	membrane			0.97	0.54	-0.77	-0.42	-0.36
+220129_at	FLJ20449	0.003041	hypothetical protein FLJ20449						1.31	2.24	-1.28	-1.37	-1.51
+220131_at	FXYD7	0.001206	FXYD domain containing ion transport regulator 7	ion transport	ion channel activity	integral to membrane			0.64	0.85	-0.61	-0.47	-0.45
+220134_x_at	FLJ10647	0.038883	hypothetical protein FLJ10647						1.94	0.86	-1.73	-1	-0.26
+220190_s_at	ALF	0.004198	TFIIA-alpha/beta-like factor	regulation of transcription, DNA-dependent	DNA binding	nucleus			1.89	1.09	-1.01	-1.33	-1.01
+220210_at	CHRNA10	0.041729	cholinergic receptor, nicotinic, alpha polypeptide 10	ion transport	nicotinic acetylcholine-activated cation-selective channel activity	integral to membrane			0.35	0.74	-0.21	-0.18	-0.71
+220240_s_at	C13orf11	0.034055	chromosome 13 open reading frame 11						0.35	1.27	-0.58	-0.38	-0.78
+220250_at	ZNF286	0.023384	zinc finger protein 286	regulation of transcription, DNA-dependent	DNA binding	nucleus			1.3	0.63	-0.23	-0.92	-0.87
+220252_x_at	CXorf21	0.015272	chromosome X open reading frame 21						1.33	0.64	-0.65	-0.44	-1.01
+220259_at	FLJ21019	0.004863	hypothetical protein FLJ21019		motor activity	cytoskeleton			0.86	0.86	-0.77	-0.7	-0.29
+220268_at	PTD015	0.028542	PTD015 protein						1.99	0.51	-1.21	-0.85	-0.95
+220302_at	MAK	0.002468	male germ cell-associated kinase	protein amino acid phosphorylation	protein serine/threonine kinase activity				1.79	1.33	-0.81	-1.23	-1.39
+220319_s_at	MYLIP	0.039272	myosin regulatory light chain interacting protein	protein ubiquitination	ubiquitin-protein ligase activity	ubiquitin ligase complex			1.44	0.63	-1.07	-0.11	-1
+220348_at	KBTBD9	0.001104	kelch repeat and BTB (POZ) domain containing 9						1.59	1.35	-1.22	-0.78	-1.19
+220360_at	THAP9	0.039347	THAP domain containing 9		nucleic acid binding				0.82	1.04	0.05	-0.95	-0.95
+220394_at	FGF20	0.036446	fibroblast growth factor 20	signal transduction	growth factor activity	extracellular			0.44	1.56	-0.38	-0.85	-0.99
+220409_at	CAMSAP1	0.005425	calmodulin regulated spectrin-associated protein 1						0.41	0.58	-0.36	-0.45	-0.19
+220417_s_at	THAP4	0.028451	THAP domain containing 4		DNA binding				0.42	0.29	-0.12	-0.45	-0.14
+220424_at	NPHS2	0.006315	nephrosis 2, idiopathic, steroid-resistant (podocin)	excretion		integral to plasma membrane			1.28	1.47	-1.18	-1.27	-0.45
+220482_s_at	DELGEF	0.001618	deafness locus associated putative guanine nucleotide exchange factor			nucleus			1.61	1.7	-1.44	-0.81	-1.38
+220488_s_at	BCAS3	0.029999	breast carcinoma amplified sequence 3	cell growth and/or maintenance		nucleus			0.46	0.7	-0.08	-0.37	-0.71
+220593_s_at	FLJ20753	0.019567	hypothetical protein FLJ20753						0.99	1.36	-1.11	-0.17	-1.13
+220610_s_at	LRRFIP2	0.041734	leucine rich repeat (in FLII) interacting protein 2		LRR domain binding				0.2	0.39	-0.37	-0.03	-0.2
+220664_at	SPRR2C	0.000484	small proline-rich protein 2C		metal ion binding	cytoplasm			1.03	1.33	-0.91	-0.79	-0.83
+220713_at	MGC33692	0.030752	similar to RIKEN cDNA 1700027J05 gene						0.51	1.64	-1	-0.42	-0.99
+220735_s_at	SENP7	0.038153	SUMO1/sentrin specific protease 7	proteolysis and peptidolysis	cysteine-type peptidase activity	nucleus			0.96	1.54	-1.55	-0.09	-0.86
+220747_at	HSPC072	2.00E-06	HSPC072 protein						1.89	1.82	-1.43	-1.37	-1.4
+220777_at	KIF13A	0.006507	kinesin family member 13A		motor activity	microtubule associated complex			0.77	0.78	-0.66	-0.23	-0.69
+220781_at	1-Dec	0.036702	deleted in esophageal cancer 1	negative regulation of cell proliferation					1.27	1.24	-0.84	-1.58	-0.03
+220802_at	KCNH4	0.000988	potassium voltage-gated channel, subfamily H (eag-related), member 4	two-component signal transduction system (phosphorelay)	two-component sensor molecule activity	voltage-gated potassium channel complex			1.5	1.64	-0.97	-1.46	-1.01
+220826_at	C21orf77	0.013669	chromosome 21 open reading frame 77						0.38	0.64	-0.15	-0.4	-0.49
+220836_at	ZNF407	0.002687	zinc finger protein 407	regulation of transcription, DNA-dependent	nucleic acid binding	nucleus			1.73	1.45	-1.33	-0.72	-1.41
+220881_at	PRO1787	0.002006							0.99	0.64	-0.62	-0.57	-0.52
+220910_at	FRAS1	0.030972	Fraser syndrome 1						0.65	1.1	-0.98	-0.72	-0.08
+220913_at	---	0.015163							1.13	0.94	-0.99	-0.94	-0.18
+220967_s_at	FLJ14129	0.001281	hypothetical protein FLJ14129		nucleic acid binding	nucleus			1.38	1.37	-0.71	-1.24	-0.99
+220968_s_at	PP1057	0.028716	hypothetical protein PP1057						0.83	1.2	-0.42	-1.3	-0.31
+220996_s_at	C1orf14	0.045383	chromosome 1 open reading frame 14						0.39	1.42	-0.24	-0.89	-0.84
+221019_s_at	COLEC12	0.012069	collectin sub-family member 12	phosphate transport	scavenger receptor activity	cytoplasm			0.9	0.64	-0.24	-0.51	-0.82
+221032_s_at	TMPRSS5	0.04932	transmembrane protease, serine 5 (spinesin)						2.09	0.31	-0.92	-1.28	-0.82
+221057_at	SPATA1	0.035414	spermatogenesis associated 1						0.94	1.65	-0.06	-1.29	-1.33
+221083_at	KCNQ4	0.030575	potassium voltage-gated channel, KQT-like subfamily, member 4	cation transport	voltage-gated potassium channel activity	membrane fraction			1.07	1.77	-1.31	-0.12	-1.52
+221206_at	PMS2	0.028927	PMS2 postmeiotic segregation increased 2 (S. cerevisiae)	mismatch repair	DNA binding	nucleus			0.94	1.25	-0.81	-1.29	-0.09
+221274_s_at	LMAN2L	0.043761	lectin, mannose-binding 2-like	protein folding	sugar binding	endoplasmic reticulum membrane			0.77	0.67	-0.52	-0.93	0.02
+221294_at	GPR21	0.02291	G protein-coupled receptor 21	G-protein coupled receptor protein signaling pathway	rhodopsin-like receptor activity	integral to plasma membrane			0.85	0.49	-0.41	-0.77	-0.18
+221334_s_at	FOXP3	0.009581	forkhead box P3	regulation of transcription, DNA-dependent	transcription factor activity	nucleus			1.52	1.35	-1.24	-0.38	-1.39
+221376_at	FGF17	0.003622	fibroblast growth factor 17	signal transduction	growth factor activity	extracellular space			1.44	1.49	-0.58	-1.35	-1.19
+221406_s_at	MSH5	0.012838	mutS homolog 5 (E. coli)	DNA metabolism	damaged DNA binding		Ovarian_Infertility_Genes	GENMAPP/KEGG	0.5	0.37	-0.44	-0.11	-0.31
+221417_x_at	EDG8	0.006672	endothelial differentiation, sphingolipid G-protein-coupled receptor, 8	G-protein coupled receptor protein signaling pathway	lysosphingolipid and lysophosphatidic acid receptor activity	integral to membrane			0.44	0.27	-0.32	-0.15	-0.24
+221497_x_at	EGLN1	0.038234	egl nine homolog 1 (C. elegans)	protein metabolism	oxidoreductase activity	cytosol			0.85	0.86	-0.32	-0.18	-1.16
+221569_at	AHI1	0.004651	Abelson helper integration site						0.98	1.29	-0.63	-1.14	-0.61
+221598_s_at	CRSP8	0.027093	cofactor required for Sp1 transcriptional activation, subunit 8, 34kDa	regulation of transcription from Pol II promoter	transcription coactivator activity				0.44	1.13	-0.84	-0.53	-0.28
+221599_at	PTD015	0.047296	PTD015 protein						0.85	0.3	-0.71	-0.31	-0.15
+221617_at	PGK1	0.009323	phosphoglycerate kinase 1	glycolysis	phosphoglycerate kinase activity				0.6	0.6	-0.55	-0.52	-0.15
+221723_s_at	SLC4A5	0.047023	solute carrier family 4, sodium bicarbonate cotransporter, member 5	anion transport	inorganic anion exchanger activity	membrane			1.61	0.41	-0.87	-0.3	-1.08
+221736_at	KIAA1219	0.044749	KIAA1219 protein						0.97	0.32	-0.28	-0.27	-0.78
+221740_x_at	KIAA0563	0.005222	MRNA; cDNA DKFZp313O1721 (from clone DKFZp313O1721)						1.33	0.81	-0.55	-0.74	-0.98
+221754_s_at	CORO1B	0.004109	coronin, actin binding protein, 1B		actin binding				0.67	0.96	-0.39	-0.74	-0.54
+221757_at	MGC17330	0.029065	HGFL gene						1.24	0.39	-0.39	-0.82	-0.54
+221769_at	SSB3	0.002975	SPRY domain-containing SOCS box protein SSB-3	intracellular signaling cascade					0.9	1	-0.88	-0.41	-0.68
+221794_at	DOCK6	0.048362	dedicator of cytokinesis 6						0.84	1.45	-0.94	0.04	-1.4
+221866_at	TFEB	0.044562	transcription factor EB	regulation of transcription, DNA-dependent	transcription factor activity	nucleus			0.4	2.57	-1.25	-1.06	-1.73
+221875_x_at	HLA-F	0.032475	major histocompatibility complex, class I, F	immune response	MHC class I receptor activity	integral to membrane	Proteasome_Degradation	GENMAPP/KEGG	0.47	1.99	-1.05	-1.16	-0.76
+221892_at	H6PD	0.004114	hexose-6-phosphate dehydrogenase (glucose 1-dehydrogenase)	carbohydrate metabolism	glucose-6-phosphate 1-dehydrogenase activity	endoplasmic reticulum	Pentose phosphate pathway	GENMAPP/KEGG	1.49	1.12	-1.23	-0.58	-0.98
+221928_at	LOC283445	0.021199	hypothetical protein LOC283445						2.21	0.69	-1.4	-1.2	-0.94
+221975_s_at	C21orf2	0.016337	MRNA for FLJ00235 protein.						0.64	1.76	-1.07	-0.88	-0.78
+222121_at	SGEF	0.004259	Src homology 3 domain-containing guanine nucleotide exchange factor						1.37	1.6	-0.58	-1.33	-1.28
+222133_s_at	CGI-72	0.018518	CGI-72 protein		nucleic acid binding				0.71	0.5	-0.27	-0.71	-0.23
+222152_at	PDCD6	0.037316	programmed cell death 6	apoptosis	calcium ion binding				1.24	1.69	-1.78	-1.09	-0.03
+222275_at	---	0.01699	MRNA; cDNA DKFZp686K0394 (from clone DKFZp686K0394)						0.34	0.92	-0.37	-0.5	-0.45
+222284_at	---	7.80E-05							0.74	0.66	-0.5	-0.49	-0.45
+222294_s_at	---	0.036312							1.29	1.75	-1.41	0.03	-1.67
+222335_at	---	0.027347							0.17	0.54	-0.3	-0.25	-0.17
+222338_x_at	---	0.049212							0.69	0.25	-0.57	-0.09	-0.29
+222341_x_at	---	0.003118							1.04	0.69	-0.75	-0.57	-0.48
+222342_at	---	0.026503							2.1	0.54	-1.21	-0.96	-1.07
+222344_at	---	0.039186							1.68	0.93	-1.61	-0.95	-0.11
+38398_at	MADD	0.038385	MAP-kinase activating death domain	cell surface receptor linked signal transduction	death receptor binding	cytoplasm			0.23	0.77	-0.37	-0.16	-0.49
+40020_at	CELSR3	0.039591	cadherin, EGF LAG seven-pass G-type receptor 3 (flamingo homolog, Drosophila)	cell adhesion	G-protein coupled receptor activity	integral to membrane	GPCRs_Other	GENMAPP/KEGG	0.24	0.5	-0.04	-0.27	-0.43
+40472_at	LOC254531	0.024397	PLSC domain containing protein	metabolism	acyltransferase activity				2.12	0.7	-1.47	-0.73	-1.15
+40489_at	DRPLA	0.040424	dentatorubral-pallidoluysian atrophy (atrophin-1)	central nervous system development	protein binding	nucleus			0.28	1.05	-0.54	-0.63	-0.24
+40569_at	ZNF42	0.010522	zinc finger protein 42 (myeloid-specific retinoic acid-responsive)	regulation of transcription, DNA-dependent	transcription factor activity	nucleus			0.65	0.64	-0.35	-0.24	-0.72
+45687_at	MGC3121	0.028148	hypothetical protein MGC3121						0.94	0.38	-0.73	-0.4	-0.24
+47083_at	C7orf26	0.024722	chromosome 7 open reading frame 26						0.43	0.63	-0.21	-0.19	-0.66
+50221_at	TFEB	0.013458	transcription factor EB	regulation of transcription, DNA-dependent	transcription factor activity	nucleus			1.19	1.51	-0.35	-1.48	-0.97
+52975_at	C9orf28	0.049938	chromosome 9 open reading frame 28						0.63	1.91	-1.54	-0.2	-1.06
+55093_at	CSGlcA-T	0.046075	chondroitin sulfate glucuronyltransferase						0.5	0.66	0.06	-0.59	-0.64
+59697_at	RAB15	0.009036	RAB15, member RAS onocogene family	small GTPase mediated signal transduction	GTP binding				0.71	0.45	-0.59	-0.25	-0.35
+65438_at	KIAA1609	0.024173	KIAA1609 protein						1.1	1.46	-1.31	-0.11	-1.2
+AFFX-r2-Hs18SrRNA-5_at	AFFX-r2-Hs18SrRNA-5_at	0.032188	Similar to rRNA intron-encoded homing endonuclease						0.51	2.01	-1.25	-0.7	-1.07

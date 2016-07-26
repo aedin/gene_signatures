@@ -1,0 +1,625 @@
+Probe Set	Unigene acc. No.	Gene symbol	Gene	Fold Change	log2 Fold Change	std	p_value	lower cl	upper cl	Detection call
+94354_at	Mm.369	Abca1	ATP-binding cassette, sub-family A (ABC1), member 1	1.98	0.98	0.26	0.02	0.28	1.69	PPP PPP
+99329_at	Mm.196634	Abcc1	ATP-binding cassette, sub-family C (CFTR/MRP), member 1	1.57	0.65	0.11	0	0.35	0.94	PPA PPA
+103689_at	Mm.23942	Abcc3	ATP-binding cassette, sub-family C (CFTR/MRP), member 3	-1.4	-0.48	0.06	0	-0.65	-0.32	PPP PPP
+100568_at	Mm.5831	Abce1	ATP-binding cassette, sub-family E (OABP), member 1	1.62	0.7	0.12	0	0.35	1.04	PPP PPP
+95064_at	Mm.142498	Acaa2	acetyl-Coenzyme A acyltransferase 2 (mitochondrial 3-oxoacyl-Coenzyme A thiolase)	-1.48	-0.57	0.1	0	-0.84	-0.3	PPP PPP
+92581_at	Mm.10530	Acadm	acetyl-Coenzyme A dehydrogenase, medium chain	1.87	0.91	0.18	0.01	0.42	1.39	PPP PPP
+96870_at	Mm.154581	Aco2	aconitase 2, mitochondrial	1.44	0.52	0.08	0	0.31	0.74	PPP PPP
+97904_at	Mm.183102	Actr3	ARP3 actin-related protein 3 homolog (yeast)	-1.65	-0.72	0.13	0.01	-1.08	-0.36	PPP PPP
+98589_at	Mm.381	Adfp	adipose differentiation related protein	-1.75	-0.8	0.07	0	-0.99	-0.62	PPP PPP
+98435_at	Mm.3440	Adss	adenylosuccinate synthetase, muscle	-1.77	-0.82	0.15	0.01	-1.24	-0.41	PPP PPP
+99038_at	Mm.132946	Adss2	adenylosuccinate synthetase 2, non muscle	-1.64	-0.71	0.08	0	-0.94	-0.49	PPP PPP
+99039_g_at	Mm.132946	Adss2	adenylosuccinate synthetase 2, non muscle	-2.27	-1.18	0.19	0	-1.7	-0.67	PPP PPP
+95577_at	Mm.27829	AI314180	expressed sequence AI314180	1.69	0.76	0.12	0	0.42	1.09	PPP PPP
+103443_at	Mm.205096	Aim1	absent in melanoma 1	-2.63	-1.4	0.15	0	-1.81	-0.99	PPP PPP
+100884_at	Mm.5378	Akr1b8	aldo-keto reductase family 1, member B8	-1.5	-0.58	0.09	0	-0.83	-0.34	PPP PPP
+93500_at	Mm.19143	Alas1	aminolevulinic acid synthase 1	2.62	1.39	0.13	0	1.02	1.76	PPP PPP
+96057_at	Mm.2621	Aldh2	aldehyde dehydrogenase 2, mitochondrial	-1.63	-0.7	0.08	0	-0.92	-0.48	PPP PPP
+96058_s_at	Mm.2621	Aldh2	aldehyde dehydrogenase 2, mitochondrial	-1.85	-0.89	0.09	0	-1.14	-0.64	PPP PPP
+97449_at	Mm.30250	Aldh7a1	aldehyde dehydrogenase family 7, member A1	1.83	0.87	0.08	0	0.64	1.1	PPP PPP
+97450_s_at	Mm.30250	Aldh7a1	aldehyde dehydrogenase family 7, member A1	1.97	0.98	0.05	0	0.83	1.12	PPP PPP
+99993_at	Mm.4487	Anpep	alanyl (membrane) aminopeptidase	-2.54	-1.34	0.12	0	-1.67	-1.01	PPP PPP
+100569_at	Mm.584	Anxa2	annexin A2	-1.47	-0.55	0.04	0	-0.66	-0.45	PPP PPP
+93083_at	Mm.1620	Anxa5	annexin A5	-1.83	-0.87	0.05	0	-1.01	-0.74	PPP PPP
+95704_at	Mm.29699	Ap1b1	adaptor protein complex AP-1, beta 1 subunit	1.56	0.64	0.06	0	0.46	0.81	PPP PPP
+93362_at	Mm.18946	Ap2m1	adaptor protein complex AP-2, mu1	1.39	0.48	0.07	0	0.29	0.67	PPP PPP
+103298_at	Mm.2104	Apeg1	aortic preferentially expressed gene 1	1.68	0.75	0.16	0.01	0.31	1.19	PPP PPP
+93063_at	Mm.131766	App	amyloid beta (A4) precursor protein	-2.84	-1.51	0.14	0	-1.89	-1.12	PPP PPP
+160082_s_at	Mm.1486	Arf4	ADP-ribosylation factor 4	-1.57	-0.65	0.09	0	-0.91	-0.4	PPP PPP
+101112_g_at	Mm.757	Arha	ras homolog gene family, member A	-1.66	-0.73	0.09	0	-0.98	-0.48	PPP PPP
+101113_at	Mm.757	Arha	ras homolog gene family, member A	-1.78	-0.83	0.09	0	-1.07	-0.59	PPP PPP
+96056_at	Mm.262	Arhc	ras homolog gene family, member C	-1.9	-0.92	0.11	0	-1.23	-0.62	PPP PPP
+96360_at	Mm.30016	Arhgdia	Rho GDP dissociation inhibitor (GDI) alpha	-1.57	-0.65	0.07	0	-0.85	-0.45	PPP PPP
+98001_at	Mm.3181	Arhgef1	Rho guanine nucleotide exchange factor (GEF) 1	-1.69	-0.75	0.14	0.01	-1.14	-0.37	PPP PPP
+98434_at	Mm.3439	Arhgef7	Rho guanine nucleotide exchange factor (GEF7)	1.65	0.73	0.07	0	0.52	0.93	PPP PPP
+100599_at	Mm.641	Atf4	activating transcription factor 4	-1.7	-0.76	0.1	0	-1.06	-0.47	PPP PPP
+93797_g_at	Mm.205791	Atp1a1	ATPase, Na+/K+ transporting, alpha 1 polypeptide	-1.7	-0.76	0.12	0	-1.09	-0.44	PPP PPP
+93798_at	Mm.205791	Atp1a1	ATPase, Na+/K+ transporting, alpha 1 polypeptide	-1.7	-0.77	0.06	0	-0.94	-0.59	PPP PPP
+103935_at	Mm.6306	Atp2a3	ATPase, Ca++ transporting, ubiquitous	-2.33	-1.22	0.18	0	-1.71	-0.73	PPP PPP
+93404_g_at	Mm.6306	Atp2a3	ATPase, Ca++ transporting, ubiquitous	-1.46	-0.54	0.1	0.01	-0.81	-0.27	PPP PPP
+100753_at	Mm.4069	Atp5a1	ATP synthase, H+ transporting, mitochondrial F1 complex, alpha subunit, isoform 1	1.42	0.51	0.08	0	0.29	0.72	PPP PPP
+93014_at	Mm.14663	Atp5l	ATP synthase, H+ transporting, mitochondrial F0 complex, subunit g	1.5	0.59	0.05	0	0.46	0.71	PPP PPP
+103275_at	Mm.20869	Atp6v0a1	ATPase, H+ transporting, lysosomal V0 subunit a isoform 1	1.91	0.94	0.19	0.01	0.4	1.48	PPP PPP
+94301_at	Mm.22602	Atp6v0e	ATPase, H+ transporting, V0 subunit	-1.44	-0.52	0.05	0	-0.65	-0.39	PPP PPP
+92598_at	Mm.10727	Atp6v1b2	ATPase, H+ transporting, V1 subunit B, isoform 2	1.64	0.71	0.11	0	0.4	1.02	PPP PPP
+96610_at	Mm.27082	Atp6v1h	ATPase, H+ transporting, lysosomal 50/57kDa, V1 subunit H	1.55	0.64	0.06	0	0.46	0.81	PPP PPP
+93984_at	Mm.2171	Atpi	ATPase inhibitor	2.44	1.29	0.07	0	1.09	1.48	PPP PPP
+103366_at	Mm.227198	AU043488	expressed sequence AU043488	-1.4	-0.49	0.08	0	-0.7	-0.27	PPP PPP
+104066_at	Mm.21597	AW548124	expressed sequence AW548124	2.07	1.05	0.14	0	0.67	1.43	PPP PPP
+104128_at	Mm.22040	AW556797	expressed sequence AW556797	-1.4	-0.49	0.06	0	-0.65	-0.32	PPP PPP
+96340_at	Mm.29987	B230114J08Rik	RIKEN cDNA B230114J08 gene	-1.58	-0.66	0.1	0	-0.94	-0.37	PPP PPP
+160137_at	Mm.21503	B3gnt1	UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 1	1.49	0.58	0.1	0	0.31	0.84	PPP PPP
+95673_s_at	Mm.29586	Basp1	brain abundant, membrane attached signal protein 1	-1.71	-0.77	0.15	0.01	-1.2	-0.35	PPP PPP
+100949_at	Mm.6419	BC004044	cDNA sequence BC004044	1.55	0.63	0.11	0.01	0.32	0.95	PPP PPP
+94423_at	Mm.26282	BC004728	cDNA sequence BC004728	1.4	0.48	0.07	0	0.29	0.68	PPP PPP
+160976_at	Mm.195916	BC012974	hypothetical gene supported by BC012974	-1.72	-0.79	0.12	0	-1.12	-0.45	PPP PPP
+97737_f_at	Mm.3957	BC034204	cDNA sequence BC034204	-1.45	-0.54	0.09	0	-0.78	-0.29	PPP PPP
+160876_at	Mm.4236	Bcap29	B-cell receptor-associated protein 29	2.33	1.22	0.1	0	0.94	1.51	PPA PPA
+93252_at	Mm.17	Bcap31	B-cell receptor-associated protein 31	1.47	0.56	0.05	0	0.41	0.7	PPP PPP
+100988_at	Mm.141083	Bcl2l11	BCL2-like 11 (apoptosis facilitator)	-1.53	-0.62	0.09	0	-0.86	-0.37	PPP PPP
+103015_at	Mm.230010	Bcl6	B-cell leukemia/lymphoma 6	-1.69	-0.76	0.11	0	-1.07	-0.45	PPP PPP
+100771_at	Mm.9749	Blnk	B-cell linker	-2.12	-1.08	0.12	0	-1.42	-0.75	PPP PPP
+98920_g_at	Mm.28626	Blp1-pending	BBP-like protein 1	1.61	0.68	0.08	0	0.46	0.9	PPP PPP
+93454_at	Mm.681	C1qr1	complement component 1, q subcomponent, receptor 1	-2.93	-1.55	0.22	0	-2.16	-0.95	PPP PPP
+103695_f_at	Mm.157101	C330007P06Rik	RIKEN cDNA C330007P06 gene	2.2	1.14	0.13	0	0.77	1.5	PPP PPP
+104651_at	Mm.3154	C330035N22Rik	RIKEN cDNA C330035N22 gene	1.74	0.8	0.09	0	0.56	1.05	PPA PPA
+94689_at	Mm.153895	C79248	expressed sequence C79248	1.91	0.94	0.17	0.01	0.47	1.4	PPA PPA
+96522_at	Mm.34246	Calm1	calmodulin 1	-1.74	-0.8	0.08	0	-1.02	-0.57	PPP PPP
+160106_at	Mm.18626	Capg	capping protein (actin filament), gelsolin-like	-1.65	-0.72	0.05	0	-0.87	-0.57	PPP PPP
+100932_at	Mm.6221	Capn1	calpain 1	-1.4	-0.48	0.05	0	-0.61	-0.36	PPP PPP
+100610_at	Mm.6534	Capns1	calpain, small subunit 1	-1.61	-0.69	0.07	0	-0.88	-0.5	PPP PPP
+160965_at	Mm.23934	Capri-pending	Ca2+promoted Ras inactivator	-1.76	-0.81	0.12	0	-1.13	-0.49	PPP PPP
+95142_s_at	Mm.2945	Capzb	capping protein (actin filament) muscle Z-line, beta	-1.8	-0.85	0.09	0	-1.1	-0.6	PPP PPP
+99049_at	Mm.3921	Casp2	caspase 2	-1.59	-0.67	0.1	0	-0.94	-0.4	PPP PPP
+102736_at	Mm.145	Ccl2	chemokine (C-C motif) ligand 2	8.52	3.09	0.11	0	2.79	3.39	PPP PPP
+102424_at	Mm.1282	Ccl3	chemokine (C-C motif) ligand 3	9.54	3.25	0.17	0	2.78	3.72	PPP PPP
+94146_at	Mm.1255	Ccl4	chemokine (C-C motif) ligand 4	3.76	1.91	0.17	0	1.45	2.37	PPP PPP
+92459_at	Mm.42029	Ccl8	chemokine (C-C motif) ligand 8	2.09	1.06	0.27	0.02	0.31	1.81	PPP PPP
+94231_at	Mm.22288	Ccnd1	cyclin D1	1.5	0.58	0.09	0	0.33	0.84	PPP PPP
+94232_at	Mm.22288	Ccnd1	cyclin D1	3.39	1.76	0.11	0	1.46	2.07	PPA PPA
+93617_at	Mm.7336	Ccrl2	chemokine (C-C motif) receptor-like 2	-1.94	-0.96	0.11	0	-1.27	-0.64	PPP PPP
+98153_at	Mm.256034	Cct3	chaperonin subunit 3 (gamma)	1.65	0.72	0.11	0	0.42	1.02	PPP PPP
+97312_at	Mm.28083	Cd164	CD164 antigen	2.03	1.02	0.14	0	0.64	1.41	PPP PPP
+102237_at	Mm.255003	Cd28	CD28 antigen	2.17	1.11	0.11	0	0.8	1.43	PPA PPA
+98980_at	Mm.3689	Cd37	CD37 antigen	-1.95	-0.96	0.1	0	-1.24	-0.69	PPP PPP
+103089_at	Mm.1738	Cd48	CD48 antigen	-6.94	-2.8	0.17	0	-3.28	-2.31	PAP PAP
+93445_at	Mm.6676	Cd5l	CD5 antigen-like	-8.59	-3.1	0.27	0	-3.84	-2.36	PPP PPP
+103016_s_at	Mm.15819	Cd68	CD68 antigen	-2.17	-1.12	0.11	0	-1.43	-0.81	PPP PPP
+102778_at	Mm.1355	Cd79a	CD79A antigen (immunoglobulin-associated alpha)	-2.12	-1.09	0.24	0.01	-1.76	-0.41	PPP PPP
+101495_at	Mm.806	Cd81	CD 81 antigen	1.88	0.91	0.17	0.01	0.45	1.37	PPP PPP
+97832_at	Mm.182255	Cd97	CD97 antigen	-3.17	-1.66	0.15	0	-2.09	-1.24	PPP PPP
+100128_at	Mm.4761	Cdc2a	cell division cycle 2 homolog A (S. pombe)	1.8	0.85	0.11	0	0.55	1.14	PPP PPP
+94048_at	Mm.21981	Cdc34	cell division cycle 34 homolog (S. cerevisiae)	2.06	1.04	0.07	0	0.84	1.24	PPP PPP
+94036_at	Mm.21921	Cdc42ep4	CDC42 effector protein (Rho GTPase binding) 4	-2.03	-1.02	0.1	0	-1.29	-0.75	PPP PPP
+94881_at	Mm.34446	Cdkn1a	cyclin-dependent kinase inhibitor 1A (P21)	2.05	1.04	0.22	0.01	0.43	1.64	PPP PPP
+98067_at	Mm.34446	Cdkn1a	cyclin-dependent kinase inhibitor 1A (P21)	2.44	1.29	0.18	0	0.78	1.8	PPP PPP
+102804_at	Mm.14114	Ceacam1	CEA-related cell adhesion molecule 1	-2.05	-1.03	0.09	0	-1.27	-0.8	PPP PPP
+101908_s_at	Mm.155711	Ceacam2	CEA-related cell adhesion molecule 2	-3.05	-1.61	0.16	0	-2.06	-1.16	PPP PPP
+98447_at	Mm.34537	Cebpa	CCAAT/enhancer binding protein (C/EBP), alpha	-3.01	-1.59	0.12	0	-1.91	-1.26	PPP PPP
+99486_at	Mm.41454	Cenpb	centromere autoantigen B	-1.46	-0.54	0.09	0	-0.8	-0.29	PPP PPP
+92788_f_at	Mm.12481	Cetn3	centrin 3	1.51	0.59	0.09	0	0.35	0.83	PPP PPP
+99119_at	Mm.4024	Cfl1	cofilin 1, non-muscle	-1.8	-0.85	0.08	0	-1.07	-0.62	PPP PPP
+100126_at	Mm.23095	Chrac1	chromatin accessibility complex 1	-1.37	-0.46	0.06	0	-0.63	-0.28	PPP PPP
+100022_at	Mm.4592	Cish	cytokine inducible SH2-containing protein	1.8	0.85	0.16	0.01	0.4	1.3	PPP PPP
+101973_at	Mm.9524	Cited2	Cbp/p300-interacting transactivator, with Glu/Asp-rich carboxy-terminal domain, 2	2.06	1.04	0.2	0.01	0.47	1.61	PPP PPP
+93126_at	Mm.16831	Ckb	creatine kinase, brain	1.81	0.86	0.11	0	0.55	1.17	PPP PPP
+95150_at	Mm.29475	Ckip1-pending	CK2 interacting protein 1	-1.42	-0.51	0.07	0	-0.69	-0.33	PPP PPP
+98492_at	Mm.35600	Cklfsf7	chemokine-like factor super family 7	-1.48	-0.56	0.11	0.01	-0.86	-0.27	PPP PPP
+102786_at	Mm.28842	Clcn3	chloride channel 3	1.58	0.66	0.08	0	0.44	0.88	PPA PPA
+95951_at	Mm.24920	Clecsf8	C-type (calcium dependent, carbohydrate recognition domain) lectin, superfamily member 8	2.07	1.05	0.18	0	0.53	1.56	PPP PPP
+100579_s_at	Mm.198817	Clta	clathrin, light polypeptide (Lca)	2.81	1.49	0.16	0	1.04	1.94	PPP PPP
+160252_at	Mm.200876	Cltc	clathrin, heavy polypeptide (Hc)	1.9	0.92	0.14	0	0.52	1.32	PPP PPP
+94004_at	Mm.21776	Cnn2	calponin 2	-3.82	-1.93	0.13	0	-2.3	-1.57	PPP PPP
+101882_s_at	Mm.4352	Col18a1	procollagen, type XVIII, alpha 1	1.51	0.59	0.11	0.01	0.29	0.89	PPP PPP
+99638_at	Mm.4352	Col18a1	procollagen, type XVIII, alpha 1	1.54	0.62	0.08	0	0.39	0.85	PPP PPP
+96307_s_at	Mm.190641	Col25a1	collagen, type XXV, alpha 1	1.47	0.55	0.09	0	0.29	0.82	PPP PPP
+96648_at	Mm.27317	Coro1a	coronin, actin binding protein 1A	-1.95	-0.97	0.07	0	-1.15	-0.78	PPP PPP
+98107_at	Mm.200372	Coro1c	coronin, actin binding protein 1C	-1.57	-0.65	0.05	0	-0.79	-0.51	PPP PPP
+102124_f_at	Mm.2136	Cox4a	cytochrome c oxidase, subunit IVa	1.4	0.49	0.08	0	0.27	0.7	PPP PPP
+100550_f_at	Mm.548	Cox6c	cytochrome c oxidase, subunit VIc	1.47	0.56	0.09	0	0.31	0.81	PPP PPP
+93820_at	Mm.2151	Cox7a2	cytochrome c oxidase, subunit VIIa 2	1.5	0.59	0.07	0	0.4	0.78	PPP PPP
+101580_at	Mm.197728	Cox7b	cytochrome c oxidase subunit VIIb	2.08	1.06	0.08	0	0.83	1.28	PPP PPP
+99660_f_at	Mm.43786	Cox7c	cytochrome c oxidase, subunit VIIc	1.57	0.65	0.08	0	0.42	0.88	PPP PPP
+99661_r_at	Mm.43786	Cox7c	cytochrome c oxidase, subunit VIIc	1.51	0.59	0.06	0	0.42	0.76	PPP PPP
+93320_at	Mm.18522	Cpt1a	carnitine palmitoyltransferase 1, liver	-2.56	-1.35	0.12	0	-1.69	-1.02	PPP PPP
+160502_at	Mm.459	Creg	cellular repressor of E1A-stimulated genes	1.71	0.77	0.09	0	0.52	1.03	PPP PPP
+94061_at	Mm.22049	Crip1	cysteine-rich protein 1 (intestinal)	-5.37	-2.42	0.16	0	-2.86	-1.99	PPP PPP
+101879_s_at	Mm.88295	Crry	complement receptor related protein	-1.45	-0.54	0.1	0.01	-0.81	-0.27	PPP PPP
+103817_at	Mm.20904	Crtap	cartilage associated protein	1.58	0.66	0.14	0.01	0.28	1.03	PPP PPP
+101450_at	Mm.795	Csf1	colony stimulating factor 1 (macrophage)	3.49	1.8	0.16	0	1.35	2.26	PPP PPP
+99330_at	Mm.255931	Csf2ra	colony stimulating factor 2 receptor, alpha, low-affinity (granulocyte-macrophage)	-2.61	-1.38	0.06	0	-1.56	-1.21	PPP PPP
+93198_at	Mm.56915	Csf3r	colony stimulating factor 3 receptor (granulocyte)	-1.84	-0.88	0.1	0	-1.16	-0.6	PPP PPP
+101845_s_at	Mm.248553	Csprs	component of Sp100-rs	-3.1	-1.63	0.14	0	-2.01	-1.26	PPA PPA
+100581_at	Mm.6095	Cstb	cystatin B	-1.49	-0.58	0.1	0	-0.86	-0.29	PPP PPP
+101081_at	Mm.7286	Ctbp1	C-terminal binding protein 1	-1.48	-0.57	0.07	0	-0.76	-0.38	PPP PPP
+94834_at	Mm.2277	Ctsh	cathepsin H	-5.2	-2.38	0.15	0	-2.79	-1.97	PPP PPP
+160406_at	Mm.272085	Ctsk	cathepsin K	-2.32	-1.21	0.21	0	-1.81	-0.62	PPP PPP
+94054_at	Mm.205601	Cttn	cortactin	1.84	0.88	0.11	0	0.59	1.17	PPP PPP
+96232_at	Mm.196586	Cul2	cullin 2	1.43	0.51	0.06	0	0.34	0.69	PPP PPP
+103922_f_at	Mm.148348	Cyb5r1-pending	cytochrome b5 reductase 1 (B5R.1)	-1.43	-0.52	0.09	0	-0.76	-0.28	PPP PPP
+100300_at	Mm.200362	Cybb	cytochrome b-245, beta polypeptide	-2.59	-1.37	0.16	0	-1.82	-0.93	PPP PPP
+98910_at	Mm.258466	D030012E24Rik	RIKEN cDNA D030012E24 gene	-1.39	-0.48	0.06	0	-0.65	-0.3	PPP PPP
+96526_at	Mm.168541	D030029J20Rik	RIKEN cDNA D030029J20 gene	2.2	1.14	0.15	0	0.72	1.56	PPA PPA
+100743_at	Mm.258973	D030070L09Rik	RIKEN cDNA D030070L09 gene	-1.64	-0.71	0.1	0	-0.98	-0.45	PPP PPP
+94526_at	Mm.254114	D10Ertd214e	DNA segment, Chr 10, ERATO Doi 214, expressed	1.89	0.92	0.16	0	0.48	1.36	PPP PPP
+95161_at	Mm.29490	D10Ertd73e	DNA segment, Chr 10, ERATO Doi 73, expressed	-1.42	-0.5	0.08	0	-0.73	-0.27	PPP PPP
+160455_s_at	Mm.38994	D10Ertd749e	DNA segment, Chr 10, ERATO Doi 749, expressed	1.5	0.58	0.08	0	0.37	0.8	PPP PPP
+99087_at	Mm.38994	D10Ertd749e	DNA segment, Chr 10, ERATO Doi 749, expressed	1.52	0.6	0.07	0	0.42	0.78	PPP PPP
+160395_at	Mm.30177	D11Ertd603e	DNA segment, Chr 11, ERATO Doi 603, expressed	1.92	0.94	0.21	0.01	0.37	1.51	PPA PPA
+97241_at	Mm.27839	D19Ertd721e	DNA segment, Chr 19, ERATO Doi 721, expressed	1.77	0.83	0.09	0	0.58	1.07	PPP PPP
+104633_at	Mm.34248	Dab2	disabled homolog 2 (Drosophila)	4.01	2	0.16	0	1.55	2.46	PPA PPA
+98044_at	Mm.34248	Dab2	disabled homolog 2 (Drosophila)	2.41	1.27	0.12	0	0.93	1.61	PPP PPP
+98045_s_at	Mm.34248	Dab2	disabled homolog 2 (Drosophila)	3.53	1.82	0.14	0	1.42	2.22	PPP PPP
+93842_at	Mm.222867	Dap	death-associated protein	-1.45	-0.53	0.09	0	-0.77	-0.29	PPP PPP
+94454_at	Mm.28797	Dazap2	DAZ associated protein 2	-1.61	-0.69	0.14	0.01	-1.08	-0.29	PPP PPP
+98071_f_at	Mm.3446	Dck	deoxycytidine kinase	-1.74	-0.8	0.1	0	-1.09	-0.51	PPP PPP
+92887_at	Mm.1457	Ddah2	dimethylarginine dimethylaminohydrolase 2	1.56	0.64	0.08	0	0.41	0.86	PPP PPP
+101179_at	Mm.267061	Ddx6	DEAD (Asp-Glu-Ala-Asp) box polypeptide 6	2.73	1.45	0.26	0.01	0.73	2.18	PPP PPP
+104681_at	Mm.3282	Diap1	diaphanous homolog 1 (Drosophila)	-1.51	-0.6	0.11	0.01	-0.89	-0.3	PPP PPP
+99949_at	Mm.275376	Doc2a	double C2, alpha	-1.46	-0.54	0.07	0	-0.74	-0.35	PPP PPP
+92730_at	Mm.4661	Dtr	diphtheria toxin receptor	1.61	0.68	0.11	0	0.38	0.99	PPP PPP
+93285_at	Mm.1791	Dusp6	dual specificity phosphatase 6	4.12	2.04	0.17	0	1.58	2.5	PPA PPA
+93627_at	Mm.275894	E430019N21Rik	RIKEN cDNA E430019N21 gene	1.87	0.91	0.12	0	0.58	1.23	PPP PPP
+93608_at	Mm.7254	Ebi3	Epstein-Barr virus induced gene 3	1.62	0.69	0.12	0	0.36	1.03	PPP PPP
+98525_f_at	Mm.35829	edr	erythroid differentiation regulator	3.25	1.7	0.2	0	1.15	2.25	PPP PPP
+93783_at	Mm.2131	Ela1	elastase 1, pancreatic	1.51	0.59	0.07	0	0.39	0.8	PPP PPP
+93496_at	Mm.19130	Elovl5	ELOVL family member 5, elongation of long chain fatty acids (yeast)	-1.55	-0.63	0.1	0	-0.9	-0.35	PPP PPP
+93593_f_at	Mm.20829	Emp3	epithelial membrane protein 3	-1.86	-0.89	0.06	0	-1.07	-0.71	PPP PPP
+100134_at	Mm.225297	Eng	endoglin	-1.73	-0.79	0.06	0	-0.95	-0.64	PPP PPP
+100051_at	Mm.4441	NA	erythrocyte protein band 7.2	-1.62	-0.7	0.06	0	-0.88	-0.52	PPP PPP
+98446_s_at	Mm.34533	Ephb4	Eph receptor B4	1.52	0.61	0.05	0	0.45	0.76	PPP PPP
+103977_at	Mm.2578	F10	coagulation factor X	-9.07	-3.18	0.24	0	-3.85	-2.52	APP APP
+161458_at	Mm.4827	F7	coagulation factor VII	-1.63	-0.7	0.09	0	-0.94	-0.46	PPP PPP
+160544_at	Mm.741	Fabp5	fatty acid binding protein 5, epidermal	2.5	1.32	0.09	0	1.08	1.57	PPP PPP
+101793_at	Mm.150	Fcgr1	Fc receptor, IgG, high affinity I	2.1	1.07	0.24	0.01	0.41	1.74	PPP PPP
+102879_s_at	Mm.150	Fcgr1	Fc receptor, IgG, high affinity I	1.9	0.92	0.16	0	0.49	1.36	PPP PPP
+102337_s_at	Mm.10809	Fcgr2b	Fc receptor, IgG, low affinity IIb	4.41	2.14	0.28	0	1.36	2.92	PPP PPP
+102065_at	Mm.10510	Fcna	ficolin A	-2.32	-1.22	0.11	0	-1.52	-0.92	PPP PPP
+99098_at	Mm.39472	Fdps	farnesyl diphosphate synthetase	2.11	1.07	0.18	0	0.58	1.57	PPP PPP
+97509_f_at	Mm.254496	Fgfr1	fibroblast growth factor receptor 1	-2.86	-1.52	0.14	0	-1.91	-1.13	PPP PPP
+160253_at	Mm.141021	Fgls-pending	fragilis	-5.91	-2.56	0.18	0	-3.07	-2.05	PPP PPP
+94697_at	Mm.1338	Fgr	Gardner-Rasheed feline sarcoma viral (Fgr) oncogene homolog	-2.52	-1.33	0.08	0	-1.56	-1.1	PPP PPP
+99148_at	Mm.41502	Fh1	fumarate hydratase 1	1.52	0.6	0.08	0	0.38	0.81	PPP PPP
+97964_at	Mm.30729	Fkbp11	FK506 binding protein 11	1.66	0.73	0.15	0.01	0.32	1.14	PPP PPP
+95637_at	Mm.28095	Flnb	filamin, beta	-3.87	-1.95	0.17	0	-2.41	-1.49	PPP PPP
+96183_at	Mm.212914	Foxp1	forkhead box P1	-1.56	-0.65	0.09	0	-0.91	-0.38	PPP PPP
+94794_at	Mm.1776	Fth	ferritin heavy chain	1.53	0.61	0.05	0	0.46	0.76	PPP PPP
+103394_at	Mm.1870	Fxyd5	FXYD domain-containing ion transport regulator 5	-2.37	-1.24	0.13	0	-1.59	-0.89	PPP PPP
+160516_at	Mm.4793	Gaa	glucosidase, alpha, acid	-1.47	-0.55	0.06	0	-0.73	-0.38	PPP PPP
+102292_at	Mm.1236	Gadd45a	growth arrest and DNA-damage-inducible 45 alpha	2.59	1.37	0.12	0	1.05	1.7	PPP PPP
+102779_at	Mm.1360	Gadd45b	growth arrest and DNA-damage-inducible 45 beta	-1.79	-0.84	0.15	0.01	-1.26	-0.42	PPP PPP
+99067_at	Mm.3982	Gas6	growth arrest specific 6	5.5	2.46	0.17	0	1.98	2.94	PPP PPP
+160335_at	Mm.29340	Gclm	glutamate-cysteine ligase , modifier subunit	2.75	1.46	0.22	0	0.86	2.06	PPP PPP
+92476_at	Mm.4213	Gdf3	growth differentiation factor 3	-2.55	-1.35	0.14	0	-1.74	-0.96	PPP PPP
+102993_at	Mm.1548	Ggta1	glycoprotein galactosyltransferase alpha 1, 3	2.66	1.41	0.11	0	1.09	1.73	PPP PPP
+103647_at	Mm.255070	Glb1	galactosidase, beta 1	1.54	0.63	0.08	0	0.41	0.84	PPP PPP
+161754_f_at	Mm.255070	Glb1	galactosidase, beta 1	1.62	0.69	0.13	0.01	0.33	1.06	PPP PPP
+104276_at	Mm.22213	Glipr2	GLI pathogenesis-related 2	-1.47	-0.56	0.08	0	-0.78	-0.34	PPP PPP
+95722_at	Mm.25844	Glrx1	glutaredoxin 1 (thioltransferase)	1.54	0.62	0.1	0	0.36	0.89	PPP PPP
+104524_at	Mm.275766	Gltp-pending	glycolipid transfer protein	-1.57	-0.65	0.07	0	-0.85	-0.45	PPP PPP
+92586_at	Mm.10600	Glud	glutamate dehydrogenase	-1.79	-0.84	0.1	0	-1.11	-0.58	PPP PPP
+96911_at	Mm.30141	Gnb2	guanine nucleotide binding protein, beta 2	-1.33	-0.41	0.05	0	-0.54	-0.28	PPP PPP
+160893_at	Mm.46299	Gngt2	guanine nucleotide binding protein (G protein), gamma transducing activity polypeptide 2	-1.59	-0.67	0.13	0.01	-1.03	-0.31	PPP PPP
+100573_f_at	Mm.589	Gpi1	glucose phosphate isomerase 1	2.11	1.08	0.25	0.01	0.38	1.78	PPP PPP
+102040_at	Mm.10193	Gprk6	G protein-coupled receptor kinase 6	-1.81	-0.86	0.16	0.01	-1.29	-0.42	PPP PPP
+93764_at	Mm.21162	Grim19-pending	genes associated with retinoid-IFN-induced mortality 19	1.6	0.68	0.09	0	0.42	0.93	PPP PPP
+93066_at	Mm.1568	Grn	granulin	-1.62	-0.7	0.08	0	-0.93	-0.47	PPP PPP
+93750_at	Mm.21109	Gsn	gelsolin	1.74	0.8	0.1	0	0.51	1.09	PPP PPP
+103038_at	Mm.16224	Guca1a	guanylate cyclase activator 1a (retina)	-1.63	-0.7	0.1	0	-0.98	-0.43	PPP PPP
+92866_at	Mm.175310	H2-Aa	histocompatibility 2, class II antigen A, alpha	-6.31	-2.66	0.22	0	-3.26	-2.06	PPP PPP
+100998_at	Mm.6716	H2-Ab1	histocompatibility 2, class II antigen A, beta 1	-3.5	-1.81	0.24	0	-2.49	-1.13	PPP PPP
+101886_f_at	Mm.33263	H2-D1	histocompatibility 2, D region locus 1	-2.59	-1.37	0.1	0	-1.64	-1.1	PPP PPP
+97540_f_at	Mm.33263	H2-D1	histocompatibility 2, D region locus 1	-2.47	-1.3	0.14	0	-1.71	-0.9	PPP PPP
+97541_f_at	Mm.33263	H2-D1	histocompatibility 2, D region locus 1	-2.03	-1.02	0.2	0.01	-1.58	-0.46	PPP PPP
+93092_at	Mm.16373	H2-DMa	histocompatibility 2, class II, locus DMa	-1.72	-0.78	0.13	0	-1.15	-0.41	PPP PPP
+98034_at	Mm.3322	H2-DMb1	histocompatibility 2, class II, locus Mb1	-1.89	-0.92	0.17	0.01	-1.38	-0.45	PPP PPP
+98035_g_at	Mm.3322	H2-DMb1	histocompatibility 2, class II, locus Mb1	-1.92	-0.94	0.11	0	-1.24	-0.65	PPP PPP
+94285_at	Mm.22564	H2-Eb1	histocompatibility 2, class II antigen E beta	-3.13	-1.65	0.2	0	-2.19	-1.1	PPP PPP
+93120_f_at	Mm.16771	H2-K	histocompatibility 2, K region	-2.58	-1.37	0.18	0	-1.86	-0.87	PPP PPP
+99379_f_at	Mm.16771	H2-K	histocompatibility 2, K region	-1.79	-0.84	0.11	0	-1.14	-0.53	PPP PPP
+99378_f_at	Mm.98003	H2-Q1	histocompatibility 2, Q region locus 1	-2.19	-1.13	0.15	0	-1.54	-0.71	PPP PPP
+97173_f_at	Mm.88795	H2-Q10	histocompatibility 2, Q region locus 10	-1.86	-0.9	0.12	0	-1.24	-0.56	PPP PPP
+93714_f_at	Mm.34421	H2-Q7	histocompatibility 2, Q region locus 7	-2.11	-1.08	0.1	0	-1.36	-0.8	PPP PPP
+98438_f_at	Mm.34421	H2-Q7	histocompatibility 2, Q region locus 7	-2.53	-1.34	0.14	0	-1.73	-0.95	PPP PPP
+93865_s_at	Mm.87776	H2-T10	histocompatibility 2, T region locus 10	-1.95	-0.96	0.14	0	-1.34	-0.59	PPP PPP
+101876_s_at	Mm.196459	H2-T17	histocompatibility 2, T region locus 17	-2.13	-1.09	0.21	0.01	-1.68	-0.5	PPP PPP
+98472_at	Mm.35016	H2-T23	histocompatibility 2, T region locus 23	-2.03	-1.02	0.12	0	-1.35	-0.7	PPP PPP
+93483_at	Mm.715	Hck	hemopoietic cell kinase	-2.16	-1.11	0.19	0	-1.65	-0.57	PPP PPP
+99461_at	Mm.4091	Hcls1	hematopoietic cell specific Lyn substrate 1	-1.92	-0.94	0.06	0	-1.12	-0.77	PPP PPP
+102851_s_at	Mm.1484	Hcph	hemopoietic cell phosphatase	-1.59	-0.67	0.11	0	-0.99	-0.35	PPP PPP
+95057_at	Mm.29151	Herpud1	homocysteine-inducible, endoplasmic reticulum stress-inducible, ubiquitin-like domain member 1	-1.78	-0.83	0.1	0	-1.1	-0.56	PPP PPP
+103833_at	Mm.20934	Hipk2	homeodomain interacting protein kinase 2	-1.42	-0.51	0.08	0	-0.74	-0.27	PPP PPP
+94288_at	Mm.276261	Hist1h1c	histone 1, H1c	1.58	0.66	0.1	0	0.39	0.93	PPP PPP
+93833_s_at	Mm.21579	Hist1h2bc	histone 1, H2bc	2.88	1.53	0.08	0	1.3	1.75	PPP PPP
+93067_f_at	Mm.258496	Hist2h2aa1	histone 2, H2aa1	1.58	0.66	0.14	0.01	0.26	1.06	PPP PPP
+94375_at	Mm.2549	Hk2	hexokinase 2	1.69	0.75	0.1	0	0.48	1.03	PPP PPP
+102657_at	Mm.1347	Hlx	H2.0-like homeo box gene	1.5	0.58	0.08	0	0.36	0.81	PPP PPP
+94325_at	Mm.61526	Hmgcs1	3-hydroxy-3-methylglutaryl-Coenzyme A synthase 1	1.97	0.98	0.21	0.01	0.39	1.56	PPA PPA
+160101_at	Mm.230635	Hmox1	heme oxygenase (decycling) 1	1.77	0.83	0.11	0	0.53	1.13	PPP PPP
+93276_at	Mm.1775	Hn1	hematological and neurological expressed sequence 1	-1.67	-0.74	0.07	0	-0.93	-0.55	PPP PPP
+94303_at	Mm.156892	Hnrpd	heterogeneous nuclear ribonucleoprotein D	-1.48	-0.56	0.07	0	-0.77	-0.35	PPP PPP
+96672_at	Mm.181852	Hop-pending	homeodomain only protein	-2.17	-1.12	0.13	0	-1.47	-0.76	PPP PPP
+93743_at	Mm.21069	Hsbp1	heat shock factor binding protein 1	1.68	0.75	0.09	0	0.49	1	PPP PPP
+96594_at	Mm.260658	Hspa4	heat shock protein 4	1.6	0.68	0.13	0.01	0.31	1.04	PPP PPP
+101955_at	Mm.918	Hspa5	heat shock 70kD protein 5 (glucose-regulated protein)	1.38	0.47	0.07	0	0.28	0.65	PPP PPP
+96564_at	Mm.197551	Hspa8	heat shock protein 8	1.6	0.68	0.1	0	0.4	0.95	PPP PPP
+97914_at	Mm.2849	Hspa9a	heat shock protein, A	1.53	0.62	0.08	0	0.4	0.83	PPP PPP
+93277_at	Mm.1777	Hspd1	heat shock protein 1 (chaperonin)	1.61	0.69	0.1	0	0.42	0.95	PPP PPP
+92829_at	Mm.215667	Hspe1	heat shock protein 1 (chaperonin 10)	1.57	0.65	0.11	0	0.35	0.95	PPP PPP
+96752_at	Mm.90364	Icam1	intercellular adhesion molecule	1.7	0.76	0.16	0.01	0.31	1.22	PPP PPP
+99053_at	Mm.394	Icam2	intercellular adhesion molecule 2	-3.1	-1.63	0.17	0	-2.1	-1.16	PPP PPP
+92614_at	Mm.110	Idb3	inhibitor of DNA binding 3	-2.06	-1.04	0.13	0	-1.39	-0.69	PPP PPP
+94384_at	Mm.25613	Ier3	immediate early response 3	2.33	1.22	0.13	0	0.87	1.58	PPP PPP
+95545_at	Mm.268521	Igf1	insulin-like growth factor 1	1.96	0.97	0.1	0	0.7	1.24	PPP PPP
+95546_g_at	Mm.268521	Igf1	insulin-like growth factor 1	3.05	1.61	0.23	0	0.96	2.26	PPP PPP
+101571_g_at	Mm.22248	Igfbp4	insulin-like growth factor binding protein 4	2.2	1.14	0.13	0	0.77	1.5	PPP PPP
+160820_at	Mm.29860	Igsf8	immunoglobulin superfamily, member 8	-1.48	-0.57	0.1	0	-0.84	-0.29	PPP PPP
+101054_at	Mm.248267	Ii	Ia-associated invariant chain	-7.56	-2.92	0.27	0	-3.66	-2.17	PPP PPP
+99491_at	Mm.4154	Il10rb	interleukin 10 receptor, beta	-1.44	-0.53	0.1	0.01	-0.8	-0.27	PPP PPP
+99992_at	Mm.4481	Il17r	interleukin 17 receptor	-1.45	-0.54	0.09	0	-0.8	-0.28	PPP PPP
+102021_at	Mm.233802	Il4ra	interleukin 4 receptor, alpha	2.86	1.52	0.13	0	1.16	1.87	PPP PPP
+98349_at	Mm.4364	Il6st	interleukin 6 signal transducer	1.81	0.86	0.14	0	0.46	1.25	APP APP
+100561_at	Mm.256552	Iqgap1	IQ motif containing GTPase activating protein 1	-2.06	-1.04	0.15	0	-1.46	-0.63	PPP PPP
+93850_at	Mm.256552	Iqgap1	IQ motif containing GTPase activating protein 1	-1.69	-0.76	0.15	0.01	-1.16	-0.35	PPP PPP
+102401_at	Mm.1246	Irf1	interferon regulatory factor 1	-1.44	-0.52	0.09	0	-0.76	-0.28	PPP PPP
+93425_at	Mm.6479	Irf5	interferon regulatory factor 5	-2.13	-1.09	0.1	0	-1.36	-0.81	PPP PPP
+104669_at	Mm.3233	Irf7	interferon regulatory factor 7	-3.51	-1.81	0.45	0.02	-3.06	-0.57	PPP PPP
+103634_at	Mm.2032	Isgf3g	interferon dependent positive acting transcription factor 3 gamma	-1.47	-0.56	0.08	0	-0.79	-0.33	PPP PPP
+160337_at	Mm.29357	Isyna1-pending	myo-inositol 1-phosphate synthase A1	1.82	0.86	0.1	0	0.59	1.14	PPP PPP
+98828_at	Mm.262106	Itgam	integrin alpha M	-1.9	-0.93	0.2	0.01	-1.48	-0.38	PPP PPP
+102353_at	Mm.1137	Itgb2	integrin beta 2	-2.51	-1.33	0.11	0	-1.62	-1.03	PPP PPP
+100601_at	Mm.6424	Itgb5	integrin beta 5	-1.72	-0.78	0.06	0	-0.96	-0.6	PPP PPP
+100906_at	Mm.58	Itgb7	integrin beta 7	-5.26	-2.4	0.16	0	-2.83	-1.96	PPP PPP
+162193_f_at	Mm.58	Itgb7	integrin beta 7	-1.52	-0.6	0.11	0	-0.89	-0.31	PPP PPP
+96283_at	Mm.29870	Itm2c	integral membrane protein 2C	2	1	0.15	0	0.59	1.41	PPP PPP
+104153_at	Mm.6635	Ivd	isovaleryl coenzyme A dehydrogenase	1.73	0.79	0.14	0.01	0.39	1.18	PPP PPP
+97302_at	Mm.33764	Ivns1abp	influenza virus NS1A binding protein	2.84	1.51	0.19	0	0.99	2.03	PPA PPA
+104121_at	Mm.21990	Jup	junction plakoglobin	-1.53	-0.61	0.07	0	-0.82	-0.4	PPP PPP
+102892_at	Mm.15512	Kcnab2	potassium voltage-gated channel, shaker-related subfamily, beta member 2	-1.93	-0.95	0.15	0	-1.37	-0.53	PPP PPP
+102198_at	Mm.9911	Kcnn4	potassium intermediate/small conductance calcium-activated channel, subfamily N, member 4	-2	-1	0.13	0	-1.36	-0.65	PPP PPP
+160617_at	Mm.41170	Klf13	Kruppel-like factor 13	-1.51	-0.6	0.09	0	-0.85	-0.34	PPP PPP
+100010_at	Mm.28787	Klf3	Kruppel-like factor 3 (basic)	-1.69	-0.75	0.16	0.01	-1.19	-0.32	PPP PPP
+93070_at	Mm.151329	Kpnb3	karyopherin (importin) beta 3	-1.49	-0.58	0.08	0	-0.8	-0.35	APP APP
+97991_at	Mm.31530	Kras2	Kirsten rat sarcoma oncogene 2, expressed	-1.97	-0.98	0.18	0.01	-1.48	-0.48	PPP PPP
+101590_at	Mm.486	Lamp2	lysosomal membrane glycoprotein 2	-1.8	-0.85	0.19	0.01	-1.38	-0.33	PPP PPP
+103276_at	Mm.20872	Large	like-glycosyltransferase	1.61	0.68	0.12	0.01	0.34	1.03	PPP PPP
+93793_at	Mm.247530	Lasp1	LIM and SH3 protein 1	-1.54	-0.62	0.08	0	-0.83	-0.41	PPP PPP
+160890_at	Mm.4538	Lbr	lamin B receptor	-2.08	-1.06	0.13	0	-1.42	-0.69	PPP PPP
+160601_at	Mm.12834	Lfng	lunatic fringe gene homolog (Drosophila)	-1.59	-0.67	0.09	0	-0.93	-0.41	PPP PPP
+99669_at	Mm.43831	Lgals1	lectin, galactose binding, soluble 1	1.44	0.52	0.06	0	0.36	0.68	PPP PPP
+93753_at	Mm.21119	Litaf	LPS-induced TN factor	-1.63	-0.7	0.08	0	-0.92	-0.48	PPP PPP
+93666_at	Mm.29266	Lmo2	LIM domain only 2	1.56	0.64	0.12	0.01	0.32	0.97	PPP PPP
+96810_at	Mm.29266	Lmo2	LIM domain only 2	1.65	0.72	0.08	0	0.51	0.93	PPP PPP
+160739_at	Mm.74611	LOC269796	hypothetical protein LOC269796	2.33	1.22	0.2	0	0.66	1.78	PPP PPP
+97125_f_at	Mm.34332	LOC56628	MHC (A.CA/J(H-2K-f) class I antigen	-1.97	-0.98	0.13	0	-1.33	-0.63	PPP PPP
+160083_at	Mm.1514	Lpl	lipoprotein lipase	2.5	1.32	0.15	0	0.89	1.75	PPP PPP
+95611_at	Mm.1514	Lpl	lipoprotein lipase	2.64	1.4	0.23	0	0.76	2.04	PPP PPP
+101073_at	Mm.7221	Lrp1	low density lipoprotein receptor-related protein 1	-1.91	-0.94	0.04	0	-1.06	-0.81	PPP PPP
+96186_at	Mm.28465	Lrp10	low-density lipoprotein receptor-related protein 10	-1.36	-0.45	0.06	0	-0.6	-0.29	PPP PPP
+100086_at	Mm.4560	Lrpap1	low density lipoprotein receptor-related protein associated protein 1	2.66	1.41	0.07	0	1.21	1.61	PPP PPP
+104093_at	Mm.2183	Lsp1	lymphocyte specific 1	-6.59	-2.72	0.19	0	-3.26	-2.18	PPP PPP
+161914_s_at	Mm.2183	Lsp1	lymphocyte specific 1	-2.7	-1.43	0.11	0	-1.75	-1.12	PPP PPP
+100540_at	Mm.260326	Lta4h	leukotriene A4 hydrolase	-2	-1	0.06	0	-1.16	-0.84	PPP PPP
+103266_at	Mm.20853	Ltb4r1	leukotriene B4 receptor 1	1.41	0.49	0.08	0	0.27	0.71	PPP PPP
+92401_at	Mm.4088	Ltc4s	leukotriene C4 synthase	-6.85	-2.78	0.28	0	-3.54	-2.01	PPP PPP
+101487_f_at	Mm.788	Ly6e	lymphocyte antigen 6 complex, locus E	-2.62	-1.39	0.38	0.02	-2.45	-0.32	PPP PPP
+94425_at	Mm.2639	Ly86	lymphocyte antigen 86	-2.67	-1.42	0.14	0	-1.81	-1.02	PPP PPP
+102983_at	Mm.15185	Madh1	MAD homolog 1 (Drosophila)	-1.93	-0.95	0.15	0	-1.36	-0.54	PPA PPA
+102984_g_at	Mm.15185	Madh1	MAD homolog 1 (Drosophila)	-1.89	-0.92	0.08	0	-1.14	-0.7	PPP PPP
+104536_at	Mm.2334	Madh2	MAD homolog 2 (Drosophila)	-1.33	-0.41	0.05	0	-0.56	-0.27	PPP PPP
+102204_at	Mm.233891	Mafb	v-maf musculoaponeurotic fibrosarcoma oncogene family, protein B (avian)	-2.64	-1.4	0.2	0	-1.95	-0.84	PPP PPP
+96703_at	Mm.27578	Maged1	melanoma antigen, family D, 1	2.19	1.13	0.18	0	0.64	1.62	PPP PPP
+95721_at	Mm.29725	Mapkapk2	MAP kinase-activated protein kinase 2	-1.78	-0.83	0.06	0	-1.01	-0.65	PPP PPP
+96865_at	Mm.30059	Marcks	myristoylated alanine rich protein kinase C substrate	2.12	1.08	0.15	0	0.67	1.49	PPP PPP
+96767_at	Mm.66056	Mbc2	membrane bound C2 domain containing protein	-2.02	-1.02	0.08	0	-1.25	-0.78	PPP PPP
+93093_at	Mm.1639	Mcl1	myeloid cell leukemia sequence 1	-1.74	-0.8	0.07	0	-1	-0.6	PPP PPP
+98569_at	Mm.37395	Mcsc-pending	mitochondrial Ca2+-dependent solute carrier	-1.46	-0.54	0.07	0	-0.73	-0.36	PPP PPP
+92880_at	Mm.1451	Mfge8	milk fat globule-EGF factor 8 protein	2.14	1.1	0.08	0	0.88	1.32	PPP PPP
+100508_at	Mm.517	Mfng	manic fringe homolog (Drosophila)	-1.71	-0.77	0.12	0	-1.12	-0.42	PPP PPP
+97511_at	Mm.194795	Mgll	monoglyceride lipase	2.11	1.08	0.18	0	0.57	1.59	PPP PPP
+96258_at	Mm.29823	Mgst3	microsomal glutathione S-transferase 3	1.54	0.62	0.1	0	0.34	0.91	PPP PPP
+101007_at	Mm.42126	Mknk2	MAP kinase-interacting serine/threonine kinase 2	-1.79	-0.84	0.15	0.01	-1.27	-0.41	PPP PPP
+95338_s_at	Mm.2055	Mmp12	matrix metalloproteinase 12	2.02	1.02	0.07	0	0.81	1.22	PPP PPP
+99957_at	Mm.4406	Mmp9	matrix metalloproteinase 9	2.47	1.3	0.17	0	0.83	1.78	PPP PPP
+92300_at	Mm.3759	Mnt	max binding protein	-1.57	-0.65	0.08	0	-0.87	-0.43	PPP PPP
+93991_at	Mm.21743	Mor1	malate dehydrogenase, mitochondrial	1.38	0.46	0.06	0	0.3	0.62	PPP PPP
+99071_at	Mm.3999	Mpeg1	macrophage expressed gene 1	-2.55	-1.35	0.19	0	-1.89	-0.81	PPP PPP
+96652_at	Mm.27332	Mrpl28	mitochondrial ribosomal protein L28	1.6	0.68	0.1	0	0.41	0.95	PPP PPP
+99153_at	Mm.41574	Mrpl53	mitochondrial ribosomal protein L53	1.57	0.65	0.09	0	0.41	0.89	PPA PPA
+160308_at	Mm.138876	Msn	moesin	-1.83	-0.87	0.18	0.01	-1.36	-0.37	PPP PPP
+94140_at	Mm.1227	Msr1	macrophage scavenger receptor 1	1.95	0.97	0.12	0	0.64	1.29	APP APP
+94792_at	Mm.1227	Msr1	macrophage scavenger receptor 1	2.49	1.32	0.15	0	0.91	1.72	PPP PPP
+95340_at	Mm.2064	Mt3	metallothionein 3	-1.5	-0.59	0.11	0.01	-0.91	-0.27	PPP PPP
+96285_at	Mm.29874	Myadm	myeloid-associated differentiation marker	-1.69	-0.75	0.16	0.01	-1.19	-0.32	PPP PPP
+100915_at	Mm.5938	Myh9	myosin heavy chain IX	-2.13	-1.09	0.1	0	-1.36	-0.82	PPP PPP
+102108_f_at	Mm.5938	Myh9	myosin heavy chain IX	-1.54	-0.62	0.08	0	-0.84	-0.4	PPP PPP
+103491_at	Mm.34977	Nav1	neuron navigator 1	-2.09	-1.06	0.11	0	-1.37	-0.75	PPP PPP
+101484_at	Mm.784	Nbr1	neighbor of Brca1 gene 1	1.47	0.56	0.09	0	0.31	0.81	PPP PPP
+97763_at	Mm.4149	Ncf1	neutrophil cytosolic factor 1	-1.74	-0.8	0.1	0	-1.08	-0.52	PPP PPP
+103662_at	Mm.2068	Ncf4	neutrophil cytosolic factor 4	-1.54	-0.62	0.1	0	-0.91	-0.34	PPP PPP
+95129_at	Mm.29412	Ncor2	nuclear receptor co-repressor 2	-1.61	-0.69	0.09	0	-0.93	-0.44	PPP PPP
+96280_at	Mm.29867	Ndufa2	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 2	1.39	0.48	0.07	0	0.28	0.67	PPP PPP
+96915_f_at	Mm.17851	Ndufa3	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 3	1.44	0.52	0.05	0	0.39	0.65	PPP PPP
+95652_at	Mm.29513	Ndufa7	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 7 (B14.5a)	1.45	0.54	0.09	0	0.3	0.78	PPP PPP
+96909_at	Mm.3014	Ndufab1	NADH dehydrogenase (ubiquinone) 1, alpha/beta subcomplex, 1	1.75	0.81	0.07	0	0.62	1	PPP PPP
+97307_f_at	Mm.28058	Ndufb5	NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 5	1.74	0.8	0.07	0	0.61	0.99	PPP PPP
+93581_at	Mm.2060	Ndufb8	NADH dehydrogenase (ubiquinone) 1 beta subcomplex 8	1.38	0.46	0.06	0	0.3	0.62	PPP PPP
+100628_at	Mm.666	Ndufc1	NADH dehydrogenase (ubiquinone) 1, subcomplex unknown, 1	1.44	0.52	0.07	0	0.33	0.71	PPP PPP
+93572_at	Mm.218595	Ndufs1	NADH dehydrogenase (ubiquinone) Fe-S protein 1	1.5	0.58	0.07	0	0.39	0.77	PPP PPP
+96899_at	Mm.30113	Ndufs3	NADH dehydrogenase (ubiquinone) Fe-S protein 3	1.71	0.78	0.11	0	0.48	1.07	PPP PPP
+99593_at	Mm.42805	Ndufs5	NADH dehydrogenase (ubiquinone) Fe-S protein 5	1.47	0.56	0.05	0	0.42	0.7	PPP PPP
+160846_at	Mm.143818	Nek6	NIMA (never in mitosis gene a)-related expressed kinase 6	2.67	1.41	0.1	0	1.13	1.7	PPP PPP
+101930_at	Mm.9394	Nfix	nuclear factor I/X	-1.82	-0.86	0.09	0	-1.12	-0.6	PPP PPP
+101554_at	Mm.170515	Nfkbia	nuclear factor of kappa light chain gene enhancer in B-cells inhibitor, alpha	-1.71	-0.77	0.07	0	-0.96	-0.59	PPP PPP
+93318_at	Mm.18503	Ninj1	ninjurin 1	-1.78	-0.83	0.16	0.01	-1.29	-0.38	PPP PPP
+94236_at	Mm.22330	Nisch	nischarin	1.86	0.9	0.11	0	0.59	1.2	PPP PPP
+160473_at	Mm.41787	Nme4	expressed in non-metastatic cells 4, protein	1.89	0.92	0.15	0	0.49	1.34	PPP PPP
+100507_at	Mm.5167	Nov	nephroblastoma overexpressed gene	22.97	4.52	0.3	0	3.68	5.36	APP APP
+92626_at	Mm.1131	Npdc1	neural proliferation, differentiation and control gene 1	1.53	0.61	0.08	0	0.4	0.82	APP APP
+101634_at	Mm.6343	Npm1	nucleophosmin 1	1.85	0.89	0.2	0.01	0.34	1.44	PPP PPP
+98099_at	Mm.241484	Nudt9	nudix (nucleoside diphosphate linked moiety X)-type motif 9	1.98	0.98	0.06	0	0.81	1.15	PPP PPP
+98951_at	Mm.2875	Nulp1-pending	nuclear localized protein 1	1.93	0.95	0.12	0	0.61	1.28	PPP PPP
+94828_at	Mm.22745	Oprs1	opioid receptor, sigma 1	-1.4	-0.49	0.07	0	-0.69	-0.29	PPP PPP
+96708_at	Mm.27606	P24b-pending	integral type I protein	-1.49	-0.58	0.11	0.01	-0.88	-0.28	PPP PPP
+103971_at	Mm.25722	P2rx1	purinergic receptor P2X, ligand-gated ion channel, 1	-1.73	-0.79	0.12	0	-1.12	-0.45	PPP PPP
+104139_at	Mm.2212	P4ha1	procollagen-proline, 2-oxoglutarate 4-dioxygenase (proline 4-hydroxylase), alpha 1 polypeptide	2.41	1.27	0.13	0	0.91	1.63	PPP PPP
+103278_at	Mm.20874	Padi4	peptidyl arginine deiminase, type IV	-2.2	-1.14	0.14	0	-1.53	-0.75	PAP PAP
+98454_at	Mm.34650	Palm	paralemmin	-1.86	-0.89	0.15	0	-1.3	-0.48	PPP PPP
+97485_at	Mm.30849	Pcl1-pending	prenylcysteine lyase	1.58	0.66	0.14	0.01	0.27	1.04	PPP PPP
+96858_at	Mm.240434	Pdcd8	programmed cell death 8	1.62	0.7	0.1	0	0.43	0.97	PPP PPP
+100554_at	Mm.5567	Pdlim1	PDZ and LIM domain 1 (elfin)	-3.5	-1.81	0.12	0	-2.15	-1.47	PPP PPP
+92637_at	Mm.1166	Pfkl	phosphofructokinase, liver, B-type	-1.61	-0.69	0.14	0.01	-1.06	-0.31	PPP PPP
+93346_at	Mm.188	Pgk1	phosphoglycerate kinase 1	2.59	1.37	0.14	0	0.99	1.76	PPP PPP
+101585_at	Mm.9052	Pgrmc1	progesterone receptor membrane component 1	1.9	0.93	0.1	0	0.65	1.21	PPP PPP
+98056_at	Mm.34346	Phlda3	pleckstrin homology-like domain, family A, member 3	1.72	0.78	0.13	0	0.42	1.14	PPP PPP
+100328_s_at	Mm.87801	Pira3	paired-Ig-like receptor A3	-2.59	-1.37	0.12	0	-1.71	-1.03	PPP PPP
+98003_at	Mm.3189	Pirb	paired-Ig-like receptor B	-2.07	-1.05	0.15	0	-1.48	-0.62	PPP PPP
+96187_at	Mm.260938	Pkp4	plakophilin 4	1.94	0.95	0.1	0	0.68	1.23	PPA PPA
+97772_at	Mm.4183	Plau	plasminogen activator, urokinase	2.04	1.03	0.12	0	0.7	1.35	PPA PPA
+102663_at	Mm.1359	Plaur	urokinase plasminogen activator receptor	-1.7	-0.77	0.17	0.01	-1.23	-0.3	PPP PPP
+103503_at	Mm.22370	Plcg2	phospholipase C, gamma 2	-1.44	-0.53	0.07	0	-0.72	-0.34	PPP PPP
+160742_at	Mm.251003	Plod3	procollagen-lysine, 2-oxoglutarate 5-dioxygenase 3	-1.46	-0.55	0.08	0	-0.78	-0.31	PPP PPP
+93323_at	Mm.18565	Plp2	proteolipid protein 2	-1.43	-0.52	0.08	0	-0.75	-0.29	PPP PPP
+94445_at	Mm.275783	Pls3	plastin 3 (T-isoform)	1.71	0.78	0.11	0	0.46	1.09	PPP PPP
+94073_at	Mm.22117	Polr2g	polymerase (RNA) II (DNA directed) polypeptide G	1.52	0.6	0.09	0	0.35	0.86	PPP PPP
+98993_at	Mm.3785	Ppp2r5c	protein phosphatase 2, regulatory subunit B (B56), gamma isoform	-1.45	-0.54	0.07	0	-0.73	-0.35	PPP PPP
+97758_at	Mm.30929	Prdx1	peroxiredoxin 1	2.55	1.35	0.06	0	1.17	1.53	PPP PPP
+100331_g_at	Mm.42948	Prdx2	peroxiredoxin 2	1.66	0.73	0.08	0	0.53	0.94	PPP PPP
+96256_at	Mm.29821	Prdx3	peroxiredoxin 3	1.53	0.61	0.12	0.01	0.29	0.94	APP APP
+94085_at	Mm.22194	Prg	proteoglycan, secretory granule	-5.3	-2.41	0.33	0	-3.31	-1.5	PPP PPP
+93116_at	Mm.16766	Prkacb	protein kinase, cAMP dependent, catalytic, beta	1.54	0.63	0.08	0	0.41	0.84	PPP PPP
+99510_at	Mm.4182	Prkcb	protein kinase C, beta	-3.33	-1.74	0.1	0	-2.02	-1.45	PPP PPP
+160698_s_at	Mm.2314	Prkcd	protein kinase C, delta	-1.46	-0.54	0.07	0	-0.73	-0.36	PPP PPP
+100606_at	Mm.648	Prnp	prion protein	2.1	1.07	0.13	0	0.7	1.44	PPP PPP
+99327_at	Mm.226595	Prss19	protease, serine, 19 (neuropsin)	-2.1	-1.07	0.16	0	-1.51	-0.63	PPP PPP
+161476_at	Mm.233010	Psap	prosaposin	-1.5	-0.58	0.11	0.01	-0.9	-0.27	PPP PPP
+97114_at	Mm.233010	Psap	prosaposin	-1.69	-0.76	0.08	0	-0.97	-0.55	PPP PPP
+104256_at	Mm.123225	Pscdbp	pleckstrin homology, Sec7 and coiled-coil domains, binding protein	-1.91	-0.93	0.24	0.02	-1.59	-0.28	PPP PPP
+104257_g_at	Mm.123225	Pscdbp	pleckstrin homology, Sec7 and coiled-coil domains, binding protein	-2.52	-1.34	0.3	0.01	-2.18	-0.49	PPP PPP
+102201_s_at	Mm.998	Psen1	presenilin 1	-1.46	-0.54	0.06	0	-0.72	-0.37	PPP PPP
+102791_at	Mm.13913	Psmb8	proteosome (prosome, macropain) subunit, beta type 8 (large multifunctional protease 7)	-1.98	-0.99	0.11	0	-1.29	-0.69	PPP PPP
+93085_at	Mm.16251	Psmb9	proteosome (prosome, macropain) subunit, beta type 9 (large multifunctional protease 2)	-1.69	-0.76	0.13	0	-1.11	-0.41	PPP PPP
+95483_at	Mm.182318	Psmd1	proteasome (prosome, macropain) 26S subunit, non-ATPase, 1	1.37	0.46	0.07	0	0.27	0.65	PPP PPP
+104538_at	Mm.2339	Ptgis	prostaglandin I2 (prostacyclin) synthase	-2.84	-1.51	0.12	0	-1.85	-1.16	PPP PPP
+161694_f_at	Mm.2792	Ptgs1	prostaglandin-endoperoxide synthase 1	1.48	0.57	0.1	0	0.29	0.85	PPA PPA
+95597_at	Mm.2792	Ptgs1	prostaglandin-endoperoxide synthase 1	2.26	1.18	0.15	0	0.76	1.6	PPA PPA
+94020_at	Mm.21852	Ptk9l	PTK9 protein typrotein tyrosine kinase 9-like (A6-related protein)	1.47	0.56	0.07	0	0.36	0.75	PPP PPP
+100718_at	Mm.19187	Ptma	prothymosin alpha	-2.06	-1.04	0.21	0.01	-1.63	-0.45	PPP PPP
+94929_at	Mm.2668	Ptpn1	protein tyrosine phosphatase, non-receptor type 1	-1.86	-0.89	0.06	0	-1.07	-0.72	PPP PPP
+100976_at	Mm.6678	Ptpn9	protein tyrosine phosphatase, non-receptor type 9	1.45	0.53	0.09	0	0.29	0.78	PPP PPP
+100427_at	Mm.4715	Ptpro	protein tyrosine phosphatase, receptor type, O	-1.95	-0.97	0.14	0	-1.35	-0.58	PPP PPP
+160480_at	Mm.258771	Ptprs	protein tyrosine phosphatase, receptor type, S	-1.54	-0.63	0.11	0	-0.92	-0.33	PPP PPP
+160726_at	Mm.2655	Qk	quaking	1.78	0.83	0.12	0	0.49	1.18	PPP PPP
+98150_at	Mm.35727	Rab11b	RAB11B, member RAS oncogene family	-1.5	-0.59	0.1	0	-0.87	-0.3	PPP PPP
+160317_at	Mm.251162	Rab34	RAB34, member of RAS oncogene family	1.78	0.83	0.1	0	0.56	1.11	PPP PPP
+93319_at	Mm.18517	Rasa3	RAS p21 protein activator 3	-2.91	-1.54	0.1	0	-1.82	-1.26	PPP PPP
+102379_at	Mm.12091	Rassf1	Ras association (RalGDS/AF-6) domain family 1	-1.6	-0.68	0.08	0	-0.91	-0.45	PPP PPP
+102028_at	Mm.248291	Rassf5	Ras association (RalGDS/AF-6) domain family 5	-1.54	-0.63	0.08	0	-0.86	-0.39	PPP PPP
+96041_at	Mm.128512	Rbm3	RNA binding motif protein 3	-2.1	-1.07	0.19	0	-1.59	-0.56	PPP PPP
+99592_f_at	Mm.219462	Rdh11	retinol dehydrogenase 11	1.4	0.49	0.07	0	0.29	0.69	PPP PPP
+97813_at	Mm.28170	Rela	v-rel reticuloendotheliosis viral oncogene homolog A (avian)	-1.55	-0.64	0.1	0	-0.93	-0.35	PPP PPP
+103605_g_at	Mm.20156	Rgs19	regulator of G-protein signaling 19	-1.55	-0.63	0.08	0	-0.86	-0.4	PPP PPP
+93732_f_at	Mm.20945	Rgs19ip1	regulator of G-protein signaling 19 interacting protein 1	1.56	0.64	0.08	0	0.42	0.87	PPP PPP
+161787_f_at	Mm.21873	Ris2	retroviral integration site 2	-1.42	-0.5	0.08	0	-0.73	-0.28	PPP PPP
+94024_at	Mm.21873	Ris2	retroviral integration site 2	-1.78	-0.83	0.09	0	-1.08	-0.58	PPP PPP
+96038_at	Mm.175173	Rnase4	ribonuclease, RNase A family 4	2.09	1.06	0.21	0.01	0.47	1.65	PPP PPP
+100621_at	Mm.6586	Rnh1	ribonuclease/angiogenin inhibitor 1	-2.61	-1.39	0.08	0	-1.6	-1.17	PPP PPP
+161983_f_at	Mm.6586	Rnh1	ribonuclease/angiogenin inhibitor 1	-1.78	-0.83	0.13	0	-1.18	-0.49	PPP PPP
+92834_at	Mm.180458	Rpl13a	ribosomal protein L13a	1.76	0.81	0.11	0	0.51	1.11	PPP PPP
+101573_f_at	Mm.142380	Rpl27a	ribosomal protein L27a	1.5	0.59	0.1	0	0.3	0.87	PPP PPP
+101680_at	Mm.142380	Rpl27a	ribosomal protein L27a	1.67	0.74	0.16	0.01	0.28	1.2	PPP PPP
+92577_f_at	Mm.10474	Rpl37	ribosomal protein L37	1.86	0.89	0.11	0	0.59	1.2	PPP PPP
+97405_at	Mm.29910	Rps6ka1	ribosomal protein S6 kinase polypeptide 1	-1.64	-0.72	0.07	0	-0.91	-0.52	PPP PPP
+98007_at	Mm.196198	Rps6ka2	ribosomal protein S6 kinase, polypeptide 2	-1.72	-0.78	0.11	0	-1.08	-0.49	PPP PPP
+94394_at	Mm.257	Rras	Harvey rat sarcoma oncogene, subgroup R	1.64	0.71	0.12	0	0.39	1.03	PPP PPP
+102797_at	Mm.14063	Rsdr1-pending	retinal short-chain dehydrogenase/reductase 1	-1.84	-0.88	0.09	0	-1.13	-0.63	PPP PPP
+92182_at	Mm.33851	Rufy1	RUN and FYVE domain containing 1	-1.41	-0.5	0.08	0	-0.72	-0.27	PPP PPP
+95453_f_at	Mm.24662	S100a1	S100 calcium binding protein A1	2.12	1.09	0.12	0	0.75	1.42	PPP PPP
+92539_at	Mm.1	S100a10	S100 calcium binding protein A10 (calpactin)	-1.43	-0.51	0.05	0	-0.65	-0.38	PPP PPP
+99051_at	Mm.3925	S100a4	S100 calcium binding protein A4	-2.07	-1.05	0.1	0	-1.34	-0.77	PPP PPP
+92770_at	Mm.100144	S100a6	S100 calcium binding protein A6 (calcyclin)	-2.61	-1.38	0.17	0	-1.86	-0.91	PPP PPP
+102712_at	Mm.14277	Saa3	serum amyloid A 3	-7.96	-2.99	0.24	0	-3.65	-2.34	PPP PPP
+99127_at	Mm.4098	Sca10	spinocerebellar ataxia 10 homolog (human)	2.38	1.25	0.13	0	0.9	1.61	PPP PPP
+102012_at	Mm.10019	Scap2	src family associated phosphoprotein 2	-1.59	-0.67	0.07	0	-0.87	-0.48	PPP PPP
+101389_at	Mm.259568	Scarb2	scavenger receptor class B, member 2	-1.52	-0.6	0.1	0	-0.87	-0.34	PPP PPP
+162077_f_at	Mm.193096	Scd2	stearoyl-Coenzyme A desaturase 2	2.22	1.15	0.23	0.01	0.51	1.79	PPA PPA
+95758_at	Mm.193096	Scd2	stearoyl-Coenzyme A desaturase 2	4.35	2.12	0.32	0	1.22	3.02	PPA PPA
+95102_at	Mm.196533	Scotin-pending	scotin gene	-1.88	-0.91	0.11	0	-1.23	-0.59	PPP PPP
+104069_at	Mm.21619	Scr59-pending	serine-rich spermatocytes and round spermatid protein	1.37	0.46	0.05	0	0.31	0.6	PPP PPP
+103488_at	Mm.22173	Selpl	selectin, platelet (p-selectin) ligand	-1.75	-0.81	0.17	0.01	-1.29	-0.33	PPP PPP
+94063_at	Mm.22061	Sema4a	sema domain, immunoglobulin domain (Ig), transmembrane domain (TM) and short cytoplasmic domain, (semaphorin) 4A	-1.55	-0.63	0.13	0.01	-0.99	-0.27	PPP PPP
+160275_at	Mm.28212	Sepr	selenoprotein R	-2.1	-1.07	0.09	0	-1.32	-0.81	PPP PPP
+98905_at	Mm.270259	7-Sep	septin 7	1.79	0.84	0.12	0	0.5	1.18	PPP PPP
+95708_at	Mm.29702	Serp1-pending	stress-associated endoplasmic reticulum protein 1	1.77	0.82	0.18	0.01	0.33	1.32	PPP PPP
+101861_at	Mm.8739	Sgce	sarcoglycan, epsilon	2.11	1.08	0.14	0	0.69	1.47	PPP PPP
+97890_at	Mm.28405	Sgk	serum/glucocorticoid regulated kinase	-4.79	-2.26	0.2	0	-2.82	-1.7	PPP PPP
+92975_at	Mm.5012	Sh3bp2	SH3-domain binding protein 2	-1.67	-0.74	0.1	0	-1.01	-0.46	PPP PPP
+93275_at	Mm.1773	Sh3gl1	SH3-domain GRB2-like 1	1.67	0.74	0.09	0	0.49	0.99	PPP PPP
+102752_at	Mm.12912	Shyc	selective hybridizing clone	-1.58	-0.66	0.12	0	-0.98	-0.34	PPP PPP
+94432_at	Mm.149029	Siat1	sialyltransferase 1 (beta-galactoside alpha-2,6-sialyltransferase)	-2.2	-1.14	0.17	0	-1.62	-0.66	PAP PAP
+95599_at	Mm.2793	Siat4c	sialyltransferase 4C (beta-galactoside alpha-2,3-sialytransferase)	-1.41	-0.5	0.08	0	-0.71	-0.28	PPP PPP
+96743_at	Mm.27094	Skiip	SKI interacting protein	1.97	0.98	0.14	0	0.59	1.36	PPP PPP
+96562_at	Mm.2913	Slc11a1	solute carrier family 11 (proton-coupled divalent metal ion transporters), member 1	-1.53	-0.61	0.09	0	-0.86	-0.36	PPP PPP
+93084_at	Mm.16228	Slc25a4	solute carrier family 25 (mitochondrial carrier; adenine nucleotide translocator), member 4	2.71	1.44	0.09	0	1.2	1.68	PPP PPP
+101877_at	Mm.196340	Slc31a1	solute carrier family 31, member 1	1.96	0.97	0.12	0	0.65	1.29	PPP PPP
+103845_at	Mm.196340	Slc31a1	solute carrier family 31, member 1	1.61	0.68	0.08	0	0.48	0.89	PPA PPA
+94433_at	Mm.46754	Slc38a2	solute carrier family 38, member 2	-2.55	-1.35	0.18	0	-1.85	-0.85	PPA PPA
+103818_at	Mm.142455	Slc7a7	solute carrier family 7 (cationic amino acid transporter, y+ system), member 7	-1.49	-0.58	0.09	0	-0.82	-0.33	PPP PPP
+161650_at	Mm.1395	Slpi	secretory leukocyte protease inhibitor	-1.94	-0.96	0.12	0	-1.29	-0.62	PPP PPP
+92858_at	Mm.1395	Slpi	secretory leukocyte protease inhibitor	-4.47	-2.16	0.18	0	-2.65	-1.67	PPP PPP
+102320_at	Mm.206949	Snx12	sorting nexin 12	-1.63	-0.71	0.09	0	-0.95	-0.47	PPP PPP
+96331_at	Mm.29971	Snx2	sorting nexin 2	2.21	1.14	0.12	0	0.82	1.47	PPA PPA
+96333_g_at	Mm.29971	Snx2	sorting nexin 2	2.19	1.13	0.07	0	0.94	1.33	PPP PPP
+93598_at	Mm.20847	Snx5	sorting nexin 5	1.48	0.56	0.08	0	0.34	0.79	PPP PPP
+97839_at	Mm.28240	Snx6	sorting nexin 6	3.62	1.86	0.14	0	1.47	2.24	PPP PPP
+101847_at	Mm.262144	Sp100	nuclear antigen Sp100	-1.66	-0.73	0.13	0.01	-1.11	-0.36	PPA PPA
+103345_at	Mm.18249	Spna2	spectrin alpha 2	-1.38	-0.46	0.06	0	-0.63	-0.29	PPP PPP
+101519_at	Mm.850	Srp14	signal recognition particle 14	1.58	0.66	0.08	0	0.42	0.89	PPP PPP
+96718_at	Mm.27657	Sssca1	Sjogrens syndrome/scleroderma autoantigen 1 homolog (human)	-1.4	-0.49	0.06	0	-0.66	-0.32	PPP PPP
+96885_at	Mm.220821	Stab1	stabilin 1	1.82	0.86	0.16	0.01	0.43	1.29	PPP PPP
+94331_at	Mm.121721	Stat6	signal transducer and activator of transcription 6	-1.79	-0.84	0.09	0	-1.1	-0.59	PPP PPP
+93680_at	Mm.8235	Stk10	serine/threonine kinase 10	-1.88	-0.91	0.08	0	-1.13	-0.7	PPP PPP
+100499_at	Mm.203928	Stx3	syntaxin 3	-1.65	-0.72	0.09	0	-0.98	-0.47	PPP PPP
+103781_at	Mm.24867	Stx4a	syntaxin 4A (placental)	-1.58	-0.66	0.06	0	-0.83	-0.49	PPP PPP
+101031_at	Mm.6874	Surf1	surfeit gene 1	1.4	0.49	0.08	0	0.27	0.7	PPP PPP
+100425_at	Mm.248456	Syk	spleen tyrosine kinase	-1.76	-0.81	0.08	0	-1.02	-0.6	PPP PPP
+93730_at	Mm.196611	Syn1	synapsin I	1.49	0.58	0.1	0	0.3	0.85	PPP PPP
+160162_at	Mm.22632	Tagln2	transgelin 2	-2.16	-1.11	0.1	0	-1.4	-0.83	PPP PPP
+100154_at	Mm.14097	Tapbp	TAP binding protein	-1.91	-0.93	0.19	0.01	-1.46	-0.4	PPP PPP
+96637_at	Mm.56905	Tbc1d1	TBC1 domain family, member 1	-1.65	-0.72	0.1	0	-0.99	-0.45	PPP PPP
+93333_at	Mm.1863	Tbca	tubulin cofactor a	1.98	0.98	0.15	0	0.57	1.4	PPP PPP
+160402_at	Mm.153758	Tceb2	transcription elongation factor B (SIII), polypeptide 2 (18 kDa, elongin B)	1.36	0.45	0.06	0	0.27	0.63	PPP PPP
+93736_at	Mm.20948	Tcn2	transcobalamin 2	-1.5	-0.58	0.08	0	-0.82	-0.35	PPP PPP
+101959_r_at	Mm.925	Tfdp1	transcription factor Dp 1	1.64	0.71	0.1	0	0.44	0.98	PPA PPA
+92877_at	Mm.14455	Tgfbi	transforming growth factor, beta induced	-2.06	-1.05	0.14	0	-1.43	-0.66	PPP PPP
+99143_at	Mm.4142	Tgoln1	trans-golgi network protein	1.52	0.6	0.09	0	0.34	0.86	PPP PPP
+99602_at	Mm.4292	Tieg1	TGFB inducible early growth response 1	-1.86	-0.89	0.19	0.01	-1.42	-0.37	PPP PPP
+99603_g_at	Mm.4292	Tieg1	TGFB inducible early growth response 1	-1.68	-0.75	0.14	0.01	-1.14	-0.36	PPP PPP
+94860_at	Mm.2368	Timm17a	translocator of inner mitochondrial membrane a	1.59	0.67	0.09	0	0.44	0.91	PPP PPP
+97477_at	Mm.269021	Timm8b	translocase of inner mitochondrial membrane 8 homolog b (yeast)	1.6	0.67	0.09	0	0.42	0.93	PPP PPP
+99448_at	Mm.4053	Tln	talin	-1.81	-0.86	0.08	0	-1.09	-0.62	PPP PPP
+100039_at	Mm.44220	Tmem4	transmembrane protein 4	1.42	0.51	0.08	0	0.27	0.74	PPP PPP
+93336_at	Mm.276326	Tmp21-pending	transmembrane trafficking protein	-1.32	-0.4	0.05	0	-0.53	-0.27	PPP PPP
+96426_at	Mm.142729	Tmsb4x	thymosin, beta 4, X chromosome	1.47	0.56	0.08	0	0.33	0.78	PPP PPP
+94928_at	Mm.2666	Tnfrsf1b	tumor necrosis factor receptor superfamily, member 1b	-2.19	-1.13	0.22	0.01	-1.75	-0.52	PPP PPP
+93917_at	Mm.8983	Tnfsf12	tumor necrosis factor (ligand) superfamily, member 12	-3	-1.59	0.12	0	-1.91	-1.26	PPP PPP
+104755_at	Mm.259671	Tnip1	TNFAIP3 interacting protein 1	-1.39	-0.47	0.06	0	-0.64	-0.31	PPP PPP
+160532_at	Mm.121878	Tpm1	tropomyosin 1, alpha	1.57	0.65	0.1	0	0.38	0.92	PPP PPP
+95542_at	Mm.27685	Tpm4	tropomyosin 4	-1.47	-0.55	0.1	0.01	-0.84	-0.26	PPP PPP
+103958_g_at	Mm.28683	Trfr	transferrin receptor	2.25	1.17	0.1	0	0.89	1.46	PPP PPP
+100475_at	Mm.4973	Trim25	tripartite motif protein 25	-1.74	-0.8	0.17	0.01	-1.28	-0.33	PPP PPP
+94788_f_at	Mm.1703	Tubb5	tubulin, beta 5	1.39	0.48	0.08	0	0.27	0.68	PPP PPP
+94789_r_at	Mm.1703	Tubb5	tubulin, beta 5	1.43	0.51	0.06	0	0.34	0.68	PPP PPP
+102032_at	Mm.10153	Twsg1	twisted gastrulation homolog 1 (Drosophila)	1.67	0.74	0.12	0	0.41	1.07	PPP PPP
+160547_s_at	Mm.77432	Txnip	thioredoxin interacting protein	2.09	1.07	0.12	0	0.74	1.39	PPP PPP
+95696_at	Mm.29675	Txnl2	thioredoxin-like 2	1.38	0.46	0.06	0	0.29	0.63	PPP PPP
+92818_at	Mm.12892	Ube1c	ubiquitin-activating enzyme E1C	1.59	0.67	0.14	0.01	0.27	1.07	PPA PPA
+95555_at	Mm.27744	Unc119h	unc119 homolog (C. elegans)	1.81	0.85	0.07	0	0.66	1.04	PPP PPP
+102000_f_at	Mm.988	Uqcrc2	RIKubiquinol cytochrome c reductase core protein 2	1.53	0.61	0.12	0.01	0.29	0.93	PPP PPP
+99618_at	Mm.43162	Uqcr-pending	ubiquinol-cytochrome c reductase subunit	1.44	0.53	0.08	0	0.29	0.76	PPP PPP
+95718_f_at	Mm.29722	Usmg5	upregulated during skeletal muscle growth 5	1.68	0.75	0.07	0	0.56	0.95	PPP PPP
+99064_at	Mm.3974	Usp4	ubiquitin specific protease 4 (proto-oncogene)	-1.78	-0.83	0.05	0	-0.97	-0.69	PPP PPP
+102317_at	Mm.276034	Vamp4	vesicle-associated membrane protein 4	-1.86	-0.9	0.17	0.01	-1.38	-0.41	PPP PPP
+92863_at	Mm.1405	Wbp2	WW domain binding protein 2	-1.35	-0.44	0.06	0	-0.61	-0.26	PPP PPP
+100522_s_at	Mm.512	Wbp5	WW domain binding protein 5	3.46	1.79	0.1	0	1.51	2.07	PPP PPP
+100523_r_at	Mm.512	Wbp5	WW domain binding protein 5	1.85	0.89	0.12	0	0.55	1.23	PPP PPP
+103690_at	Mm.23955	Wbscr5	Williams-Beuren syndrome chromosome region 5 homolog (human)	-3.31	-1.73	0.27	0	-2.47	-0.99	PPP PPP
+92262_at	Mm.35705	Wig1	wild-type p53-induced gene 1	2.35	1.23	0.14	0	0.83	1.63	PPP PPP
+100084_at	Mm.4551	Vil2	villin 2	-3.59	-1.84	0.17	0	-2.32	-1.37	PPP PPP
+92640_at	Mm.196201	Vps35	vacuolar protein sorting 35	1.4	0.49	0.06	0	0.31	0.67	PPP PPP
+100964_at	Mm.6577	Vti1b	vesicle transport through interaction with t-SNAREs 1B homolog	1.52	0.6	0.09	0	0.37	0.84	PPP PPP
+99126_at	Mm.4095	Xist	inactive X specific transcripts	-2.78	-1.48	0.38	0.02	-2.55	-0.41	PPA PPA
+97544_at	Mm.3360	Ywhaz	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, zeta polypeptide	-1.91	-0.93	0.12	0	-1.27	-0.6	PPP PPP
+104299_at	Mm.268326	Zdhhc14	zinc finger, DHHC domain containing 14	1.67	0.74	0.14	0.01	0.34	1.14	PPP PPP
+93773_f_at	Mm.21203	Zfp265	zinc finger protein 265	2.39	1.26	0.26	0.01	0.53	1.98	PPA PPA
+96653_at	Mm.181237	0610007O07Rik	RIKEN cDNA 0610007O07 gene	-1.61	-0.69	0.09	0	-0.95	-0.43	PPP PPP
+96618_at	Mm.27131	0610037N01Rik	RIKEN cDNA 0610037N01 gene	-1.42	-0.5	0.08	0	-0.72	-0.29	PPP PPP
+97492_at	Mm.31076	0610040B21Rik	RIKEN cDNA 0610040B21 gene	1.45	0.54	0.09	0	0.28	0.8	PPP PPP
+97907_at	Mm.247080	0910001B06Rik	RIKEN cDNA 0910001B06 gene	1.67	0.74	0.09	0	0.49	0.99	PPP PPP
+101912_at	Mm.902	1100001G20Rik	RIKEN cDNA 1100001G20 gene	3.34	1.74	0.16	0	1.3	2.18	PPP PPP
+160255_at	Mm.203866	1110004P15Rik	RIKEN cDNA 1110004P15 gene	-2.18	-1.12	0.13	0	-1.47	-0.77	PPP PPP
+160835_i_at	Mm.3336	1110007C09Rik	RIKEN cDNA 1110007C09 gene	-2.18	-1.13	0.21	0.01	-1.71	-0.54	PPP PPP
+104217_at	Mm.246881	1110015E22Rik	RIKEN cDNA 1110015E22 gene	-5.23	-2.39	0.26	0	-3.12	-1.66	PPP PPP
+96278_at	Mm.29865	1110020C13Rik	RIKEN cDNA 1110020C13 gene	-1.98	-0.99	0.11	0	-1.3	-0.67	PPP PPP
+96353_at	Mm.30005	1110021D01Rik	RIKEN cDNA 1110021D01 gene	-1.54	-0.62	0.09	0	-0.87	-0.38	PPP PPP
+160834_at	Mm.153684	1110032C13Rik	RIKEN cDNA 1110032C13 gene	-1.52	-0.6	0.08	0	-0.82	-0.38	PPP PPP
+95119_at	Mm.29382	1110038D17Rik	RIKEN cDNA 1110038D17 gene	-1.46	-0.54	0.07	0	-0.73	-0.35	PPP PPP
+96881_at	Mm.176952	1110059J08Rik	RIKEN cDNA 1110059J08 gene	1.53	0.62	0.06	0	0.45	0.78	PPP PPP
+98594_at	Mm.258746	1190002N15Rik	RIKEN cDNA 1190002N15 gene	1.7	0.77	0.13	0	0.39	1.14	PPA PPA
+104337_f_at	Mm.2252	1200008D14Rik	RIKEN cDNA 1200008D14 gene	2.6	1.38	0.14	0	0.99	1.77	PPP PPP
+92872_at	Mm.45951	1200016B17Rik	RIKEN cDNA 1200016B17 gene	2.05	1.03	0.04	0	0.93	1.14	PPP PPP
+97874_at	Mm.28349	1500032D16Rik	RIKEN cDNA 1500032D16 gene	1.72	0.78	0.14	0	0.41	1.16	PPP PPP
+92241_at	Mm.34042	1500041O16Rik	RIKEN cDNA 1500041O16 gene	-1.81	-0.86	0.09	0	-1.11	-0.6	PPP PPP
+96900_at	Mm.30114	1620401E04Rik	RIKEN cDNA 1620401E04 gene	1.79	0.84	0.17	0.01	0.36	1.32	PPP PPP
+104389_at	Mm.22712	1700017B05Rik	RIKEN cDNA 1700017B05 gene	-2.11	-1.08	0.12	0	-1.4	-0.76	PPP PPP
+96811_at	Mm.29274	1700093E07Rik	RIKEN cDNA 1700093E07 gene	-1.46	-0.55	0.09	0	-0.8	-0.3	PPP PPP
+95146_at	Mm.29455	1810045K07Rik	RIKEN cDNA 1810045K07 gene	1.78	0.83	0.11	0	0.53	1.14	PPP PPP
+96676_at	Mm.27406	1810049H20Rik	RIKEN cDNA 1810049H20 gene	1.63	0.71	0.11	0	0.4	1.01	PPP PPP
+96686_i_at	Mm.27477	2010100O12Rik	RIKEN cDNA 2010100O12 gene	1.68	0.75	0.08	0	0.53	0.97	PPP PPP
+99187_f_at	Mm.41890	2010315L10Rik	RIKEN cDNA 2010315L10 gene	1.59	0.67	0.1	0	0.38	0.96	PPP PPP
+92622_at	Mm.11112	2210013K02Rik	RIKEN cDNA 2210013K02 gene	1.36	0.44	0.06	0	0.28	0.6	PPP PPP
+103601_at	Mm.268037	2210013M04Rik	RIKEN cDNA 2210013M04 gene	-1.6	-0.68	0.14	0.01	-1.05	-0.3	PPP PPP
+160513_at	Mm.259906	2210016F16Rik	RIKEN cDNA 2210016F16 gene	-1.78	-0.83	0.12	0	-1.16	-0.5	PPP PPP
+99093_at	Mm.39130	2210402A09Rik	RIKEN cDNA 2210402A09 gene	1.55	0.63	0.1	0	0.35	0.91	PPP PPP
+103225_at	Mm.20169	2310005K03Rik	RIKEN cDNA 2310005K03 gene	-1.74	-0.8	0.12	0	-1.14	-0.47	PPP PPP
+160916_at	Mm.112977	2310005P05Rik	RIKEN cDNA 2310005P05 gene	-1.62	-0.7	0.11	0	-1	-0.4	PPP PPP
+104320_at	Mm.260578	2310036D04Rik	RIKEN cDNA 2310036D04 gene	-1.69	-0.75	0.17	0.01	-1.22	-0.29	PPP PPP
+96649_at	Mm.27328	2310042M24Rik	RIKEN cDNA 2310042M24 gene	1.9	0.93	0.07	0	0.73	1.13	PPP PPP
+101047_at	Mm.260878	2410026K10Rik	RIKEN cDNA 2410026K10 gene	-1.77	-0.82	0.15	0.01	-1.24	-0.4	PPP PPP
+93365_s_at	Mm.18972	2410174K12Rik	RIKEN cDNA 2410174K12 gene	1.52	0.6	0.09	0	0.36	0.84	PPP PPP
+103736_at	Mm.101764	2500002E12Rik	RIKEN cDNA 2500002E12 gene	1.87	0.91	0.12	0	0.56	1.25	PPP PPP
+101971_at	Mm.143527	2500002L14Rik	RIKEN cDNA 2500002L14 gene	1.66	0.73	0.09	0	0.47	0.99	PPP PPP
+104313_at	Mm.22403	2610020G18Rik	RIKEN cDNA 2610020G18 gene	1.56	0.64	0.13	0.01	0.27	1.01	PPP PPP
+99115_at	Mm.181721	2610041P16Rik	RIKEN cDNA 2610041P16 gene	1.5	0.58	0.07	0	0.38	0.79	PPP PPP
+103726_at	Mm.22485	2610311I19Rik	RIKEN cDNA 2610311I19 gene	1.83	0.87	0.15	0	0.46	1.28	PPP PPP
+94410_f_at	Mm.25941	2700094L05Rik	RIKEN cDNA 2700094L05 gene	-2.19	-1.13	0.06	0	-1.29	-0.98	PPP PPP
+97374_at	Mm.29721	2810025M15Rik	RIKEN cDNA 2810025M15 gene	1.44	0.52	0.08	0	0.3	0.75	PPP PPP
+101505_at	Mm.206021	2810442O16Rik	RIKEN cDNA 2810442O16 gene	-1.4	-0.48	0.06	0	-0.65	-0.31	PPP PPP
+99185_at	Mm.23010	2810443J12Rik	RIKEN cDNA 2810443J12 gene	1.62	0.7	0.09	0	0.45	0.94	PPP PPP
+96658_at	Mm.27344	2900010J23Rik	RIKEN cDNA 2900010J23 gene	1.44	0.52	0.08	0	0.3	0.75	PPP PPP
+100041_at	Mm.44226	3010027G13Rik	RIKEN cDNA 3010027G13 gene	1.48	0.56	0.1	0.01	0.28	0.84	PPP PPP
+96640_at	Mm.200627	3110001A13Rik	RIKEN cDNA 3110001A13 gene	-1.97	-0.98	0.11	0	-1.27	-0.68	PPP PPP
+95648_at	Mm.29500	4022402H07Rik	RIKEN cDNA 4022402H07 gene	-1.42	-0.5	0.08	0	-0.74	-0.27	PPP PPP
+94504_at	Mm.28955	4930570C03Rik	RIKEN cDNA 4930570C03 gene	1.69	0.76	0.1	0	0.49	1.02	PPP PPP
+104284_at	Mm.121973	5031439G07Rik	RIKEN cDNA 5031439G07 gene	-1.51	-0.59	0.05	0	-0.74	-0.45	PPP PPP
+98495_at	Mm.3561	5033414D02Rik	RIKEN cDNA 5033414D02 gene	2.02	1.01	0.1	0	0.74	1.29	APP APP
+97916_at	Mm.30116	5730494N06Rik	RIKEN cDNA 5730494N06 gene	1.77	0.82	0.07	0	0.62	1.02	PPP PPP
+103584_at	Mm.172436	5830471E12Rik	RIKEN cDNA 5830471E12 gene	-2.01	-1.01	0.16	0	-1.45	-0.56	PPP PPP
+93779_at	Mm.197519	5830484A20Rik	RIKEN cDNA 5830484A20 gene	-1.67	-0.74	0.08	0	-0.97	-0.51	PPP PPP
+93174_at	Mm.5356	6030411F23Rik	RIKEN cDNA 6030411F23 gene	1.68	0.74	0.07	0	0.56	0.93	PPP PPP
+100511_at	Mm.5202	6330406L22Rik	RIKEN cDNA 6330406L22 gene	-1.51	-0.6	0.07	0	-0.8	-0.4	PPP PPP
+98346_at	Mm.25317	9530051K01Rik	RIKEN cDNA 9530051K01 gene	1.42	0.5	0.06	0	0.33	0.67	APP APP
+95303_at	Mm.276440	A330075D07	hypothetical protein A330075D07	-9.24	-3.21	0.18	0	-3.71	-2.71	PPP PPP
+103527_at	Mm.171514	A330108F03Rik	RIKEN cDNA A330108F03 gene	-1.53	-0.61	0.08	0	-0.83	-0.4	PPP PPP
+94441_at	Mm.26584	AA960287	expressed sequence AA960287	-1.59	-0.67	0.08	0	-0.89	-0.45	PPP PPP
+94442_s_at	Mm.26584	AA960287	expressed sequence AA960287	-1.53	-0.61	0.09	0	-0.86	-0.37	PPP PPP
+100347_at	Mm.205258		Mus musculus transcribed sequences	-1.65	-0.72	0.07	0	-0.92	-0.52	PPP PPP
+100379_f_at				1.72	0.78	0.09	0	0.54	1.02	PPP PPP
+100492_at	Mm.276099		Mus musculus, Similar to troponin T2, cardiac, clone IMAGE:3666259, mRNA	1.59	0.67	0.12	0.01	0.33	1	PPP PPP
+100957_at	Mm.131705		Mus musculus, Similar to single-stranded DNA binding protein, clone MGC:41439 IMAGE:1314987, mRNA, complete cds	1.64	0.72	0.12	0	0.4	1.04	PPA PPA
+101681_f_at				-1.51	-0.59	0.09	0	-0.84	-0.34	PPP PPP
+102161_f_at				-2.21	-1.14	0.13	0	-1.49	-0.79	PPP PPP
+102870_at	Mm.249418		Mus musculus adult male hippocampus cDNA, RIKEN full-length enriched library, clone:C630016I07 product:inferred: RIKEN cDNA 5930418K15 gene, full insert sequence.	1.59	0.67	0.08	0	0.44	0.89	PPP PPP
+103369_at	Mm.18538		Mus musculus, clone IMAGE:1313887, mRNA	-1.47	-0.56	0.09	0	-0.79	-0.32	PPP PPP
+103462_at	Mm.271563		Mus musculus dedicator of cyto-kinesis 2, mRNA (cDNA clone IMAGE:1428889), partial cds	-1.94	-0.96	0.12	0	-1.3	-0.62	APP APP
+103562_f_at				-2.19	-1.13	0.24	0.01	-1.8	-0.46	PPP PPP
+103783_at	Mm.275360		Mus musculus xenotropic and polytropic retrovirus receptor 1, mRNA (cDNA clone IMAGE:4506466), partial cds	2.21	1.15	0.13	0	0.77	1.52	PPP PPP
+104300_at	Mm.221309		Mus musculus 11 days embryo head cDNA, RIKEN full-length enriched library, clone:6230409N14 product:unknown EST, full insert sequence.	-1.94	-0.96	0.06	0	-1.12	-0.8	PPP PPP
+160273_at	Mm.28161		Mus musculus Brf2 gene, 3 UTR	-1.56	-0.64	0.1	0	-0.92	-0.37	PPP PPP
+161122_f_at				1.83	0.87	0.06	0	0.7	1.05	PPA PPA
+92217_s_at				1.85	0.89	0.09	0	0.62	1.15	PPP PPP
+92354_at	Mm.39494		Mus musculus transcribed sequence with strong similarity to protein ref:NP_005351.2 (H.sapiens)  v-maf musculoaponeurotic fibrosarcoma oncogene homolog (avian); v-maf musculoaponeurotic fibrosarcoma (avian) oncogene homolog; Avian musculoaponeurotic fibro	1.78	0.83	0.12	0	0.5	1.17	PPA PPA
+94078_at	Mm.269736		Mus musculus RIKEN cDNA 1110020P15 gene, mRNA (cDNA clone MGC:37480 IMAGE:4984172), complete cds	1.55	0.63	0.07	0	0.45	0.82	PPP PPP
+94159_at				-1.67	-0.74	0.12	0	-1.08	-0.39	PPP PPP
+94823_at	Mm.22723		Mus musculus, clone IMAGE:3586350, mRNA, partial cds	1.67	0.74	0.11	0	0.42	1.05	PPP PPP
+95731_at	Mm.276226		Mus musculus Sestrin 1, mRNA (cDNA clone MGC:67135 IMAGE:6414521), complete cds	1.8	0.85	0.11	0	0.54	1.16	PPP PPP
+95808_g_at				-1.68	-0.75	0.11	0	-1.05	-0.45	PPP PPP
+96215_f_at	Mm.245986		Mus musculus, clone IMAGE:3983821, mRNA, partial cds	2.29	1.2	0.17	0	0.72	1.67	PPP PPP
+96240_at	Mm.196630		Mus musculus, Similar to hypothetical protein MGC5576, clone MGC:54819 IMAGE:6308771, mRNA, complete cds	1.51	0.59	0.08	0	0.38	0.81	PPP PPP
+96501_at	Mm.262589		Mus musculus transcribed sequence with weak  similarity to protein ref:NP_081764.1 (M.musculus)  RIKEN cDNA 5730493B19 [Mus musculus]	-2.96	-1.56	0.17	0	-2.03	-1.1	PPP PPP
+96886_at	Mm.150007		Mus musculus RIKEN cDNA 2510015F01 gene, mRNA (cDNA clone MGC:19108 IMAGE:4207917), complete cds	2.34	1.23	0.15	0	0.81	1.65	PPP PPP
+97055_s_at				2.27	1.18	0.1	0	0.89	1.47	PPP PPP
+97197_r_at				-4.02	-2.01	0.25	0	-2.71	-1.3	PPA PPA
+97448_at	Mm.30245		Mus musculus, Similar to phosphatidylserine decarboxylase, clone MGC:7133 IMAGE:3158145, mRNA, complete cds	1.78	0.83	0.09	0	0.6	1.07	PPP PPP
+99849_at	Mm.262607		Mus musculus transcribed sequence	-2.68	-1.42	0.35	0.02	-2.39	-0.45	PPP PPP

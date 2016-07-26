@@ -1,0 +1,14 @@
+SYMBOL	DESCRIPTION	LOCUS	AFFYMETRIX ID	ANNOTATION	FOLD CHANGE	R -	R+ mean	Induction/Repression
+KIAA0225	KIAA0225	7q31.32	D86978_at	UNKNOWN	29.51	50	1475.5	Induced by imatinib
+PLOD	lysyl hydroxylase	1p36.3-p36.2	L06419_at	COLLAGEN CROSS-LINKING	12.89	142.5	1836.8	Induced by imatinib
+AP2M1	(PLOD) adaptor-related protein complex 2, mu 1 subunit	3q28	D63475_at	VESICLE FUNCTION	9.94	270	2683.4	Induced by imatinib
+GYS1	glycogen synthase	19q13.3	J04501_at	METABOLISM	6.97	384.9	2681.4	Induced by imatinib
+CCNI	1 (muscle) cyclin I	4q13.3	D50310_at	CELL CYCLE	6.36	969.5	6161.4	Induced by imatinib
+BTF	bcl-2-associated transcription factor	6q22-q23	D79986_at	TRANSCRIPTIONAL REGULATION	5.68	184.7	1049.2	Induced by imatinib
+KIAA0098	KIAA0098		D43950_at	UNKNOWN	5.34	480.1	2561.7	Induced by imatinib
+ESD	esterase D	13q14.11	D28416_at	METABOLISM	4.84	683.7	3308.7	Induced by imatinib
+PCMT1	protein-L-isoaspartate (D-aspartate) O-methytransferase	6q24-q25	D25547_at	METHYL TRANSFERASE	4.71	252.5	1189	Induced by imatinib
+RPS20A	Ribosomal protein S20		HG1800-HT1823_at	TRANSLATION	4.13	4105.7	16940	Induced by imatinib
+PSMB7	proteasome (prosome, macropain) subunit, ? type, 7	9q34.11-q34.12	D38048_at	PROTEASE	3.1	629.8	1952.4	Induced by imatinib
+EEF1A2	eukaryotic transiation elongation factor 1 ?2	20q13.3	X70940_s_at	PROTEIN TRANSLATION	0.14	2132.1	304.9	Repressed by imatinib
+PSAP	prosaposin	10q22.1	J03077_s_at	METABOLISM	0.33	4813.3	1577.8	Repressed by imatinib

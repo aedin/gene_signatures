@@ -1,0 +1,62 @@
+Probe set ID	Gene	Name	GenBank	Vector control signal	FRS signal	Signal log ratio	Change P	Function
+AFFX-HUM GAPDH/M 33197_5_at	GAPD	glyceraldehyde-3-phosphate dehydrogenase	NA	13,126.50	13,545	0.1	0.00001	Housekeeping controls
+AFFX-HUM GAPDH/M 33197_M_at	GAPD	glyceraldehyde-3-phosphate dehydrogenase	NA	12,068.80	11,944	0.1	0.00005	Housekeeping controls
+AFFX-HUM GAPDH/M 33197_3_at	GAPD	glyceraldehyde-3-phosphate dehydrogenase	NA	12,275.70	13,435	0.1	0	Housekeeping controls
+AFFX-HSAC07/X0035 1_5_at	ACTB	actin, h	NA	7,128.60	7,353	0	0.00076	Housekeeping controls
+AFFX-HSAC07/X0035 1_M_at	ACTB	actin, h	NA	9,752.80	9,840	0	0.00259	Housekeeping controls
+AFFX-HSAC07/X0035 1_3_at	ACTB	actin, h	NA	10,002.10	10,793	0.1	0	Housekeeping controls
+204380_s_atb	FGFR3	fibroblast growth factor receptor 3	M58051.1	4,112.60	1,817.40	-1.1	0.99998	FGFR3 expression change
+204379_s_atx	FGFR3	fibroblast growth factor receptor 3	NM_000142	10,031.60	8,106.20	-0.4	0.875448	FGFR3 expression change
+200796_s_at	MCL1	myeloid cell leukemia sequence 1 (BCL2-related)	BF594446	1,617.70	688.6	-1.3	0.99997	Apoptosis-related gene
+203685_at	BCL2	B-cell chronic lymphocytic leukemia/lymphoma 2	NM_000633	796.1	337.9	-1.2	0.99998	Apoptosis-related gene
+207829_s_at	BNIP1	BCL2/adenovirus E1B 19 kDa interacting protein 1	NM_013978	182.3	91.2	-0.9	0.99991	Apoptosis-related gene
+209308_s_at	BNIP2	BCL2/adenovirus E1B 19 kDa interacting protein 1	BC002461	761.5	535.9	-0.5	0.99991	Apoptosis-related gene
+203728_at	BAK1	BCL2-antagonist/killer 1	NM_001188	942.4	1,256.80	0.4	0.00002	Apoptosis-related gene
+204493_at	BID	BH3 interacting domain death agonist	NM_001196	58.1	163	1.2	0.00002	Apoptosis-related gene
+244546_at	CYCS	cytochrome c, somatic	AI760495	21.8	53	1.4	0.00005	Apoptosis-related gene
+209939_x_at	CFLAR	CASP8-and FADD-like apoptosis regulator	AF005775	2,020.30	240.2	-2.6	0.99965	Apoptosis-related gene
+209811_at	CASP2	caspase 2, apoptosis-related cysteine protease	BC002427	90.9	122.3	0.7	0.00108	Apoptosis-related gene
+209790_s_at	CASP6	caspase 6, apoptosis-related cysteine protease	BC000305	1,785.50	4,175.30	1.2	0.00002	Apoptosis-related gene
+210538_s_at	BIRC3	baculoviral IAP repeat-containing 3	U37546	130.9	29.2	-1.4	0.9999	Apoptosis-related gene
+202076_at	BIRC2	baculoviral IAP repeat-containing 2	NM_001166	1,964.10	1,061.20	-0.8	0.99997	Apoptosis-related gene
+202095_s_at	BIRC5	baculoviral IAP repeat-containing 5 (survivin)	NM_001168	2,733	1,592.30	-0.8	0.99997	Apoptosis-related gene
+205205_at	RELB	v-rel reticuloendotheliosis viral   oncogene homologue B	NM_006509	1,652.5	393	-2	0.99998	NF-kappaB family and NF-kappaB–related genes
+207535_s_at	NF-jB2	nuclear factor of nlight polypeptide   gene enhancer in B-cells   2 (p49/p100)	NM_002502	1,368.4	348.7	-1.8	0.99998	NF-kappaB family and NF-kappaB–related genes
+206036_s_at	REL	v-rel reticuloendotheliosis viral   oncogene homologue	NM_002908	332.5	122.4	-1.5	0.99979	NF-kappaB family and NF-kappaB–related genes
+201502_s_at	NF-jB1A	nuclear factor of nlight polypeptide   gene enhancer in B-cells inhibitor, a	AI078167	1,804.9	714.2	-1.4	0.99998	NF-kappaB family and NF-kappaB–related genes
+204908_s_at	BCL3	B-cell chronic lymphocytic   leukemia/lymphoma 3	NM_005178	653.5	394.1	-0.7	0.99997	NF-kappaB family and NF-kappaB–related genes
+202724_s_at	FOXO1A	forkhead box O1A   (rhabdomyosarcoma)	NM_002015	636.5	339.1	-1	0.99991	Other apoptosis-related genes
+213213_at	DATF1	death associated transcription factor 1	AL035669	183.8	300.9	0.6	0.00044	Other apoptosis-related genes
+232466_at	CUL4A	cullin 4A	AU155661	51.5	78.9	0.6	0.00002	Other apoptosis-related genes
+225434_at	DEDD2	death effector domain-containing   DNA binding protein 2	AW245401	431.1	739.1	0.7	0.00062	Other apoptosis-related genes
+227751_at	PDCD5	programmed cell death 5	AI817145	96.3	151.3	0.7	0.00031	Other apoptosis-related genes
+202693_s_at	STK17A	serine/threonine kinase 17a   (apoptosis inducing)	AW194730	237.7	411.8	0.8	0.00002	Other apoptosis-related genes
+211078_s_at	STK3	serine/threonine kinase 3   (STE20 homologue, yeast)	Z25422	20.8	30.2	0.8	0.00165	Other apoptosis-related genes
+238509_at	CUL1	cullin 1	AI628926	83.7	234.9	1.3	0.00002	Other apoptosis-related genes
+212647_at	RRAS	related RAS viral (r-ras)   oncogene homologue	NM_006270	241.2	47.9	-2.4	0.99998	Ras/MAPK pathway– related genes
+217489_s_at	IL-6R	interleukin 6 receptor	S72848	2,227.1	916.2	-1.3	0.99997	Ras/MAPK pathway– related genes
+202647_s_at	NRAS	neuroblastoma RAS viral (v-ras)   oncogene homologue	NM_002524	1,165.5	535.4	-1.3	0.99998	Ras/MAPK pathway– related genes
+211370_s_at	MAP2K5	mitogen-activated protein   kinase kinase 5	U71088	632	238.1	-1.2	0.999693	Ras/MAPK pathway– related genes
+212589_at	RRAS2	related RAS viral (r-ras)   oncogene homologue 2	AI753792	232.6	104.1	-1	0.99997	Ras/MAPK pathway– related genes
+206044_s_at	BRAF	v-raf murine sarcoma viral   oncogene homologue B1	NM_004333	422.9	204.8	-1	0.99979	Ras/MAPK pathway– related genes
+211527_x_at	VEGF	vascular endothelial growth factor	M27281	899.7	488.1	-0.7	0.999226	Ras/MAPK pathway– related genes
+210449_x_at	MAPK14	mitogen-activated protein   kinase 14	AF100544	607.8	425	-0.6	0.99751	Ras/MAPK pathway– related genes
+225927_at	MAP3K1	mitogen-activated protein   kinase kinase kinase 1	AA541479	1,174.6	882.4	-0.6	0.99994	Ras/MAPK pathway– related genes
+221511_x_at	CPR8	cell cycle progression 8 protein	AB033080	1,747.3	410.1	-2.6	0.99998	Miscellaneous
+1569022_a_at	PIK3C2A	phosphoinositide-3-kinase, class 2,   apolypeptide	BC040952	270.6	64.1	-2	0.99998	Miscellaneous
+203227_s_at	SAS	sarcoma amplified sequence	NM_005981	721.6	185.3	-1.8	0.99998	Miscellaneous
+208944_at	TGFBR2	transforming growth factor, h  receptor II (70/80 kDa)	D50683	544.2	161.8	-1.7	0.99998	Miscellaneous
+202431_s_at	MYC	v-myc myelocytomatosis viral   oncogene homologue (avian)	NM_002467	6,857.9	2,173.2	-1.4	0.99998	Miscellaneous
+210567_s_at	SKP2	S-phase kinase-associated   protein 2 (p45)	BC001441	628.7	236.8	-1.3	0.99998	Miscellaneous
+203226_s_at	SAS	sarcoma amplified sequence	AL514076	723.4	290	-1.2	0.99851	Miscellaneous
+207831_x_at	DHPS	deoxyhypusine synthase	NM_013407	1,371.9	629	-1	0.99998	Miscellaneous
+218845_at	DUSP22	dual specificity phosphatase 22	NM_020185	2,325.4	1,226.5	-1	0.99998	Miscellaneous
+203359_s_at	MYCBP	c-myc binding protein	AL525412	1,733.2	1,048.8	-0.8	0.99998	Miscellaneous
+201466_s_at	JUN	v-jun sarcoma virus 17 oncogene   homologue (avian)	NM_002228	260.7	140.2	-0.9	0.99997	Miscellaneous
+201473_at	JUNB	jun B proto-oncogene	NM_002229	791.8	423.6	-0.9	0.99995	Miscellaneous
+1556820_a_at	DLEU2	deleted in lymphocytic leukemia, 2	H48516	74.7	131.8	1.1	0.00002	Miscellaneous
+203725_at	GADD45A	growth arrest and   DNA-damage-inducible, a	NM_001924	590.9	1,632.7	1.3	0.00002	Miscellaneous
+203085_s_at	TGFB1	transforming growth factor, h  1 (Camurati-Engelmann disease)	BC000125	1,285.7	3,092.5	1.3	0.00002	Miscellaneous
+202177_at	GAS6	growth arrest-specific 6	NM_000820	183.7	656	2.1	0.00002	Miscellaneous
+221060_s_at	TLR4	toll-like receptor 4	NM_003266	46.3	287	2.5	0.00002	Miscellaneous
+221841_s_at	KLF4	Kruppel-like factor 4 (gut)	BF514079	63.4	2,066.5	5	0.00002	Miscellaneous

@@ -1,0 +1,51 @@
+Order	F	ProbeSet	Contrast	Bootstrap	P value	Gene	Chromosome	Description
+1	76.91	36713_at	2041.14	19.6	0.005	BIA2	1q44	BIA2
+2	76.23	38916_at	564.2	15.8	0.003	CXorf6	Xq28	chromosome X open reading frame 6
+3	68.49	34795_at	1082.48	45	0.014	PLOD2	3q23-q24	procollagen-lysine, 2-oxoglutarate 5-dioxygenase (lysine hydroxylase) 2
+4	66.04	41744_at	1034.86	33.8	0.011	OPTN	10p14	optineurin
+5	65.52	40013_at	693.83	31.3	0.016	CLIC2	Xq28	chloride intracellular channel 2
+6	63.75	37164_at	1055.36	53.8	0.017	RHD	1p36.11	Rhesus blood group, D antigen
+7	63.65	39962_at	813.94	53.4	0.021	CDC42BP A	1q42.11	CDC42 binding protein kinase alpha (DMPK-like)
+8	63.46	36965_at	749.34	70	0.038	ANK3	10q21	ankyrin 3, node of Ranvier (ankyrin G)
+9	58.65	31850_at	795.48	64.1	0.017	GCLC	6p12	glutamate-cysteine ligase, catalytic subunit
+10	58.19	33355_at	439.34	120.1	0.065	PBX1	1q23	pre-B-cell leukemia transcription factor 1
+11	57.71	37192_at	1954.75	64.4	0.022	EPB49	8p21.1	erythrocyte membrane protein band 4.9 (dematin)
+12	56.79	33412_at	-2436.11	39.7	0.01	LGALS1	22q13.1	lectin, galactoside-binding, soluble, 1 (galectin 1)
+13	53.98	40062_s_at	1160.17	64.8	0.02	MYL4	17q21-qter	myosin, light polypeptide 4, alkali; atrial, embryonic
+14	49.7	41743_i_at	978.39	84.8	0.034	OPTN	10p14	optineurin
+15	49.36	36560_at	692.91	125.3	0.056	HUCEP11	1q32.1	cerebral protein 11
+16	48.69	38840_s_at	1001.3	117.4	0.038	PFN2	3q25.1-q25.2	profilin 2
+17	48.38	35752_s_at	432.72	107.8	0.024	PROS1	3p11-q11.2	protein S (alpha)
+18	47.74	33733_at	430.88	143.9	0.043	ABCG2	4q22	ATP-binding cassette, sub-family G (WHITE), member 2
+19	46.94	36446_s_at	885.3	86.7	0.028	HDGF	Xq25	hepatoma-derived growth factor (high-mobility group protein 1-like)
+20	46.63	37405_at	2150.32	101.8	0.023	SELENBP 1	1q21-q22	selenium binding protein 1
+21	46.46	41279_f_at	831.89	88.9	0.033	MAPK8IP 1	11p12-p11.2	mitogen-activated protein kinase 8 interacting protein 1
+22	45.99	560_s_at	1758.09	78.4	0.018			---
+23	45.86	38823_s_at	750.81	115.1	0.041	STK17A	7p12-p14	serine/threonine kinase 17a (apoptosis-inducing)
+24	45.51	33336_at	2369.83	109.8	0.032	SLC4A1	17q21-q22	solute carrier family 4, anion exchanger, member 1 (erythrocyte membrane protein band 3, Diego blood group)
+25	44.85	40507_at	597.01	137.3	0.036	SLC2A1	1p35-p31.3	solute carrier family 2 (facilitated glucose transporter), member 1
+26	44.84	41742_s_at	1093.08	145.6	0.058	OPTN	10p14	optineurin
+27	44.83	41147_at	1024.92	85.7	0.036	MGC4276	9q22.1	hypothetical protein MGC4276 similar to CG8198
+28	44.49	36990_at	964.29	203.7	0.096	UCHL1	4p14	ubiquitin carboxyl-terminal esterase L1 (ubiquitin thiolesterase)
+29	44.44	36036_at	836.2	197.5	0.098	SPTB	14q23-q24.2	spectrin, beta, erythrocytic (includes spherocytosis, clinical type I)
+30	44.24	35748_at	1826.3	97.8	0.036	EEF1B2	2q33-q34	eukaryotic translation elongation factor 1 beta 2
+31	44.13	37986_at	773.53	134	0.06	EPOR	19p13.3-p13.2	erythropoietin receptor
+32	43.78	38886_i_at	387.85	155.8	0.055	ARHI	1p31	ras homolog gene family, member I
+33	43.45	37270_at	677.88	143.3	0.063	ATP1B2	17p13.1	ATPase, Na+/K+ transporting, beta 2 polypeptide
+34	43.41	37911_at	-545.69	134.1	0.046	STX4A	16p11.2	syntaxin 4A (placental)
+35	43.15	34330_at	668.15	122.2	0.051	COX7A2 L	2p22.1	cytochrome c oxidase subunit VIIa polypeptide 2 like
+36	43.1	33295_at	566.61	133.9	0.047	FY	1q21-q22	Duffy blood group
+37	42.76	40520_g_at	-848.08	111.1	0.032	PTPRC	1q31-q32	protein tyrosine phosphatase, receptor type, C
+38	42.55	40039_g_at	404.44	149.4	0.058	ST7	7q31.1-q31.3	suppression of tumorigenicity 7
+39	42.06	40990_at	744.91	132.6	0.063	TM4SF9	4q23	transmembrane 4 superfamily member 9
+40	41.88	39182_at	-1316.17	126.6	0.036	EMP3	19q13.3	epithelial membrane protein 3
+41	41.84	39550_at	548.31	222.9	0.097	C1orf17	1q25	chromosome 1 open reading frame 17
+42	41.67	41003_at	628.03	108.7	0.028	PFDN4	20q13	prefoldin 4
+43	41.32	39025_at	821.49	126.5	0.039	TOMM7	7p15.3	translocase of outer mitochondrial membrane 7 homolog (yeast)
+44	40.51	38976_at	-1612.46	124.5	0.026	CORO1A	16p12.1	coronin, actin binding protein, 1A
+45	40.43	31930_f_at	1696.41	230.2	0.089	RHCE	1p36.11	Rhesus blood group, CcEe antigens
+46	40.42	32306_g_at	437.04	131.8	0.033	COL1A2	7q22.1	collagen, type I, alpha 2
+47	40.3	34793_s_at	646.57	232.7	0.091	PLS3	Xq24	plastin 3 (T isoform)
+48	39.89	31993_f_at	634.85	129.4	0.064	FLJ23743	10p13	hypothetical protein FLJ23743
+49	39.73	40647_at	1187.85	188.5	0.074	XK	Xp21.1	Kell blood group precursor (McLeod phenotype)
+50	39.63	36491_at	540.37	209.7	0.077	TMSNB	Xq21.33-q22.3	thymosin, beta, identified in neuroblastoma cells

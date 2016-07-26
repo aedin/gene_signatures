@@ -1,0 +1,118 @@
+Gene name Transcription	Gene symbol	SLR over uHL-60 HL-60 + DMSO 1 d	SLR over uHL-60 HL-60 + DMSO 2 d	SLR over uHL-60 HL-60 + DMSO 3 d	SLR over uHL-60 HL-60 + DMSO 4 d	Relative change over uHL-60 PMN	GenBank accession no.	Biological role
+basic helix-loop-helix domain containing, class B, 2	BHLHB2	1.25	2.11	-0.75	1.48	+	AB004066	transcription
+B-cell CLL/lymphoma 6 (zinc finger protein 51)	BCL6	0.95	2.69	4.31	3.87	+++	U00115	transcription, inflammatory response
+BTB and CNC homology 1, basic leucine zipper transcription factor 1	BACH1	0.44	1.22	1.61	1.87	+	AB002803	transcription
+CCAAT/enhancer binding protein (C/EBP), delta	CEBPD	-0.5	-0.72	2.18	-0.19	+	M83667	transcription
+CCAAT/enhancer binding protein (C/EBP), epsilon	CEBPE	0.14	-2.82	2.63	0.16	=	U80982	transcription
+HMG-box containing protein 1	HBP1	1.58	2.01	2.13	2.81	++	AF019214	repression of transcription
+inhibitor of DNA binding 1, dominant negative helix-loop-helix protein	ID1	3.89	0.22	-0.67	0.12	=	X77956	transcription
+inhibitor of DNA binding 2, dominant negative helix-loop-helix protein	ID2	2.04	0.71	3	1.85	+	D13891	transcription
+interferon consensus sequence binding protein 1	ICSBP1	-2.2	-2.1	-2.09	-3.19	--	M91196	repression of transcription
+interferon regulatory factor 1	IRF1	2.24	2.44	2.31	2.63	++	L05072	transcription
+interferon regulatory factor 7	IRF7	1.99	2.04	2.45	1.97	++	U53831	repression of transcription
+jun B proto-oncogene	JUNB	1.57	1.95	1.08	1.45	++	X51345	transcription
+ring finger protein 13	RNF13	1.16	1.38	2.06	1.7	++	AF037204	protein-protein interaction, transcription
+RNA polymerase I subunit	RPA40	-1.03	-1.87	-3.51	-1.44	-	AF008442	transcription
+SWI/SNF related, matrix associated, subfamily b, member 1	SMARCB1	-0.5	-1.88	-0.76	-1.14	-	U04847	transcription, chromatin modelling
+v-myc myelocytomatosis viral oncogene homolog	MYC	-3.64	-3.38	-3.18	-3.88	---	V00568	transcription
+zinc finger protein 238	ZNF238	0.79	1.58	1.95	1.97	+	AJ223321	repression of transcription
+zinc finger protein 266	ZNF266	0.91	2.48	5.31	1.99	=	AA868898	transcription
+zinc finger protein 36, C3H type-like 1	ZFP36L1	0.5	0.21	0.63	1.87	+++	X79067	transcription
+B-cell translocation gene 1, anti-proliferative	BTG1	-0.38	0.95	1.9	1.32	+	X61123	negative control of cell proliferation
+BTG family, member 2	BTG2	2.34	3.15	3.49	3.3	+++	U72649	negative control of cell proliferation, DNA repair
+BUB1 budding uninhibited by benzimidazoles 1 homolog beta	BUB1B	0.2	-1.1	-2.1	-2.16	--	AF053306	mitosis
+CDC20 cell division cycle 20 homolog	CDC20	0.33	-1.22	-1.72	-1.85	---	U05340	cell cycle
+CDC45 cell division cycle 45-like	CDC45L	-1.16	-5.09	-2.64	-4.43	--	AJ223728	DNA replication
+CDC6 cell division cycle 6 homolog	CDC6	-0.69	-4.16	-5.05	-5.59	-	U77949	cell cycle, DNA replication
+cell division cycle 25A	CDC25A	-1.13	-1.42	-1.17	-2.12	---	M81933	cell cycle
+chromosome 6 open reading frame 32 (PL48)	C6orf32	1.17	1.73	5.28	3.83	+++	U49187	cell cycle
+chromosome condensation 1-like	CHC1L	1.41	2.24	1.9	3.42	+	AF060219	chromosome condensation
+cyclin A1	CCNA1	-1.17	-1	-3.09	-2.13	=	U66838	cell cycle
+cyclin A2	CCNA2	0.36	-1.33	-1.85	-1.8	--	X51688	cell cycle
+cyclin B1	CCNB1	0.6	-1.03	-2.26	-1.88	-	M25753	cell cycle
+cyclin B2	CCNB2	0.56	-1.18	-2.1	-2.2	--	AL080146	cell cycle
+cyclin E2	CCNE2	1.04	-2.45	-1.11	-1.88	-	AF091433	cell cycle
+cyclin-dependent kinase inhibitor 1A (p21, Cip1)	CDKN1A	1.51	1.93	-1.53	0.67	=	U03106	cell cycle arrest
+cyclin-dependent kinase inhibitor 1B (p27, Kip1)	CDKN1B	1.19	1.37	1.9	1.67	+	AI304854	cell cycle arrest
+cyclin-dependent kinase inhibitor 2D (p19, inhibits CDK4)	CDKN2D	1.15	1.61	0.89	1.36	++	U40343	cell cycle arrest
+MAD1 mitotic arrest deficient-like 1	MAD1L1	-0.34	-0.42	-1.93	-0.63	---	U33822	mitosis
+MAD2 mitotic arrest deficient-like 1	MAD2L1	0.47	-0.54	-1.44	-1.44	-	U65410	mitosis
+MCM2 minichromosome maintenance deficient 2, mitotin	MCM2	-0.74	-2.49	-2.45	-2.35	---	D21063	DNA replication, cell cycle
+MCM3 minichromosome maintenance deficient 3	MCM3	-0.45	-1.67	-2.5	-2.55	--	D38073	DNA replication, cell cycle
+MCM4 minichromosome maintenance deficient 4	MCM4	-0.43	-4.68	-2.25	-1.51	---	X74794	DNA replication, cell cycle
+MCM5 minichromosome maintenance deficient 5	MCM5	-0.54	-2.35	-1.88	-2.13	--	X74795	DNA replication, cell cycle
+MCM6 minichromosome maintenance deficient 6	MCM6	-0.64	-1.88	-2.46	-2.24	--	D84557	DNA replication, cell cycle
+MCM7 minichromosome maintenance deficient 7	MCM7	-0.74	-2.8	-2.75	-2.73	---	D55716	DNA replication, cell cycle
+polo-like kinase	PLK	0.2	-0.95	-1.51	-1.58	-	U01038	mitosis
+polymerase (DNA directed), delta 2, regulatory subunit (50kD)	POLD2	-1.37	-1.93	-2.39	-2.31	---	U21090	DNA replication
+polymerase (DNA directed), epsilon 2	POLE2	-0.81	-4.01	-3.69	-2.53	--	AF025840	DNA replication
+replication factor C (activator 1) 3 (38kD)	RFC3	-0.94	-1.92	-2.01	-1.68	---	L07541	DNA replication
+replication factor C (activator 1) 4 (37kD)	RFC4	-0.11	-1.51	-2.07	-1.86	--	M87339	DNA replication
+replication factor C (activator 1) 5 (36.5kD)	RFC5	-0.23	-2.63	-2.07	-1.6	-	L07540	DNA replication
+synaptonemal complex protein 2	SYCP2	-0.31	3.39	4.37	4.16	+	Y08982	chromosome condensation
+mitochondrial ribosomal protein L3	MRPL3	-1.17	-1.77	-1.38	-1.89	--	X06323	protein biosynthesis
+NS1-associated protein 1	NSAP1	-0.23	-1.62	-1.11	-1.44	-	AF037448	RNA splicing
+nucleolar protein 5A (56kD with KKE/D repeat)	NOL5A	-1.46	-1.78	-1.64	-2.05	--	Y12065	RNA processing, ribosome biogenesis
+small nuclear ribonucleoprotein D1 polypeptide 16kDa	SNRPD1	-0.61	-2.3	-0.73	-1.9	--	J03798	RNA splicing
+small nuclear ribonucleoprotein polypeptide F	SNRPF	-1.01	-1.7	-1.63	-1.99	--	AI032612	RNA splicing
+uridine monophosphate synthetase	UMPS	-0.94	-2.13	-1.42	-3	--	J03626	nucleic acid biosynthesis
+adenosine A2a receptor	ADORA2A	1.57	2.24	3.92	3.53	++	S46950	cellular defense response, inflammatory response
+CD11b antigen (integrin, alpha M)	ITGAM	4.07	5.23	5.26	5.87	+++	J03925	cell adhesion
+CD11c antigen (integrin, alpha X)	ITGAX	1.72	3.77	2.48	3.49	++	Y00093	cell adhesion
+complement component (3b/4b) receptor 1 (CD35)	CR1	-0.59	0.3	3.15	4.83	+++	X14362	complement activation
+complement component (3d/Epstein Barr virus) receptor 2 (CD21)	CR2	-0.29	3.17	3.57	2.14	+++	M26004	complement activation
+decay accelerating factor for complement (CD55)	DAF	-0.67	0.69	2.12	2.14	++	M31516	complement cascade
+Fc fragment of IgG, low affinity IIa, receptor for (CD32)	FCGR2A	0.41	1.21	0.93	1.66	++	M31932	immune response
+Fc fragment of IgG, low affinity IIb, receptor for (CD32)	FCGR2B	2.63	3.4	0.11	4.22	++	M31933	immune response
+intercellular adhesion molecule 3 (CD50)	ICAM3	1.05	1.51	2.79	2.53	++	X69819	cell adhesion
+toll-like receptor 1	TLR1	2.58	1.45	3.44	3.26	++	AL050262	immune response
+toll-like receptor 2	TLR2	0.9	2.11	2.11	2.19	++	AF051152	immune response
+cytochrome b-245, beta polypeptide (cytochrome b558) (gp91phox)	CYBB	-1.63	-1.54	3.11	0.95	=	X04011	superoxide anion generation
+neutrophil cytosolic factor 1 (47kD) (p47phox)	NCF1	1.63	1.4	2.33	3	++	M55067	superoxide anion generation
+neutrophil cytosolic factor 2 (65kD) (p67phox)	NCF2	1.54	1.83	3.29	2.89	+++	M32011	superoxide anion generation
+RAB4B, member RAS oncogene family	RAB4B	1.59	0.8	1.63	1.89	++	AA461365	vesicle transport
+synaptosomal-associated protein, 23kD	SNAP23	0.76	0.42	1.71	1.1	+	AJ011915	vesicle transport
+syntaxin 3A	STX3A	1.11	1.45	1.95	1.57	+	U32315	vesicle transport
+vesicle-associated membrane protein 3 (cellubrevin)	VAMP3	1.11	1.12	1.26	0.95	+	U64520	vesicle transport
+vesicle-associated membrane protein 5 (myobrevin)	VAMP5	1.68	3.06	2.39	2.73	+	AF054825	vesicle transport
+a disintegrin and metalloproteinase domain 8 (CD156)	ADAM8	0.56	1.46	2.15	1.22	++	D26579	proteolysis and peptidolysis
+aquaporin 9	AQP9	-0.13	-0.63	3.2	2.93	+++	AB008775	water transport, cell motility
+calpastatin	CAST	1.94	2	1.99	2.05	+	U31346	proteinase inhibitor
+ninjurin 1	NINJ1	1.3	1.79	2.63	3.12	+	U91512	cell adhesion
+ornithine decarboxylase 1	ODC1	-0.93	-1.75	-1.7	-2.64	--	M33764	metabolism
+phosphatase and tensin homolog (PTEN)	PTEN	0.64	0.61	1.39	1.82	+	U92436	signal transduction, apoptosis
+proteasome (prosome, macropain) 26S subunit, ATPase, 3	PSMC3	-0.6	-2.06	-1.26	-1.54	--	M34079	protein degradation
+proteasome (prosome, macropain) subunit, alpha type, 3	PSMA3	-0.72	-1.51	-1.18	-1.69	-	D00762	protein degradation
+PTEN induced putative kinase 1	PINK1	0.53	1.18	1.44	2.1	+	W28299	signal transduction
+S100 calcium binding protein A12 (calgranulin C)	S100A12	1.23	1.52	6.11	5.61	+++	D83664	calcium binding, inflammatory response
+S100 calcium binding protein A8 (calgranulin A) (MRP-8)	S100A8	0.83	1	3.2	3.3	++	AI126134	calcium binding, inflammatory response
+S100 calcium binding protein A9 (calgranulin B) (MRP-14)	S100A9	0.98	1.26	3.43	3.57	++	W72424	calcium binding, inflammatory response
+serine (or cysteine) proteinase inhibitor, clade A , member 1	SERPINA1	0.46	1.44	3.17	3.19	+++	X01683	protease inhibition
+stannin	SNN	-0.63	-0.1	2.87	1.78	+	AF030196	stress response
+TYRO protein tyrosine kinase binding protein (DAP12)	TYROBP	1.93	2.68	3.72	4.03	++	W60864	signal transduction
+ubiquitin carrier protein	E2-EPF	0.08	-0.33	-2.38	-1.37	--	M91670	protein modification
+vanin-2	VNN2	-0.35	0.41	6.43	5.92	+++	D89974	cell motility and adhesion
+chemokine (C-C-motif) ligand 2 (small inducible cytokine A2)	CCL2	0.01	-0.96	3.17	1.64	++	M26683	cell-cell signalling, signal transduction
+chemokine (C-C motif) ligand 3	CCL3	1.69	3.15	-0.72	1.71	++	D90144	cell-cell signalling, chemotaxis, inflammatory response
+chemokine (C-X-C motif), receptor 4 (fusin)	CXCR4	-0.3	0.53	1.97	1.84	+	L06797	cell-cell signalling, chemotaxis, inflammatory response
+interleukin 1, beta	IL1B	3.35	3.97	3.39	3.37	++	X04500	signal transduction
+interleukin 10 receptor, alpha	IL10RA	1.25	2.23	2.05	2.78	+	U00672	signal transduction
+interleukin 8	IL8	0.81	0.75	0.93	1.52	+	M17017	signal transduction, chemotaxis, cell-cell signalling
+transforming growth factor, beta receptor II (70-80kD)	TGFBR2	1.59	1.42	2.92	2.87	+	D50683	cell proliferation, TGF beta signalling pathway
+baculoviral IAP repeat-containing 2	BIRC2	1.26	1.63	1.62	1.6	+	U37547	anti-apoptosis
+baculoviral IAP repeat-containing 3	BIRC3	0.05	2.72	2.05	1.44	+	U45878	anti-apoptosis
+BCL2/adenovirus E1B 19kDa interacting protein 3-like	BNIP3L	1.77	1.23	0.46	1.92	+	AF079221	pro-apoptosis
+BCL2-associated athanogene 2	BAG2	-0.55	-1.41	-1.66	-2.74	-	AL050287	HSP70 inhibition
+BCL2-related protein A1	BCL2A1	0.59	1.42	2.9	3.51	+++	U27467	anti-apoptosis
+caspase 1	CASP1	0.62	1.19	1.76	2.33	+	U13697	pro-apoptosis
+caspase 3	CASP3	0.71	-2.64	-0.1	-0.02	-	U13737	pro-apoptosis
+caspase 8	CASP8	1.61	1.63	2.09	1.41	+	X98172	pro-apoptosis
+dual specificity phosphatase 6	DUSP6	1.54	1.17	2.05	1.56	+	AB013382	pro-apoptosis
+heat shock 10kD protein 1 (chaperonin 10)	HSPE1	-0.81	-1.92	-1.98	-1.83	--	AI912041	pro-apoptosis
+heat shock 27kD protein 1	HSPB1	-1.3	-1.38	-4.56	-1.93	---	Z23090	anti-apoptosis
+heat shock 70 kD protein 6 (HSP70B)	HSPA6	2.38	3.83	1.13	5.12	+++	X51757	anti-apoptosis
+heat shock 70kD protein 9B (mortalin-2)	HSPA9B	-0.84	-0.78	-1.86	-1.11	-	L15189	anti-apoptosis
+heat shock protein 75	TRAP1	-2.3	-2.34	-2.61	-2.28	--	U12595	anti-apoptosis
+hsp70-interacting protein	HSPBP1	-0.75	-1.63	-1.81	-1.5	-	AF093420	HSP70 inhibition
+NF-kappa B inhibitor alpha	NFKBIA	1.73	2.03	2.36	2.02	++	M69043	pro-apoptosis
+serine/threonine kinase 17b (apoptosis-inducing)	STK17B	1.16	1.04	1.29	1.52	++	AB011421	pro-apoptosis
