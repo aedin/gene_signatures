@@ -1,0 +1,99 @@
+# Generate Mapping Tables Script: Version 4 11:03 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:03 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+affy_hg_u133_plus_2|228124_at|228124_at	hgnc_symbol|ABHD12|ABHD12
+affy_hg_u133_plus_2|230896_at|230896_at	hgnc_symbol|BEND4|BEND4
+affy_hg_u133_plus_2|205516_x_at|205516_x_at	hgnc_symbol|CIZ1|CIZ1
+affy_hg_u133_plus_2|222134_at|222134_at	hgnc_symbol|DDO|DDO
+affy_hg_u133_plus_2|1554863_s_at|1554863_s_at	hgnc_symbol|DOK5|DOK5
+affy_hg_u133_plus_2|202218_s_at|202218_s_at	hgnc_symbol|FADS2|FADS2
+affy_hg_u133_plus_2|207547_s_at|207547_s_at	hgnc_symbol|FAM107A|FAM107A
+affy_hg_u133_plus_2|1562089_at|1562089_at	hgnc_symbol|GLYATL1|GLYATL1
+affy_hg_u133_plus_2|202539_s_at|202539_s_at	hgnc_symbol|HMGCR|HMGCR
+affy_hg_u133_plus_2|214918_at|214918_at	hgnc_symbol|HNRNPM|HNRNPM
+affy_hg_u133_plus_2|218761_at|218761_at	hgnc_symbol|RNF111|RNF111
+affy_hg_u133_plus_2|221731_x_at|221731_x_at	hgnc_symbol|VCAN|VCAN
+affy_hg_u133_plus_2|210285_x_at|210285_x_at	hgnc_symbol|WTAP|WTAP
+affy_hg_u133_plus_2|1560214_at|1560214_at
+affy_hg_u133_plus_2|238589_s_at|238589_s_at
+affy_hg_u133_plus_2|231907_at|231907_at	hgnc_symbol|ABL2|ABL2
+affy_hg_u133_plus_2|232458_at|232458_at	hgnc_symbol|COL3A1|COL3A1
+affy_hg_u133_plus_2|203540_at|203540_at	hgnc_symbol|GFAP|GFAP
+affy_hg_u133_plus_2|228429_x_at|228429_x_at	hgnc_symbol|KIF9|KIF9
+affy_hg_u133_plus_2|204177_s_at|204177_s_at	hgnc_symbol|KLHL20|KLHL20
+affy_hg_u133_plus_2|207589_at|207589_at	hgnc_symbol|ADRA1B|ADRA1B
+affy_hg_u133_plus_2|233308_at|233308_at	hgnc_symbol|COPB1|COPB1
+affy_hg_u133_plus_2|1561908_a_at|1561908_a_at	hgnc_symbol|HS3ST3B1|HS3ST3B1
+affy_hg_u133_plus_2|237786_at|237786_at	hgnc_symbol|MAGI2|MAGI2
+affy_hg_u133_plus_2|242922_at|242922_at	hgnc_symbol|NOMO1|NOMO1
+affy_hg_u133_plus_2|242922_at|242922_at	hgnc_symbol|NOMO2|NOMO2
+affy_hg_u133_plus_2|242922_at|242922_at	hgnc_symbol|NOMO3|NOMO3
+affy_hg_u133_plus_2|234479_at|234479_at	hgnc_symbol|PCDHB18|PCDHB18
+affy_hg_u133_plus_2|216283_s_at|216283_s_at	hgnc_symbol|PVR|PVR
+affy_hg_u133_plus_2|223209_s_at|223209_s_at	hgnc_symbol|VIMP|VIMP
+affy_hg_u133_plus_2|225862_at|225862_at	hgnc_symbol|SLC25A26|SLC25A26
+affy_hg_u133_plus_2|238948_at|238948_at	hgnc_symbol|TM9SF1|TM9SF1
+affy_hg_u133_plus_2|1560999_a_at|1560999_a_at
+affy_hg_u133_plus_2|1562611_at|1562611_at
+affy_hg_u133_plus_2|1564004_at|1564004_at
+affy_hg_u133_plus_2|234148_at|234148_at
+affy_hg_u133_plus_2|1554245_x_at|1554245_x_at	hgnc_symbol|ARL17B|ARL17B
+affy_hg_u133_plus_2|1554245_x_at|1554245_x_at	hgnc_symbol|ARL17A|ARL17A
+affy_hg_u133_plus_2|221401_at|221401_at	hgnc_symbol|CACNG5|CACNG5
+affy_hg_u133_plus_2|1555074_a_at|1555074_a_at	hgnc_symbol|KCNH5|KCNH5
+affy_hg_u133_plus_2|1564143_at|1564143_at
+affy_hg_u133_plus_2|240238_at|240238_at
+affy_hg_u133_plus_2|235856_at|235856_at
+affy_hg_u133_plus_2|202997_s_at|202997_s_at	hgnc_symbol|LOXL2|LOXL2
+affy_hg_u133_plus_2|1569392_at|1569392_at	hgnc_symbol|TECR|TECR
+affy_hg_u133_plus_2|1569672_at|1569672_at
+affy_hg_u133_plus_2|229172_at|229172_at	hgnc_symbol|HSPA12B|HSPA12B
+affy_hg_u133_plus_2|220184_at|220184_at	hgnc_symbol|NANOG|NANOG
+affy_hg_u133_plus_2|226998_at|226998_at	hgnc_symbol|NAA15|NAA15
+affy_hg_u133_plus_2|238353_at|238353_at	hgnc_symbol|RASL11A|RASL11A
+affy_hg_u133_plus_2|1564665_at|1564665_at
+affy_hg_u133_plus_2|215083_at|215083_at
+affy_hg_u133_plus_2|220687_at|220687_at
+affy_hg_u133_plus_2|233417_at|233417_at
+affy_hg_u133_plus_2|236256_at|236256_at
+affy_hg_u133_plus_2|217799_x_at|217799_x_at	hgnc_symbol|UBE2H|UBE2H
+affy_hg_u133_plus_2|233360_at|233360_at	hgnc_symbol|UBE2I|UBE2I
+affy_hg_u133_plus_2|218286_s_at|218286_s_at	hgnc_symbol|RNF7|RNF7
+affy_hg_u133_plus_2|243178_at|243178_at
+affy_hg_u133_plus_2|207030_s_at|207030_s_at	hgnc_symbol|CSRP2|CSRP2
+affy_hg_u133_plus_2|201750_s_at|201750_s_at	hgnc_symbol|ECE1|ECE1
+affy_hg_u133_plus_2|225643_at|225643_at	hgnc_symbol|MAPK1IP1L|MAPK1IP1L
+affy_hg_u133_plus_2|200024_at|200024_at	hgnc_symbol|RPS5|RPS5
+affy_hg_u133_plus_2|200781_s_at|200781_s_at	hgnc_symbol|RPS15A|RPS15A
+affy_hg_u133_plus_2|215635_at|215635_at
+affy_hg_u133_plus_2|234563_at|234563_at
+affy_hg_u133_plus_2|241940_at|241940_at
+affy_hg_u133_plus_2|219431_at|219431_at	hgnc_symbol|ARHGAP10|ARHGAP10
+affy_hg_u133_plus_2|242640_at|242640_at	hgnc_symbol|C19orf55|C19orf55
+affy_hg_u133_plus_2|230016_at|230016_at	hgnc_symbol|NDUFAF6|NDUFAF6
+affy_hg_u133_plus_2|241380_at|241380_at	hgnc_symbol|ARHGEF37|ARHGEF37
+affy_hg_u133_plus_2|1565786_x_at|1565786_x_at
+affy_hg_u133_plus_2|237152_at|237152_at
+affy_hg_u133_plus_2|1553873_at|1553873_at	hgnc_symbol|KLHL34|KLHL34
+affy_hg_u133_plus_2|229748_x_at|229748_x_at
+affy_hg_u133_plus_2|226809_at|226809_at
+affy_hg_u133_plus_2|235619_at|235619_at
+affy_hg_u133_plus_2|225782_at|225782_at	hgnc_symbol|MSRB3|MSRB3
+affy_hg_u133_plus_2|239929_at|239929_at	hgnc_symbol|PM20D1|PM20D1
+affy_hg_u133_plus_2|213377_x_at|213377_x_at	hgnc_symbol|RPS12|RPS12
+affy_hg_u133_plus_2|1552729_at|1552729_at	hgnc_symbol|SNHG7|SNHG7
+affy_hg_u133_plus_2|244279_at|244279_at	hgnc_symbol|SOBP|SOBP
+affy_hg_u133_plus_2|219421_at|219421_at	hgnc_symbol|TTC33|TTC33
+affy_hg_u133_plus_2|1562613_at|1562613_at
+affy_hg_u133_plus_2|1563190_at|1563190_at
+affy_hg_u133_plus_2|207672_at|207672_at
+affy_hg_u133_plus_2|211218_at|211218_at
+affy_hg_u133_plus_2|230772_at|230772_at
+affy_hg_u133_plus_2|239393_at|239393_at
+affy_hg_u133_plus_2|239735_at|239735_at
+affy_hg_u133_plus_2|240170_at|240170_at
+affy_hg_u133_plus_2|241941_at|241941_at
+affy_hg_u133_plus_2|243869_at|243869_at

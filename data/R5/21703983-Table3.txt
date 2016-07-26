@@ -1,0 +1,17 @@
+Gene	Gene Description	p-value	Fold-Change	miRNAs	Function	Study
+BACH2	BTB and CNC homology 1, basic leucine zipper transcription factor 2	2.30E-20	-1.54906	103	Transcription Factors	MILE Study MDS vs Controls RMA Analysis
+PLAG1	pleiomorphic adenoma gene 1	6.71E-06	1.37772	103	Transcription Factors	MILE Study MDS vs Controls RMA Analysis
+TFDP2	transcription factor Dp-2 (E2F dimerization partner 2)	4.67E-05	-1.19566	342	Transcription Factors	MILE Study MDS vs Controls RMA Analysis
+FOXP1	forkhead box PI	4.68E-05	-1.27138	150	Transcription Factors	MILE Study MDS vs Controls RMA Analysis
+SATB2	SATB homeobox 2	8.91E-05	1.14018	103	Transcription Factors	MILE Study MDS vs Controls RMA Analysis
+ZNF462	zinc finger protein 462	0.000118	1.1342	342	Transcription Factors	MILE Study MDS vs Controls RMA Analysis
+PHF20	PHD finger protein 20	0.000165	-1.24376	103	Transcription Factors	MILE Study MDS vs Controls RMA Analysis
+PHC3	polyhomeotic homolog 3 (Drosophila) (tumor suppressor)	0.000371	-1.14357	636	Transcription Factors	MILE Study MDS vs Controls RMA Analysis
+MYB	v-myb myeloblastosis viral oncogene homolog (avian)	0.000496	1.13861	103,150	Transcription Factors	MILE Study MDS vs Controls RMA Analysis
+DACH1	dachshund homolog 1, transcription regulation, marrow microenvironmer	0.039274	1.27652	342	Transcription Factors	MILE Study, Diagnostic Classification Signature
+ENO1	enolase 1, (alpha), transcription regulation (MYC)	0.133759	-1.17469	558	Transcription Factors	MILE Study, Diagnostic Classification Signature
+FOXP1	forkhead box P1, transcription factor, ?tumor suppressor	4.68E-05	-1.27138	150,342	Transcription Factors	MILE Study, Diagnostic Classification Signature
+HOXA3	homeobox A3, transcription factor	0.00171	1.32686	10b	Transcription Factors	MILE Study, Diagnostic Classification Signature
+MEIS1	Meis homeobox 1, transcription regulation	8.99E-05	1.38496	365	Transcription Factors	MILE Study, Diagnostic Classification Signature
+MYB	v-myb myeloblastosis viral oncogene homolog, transcription factor	0.000496	1.13861	103,150,342	Transcription Factors	MILE Study, Diagnostic Classification Signature
+SOX4	SRY(sex determining region Y)-box 4, transcription factor, DNA damage	0.450521	-1.06625	140	Transcription Factors	MILE Study, Diagnostic Classification Signature

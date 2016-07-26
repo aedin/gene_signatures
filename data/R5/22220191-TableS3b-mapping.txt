@@ -1,0 +1,35 @@
+# Generate Mapping Tables Script: Version 4 11:05 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:05 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+affy_hg_u133a|209591_s_at|209591_s_at	hgnc_symbol|BMP7|BMP7
+affy_hg_u133a|221671_x_at|221671_x_at	hgnc_symbol|IGKC|IGKC
+affy_hg_u133a|211333_s_at|211333_s_at	hgnc_symbol|FASLG|FASLG
+affy_hg_u133a|221651_x_at|221651_x_at	hgnc_symbol|IGKC|IGKC
+affy_hg_u133a|211259_s_at|211259_s_at	hgnc_symbol|BMP7|BMP7
+affy_hg_u133a|218872_at|218872_at	hgnc_symbol|TSC|TSC
+affy_hg_u133a|209460_at|209460_at	hgnc_symbol|ABAT|ABAT
+affy_hg_u133a|217455_s_at|217455_s_at	hgnc_symbol|SSTR2|SSTR2
+affy_hg_u133a|208479_at|208479_at	hgnc_symbol|KCNA1|KCNA1
+affy_hg_u133a|205890_s_at|205890_s_at	hgnc_symbol|UBD|UBD
+affy_hg_u133a|221087_s_at|221087_s_at	hgnc_symbol|APOL3|APOL3
+affy_hg_u133a|210321_at|210321_at	hgnc_symbol|GZMH|GZMH
+affy_hg_u133a|214510_at|214510_at	hgnc_symbol|GPR20|GPR20
+affy_hg_u133a|211430_s_at|211430_s_at	hgnc_symbol|IGH@|IGH@
+affy_hg_u133a|214567_s_at|214567_s_at	hgnc_symbol|XCL1|XCL1
+affy_hg_u133a|217143_s_at|217143_s_at	hgnc_symbol|TRA@|TRA@
+affy_hg_u133a|207796_x_at|207796_x_at	hgnc_symbol|KLRD1|KLRD1
+affy_hg_u133a|214677_x_at|214677_x_at	hgnc_symbol|IGL@|IGL@
+affy_hg_u133a|203915_at|203915_at	hgnc_symbol|CXCL9|CXCL9
+affy_hg_u133a|208498_s_at|208498_s_at	hgnc_symbol|AMY2A|AMY2A
+affy_hg_u133a|219605_at|219605_at	hgnc_symbol|ZNF3|ZNF3
+affy_hg_u133a|209138_x_at|209138_x_at	hgnc_symbol|IGLC2|IGLC2
+affy_hg_u133a|209590_at|209590_at	hgnc_symbol|BMP7|BMP7
+affy_hg_u133a|204781_s_at|204781_s_at	hgnc_symbol|FAS|FAS
+affy_hg_u133a|217378_x_at|217378_x_at	hgnc_symbol|LOC391427|LOC391427
+affy_hg_u133a|218062_x_at|218062_x_at	hgnc_symbol|CDC42EP4|CDC42EP4
+affy_hg_u133a|212272_at|212272_at	hgnc_symbol|LPIN1|LPIN1
+affy_hg_u133a|203608_at|203608_at	hgnc_symbol|ALDH5A1|ALDH5A1
+affy_hg_u133a|207747_s_at|207747_s_at	hgnc_symbol|DOK4|DOK4

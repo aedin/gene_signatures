@@ -1,0 +1,144 @@
+# Generate Mapping Tables Script: Version 4 11:08 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:08 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+illumina_mousewg_6_v2|ILMN_2541190|ILMN_2541190	mgi_symbol|1500034J01Rik|1500034J01Rik
+illumina_mousewg_6_v2|ILMN_1215670|ILMN_1215670	mgi_symbol|1810054D07Rik|1810054D07Rik
+illumina_mousewg_6_v2|ILMN_2753761|ILMN_2753761	mgi_symbol|2010004A03Rik|2010004A03Rik
+illumina_mousewg_6_v2|ILMN_2428931|ILMN_2428931	mgi_symbol|4631426J05Rik|4631426J05Rik
+illumina_mousewg_6_v2|ILMN_2593994|ILMN_2593994	mgi_symbol|5033430I15Rik|5033430I15Rik
+illumina_mousewg_6_v2|ILMN_2769490|ILMN_2769490	mgi_symbol|5430435G22Rik|5430435G22Rik
+illumina_mousewg_6_v2|ILMN_1224162|ILMN_1224162	mgi_symbol|5730593F17Rik|5730593F17Rik
+illumina_mousewg_6_v2|ILMN_2756704|ILMN_2756704	mgi_symbol|9130213B05Rik|9130213B05Rik
+illumina_mousewg_6_v2|ILMN_1232760|ILMN_1232760	mgi_symbol|A430107D22Rik|A430107D22Rik
+illumina_mousewg_6_v2|ILMN_2423730|ILMN_2423730	mgi_symbol|A930008A22Rik|A930008A22Rik
+illumina_mousewg_6_v2|ILMN_2441335|ILMN_2441335	mgi_symbol|Abcg1|Abcg1
+illumina_mousewg_6_v2|ILMN_2710354|ILMN_2710354	mgi_symbol|Acta2|Acta2
+illumina_mousewg_6_v2|ILMN_2617433|ILMN_2617433	mgi_symbol|Actb|Actb
+illumina_mousewg_6_v2|ILMN_2747543|ILMN_2747543	mgi_symbol|Actn3|Actn3
+illumina_mousewg_6_v2|ILMN_1243254|ILMN_1243254	mgi_symbol|Adam12|Adam12
+illumina_mousewg_6_v2|ILMN_1227386|ILMN_1227386	mgi_symbol|Aig1|Aig1
+illumina_mousewg_6_v2|ILMN_1232621|ILMN_1232621	mgi_symbol|Ank|Ank
+illumina_mousewg_6_v2|ILMN_2950286|ILMN_2950286	mgi_symbol|Ankrd1 (Carp)|Ankrd1 (Carp)
+illumina_mousewg_6_v2|ILMN_2756486|ILMN_2756486	mgi_symbol|Aqp1|Aqp1
+illumina_mousewg_6_v2|ILMN_3160369|ILMN_3160369	mgi_symbol|Atg9b|Atg9b
+illumina_mousewg_6_v2|ILMN_2725188|ILMN_2725188	mgi_symbol|Atp10a|Atp10a
+illumina_mousewg_6_v2|ILMN_2688236|ILMN_2688236	mgi_symbol|Atp2a3 (Ca-ATPase3)|Atp2a3 (Ca-ATPase3)
+illumina_mousewg_6_v2|ILMN_2461320|ILMN_2461320	mgi_symbol|AU020206|AU020206
+illumina_mousewg_6_v2|ILMN_2468473|ILMN_2468473	mgi_symbol|B230343A10Rik|B230343A10Rik
+illumina_mousewg_6_v2|ILMN_1234419|ILMN_1234419	mgi_symbol|Bag2|Bag2
+illumina_mousewg_6_v2|ILMN_2765335|ILMN_2765335	mgi_symbol|BC028528|BC028528
+illumina_mousewg_6_v2|ILMN_2525829|ILMN_2525829	mgi_symbol|BC031781|BC031781
+illumina_mousewg_6_v2|ILMN_1215785|ILMN_1215785	mgi_symbol|Bcl10|Bcl10
+illumina_mousewg_6_v2|ILMN_2660263|ILMN_2660263	mgi_symbol|Bcl2a1b (Bfl1)|Bcl2a1b (Bfl1)
+illumina_mousewg_6_v2|ILMN_2660555|ILMN_2660555	mgi_symbol|Bcl2a1d (Bfl1)|Bcl2a1d (Bfl1)
+illumina_mousewg_6_v2|ILMN_2755424|ILMN_2755424	mgi_symbol|Bcorl1|Bcorl1
+illumina_mousewg_6_v2|ILMN_1224110|ILMN_1224110	mgi_symbol|Bst2|Bst2
+illumina_mousewg_6_v2|ILMN_2736212|ILMN_2736212	mgi_symbol|C030003D03Rik|C030003D03Rik
+illumina_mousewg_6_v2|ILMN_2863849|ILMN_2863849	mgi_symbol|C1qtnf3|C1qtnf3
+illumina_mousewg_6_v2|ILMN_1236202|ILMN_1236202	mgi_symbol|C430015M08Rik|C430015M08Rik
+illumina_mousewg_6_v2|ILMN_1222123|ILMN_1222123	mgi_symbol|Camk2d|Camk2d
+illumina_mousewg_6_v2|ILMN_2701991|ILMN_2701991	mgi_symbol|Dscr1 (Rcan1/calcipressin-1)|Dscr1 (Rcan1/calcipressin-1)
+illumina_mousewg_6_v2|ILMN_1253919|ILMN_1253919	mgi_symbol|Ccl3|Ccl3
+illumina_mousewg_6_v2|ILMN_2905717|ILMN_2905717	mgi_symbol|Cd180|Cd180
+illumina_mousewg_6_v2|ILMN_2785648|ILMN_2785648	mgi_symbol|Cd207|Cd207
+illumina_mousewg_6_v2|ILMN_2591543|ILMN_2591543	mgi_symbol|Cd207|Cd207
+illumina_mousewg_6_v2|ILMN_1259610|ILMN_1259610	mgi_symbol|Cd276|Cd276
+illumina_mousewg_6_v2|ILMN_2865016|ILMN_2865016	mgi_symbol|Cd83|Cd83
+illumina_mousewg_6_v2|ILMN_1216386|ILMN_1216386	mgi_symbol|Cd86|Cd86
+illumina_mousewg_6_v2|ILMN_1226950|ILMN_1226950	mgi_symbol|Cdkn2a (p14ARF)|Cdkn2a (p14ARF)
+illumina_mousewg_6_v2|ILMN_2864170|ILMN_2864170	mgi_symbol|Chst3|Chst3
+illumina_mousewg_6_v2|ILMN_2702266|ILMN_2702266	mgi_symbol|Crygs|Crygs
+illumina_mousewg_6_v2|ILMN_1238215|ILMN_1238215	mgi_symbol|Ctgf|Ctgf
+illumina_mousewg_6_v2|ILMN_1228235|ILMN_1228235	mgi_symbol|Ctse|Ctse
+illumina_mousewg_6_v2|ILMN_2615879|ILMN_2615879	mgi_symbol|Ctsf|Ctsf
+illumina_mousewg_6_v2|ILMN_2811154|ILMN_2811154	mgi_symbol|Cxcl2 (Gro2)|Cxcl2 (Gro2)
+illumina_mousewg_6_v2|ILMN_1214498|ILMN_1214498	mgi_symbol|Cyp2d22|Cyp2d22
+illumina_mousewg_6_v2|ILMN_2758264|ILMN_2758264	mgi_symbol|Cyp2s1|Cyp2s1
+illumina_mousewg_6_v2|ILMN_1231670|ILMN_1231670	mgi_symbol|D230037D09Rik|D230037D09Rik
+illumina_mousewg_6_v2|ILMN_2646296|ILMN_2646296	mgi_symbol|D4Bwg0951e|D4Bwg0951e
+illumina_mousewg_6_v2|ILMN_1237518|ILMN_1237518	mgi_symbol|Dgkg|Dgkg
+illumina_mousewg_6_v2|ILMN_2629748|ILMN_2629748	mgi_symbol|Dhx9|Dhx9
+illumina_mousewg_6_v2|ILMN_1221784|ILMN_1221784	mgi_symbol|Dio3|Dio3
+illumina_mousewg_6_v2|ILMN_2890019|ILMN_2890019	mgi_symbol|Ear11|Ear11
+illumina_mousewg_6_v2|ILMN_2737713|ILMN_2737713	mgi_symbol|Edn1|Edn1
+illumina_mousewg_6_v2|ILMN_2589640|ILMN_2589640	mgi_symbol|Ednrb|Ednrb
+illumina_mousewg_6_v2|ILMN_2605819|ILMN_2605819	mgi_symbol|Egln3|Egln3
+illumina_mousewg_6_v2|ILMN_2763002|ILMN_2763002	mgi_symbol|Eno2|Eno2
+illumina_mousewg_6_v2|ILMN_1231851|ILMN_1231851	mgi_symbol|Enpp1|Enpp1
+illumina_mousewg_6_v2|ILMN_2772998|ILMN_2772998	mgi_symbol|Enpp2|Enpp2
+illumina_mousewg_6_v2|ILMN_2821263|ILMN_2821263	mgi_symbol|Eps8l2|Eps8l2
+illumina_mousewg_6_v2|ILMN_2778111|ILMN_2778111	mgi_symbol|Etv4 (Pea3)|Etv4 (Pea3)
+illumina_mousewg_6_v2|ILMN_2935157|ILMN_2935157	mgi_symbol|Fkhl18|Fkhl18
+illumina_mousewg_6_v2|ILMN_2742152|ILMN_2742152	mgi_symbol|Gadd45a|Gadd45a
+illumina_mousewg_6_v2|ILMN_2776850|ILMN_2776850	mgi_symbol|Gas7|Gas7
+illumina_mousewg_6_v2|ILMN_3053593|ILMN_3053593	mgi_symbol|Glipr2|Glipr2
+illumina_mousewg_6_v2|ILMN_1246733|ILMN_1246733	mgi_symbol|Gm22|Gm22
+illumina_mousewg_6_v2|ILMN_1221121|ILMN_1221121	mgi_symbol|Gpr35|Gpr35
+illumina_mousewg_6_v2|ILMN_2662192|ILMN_2662192	mgi_symbol|Gramd3|Gramd3
+illumina_mousewg_6_v2|ILMN_2984332|ILMN_2984332	mgi_symbol|Hal|Hal
+illumina_mousewg_6_v2|ILMN_2736489|ILMN_2736489	mgi_symbol|Hexb|Hexb
+illumina_mousewg_6_v2|ILMN_2715802|ILMN_2715802	mgi_symbol|Hmga1|Hmga1
+illumina_mousewg_6_v2|ILMN_2598703|ILMN_2598703	mgi_symbol|Ifnar2|Ifnar2
+illumina_mousewg_6_v2|ILMN_2659739|ILMN_2659739	mgi_symbol|Il7r|Il7r
+illumina_mousewg_6_v2|ILMN_3144164|ILMN_3144164	mgi_symbol|Irs2|Irs2
+illumina_mousewg_6_v2|ILMN_1242456|ILMN_1242456	mgi_symbol|Kank1 (Ankrd15)|Kank1 (Ankrd15)
+illumina_mousewg_6_v2|ILMN_2657243|ILMN_2657243	mgi_symbol|Kcnf1|Kcnf1
+illumina_mousewg_6_v2|ILMN_1251426|ILMN_1251426	mgi_symbol|Klf7|Klf7
+illumina_mousewg_6_v2|ILMN_1257873|ILMN_1257873	mgi_symbol|Layn|Layn
+illumina_mousewg_6_v2|ILMN_1242960|ILMN_1242960	mgi_symbol|Lifr|Lifr
+illumina_mousewg_6_v2|ILMN_2604885|ILMN_2604885	mgi_symbol|Lmod1|Lmod1
+illumina_mousewg_6_v2|ILMN_1222315|ILMN_1222315	mgi_symbol|LOC100047167|LOC100047167
+illumina_mousewg_6_v2|ILMN_2531554|ILMN_2531554	mgi_symbol|LOC381212|LOC381212
+illumina_mousewg_6_v2|ILMN_1239601|ILMN_1239601	mgi_symbol|LOC637711|LOC637711
+illumina_mousewg_6_v2|ILMN_2771219|ILMN_2771219	mgi_symbol|LOC669660|LOC669660
+illumina_mousewg_6_v2|ILMN_1223198|ILMN_1223198	mgi_symbol|LOC676704|LOC676704
+illumina_mousewg_6_v2|ILMN_1250774|ILMN_1250774	mgi_symbol|Mdm2|Mdm2
+illumina_mousewg_6_v2|ILMN_1230263|ILMN_1230263	mgi_symbol|Me2|Me2
+illumina_mousewg_6_v2|ILMN_2689931|ILMN_2689931	mgi_symbol|Megf10|Megf10
+illumina_mousewg_6_v2|ILMN_3038459|ILMN_3038459	mgi_symbol|Morf4l1|Morf4l1
+illumina_mousewg_6_v2|ILMN_1254692|ILMN_1254692	mgi_symbol|Ms4a6b|Ms4a6b
+illumina_mousewg_6_v2|ILMN_2772710|ILMN_2772710	mgi_symbol|Ms4a6c|Ms4a6c
+illumina_mousewg_6_v2|ILMN_2645275|ILMN_2645275	mgi_symbol|Mvd|Mvd
+illumina_mousewg_6_v2|ILMN_2646166|ILMN_2646166	mgi_symbol|Ndrl|Ndrl
+illumina_mousewg_6_v2|ILMN_1245037|ILMN_1245037	mgi_symbol|Ngef (Ephexin)|Ngef (Ephexin)
+illumina_mousewg_6_v2|ILMN_2932164|ILMN_2932164	mgi_symbol|Notum|Notum
+illumina_mousewg_6_v2|ILMN_2726371|ILMN_2726371	mgi_symbol|Nqo1|Nqo1
+illumina_mousewg_6_v2|ILMN_2660519|ILMN_2660519	mgi_symbol|Nt5dc2|Nt5dc2
+illumina_mousewg_6_v2|ILMN_2813830|ILMN_2813830	mgi_symbol|Nt5e|Nt5e
+illumina_mousewg_6_v2|ILMN_2684316|ILMN_2684316	mgi_symbol|P2ry1|P2ry1
+illumina_mousewg_6_v2|ILMN_1218247|ILMN_1218247	mgi_symbol|Palld|Palld
+illumina_mousewg_6_v2|ILMN_2597660|ILMN_2597660	mgi_symbol|Pcdh1|Pcdh1
+illumina_mousewg_6_v2|ILMN_2775937|ILMN_2775937	mgi_symbol|Plat|Plat
+illumina_mousewg_6_v2|ILMN_2629582|ILMN_2629582	mgi_symbol|Plau|Plau
+illumina_mousewg_6_v2|ILMN_2612018|ILMN_2612018	mgi_symbol|Prokr1 (PkR1)|Prokr1 (PkR1)
+illumina_mousewg_6_v2|ILMN_2734712|ILMN_2734712	mgi_symbol|Ptpla|Ptpla
+illumina_mousewg_6_v2|ILMN_1220975|ILMN_1220975	mgi_symbol|Ptpn22|Ptpn22
+illumina_mousewg_6_v2|ILMN_2625377|ILMN_2625377	mgi_symbol|Rgs1|Rgs1
+illumina_mousewg_6_v2|ILMN_2974460|ILMN_2974460	mgi_symbol|Rhobtb2|Rhobtb2
+illumina_mousewg_6_v2|ILMN_2823778|ILMN_2823778	mgi_symbol|Sc4mol|Sc4mol
+illumina_mousewg_6_v2|ILMN_2438153|ILMN_2438153	mgi_symbol|scl0003073.1_164|scl0003073.1_164
+illumina_mousewg_6_v2|ILMN_2604226|ILMN_2604226	mgi_symbol|Sema5a|Sema5a
+illumina_mousewg_6_v2|ILMN_2790357|ILMN_2790357	mgi_symbol|Sema7a|Sema7a
+illumina_mousewg_6_v2|ILMN_2762966|ILMN_2762966	mgi_symbol|Siglec1|Siglec1
+illumina_mousewg_6_v2|ILMN_2598622|ILMN_2598622	mgi_symbol|Slamf8|Slamf8
+illumina_mousewg_6_v2|ILMN_2663249|ILMN_2663249	mgi_symbol|Slamf9|Slamf9
+illumina_mousewg_6_v2|ILMN_2589412|ILMN_2589412	mgi_symbol|Slc20a1|Slc20a1
+illumina_mousewg_6_v2|ILMN_2648089|ILMN_2648089	mgi_symbol|Snx25|Snx25
+illumina_mousewg_6_v2|ILMN_1255551|ILMN_1255551	mgi_symbol|Sorbs1|Sorbs1
+illumina_mousewg_6_v2|ILMN_2778151|ILMN_2778151	mgi_symbol|Sox9|Sox9
+illumina_mousewg_6_v2|ILMN_2759762|ILMN_2759762	mgi_symbol|Stard10|Stard10
+illumina_mousewg_6_v2|ILMN_2907499|ILMN_2907499	mgi_symbol|Tatdn2|Tatdn2
+illumina_mousewg_6_v2|ILMN_1215928|ILMN_1215928	mgi_symbol|Tcf12|Tcf12
+illumina_mousewg_6_v2|ILMN_3100258|ILMN_3100258	mgi_symbol|Theg|Theg
+illumina_mousewg_6_v2|ILMN_2513826|ILMN_2513826	mgi_symbol|Tnfrsf11b (osteoprotegerin)|Tnfrsf11b (osteoprotegerin)
+illumina_mousewg_6_v2|ILMN_2479124|ILMN_2479124	mgi_symbol|Tnfrsf26|Tnfrsf26
+illumina_mousewg_6_v2|ILMN_2915118|ILMN_2915118	mgi_symbol|Trpc6|Trpc6
+illumina_mousewg_6_v2|ILMN_1377919|ILMN_1377919	mgi_symbol|Tubb2b|Tubb2b
+illumina_mousewg_6_v2|ILMN_1220029|ILMN_1220029	mgi_symbol|Vgll3|Vgll3
+illumina_mousewg_6_v2|ILMN_2476329|ILMN_2476329	mgi_symbol|Whrn|Whrn
+illumina_mousewg_6_v2|ILMN_2789692|ILMN_2789692	mgi_symbol|Wnt7b|Wnt7b
+illumina_mousewg_6_v2|ILMN_1239055|ILMN_1239055	mgi_symbol|Xdh|Xdh
+illumina_mousewg_6_v2|ILMN_1242159|ILMN_1242159	mgi_symbol|Zfp820|Zfp820

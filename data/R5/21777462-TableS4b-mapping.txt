@@ -1,0 +1,26 @@
+# Generate Mapping Tables Script: Version 4 11:06 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:06 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+affy_hg_u133_plus_2|1554408_a_at|1554408_a_at	entrezgene|7083|7083	hgnc_symbol|TK1|TK1
+affy_hg_u133_plus_2|1555758_a_at|1555758_a_at	entrezgene|1033|1033	hgnc_symbol|CDKN3|CDKN3
+affy_hg_u133_plus_2|201897_s_at|201897_s_at	entrezgene|1163|1163	hgnc_symbol|CKS1B|CKS1B
+affy_hg_u133_plus_2|202240_at|202240_at	entrezgene|5347|5347	hgnc_symbol|PLK1|PLK1
+affy_hg_u133_plus_2|203755_at|203755_at	entrezgene|701|701	hgnc_symbol|BUB1B|BUB1B
+affy_hg_u133_plus_2|204170_s_at|204170_s_at	entrezgene|1164|1164	hgnc_symbol|CKS2|CKS2
+affy_hg_u133_plus_2|204244_s_at|204244_s_at	entrezgene|10926|10926	hgnc_symbol|DBF4|DBF4
+affy_hg_u133_plus_2|204641_at|204641_at	entrezgene|4751|4751	hgnc_symbol|NEK2|NEK2
+affy_hg_u133_plus_2|204822_at|204822_at	entrezgene|7272|7272	hgnc_symbol|TTK|TTK
+affy_hg_u133_plus_2|204825_at|204825_at	entrezgene|9833|9833	hgnc_symbol|MELK|MELK
+affy_hg_u133_plus_2|204887_s_at|204887_s_at	entrezgene|10733|10733	hgnc_symbol|PLK4|PLK4
+affy_hg_u133_plus_2|205394_at|205394_at	entrezgene|1111|1111	hgnc_symbol|CHEK1|CHEK1
+affy_hg_u133_plus_2|205565_s_at|205565_s_at	entrezgene|2395|2395	hgnc_symbol|FXN|FXN
+affy_hg_u133_plus_2|209464_at|209464_at	entrezgene|9212|9212	hgnc_symbol|AURKB|AURKB
+affy_hg_u133_plus_2|209642_at|209642_at	entrezgene|699|699	hgnc_symbol|BUB1|BUB1
+affy_hg_u133_plus_2|209825_s_at|209825_s_at	entrezgene|7371|7371	hgnc_symbol|UCK2|UCK2
+affy_hg_u133_plus_2|210559_s_at|210559_s_at	entrezgene|983|983	hgnc_symbol|CDC2|CDC2
+affy_hg_u133_plus_2|212871_at|212871_at	entrezgene|8550|8550	hgnc_symbol|MAPKAPK5|MAPKAPK5
+affy_hg_u133_plus_2|219148_at|219148_at	entrezgene|55872|55872	hgnc_symbol|PBK|PBK
+affy_hg_u133_plus_2|218209_s_at|218209_s_at	entrezgene|55197|55197	hgnc_symbol|RPRD1A|RPRD1A

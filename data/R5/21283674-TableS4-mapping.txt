@@ -1,0 +1,93 @@
+# Generate Mapping Tables Script: Version 4 11:03 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:03 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+refseq_dna|NM_031370.2|NM_031370	mirbase_id|hsa-miR-200|hsa-miR-200	mirbase_id|hsa-miR-146|hsa-miR-146	hgnc_symbol|AUF1 (HNRPD)|AUF1 (HNRPD)
+refseq_dna|NM_018014.3|NM_018014	mirbase_id|hsa-miR-146|hsa-miR-146	mirbase_id|hsa-miR-30|hsa-miR-30	hgnc_symbol|BCL11A|BCL11A
+refseq_dna|NM_022898.1|NM_022898	mirbase_id|hsa-miR-200b|hsa-miR-200b	mirbase_id|hsa-miR-23|hsa-miR-23	mirbase_id|hsa-miR-30|hsa-miR-30	hgnc_symbol|BCL11B|BCL11B
+refseq_dna|NM_000633.2|NM_000633	mirbase_id|hsa-miR-30|hsa-miR-30	hgnc_symbol|BCL2|BCL2
+refseq_dna|NM_138621.3|NM_138621	mirbase_id|hsa-miR-101|hsa-miR-101	mirbase_id|hsa-miR-30|hsa-miR-30	hgnc_symbol|BCL2L11|BCL2L11
+refseq_dna|NM_001706.3|NM_001706	mirbase_id|hsa-miR-30|hsa-miR-30	hgnc_symbol|BCL6|BCL6
+refseq_dna|NM_001123384.1|NM_001123384	mirbase_id|hsa-miR-139|hsa-miR-139	mirbase_id|hsa-miR-30|hsa-miR-30	hgnc_symbol|BCOR|BCOR
+refseq_dna|NM_001167.2|NM_001167	mirbase_id|hsa-miR-23|hsa-miR-23	hgnc_symbol|BIRC4|BIRC4
+refseq_dna|NM_001127428.1|NM_001127428	mirbase_id|hsa-miR-30|hsa-miR-30	hgnc_symbol|CASP3|CASP3
+refseq_dna|NM_033340.2|NM_033340	mirbase_id|hsa-miR-23|hsa-miR-23	hgnc_symbol|CASP7|CASP7
+refseq_dna|NM_001025432.1|NM_001025432	mirbase_id|hsa-miR-200b|hsa-miR-200b	hgnc_symbol|CREBBP (CBP)|CREBBP (CBP)
+refseq_dna|NM_006565.2|NM_006565	mirbase_id|hsa-miR-101|hsa-miR-101	mirbase_id|hsa-miR-23|hsa-miR-23	hgnc_symbol|CTCF|CTCF
+refseq_dna|NM_001033883.1|NM_001033883	mirbase_id|hsa-miR-23|hsa-miR-23	hgnc_symbol|CXCL12|CXCL12
+refseq_dna|NM_175629|NM_175629	mirbase_id|hsa-miR-199a|hsa-miR-199a	mirbase_id|hsa-miR-101|hsa-miR-101	mirbase_id|hsa-miR-30|hsa-miR-30	hgnc_symbol|DNMT3A|DNMT3A
+refseq_dna|NM_032482.2|NM_032482	mirbase_id|hsa-miR-101|hsa-miR-101	hgnc_symbol|DOT1L|DOT1L
+refseq_dna|NM_004417|NM_004417	mirbase_id|hsa-miR-200b|hsa-miR-200b	hgnc_symbol|DUSP1|DUSP1
+refseq_dna|NM_004419|NM_004419	mirbase_id|hsa-miR-199a|hsa-miR-199a	hgnc_symbol|DUSP5|DUSP5
+refseq_dna|NM_012199|NM_012199	mirbase_id|hsa-miR-199|hsa-miR-199	mirbase_id|hsa-miR-30|hsa-miR-30	hgnc_symbol|EIF2C1 (AGO1)|EIF2C1 (AGO1)
+refseq_dna|NM_012154.2|NM_012154	mirbase_id|hsa-miR-99|hsa-miR-99	hgnc_symbol|EIF2C2 (AGO2)|EIF2C2 (AGO2)
+refseq_dna|NM_153402.1|NM_153402	mirbase_id|hsa-miR-30|hsa-miR-30	hgnc_symbol|EIF2C3 (AGO3)|EIF2C3 (AGO3)
+refseq_dna|NM_153177.2|NM_153177	mirbase_id|hsa-miR-30|hsa-miR-30	hgnc_symbol|EIF2C4 (AGO4)|EIF2C4 (AGO4)
+refseq_dna|NM_001419.2|NM_001419	mirbase_id|hsa-miR-146|hsa-miR-146	hgnc_symbol|ELAVL1 (HUR)|ELAVL1 (HUR)
+refseq_dna|NM_004432|NM_004432	mirbase_id|hsa-miR-200a|hsa-miR-200a	mirbase_id|hsa-miR-200b|hsa-miR-200b	mirbase_id|hsa-miR-30|hsa-miR-30	hgnc_symbol|ELAVL2(Hel-N1)|ELAVL2(Hel-N1)
+refseq_dna|NM_021952|NM_021952	mirbase_id|hsa-miR-200b|hsa-miR-200b	hgnc_symbol|ELAVL4|ELAVL4
+refseq_dna|NM_001429|NM_001429	mirbase_id|hsa-miR-200b|hsa-miR-200b	hgnc_symbol|EP300(P300)|EP300(P300)
+refseq_dna|NM_152998.1|NM_152998	mirbase_id|hsa-miR-101|hsa-miR-101	hgnc_symbol|EZH2|EZH2
+refseq_dna|NM_174662.2|NM_174662	mirbase_id|hsa-miR-23|hsa-miR-23	hgnc_symbol|FAS|FAS
+refseq_dna|NM_002024.4|NM_002024	mirbase_id|hsa-miR-200|hsa-miR-200	mirbase_id|hsa-miR-139|hsa-miR-139	mirbase_id|hsa-miR-23|hsa-miR-23	hgnc_symbol|FMRP(FMR1)|FMRP(FMR1)
+refseq_dna|NM_005252.3|NM_005252	mirbase_id|hsa-miR-199a|hsa-miR-199a	hgnc_symbol|FOS|FOS
+refseq_dna|NM_001009988.1|NM_001009988	mirbase_id|hsa-miR-30|hsa-miR-30	hgnc_symbol|FOXO3A|FOXO3A
+refseq_dna|NM_032682.4|NM_032682	mirbase_id|hsa-miR-200a|hsa-miR-200a	hgnc_symbol|FOXP1|FOXP1
+refseq_dna|NM_004958|NM_004958	mirbase_id|hsa-miR-199a|hsa-miR-199a	hgnc_symbol|FRAP1|FRAP1
+refseq_dna|NM_002093.2|NM_002093	mirbase_id|hsa-miR-199|hsa-miR-199	hgnc_symbol|GSK3B|GSK3B
+refseq_dna|NM_006037.3|NM_006037	mirbase_id|hsa-miR-200|hsa-miR-200	hgnc_symbol|HDAC4|HDAC4
+refseq_dna|NM_058176.2|NM_058176	mirbase_id|hsa-miR-30|hsa-miR-30	hgnc_symbol|HDAC9|HDAC9
+refseq_dna|NM_001530.3|NM_001530	mirbase_id|hsa-miR-199|hsa-miR-199	hgnc_symbol|HIF1A|HIF1A
+refseq_dna|NM_031370.2|NM_031370	mirbase_id|hsa-miR-200|hsa-miR-200	mirbase_id|hsa-miR-146|hsa-miR-146	hgnc_symbol|HNRPD|HNRPD
+refseq_dna|NM_000641.2|NM_000641	mirbase_id|hsa-miR-23|hsa-miR-23	hgnc_symbol|IL11|IL11
+refseq_dna|NM_000575.3|NM_000575	mirbase_id|hsa-miR-30|hsa-miR-30	hgnc_symbol|IL1A|IL1A
+refseq_dna|NM_000565.2|NM_000565	mirbase_id|hsa-miR-23|hsa-miR-23	hgnc_symbol|IL6R|IL6R
+refseq_dna|NM_001569.3|NM_001569	mirbase_id|hsa-miR-146|hsa-miR-146	hgnc_symbol|IRAK1|IRAK1
+refseq_dna|NM_002199.3|NM_002199	mirbase_id|hsa-miR-23|hsa-miR-23	hgnc_symbol|IRF2|IRF2
+refseq_dna|NM_002460.2|NM_002460	mirbase_id|hsa-miR-30|hsa-miR-30	hgnc_symbol|IRF4|IRF4
+refseq_dna|NM_018433.5|NM_018433	mirbase_id|hsa-miR-199a|hsa-miR-199a	mirbase_id|hsa-miR-30|hsa-miR-30	hgnc_symbol|JMJD1A|JMJD1A
+refseq_dna|NM_014663.2|NM_014663	mirbase_id|hsa-miR-23|hsa-miR-23	hgnc_symbol|JMJD2A|JMJD2A
+refseq_dna|NM_002228|NM_002228	mirbase_id|hsa-miR-200a|hsa-miR-200a	hgnc_symbol|JUN/AP1|JUN/AP1
+refseq_dna|NM_002755|NM_002755	mirbase_id|hsa-miR-199a|hsa-miR-199a	hgnc_symbol|MAP2K1|MAP2K1
+refseq_dna|NM_015093.2|NM_015093	mirbase_id|hsa-miR-199a|hsa-miR-199a	hgnc_symbol|MAP3K7IP2|MAP3K7IP2
+refseq_dna|NM_004992.3|NM_004992	mirbase_id|hsa-miR-30|hsa-miR-30	hgnc_symbol|MECP2|MECP2
+refseq_dna|NM_005933.2|NM_005933	mirbase_id|hsa-miR-101|hsa-miR-101	mirbase_id|hsa-miR-30|hsa-miR-30	hgnc_symbol|MLL|MLL
+refseq_dna|NM_003743.4|NM_003743	mirbase_id|hsa-miR-23|hsa-miR-23	hgnc_symbol|NCOA1 (SRC1)|NCOA1 (SRC1)
+refseq_dna|NM_006540|NM_006540	mirbase_id|hsa-miR-200b|hsa-miR-200b	mirbase_id|hsa-miR-199|hsa-miR-199	hgnc_symbol|NCOA2(GRIP1)|NCOA2(GRIP1)
+refseq_dna|NM_006312.3|NM_006312	mirbase_id|hsa-miR-30|hsa-miR-30	hgnc_symbol|NCOR2 (SMRT)|NCOR2 (SMRT)
+refseq_dna|NM_002505.4|NM_002505	mirbase_id|hsa-miR-200b|hsa-miR-200b	hgnc_symbol|NF-YA|NF-YA
+refseq_dna|NM_138714.2|NM_138714	mirbase_id|hsa-miR-146|hsa-miR-146	mirbase_id|hsa-miR-139|hsa-miR-139	mirbase_id|hsa-miR-30|hsa-miR-30	hgnc_symbol|NFAT5|NFAT5
+refseq_dna|NM_005417.3|NM_005417	mirbase_id|hsa-miR-23|hsa-miR-23	hgnc_symbol|NOCA1(SRC1)|NOCA1(SRC1)
+refseq_dna|NM_002583.2|NM_002583	mirbase_id|hsa-miR-30|hsa-miR-30	hgnc_symbol|PAWR|PAWR
+refseq_dna|NM_003884.4|NM_003884	mirbase_id|hsa-miR-200b|hsa-miR-200b	hgnc_symbol|PCAF|PCAF
+refseq_dna|NM_000945.3|NM_000945	mirbase_id|hsa-miR-101|hsa-miR-101	mirbase_id|hsa-miR-30|hsa-miR-30	hgnc_symbol|PPP3R1(Calcineurin B|PPP3R1(Calcineurin B	hgnc_symbol|type I)|type I)
+refseq_dna|NM_001198.3|NM_001198	mirbase_id|hsa-miR-200b|hsa-miR-200b	mirbase_id|miR23b|miR23b	mirbase_id|hsa-miR-30|hsa-miR-30	hgnc_symbol|PRDM1 (Blimp1)|PRDM1 (Blimp1)
+refseq_dna|NM_002737|NM_002737	mirbase_id|hsa-miR-200b|hsa-miR-200b	mirbase_id|hsa-miR-150|hsa-miR-150	hgnc_symbol|PRKCA|PRKCA
+refseq_dna|NM_005400|NM_005400	mirbase_id|hsa-miR-200a|hsa-miR-200a	mirbase_id|hsa-miR-101|hsa-miR-101	hgnc_symbol|PRKCE|PRKCE
+refseq_dna|NM_006908.4|NM_006908	mirbase_id|hsa-miR-199a|hsa-miR-199a	mirbase_id|hsa-miR-200|hsa-miR-200	hgnc_symbol|RAC1|RAC1
+refseq_dna|NM_006908.4|NM_006908	mirbase_id|hsa-miR-101|hsa-miR-101	mirbase_id|hsa-miR-30|hsa-miR-30	mirbase_id|hsa-miR-200a|hsa-miR-200a	mirbase_id|hsa-miR-146|hsa-miR-146	hgnc_symbol|RARB|RARB
+refseq_dna|NM_001664.2|NM_001664	mirbase_id|hsa-miR-200b|hsa-miR-200b	hgnc_symbol|RHOA|RHOA
+refseq_dna|NM_012238.4|NM_012238	mirbase_id|hsa-miR-30|hsa-miR-30	mirbase_id|hsa-miR-200a|hsa-miR-200a	mirbase_id|hsa-miR-199|hsa-miR-199	hgnc_symbol|SIRT1|SIRT1
+refseq_dna|NM_005900.2|NM_005900	mirbase_id|hsa-miR-30|hsa-miR-30	hgnc_symbol|SMAD1|SMAD1
+refseq_dna|NM_005902.3|NM_005902	mirbase_id|hsa-miR-23|hsa-miR-23	hgnc_symbol|SMAD3|SMAD3
+refseq_dna|NM_005359.5|NM_005359	mirbase_id|hsa-miR-146|hsa-miR-146	hgnc_symbol|SMAD4|SMAD4
+refseq_dna|NM_005904.2|NM_005904	mirbase_id|hsa-miR-99|hsa-miR-99	hgnc_symbol|SMAD7|SMAD7
+refseq_dna|NM_003069.3|NM_003069	mirbase_id|hsa-miR-101|hsa-miR-101	hgnc_symbol|SMARCA1|SMARCA1
+refseq_dna|NM_003070|NM_003070	mirbase_id|hsa-miR-199a|hsa-miR-199a	hgnc_symbol|SMARCA2 (BRM)|SMARCA2 (BRM)
+refseq_dna|NM_001128849|NM_001128849	mirbase_id|hsa-miR-199a hsa-miR-139|hsa-miR-199a hsa-miR-139	hgnc_symbol|SMARCA4 (BRG1)|SMARCA4 (BRG1)
+refseq_dna|NM_003601.2|NM_003601	mirbase_id|hsa-miR-99|hsa-miR-99	hgnc_symbol|SMARCA5 (ISWI)|SMARCA5 (ISWI)
+refseq_dna|NM_003075.3|NM_003075	mirbase_id|hsa-miR-150|hsa-miR-150	hgnc_symbol|SMARCC2|SMARCC2
+refseq_dna|NM_003076.4|NM_003076	mirbase_id|hsa-miR-150|hsa-miR-150	mirbase_id|hsa-miR-199|hsa-miR-199	hgnc_symbol|SMARCD1|SMARCD1
+refseq_dna|NM_001098426.1|NM_001098426	mirbase_id|hsa-miR-30|hsa-miR-30	hgnc_symbol|SMARCD2|SMARCD2
+refseq_dna|NM_022739.3|NM_022739	mirbase_id|hsa-miR-200b|hsa-miR-200b	hgnc_symbol|SMURF2|SMURF2
+refseq_dna|NM_003151.2|NM_003151	mirbase_id|hsa-miR-200a|hsa-miR-200a	hgnc_symbol|STAT4|STAT4
+refseq_dna|NM_003152.2|NM_003152	mirbase_id|hsa-miR-200a|hsa-miR-200a	hgnc_symbol|STAT5A|STAT5A
+refseq_dna|NM_012448.3|NM_012448	mirbase_id|hsa-miR-23|hsa-miR-23	hgnc_symbol|STAT5B|STAT5B
+refseq_dna|NM_003153.3|NM_003153	mirbase_id|hsa-miR-199a|hsa-miR-199a	hgnc_symbol|STAT6|STAT6
+refseq_dna|NM_004604.3|NM_004604	mirbase_id|hsa-miR-199|hsa-miR-199	hgnc_symbol|STX4|STX4
+refseq_dna|NM_004612.2|NM_004612	mirbase_id|hsa-miR-101|hsa-miR-101	hgnc_symbol|TGFBR1|TGFBR1
+refseq_dna|NM_003243.3|NM_003243	mirbase_id|hsa-miR-23|hsa-miR-23	hgnc_symbol|TGFBR3|TGFBR3
+refseq_dna|NM_170695.2|NM_170695	mirbase_id|hsa-miR-199a|hsa-miR-199a	mirbase_id|hsa-miR-23|hsa-miR-23	mirbase_id|hsa-miR-139|hsa-miR-139	hgnc_symbol|TGIF|TGIF
+refseq_dna|NM_004620.2|NM_004620	mirbase_id|hsa-miR-146|hsa-miR-146	hgnc_symbol|TRAF6|TRAF6

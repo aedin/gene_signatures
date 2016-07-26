@@ -1,0 +1,59 @@
+# Generate Mapping Tables Script: Version 4 11:05 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:05 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+entrezgene|6696|6696	protein_id|P10451|P10451	hgnc_symbol|SPP1|SPP1
+entrezgene|26585|26585	protein_id|O60565|O60565	hgnc_symbol|GREM1|GREM1
+entrezgene|1301|1301	protein_id|P12107|P12107	hgnc_symbol|COL11A1|COL11A1
+entrezgene|6423|6423	protein_id|Q96HF1|Q96HF1	hgnc_symbol|SFRP2|SFRP2
+entrezgene|1277|1277	protein_id|P02452|P02452	hgnc_symbol|COL1A1|COL1A1
+entrezgene|7058|7058	protein_id|P35442|P35442	hgnc_symbol|THBS2|THBS2
+entrezgene|4312|4312	protein_id|P03956|P03956	hgnc_symbol|MMP1|MMP1
+entrezgene|7070|7070	protein_id|P04216|P04216	hgnc_symbol|THY1|THY1
+entrezgene|10631|10631	protein_id|Q15063|Q15063	hgnc_symbol|POSTN|POSTN
+entrezgene|1281|1281	protein_id|P02461|P02461	hgnc_symbol|COL3A1|COL3A1
+entrezgene|112714|112714	protein_id|Q6PEY2|Q6PEY2	hgnc_symbol|TUBA3E|TUBA3E
+entrezgene|23213|23213	protein_id|Q8IWU6|Q8IWU6	hgnc_symbol|SULF1|SULF1
+entrezgene|22801|22801	protein_id|Q9UKX5|Q9UKX5	hgnc_symbol|ITGA11|ITGA11
+entrezgene|115908|115908	protein_id|Q96CG8|Q96CG8	hgnc_symbol|CTHRC1|CTHRC1
+entrezgene|28778|28778	protein_id|Q6PJ28|Q6PJ28	hgnc_symbol|IGLV6-57|IGLV6-57
+entrezgene|1469|1469	protein_id|P01037|P01037	hgnc_symbol|CST1|CST1
+entrezgene|3853|3853	protein_id|P02538|P02538	hgnc_symbol|KRT6A|KRT6A
+entrezgene|26872|26872	protein_id|Q9UHE8|Q9UHE8	hgnc_symbol|STEAP1|STEAP1
+entrezgene|8354|8354	protein_id|P68431|P68431	hgnc_symbol|HIST1H3I|HIST1H3I
+entrezgene|8368|8368	protein_id|P62805|P62805	hgnc_symbol|HIST1H4L|HIST1H4L
+entrezgene|100130492|100130492	protein_id|na|na	hgnc_symbol|LOC100130492|LOC100130492
+entrezgene|4321|4321	protein_id|P39900|P39900	hgnc_symbol|MMP12|MMP12
+entrezgene|1462|1462	protein_id|P13611|P13611	hgnc_symbol|VCAN|VCAN
+entrezgene|6424|6424	protein_id|Q6FHJ7|Q6FHJ7	hgnc_symbol|SFRP4|SFRP4
+entrezgene|3486|3486	protein_id|P17936|P17936	hgnc_symbol|IGFBP3|IGFBP3
+entrezgene|391192|391192	protein_id|Q8NG85|Q8NG85	hgnc_symbol|OR2L3|OR2L3
+entrezgene|25878|25878	protein_id|Q9NR99|Q9NR99	hgnc_symbol|MXRA5|MXRA5
+entrezgene|7345|7345	protein_id|P09936|P09936	hgnc_symbol|UCHL1|UCHL1
+entrezgene|8038|8038	protein_id|O43184|O43184	hgnc_symbol|ADAM12|ADAM12
+entrezgene|9547|9547	protein_id|O95715|O95715	hgnc_symbol|CXCL14|CXCL14
+entrezgene|254910|254910	protein_id|Q5TCM9|Q5TCM9	hgnc_symbol|LCE5A|LCE5A
+entrezgene|131578|131578	protein_id|Q8TF66|Q8TF66	hgnc_symbol|LRRC15|LRRC15
+entrezgene|4318|4318	protein_id|P14780|P14780	hgnc_symbol|MMP9|MMP9
+entrezgene|1278|1278	protein_id|P08123|P08123	hgnc_symbol|COL1A2|COL1A2
+entrezgene|53637|53637	protein_id|Q9H228|Q9H228	hgnc_symbol|S1PR5|S1PR5
+entrezgene|8339|8339	protein_id|P62807|P62807	hgnc_symbol|HIST1H2BG|HIST1H2BG
+entrezgene|5121|5121	protein_id|P48539|P48539	hgnc_symbol|PCP4|PCP4
+entrezgene|4323|4323	protein_id|P50281|P50281	hgnc_symbol|MMP14|MMP14
+entrezgene|2191|2191	protein_id|Q12884|Q12884	hgnc_symbol|FAP|FAP
+entrezgene|10563|10563	protein_id|O43927|O43927	hgnc_symbol|CXCL13|CXCL13
+entrezgene|390429|390429	protein_id|Q8NGD1|Q8NGD1	hgnc_symbol|OR4N2|OR4N2
+entrezgene|973|973	protein_id|P11912|P11912	hgnc_symbol|CD79A|CD79A
+entrezgene|6187|6187	protein_id|P15880|P15880	hgnc_symbol|RPS2|RPS2
+entrezgene|54516|54516	protein_id|Q9UGC7|Q9UGC7	hgnc_symbol|MTRF1L|MTRF1L
+entrezgene|54829|54829	protein_id|Q9BXN1|Q9BXN1	hgnc_symbol|ASPN|ASPN
+entrezgene|1311|1311	protein_id|P49747|P49747	hgnc_symbol|COMP|COMP
+entrezgene|127059|127059	protein_id|A3KFT3|A3KFT3	hgnc_symbol|OR2M5|OR2M5
+entrezgene|3802|3802	protein_id|P43626|P43626	hgnc_symbol|KIR2DL1|KIR2DL1
+entrezgene|6191|6191	protein_id|P62701|P62701	hgnc_symbol|RPS4X|RPS4X
+entrezgene|205564|205564	protein_id|Q96HI0|Q96HI0	hgnc_symbol|SENP5|SENP5
+entrezgene|991|991	protein_id|Q12834|Q12834	hgnc_symbol|CDC20|CDC20
+entrezgene|3535|3535	protein_id|Q6GMX3|Q6GMX3	hgnc_symbol|IGL@|IGL@
+entrezgene|8076|8076	protein_id|Q13361|Q13361	hgnc_symbol|MFAP5|MFAP5

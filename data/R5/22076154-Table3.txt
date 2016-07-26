@@ -1,0 +1,42 @@
+Cell line	No. of proteins/spot	Spot no.	Detected proteins	Gene name	Gene ID	Accession No.	MW (kDa)	No. of detected peptides	aa coverage (%)	Comments
+HB2	Two	1385	rho GDP-dissociation inhibitor 2	ARHGDIB	397	gi|56676393	23	4	27
+HB2	Two		ran-specific GTPase-activating protein	RANGAP1	5905	gi|542991	23	3	15
+HB2	Three	850	beta-tubulin	TUBB1	81027	gi|2119276	49	5	14	Replica (a)
+HB2	Three		protein TRK-fused gene	TFG	10342	gi|21361320	43	4	8
+HB2	Three		protein disulfide-isomerase	P4HB	5034	gi|20070125	57	25	46	Replica (b)
+HB2	Four	1044	F-actin-capping protein subunit alpha-1	CAPZA1	829	gi|5453597	33	7	36	Two subunits
+HB2	Four		F-actin-capping protein subunit alpha-2	CAPZA2	830	gi|5453599				were detected in replica (a)
+HB2	Four		eukaryotic translation initiation factor 3 subunit I	EIF3I	8668	gi|4503513	37	9	28	Replica (b)
+HB2	Four		zinc-alpha-2-glycoprotein	AZGP1	563	gi|4502337	34	3	7
+HB2	Four		annexin A2 isoform 2	ANXA2	302	gi|4757756	39	3	3
+MDA-MB231	One	1536	S-phase kinase-associated protein 1	SKP1	6500	gi|25777713	19	2	10
+MDA-MB231	One	1622	peroxiredoxin 5	PRDX5	25824	gi|6912238	22	4	21
+MDA-MB231	Two	953	T-complex protein 1 subunit zeta isoform a	CCT7	10574	gi|4502643	58	10	19	Two subunits
+MDA-MB231	Two		T-complex protein 1 subunit gamma isoform a	CCT3	7203	gi|63162572
+MDA-MB231	Two		stress-induced-phosphoprotein 1	STI1	10963	gi|5803181	6	6	12
+MDA-MB231	Two	1076	voltage-dependent anion channel 2	VDAC2	7417	gi|48146045	30	7	25
+MDA-MB231	Two		Calponin 2	CNN2	1265	gi|4758018	34	5	17
+MDA-MB231	Four	1293	tumor protein D54	TPD52L2	7165	gi|40805860	22	8	47	Replica (a)
+MDA-MB231	Four		rho GDP dissociation inhibitor (GDI)	ARHGDIA	396	gi|36038	23	6
+MDA-MB231	Four		Galectin-7	LGALS7	3963	gi|3891470	28	3
+MDA-MB231	Four		glutathione S-Transferase M2-3	GSTM2	2946	gi|5822511	26	5	21	Replica (b)
+MDA-MB231	Four	1486	manganese superoxide dismutase	SOD2	6648	gi|34707	25	5	12
+MDA-MB231	Four		phosphatidylethanolamine-binding protein 1	PEBP1	5037	gi|4505621	21	5	30
+MDA-MB231	Four		regulator of G-protein signaling 10	RGS10	6001	gi|18266777	20	4	12
+MDA-MB231	Four		transgelin-2	TAGLN2	8407	gi|4507357	22	3	10
+SKBR3	One	1121	RCN3 reticulocalbin 3	RCN3	57333	gi|28626510	7	37	21
+SKBR3	One	1219	retinoblastoma binding protein 7 (histone-binding protein RBBP7)	RBBP7	5931	gi|4506439	48	4	7
+SKBR3	One	1470	ribosomal protein L7	RPL7	6129	gi|35903	29	3	17
+SKBR3	One	1543	14-3-3 protein	YWHAQ	10971	gi|5803227	28	6	23	Four different
+SKBR3	One			YWHAB	7529	gi|4507949				isoforms were
+SKBR3	One			YWHAZ	7534	gi|4507953				detected and
+SKBR3	One			YWHAH	7533	gi|4507951				confirmed in
+SKBR3	One	1590	chromobox protein homolog 1	CBX1	10951	gi|5803076	21	2	10
+SKBR3	One	1633	glyoxalase-I	GLO1	2739	gi|5020074	21	5	22
+SKBR3	One	2162	canopy homolog 2 isoform 1 precursor	CNPY2	10330	gi|7657176	21	2	14
+SKBR3	Two	1727	GTP-binding protein SAR1a	SAR1A	56681	gi|9910542	22	3	17
+SKBR3	Two		proteasome subunit beta type-2	PSMB2	5690	gi|4506195	23	3	19
+SKBR3	Four	960	spliceosome RNA helicase BAT1	BAT1	7919	gi|4758112	49	13	32
+SKBR3	Four		26S proteasome non-ATPase regulatory subunit 5	PSMD5	5711	gi|4826952	56	7	15
+SKBR3	Four		beta-tubulin	TUBB1	81027	gi|2119276	49	5	14
+SKBR3	Four		protein disulfide-isomerase A6	PDIA6	10130	gi|5031973	48	5	15

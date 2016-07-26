@@ -1,0 +1,46 @@
+# Generate Mapping Tables Script: Version 4 11:06 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:06 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+unigene|Hs.1012|Hs.1012	hgnc_symbol|C4BPA|C4BPA
+unigene|Hs.313|Hs.313	hgnc_symbol|SPP1|SPP1
+unigene|Hs.522555|Hs.522555	hgnc_symbol|APOD|APOD
+unigene|Hs.126517|Hs.126517	hgnc_symbol|CD55|CD55
+unigene|Hs.155597|Hs.155597	hgnc_symbol|CFD|CFD
+unigene|Hs.647036|Hs.647036	hgnc_symbol|CLDN4|CLDN4
+unigene|Hs.40499|Hs.40499	hgnc_symbol|DKK1|DKK1
+unigene|Hs.519601|Hs.519601	hgnc_symbol|ID4|ID4
+unigene|Hs.654378|Hs.654378	hgnc_symbol|IL15|IL15
+unigene|Hs.186486|Hs.186486	hgnc_symbol|MAP3K5|MAP3K5
+unigene|Hs.511605|Hs.511605	hgnc_symbol|ANXA2|ANXA2
+unigene|Hs.422986|Hs.422986	hgnc_symbol|ANXA4|ANXA4
+unigene|Hs.524224|Hs.524224	hgnc_symbol|C1R|C1R
+unigene|Hs.80409|Hs.80409	hgnc_symbol|GADD45A|GADD45A
+unigene|Hs.386567|Hs.386567	hgnc_symbol|GBP2|GBP2
+unigene|Hs.183109|Hs.183109	hgnc_symbol|MAOA|MAOA
+unigene|Hs.532325|Hs.532325	hgnc_symbol|PAEP|PAEP
+unigene|Hs.384598|Hs.384598	hgnc_symbol|SERPING1|SERPING1
+unigene|Hs.1584|Hs.1584	hgnc_symbol|COMP|COMP
+unigene|Hs.558314|Hs.558314	hgnc_symbol|CP|CP
+unigene|Hs.368912|Hs.368912	hgnc_symbol|DPP4|DPP4
+unigene|Hs.446392|Hs.446392	hgnc_symbol|DYNLT3|DYNLT3
+unigene|Hs.198862|Hs.198862	hgnc_symbol|FBLN2|FBLN2
+unigene|Hs.433300|Hs.433300	hgnc_symbol|FCER1G|FCER1G
+unigene|Hs.432132|Hs.432132	hgnc_symbol|G0S2|G0S2
+unigene|Hs.2681|Hs.2681	hgnc_symbol|GAST|GAST
+unigene|Hs.616962|Hs.616962	hgnc_symbol|GDF15|GDF15
+unigene|Hs.105806|Hs.105806	hgnc_symbol|GNLY|GNLY
+unigene|Hs.386793|Hs.386793	hgnc_symbol|GPX3|GPX3
+unigene|Hs.497636|Hs.497636	hgnc_symbol|LAMB3|LAMB3
+unigene|Hs.433391|Hs.433391	hgnc_symbol|MT1G|MT1G
+unigene|Hs.262857|Hs.262857	hgnc_symbol|PRUNE2|PRUNE2
+unigene|Hs.50223|Hs.50223	hgnc_symbol|RBP4|RBP4
+unigene|Hs.654444|Hs.654444	hgnc_symbol|S100A4|S100A4
+unigene|Hs.2962|Hs.2962	hgnc_symbol|S100P|S100P
+unigene|Hs.517070|Hs.517070	hgnc_symbol|SLPI|SLPI
+unigene|Hs.517033|Hs.517033	hgnc_symbol|TGM2|TGM2
+unigene|Hs.525607|Hs.525607	hgnc_symbol|TNFAIP2|TNFAIP2
+unigene|Hs.695930|Hs.695930	hgnc_symbol|VCAN|VCAN
+unigene|Hs.2157|Hs.2157	hgnc_symbol|WAS|WAS

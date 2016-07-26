@@ -1,0 +1,30 @@
+# Generate Mapping Tables Script: Version 4 11:05 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:05 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+hgnc_symbol|HTR7|HTR7
+hgnc_symbol|NUDT6|NUDT6
+entrezgene|166535|23085	hgnc_symbol|HSF2|HSF2
+entrezgene|143528|23446	hgnc_symbol|TUBB1|TUBB1
+hgnc_symbol|TSR2|TSR2
+entrezgene|195022|3561	hgnc_symbol|TUSC3|TUSC3
+entrezgene|148565|6009	hgnc_symbol|NDUFB8|NDUFB8
+entrezgene|186773|84128	hgnc_symbol|PTGDS|PTGDS
+entrezgene|202455|10169	hgnc_symbol|PRDX1|PRDX1
+entrezgene|173923|10659	hgnc_symbol|FANK1|FANK1
+hgnc_symbol|PDSS2|PDSS2
+hgnc_symbol|BORA|BORA
+hgnc_symbol|UBE2B|UBE2B
+hgnc_symbol|RYK|RYK
+entrezgene|143111|2350	hgnc_symbol|GPT2|GPT2
+entrezgene|142438|10113	hgnc_symbol|POLDIP2|POLDIP2
+entrezgene|209540|3040	hgnc_symbol|ANXA2|ANXA2
+hgnc_symbol|BMP7|BMP7
+entrezgene|148029|10921	hgnc_symbol|NSDHL|NSDHL
+hgnc_symbol|BID|BID
+hgnc_symbol|GABRB1|GABRB1
+hgnc_symbol|SYT4|SYT4
+entrezgene|136701|6446	hgnc_symbol|MASP2|MASP2
+hgnc_symbol|STAT1|STAT1

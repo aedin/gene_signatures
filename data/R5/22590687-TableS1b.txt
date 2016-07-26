@@ -1,0 +1,553 @@
+Ensembl ID	Gene Name	Description	RefSeq ID	Fold Change	FDR
+ENSG00000174951	FUT1	Homo sapiens fucosyltransferase 1 (galactoside 2-alpha-L-fucosyltransferase) (FUT1), mRNA	NM_000148	23.4	102.992
+ENSG00000049249	TNFRSF9	Homo sapiens tumor necrosis factor receptor superfamily, member 9 (TNFRSF9), mRNA	NM_001561	6.7	26.709
+ENSG00000128591	FLNC	Homo sapiens filamin C, gamma (actin binding protein 280) (FLNC), mRNA	NM_001458	5.5	185.161
+ENSG00000130487	KLHDC7B	kelch domain containing 7		5.2	17.091
+ENSG00000184545	DUSP8	Homo sapiens dual specificity phosphatase 8 (DUSP8), mRNA	NM_004420	5.0	87.302
+ENSG00000136826	KLF4	Homo sapiens Kruppel-like factor 4 (gut) (KLF4), mRNA	NM_004235	4.8	68.623
+ENSG00000127415	IDUA	Homo sapiens iduronidase, alpha-L- (IDUA), mRNA	NM_000203	4.8	14.856
+ENSG00000139269	INHBE	Homo sapiens inhibin, beta E (INHBE), mRNA	NM_031479	4.6	2224.608
+ENSG00000128965	MGC4504	Homo sapiens hypothetical protein MGC4504 (MGC4504), mRNA	NM_024111	4.6	388.523
+ENSG00000162772	ATF3	Homo sapiens activating transcription factor 3 (ATF3), mRNA	NM_004024	4.5	695.605
+ENSG00000105499	PLA2G4C	Homo sapiens phospholipase A2, group IVC (cytosolic, calcium-independent) (PLA2G4C), mRNA	NM_003706	4.5	64.381
+ENSG00000197471	SPN	Leukosialin precursor (Leucocyte sialoglycoprotein) (Sialophorin) (CD43 antigen) (Galactoglycoprotein) (GALGP). [Source:Uniprot/SWISSPROT;Acc:P16150]	ENST00000360121	4.2	15.137
+ENSG00000203711	LOC389440	PREDICTED: Homo sapiens hypothetical LOC389440 (LOC389440), mRNA	XM_374188	4.0	17.643
+ENSG00000008516	MMPL1	Homo sapiens matrix metalloproteinase-like 1 (MMPL1), mRNA	NM_004142	3.9	13.100
+ENSG00000148677	ANKRD1	Homo sapiens ankyrin repeat domain 1 (cardiac muscle) (ANKRD1), mRNA	NM_014391	3.8	637.916
+ENSG00000128165	ADM2	Homo sapiens adrenomedullin 2 (ADM2), mRNA	NM_024866	3.5	182.829
+ENSG00000205595	AREG	Homo sapiens amphiregulin (schwannoma-derived growth factor) (AREG), mRNA	NM_001657	3.4	129.246
+ENSG00000172733	PURG	Homo sapiens purine-rich element binding protein G (PURG), mRNA	NM_013357	3.3	22.148
+ENSG00000130513	GDF15	Homo sapiens growth differentiation factor 15 (GDF15), mRNA	NM_004864	3.2	365.115
+ENSG00000127561	SYNGR3	Homo sapiens synaptogyrin 3 (SYNGR3), mRNA	NM_004209	3.1	18.461
+ENSG00000125740	FOSB	Homo sapiens FBJ murine osteosarcoma viral oncogene homolog B (FOSB), mRNA	NM_006732	3.1	15.905
+ENSG00000105327	BBC3	Homo sapiens BCL2 binding component 3 (BBC3), mRNA	NM_014417	3.0	135.857
+ENSG00000161583	TBC1D3	Homo sapiens TBC1 domain family, member 3 (TBC1D3), mRNA	NM_032258	3.0	13.344
+ENSG00000107731	UNC5B	Homo sapiens unc-5 homolog B (C. elegans) (UNC5B), mRNA	NM_170744	2.9	129.246
+ENSG00000149435	GGTLA4	Homo sapiens gamma-glutamyltransferase-like activity 4 (GGTLA4), transcript variant C, mRNA	NM_080920	2.8	15.010
+ENSG00000163734	CXCL3	Homo sapiens chemokine (C-X-C motif) ligand 3 (CXCL3), mRNA	NM_002090	2.8	15.010
+ENSG00000162241	LOC283130	Homo sapiens hypothetical protein LOC283130 (LOC283130), mRNA	NM_182556	2.8	18.397
+ENSG00000167861	C17orf28	Homo sapiens chromosome 17 open reading frame 28 (C17orf28), mRNA	NM_030630	2.8	85.729
+ENSG00000128346	C22orf23	Homo sapiens chromosome 22 open reading frame 23 (C22orf23), mRNA	NM_032561	2.8	19.290
+ENSG00000156510	FLJ22761	Homo sapiens hypothetical protein FLJ22761 (FLJ22761), mRNA	NM_025130	2.8	33.987
+ENSG00000127366	TAS2R5	Homo sapiens taste receptor, type 2, member 5 (TAS2R5), mRNA	NM_018980	2.7	21.053
+ENSG00000104856	RELB	Homo sapiens v-rel reticuloendotheliosis viral oncogene homolog B, nuclear factor of kappa light polypeptide gene enhancer in B-cells 3 (avian) (RELB), mRNA	NM_006509	2.7	73.673
+ENSG00000171462	EGFL9	Homo sapiens EGF-like-domain, multiple 9 (EGFL9), transcript variant 2, mRNA	NM_206539	2.6	20.342
+ENSG00000185950	IRS2	Homo sapiens insulin receptor substrate 2 (IRS2), mRNA	NM_003749	2.6	47.509
+ENSG00000178607	ERN1	Homo sapiens endoplasmic reticulum to nucleus signalling 1 (ERN1), transcript variant 2, mRNA	NM_152461	2.6	135.332
+ENSG00000178607	ERN1	Homo sapiens endoplasmic reticulum to nucleus signalling 1 (ERN1), transcript variant 1, mRNA	NM_001433	2.6	135.332
+ENSG00000198517	MAFK	Homo sapiens cDNA FLJ32205 fis, clone PLACE6003094.	AK056767	2.6	270.745
+ENSG00000198517	MAFK	Homo sapiens v-maf musculoaponeurotic fibrosarcoma oncogene homolog K (avian) (MAFK), mRNA	NM_002360	2.6	270.745
+ENSG00000099625	C19orf26	Homo sapiens chromosome 19 open reading frame 26 (C19orf26), mRNA	NM_152769	2.5	19.690
+ENSG00000081052	COL4A4	Homo sapiens collagen, type IV, alpha 4 (COL4A4), mRNA	NM_000092	2.5	16.312
+ENSG00000179979	FLJ34443	Homo sapiens hypothetical protein FLJ34443 (FLJ34443), mRNA	NM_175918	2.4	17.246
+ENSG00000130766	SESN2	Homo sapiens sestrin 2 (SESN2), mRNA	NM_031459	2.4	374.066
+ENSG00000004777	SNX26	Homo sapiens sorting nexin 26 (SNX26), mRNA	NM_052948	2.4	18.143
+ENSG00000166341	DCHS1	Homo sapiens dachsous 1 (Drosophila) (DCHS1), mRNA	NM_003737	2.4	20.032
+ENSG00000171119	NRTN	Homo sapiens neurturin (NRTN), mRNA	NM_004558	2.4	13.038
+ENSG00000115844	DLX2	Homo sapiens distal-less homeo box 2 (DLX2), mRNA	NM_004405	2.4	13.038
+ENSG00000102890	ELMO3	Homo sapiens engulfment and cell motility 3 (ced-12 homolog, C. elegans) (ELMO3), mRNA	NM_024712	2.4	13.921
+ENSG00000112182	BACH2	Homo sapiens BTB and CNC homology 1, basic leucine zipper transcription factor 2 (BACH2), mRNA	NM_021813	2.4	50.039
+ENSG00000101255	TRIB3	Homo sapiens tribbles homolog 3 (Drosophila) (TRIB3), mRNA	NM_021158	2.4	811.820
+ENSG00000087076	DHRS10	Homo sapiens dehydrogenase/reductase (SDR family) member 10 (DHRS10), mRNA	NM_016246	2.4	71.211
+ENSG00000238110	ZNF598	Homo sapiens mRNA for FLJ00086 protein, partial cds.	AK024487	2.4	17.616
+ENSG00000106948	AKNA	Homo sapiens AT-hook transcription factor (AKNA), mRNA	NM_030767	2.3	219.355
+ENSG00000183779	FLJ14299	Homo sapiens hypothetical protein FLJ14299 (FLJ14299), mRNA	NM_025069	2.3	92.130
+ENSG00000173762	CD7	Homo sapiens CD7 antigen (p41) (CD7), mRNA	NM_006137	2.3	20.851
+ENSG00000149634	C20orf165	Homo sapiens chromosome 20 open reading frame 165 (C20orf165), mRNA	NM_080608	2.3	21.783
+ENSG00000145911	N4BP3	Homo sapiens cDNA FLJ45291 fis, clone BRHIP3002920.	AK127224	2.2	53.054
+ENSG00000048052	HDAC9	Homo sapiens histone deacetylase 9 (HDAC9), transcript variant 2, mRNA	NM_058177	2.2	100.355
+ENSG00000048052	HDAC9	Homo sapiens histone deacetylase 9 (HDAC9), transcript variant 1, mRNA	NM_058176	2.2	100.355
+ENSG00000197355	UAP1L1	Homo sapiens UDP-N-acteylglucosamine pyrophosphorylase 1-like 1 (UAP1L1), mRNA	NM_207309	2.2	146.083
+ENSG00000146592	CREB5	Homo sapiens cAMP responsive element binding protein 5 (CREB5), mRNA	NM_004904	2.2	95.507
+ENSG00000226287	DKFZp434N035	Homo sapiens hypothetical protein DKFZp434N035 (DKFZp434N035), mRNA	NM_032262	2.2	27.469
+ENSG00000187720	ENST00000261862	Homo sapiens cDNA FLJ27224 fis, clone SYN04819.	AK130734	2.2	23.719
+ENSG00000187720	FLJ13710	Homo sapiens hypothetical protein FLJ13710 (FLJ13710), mRNA	NM_024817	2.2	23.719
+ENSG00000160469	BRSK1	Homo sapiens BR serine/threonine kinase 1 (BRSK1), mRNA	NM_032430	2.2	22.768
+ENSG00000176046	P8	Homo sapiens p8 protein (candidate of metastasis 1) (P8), mRNA	NM_012385	2.2	150.098
+ENSG00000088881	KIAA1442	Homo sapiens mRNA for KIAA1442 protein, partial cds.	AB037863	2.2	31.760
+ENSG00000171223	JUNB	Homo sapiens jun B proto-oncogene (JUNB), mRNA	NM_002229	2.1	317.733
+ENSG00000158292	GPR153	Homo sapiens G protein-coupled receptor 153 (GPR153), mRNA	NM_207370	2.1	13.099
+ENSG00000087266	SH3BP2	Homo sapiens SH3-domain binding protein 2 (SH3BP2), mRNA	NM_003023	2.1	65.196
+ENSG00000120129	DUSP1	Homo sapiens dual specificity phosphatase 1 (DUSP1), mRNA	NM_004417	2.1	420.344
+ENSG00000177606	JUN	Homo sapiens v-jun sarcoma virus 17 oncogene homolog (avian) (JUN), mRNA	NM_002228	2.1	1182.310
+ENSG00000213402	PTPRCAP	Homo sapiens protein tyrosine phosphatase, receptor type, C-associated protein (PTPRCAP), mRNA	NM_005608	2.1	20.642
+ENSG00000189143	CLDN4	Homo sapiens claudin 4 (CLDN4), mRNA	NM_001305	2.1	24.948
+ENSG00000165914	TTC7B	Homo sapiens mRNA; cDNA DKFZp667H0525 (from clone DKFZp667H0525).	AL832848	2.1	24.948
+ENSG00000136383	ALPK3	Homo sapiens alpha-kinase 3 (ALPK3), mRNA	NM_020778	2.1	44.719
+ENSG00000180535	MIST1	Homo sapiens class II bHLH protein MIST1 (MIST1), mRNA	NM_177455	2.1	30.746
+ENSG00000065911	MTHFD2	Homo sapiens methylenetetrahydrofolate dehydrogenase (NADP+ dependent) 2, methenyltetrahydrofolate cyclohydrolase (MTHFD2), nuclear gene encoding mitochondrial protein, mRNA	NM_006636	2.0	704.856
+ENSG00000012211	LMO6	Homo sapiens LIM domain only 6 (LMO6), mRNA	NM_006150	2.0	37.533
+ENSG00000087085	ACHE	Homo sapiens acetylcholinesterase (YT blood group) (ACHE), transcript variant E4-E5, mRNA	NM_015831	2.0	16.038
+ENSG00000103260	METRN	Homo sapiens meteorin, glial cell differentiation regulator (METRN), mRNA	NM_024042	2.0	21.782
+ENSG00000140104	C14orf79	Homo sapiens chromosome 14 open reading frame 79 (C14orf79), mRNA	NM_174891	2.0	14.187
+ENSG00000168297	PXK	Homo sapiens cDNA FLJ16460 fis, clone BRCAN2018240.	AK131385	2.0	25.172
+ENSG00000172476	RAB40A	Homo sapiens RAB40A, member RAS oncogene family (RAB40A), mRNA	NM_080879	2.0	16.594
+ENSG00000113739	STC2	Homo sapiens stanniocalcin 2 (STC2), mRNA	NM_003714	2.0	752.297
+ENSG00000168209	DDIT4	Homo sapiens DNA-damage-inducible transcript 4 (DDIT4), mRNA	NM_019058	2.0	1215.419
+ENSG00000198598	MMP17	Homo sapiens matrix metalloproteinase 17 (membrane-inserted) (MMP17), mRNA	NM_016155	2.0	13.893
+ENSG00000105679	GAPDS	Homo sapiens glyceraldehyde-3-phosphate dehydrogenase, spermatogenic (GAPDS), mRNA	NM_014364	2.0	19.631
+ENSG00000090975	PITPNM2	Homo sapiens phosphatidylinositol transfer protein, membrane-associated 2 (PITPNM2), mRNA	NM_020845	2.0	31.264
+ENSG00000166173	FLJ11196	Homo sapiens acheron (FLJ11196), transcript variant 1, mRNA	NM_018357	2.0	109.287
+ENSG00000159842	ABR	Homo sapiens active BCR-related gene (ABR), transcript variant 1, mRNA	NM_021962	2.0	17.797
+ENSG00000175197	DDIT3	Homo sapiens DNA-damage-inducible transcript 3 (DDIT3), mRNA	NM_004083	2.0	299.180
+ENSG00000172216	CEBPB	Homo sapiens CCAAT/enhancer binding protein (C/EBP), beta (CEBPB), mRNA	NM_005194	2.0	308.468
+ENSG00000185022	MAFF	Homo sapiens v-maf musculoaponeurotic fibrosarcoma oncogene homolog F (avian) (MAFF), transcript variant 1, mRNA	NM_012323	2.0	159.496
+ENSG00000081041	CXCL2	Homo sapiens chemokine (C-X-C motif) ligand 2 (CXCL2), mRNA	NM_002089	2.0	14.492
+ENSG00000163393	SLC22A15	Homo sapiens solute carrier family 22 (organic cation transporter), member 15 (SLC22A15), mRNA	NM_018420	2.0	82.829
+ENSG00000012171	SEMA3B	Homo sapiens sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3B (SEMA3B), transcript variant 1, mRNA	NM_004636	1.9	40.493
+ENSG00000162482	AKR7A3	Homo sapiens aldo-keto reductase family 7, member A3 (aflatoxin aldehyde reductase) (AKR7A3), mRNA	NM_012067	1.9	28.179
+ENSG00000074181	NOTCH3	Homo sapiens Notch homolog 3 (Drosophila) (NOTCH3), mRNA	NM_000435	1.9	18.401
+ENSG00000063761	ADCK1	Homo sapiens aarF domain containing kinase 1 (ADCK1), mRNA	NM_020421	1.9	15.104
+ENSG00000103316	CRYM	Homo sapiens crystallin, mu (CRYM), mRNA	NM_001888	1.9	15.104
+ENSG00000130589	PRIC285	Homo sapiens peroxisomal proliferator-activated receptor A interacting complex 285 (PRIC285), mRNA	NM_033405	1.9	73.793
+ENSG00000087074	PPP1R15A	Homo sapiens protein phosphatase 1, regulatory (inhibitor) subunit 15A (PPP1R15A), mRNA	NM_014330	1.9	475.813
+ENSG00000188290	HES4	Homo sapiens hairy and enhancer of split 4 (Drosophila) (HES4), mRNA	NM_021170	1.9	86.680
+ENSG00000070669	ASNS	Homo sapiens asparagine synthetase (ASNS), transcript variant 2, mRNA	NM_001673	1.9	435.482
+ENSG00000116396	KCNC4	Homo sapiens potassium voltage-gated channel, Shaw-related subfamily, member 4 (KCNC4), transcript variant 2, mRNA	NM_153763	1.9	13.947
+ENSG00000105281	SLC1A5	Homo sapiens solute carrier family 1 (neutral amino acid transporter), member 5 (SLC1A5), mRNA	NM_005628	1.9	917.355
+ENSG00000159556	ISL2	Homo sapiens ISL2 transcription factor, LIM/homeodomain, (islet-2) (ISL2), mRNA	NM_145805	1.9	53.266
+ENSG00000121413	FLJ12895	Homo sapiens hypothetical protein FLJ12895 (FLJ12895), mRNA	NM_023926	1.9	40.997
+ENSG00000127564	PKMYT1	Homo sapiens protein kinase, membrane associated tyrosine/threonine 1 (PKMYT1), transcript variant 2, mRNA	NM_182687	1.9	23.744
+ENSG00000129932	MGC4293	Homo sapiens hypothetical protein MGC4293 (MGC4293), mRNA	NM_031304	1.9	412.899
+ENSG00000050820	BCAR1	Homo sapiens breast cancer anti-estrogen resistance 1 (BCAR1), mRNA	NM_014567	1.9	131.099
+ENSG00000221869	CEBPD	Homo sapiens CCAAT/enhancer binding protein (C/EBP), delta (CEBPD), mRNA	NM_005195	1.9	205.651
+ENSG00000161914	ZNF653	Homo sapiens zinc finger protein 653 (ZNF653), mRNA	NM_138783	1.9	35.848
+ENSG00000123358	NR4A1	Homo sapiens nuclear receptor subfamily 4, group A, member 1 (NR4A1), transcript variant 1, mRNA	NM_002135	1.9	28.100
+ENSG00000130529	TRPM4	Homo sapiens transient receptor potential cation channel, subfamily M, member 4 (TRPM4), mRNA	NM_017636	1.9	17.373
+ENSG00000176490	DIRAS1	Homo sapiens DIRAS family, GTP-binding RAS-like 1 (DIRAS1), mRNA	NM_145173	1.9	44.281
+ENSG00000198355	PIM3	Homo sapiens pim-3 oncogene (PIM3), mRNA	NM_001001852	1.9	252.102
+ENSG00000168003	SLC3A2	Homo sapiens solute carrier family 3 (activators of dibasic and neutral amino acid transport), member 2 (SLC3A2), mRNA	NM_002394	1.9	1487.371
+ENSG00000121653	MAPK8IP1	Homo sapiens mitogen-activated protein kinase 8 interacting protein 1 (MAPK8IP1), mRNA	NM_005456	1.8	21.056
+ENSG00000138670	RASGEF1B	Homo sapiens RasGEF domain family, member 1B (RASGEF1B), mRNA	NM_152545	1.8	17.984
+ENSG00000120875	DUSP4	Homo sapiens dual specificity phosphatase 4 (DUSP4), transcript variant 1, mRNA	NM_001394	1.8	27.853
+ENSG00000157765	SLC34A2	Homo sapiens cDNA FLJ90534 fis, clone OVARC1000003, highly similar to Homo sapiens sodium dependent phosphate transporter isoform NaPi-3b mRNA.	AK075015	1.8	14.977
+ENSG00000157765	SLC34A2	Homo sapiens solute carrier family 34 (sodium phosphate), member 2 (SLC34A2), mRNA	NM_006424	1.8	14.977
+ENSG00000204525	HLA-B	Homo sapiens major histocompatibility complex, class I, B (HLA-B), mRNA	NM_005514	1.8	56.178
+ENSG00000204525	HLA-C	Human (clone pC68) MHC class I HLA-Cx52 mRNA, 3 end cds.	M21963	1.8	56.178
+ENSG00000204525	HLA-C	Homo sapiens MHC class I antigen HLA-C mRNA (HLA-Cw-1603 allele), complete cds.	U41420	1.8	56.178
+ENSG00000130734	APG4D	Homo sapiens APG4 autophagy 4 homolog D (S. cerevisiae) (APG4D), mRNA	NM_032885	1.8	33.143
+ENSG00000149798	CDC42EP2	Homo sapiens CDC42 effector protein (Rho GTPase binding) 2 (CDC42EP2), mRNA	NM_006779	1.8	21.702
+ENSG00000099889	ARVCF	Homo sapiens armadillo repeat gene deletes in velocardiofacial syndrome (ARVCF), mRNA	NM_001670	1.8	62.230
+ENSG00000135842	C1orf24	Homo sapiens chromosome 1 open reading frame 24 (C1orf24), mRNA	NM_052966	1.8	30.715
+ENSG00000008710	PKD1	Homo sapiens polycystic kidney disease 1 (autosomal dominant) (PKD1), transcript variant 2, mRNA	NM_000296	1.8	87.073
+ENSG00000111087	GLI1	Homo sapiens glioma-associated oncogene homolog 1 (zinc finger protein) (GLI1), mRNA	NM_005269	1.8	16.263
+ENSG00000139725	RHOF	Homo sapiens ras homolog gene family, member F (in filopodia) (RHOF), mRNA	NM_019034	1.8	16.263
+ENSG00000167994	RAB3IL1	Homo sapiens RAB3A interacting protein (rabin3)-like 1 (RAB3IL1), mRNA	NM_013401	1.8	53.879
+ENSG00000179292	MGC33486	Homo sapiens hypothetical protein MGC33486 (MGC33486), mRNA	NM_153266	1.8	28.915
+ENSG00000115318	LOXL3	Homo sapiens lysyl oxidase-like 3 (LOXL3), mRNA	NM_032603	1.8	14.754
+ENSG00000151792	CTSO	Homo sapiens cathepsin O (CTSO), mRNA	NM_001334	1.8	32.683
+ENSG00000107282	APBA1	Homo sapiens amyloid beta (A4) precursor protein-binding, family A, member 1 (X11) (APBA1), mRNA	NM_001163	1.8	18.410
+ENSG00000127580	WDR24	Homo sapiens WD repeat domain 24 (WDR24), mRNA	NM_032259	1.8	22.123
+ENSG00000171282	KIAA1447	Homo sapiens cDNA: FLJ23058 fis, clone LNG03818.	AK026711	1.8	20.618
+ENSG00000069399	BCL3	Homo sapiens B-cell CLL/lymphoma 3 (BCL3), mRNA	NM_005178	1.8	28.044
+ENSG00000175827	DKFZp761E198	Homo sapiens hypothetical protein DKFZp761E198 (DKFZp761E198), mRNA	NM_138368	1.8	26.523
+ENSG00000147852	VLDLR	Homo sapiens very low density lipoprotein receptor (VLDLR), mRNA	NM_003383	1.8	37.757
+ENSG00000170604	IRF2BP1	Homo sapiens interferon regulatory factor 2 binding protein 1 (IRF2BP1), mRNA	NM_015649	1.8	156.240
+ENSG00000173566	FLJ22494	Homo sapiens hypothetical protein FLJ22494 (FLJ22494), mRNA	NM_024815	1.8	65.540
+ENSG00000179588	ZFPM1	Homo sapiens zinc finger protein, multitype 1 (ZFPM1), mRNA	NM_153813	1.8	29.378
+ENSG00000100889	PCK2	Homo sapiens phosphoenolpyruvate carboxykinase 2 (mitochondrial) (PCK2), mRNA	NM_004563	1.8	400.289
+ENSG00000130940	FLJ20321	Homo sapiens hypothetical protein FLJ20321 (FLJ20321), mRNA	NM_017766	1.8	37.533
+ENSG00000017621	FLJ21687	Homo sapiens PDZ domain containing, X chromosome (FLJ21687), mRNA	NM_024859	1.8	26.312
+ENSG00000163959	OSTalpha	Homo sapiens organic solute transporter alpha (OSTalpha), mRNA	NM_152672	1.8	18.868
+ENSG00000198797	KIAA1747	Homo sapiens hypothetical protein from clone 24828 (KIAA1747), mRNA	NM_021165	1.8	18.868
+ENSG00000130479	BPY2IP1	Homo sapiens BPY2 interacting protein 1 (BPY2IP1), mRNA	NM_018174	1.8	40.186
+ENSG00000164620	C5orf16	Homo sapiens chromosome 5 open reading frame 16 (C5orf16), mRNA	NM_173828	1.8	23.907
+ENSG00000161714	PLCD3	Homo sapiens phospholipase C, delta 3 (PLCD3), mRNA	NM_133373	1.8	13.698
+ENSG00000006555	FLJ20619	Homo sapiens hypothetical protein FLJ20619 (FLJ20619), mRNA	NM_017904	1.8	13.698
+ENSG00000064489	MEF2B	Homo sapiens MADS box transcription enhancer factor 2, polypeptide B (myocyte enhancer factor 2B) (MEF2B), mRNA	NM_005919	1.8	17.981
+ENSG00000146232	NFKBIE	Homo sapiens nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, epsilon (NFKBIE), mRNA	NM_004556	1.8	40.625
+ENSG00000172432	THC2054435	ALU1_HUMAN (P39188) Alu subfamily J sequence contamination warning entry, partial (13%)	THC2054435	1.8	300.449
+ENSG00000100139	MICAL-L1	Homo sapiens MICAL-like 1 (MICAL-L1), mRNA	NM_033386	1.8	58.608
+ENSG00000129911	KLF16	Homo sapiens Kruppel-like factor 16 (KLF16), mRNA	NM_031918	1.8	68.951
+ENSG00000133111	RFXAP	Homo sapiens regulatory factor X-associated protein (RFXAP), mRNA	NM_000538	1.8	30.062
+ENSG00000160323	ADAMTS13	Homo sapiens a disintegrin-like and metalloprotease (reprolysin type) with thrombospondin type 1 motif, 13 (ADAMTS13), transcript variant 1, mRNA	NM_139025	1.8	15.653
+ENSG00000180914	OXTR	Homo sapiens oxytocin receptor (OXTR), mRNA	NM_000916	1.8	13.511
+ENSG00000198113	FLJ20245	Homo sapiens hypothetical protein FLJ20245 (FLJ20245), mRNA	NM_017723	1.8	99.524
+ENSG00000145214	DGKQ	Homo sapiens diacylglycerol kinase, theta 110kDa (DGKQ), mRNA	NM_001347	1.8	42.228
+ENSG00000181588	RKHD1	Homo sapiens ring finger and KH domain containing 1 (RKHD1), mRNA	NM_203304	1.8	254.166
+ENSG00000142444	LOC90580	Homo sapiens hypothetical protein BC011833 (LOC90580), mRNA	NM_138358	1.8	43.422
+ENSG00000116584	ARHGEF2	Homo sapiens rho/rac guanine nucleotide exchange factor (GEF) 2 (ARHGEF2), mRNA	NM_004723	1.8	464.214
+ENSG00000107338	SHB	Homo sapiens SHB (Src homology 2 domain containing) adaptor protein B (SHB), mRNA	NM_003028	1.7	84.193
+ENSG00000183840	GPR39	Homo sapiens G protein-coupled receptor 39 (GPR39), mRNA	NM_001508	1.7	18.062
+ENSG00000142544	LOC90353	Homo sapiens LOC90353 (LOC90353), mRNA	NM_145232	1.7	25.787
+ENSG00000142798	HSPG2	Homo sapiens heparan sulfate proteoglycan 2 (perlecan) (HSPG2), mRNA	NM_005529	1.7	72.130
+ENSG00000049323	LTBP1	Homo sapiens latent transforming growth factor beta binding protein 1 (LTBP1), transcript variant 2, mRNA	NM_000627	1.7	22.920
+ENSG00000006327	TNFRSF12A	Homo sapiens tumor necrosis factor receptor superfamily, member 12A (TNFRSF12A), mRNA	NM_016639	1.7	100.770
+ENSG00000067082	KLF6	Homo sapiens Kruppel-like factor 6 (KLF6), transcript variant 2, mRNA	NM_001300	1.7	171.591
+ENSG00000011590	TZFP	Homo sapiens testis zinc finger protein (TZFP), mRNA	NM_014383	1.7	13.794
+ENSG00000116852	KIF21B	Homo sapiens mRNA for KIAA0449 protein, partial cds.	AB007918	1.7	67.096
+ENSG00000173641	HSPB7	Homo sapiens heat shock 27kDa protein family, member 7 (cardiovascular) (HSPB7), mRNA	NM_014424	1.7	20.578
+ENSG00000128645	HOXD1	Homo sapiens homeo box D1 (HOXD1), mRNA	NM_024501	1.7	16.408
+ENSG00000213445	SIPA1	Homo sapiens signal-induced proliferation-associated gene 1 (SIPA1), transcript variant 1, mRNA	NM_153253	1.7	48.525
+ENSG00000107829	SHFM3	Homo sapiens split hand/foot malformation (ectrodactyly) type 3 (SHFM3), mRNA	NM_022039	1.7	78.155
+ENSG00000133624	FLJ12700	Homo sapiens hypothetical protein FLJ12700 (FLJ12700), mRNA	NM_024910	1.7	33.636
+ENSG00000105388	CEACAM5	Homo sapiens carcinoembryonic antigen-related cell adhesion molecule 5 (CEACAM5), mRNA	NM_004363	1.7	19.073
+ENSG00000169100	SLC25A6	Homo sapiens solute carrier family 25 (mitochondrial carrier; adenine nucleotide translocator), member 6 (SLC25A6), mRNA	NM_001636	1.7	894.877
+ENSG00000129968	C19orf27	Homo sapiens chromosome 19 open reading frame 27 (C19orf27), mRNA	NM_031213	1.7	93.253
+ENSG00000020577	SAMD4	Homo sapiens sterile alpha motif domain containing 4 (SAMD4), mRNA	NM_015589	1.7	21.056
+ENSG00000197063	MAFG	Homo sapiens v-maf musculoaponeurotic fibrosarcoma oncogene homolog G (avian) (MAFG), transcript variant 1, mRNA	NM_002359	1.7	245.976
+ENSG00000197063	MAFG	Homo sapiens v-maf musculoaponeurotic fibrosarcoma oncogene homolog G (avian) (MAFG), transcript variant 2, mRNA	NM_032711	1.7	245.976
+ENSG00000197530	ZZANK1	Homo sapiens zinc finger, ZZ type with ankyrin repeat domain 1 (ZZANK1), mRNA	NM_080875	1.7	97.015
+ENSG00000105722	ERF	Homo sapiens Ets2 repressor factor (ERF), mRNA	NM_006494	1.7	591.605
+ENSG00000032444	NTE	Homo sapiens neuropathy target esterase (NTE), mRNA	NM_006702	1.7	85.701
+ENSG00000075275	CELSR1	Homo sapiens cadherin, EGF LAG seven-pass G-type receptor 1 (flamingo homolog, Drosophila) (CELSR1), mRNA	NM_014246	1.7	72.027
+ENSG00000104881	PPP1R13L	Homo sapiens protein phosphatase 1, regulatory (inhibitor) subunit 13 like (PPP1R13L), mRNA	NM_006663	1.7	16.114
+ENSG00000177340	FLJ13224	Homo sapiens cDNA FLJ13224 fis, clone OVARC1000008.	AK023286	1.7	16.745
+ENSG00000196517	SLC6A9	Homo sapiens solute carrier family 6 (neurotransmitter transporter, glycine), member 9 (SLC6A9), transcript variant 1, mRNA	NM_006934	1.7	36.497
+ENSG00000167995	VMD2	Homo sapiens vitelliform macular dystrophy (Best disease, bestrophin) (VMD2), mRNA	NM_004183	1.7	17.419
+ENSG00000163993	S100P	Homo sapiens S100 calcium binding protein P (S100P), mRNA	NM_005980	1.7	360.904
+ENSG00000164949	GEM	Homo sapiens GTP binding protein overexpressed in skeletal muscle (GEM), transcript variant 1, mRNA	NM_005261	1.7	19.411
+ENSG00000142102	FLJ22635	Homo sapiens hypothetical protein FLJ22635 (FLJ22635), mRNA	NM_025092	1.7	22.752
+ENSG00000132024	FLJ20241	Homo sapiens putative NFkB activating protein (FLJ20241), mRNA	NM_017721	1.7	26.776
+ENSG00000135439	CENTG1	Homo sapiens centaurin, gamma 1 (CENTG1), mRNA	NM_014770	1.7	13.328
+ENSG00000177548	RABEP2	Homo sapiens rabaptin, RAB GTPase binding effector protein 2 (RABEP2), mRNA	NM_024816	1.7	33.483
+ENSG00000217539	IQCB1	Homo sapiens IQ motif containing B1 (IQCB1), mRNA	NM_014642	1.7	14.629
+ENSG00000173264	C11ORF4	Homo sapiens chromosome 11 hypothetical protein ORF4 (C11ORF4), mRNA	NM_020155	1.7	15.288
+ENSG00000090674	MCOLN1	Homo sapiens mucolipin 1 (MCOLN1), mRNA	NM_020533	1.7	59.194
+ENSG00000158792	MGC26885	Homo sapiens hypothetical protein MGC26885 (MGC26885), mRNA	NM_152339	1.7	67.980
+ENSG00000128228	SDF2L1	Homo sapiens stromal cell-derived factor 2-like 1 (SDF2L1), mRNA	NM_022044	1.7	149.137
+ENSG00000114251	WNT5A	Homo sapiens wingless-type MMTV integration site family, member 5A (WNT5A), mRNA	NM_003392	1.7	19.105
+ENSG00000164849	GPR146	Homo sapiens G protein-coupled receptor 146 (GPR146), mRNA	NM_138445	1.7	17.766
+ENSG00000130758	MAP3K10	Homo sapiens mitogen-activated protein kinase kinase kinase 10 (MAP3K10), mRNA	NM_002446	1.7	17.766
+ENSG00000090534	THPO	Homo sapiens thrombopoietin (myeloproliferative leukemia virus oncogene ligand, megakaryocyte growth and development factor) (THPO), transcript variant 1, mRNA	NM_000460	1.7	15.808
+ENSG00000171443	ZNF524	Homo sapiens zinc finger protein 524 (ZNF524), mRNA	NM_153219	1.7	15.135
+ENSG00000123989	CHPF	Homo sapiens chondroitin polymerizing factor (CHPF), mRNA	NM_024536	1.7	76.191
+ENSG00000110697	PITPNM1	Homo sapiens phosphatidylinositol transfer protein, membrane-associated 1 (PITPNM1), mRNA	NM_004910	1.7	598.450
+ENSG00000135596	NICAL	Homo sapiens NEDD9 interacting protein with calponin homology and LIM domains (NICAL), mRNA	NM_022765	1.7	50.314
+ENSG00000105245	NUMBL	Homo sapiens numb homolog (Drosophila)-like (NUMBL), mRNA	NM_004756	1.7	14.328
+ENSG00000083838	FLJ20626	Homo sapiens hypothetical protein FLJ20626 (FLJ20626), mRNA	NM_017908	1.7	21.462
+ENSG00000051108	HERPUD1	Homo sapiens homocysteine-inducible, endoplasmic reticulum stress-inducible, ubiquitin-like domain member 1 (HERPUD1), transcript variant 1, mRNA	NM_014685	1.7	211.709
+ENSG00000184489	PTP4A3	Homo sapiens protein tyrosine phosphatase type IVA, member 3 (PTP4A3), transcript variant 1, mRNA	NM_032611	1.7	17.491
+ENSG00000077150	NFKB2	Homo sapiens nuclear factor of kappa light polypeptide gene enhancer in B-cells 2 (p49/p100) (NFKB2), mRNA	NM_002502	1.7	75.989
+ENSG00000167962	ZNF598	Homo sapiens zinc finger protein 598 (ZNF598), mRNA	NM_178167	1.7	65.917
+ENSG00000168993	CPLX1	Homo sapiens complexin 1 (CPLX1), mRNA	NM_006651	1.6	14.187
+ENSG00000175602	DIPA	Homo sapiens hepatitis delta antigen-interacting protein A (DIPA), mRNA	NM_006848	1.6	34.461
+ENSG00000103326	SOLH	Homo sapiens small optic lobes homolog (Drosophila) (SOLH), mRNA	NM_005632	1.6	79.634
+ENSG00000188157	AGRN	Homo sapiens agrin (AGRN), mRNA	NM_198576	1.6	126.006
+ENSG00000185803	GPR172A	Homo sapiens G protein-coupled receptor 172A (GPR172A), mRNA	NM_024531	1.6	47.554
+ENSG00000142627	EPHA2	Homo sapiens EPH receptor A2 (EPHA2), mRNA	NM_004431	1.6	245.193
+ENSG00000108509	CAMTA2	Homo sapiens calmodulin binding transcription activator 2 (CAMTA2), mRNA	NM_015099	1.6	83.918
+ENSG00000125845	BMP2	Homo sapiens bone morphogenetic protein 2 (BMP2), mRNA	NM_001200	1.6	225.399
+ENSG00000173320	DKFZp762K222	Homo sapiens hypothetical protein DKFZp762K222 (DKFZp762K222), mRNA	NM_020225	1.6	34.855
+ENSG00000168056	LTBP3	Homo sapiens latent transforming growth factor beta binding protein 3 (LTBP3), mRNA	NM_021070	1.6	28.928
+ENSG00000130522	JUND	Homo sapiens jun D proto-oncogene (JUND), mRNA	NM_005354	1.6	456.527
+ENSG00000140320	BAHD1	Homo sapiens bromo adjacent homology domain containing 1 (BAHD1), mRNA	NM_014952	1.6	43.934
+ENSG00000166046	MGC40368	Homo sapiens hypothetical protein MGC40368 (MGC40368), mRNA	NM_152772	1.6	44.453
+ENSG00000165879	FRAT1	Homo sapiens frequently rearranged in advanced T-cell lymphomas (FRAT1), transcript variant 2, mRNA	NM_181355	1.6	170.463
+ENSG00000116871	FLJ10350	Homo sapiens hypothetical protein FLJ10350 (FLJ10350), mRNA	NM_018067	1.6	89.760
+ENSG00000171703	TCEA2	Homo sapiens transcription elongation factor A (SII), 2 (TCEA2), transcript variant 1, mRNA	NM_003195	1.6	19.083
+ENSG00000103426	CORO7	Homo sapiens coronin 7 (CORO7), mRNA	NM_024535	1.6	19.083
+ENSG00000140406	MESDC1	Homo sapiens mesoderm development candidate 1 (MESDC1), mRNA	NM_022566	1.6	122.959
+ENSG00000159674	SPON2	Homo sapiens spondin 2, extracellular matrix protein (SPON2), mRNA	NM_012445	1.6	75.794
+ENSG00000167371	LOC112476	Homo sapiens similar to lymphocyte antigen 6 complex, locus G5B; G5b protein; open reading frame 31 (LOC112476), mRNA	NM_145239	1.6	13.312
+ENSG00000166188	ZNF319	Homo sapiens zinc finger protein 319 (ZNF319), mRNA	NM_020807	1.6	16.427
+ENSG00000141582	CBX4	Homo sapiens chromobox homolog 4 (Pc class homolog, Drosophila) (CBX4), mRNA	NM_003655	1.6	280.818
+ENSG00000179528	LBX2	Homo sapiens lady bird-like homeobox 2 (Drosophila) (LBX2), mRNA	NM_001009812	1.6	23.356
+ENSG00000163704	ENST00000295984	Homo sapiens, clone IMAGE:5300209, mRNA.	BC040508	1.6	19.495
+ENSG00000005206	SPPL2B	Homo sapiens SPPL2b (SPPL2B), mRNA	NM_020172	1.6	32.847
+ENSG00000125089	SH3TC1	Homo sapiens SH3 domain and tetratricopeptide repeats 1 (SH3TC1), mRNA	NM_018986	1.6	57.947
+ENSG00000204872	CML2	Homo sapiens putative N-acetyltransferase Camello 2 (CML2), mRNA	NM_016347	1.6	18.829
+ENSG00000204872	NAT8	Homo sapiens N-acetyltransferase 8 (camello like) (NAT8), mRNA	NM_003960	1.6	18.829
+ENSG00000171992	SYNPO	Homo sapiens mRNA for KIAA1029 protein, partial cds.	AB028952	1.6	37.298
+ENSG00000171992	SYNPO	Homo sapiens cDNA FLJ33747 fis, clone BRCAN1000168.	AK091066	1.6	37.298
+ENSG00000108840	HDAC5	Homo sapiens histone deacetylase 5 (HDAC5), transcript variant 1, mRNA	NM_005474	1.6	192.187
+ENSG00000179965	LOC51333	Homo sapiens mesenchymal stem cell protein DSC43 (LOC51333), mRNA	NM_016643	1.6	25.779
+ENSG00000107821	KAZALD1	Homo sapiens Kazal-type serine protease inhibitor domain 1 (KAZALD1), mRNA	NM_030929	1.6	64.274
+ENSG00000167604	TA-NFKBH	Homo sapiens T-cell activation NFKB-like protein (TA-NFKBH), mRNA	NM_032721	1.6	15.010
+ENSG00000151012	SLC7A11	Homo sapiens solute carrier family 7, (cationic amino acid transporter, y+ system) member 11 (SLC7A11), mRNA	NM_014331	1.6	152.374
+ENSG00000070404	FSTL3	Homo sapiens follistatin-like 3 (secreted glycoprotein) (FSTL3), mRNA	NM_005860	1.6	236.121
+ENSG00000179431	FJX1	Homo sapiens four jointed box 1 (Drosophila) (FJX1), mRNA	NM_014344	1.6	49.350
+ENSG00000198637	RPL41	Homo sapiens ribosomal protein L41 (RPL41), mRNA	NM_021104	1.6	21.880
+ENSG00000185924	RTN4RL1	Homo sapiens reticulon 4 receptor-like 1 (RTN4RL1), mRNA	NM_178568	1.6	19.372
+ENSG00000145850	TIMD4	Homo sapiens T-cell immunoglobulin and mucin domain containing 4 (TIMD4), mRNA	NM_138379	1.6	16.206
+ENSG00000049283	EPN3	Homo sapiens epsin 3 (EPN3), mRNA	NM_017957	1.6	13.712
+ENSG00000103257	SLC7A5	Homo sapiens solute carrier family 7 (cationic amino acid transporter, y+ system), member 5 (SLC7A5), mRNA	NM_003486	1.6	155.507
+ENSG00000125826	C20orf18	Homo sapiens chromosome 20 open reading frame 18 (C20orf18), transcript variant 2, mRNA	NM_031229	1.6	96.033
+ENSG00000156381	ANKRD9	Homo sapiens ankyrin repeat domain 9 (ANKRD9), mRNA	NM_152326	1.6	26.205
+ENSG00000177192	PUS1	Homo sapiens pseudouridylate synthase 1 (PUS1), mRNA	NM_025215	1.6	157.158
+ENSG00000178209	PLEC1	Homo sapiens plectin 1, intermediate filament binding protein 500kDa (PLEC1), transcript variant 6, mRNA	NM_201380	1.6	147.396
+ENSG00000167685	ZNF444	Homo sapiens zinc finger protein 444 (ZNF444), mRNA	NM_018337	1.6	445.026
+ENSG00000187045	TMPRSS6	Homo sapiens transmembrane protease, serine 6 (TMPRSS6), mRNA	NM_153609	1.6	79.167
+ENSG00000187045	TMPRSS6	Homo sapiens transmembrane protease, serine 6, mRNA (cDNA clone MGC:35027 IMAGE:5164881), complete cds.	BC039082	1.6	79.167
+ENSG00000136010	ALDH1L2	Homo sapiens mRNA; cDNA DKFZp686A16126 (from clone DKFZp686A16126).	CR749561	1.6	23.663
+ENSG00000130313	PGLS	Homo sapiens 6-phosphogluconolactonase (PGLS), mRNA	NM_012088	1.6	79.700
+ENSG00000197766	DF	Homo sapiens D component of complement (adipsin) (DF), mRNA	NM_001928	1.6	24.876
+ENSG00000124508	BTN2A2	Homo sapiens butyrophilin, subfamily 2, member A2 (BTN2A2), transcript variant 2, mRNA	NM_181531	1.6	50.205
+ENSG00000137166	FOXP4	Homo sapiens forkhead box P4 (FOXP4), mRNA	NM_138457	1.6	45.081
+ENSG00000187266	EPOR	Homo sapiens erythropoietin receptor (EPOR), mRNA	NM_000121	1.6	26.090
+ENSG00000187266	EPOR	Homo sapiens mRNA for FLJ00153 protein.	AK074082	1.6	26.090
+ENSG00000177663	IL17R	Homo sapiens interleukin 17 receptor (IL17R), mRNA	NM_014339	1.6	45.621
+ENSG00000140854	KATNB1	Homo sapiens katanin p80 (WD repeat containing) subunit B 1 (KATNB1), mRNA	NM_005886	1.6	52.456
+ENSG00000196139	AKR1C3	Homo sapiens aldo-keto reductase family 1, member C3 (3-alpha hydroxysteroid dehydrogenase, type II) (AKR1C3), mRNA	NM_003739	1.6	21.000
+ENSG00000176058	C9orf75	Homo sapiens chromosome 9 open reading frame 75 (C9orf75), mRNA	NM_173691	1.6	61.333
+ENSG00000139289	PHLDA1	Homo sapiens pleckstrin homology-like domain, family A, member 1 (PHLDA1), mRNA	NM_007350	1.6	135.911
+ENSG00000160703	NOD9	Homo sapiens NOD9 protein (NOD9), transcript variant 2, mRNA	NM_170722	1.6	23.425
+ENSG00000143627	PKLR	Homo sapiens pyruvate kinase, liver and RBC (PKLR), nuclear gene encoding mitochondrial protein, transcript variant 1, mRNA	NM_000298	1.6	17.813
+ENSG00000166126	AMN	Homo sapiens amnionless homolog (mouse) (AMN), mRNA	NM_030943	1.6	35.237
+ENSG00000197562	RAB40C	Homo sapiens RAB40C, member RAS oncogene family (RAB40C), mRNA	NM_021168	1.6	29.597
+ENSG00000049449	RCN1	Homo sapiens reticulocalbin 1, EF-hand calcium binding domain (RCN1), mRNA	NM_002901	1.6	76.719
+ENSG00000136997	MYC	Homo sapiens v-myc myelocytomatosis viral oncogene homolog (avian) (MYC), mRNA	NM_002467	1.6	185.633
+ENSG00000165804	ZNF219	Homo sapiens zinc finger protein 219 (ZNF219), mRNA	NM_016423	1.6	50.173
+ENSG00000114349	GNAT1	Homo sapiens guanine nucleotide binding protein (G protein), alpha transducing activity polypeptide 1 (GNAT1), transcript variant 2, mRNA	NM_000172	1.6	14.676
+ENSG00000080031	PTPRH	Homo sapiens protein tyrosine phosphatase, receptor type, H (PTPRH), mRNA	NM_002842	1.6	60.185
+ENSG00000142611	PRDM16	Homo sapiens PR domain containing 16 (PRDM16), transcript variant 1, mRNA	NM_022114	1.6	19.575
+ENSG00000116691	FLJ12438	Homo sapiens hypothetical protein FLJ12438 (FLJ12438), mRNA	NM_021933	1.6	66.523
+ENSG00000060656	PTPRU	Homo sapiens protein tyrosine phosphatase, receptor type, U (PTPRU), transcript variant 2, mRNA	NM_133177	1.6	30.700
+ENSG00000104936	DMPK	Homo sapiens dystrophia myotonica-protein kinase (DMPK), mRNA	NM_004409	1.6	45.057
+ENSG00000159164	SV2A	Homo sapiens synaptic vesicle glycoprotein 2A (SV2A), mRNA	NM_014849	1.6	31.906
+ENSG00000178093	SSTK	Homo sapiens serine/threonine protein kinase SSTK (SSTK), mRNA	NM_032037	1.6	30.033
+ENSG00000185347	C14orf80	Homo sapiens chromosome 14 open reading frame 80 (C14orf80), mRNA	NM_173608	1.6	62.446
+ENSG00000105325	FZR1	Homo sapiens mRNA for Fzr1, complete cds.	AB013462	1.6	114.673
+ENSG00000105404	RABAC1	Homo sapiens Rab acceptor 1 (prenylated) (RABAC1), mRNA	NM_006423	1.6	150.841
+ENSG00000089351	KIAA1533	Homo sapiens KIAA1533 (KIAA1533), mRNA	NM_020895	1.6	110.151
+ENSG00000178038	ALS2CL	Homo sapiens ALS2 C-terminal like (ALS2CL), transcript variant 2, mRNA	NM_182774	1.6	31.696
+ENSG00000100726	KIAA0683	Homo sapiens KIAA0683 gene product (KIAA0683), mRNA	NM_016111	1.6	36.010
+ENSG00000102871	TRADD	Homo sapiens TNFRSF1A-associated via death domain (TRADD), transcript variant 2, mRNA	NM_153425	1.6	16.951
+ENSG00000184270	HIST2H2AB	Homo sapiens histone 2, H2ab (HIST2H2AB), mRNA	NM_175065	1.6	1446.081
+ENSG00000198830	HMGN2	Homo sapiens high-mobility group nucleosomal binding domain 2 (HMGN2), mRNA	NM_005517	1.6	199.051
+ENSG00000173210	ABLIM3	Homo sapiens actin binding LIM protein family, member 3 (ABLIM3), mRNA	NM_014945	1.6	24.212
+ENSG00000142733	MAP3K6	Homo sapiens mitogen-activated protein kinase kinase kinase 6 (MAP3K6), mRNA	NM_004672	1.6	19.915
+ENSG00000103335	FAM38A	Homo sapiens family with sequence similarity 38, member A (FAM38A), mRNA	NM_014745	1.6	105.721
+ENSG00000149091	DGKZ	Homo sapiens diacylglycerol kinase, zeta 104kDa (DGKZ), transcript variant 2, mRNA	NM_003646	1.6	51.278
+ENSG00000144655	AXUD1	Homo sapiens AXIN1 up-regulated 1 (AXUD1), mRNA	NM_033027	1.6	76.719
+ENSG00000101665	SMAD7	Homo sapiens SMAD, mothers against DPP homolog 7 (Drosophila) (SMAD7), mRNA	NM_005904	1.6	149.049
+ENSG00000136367	ZNF409	Homo sapiens mRNA for KIAA1056 protein, partial cds.	AB028979	1.6	15.011
+ENSG00000070444	MNT	Homo sapiens MAX binding protein (MNT), mRNA	NM_020310	1.6	17.404
+ENSG00000154803	FLCN	Homo sapiens folliculin (FLCN), transcript variant 2, mRNA	NM_144606	1.6	146.678
+ENSG00000168528	TDE2L	Homo sapiens tumor differentially expressed 2-like (TDE2L), mRNA	NM_178865	1.6	38.041
+ENSG00000164932	CTHRC1	Homo sapiens collagen triple helix repeat containing 1 (CTHRC1), mRNA	NM_138455	1.6	16.744
+ENSG00000163703	CRELD1	Homo sapiens cysteine-rich with EGF-like domains 1 (CRELD1), mRNA	NM_015513	1.6	84.616
+ENSG00000172932	LOC338692	Homo sapiens hypothetical protein LOC338692 (LOC338692), mRNA	NM_207354	1.6	219.663
+ENSG00000141391	C18orf43	Homo sapiens chromosome 18 open reading frame 43 (C18orf43), mRNA	NM_006553	1.6	47.000
+ENSG00000137801	THBS1	Homo sapiens thrombospondin 1 (THBS1), mRNA	NM_003246	1.6	58.552
+ENSG00000014164	ZC3HDC3	Homo sapiens zinc finger CCCH type domain containing 3 (ZC3HDC3), mRNA	NM_015117	1.6	14.260
+ENSG00000167705	RILP	Homo sapiens Rab interacting lysosomal protein (RILP), mRNA	NM_031430	1.6	13.116
+ENSG00000167548	MLL2	Homo sapiens myeloid/lymphoid or mixed-lineage leukemia 2 (MLL2), mRNA	NM_003482	1.6	156.921
+ENSG00000152137	HSPB8	Homo sapiens heat shock 22kDa protein 8 (HSPB8), mRNA	NM_014365	1.6	16.028
+ENSG00000142409	LOC126208	Homo sapiens hypothetical protein LOC126208 (LOC126208), mRNA	NM_001002836	1.6	472.821
+ENSG00000040608	RTN4R	Homo sapiens reticulon 4 receptor (RTN4R), mRNA	NM_023004	1.6	14.812
+ENSG00000143554	SLC27A3	Homo sapiens solute carrier family 27 (fatty acid transporter), member 3 (SLC27A3), mRNA	NM_024330	1.6	23.136
+ENSG00000111319	SCNN1A	Homo sapiens sodium channel, nonvoltage-gated 1 alpha (SCNN1A), mRNA	NM_001038	1.6	16.553
+ENSG00000126903	SLC10A3	Homo sapiens solute carrier family 10 (sodium/bile acid cotransporter family), member 3 (SLC10A3), mRNA	NM_019848	1.6	26.135
+ENSG00000177732	SOX12	Homo sapiens SOX22 protein (SOX22) mRNA, complete cds.	U35612	1.5	115.307
+ENSG00000115902	SLC1A4	Homo sapiens solute carrier family 1 (glutamate/neutral amino acid transporter), member 4 (SLC1A4), mRNA	NM_003038	1.5	91.677
+ENSG00000186111	PIP5K1C	Homo sapiens phosphatidylinositol-4-phosphate 5-kinase, type I, gamma (PIP5K1C), mRNA	NM_012398	1.5	24.270
+ENSG00000109819	PPARGC1A	Homo sapiens peroxisome proliferative activated receptor, gamma, coactivator 1, alpha (PPARGC1A), mRNA	NM_013261	1.5	73.851
+ENSG00000153976	HS3ST3A1	Homo sapiens heparan sulfate (glucosamine) 3-O-sulfotransferase 3A1 (HS3ST3A1), mRNA	NM_006042	1.5	14.733
+ENSG00000121680	PEX16	Homo sapiens peroxisomal biogenesis factor 16 (PEX16), transcript variant 1, mRNA	NM_004813	1.5	35.555
+ENSG00000103495	MAZ	Homo sapiens MYC-associated zinc finger protein (purine-binding transcription factor), mRNA (cDNA clone MGC:52386 IMAGE:4309842), complete cds.	BC041629	1.5	406.525
+ENSG00000103495	MAZ	Homo sapiens MYC-associated zinc finger protein (purine-binding transcription factor) (MAZ), mRNA	NM_002383	1.5	406.525
+ENSG00000164379	FOXQ1	Homo sapiens forkhead box Q1 (FOXQ1), mRNA	NM_033260	1.5	94.060
+ENSG00000188687	SLC4A5	Homo sapiens solute carrier family 4, sodium bicarbonate cotransporter, member 5 (SLC4A5), transcript variant a, mRNA	NM_021196	1.5	22.859
+ENSG00000128283	CDC42EP1	Homo sapiens CDC42 effector protein (Rho GTPase binding) 1 (CDC42EP1), transcript variant 1, mRNA	NM_152243	1.5	174.849
+ENSG00000163501	IHH	Homo sapiens Indian hedgehog homolog (Drosophila), mRNA (cDNA clone IMAGE:5182642), partial cds.	BC034757	1.5	23.425
+ENSG00000099882	SHANK3	Homo sapiens mRNA for KIAA1650 protein, partial cds.	AB051437	1.5	32.285
+ENSG00000154370	TRIM11	Homo sapiens tripartite motif-containing 11 (TRIM11), mRNA	NM_145214	1.5	66.353
+ENSG00000204335	SP5	Homo sapiens Sp5 transcription factor (SP5), mRNA	NM_001003845	1.5	16.288
+ENSG00000012817	SMCY	Homo sapiens Smcy homolog, Y-linked (mouse) (SMCY), mRNA	NM_004653	1.5	16.288
+ENSG00000184371	CSF1	Homo sapiens colony stimulating factor 1 (macrophage) (CSF1), transcript variant 4, mRNA	NM_172212	1.5	23.334
+ENSG00000184371	CSF1	Homo sapiens colony stimulating factor 1 (macrophage) (CSF1), transcript variant 2, mRNA	NM_172210	1.5	23.334
+ENSG00000130203	APOE	Homo sapiens apolipoprotein E (APOE), mRNA	NM_000041	1.5	2841.249
+ENSG00000139514	SLC7A1	Homo sapiens solute carrier family 7 (cationic amino acid transporter, y+ system), member 1 (SLC7A1), mRNA	NM_003045	1.5	46.405
+ENSG00000185024	BRF1	Homo sapiens BRF1 homolog, subunit of RNA polymerase III transcription initiation factor IIIB (S. cerevisiae) (BRF1), transcript variant 3, mRNA	NM_145685	1.5	30.308
+ENSG00000160233	LRRC3	Homo sapiens leucine rich repeat containing 3 (LRRC3), mRNA	NM_030891	1.5	15.664
+ENSG00000182325	FBXL6	Homo sapiens F-box and leucine-rich repeat protein 6 (FBXL6), transcript variant 1, mRNA	NM_012162	1.5	13.921
+ENSG00000123908	EIF2C2	Homo sapiens eukaryotic translation initiation factor 2C, 2 (EIF2C2), mRNA	NM_012154	1.5	42.737
+ENSG00000112337	SLC17A2	Homo sapiens solute carrier family 17 (sodium phosphate), member 2 (SLC17A2), mRNA	NM_005835	1.5	19.709
+ENSG00000013364	MVP	Homo sapiens major vault protein (MVP), transcript variant 1, mRNA	NM_017458	1.5	17.937
+ENSG00000108786	HSD17B1	Homo sapiens hydroxysteroid (17-beta) dehydrogenase 1 (HSD17B1), mRNA	NM_000413	1.5	52.076
+ENSG00000214668	SLC29A4	Homo sapiens solute carrier family 29 (nucleoside transporters), member 4 (SLC29A4), mRNA	NM_153247	1.5	18.496
+ENSG00000118046	STK11	Homo sapiens serine/threonine kinase 11 (Peutz-Jeghers syndrome) (STK11), mRNA	NM_000455	1.5	285.604
+ENSG00000184557	SOCS3	Homo sapiens suppressor of cytokine signaling 3 (SOCS3), mRNA	NM_003955	1.5	47.907
+ENSG00000181218	HIST3H2A	Homo sapiens histone 3, H2a (HIST3H2A), mRNA	NM_033445	1.5	258.960
+ENSG00000196976	DXS9879E	Homo sapiens DNA segment on chromosome X (unique) 9879 expressed sequence (DXS9879E), mRNA	NM_006014	1.5	38.402
+ENSG00000177045	SIX5	Homo sapiens sine oculis homeobox homolog 5 (Drosophila) (SIX5), mRNA	NM_175875	1.5	43.706
+ENSG00000112039	FANCE	Homo sapiens Fanconi anemia, complementation group E (FANCE), mRNA	NM_021922	1.5	20.191
+ENSG00000142655	PEX14	Homo sapiens peroxisomal biogenesis factor 14 (PEX14), mRNA	NM_004565	1.5	45.394
+ENSG00000099330	FLJ22709	Homo sapiens hypothetical protein FLJ22709 (FLJ22709), mRNA	NM_024578	1.5	14.379
+ENSG00000117984	CTSD	Homo sapiens cathepsin D (lysosomal aspartyl protease) (CTSD), mRNA	NM_001909	1.5	263.564
+ENSG00000117984	CTSD	Homo sapiens cDNA FLJ12231 fis, clone MAMMA1001191.	AK022293	1.5	263.564
+ENSG00000173153	ESRRA	Homo sapiens estrogen-related receptor alpha (ESRRA), mRNA	NM_004451	1.5	100.565
+ENSG00000180900	SCRIB	Homo sapiens scribbled homolog (Drosophila) (SCRIB), transcript variant 1, mRNA	NM_182706	1.5	51.150
+ENSG00000180900	SCRIB	Homo sapiens scribbled homolog (Drosophila) (SCRIB), transcript variant 2, mRNA	NM_015356	1.5	51.150
+ENSG00000104142	VPS18	Homo sapiens vacuolar protein sorting protein 18 (VPS18), mRNA	NM_020857	1.5	107.709
+ENSG00000196428	KIAA0669	Homo sapiens KIAA0669 gene product (KIAA0669), mRNA	NM_014779	1.5	86.026
+ENSG00000122515	DKFZp761I2123	Homo sapiens hypothetical protein DKFZp761I2123 (DKFZp761I2123), transcript variant 1, mRNA	NM_031449	1.5	18.331
+ENSG00000161091	C19orf28	Homo sapiens chromosome 19 open reading frame 28 (C19orf28), mRNA	NM_174983	1.5	46.363
+ENSG00000161091	C19orf28	Homo sapiens clone PP3501 unknown mRNA.	AF218008	1.5	46.363
+ENSG00000113504	SLC12A7	Homo sapiens solute carrier family 12 (potassium/chloride transporters), member 7 (SLC12A7), mRNA	NM_006598	1.5	44.019
+ENSG00000105137	7h3	Homo sapiens hypothetical protein FLJ13511 (7h3), mRNA	NM_033025	1.5	16.586
+ENSG00000171823	FBXL14	Homo sapiens F-box and leucine-rich repeat protein 14 (FBXL14), mRNA	NM_152441	1.5	34.493
+ENSG00000169682	SPINL	Homo sapiens spinster-like (SPINL), mRNA	NM_032038	1.5	34.493
+ENSG00000167671	UBXD1	Homo sapiens UBX domain containing 1 (UBXD1), mRNA	NM_025241	1.5	196.168
+ENSG00000108557	RAI1	Homo sapiens retinoic acid induced 1 (RAI1), mRNA	NM_030665	1.5	18.826
+ENSG00000141349	G6PC3	Homo sapiens glucose 6 phosphatase, catalytic, 3 (G6PC3), mRNA	NM_138387	1.5	57.765
+ENSG00000054967	TNFRSF19L	Homo sapiens tumor necrosis factor receptor superfamily, member 19-like (TNFRSF19L), transcript variant 1, mRNA	NM_032871	1.5	28.037
+ENSG00000105287	PRKD2	Homo sapiens protein kinase D2 (PRKD2), mRNA	NM_016457	1.5	25.162
+ENSG00000007255	MGC2650	Homo sapiens hypothetical protein MGC2650 (MGC2650), mRNA	NM_024108	1.5	88.967
+ENSG00000143126	CELSR2	Homo sapiens cadherin, EGF LAG seven-pass G-type receptor 2 (flamingo homolog, Drosophila) (CELSR2), mRNA	NM_001408	1.5	73.628
+ENSG00000167992	FLJ32009	Homo sapiens hypothetical protein FLJ32009 (FLJ32009), mRNA	NM_152718	1.5	54.716
+ENSG00000060069	CTDP1	Homo sapiens CTD (carboxy-terminal domain, RNA polymerase II, polypeptide A) phosphatase, subunit 1 (CTDP1), transcript variant FCP1a, mRNA	NM_004715	1.5	61.212
+ENSG00000167608	TMC4	Homo sapiens transmembrane channel-like 4 (TMC4), mRNA	NM_144686	1.5	20.506
+ENSG00000168264	IRF2BP2	Homo sapiens interferon regulatory factor 2 binding protein 2, mRNA (cDNA clone IMAGE:4618488), complete cds.	BC065759	1.5	144.219
+ENSG00000007080	LOC115098	Homo sapiens hypothetical protein BC013949 (LOC115098), mRNA	NM_138442	1.5	190.866
+ENSG00000160888	IER2	Homo sapiens immediate early response 2 (IER2), mRNA	NM_004907	1.5	73.545
+ENSG00000071889	FAM3A	Homo sapiens family with sequence similarity 3, member A (FAM3A), mRNA	NM_021806	1.5	34.332
+ENSG00000180448	HA-1	Homo sapiens minor histocompatibility antigen HA-1 (HA-1), mRNA	NM_012292	1.5	151.144
+ENSG00000164690	SHH	Homo sapiens sonic hedgehog homolog (Drosophila) (SHH), mRNA	NM_000193	1.5	55.789
+ENSG00000099821	POLRMT	Homo sapiens polymerase (RNA) mitochondrial (DNA directed) (POLRMT), nuclear gene encoding mitochondrial protein, mRNA	NM_005035	1.5	261.236
+ENSG00000160972	PPP1R16A	Homo sapiens protein phosphatase 1, regulatory (inhibitor) subunit 16A (PPP1R16A), mRNA	NM_032902	1.5	50.566
+ENSG00000174276	ZNHIT2	Homo sapiens zinc finger, HIT domain containing 2 (ZNHIT2), mRNA	NM_014205	1.5	15.901
+ENSG00000116761	CTH	Homo sapiens cystathionase (cystathionine gamma-lyase) (CTH), transcript variant 1, mRNA	NM_001902	1.5	63.938
+ENSG00000137474	MYO7A	Homo sapiens myosin VIIA (Usher syndrome 1B (autosomal recessive, severe)) (MYO7A), mRNA	NM_000260	1.5	13.089
+ENSG00000111077	TENC1	Homo sapiens tensin like C1 domain containing phosphatase (TENC1), transcript variant 1, mRNA	NM_015319	1.5	13.615
+ENSG00000105223	PLD3	Homo sapiens phospholipase D3 (PLD3), mRNA	NM_012268	1.5	152.319
+ENSG00000133134	BEX2	Homo sapiens brain expressed X-linked 2 (BEX2), mRNA	NM_032621	1.5	39.914
+ENSG00000141994	LOC56931	Homo sapiens hypothetical protein from EUROIMAGE 1967720 (LOC56931), mRNA	NM_020175	1.5	91.101
+ENSG00000105373	GLTSCR2	Homo sapiens glioma tumor suppressor candidate region gene 2 (GLTSCR2), mRNA	NM_015710	1.5	745.877
+ENSG00000177508	IRX3	Homo sapiens iroquois homeobox protein 3 (IRX3), mRNA	NM_024336	1.5	25.422
+ENSG00000128294	TPST2	Homo sapiens tyrosylprotein sulfotransferase 2 (TPST2), transcript variant 2, mRNA	NM_003595	1.5	49.533
+ENSG00000185800	DMWD	Homo sapiens dystrophia myotonica-containing WD repeat motif, mRNA (cDNA clone MGC:3227 IMAGE:3503856), complete cds.	BC019266	1.5	43.127
+ENSG00000164403	APXL2	Homo sapiens apical protein 2 (APXL2), mRNA	NM_133456	1.5	45.318
+ENSG00000169116	DKFZP564O0823	Homo sapiens DKFZP564O0823 protein (DKFZP564O0823), mRNA	NM_015393	1.5	21.861
+ENSG00000160094	FLJ25476	Homo sapiens FLJ25476 protein (FLJ25476), mRNA	NM_152493	1.5	22.435
+ENSG00000167543	LOC90313	Homo sapiens hypothetical protein BC004507 (LOC90313), mRNA	NM_138349	1.5	67.753
+ENSG00000114019	AMOTL2	Homo sapiens angiomotin like 2 (AMOTL2), mRNA	NM_016201	1.5	201.145
+ENSG00000169710	FASN	Homo sapiens fatty acid synthase (FASN), mRNA	NM_004104	1.5	398.428
+ENSG00000040487	PQLC2	Homo sapiens cDNA FLJ26661 fis, clone MPG01974.	AK130171	1.5	37.759
+ENSG00000040487	PQLC2	Homo sapiens PQ loop repeat containing 2 (PQLC2), mRNA	NM_017765	1.5	37.759
+ENSG00000111252	LNK	Homo sapiens lymphocyte adaptor protein (LNK), mRNA	NM_005475	1.5	69.972
+ENSG00000103254	MGC2494	Homo sapiens hypothetical protein MGC2494 (MGC2494), mRNA	NM_023933	1.5	18.430
+ENSG00000197421	GGTL4	Homo sapiens gamma-glutamyltransferase-like 4 (GGTL4), transcript variant 2, mRNA	NM_080839	1.5	29.690
+ENSG00000160685	ZFP67	Homo sapiens zinc finger protein 67 homolog (mouse) (ZFP67), mRNA	NM_015872	1.5	197.357
+ENSG00000084731	KIF3C	Homo sapiens kinesin family member 3C (KIF3C), mRNA	NM_002254	1.5	13.408
+ENSG00000132330	SCLY	Homo sapiens putative selenocysteine lyase (SCLY) mRNA, complete cds.	AF175767	1.5	18.930
+ENSG00000171222	SCAND1	Homo sapiens SCAN domain containing 1 (SCAND1), transcript variant 1, mRNA	NM_016558	1.5	62.668
+ENSG00000116604	MEF2D	Homo sapiens MADS box transcription enhancer factor 2, polypeptide D (myocyte enhancer factor 2D) (MEF2D), mRNA	NM_005920	1.5	44.953
+ENSG00000100065	CARD10	Homo sapiens caspase recruitment domain family, member 10 (CARD10), mRNA	NM_014550	1.5	119.173
+ENSG00000125656	CLPP	Homo sapiens ClpP caseinolytic protease, ATP-dependent, proteolytic subunit homolog (E. coli) (CLPP), nuclear gene encoding mitochondrial protein, mRNA	NM_006012	1.5	85.554
+ENSG00000100379	A_23_P143676	Unknown		1.5	36.894
+ENSG00000100379	FLJ12242	Homo sapiens hypothetical protein FLJ12242 (FLJ12242), mRNA	NM_024681	1.5	36.894
+ENSG00000160326	SLC2A6	Homo sapiens solute carrier family 2 (facilitated glucose transporter), member 6 (SLC2A6), mRNA	NM_017585	1.5	43.683
+ENSG00000103249	CLCN7	Homo sapiens chloride channel 7 (CLCN7), mRNA	NM_001287	1.5	27.773
+ENSG00000140044	JDP2	Homo sapiens jun dimerization protein 2 (JDP2), mRNA	NM_130469	1.5	27.229
+ENSG00000197136	PCNXL3	Homo sapiens mRNA; cDNA DKFZp686M14190 (from clone DKFZp686M14190).	BX640978	1.5	47.018
+ENSG00000139515	IPF1	Homo sapiens insulin promoter factor 1, homeodomain transcription factor (IPF1), mRNA	NM_000209	1.5	19.922
+ENSG00000170619	COMMD5	Homo sapiens COMM domain containing 5 (COMMD5), mRNA	NM_014066	1.5	45.799
+ENSG00000011295	TTC19	Homo sapiens tetratricopeptide repeat domain 19 (TTC19), mRNA	NM_017775	1.5	160.744
+ENSG00000105699	LISCH7	Homo sapiens liver-specific bHLH-Zip transcription factor (LISCH7), transcript variant 1, mRNA	NM_015925	1.5	113.923
+ENSG00000197019	SERTAD1	Homo sapiens SERTA domain containing 1 (SERTAD1), mRNA	NM_013376	1.5	16.562
+ENSG00000162542	LOC255104	Homo sapiens hypothetical protein LOC255104 (LOC255104), mRNA	NM_181719	1.5	15.473
+ENSG00000123154	MGC4238	Homo sapiens mitogen-activated protein kinase organizer 1 (MGC4238), mRNA	NM_032332	1.5	34.978
+ENSG00000116514	IBRDC3	Homo sapiens IBR domain containing 3 (IBRDC3), mRNA	NM_153341	1.5	33.850
+ENSG00000143409	FLJ11280	Homo sapiens hypothetical protein FLJ11280 (FLJ11280), mRNA	NM_018379	1.5	31.597
+ENSG00000175213	ZNF408	Homo sapiens zinc finger protein 408 (ZNF408), mRNA	NM_024741	1.5	27.642
+ENSG00000124067	SLC12A4	Homo sapiens solute carrier family 12 (potassium/chloride transporters), member 4 (SLC12A4), mRNA	NM_005072	1.5	109.287
+ENSG00000179632	MAF1	Homo sapiens homolog of yeast MAF1 (MAF1), mRNA	NM_032272	1.5	182.429
+ENSG00000142961	MOBKL2C	Homo sapiens MOB1, Mps One Binder kinase activator-like 2C (yeast) (MOBKL2C), transcript variant 1, mRNA	NM_145279	1.5	14.286
+ENSG00000137221	TJP4	Homo sapiens tight junction protein 4 (peripheral) (TJP4), mRNA	NM_080604	1.5	32.590
+ENSG00000093134	VNN3	Homo sapiens vanin 3 (VNN3), transcript variant 1, mRNA	NM_018399	1.5	47.706
+ENSG00000161999	LOC339123	Homo sapiens hypothetical LOC339123 (LOC339123), mRNA	NM_001005920	1.5	53.258
+ENSG00000167658	EEF2	Homo sapiens eukaryotic translation elongation factor 2 (EEF2), mRNA	NM_001961	1.5	2841.249
+ENSG00000180035	ZNF553	Homo sapiens zinc finger protein 553 (ZNF553), mRNA	NM_152652	1.5	40.379
+ENSG00000088899	ProSAPiP1	Homo sapiens ProSAPiP1 protein (ProSAPiP1), mRNA	NM_014731	1.5	188.295
+ENSG00000163435	ELF3	Homo sapiens E74-like factor 3 (ets domain transcription factor, epithelial-specific ) (ELF3), mRNA	NM_004433	1.5	242.502
+ENSG00000110057	UNC93B1	Homo sapiens unc-93 homolog B1 (C. elegans) (UNC93B1), mRNA	NM_030930	1.5	65.658
+ENSG00000007047	MARK4	Homo sapiens MAP/microtubule affinity-regulating kinase 4 (MARK4), mRNA	NM_031417	1.5	24.716
+ENSG00000187244	LU	Homo sapiens Lutheran blood group (Auberger b antigen included) (LU), mRNA	NM_005581	1.5	70.637
+ENSG00000160447	PKN3	Homo sapiens protein kinase N3 (PKN3), mRNA	NM_013355	1.5	54.642
+ENSG00000224032	TIGA1	Homo sapiens TIGA1 (TIGA1), mRNA	NM_053000	1.5	27.389
+ENSG00000122386	ZNF205	Homo sapiens zinc finger protein 205 (ZNF205), mRNA	NM_003456	1.5	34.580
+ENSG00000143373	KIAA1441	Homo sapiens KIAA1441 protein (KIAA1441), mRNA	NM_020832	1.5	122.568
+ENSG00000137834	SMAD6	Homo sapiens SMAD, mothers against DPP homolog 6 (Drosophila) (SMAD6), mRNA	NM_005585	1.5	98.467
+ENSG00000185236	RAB11B	Homo sapiens RAB11B, member RAS oncogene family (RAB11B), mRNA	NM_004218	1.5	50.605
+ENSG00000011132	APBA3	Homo sapiens amyloid beta (A4) precursor protein-binding, family A, member 3 (X11-like 2) (APBA3), mRNA	NM_004886	1.5	28.360
+ENSG00000160813	MGC22793	Homo sapiens hypothetical protein MGC22793 (MGC22793), mRNA	NM_145030	1.5	65.132
+ENSG00000186470	BTN3A2	Homo sapiens cDNA clone MGC:71335 IMAGE:6088873, complete cds.	BC067086	1.5	27.805
+ENSG00000186470	BTN3A2	Homo sapiens butyrophilin, subfamily 3, member A2 (BTN3A2), mRNA	NM_007047	1.5	27.805
+ENSG00000149150	SLC43A1	Homo sapiens solute carrier family 43, member 1 (SLC43A1), mRNA	NM_003627	1.5	459.945
+ENSG00000146830	PERQ1	Homo sapiens PERQ amino acid rich, with GYF domain 1 (PERQ1), mRNA	NM_022574	1.5	115.307
+ENSG00000204387	C6orf48	Homo sapiens chromosome 6 open reading frame 48 (C6orf48), mRNA	NM_016947	1.5	284.339
+ENSG00000129474	JUB	Homo sapiens jub, ajuba homolog (Xenopus laevis) (JUB), transcript variant 1, mRNA	NM_032876	1.5	358.550
+ENSG00000186564	FOXD2	Homo sapiens forkhead box D2 (FOXD2), mRNA	NM_004474	1.5	17.373
+ENSG00000172663	FLJ21749	Homo sapiens hypothetical protein FLJ21749 (FLJ21749), mRNA	NM_025124	1.5	60.501
+ENSG00000182199	SHMT2	Homo sapiens serine hydroxymethyltransferase 2 (mitochondrial) (SHMT2), mRNA	NM_005412	1.5	853.347
+ENSG00000136059	VILL	Homo sapiens villin-like (VILL), mRNA	NM_015873	1.5	16.805
+ENSG00000006015	FLJ20850	Homo sapiens hypothetical protein FLJ20850 (FLJ20850), mRNA	NM_017967	1.5	75.042
+ENSG00000168061	SHD1	Homo sapiens Sac3 homology domain 1 (S. cerevisiae) (SHD1), mRNA	NM_013299	1.5	29.950
+ENSG00000196449	YRDC	Homo sapiens ischemia/reperfusion inducible protein (FLJ23476), mRNA	NM_024640	1.5	24.468
+ENSG00000149260	CAPN5	Homo sapiens calpain 5 (CAPN5), mRNA	NM_004055	1.5	21.125
+ENSG00000075618	FSCN1	Homo sapiens fascin homolog 1, actin-bundling protein (Strongylocentrotus purpuratus) (FSCN1), mRNA	NM_003088	1.5	68.776
+ENSG00000175793	SFN	Homo sapiens stratifin (SFN), mRNA	NM_006142	1.5	71.443
+ENSG00000076201	PTPN23	Homo sapiens protein tyrosine phosphatase, non-receptor type 23 (PTPN23), mRNA	NM_015466	1.5	28.181
+ENSG00000123178	C13orf1	Homo sapiens chromosome 13 open reading frame 1 (C13orf1), mRNA	NM_020456	1.5	21.074
+ENSG00000056558	TRAF1	Homo sapiens TNF receptor-associated factor 1 (TRAF1), mRNA	NM_005658	1.5	14.055
+ENSG00000183496	RKHD3	Homo sapiens ring finger and KH domain containing 3 (RKHD3), mRNA	NM_032246	1.5	27.631
+ENSG00000167680	SEMA6B	Homo sapiens sema domain, transmembrane domain (TM), and cytoplasmic domain, (semaphorin) 6B (SEMA6B), transcript variant SEMA6B.3, mRNA	NM_032108	1.5	120.245
+ENSG00000162576	MGC3047	Homo sapiens limitrin (MGC3047), mRNA	NM_032348	1.5	38.617
+ENSG00000153531	ADPRHL1	Homo sapiens ADP-ribosylhydrolase like 1 (ADPRHL1), transcript variant 2, mRNA	NM_199162	1.5	28.681
+ENSG00000153531	ADPRHL1	Homo sapiens ADP-ribosylhydrolase like 1 (ADPRHL1), transcript variant 1, mRNA	NM_138430	1.5	28.681
+ENSG00000198026	ZNF335	Homo sapiens zinc finger protein 335 (ZNF335), mRNA	NM_022095	1.5	35.275
+ENSG00000146083	RNF44	Homo sapiens ring finger protein 44 (RNF44), mRNA	NM_014901	1.5	39.061
+ENSG00000176720	BOK	Homo sapiens Bcl-2 related ovarian killer (BOK) mRNA, complete cds.	AF089746	1.5	20.474
+ENSG00000176720	BOK	Homo sapiens BCL2-related ovarian killer (BOK), mRNA	NM_032515	1.5	20.474
+ENSG00000170293	CKLFSF8	Homo sapiens chemokine-like factor super family 8 (CKLFSF8), mRNA	NM_178868	1.5	30.250
+ENSG00000143674	KIAA1804	Homo sapiens mixed lineage kinase 4 (KIAA1804), mRNA	NM_032435	1.5	42.325
+ENSG00000169174	PCSK9	Homo sapiens proprotein convertase subtilisin/kexin type 9 (PCSK9), mRNA	NM_174936	1.5	386.665
+ENSG00000160325	C9orf7	Homo sapiens chromosome 9 open reading frame 7 (C9orf7), mRNA	NM_017586	1.5	61.475
+ENSG00000136710	MGC12981	Homo sapiens hypothetical protein MGC12981 (MGC12981), mRNA	NM_032357	1.5	27.462
+ENSG00000121281	ADCY7	Homo sapiens adenylate cyclase 7 (ADCY7), mRNA	NM_001114	1.5	16.105
+ENSG00000132718	SYT11	Homo sapiens synaptotagmin XI (SYT11), mRNA	NM_152280	1.5	15.542
+ENSG00000184207	MGC4692	Homo sapiens hypothetical protein MGC4692, mRNA (cDNA clone IMAGE:3533548), partial cds.	BC002330	1.5	127.530
+ENSG00000127220	ABHD8	Homo sapiens abhydrolase domain containing 8 (ABHD8), mRNA	NM_024527	1.5	42.086
+ENSG00000132855	ANGPTL3	Homo sapiens angiopoietin-like 3 (ANGPTL3), mRNA	NM_014495	-1.5	-157.452
+ENSG00000124568	SLC17A1	Homo sapiens solute carrier family 17 (sodium phosphate), member 1 (SLC17A1), mRNA	NM_005074	-1.5	-15.109
+ENSG00000119121	TRPM6	Homo sapiens transient receptor potential cation channel, subfamily M, member 6 (TRPM6), mRNA	NM_017662	-1.5	-13.711
+ENSG00000132963	C13orf12	Homo sapiens chromosome 13 open reading frame 12 (C13orf12), mRNA	NM_015932	-1.5	-241.565
+ENSG00000129680	FLJ12649	Homo sapiens cDNA FLJ12649 fis, clone NT2RM4002044.	AK022711	-1.5	-33.273
+ENSG00000129680	FLJ12649	Homo sapiens cDNA FLJ12401 fis, clone MAMMA1002796.	AK022463	-1.5	-33.273
+ENSG00000163584	LOC200916	Homo sapiens similar to ribosomal protein L22, mRNA (cDNA clone IMAGE:6735782), partial cds.	BC062731	-1.5	-31.403
+ENSG00000226284	ARPC3B	DJ470L14.3 (Novel protein similar to the Arp2/3 protein complex subunit p21-Arc (ARC21)). [Source:Uniprot/SPTREMBL;Acc:Q9H5B6]	ENST00000303246	-1.5	-19.286
+ENSG00000101347	SAMHD1	Homo sapiens SAM domain and HD domain 1 (SAMHD1), mRNA	NM_015474	-1.5	-22.929
+ENSG00000092208	SIP1	Homo sapiens survival of motor neuron protein interacting protein 1 (SIP1), transcript variant alpha, mRNA	NM_003616	-1.5	-29.028
+ENSG00000102078	SLC25A14	Homo sapiens solute carrier family 25 (mitochondrial carrier, brain), member 14 (SLC25A14), nuclear gene encoding mitochondrial protein, transcript variant long, mRNA	NM_003951	-1.5	-13.757
+ENSG00000196678	MGC16943	Homo sapiens similar to RIKEN cDNA 4933424N09 gene (MGC16943), mRNA	NM_080663	-1.5	-49.573
+ENSG00000173041	FLJ90430	Homo sapiens hypothetical protein FLJ90430 (FLJ90430), mRNA	NM_178558	-1.5	-41.868
+ENSG00000183337	BCOR	Homo sapiens BCL6 co-repressor (BCOR), transcript variant 1, mRNA	NM_017745	-1.5	-47.683
+ENSG00000151849	CENPJ	Homo sapiens centromere protein J (CENPJ), mRNA	NM_018451	-1.5	-86.559
+ENSG00000105173	CCNE1	Homo sapiens cyclin E1 (CCNE1), transcript variant 1, mRNA	NM_001238	-1.5	-37.258
+ENSG00000111229	ARPC3	Homo sapiens actin related protein 2/3 complex, subunit 3, 21kDa (ARPC3), mRNA	NM_005719	-1.5	-92.790
+ENSG00000166896	KUB3	Homo sapiens Ku70-binding protein 3 (KUB3), mRNA	NM_033276	-1.5	-14.032
+ENSG00000147669	POLR2K	Homo sapiens polymerase (RNA) II (DNA directed) polypeptide K, 7.0kDa (POLR2K), mRNA	NM_005034	-1.5	-111.034
+ENSG00000137871	SUHW4	Homo sapiens suppressor of hairy wing homolog 4 (Drosophila) (SUHW4), transcript variant 1, mRNA	NM_017661	-1.5	-16.754
+ENSG00000162819	FLJ32421	Homo sapiens hypothetical protein FLJ32421 (FLJ32421), mRNA	NM_144695	-1.5	-48.306
+ENSG00000185697	MYBL1	H.sapiens a-myb mRNA.	X66087	-1.6	-33.083
+ENSG00000073792	IMP-2	Homo sapiens IGF-II mRNA-binding protein 2 (IMP-2), mRNA	NM_006548	-1.6	-47.467
+ENSG00000197134	ZNF257	Homo sapiens zinc finger protein 257 (ZNF257), mRNA	NM_033468	-1.6	-30.123
+ENSG00000109680	TBC1D19	Homo sapiens TBC1 domain family, member 19 (TBC1D19), mRNA	NM_018317	-1.6	-14.370
+ENSG00000005483	MLL5	Homo sapiens myeloid/lymphoid or mixed-lineage leukemia 5 (trithorax homolog, Drosophila) (MLL5), mRNA	NM_018682	-1.6	-140.410
+ENSG00000198900	TOP1	Homo sapiens topoisomerase (DNA) I (TOP1), mRNA	NM_003286	-1.6	-238.517
+ENSG00000104093	DMXL2	Homo sapiens mRNA for KIAA0856 protein, partial cds.	AB020663	-1.6	-172.029
+ENSG00000090061	CCNK	Homo sapiens cyclin K (CCNK), mRNA	NM_003858	-1.6	-33.978
+ENSG00000001630	CYP51A1	Homo sapiens cytochrome P450, family 51, subfamily A, polypeptide 1 (CYP51A1), mRNA	NM_000786	-1.6	-466.616
+ENSG00000154864	FAM38B	Homo sapiens family with sequence similarity 38, member B (FAM38B), mRNA	NM_022068	-1.6	-18.334
+ENSG00000189369	GSPT2	Homo sapiens G1 to S phase transition 2 (GSPT2), mRNA	NM_018094	-1.6	-27.676
+ENSG00000172795	DCP2	Homo sapiens DCP2 decapping enzyme homolog (S. cerevisiae) (DCP2), mRNA	NM_152624	-1.6	-75.907
+ENSG00000111261	MANSC1	Homo sapiens MANSC domain containing 1 (MANSC1), mRNA	NM_018050	-1.6	-17.815
+ENSG00000123200	KIAA0853	Homo sapiens KIAA0853 (KIAA0853), mRNA	NM_015070	-1.6	-231.748
+ENSG00000100888	CHD8	Homo sapiens chromodomain helicase DNA binding protein 8 (CHD8), mRNA	NM_020920	-1.7	-307.316
+ENSG00000158417	EIF5B	Homo sapiens eukaryotic translation initiation factor 5B (EIF5B), mRNA	NM_015904	-1.7	-392.617
+ENSG00000184378	ARPM1	Homo sapiens actin related protein M1 (ARPM1), mRNA	NM_032487	-1.7	-13.278
+ENSG00000099260	PALMD	Homo sapiens palmdelphin (PALMD), mRNA	NM_017734	-1.7	-44.136
+ENSG00000178966	C9orf76	Homo sapiens chromosome 9 open reading frame 76 (C9orf76), mRNA	NM_024945	-1.7	-63.311
+ENSG00000162614	NEXN	Homo sapiens nexilin (F actin binding protein) (NEXN), mRNA	NM_144573	-1.7	-21.976
+ENSG00000102241	HTATSF1	Homo sapiens HIV TAT specific factor 1 (HTATSF1), mRNA	NM_014500	-1.7	-20.394
+ENSG00000198734	F5	Homo sapiens coagulation factor V (proaccelerin, labile factor) (F5), mRNA	NM_000130	-1.8	-317.612
+ENSG00000237514	ENST00000308465	Q8VH48 (Q8VH48) Protein tyrosine phosphatase 4a1, complete	THC2162663	-1.9	-15.047
+ENSG00000016082	ISL1	Homo sapiens ISL1 transcription factor, LIM/homeodomain, (islet-1) (ISL1), mRNA	NM_002202	-2.0	-16.287
+ENSG00000135046	ANXA1	Homo sapiens annexin A1 (ANXA1), mRNA	NM_000700	-2.1	-56.175
+ENSG00000184349	EFNA5	Homo sapiens ephrin-A5 (EFNA5), mRNA	NM_001962	-2.2	-16.294
+ENSG00000132703	APCS	Homo sapiens amyloid P component, serum (APCS), mRNA	NM_001639	-2.5	-14.765
+ENSG00000134389	CFHL5	Homo sapiens complement factor H-related 5 (CFHL5), mRNA	NM_030787	-2.7	-15.118
+ENSG00000145416	12:00 AM	Homo sapiens cDNA FLJ20668 fis, clone KAIA585.	AK000675	-3.0	-19.311
+ENSG00000155530	FLJ32786	Homo sapiens hypothetical protein FLJ32786 (FLJ32786), mRNA	NM_144648	-4.6	-16.571

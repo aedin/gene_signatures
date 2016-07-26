@@ -1,0 +1,10 @@
+GeneBank ID	Molecule	Description	Log ratio: MTX 48	Log ratio: R96	p- value: MTX 48	p- value: R96	Function
+NM_001955	EDN1	endothelin 1	1201	2671	0,003	0,006	Extracellular ligands
+NM_002309	LIF	leukemia inhibitory factor (cholinergic differentiation factor)	1043	1312	0	0,001	Extracellular ligands
+NM_000416	IFNGR1	interferon gamma receptor 1		1259		0,028	Transmembrane receptor
+BC032478	MAP2K3	mitogen-activated protein kinase kinase 3	0,5	1,08	0,041	0	MAPKK (MKK) molecules
+NM_003010	MAP2K4	mitogen-activated protein kinase kinase 4		0,896		0,029	MAPKK (MKK) molecules
+NM_002751	MAPK11	mitogen-activated protein kinase 11 (p38 MAPK beta)	0,859	0,613	0,003	0,022	p38 MAPK beta
+NM_005417	SRC	v-src sarcoma (Schmidt-Ruppin A-2) viral oncogene homolog (avian), transcript variant 1		1102		0,013	ERK1/2- and ERK5-activating non-receptor tyrosine kinase
+NM_002745	MAPK1	mitogen-activated protein kinase 1, transcript variant 1		0,569		0,020	ERK2
+NM_139033	MAPK7	mitogen-activated protein kinase 7, transcript variant 1		0,666		0,019	ERK5

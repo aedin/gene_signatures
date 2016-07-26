@@ -1,0 +1,26 @@
+# Generate Mapping Tables Script: Version 4 11:04 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:04 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+entrezgene|147760|10959	hgnc_symbol|IL-1a|IL-1a
+entrezgene|147620|3040	hgnc_symbol|IL-6|IL-6
+hgnc_symbol|IL-8|IL-8
+hgnc_symbol|IL-32|IL-32
+entrezgene|138970|2719	hgnc_symbol|G-CSF|G-CSF
+entrezgene|138960|27244	hgnc_symbol|GM-CSF|GM-CSF
+entrezgene|155730|3872	hgnc_symbol|CXCL1|CXCL1
+entrezgene|139110|5349	hgnc_symbol|CXCL2|CXCL2
+entrezgene|139111|6185	hgnc_symbol|CXCL3|CXCL3
+hgnc_symbol|CXCL5|CXCL5
+hgnc_symbol|CXCL6|CXCL6
+hgnc_symbol|CX3CL1|CX3CL1
+hgnc_symbol|CCL2|CCL2
+hgnc_symbol|CCL20|CCL20
+hgnc_symbol|Inducible T-cell costimulatory ligand|Inducible T-cell costimulatory ligand
+hgnc_symbol|Jagged 1|Jagged 1
+entrezgene|602643|21841	hgnc_symbol|TNFR superfamily member 11 (OPG)|TNFR superfamily member 11 (OPG)
+hgnc_symbol|Lymphotoxin b|Lymphotoxin b
+hgnc_symbol|LIF|LIF
+entrezgene|603726|17901	hgnc_symbol|FGF-18|FGF-18

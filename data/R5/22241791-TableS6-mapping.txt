@@ -1,0 +1,36 @@
+# Generate Mapping Tables Script: Version 4 11:06 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:06 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+hgnc_symbol|B2M|B2M
+hgnc_symbol|CD74|CD74
+hgnc_symbol|CIITA|CIITA
+hgnc_symbol|HLA-A|HLA-A
+hgnc_symbol|HLA-B|HLA-B
+hgnc_symbol|HLA-C|HLA-C
+hgnc_symbol|HLA-DMA|HLA-DMA
+hgnc_symbol|HLA-DMB|HLA-DMB
+hgnc_symbol|HLA-DOA|HLA-DOA
+hgnc_symbol|HLA-DOB|HLA-DOB
+hgnc_symbol|HLA-DPA1|HLA-DPA1
+hgnc_symbol|HLA-DPB1|HLA-DPB1
+hgnc_symbol|HLA-DQA1|HLA-DQA1
+hgnc_symbol|HLA-DQA2|HLA-DQA2
+hgnc_symbol|HLA-DQB2|HLA-DQB2
+hgnc_symbol|HLA-DRA|HLA-DRA
+hgnc_symbol|HLA-DRB1|HLA-DRB1
+hgnc_symbol|HLA-DRB4|HLA-DRB4
+hgnc_symbol|HLA-DRB5|HLA-DRB5
+hgnc_symbol|HLA-DRB3|HLA-DRB3
+hgnc_symbol|HLA-E|HLA-E
+hgnc_symbol|HLA-F|HLA-F
+hgnc_symbol|HLA-G|HLA-G
+hgnc_symbol|HLA-L|HLA-L
+hgnc_symbol|NLRC5|NLRC5
+hgnc_symbol|PSMB8|PSMB8
+hgnc_symbol|PSMB9|PSMB9
+hgnc_symbol|TAP1|TAP1
+hgnc_symbol|TAP2|TAP2
+hgnc_symbol|TAPBP|TAPBP

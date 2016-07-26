@@ -1,0 +1,39 @@
+#	AFFY ID	REFSEQ ID	GENE	NCBI  Gene ID	DESCR	ratio	expr_AE- LIVER	expr_LIVER  mock-infected	Expression	Functional Group
+1	1425394_at	XP_001471630	BC023105	667597	cDNA sequence aBC023105 p47-like GTPase	10	17	169	OVEREXPESSED/UPREGULATED	Immune response/defense [functional group]: Macrophages (MØ)
+2	1449009_at	NM_011579	Tgtp	21822	T-cell specific GTPase	6.6	302	2001	OVEREXPESSED/UPREGULATED	Immune response/defense [functional group]: Macrophages (MØ)
+3	1429184_at	NM_001039160	Gvin1	74558	GTPase, very large interferon inducible 1	3.3	293	954	OVEREXPESSED/UPREGULATED	Immune response/defense [functional group]: Macrophages (MØ)
+4	1424923_at	NM_009251	Serpina3g	20715	serine (or cysteine) peptidase inhibitor, member 3G	6.4	84	534	OVEREXPESSED/UPREGULATED	Immune response/defense [functional group]: Macrophages (MØ)
+5	1420549_at	NM_010259	Gbp1	14468	guanylate binding protein 1	5	24	118	OVEREXPESSED/UPREGULATED	Immune response/defense [functional group]: Macrophages (MØ)
+6	1435906_x_at	NM_010260	Gbp2	14469	guanylate binding protein 2	3	93	277	OVEREXPESSED/UPREGULATED	Immune response/defense [functional group]: Macrophages (MØ)
+7	1418776_at	NM_029509	5830443L24Rik	76074	RIKEN cDNA 5830443L24 gene, GBP-like	3.4	91	310	OVEREXPESSED/UPREGULATED	Immune response/defense [functional group]: Macrophages (MØ)
+8	1449498_at	NM_010766	Marco	17167	macrophage receptor with collagenous structure	4.7	51	236	OVEREXPESSED/UPREGULATED	Immune response/defense [functional group]: Macrophages (MØ)
+9	1447927_at	NM_194336	Mpa2l	100702	macrophage activation 2 like	3.6	342	1223	OVEREXPESSED/UPREGULATED	Immune response/defense [functional group]: Macrophages (MØ)
+10	1440481_at	NM_009283	Stat1	20846	signal transducer and activator of transcription 1	3.4	36	121	OVEREXPESSED/UPREGULATED	Immune response/defense [functional group]: Macrophages (MØ)
+11	1436808_x_at	NM_008566	Mcm5	17218	minichromosome maintenance deficient 5,	2.9	31	91	OVEREXPESSED/UPREGULATED	Immune response/defense [functional group]: Macrophages (MØ)
+12	1420699_at	NM_020008	Clec7a	56644	C-type lectin domain family 7, member a	2.8	70	193	OVEREXPESSED/UPREGULATED	Immune response/defense [functional group]: Macrophages (MØ)
+13	1416295_a_at	NM_013563	Il2rg	16186	interleukin 2 receptor, gamma chain	2.8	67	189	OVEREXPESSED/UPREGULATED	Immune response/defense [functional group]: Macrophages (MØ)
+14	1426808_at	NM_010705	Lgals3	16854	lectin, galactose binding, soluble 3, galektin	2.6	118	300	OVEREXPESSED/UPREGULATED	Immune response/defense [functional group]: Macrophages (MØ)
+15	1448748_at	NM_019549	Plek	56193	pleckstrin	2.4	29	70	OVEREXPESSED/UPREGULATED	Immune response/defense [functional group]: Macrophages (MØ)
+16	1450648_s_at	NM_207105	H2-Ab1	14961	histocompatibility 2, class II antigen A, beta 1	5.6	230	1287	OVEREXPESSED/UPREGULATED	Immune response/defense [functional group]: APC
+17	1417025_at	NM_010382	H2-Eb1	14969	histocompatibility 2, class II antigen E beta	5.3	151	796	OVEREXPESSED/UPREGULATED	Immune response/defense [functional group]: APC
+18	1435290_x_at	NM_010378	H2-Aa	14960	histocompatibility 2, class II antigen A, alpha	4.4	457	1999	OVEREXPESSED/UPREGULATED	Immune response/defense [functional group]: APC
+19	1422527_at	NM_010386	H2-Dma	14998	histocompatibility 2, class II, locus Dma	2.9	31	90	OVEREXPESSED/UPREGULATED	Immune response/defense [functional group]: APC
+20	1418638_at	NM_010387	H2-DMb1	14999	histocompatibility 2, class II, locus Mb1	2.9	15	43	OVEREXPESSED/UPREGULATED	Immune response/defense [functional group]: APC
+21	1425519_a_at	NM_001042605	Cd74	16149	CD74 antigen (invariant polypeptide of major histo compatibility complex, class II antigen-associated)	3.8	602	2268	OVEREXPESSED/UPREGULATED	Immune response/defense [functional group]: APC
+22	1418652_at	NM_008599	Cxcl9	17329	chemokine (C-X-C motif) ligand 9	5.2	254	1328	OVEREXPESSED/UPREGULATED	Immune response/defense [functional group]: Lymphocytes, chemokines and regulation
+23	1418126_at	NM_207105	Ccl5	20304	chemokine (C-C motif) ligand 5	4.5	24	111	OVEREXPESSED/UPREGULATED	Immune response/defense [functional group]: Lymphocytes, chemokines and regulation
+24	1418930_at	NM_021274	Cxcl10	15945	chemokine (C-X-C motif) ligand 10	4.1	81	327	OVEREXPESSED/UPREGULATED	Immune response/defense [functional group]: Lymphocytes, chemokines and regulation
+25	1423467_at	NM_021718	Ms4a4b	60361	membrane-spanning 4-domains, subfamily A, CD20	3	25	74	OVEREXPESSED/UPREGULATED	Immune response/defense [functional group]: Lymphocytes, chemokines and regulation
+26	1424638_at	NM_001111099	Cdkn1a	12575	cyclin-dependent kinase inhibitor 1A (P21)	2.8	22	63	OVEREXPESSED/UPREGULATED	Immune response/defense [functional group]: Lymphocytes, chemokines and regulation
+27	1452349_x_at	NM_172648	Ifi205	226695	interferon activated gene 205	2.6	188	492	OVEREXPESSED/UPREGULATED	Immune response/defense [functional group]: Lymphocytes, chemokines and regulation
+28	1422903_at	NM_010745	Ly86	17084	lymphocyte antigen 86	2.4	211	506	OVEREXPESSED/UPREGULATED	Immune response/defense [functional group]: Lymphocytes, chemokines and regulation
+29	1421855_at	NM_008013	Fgl2	14190	fibrinogen-like protein 2	2.4	37	88	OVEREXPESSED/UPREGULATED	Immune response/defense [functional group]: Lymphocytes, chemokines and regulation
+30	1448162_at	NM_011693	Vcam1	22329	vascular cell adhesion molecule 1	2.2	118	259	OVEREXPESSED/UPREGULATED	Immune response/defense [functional group]: Lymphocytes, chemokines and regulation
+31	1447830_s_at	NM_009061	Rgs2	19735	regulator of G-protein signaling 2	2.3	29	67	OVEREXPESSED/UPREGULATED	Immune response/defense [functional group]: Lymphocytes, chemokines and regulation
+32	1427455_x_at	XM_001476664	Igk-V1	16081	immunoglobulin kappa chain variable 1 (V1)	4.7	90	420	OVEREXPESSED/UPREGULATED	Immune response/defense [functional group]: B-cells
+33	1452417_x_a	XM_001476664	Igk-C	16071	immunoglobulin kappa chain, constant region	4.4	130	574	OVEREXPESSED/UPREGULATED	Immune response/defense [functional group]: B-cells
+34	1449846_at	NM_007895	Ear2	13587	eosinophil-associated, ribonuclease A family, member 2	2.6	41	104	OVEREXPESSED/UPREGULATED	Immune response/defense [functional group]: Eosinophils
+35	1431056_a_at	NM_008509	Lpl	16956	lipoprotein lipase	2.6	358	975	OVEREXPESSED/UPREGULATED	Intermediary metabolism [functional group]: hepatocytes
+36	1442798_x_at	NM_001033245	Hk3	212032	hexokinase 3	2.4	37	90	OVEREXPESSED/UPREGULATED	Intermediary metabolism [functional group]: hepatocytes
+37	1451069_at	NM_145478	Pim3	223775	proviral integration site 3	0.4	298	118	DOWNREGULATED	Immune response/defense [functional group]: Lymphocytes, chemokines and regulation
+38	1451588_at	NM_026947	1810022C23Rik	69123	RIKEN cDNA 1810022C23 gene, Crotonase-like	0.4	278	100	DOWNREGULATED	Intermediary metabolism [functional group]: hepatocytes

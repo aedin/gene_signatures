@@ -1,0 +1,57 @@
+# Generate Mapping Tables Script: Version 4 11:03 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:03 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+refseq_dna|NM_000362|NM_000362	hgnc_symbol|TIMP3|TIMP3
+refseq_dna|NM_001178091 /// NM_001178092 /// NM_001178093 /// NM_001178094 /// NM_005504|NM_001178091	hgnc_symbol|BCAT1|BCAT1
+refseq_dna|NM_001032281 /// NM_006287|NM_001032281	hgnc_symbol|TFPI|TFPI
+refseq_dna|NM_018951 /// NM_153715|NM_018951	hgnc_symbol|HOXA10|HOXA10
+refseq_dna|NM_002026 /// NM_054034 /// NM_212474 /// NM_212475 /// NM_212476 /// NM_212478|NM_002026	hgnc_symbol|FN1|FN1
+refseq_dna|NM_016548 /// NM_177937|NM_016548	hgnc_symbol|GOLM1|GOLM1
+refseq_dna|NR_003087 /// NR_003088|NR_003087	hgnc_symbol|ABCC13|ABCC13
+refseq_dna|NM_001166392 /// NM_006670|NM_001166392	hgnc_symbol|TPBG|TPBG
+
+refseq_dna|NM_001128304 /// NM_001128305 /// NM_001128306 /// NM_001177304 /// NM_020353 //|NM_001128304	hgnc_symbol|PLSCR4|PLSCR4
+refseq_dna|NM_004447|NM_004447	hgnc_symbol|EPS8|EPS8
+refseq_dna|NM_018952|NM_018952	hgnc_symbol|HOXB6|HOXB6
+refseq_dna|NM_020311|NM_020311	hgnc_symbol|CXCR7|CXCR7
+refseq_dna|NM_018476|NM_018476	hgnc_symbol|BEX1|BEX1
+refseq_dna|NM_000222 /// NM_001093772|NM_000222	hgnc_symbol|KIT|KIT
+refseq_dna|NM_002026 /// NM_054034 /// NM_212474 /// NM_212475 /// NM_212476 /// NM_212478|NM_002026	hgnc_symbol|FN1|FN1
+refseq_dna|NM_000849 /// NR_024537|NM_000849	hgnc_symbol|GSTM3|GSTM3
+refseq_dna|NM_014220|NM_014220	hgnc_symbol|TM4SF1|TM4SF1
+refseq_dna|XR_042100 /// XR_042101 /// XR_042102|XR_042100	hgnc_symbol|CRNDE|CRNDE
+refseq_dna|NM_018659|NM_018659	hgnc_symbol|CYTL1|CYTL1
+refseq_dna|NM_001031683 /// NM_001549|NM_001031683	hgnc_symbol|IFIT3|IFIT3
+refseq_dna|NM_000964 /// NM_001024809 /// NM_001145301 /// NM_001145302|NM_000964	hgnc_symbol|RARA|RARA
+refseq_dna|NR_003087 /// NR_003088|NR_003087	hgnc_symbol|ABCC13|ABCC13
+refseq_dna|NM_015444|NM_015444	hgnc_symbol|TMEM158|TMEM158
+refseq_dna|NM_145244|NM_145244	hgnc_symbol|DDIT4L|DDIT4L
+refseq_dna|NM_001003679 /// NM_001003680 /// NM_002303|NM_001003679	hgnc_symbol|LEPR|LEPR
+refseq_dna|XR_042100 /// XR_042101 /// XR_042102|XR_042100	hgnc_symbol|CRNDE|CRNDE
+refseq_dna|NM_152739|NM_152739	hgnc_symbol|HOXA9|HOXA9
+refseq_dna|NM_080657|NM_080657	hgnc_symbol|RSAD2|RSAD2
+refseq_dna|NM_022052|NM_022052	hgnc_symbol|NXF3|NXF3
+refseq_dna|NM_002026 /// NM_054034 /// NM_212474 /// NM_212475 /// NM_212476 /// NM_212478|NM_002026	hgnc_symbol|FN1|FN1
+refseq_dna|NM_080657|NM_080657	hgnc_symbol|RSAD2|RSAD2
+refseq_dna|NM_001289|NM_001289	hgnc_symbol|CLIC2|CLIC2
+refseq_dna|NM_001142853 /// NM_018645|NM_001142853	hgnc_symbol|HES6|HES6
+refseq_dna|NM_000165|NM_000165	hgnc_symbol|GJA1|GJA1
+refseq_dna|NM_032523 /// NM_145739|NM_032523	hgnc_symbol|OSBPL6|OSBPL6
+refseq_dna|NR_001589|NR_001589	hgnc_symbol|HBBP1|HBBP1
+refseq_dna|NM_001032281 /// NM_006287|NM_001032281	hgnc_symbol|TFPI|TFPI
+refseq_dna|NM_001145657 /// NM_001145658 /// NM_002885|NM_001145657	hgnc_symbol|RAP1GAP|RAP1GAP
+refseq_dna|NM_001548|NM_001548	hgnc_symbol|IFIT1|IFIT1
+refseq_dna|NM_001135058 /// NM_004086|NM_001135058	hgnc_symbol|COCH|COCH
+refseq_dna|NM_001144825 /// NM_001144826 /// NM_006695|NM_001144825	hgnc_symbol|RUNDC3A|RUNDC3A
+refseq_dna|NM_000993 /// NM_001098577 /// NM_001099693 /// NM_001102426|NM_000993	hgnc_symbol|RPL31 /// TBC1D8|RPL31 /// TBC1D8
+refseq_dna|NM_000495 /// NM_033380 /// NM_033381|NM_000495	hgnc_symbol|COL4A5|COL4A5
+refseq_dna|NM_021154 /// NM_058179|NM_021154	hgnc_symbol|PSAT1|PSAT1
+refseq_dna|NM_001135058 /// NM_004086|NM_001135058	hgnc_symbol|COCH|COCH
+refseq_dna|NM_003836|NM_003836	hgnc_symbol|DLK1|DLK1
+refseq_dna|NM_001130080 /// NM_005532|NM_001130080	hgnc_symbol|IFI27|IFI27
+refseq_dna|NM_001172|NM_001172	hgnc_symbol|ARG2|ARG2
+refseq_dna|XM_001130886 /// XM_001714385|XM_001130886	hgnc_symbol|FAM132B|FAM132B
+refseq_dna|NM_004864 /// XM_002345162|NM_004864	hgnc_symbol|GDF15 /// LOC100292463|GDF15 /// LOC100292463

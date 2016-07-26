@@ -1,0 +1,13 @@
+Data Set	Genes in model	Adjusted R2 and stability when tested on Infinium Data	Genes in resulting model	Gene name
+GoldenGate gene model which achieved R2 = 0.48 (stability 44/48) on the Infinium Data	BEST1	0.87 (44/48)	CTTN	Cortactin GDP-mannose 4,6-dehydratase
+GoldenGate gene model which achieved R2 = 0.48 (stability 44/48) on the Infinium Data	IMPDH2	0.87 (44/48)	GMDS
+GoldenGate gene model which achieved R2 = 0.48 (stability 44/48) on the Infinium Data	OSBPL5	0.87 (44/48)	IMPDH2	IMP (inosine 5’-monophosphate) dehydrogenase 2
+GoldenGate gene model which achieved R2 = 0.48 (stability 44/48) on the Infinium Data	PAX3	0.87 (44/48)	OSBPL5	oxysterol binding protein-like 5
+GoldenGate gene model which achieved R2 = 0.48 (stability 44/48) on the Infinium Data	PSMC3	0.87 (44/48)	PAX3	paired box 3
+GoldenGate gene model which achieved R2 = 0.48 (stability 44/48) on the Infinium Data	SERPINF1	0.87 (44/48)	PSMC3	proteasome (prosome, macropain) 26S subunit, ATPase, 3
+Infinium gene model which achieved better R2 than our model	CTTN	0.87 (44/48)	REG1B	regenerating islet-derived 1 beta
+Infinium gene model which achieved better R2 than our model	GMDS	0.87 (44/48)	RUVBL1	RuvB-like 1 (E. coli)
+Infinium gene model which achieved better R2 than our model	REG1B	0.87 (44/48)	SERPINF1	serpin peptidase inhibitor, clade F (alpha-2 antiplasmin, pigment epithelium derived factor), member 1
+Infinium gene model which achieved better R2 than our model	VPS52	0.87 (44/48)	VPS52	vacuolar protein sorting 52 homolog
+Infinium gene model which achieved better R2 than our model	RUVBL1	0.87 (44/48)
+Infinium gene model which achieved better R2 than our model	KIAA241	0.87 (44/48)

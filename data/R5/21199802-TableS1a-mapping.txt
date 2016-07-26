@@ -1,0 +1,149 @@
+# Generate Mapping Tables Script: Version 4 11:05 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:05 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+illumina_humanwg_6_v3|7200435|7200435	entrezgene|430|430	refseq_dna|NM_005170|NM_005170	hgnc_symbol|ASCL2|ASCL2
+illumina_humanwg_6_v3|7330241|7330241	entrezgene|627|627	refseq_dna|NM_001709|NM_001709	hgnc_symbol|BDNF|BDNF
+illumina_humanwg_6_v3|990075|990075	entrezgene|652|652	refseq_dna|NM_130851|NM_130851	hgnc_symbol|BMP4|BMP4
+illumina_humanwg_6_v3|4200491|4200491	entrezgene|652|652	refseq_dna|NM_001202|NM_001202	hgnc_symbol|BMP4|BMP4
+illumina_humanwg_6_v3|4280131|4280131	entrezgene|685|685	refseq_dna|NM_001729|NM_001729	hgnc_symbol|BTC|BTC
+illumina_humanwg_6_v3|620487|620487	entrezgene|1030|1030	refseq_dna|NM_078487|NM_078487	hgnc_symbol|CDKN2B|CDKN2B
+illumina_humanwg_6_v3|990372|990372	entrezgene|1308|1308	refseq_dna|NM_000494|NM_000494	hgnc_symbol|COL17A1|COL17A1
+illumina_humanwg_6_v3|2640292|2640292	entrezgene|1490|1490	refseq_dna|NM_001901|NM_001901	hgnc_symbol|CTGF|CTGF
+illumina_humanwg_6_v3|5690687|5690687	entrezgene|1490|1490	refseq_dna|NM_001901|NM_001901	hgnc_symbol|CTGF|CTGF
+illumina_humanwg_6_v3|610152|610152	entrezgene|1601|1601	refseq_dna|NM_001343|NM_001343	hgnc_symbol|DAB2|DAB2
+illumina_humanwg_6_v3|5700220|5700220	entrezgene|1612|1612	refseq_dna|NM_004938|NM_004938	hgnc_symbol|DAPK1|DAPK1
+illumina_humanwg_6_v3|5340129|5340129	entrezgene|1646|1646	refseq_dna|NM_001354|NM_001354	hgnc_symbol|AKR1C2|AKR1C2
+illumina_humanwg_6_v3|4290431|4290431	entrezgene|1809|1809	refseq_dna|NM_001387|NM_001387	hgnc_symbol|DPYSL3|DPYSL3
+illumina_humanwg_6_v3|6350632|6350632	entrezgene|1831|1831	refseq_dna|NM_004089|NM_004089	hgnc_symbol|TSC22D3|TSC22D3
+illumina_humanwg_6_v3|1510300|1510300	entrezgene|1999|1999	refseq_dna|NM_001114309|NM_001114309	hgnc_symbol|ELF3|ELF3
+illumina_humanwg_6_v3|4220605|4220605	entrezgene|2114|2114	refseq_dna|NM_005239|NM_005239	hgnc_symbol|ETS2|ETS2
+illumina_humanwg_6_v3|430465|430465	entrezgene|2539|2539	refseq_dna|NM_001042351|NM_001042351	hgnc_symbol|G6PD|G6PD
+illumina_humanwg_6_v3|5090278|5090278	entrezgene|2877|2877	refseq_dna|NM_002083|NM_002083	hgnc_symbol|GPX2|GPX2
+illumina_humanwg_6_v3|6130168|6130168	entrezgene|2946|2946	refseq_dna|NM_000848|NM_000848	hgnc_symbol|GSTM2|GSTM2
+illumina_humanwg_6_v3|2370010|2370010	entrezgene|2999|2999	refseq_dna|NM_033423|NM_033423	hgnc_symbol|GZMH|GZMH
+illumina_humanwg_6_v3|1470669|1470669	entrezgene|3371|3371	refseq_dna|NM_002160|NM_002160	hgnc_symbol|TNC|TNC
+illumina_humanwg_6_v3|3930605|3930605	entrezgene|3491|3491	refseq_dna|NM_001554|NM_001554	hgnc_symbol|CYR61|CYR61
+illumina_humanwg_6_v3|6330037|6330037	entrezgene|3709|3709	refseq_dna|NM_002223|NM_002223	hgnc_symbol|ITPR2|ITPR2
+illumina_humanwg_6_v3|60273|60273	entrezgene|3764|3764	refseq_dna|NM_004982|NM_004982	hgnc_symbol|KCNJ8|KCNJ8
+illumina_humanwg_6_v3|360128|360128	entrezgene|3815|3815	refseq_dna|NM_001093772|NM_001093772	hgnc_symbol|KIT|KIT
+illumina_humanwg_6_v3|5080576|5080576	entrezgene|3815|3815	refseq_dna|NM_001093772|NM_001093772	hgnc_symbol|KIT|KIT
+illumina_humanwg_6_v3|6620392|6620392	entrezgene|3955|3955	refseq_dna|NM_001040167|NM_001040167	hgnc_symbol|LFNG|LFNG
+illumina_humanwg_6_v3|6840209|6840209	entrezgene|3960|3960	refseq_dna|NM_006149|NM_006149	hgnc_symbol|LGALS4|LGALS4
+illumina_humanwg_6_v3|1300240|1300240	entrezgene|4586|4586	hgnc_symbol|MUC5AC|MUC5AC
+illumina_humanwg_6_v3|2320598|2320598	entrezgene|4693|4693	refseq_dna|NM_000266|NM_000266	hgnc_symbol|NDP|NDP
+illumina_humanwg_6_v3|6040546|6040546	entrezgene|4950|4950	refseq_dna|NM_002538|NM_002538	hgnc_symbol|OCLN|OCLN
+illumina_humanwg_6_v3|4730309|4730309	entrezgene|5095|5095	refseq_dna|XM_001714769|XM_001714769	hgnc_symbol|PCCA|PCCA
+illumina_humanwg_6_v3|6200148|6200148	entrezgene|5121|5121	refseq_dna|NM_006198|NM_006198	hgnc_symbol|PCP4|PCP4
+illumina_humanwg_6_v3|1230048|1230048	entrezgene|5243|5243	refseq_dna|NM_000927|NM_000927	hgnc_symbol|ABCB1|ABCB1
+illumina_humanwg_6_v3|5820538|5820538	entrezgene|5460|5460	refseq_dna|NM_203289|NM_203289	hgnc_symbol|POU5F1|POU5F1
+illumina_humanwg_6_v3|3610615|3610615	entrezgene|5570|5570	refseq_dna|NM_181794|NM_181794	hgnc_symbol|PKIB|PKIB
+illumina_humanwg_6_v3|2690452|2690452	entrezgene|5645|5645	refseq_dna|NM_002770|NM_002770	hgnc_symbol|PRSS2|PRSS2
+illumina_humanwg_6_v3|1110180|1110180	entrezgene|6095|6095	refseq_dna|NM_134260|NM_134260	hgnc_symbol|RORA|RORA
+illumina_humanwg_6_v3|1510424|1510424	entrezgene|6286|6286	refseq_dna|NM_005980|NM_005980	hgnc_symbol|S100P|S100P
+illumina_humanwg_6_v3|5690167|5690167	entrezgene|6405|6405	refseq_dna|NM_004186|NM_004186	hgnc_symbol|SEMA3F|SEMA3F
+illumina_humanwg_6_v3|4200754|4200754	entrezgene|6484|6484	refseq_dna|NM_006278|NM_006278	hgnc_symbol|ST3GAL4|ST3GAL4
+illumina_humanwg_6_v3|3800168|3800168	entrezgene|6515|6515	refseq_dna|NM_006931|NM_006931	hgnc_symbol|SLC2A3|SLC2A3
+illumina_humanwg_6_v3|3710154|3710154	entrezgene|6542|6542	refseq_dna|NM_003046|NM_003046	hgnc_symbol|SLC7A2|SLC7A2
+illumina_humanwg_6_v3|1230672|1230672	entrezgene|7031|7031	refseq_dna|NM_003225|NM_003225	hgnc_symbol|TFF1|TFF1
+illumina_humanwg_6_v3|1090326|1090326	entrezgene|7079|7079	refseq_dna|NM_003256|NM_003256	hgnc_symbol|TIMP4|TIMP4
+illumina_humanwg_6_v3|6100259|6100259	entrezgene|7447|7447	refseq_dna|NM_003385|NM_003385	hgnc_symbol|VSNL1|VSNL1
+illumina_humanwg_6_v3|1740451|1740451	entrezgene|7850|7850	refseq_dna|NM_173343|NM_173343	hgnc_symbol|IL1R2|IL1R2
+illumina_humanwg_6_v3|620102|620102	entrezgene|7851|7851	refseq_dna|NM_005434|NM_005434	hgnc_symbol|MALL|MALL
+illumina_humanwg_6_v3|1070189|1070189	entrezgene|8313|8313	refseq_dna|NM_004655|NM_004655	hgnc_symbol|AXIN2|AXIN2
+illumina_humanwg_6_v3|4810341|4810341	entrezgene|8530|8530	refseq_dna|NM_003650|NM_003650	hgnc_symbol|CST7|CST7
+illumina_humanwg_6_v3|7210632|7210632	entrezgene|8644|8644	refseq_dna|NM_003739|NM_003739	hgnc_symbol|AKR1C3|AKR1C3
+illumina_humanwg_6_v3|4610520|4610520	entrezgene|9245|9245	refseq_dna|NM_004751|NM_004751	hgnc_symbol|GCNT3|GCNT3
+illumina_humanwg_6_v3|1850349|1850349	entrezgene|9843|9843	refseq_dna|NM_014799|NM_014799	hgnc_symbol|HEPH|HEPH
+illumina_humanwg_6_v3|7650441|7650441	entrezgene|9982|9982	refseq_dna|NM_005130|NM_005130	hgnc_symbol|FGFBP1|FGFBP1
+illumina_humanwg_6_v3|6060209|6060209	entrezgene|10020|10020	refseq_dna|NM_005476|NM_005476	hgnc_symbol|GNE|GNE
+illumina_humanwg_6_v3|7510025|7510025	entrezgene|10099|10099	refseq_dna|NM_005724|NM_005724	hgnc_symbol|TSPAN3|TSPAN3
+illumina_humanwg_6_v3|630315|630315	entrezgene|10170|10170	refseq_dna|NM_005771|NM_005771	hgnc_symbol|DHRS9|DHRS9
+illumina_humanwg_6_v3|360132|360132	entrezgene|10184|10184	refseq_dna|NM_005779|NM_005779	hgnc_symbol|LHFPL2|LHFPL2
+illumina_humanwg_6_v3|7050064|7050064	entrezgene|10267|10267	refseq_dna|NM_005855|NM_005855	hgnc_symbol|RAMP1|RAMP1
+illumina_humanwg_6_v3|5820121|5820121	entrezgene|10497|10497	refseq_dna|NM_006377|NM_006377	hgnc_symbol|UNC13B|UNC13B
+illumina_humanwg_6_v3|3140463|3140463	entrezgene|10551|10551	refseq_dna|NM_006408|NM_006408	hgnc_symbol|AGR2|AGR2
+illumina_humanwg_6_v3|4230669|4230669	entrezgene|10924|10924	refseq_dna|NM_006714|NM_006714	hgnc_symbol|SMPDL3A|SMPDL3A
+illumina_humanwg_6_v3|1850674|1850674	entrezgene|11074|11074	refseq_dna|NM_007028|NM_007028	hgnc_symbol|TRIM31|TRIM31
+illumina_humanwg_6_v3|160612|160612	entrezgene|11343|11343	refseq_dna|NM_007283|NM_007283	hgnc_symbol|MGLL|MGLL
+illumina_humanwg_6_v3|3180039|3180039	entrezgene|23179|23179	refseq_dna|NM_015149|NM_015149	hgnc_symbol|RGL1|RGL1
+illumina_humanwg_6_v3|770475|770475	entrezgene|23359|23359	refseq_dna|NM_015307|NM_015307	hgnc_symbol|KIAA0574|KIAA0574
+illumina_humanwg_6_v3|4860537|4860537	entrezgene|23428|23428	refseq_dna|NM_182728|NM_182728	hgnc_symbol|SLC7A8|SLC7A8
+illumina_humanwg_6_v3|780750|780750	entrezgene|23650|23650	refseq_dna|NM_012101|NM_012101	hgnc_symbol|TRIM29|TRIM29
+illumina_humanwg_6_v3|2750128|2750128	entrezgene|23657|23657	refseq_dna|NM_014331|NM_014331	hgnc_symbol|SLC7A11|SLC7A11
+illumina_humanwg_6_v3|6450327|6450327	entrezgene|23705|23705	refseq_dna|NM_001098517|NM_001098517	hgnc_symbol|CADM1|CADM1
+illumina_humanwg_6_v3|430050|430050	entrezgene|25805|25805	refseq_dna|NM_012342|NM_012342	hgnc_symbol|BAMBI|BAMBI
+illumina_humanwg_6_v3|1240037|1240037	entrezgene|25849|25849	refseq_dna|NM_015393|NM_015393	hgnc_symbol|DKFZP564O0823|DKFZP564O0823
+illumina_humanwg_6_v3|7380221|7380221	entrezgene|26010|26010	refseq_dna|NM_001100422|NM_001100422	hgnc_symbol|LOC26010|LOC26010
+illumina_humanwg_6_v3|6560112|6560112	entrezgene|27063|27063	refseq_dna|NM_014391|NM_014391	hgnc_symbol|ANKRD1|ANKRD1
+illumina_humanwg_6_v3|3890246|3890246	entrezgene|27111|27111	refseq_dna|NM_080489|NM_080489	hgnc_symbol|SDCBP2|SDCBP2
+illumina_humanwg_6_v3|1430673|1430673	entrezgene|27111|27111	refseq_dna|NM_080489|NM_080489	hgnc_symbol|SDCBP2|SDCBP2
+illumina_humanwg_6_v3|6550427|6550427	entrezgene|29113|29113	refseq_dna|NM_014070|NM_014070	hgnc_symbol|C6orf15|C6orf15
+illumina_humanwg_6_v3|5490528|5490528	entrezgene|51062|51062	refseq_dna|NM_181598|NM_181598	hgnc_symbol|SPG3A|SPG3A
+illumina_humanwg_6_v3|2810601|2810601	entrezgene|51176|51176	refseq_dna|NM_016269|NM_016269	hgnc_symbol|LEF1|LEF1
+illumina_humanwg_6_v3|520682|520682	entrezgene|51200|51200	refseq_dna|NM_016352|NM_016352	hgnc_symbol|CPA4|CPA4
+illumina_humanwg_6_v3|6420630|6420630	entrezgene|51435|51435	refseq_dna|NM_016240|NM_016240	hgnc_symbol|SCARA3|SCARA3
+illumina_humanwg_6_v3|5290674|5290674	entrezgene|54474|54474	refseq_dna|NM_019010|NM_019010	hgnc_symbol|KRT20|KRT20
+illumina_humanwg_6_v3|2630332|2630332	entrezgene|54658|54658	refseq_dna|NM_000463|NM_000463	hgnc_symbol|UGT1A1|UGT1A1
+illumina_humanwg_6_v3|20292|20292	entrezgene|55283|55283	refseq_dna|NM_018298|NM_018298	hgnc_symbol|MCOLN3|MCOLN3
+illumina_humanwg_6_v3|3780743|3780743	entrezgene|55304|55304	refseq_dna|NM_018327|NM_018327	hgnc_symbol|SPTLC3|SPTLC3
+illumina_humanwg_6_v3|2360672|2360672	entrezgene|55504|55504	refseq_dna|NM_148957|NM_148957	hgnc_symbol|TNFRSF19|TNFRSF19
+illumina_humanwg_6_v3|6770095|6770095	entrezgene|55504|55504	refseq_dna|NM_018647|NM_018647	hgnc_symbol|TNFRSF19|TNFRSF19
+illumina_humanwg_6_v3|5310646|5310646	entrezgene|57016|57016	refseq_dna|NM_020299|NM_020299	hgnc_symbol|AKR1B10|AKR1B10
+illumina_humanwg_6_v3|2680670|2680670	entrezgene|57600|57600	hgnc_symbol|FNIP2|FNIP2
+illumina_humanwg_6_v3|4490544|4490544	entrezgene|58530|58530	refseq_dna|NM_021246|NM_021246	hgnc_symbol|LY6G6D|LY6G6D
+illumina_humanwg_6_v3|2140431|2140431	entrezgene|64359|64359	refseq_dna|NM_022463|NM_022463	hgnc_symbol|NXN|NXN
+illumina_humanwg_6_v3|6560239|6560239	entrezgene|66002|66002	refseq_dna|NM_023944|NM_023944	hgnc_symbol|CYP4F12|CYP4F12
+illumina_humanwg_6_v3|2470102|2470102	entrezgene|79783|79783	refseq_dna|NM_024728|NM_024728	hgnc_symbol|C7orf10|C7orf10
+illumina_humanwg_6_v3|5690647|5690647	entrezgene|80736|80736	refseq_dna|NM_025257|NM_025257	hgnc_symbol|SLC44A4|SLC44A4
+illumina_humanwg_6_v3|610010|610010	entrezgene|80736|80736	refseq_dna|NM_025257|NM_025257	hgnc_symbol|SLC44A4|SLC44A4
+illumina_humanwg_6_v3|2570730|2570730	entrezgene|83604|83604	refseq_dna|NM_031442|NM_031442	hgnc_symbol|TMEM47|TMEM47
+illumina_humanwg_6_v3|780341|780341	entrezgene|83643|83643	refseq_dna|NM_031455|NM_031455	hgnc_symbol|CCDC3|CCDC3
+illumina_humanwg_6_v3|6590438|6590438	entrezgene|83998|83998	refseq_dna|NM_032044|NM_032044	hgnc_symbol|REG4|REG4
+illumina_humanwg_6_v3|1340253|1340253	entrezgene|84133|84133	refseq_dna|NM_032173|NM_032173	hgnc_symbol|ZNRF3|ZNRF3
+illumina_humanwg_6_v3|4070719|4070719	entrezgene|84419|84419	refseq_dna|NM_032413|NM_032413	hgnc_symbol|C15orf48|C15orf48
+illumina_humanwg_6_v3|1110373|1110373	entrezgene|84419|84419	refseq_dna|NM_032413|NM_032413	hgnc_symbol|C15orf48|C15orf48
+illumina_humanwg_6_v3|240615|240615	entrezgene|84918|84918	refseq_dna|NM_032832|NM_032832	hgnc_symbol|LRP11|LRP11
+illumina_humanwg_6_v3|5570025|5570025	entrezgene|85407|85407	refseq_dna|NM_033119|NM_033119	hgnc_symbol|NKD1|NKD1
+illumina_humanwg_6_v3|3780441|3780441	entrezgene|90102|90102	refseq_dna|NM_145753|NM_145753	hgnc_symbol|PHLDB2|PHLDB2
+illumina_humanwg_6_v3|610301|610301	entrezgene|90102|90102	refseq_dna|NM_145753|NM_145753	hgnc_symbol|PHLDB2|PHLDB2
+illumina_humanwg_6_v3|270681|270681	entrezgene|90865|90865	refseq_dna|NM_033439|NM_033439	hgnc_symbol|IL33|IL33
+illumina_humanwg_6_v3|3130593|3130593	entrezgene|120939|120939	refseq_dna|NM_153022|NM_153022	hgnc_symbol|C12orf59|C12orf59
+illumina_humanwg_6_v3|3420241|3420241	entrezgene|144195|144195	refseq_dna|NM_153449|NM_153449	hgnc_symbol|SLC2A14|SLC2A14
+illumina_humanwg_6_v3|4730523|4730523	entrezgene|147920|147920	refseq_dna|NM_001002915|NM_001002915	hgnc_symbol|IGFL2|IGFL2
+illumina_humanwg_6_v3|2230382|2230382	entrezgene|151162|151162	hgnc_symbol|LOC151162|LOC151162
+illumina_humanwg_6_v3|2060112|2060112	entrezgene|151195|151195	refseq_dna|NM_152523|NM_152523	hgnc_symbol|CCNYL1|CCNYL1
+illumina_humanwg_6_v3|1410398|1410398	entrezgene|151195|151195	refseq_dna|NM_152523|NM_152523	hgnc_symbol|CCNYL1|CCNYL1
+illumina_humanwg_6_v3|1570168|1570168	entrezgene|166336|166336	refseq_dna|NM_198859|NM_198859	hgnc_symbol|PRICKLE2|PRICKLE2
+illumina_humanwg_6_v3|6270703|6270703	entrezgene|201501|201501	hgnc_symbol|ZBTB7C|ZBTB7C
+illumina_humanwg_6_v3|1110300|1110300	entrezgene|201799|201799	refseq_dna|NM_152680|NM_152680	hgnc_symbol|TMEM154|TMEM154
+illumina_humanwg_6_v3|10070|10070	entrezgene|245973|245973	refseq_dna|NM_001039362|NM_001039362	hgnc_symbol|ATP6V1C2|ATP6V1C2
+illumina_humanwg_6_v3|6370364|6370364	entrezgene|256227|256227	refseq_dna|XM_001723293|XM_001723293	hgnc_symbol|MGC87042|MGC87042
+illumina_humanwg_6_v3|5340017|5340017	entrezgene|283120|283120	refseq_dna|NR_002196|NR_002196	hgnc_symbol|H19|H19
+illumina_humanwg_6_v3|2600379|2600379	entrezgene|286343|286343	refseq_dna|NM_203403|NM_203403	hgnc_symbol|C9orf150|C9orf150
+illumina_humanwg_6_v3|3180097|3180097	entrezgene|338557|338557	refseq_dna|NM_181745|NM_181745	hgnc_symbol|GPR120|GPR120
+illumina_humanwg_6_v3|6450162|6450162	entrezgene|375791|375791	refseq_dna|NM_199001|NM_199001	hgnc_symbol|C9orf169|C9orf169
+illumina_humanwg_6_v3|5910291|5910291	entrezgene|387496|387496	refseq_dna|NM_206827|NM_206827	hgnc_symbol|RASL11A|RASL11A
+illumina_humanwg_6_v3|1710575|1710575	entrezgene|440603|440603	refseq_dna|NM_001010922|NM_001010922	hgnc_symbol|BCL2L15|BCL2L15
+illumina_humanwg_6_v3|7510128|7510128	entrezgene|441519|441519	refseq_dna|NM_001017435|NM_001017435	hgnc_symbol|RP13-36C9.3|RP13-36C9.3
+illumina_humanwg_6_v3|3120598|3120598	entrezgene|648517|648517	refseq_dna|XM_001724119|XM_001724119	hgnc_symbol|LOC648517|LOC648517
+illumina_humanwg_6_v3|7200743|7200743
+illumina_humanwg_6_v3|6760706|6760706
+illumina_humanwg_6_v3|4570255|4570255
+illumina_humanwg_6_v3|7650639|7650639
+illumina_humanwg_6_v3|6420475|6420475
+illumina_humanwg_6_v3|270241|270241
+illumina_humanwg_6_v3|6400564|6400564
+illumina_humanwg_6_v3|4540446|4540446
+illumina_humanwg_6_v3|6560601|6560601
+illumina_humanwg_6_v3|4860280|4860280
+illumina_humanwg_6_v3|1450301|1450301
+illumina_humanwg_6_v3|6620504|6620504
+illumina_humanwg_6_v3|2260241|2260241
+illumina_humanwg_6_v3|4290037|4290037
+illumina_humanwg_6_v3|3460008|3460008
+illumina_humanwg_6_v3|7400377|7400377
+illumina_humanwg_6_v3|2710400|2710400
+illumina_humanwg_6_v3|6290707|6290707

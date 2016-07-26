@@ -1,0 +1,86 @@
+# Generate Mapping Tables Script: Version 4 11:03 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:03 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+hgnc_symbol|ABCB1|ABCB1
+hgnc_symbol|ABCG2|ABCG2
+hgnc_symbol|APITD1|APITD1
+hgnc_symbol|ASCC1|ASCC1
+hgnc_symbol|BBX|BBX
+hgnc_symbol|BICD1|BICD1
+hgnc_symbol|BLM|BLM
+hgnc_symbol|BMI1|BMI1
+hgnc_symbol|BUB1B|BUB1B
+hgnc_symbol|C12orf11|C12orf11
+hgnc_symbol|C20orf3|C20orf3
+hgnc_symbol|CBLB|CBLB
+hgnc_symbol|CCT4|CCT4
+hgnc_symbol|CD44|CD44
+hgnc_symbol|CDC2|CDC2
+hgnc_symbol|CDC42BPA|CDC42BPA
+hgnc_symbol|CENPF|CENPF
+hgnc_symbol|CENPN|CENPN
+hgnc_symbol|CKLF|CKLF
+hgnc_symbol|CLUAP1|CLUAP1
+hgnc_symbol|DCLRE1A|DCLRE1A
+hgnc_symbol|DSCC1|DSCC1
+hgnc_symbol|DSG2|DSG2
+hgnc_symbol|DTL|DTL
+hgnc_symbol|DYNC2LI1|DYNC2LI1
+hgnc_symbol|EPAS1|EPAS1
+hgnc_symbol|FXR1|FXR1
+hgnc_symbol|GOLIM4|GOLIM4
+hgnc_symbol|GPR89A /// GPR89B /// GPR89C|GPR89A /// GPR89B /// GPR89C
+hgnc_symbol|GRSF1|GRSF1
+hgnc_symbol|HIF1A|HIF1A
+hgnc_symbol|HIST1H4J|HIST1H4J
+hgnc_symbol|HLTF|HLTF
+hgnc_symbol|HPRT1|HPRT1
+hgnc_symbol|IL6|IL6
+hgnc_symbol|KCNS3|KCNS3
+hgnc_symbol|KLF4|KLF4
+hgnc_symbol|KLHL20|KLHL20
+hgnc_symbol|LDHB|LDHB
+hgnc_symbol|LILRA5|LILRA5
+hgnc_symbol|LSM4|LSM4
+hgnc_symbol|MCAM|MCAM
+hgnc_symbol|MGC31957|MGC31957
+hgnc_symbol|MRPS14|MRPS14
+hgnc_symbol|MSH6|MSH6
+hgnc_symbol|MYC|MYC
+hgnc_symbol|NANOG|NANOG
+hgnc_symbol|NSL1|NSL1
+hgnc_symbol|NUCKS1|NUCKS1
+hgnc_symbol|NUP133|NUP133
+hgnc_symbol|NVL|NVL
+hgnc_symbol|PLCB1|PLCB1
+hgnc_symbol|POMT1|POMT1
+hgnc_symbol|POU5F1 /// POU5F1B /// POU5F1P3 /// POU5F1P4|POU5F1 /// POU5F1B /// POU5F1P3 /// POU5F1P4
+hgnc_symbol|PRUNE|PRUNE
+hgnc_symbol|R3HDM1|R3HDM1
+hgnc_symbol|RBBP8|RBBP8
+hgnc_symbol|RBMX2|RBMX2
+hgnc_symbol|RFC5|RFC5
+hgnc_symbol|RHEB|RHEB
+hgnc_symbol|SH3BP4|SH3BP4
+hgnc_symbol|SIRT5|SIRT5
+hgnc_symbol|SLC25A13|SLC25A13
+hgnc_symbol|SLC25A36|SLC25A36
+hgnc_symbol|SNAI1|SNAI1
+hgnc_symbol|SNAI2|SNAI2
+hgnc_symbol|SOX2|SOX2
+hgnc_symbol|SPAG5|SPAG5
+hgnc_symbol|STAT3|STAT3
+hgnc_symbol|TAF5|TAF5
+hgnc_symbol|TFAM|TFAM
+hgnc_symbol|TMEM97|TMEM97
+hgnc_symbol|TOP2A|TOP2A
+hgnc_symbol|TRIM37|TRIM37
+hgnc_symbol|TWIST1|TWIST1
+hgnc_symbol|UGGT1|UGGT1
+hgnc_symbol|WDR67|WDR67
+hgnc_symbol|ZEB1|ZEB1
+hgnc_symbol|ZFP64|ZFP64
+hgnc_symbol|ZNF148|ZNF148

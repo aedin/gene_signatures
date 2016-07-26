@@ -1,0 +1,11 @@
+microRNA	p-value	Fold change absolute	Regulation NR/CR	NR average expression	CR average expression	Chromosome	Accession
+hsa-mir-31	0.0091	2.21	down	1.14	2.51	chr9	MIMAT0000089
+hsa-mir-125b	0.0233	1.72	down	1.17	2.02	chr11	MIMAT0000423
+hsa-mir-10a	0.0234	1.85	down	1.08	1.99	chr17	MIMAT0000253
+hsa-mir-181d	0.0452	1.29	down	1.49	1.92	chr19	MIMAT0002821
+hsa-mir-126	0.0462	1.18	down	1.14	1.35	chr9	MIMAT0000444
+hsa-mir-21	0.0068	3.65	up	8.13	2.23	chr17	MIMAT0004494
+hsa-mir-222	0.0096	2.12	up	70.59	33.31	chrX	MIMAT0000279
+hsa-mir-28	0.0201	3.38	up	5.04	1.49	chr3	MIMAT0004502
+hsa-mir-194	0.0347	2.4	up	14.59	6.08	chr1	MIMAT0000460
+hsa-mir-148a	0.0414	3.44	up	73.41	21.33	chr7	MIMAT0000243

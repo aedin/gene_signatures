@@ -1,0 +1,11 @@
+Rank	Probe set	Gene symbol	Elevated in	SAM analysis  Score	SAM analysis  FDR (%)	Cox regression analysis  HR	Cox regression P	P (adjusted for MLL)	P (adjusted for age)
+1	211382_s_at	TACC2	High risk	2.5	< 1	1.51	0.001	0.007	0.001
+2	228462_at	IRX2	High risk	2.23	< 1	1.45	0.001	0.006	0.002
+3	202289_s_at	TACC2	High risk	2.15	< 1	1.42	0.003	0.028	0.007
+4	205403_at	IL1R2	High risk	1.99	< 1	1.48	0.001	0.018	0.016
+5	206674_at	FLT3	High risk	1.94	< 1	1.54	0.009	0.248	0.002
+6	202609_at	EPS8	High risk	1.78	9.77	1.38	0.004	0.03	0.009
+7	220448_at	KCNK12	High risk	1.77	9.77	1.39	0.019	0.428	0.015
+8	204150_at	STAB1	High risk	1.77	9.77	1.42	0.003	0.019	0.012
+9	214156_at	MYRIP	High risk	1.76	9.77	1.49	0.001	0.008	0.008
+10	204069_at	MEIS1	High risk	1.72	9.77	1.37	0.027	0.65	0.016

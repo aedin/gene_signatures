@@ -1,0 +1,42 @@
+# Generate Mapping Tables Script: Version 4 11:05 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:05 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+refseq_dna|NM_004599|NM_004599	hgnc_symbol|SREBF2|SREBF2
+refseq_dna|NM_004575|NM_004575	hgnc_symbol|POU4F2|POU4F2
+refseq_dna|NM_014353|NM_014353	hgnc_symbol|RAB26|RAB26
+refseq_dna|NM_003201|NM_003201	hgnc_symbol|TFAM|TFAM
+refseq_dna|NM_002466|NM_002466	hgnc_symbol|MYBL2|MYBL2
+refseq_dna|NM_003472|NM_003472	hgnc_symbol|DEK|DEK
+refseq_dna|NM_005544|NM_005544	hgnc_symbol|IRS1|IRS1
+refseq_dna|NM_007314|NM_007314	hgnc_symbol|ABL2|ABL2
+refseq_dna|NM_001018067|NM_001018067	hgnc_symbol|SERBP1|SERBP1
+refseq_dna|NM_001135599|NM_001135599	hgnc_symbol|TGFB2|TGFB2
+refseq_dna|NM_201446|NM_201446	hgnc_symbol|EGFL7|EGFL7
+refseq_dna|NM_000291|NM_000291	hgnc_symbol|PGK1|PGK1
+refseq_dna|NM_000597|NM_000597	hgnc_symbol|IGFBP2|IGFBP2
+refseq_dna|NM_002529|NM_002529	hgnc_symbol|NTRK1|NTRK1
+refseq_dna|NM_016238|NM_016238	hgnc_symbol|ANAPC7|ANAPC7
+refseq_dna|NM_001786|NM_001786	hgnc_symbol|CDC2|CDC2
+refseq_dna|NM_032637|NM_032637	hgnc_symbol|SKP2|SKP2
+refseq_dna|NM_057749|NM_057749	hgnc_symbol|CCNE2|CCNE2
+refseq_dna|NM_001239|NM_001239	hgnc_symbol|CCNH|CCNH
+refseq_dna|NM_005375|NM_005375	hgnc_symbol|MYB|MYB
+refseq_dna|NM_002358|NM_002358	hgnc_symbol|MAD2L1|MAD2L1
+refseq_dna|NM_182776|NM_182776	hgnc_symbol|MCM7|MCM7
+refseq_dna|NM_001761|NM_001761	hgnc_symbol|CCNF|CCNF
+refseq_dna|NM_002497|NM_002497	hgnc_symbol|NEK2|NEK2
+refseq_dna|NM_015471|NM_015471	hgnc_symbol|NSL1|NSL1
+refseq_dna|NM_005733|NM_005733	hgnc_symbol|KIF20A|KIF20A
+refseq_dna|NM_014875|NM_014875	hgnc_symbol|KIF14|KIF14
+refseq_dna|NM_003259|NM_003259	hgnc_symbol|ICAM5|ICAM5
+refseq_dna|NM_004143|NM_004143	hgnc_symbol|CITED1|CITED1
+refseq_dna|NM_005207|NM_005207	hgnc_symbol|CRKL|CRKL
+refseq_dna|NM_001001928|NM_001001928	hgnc_symbol|PPARA|PPARA
+refseq_dna|NM_005559|NM_005559	hgnc_symbol|LAMA1|LAMA1
+refseq_dna|NM_021130|NM_021130	hgnc_symbol|PPIA|PPIA
+refseq_dna|NM_004559|NM_004559	hgnc_symbol|YBX1|YBX1
+refseq_dna|NM_016561|NM_016561	hgnc_symbol|BFAR|BFAR
+refseq_dna|NM_004874|NM_004874	hgnc_symbol|BAG4|BAG4

@@ -1,0 +1,43 @@
+# Generate Mapping Tables Script: Version 4 11:03 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:03 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+entrezgene|AF101051|9076	hgnc_symbol|CLDN1|CLDN1
+entrezgene|BC004372|960	hgnc_symbol|CD44|CD44
+entrezgene|BC000141|100130526	hgnc_symbol|MYC|MYC
+entrezgene|BC016623|2118	hgnc_symbol|ETV4|ETV4
+entrezgene|BC101533|8313	hgnc_symbol|AXIN2|AXIN2
+entrezgene|BC057801|430	hgnc_symbol|ASCL2|ASCL2
+entrezgene|BC023620|595	hgnc_symbol|CCND1|CCND1
+entrezgene|BC052968|2049	hgnc_symbol|EPHB3|EPHB3
+entrezgene|AF144755|29923	hgnc_symbol|HIG2|HIG2
+entrezgene|BC051288|85407	hgnc_symbol|NKD1|NKD1
+entrezgene|BC056420|6662	hgnc_symbol|SOX9|SOX9
+entrezgene|AK127829|5308	hgnc_symbol|PITX2|PITX2
+entrezgene|AB208876|8312	hgnc_symbol|AXIN1|AXIN1
+entrezgene|BC006490|1454	hgnc_symbol|CSNK1E|CSNK1E
+entrezgene|AF025304|2048	hgnc_symbol|EPHB2|EPHB2
+entrezgene|AK075399|8549	hgnc_symbol|LGR5|LGR5
+entrezgene|BX537413|64220	hgnc_symbol|STRA6|STRA6
+entrezgene|M17017|3576	hgnc_symbol|IL8|IL8
+embl|AL834166|AL834166	hgnc_symbol|TCF7|TCF7
+entrezgene|BC034148|332	hgnc_symbol|BIRC5|BIRC5
+entrezgene|BC116451|607	hgnc_symbol|BCL9|BCL9
+entrezgene|BC003635|4316	hgnc_symbol|MMP7|MMP7
+entrezgene|D89377|4488	hgnc_symbol|MSX2|MSX2P1|MSX2|MSX2P1
+entrezgene|AF100779|8840	hgnc_symbol|WISP1|WISP1
+entrezgene|BC130420|4233	hgnc_symbol|MET|MET
+entrezgene|BC072668|6659	hgnc_symbol|SOX4|SOX4
+entrezgene|U75651|1857	hgnc_symbol|DVL3|DVL3
+entrezgene|BC053324|147495	hgnc_symbol|APCDD1|APCDD1
+entrezgene|AB039723|7976	hgnc_symbol|FZD3|FZD3
+entrezgene|AF095288|10744	hgnc_symbol|PTTG1|PTTG2|PTTG1|PTTG2
+entrezgene|BC078170|7472	hgnc_symbol|WNT2|WNT2
+entrezgene|AK290588|5916	hgnc_symbol|RARG|RARG
+entrezgene|BC064694|7474	hgnc_symbol|WNT5A|WNT5A
+entrezgene|AF130988|10913	hgnc_symbol|EDAR|EDAR
+entrezgene|BC060836|8323	hgnc_symbol|FZD6|FZD6
+entrezgene|AK223291|4314	hgnc_symbol|MMP3|MMP3
+entrezgene|AF077820|4041	hgnc_symbol|LRP5|LRP5

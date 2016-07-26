@@ -1,0 +1,78 @@
+Gene symbol	Accession number	Gene name	P-value	Fold change	Domain
+SNED1	NM_001080437	Sushi, nidogen and EGF-like domains 1	<0.001	2.494	Cell adhesion
+TTYH1	NM_020659	Tweety homolog 1 (Drosophila)	0.016	2.374	Cell adhesion
+GPR98	AL136541	G protein-coupled receptor 98	0.047	2.11	Cell adhesion
+SPON2	NM_012445	Spondin 2, extracellular matrix protein	0.02	2.029	Cell adhesion
+MYL1	NM_079420	Myosin, light chain 1, alkali; skeletal, fast	0.02	5.571	Cytoskeleton/cell motility
+TNNI2	NM_003282	Troponin I type 2 (skeletal, fast)	0.036	5.211	Cytoskeleton/cell motility
+MYO1A	NM_005379	Myosin IA	0.025	2.677	Cytoskeleton/cell motility
+TTLL6	NM_173623	Tubulin tyrosine ligase-like family, member 6	<0.001	2.57	Cytoskeleton/cell motility
+COL8A1	NM_001850	Collagen, type VIII, alpha1	0.02	2.933	Extracellular matrix remodeling
+COL6A3	NM_004369	Collagen, type VI, alpha3	0.016	2.246	Extracellular matrix remodeling
+LEFTY1	NM_020997	Left-right determination factor 1	0.02	2.836	Cell-cell signaling (cytokine/chemokine)
+CDNF	NM_001029954	Cerebral dopamine neurotrophic factor	0.02	2.654	Cell-cell signaling (cytokine/chemokine)
+CHIA	NM_021797	Chitinase, acidic	0.046	2.302	Cell-cell signaling (cytokine/chemokine)
+PPP1R1B	NM_032192	Protein phosphatase 1, regulatory (inhibitor) subunit 1B	0.016	3.376	Signal transduction
+GUCY1B3	NM_000857	Guanylate cyclase 1, soluble, beta3	0.02	2.613	Signal transduction
+DOK7	NM_173660	Docking protein 7	0.046	2.463	Signal transduction
+TM4SF4	NM_004617	Transmembrane 4 L six family member 4	0.032	2.429	Signal transduction
+PTPRD	NM_002839	Protein tyrosine phosphatase, receptor type, D	0.011	2.222	Signal transduction
+ARHGAP29	BC022483	Rho GTPase activating protein 29	0.016	2.211	Signal transduction
+FOLR1	NM_016725	Folate receptor 1 (adult)	0.02	2.178	Signal transduction
+CLEC11A	NM_002975	C-type lectin domain family 11, member A	0.01	2.101	Signal transduction
+FGFR3	NM_000142	Fibroblast growth factor receptor 3, variant 1	0.013	2.071	Signal transduction
+POU2AF1	NM_006235	POU class 2 associating factor 1	0.01	4.962	Immune response
+PLA2G1B	NM_000928	Phospholipase A2, group IB (pancreas)	0.016	2.298	Immune response
+RNF125	AK027134	Ring finger protein 125	0.016	2.076	Immune response
+PNMT	NM_002686	Phenylethanolamine N-methyltransferase	0.02	3.681	Metabolism/catalytic activity
+C3orf57	NM_001040100	Chromosome 3 open reading frame 57	0.01	3.361	Metabolism/catalytic activity
+ECHDC3	NM_024693	Enoyl Coenzyme A hydratase domain containing 3	0.01	3.086	Metabolism/catalytic activity
+CTSO	NM_001334	Cathepsin O	0.032	2.766	Metabolism/catalytic activity
+NUDT7	NM_001105663	Nudix (nucleoside diphosphate linked moiety X)-type motif 7	0.024	2.617	Metabolism/catalytic activity
+METTL7A	NM_014033	Methyltransferase like 7A	0.015	2.42	Metabolism/catalytic activity
+ADPRHL1	NM_138430	ADP-ribosylhydrolase like 1	<0.001	2.37	Metabolism/catalytic activity
+PACSIN1	NM_020804	Protein kinase C and casein kinase substrate in neurons 1	0.015	2.25	Metabolism/catalytic activity
+GPIHBP1	NM_178172	Glycosylphosphatidylinositol anchored high density lipoprotein binding protein 1	0.02	2.21	Metabolism/catalytic activity
+FMO5	NM_001461	Flavin containing monooxygenase 5	0.038	2.178	Metabolism/catalytic activity
+PACSIN1	NM_020804	Protein kinase C and casein kinase substrate in neurons 1	0.016	2.16	Metabolism/catalytic activity
+CRYM	NM_001888	Crystallin, mu	0.04	2.131	Metabolism/catalytic activity
+STK31	NM_032944	Serine/threonine kinase 31	0.032	2.066	Metabolism/catalytic activity
+MDH1B	BC033509	Malate dehydrogenase 1B, NAD (soluble)	0.032	2.054	Metabolism/catalytic activity
+SPTLC3	NM_018327	Serine palmitoyltransferase, long chain base subunit 3	0.016	2.01	Metabolism/catalytic activity
+DAPL1	NM_001017920	Death associated protein-like 1	0.01	9.621	Cell cycle, apoptosis
+PLK1S1	BC039296	Polo-like kinase 1 substrate 1	0.021	2.216	Cell cycle, apoptosis
+N/A	AF023203	Homeobox protein Og12 (OGL12)	0.02	8.619	Transcription
+CACNG7	NM_031896.4	Calcium channel, voltage-dependent, gamma subunit 7	0.01	5.516	Transporter activity
+ATP2A1	NM_173201	ATPase, Ca2+ transporting, cardiac muscle, fast twitch 1	0.013	5.21	Transporter activity
+CCT6B	NM_006584	Chaperonin containing TCP1, subunit 6B (?2)	0.016	3.507	Transporter activity
+SLC16A14	NM_152527	Solute carrier family 16, member 14 (monocarboxylicacid transporter 14)	0.024	2.952	Transporter activity
+SLC5A9	NM_001011547	Solute carrier family 5 (sodium/glucose cotransporter),member 9	0.032	2.377	Transporter activity
+SLC23A1	NM_152685	Solute carrier family 23 (nucleobase transporters),member 1	0.032	2.29	Transporter activity
+SLC16A14	NM_152527	Solute carrier family 16, member 14 (monocarboxylic acid transporter 14)	0.017	2.05	Transporter activity
+ABCD3	NM_002858	ATP-binding cassette, sub-family D (ALD), member 3	0.016	2.034	Transporter activity
+GLTPD2	NM_001014985	Glycolipid transfer protein domain containing 2	0.015	2.027	Transporter activity
+EFHC2	NM_025184	EF-hand domain (C-terminal) containing 2	0.015	4.518	Calcium ion binding
+EFHB	NM_144715	EF-hand domain family, member B	0.04	2.392	Calcium ion binding
+ANXA13	NM_001003954	Annexin A13	0.029	2.108	Calcium ion binding
+ITM2A	NM_004867	Integral membrane protein 2A	0.011	4.216	The others
+APCDD1L	NM_153360	Adenomatosis polyposis coli down-regulated 1-like	0.047	4.034	The others
+RSPH1	NM_080860	Radial spoke head 1 homolog (Chlamydomonas)	0.01	3.3	The others
+NEB	NM_004543	Nebulin	0.015	2.603	The others
+DENND1B	AL831839	DENN/MADD domain containing 1B	0.032	2.011	The others
+C17orf108	NM_001076680	Chromosome 17 open reading frame 108	0.01	4.16	Unknown
+C11orf93	NM_001136105	Chromosome 11 open reading frame 93	0.01	3.023	Unknown
+UNQ1944	AY358202	RVLA1944	0.044	2.704	Unknown
+DENND2C	CR749576	DENN/MADD domain containing 2C	0.025	2.7	Unknown
+FAM167A	NM_053279	Family with sequence similarity 167, member A	0.037	2.666	Unknown
+PRY2	NM_001002758	PTPN13-like, Y-linked 2	0.03	2.598	Unknown
+C11orf92	NM_207429	Chromosome 11 open reading frame 92	0.015	2.554	Unknown
+N/A	AL833005		0.016	2.465	Unknown
+REEP2	NM_016606	Receptor accessory protein 2	0.01	2.319	Unknown
+C17orf108	BC042947	Chromosome 17 open reading frame 108	0.034	2.3	Unknown
+N/A	AK023574		0.04	2.253	Unknown
+C16orf73	NM_152764	Chromosome 16 open reading frame 73	0.017	2.214	Unknown
+N/A	AJ412029		0.016	2.161	Unknown
+N/A	AL834280		0.047	2.141	Unknown
+N/A	AK055981		0.01	2.121	Unknown
+RPL27A	NM_000990	Ribosomal protein L27a	0.047	2.061	Unknown
+N/A	AX748211		0.02	2	Unknown

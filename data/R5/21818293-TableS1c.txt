@@ -1,0 +1,515 @@
+Probeset	Symbol	Name	Asym		Sym		p53Sym		FC	pfp	Localization
+NM_008858_at	Prkd1	protein kinase D1	7.87	P	3.54	A	7.03	P	4.34	0	cytoplasmic
+NM_025492_at	1700020L24Rik	RIKEN cDNA 1700020L24 gene	8.28	! MMM	4.68	A	8.04	! MM	3.6	0	cytoplasmic
+NM_030595_at	Nbea	neurobeachin	7.02	P	4.14	! PAA	7.05	P	2.87	0	cytoplasmic, type II
+NM_172294_at	Sulf1	sulfatase 1	8.78	P	6.13	P	8.89	P	2.65	0	secreted
+NM_007494_at	Ass1	argininosuccinate synthetase 1	11.82	! MMM	9.27	! MMM	10.97	! MM	2.54	0	cytoplasmic
+NM_001042613_at	Sepp1	selenoprotein P, plasma, 1	9.2	P	6.6	P	9.68	P	2.6	0.001	secreted
+NM_010357_at	Gsta4	glutathione S-transferase, alpha 4	10.01	P	7.54	P	9.07	P	2.47	0	cytoplasmic
+NM_001111026_at	Runx1t1	runt-related transcription factor 1; translocated to, 1 (cyclin D-related)	6.21	P	3.79	A	5.88	P	2.42	0	cytoplasmic, multipass
+NM_001111027_at	Runx1t1	runt-related transcription factor 1; translocated to, 1 (cyclin D-related)	5.99	P	4.03	A	5.78	P	1.96	0	cytoplasmic, multipass
+NM_153513_at	BC028528	cDNA sequence BC028528	6.99	P	4.66	A	6.05	P	2.33	0	secreted
+NM_013509_at	Eno2	enolase 2, gamma neuronal	8.53	P	6.21	P	7.97	P	2.32	0	cytoplasmic
+NM_175429_at	Kctd12b	potassium channel tetramerisation domain containing 12b	8.86	P	6.55	P	8.1	P	2.31	0	cytoplasmic
+NM_008597_at	Mgp	matrix Gla protein	13.65	P	11.47	P	13.12	P	2.18	0	secreted
+NM_025331_at	Gng11	guanine nucleotide binding protein (G protein), gamma 11	8.24	P	6.12	A	7.53	P	2.12	0	cytoplasmic
+NM_053110_at	Gpnmb	glycoprotein (transmembrane) nmb	7.02	P	4.86	! APA	5.95	! PM	2.16	0	secreted, type I
+NM_001113283_at	BC031353	cDNA sequence BC031353	7.01	P	5	! AAP	6.21	P	2.01	0	cytoplasmic
+NM_172893_at	Parp12	poly (ADP-ribose) polymerase family, member 12	6.98	P	5.04	P	6.82	P	1.93	0.001	cytoplasmic
+NM_019976_at	Psrc1	proline/serine-rich coiled-coil 1	8.63	P	6.66	P	7.81	P	1.97	0.001	cytoplasmic
+NM_010726_at	Phyh	phytanoyl-CoA hydroxylase	8.55	P	6.75	P	7.54	P	1.8	0.001	cytoplasmic
+NM_020568_at	Plin4	perilipin 4	7.57	P	5.76	A	7.08	! PM	1.8	0.001	cytoplasmic
+NM_008538_at	Marcks	myristoylated alanine rich protein kinase C substrate	9.93	P	8.17	P	9.27	P	1.75	0.001	cytoplasmic
+NM_009925_at	Col10a1	collagen, type X, alpha 1	6.3	P	4.56	A	5.12	A	1.74	0.001	secreted
+NM_147778_at	Commd3	COMM domain containing 3	11.03	P	9.29	P	9.98	P	1.74	0.001	cytoplasmic
+NM_029436_at	Klhl24	kelch-like 24 (Drosophila)	7.12	P	5.36	P	7.21	P	1.76	0.001	cytoplasmic
+NM_026931_at	1810011O10Rik	RIKEN cDNA 1810011O10 gene	7.92	P	6.07	P	8.18	P	1.85	0.001	cytoplasmic
+NM_031843_at	Dpp7	dipeptidylpeptidase 7	9.22	P	7.53	P	8.43	P	1.69	0.001	type I
+NM_172574_at	Pqlc3	PQ loop repeat containing	8.21	P	6.51	P	7.12	P	1.7	0.001	multipass
+NM_011459_at	Serpinb8	serine (or cysteine) peptidase inhibitor, clade B, member 8	7.3	P	5.57	! PPA	7.17	P	1.73	0.001	cytoplasmic
+NM_009517_at	Zmat3	zinc finger matrin type 3	9.53	P	7.86	P	8.71	P	1.67	0.001	cytoplasmic
+NM_001130458_at	Tcn2	transcobalamin 2	8.11	P	6.44	P	7.9	P	1.67	0.001	secreted
+NM_009223_at	Snn	stannin	9.24	P	7.61	P	8.97	P	1.63	0.001	type II
+NM_011670_at	Uchl1	ubiquitin carboxy-terminal hydrolase L1	7.05	P	5.4	P	7.2	P	1.65	0.002	cytoplasmic
+NM_001007580_at	Fndc3c1	fibronectin type III domain containing 3C1	9.18	P	7.53	P	8.32	P	1.65	0.002	type II
+NM_010444_at	Nr4a1	nuclear receptor subfamily 4, group A, member 1	9.51	P	7.88	P	8.41	P	1.63	0.002	cytoplasmic
+NM_018764_at	Pcdh7	protocadherin 7	5.16	P	3.53	A	4.83	P	1.64	0.002	type I
+NM_007652_at	Cd59a	CD59a antigen	7.41	P	5.8	! PPA	6.53	P	1.61	0.002	cytoplasmic, type I
+NM_001111060_at	Cd59a	CD59a antigen	7.04	P	5.59	! APA	6.33	! AP	1.46	0.004	cytoplasmic, type I
+NM_010930_at	Nov	nephroblastoma overexpressed gene	10.71	P	9.02	P	10.76	P	1.69	0.003	secreted
+NM_178149_at	Pik3ip1	phosphoinositide-3-kinase interacting protein 1	8.78	P	7.09	P	8.38	P	1.7	0.002	type I, type II
+NM_008663_at	Myo7a	myosin VIIA	6.57	P	4.96	A	6.62	P	1.61	0.003	cytoplasmic
+NM_181848_at	Optn	optineurin	7.46	P	5.86	! PPA	7.1	P	1.6	0.003	cytoplasmic
+NM_146040_at	Cdca7l	cell division cycle associated 7 like	7.14	P	5.57	A	7.93	! PM	1.57	0.003	cytoplasmic
+NM_008113_at	Arhgdig	Rho GDP dissociation inhibitor (GDI) gamma	7.38	P	5.81	! PPA	6.59	P	1.56	0.003	cytoplasmic
+NM_001081146_at	Prickle2	prickle-like 2 (Drosophila)	6.51	P	4.96	! MPA	6.04	! PA	1.56	0.003	cytoplasmic
+NM_011189_at	Psme1	proteasome (prosome, macropain) 28 subunit, alpha	9.53	P	8.02	P	9.28	P	1.51	0.003	cytoplasmic
+NM_010738_at	Ly6a	lymphocyte antigen 6 complex, locus A	11.76	P	10.09	P	11.18	P	1.67	0.003	type I
+NM_144551_at	Trib2	tribbles homolog 2 (Drosophila)	6.35	P	4.8	P	6.94	P	1.55	0.003	cytoplasmic
+NM_009510_at	Ezr	ezrin	11.53	P	10.02	P	11.57	P	1.51	0.003	cytoplasmic
+NM_001145821_at	Ggta1	glycoprotein galactosyltransferase alpha 1, 3	7.39	P	5.87	P	6.36	P	1.52	0.004	type II
+NM_007987_at	Fas	Fas (TNF receptor superfamily member 6)	6.98	! PPM	5.45	! PMA	6.19	A	1.53	0.003	cytoplasmic, type II
+NM_173030_at	Galnt13	UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 13	6.91	P	5.37	P	6.14	P	1.53	0.004	type II
+NM_178682_at	4933426M11Rik	RIKEN cDNA 4933426M11 gene	9.1	P	7.62	P	8.25	P	1.48	0.004	multipass
+NM_178907_at	Mapkapk3	mitogen-activated protein kinase-activated protein kinase 3	8.68	P	7.2	P	8	P	1.48	0.004	cytoplasmic, type II
+NM_178804_at	Slit2	slit homolog 2 (Drosophila)	10.08	P	8.6	P	10.41	P	1.48	0.004	cytoplasmic
+XM_001479889_at	LOC100048267	Derived by automated computational analysis using gene prediction method: GNOMON. Supporting evidence includes similarity to: 1 EST	6.6	P	5.11	! APA	5.88	! AP	1.49	0.004	cytoplasmic
+NM_181585_at	Pik3r3	phosphatidylinositol 3 kinase, regulatory subunit, polypeptide 3 (p55)	8.79	P	7.31	P	8.36	P	1.48	0.004	cytoplasmic
+NM_010515_at	Igf2r	insulin-like growth factor 2 receptor	9.01	P	7.55	P	8.43	P	1.46	0.004	type I
+NM_027040_at	1700007K13Rik	RIKEN cDNA 1700007K13 gene	5.56	P	4.06	A	4.63	A	1.5	0.004	cytoplasmic
+NM_007680_at	Ephb6	Eph receptor B6	6.76	P	5.27	A	5.63	A	1.49	0.004	type I
+NM_144916_at	Tmem150	transmembrane protein 150	8.23	P	6.79	! PPM	7.37	P	1.44	0.004	multipass
+NM_134076_at	Abhd4	abhydrolase domain containing 4	9.74	P	8.27	P	8.67	P	1.47	0.004	cytoplasmic
+NM_016923_at	Ly96	lymphocyte antigen 96	6.52	P	5.05	! PPM	6.07	P	1.47	0.004	secreted
+NM_001159711_at	Ly96	lymphocyte antigen 96	6.59	P	5.08	! PPM	6.08	P	1.52	0.004	secreted
+NM_022025_at	Slc5a7	solute carrier family 5 (choline transporter), member 7	6.95	P	5.42	! MAA	6.35	P	1.54	0.004	multipass
+NM_015744_at	Enpp2	ectonucleotide pyrophosphatase/phosphodiesterase 2	7.71	P	6.17	P	8.58	P	1.54	0.004	type II
+NM_001136077_at	Enpp2	ectonucleotide pyrophosphatase/phosphodiesterase 2	7.76	P	6.45	A	8.73	P	1.31	0.013	type II
+NM_011977_at	Slc27a1	solute carrier family 27 (fatty acid transporter), member 1	8.55	P	7.09	! PPA	8.58	P	1.46	0.005	cytoplasmic, secreted
+NM_054087_at	Slc19a2	solute carrier family 19 (thiamine transporter), member 2	8.41	P	6.97	P	7.26	P	1.44	0.004	multipass
+NM_008409_at	Itm2a	integral membrane protein 2A	6.76	P	5.33	! PPA	6.23	P	1.43	0.005	type II
+NM_001038015_at	Gnpda2	glucosamine-6-phosphate deaminase 2	5.4	P	3.97	A	5.72	P	1.44	0.005	cytoplasmic
+NM_011729_at	Ercc5	excision repair cross-complementing rodent repair deficiency, complementation group 5	8.08	P	6.7	P	7.07	P	1.38	0.006	cytoplasmic, type II
+XM_916287_at	LOC637082	Derived by automated computational analysis using gene prediction method: GNOMON. Supporting evidence includes similarity to: 2 mRNAs, 58 ESTs, 2 Proteins	8.13	P	6.74	! PPA	7.86	P	1.39	0.006	cytoplasmic
+NM_001033293_at	Uap1l1	UDP-N-acteylglucosamine pyrophosphorylase 1-like 1	10.55	P	9.17	P	10.26	P	1.38	0.006	cytoplasmic
+NM_054041_at	Antxr1	anthrax toxin receptor 1	10.74	P	9.37	P	9.73	P	1.36	0.006	type I, type II
+NM_001113461_at	Tec	tec protein tyrosine kinase	7.63	P	6.27	! MAA	7.59	P	1.36	0.006	cytoplasmic
+NM_001040684_at	Hsd3b7	hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 7	6.76	P	5.38	P	5.83	P	1.38	0.006	cytoplasmic, multipass
+NM_011825_at	Grem2	gremlin 2 homolog, cysteine knot superfamily (Xenopus laevis)	8.86	P	7.43	P	8.44	P	1.43	0.006	secreted
+NM_019861_at	Ctsf	cathepsin F	7.18	P	5.82	A	6.19	A	1.36	0.006	cytoplasmic, secreted
+NM_012031_at	Spag1	sperm associated antigen 1	6.5	P	5.04	! PAA	5.38	A	1.45	0.006	cytoplasmic
+NM_001005863_at	Mtus1	mitochondrial tumor suppressor 1	6.37	P	5.01	P	5.27	P	1.36	0.006	cytoplasmic, type II
+NM_001033636_at	Prex2	phosphatidylinositol-3,4,5-trisphosphate-dependent Rac exchange factor 2	5.03	P	3.67	! PPA	4.57	P	1.36	0.006	cytoplasmic
+NM_007421_at	Adssl1	adenylosuccinate synthetase like 1	6.01	! APA	4.64	A	5.8	A	1.38	0.007	cytoplasmic
+NM_027166_at	Ypel5	yippee-like 5 (Drosophila)	9.02	P	7.66	P	8.22	P	1.36	0.007	cytoplasmic
+NM_007899_at	Ecm1	extracellular matrix protein 1	10.32	P	8.97	P	9.45	P	1.36	0.007	secreted
+NM_146120_at	Gsn	gelsolin	12.48	P	11.13	P	11.71	P	1.35	0.007	cytoplasmic, secreted
+NM_019753_at	Cdh17	cadherin 17	5.68	P	4.31	A	6.64	P	1.38	0.007	type I
+NM_001001979_at	Megf10	multiple EGF-like-domains 10	6.26	! PPM	4.79	! PAA	5.63	! PA	1.47	0.007	type I
+NM_183315_at	Ctxn1	cortexin 1	9.98	P	8.65	P	9.26	P	1.32	0.007	type II
+XM_988868_at	LOC676300	Derived by automated computational analysis using gene prediction method: GNOMON. Supporting evidence includes similarity to: 3 mRNAs, 31 ESTs, 6 Proteins	7.53	P	6.09	P	7.04	P	1.44	0.007	multipass
+NM_145133_at	Tifa	TRAF-interacting protein with forkhead-associated domain	8.11	P	6.78	! PPA	7.84	P	1.33	0.007	cytoplasmic
+NM_013886_at	Hdgfrp3	hepatoma-derived growth factor, related protein 3	5.71	P	4.37	A	5.56	P	1.34	0.007	cytoplasmic
+NM_017400_at	Sh3gl3	SH3-domain GRB2-like 3	7.64	P	6.28	! PPA	6.55	! PA	1.36	0.007	cytoplasmic
+NM_021507_at	Sqrdl	sulfide quinone reductase-like (yeast)	9.6	P	8.24	P	9.15	P	1.36	0.007	cytoplasmic
+NM_012048_at	Polk	polymerase (DNA directed), kappa	8.01	P	6.68	P	7.05	P	1.33	0.007	cytoplasmic
+NM_009906_at	Tpp1	tripeptidyl peptidase I	9.8	P	8.47	P	9.41	P	1.34	0.007	cytoplasmic, secreted
+NM_153098_at	Cd109	CD109 antigen	9.51	P	8.19	P	8.99	P	1.32	0.007	cytoplasmic, secreted
+NM_148933_at	Slco4a1	solute carrier organic anion transporter family, member 4a1	6.88	P	5.58	! PAA	7.96	P	1.31	0.008	type II, multipass
+NM_001039056_at	Kcnj15	potassium inwardly-rectifying channel, subfamily J, member 15	7.69	P	6.34	P	7.09	P	1.35	0.008	multipass
+NM_009655_at	Alcam	activated leukocyte cell adhesion molecule	7.49	P	6.18	P	6.62	P	1.32	0.008	secreted, type I
+NM_007486_at	Arhgdib	Rho, GDP dissociation inhibitor (GDI) beta	7.26	P	5.96	A	7.19	P	1.3	0.008	cytoplasmic
+NM_010189_at	Fcgrt	Fc receptor, IgG, alpha chain transporter	8.25	P	6.95	P	7.29	P	1.3	0.008	type I
+NM_030700_at	Maged2	melanoma antigen, family D, 2	9.56	P	8.24	P	8.9	P	1.32	0.008	cytoplasmic
+NM_020003_at	0610031J06Rik	RIKEN cDNA 0610031J06 gene	10.7	P	9.41	P	10.79	P	1.29	0.008	type I
+NM_019687_at	Slc22a4	solute carrier family 22 (organic cation transporter), member 4	5.47	! PPM	4.14	A	4.35	A	1.33	0.009	multipass
+NM_027309_at	Lysmd2	LysM, putative peptidoglycan-binding, domain containing 2	6.67	A	5.4	A	6.38	A	1.27	0.009	cytoplasmic
+NM_008182_at	Gsta2	glutathione S-transferase, alpha 2 (Yc2)	5.08	! PPA	3.61	A	4.82	P	1.47	0.009	cytoplasmic
+NM_023143_at	C1ra	complement component 1, r subcomponent A	6.19	P	4.89	A	5.07	A	1.3	0.009	secreted
+XM_001475499_at	LOC100046560	Derived by automated computational analysis using gene prediction method: GNOMON. Supporting evidence includes similarity to: 30 ESTs, 13 Proteins	9.58	P	8.29	P	8.94	P	1.29	0.009	cytoplasmic
+NM_010387_at	H2-DMb1	histocompatibility 2, class II, locus Mb1	5.44	P	4.17	! PPA	4.41	A	1.28	0.009	type I
+NM_001081279_at	Mfhas1	malignant fibrous histiocytoma amplified sequence 1	8.35	P	7.1	P	7.78	P	1.25	0.009	type II
+NM_053267_at	Selm	selenoprotein M	10.99	P	9.74	P	10.24	P	1.25	0.01	cytoplasmic
+NM_178111_at	Trp53inp2	transformation related protein 53 inducible nuclear protein 2	8.49	! MPM	7.25	A	8.05	! MM	1.24	0.01	cytoplasmic
+NM_172691_at	B230312A22Rik	RIKEN cDNA B230312A22 gene	8.53	P	7.29	P	7.68	P	1.24	0.01	cytoplasmic
+XR_035269_at	4930429B21Rik	Derived by automated computational analysis using gene prediction method: GNOMON. Supporting evidence includes similarity to: 2 mRNAs, 8 ESTs	5.56	P	4.31	! PAA	4.69	! PA	1.25	0.01	type II
+XM_906857_at	LOC632664	Derived by automated computational analysis using gene prediction method: GNOMON. Supporting evidence includes similarity to: 48 ESTs, 2 Proteins	9.01	P	7.78	P	8.37	P	1.23	0.011	cytoplasmic
+NM_178751_at	Orai2	ORAI calcium release-activated calcium modulator 2	7.66	P	6.39	! PPA	6.65	P	1.27	0.011	multipass
+NM_198411_at	2610204M08Rik	RIKEN cDNA 2610204M08 gene	9.2	P	7.97	P	8.73	P	1.22	0.011	cytoplasmic, type II
+XR_033249_at	LOC100047142	Derived by automated computational analysis using gene prediction method: GNOMON. Supporting evidence includes similarity to: 4 mRNAs, 61 ESTs, 7 Proteins	9.2	P	7.97	P	8.73	P	1.22	0.011	pseudogene
+NM_026376_at	Plxnd1	plexin D1	8.37	P	7.15	P	7.3	P	1.22	0.011	cytoplasmic, type I
+NM_008979_at	Ptpn22	protein tyrosine phosphatase, non-receptor type 22 (lymphoid)	7.66	P	6.33	P	7.18	P	1.33	0.011	cytoplasmic
+NM_007635_at	Ccng2	cyclin G2	9.03	P	7.77	P	9.13	P	1.26	0.011	cytoplasmic
+XM_001476518_at	LOC100046469	Derived by automated computational analysis using gene prediction method: GNOMON. Supporting evidence includes similarity to: 8 mRNAs, 134 ESTs, 8 Proteins	6.82	P	5.61	P	7.19	P	1.22	0.011	cytoplasmic
+NM_001159536_at	Adcy3	adenylate cyclase 3	6.8	P	5.58	A	6.49	P	1.22	0.011	multipass
+NM_027627_at	4931408A02Rik	RIKEN cDNA 4931408A02 gene	8.16	P	6.94	P	7.75	P	1.22	0.011	secreted, type II
+NM_177340_at	Synpo	synaptopodin	7.04	P	5.8	P	6.78	P	1.24	0.011	cytoplasmic
+NM_011452_at	Serpinb9b	serine (or cysteine) peptidase inhibitor, clade B, member 9b	7.03	P	5.77	! APA	6.96	! PM	1.25	0.011	cytoplasmic
+NM_145508_at	Dyrk3	dual-specificity tyrosine-(Y)-phosphorylation regulated kinase 3	7.72	! PPM	6.49	A	7.94	! PM	1.23	0.011	cytoplasmic
+NM_145619_at	Parp3	poly (ADP-ribose) polymerase family, member 3	8.01	P	6.8	P	7.27	P	1.2	0.011	cytoplasmic
+XM_001473280_at	LOC100044897	Derived by automated computational analysis using gene prediction method: GNOMON. Supporting evidence includes similarity to: 64 ESTs, 10 Proteins	8.28	P	7.08	P	7.77	P	1.2	0.012	multipass
+NM_172767_at	Vwa5a	von Willebrand factor A domain containing 5A	7.59	P	6.38	P	7.15	P	1.21	0.012	cytoplasmic
+NM_153420_at	Acpl2	acid phosphatase-like 2	9.77	P	8.5	P	9.46	P	1.26	0.012	type II
+XM_128949_at	2310002L13Rik	Derived by automated computational analysis using gene prediction method: GNOMON. Supporting evidence includes similarity to: 1 mRNA, 8 ESTs	5.98	! PPA	4.65	! MAA	6.16	! PA	1.33	0.012	type II
+XM_001479990_at	LOC100048309	Derived by automated computational analysis using gene prediction method: GNOMON. Supporting evidence includes similarity to: 33 ESTs, 12 Proteins	5.4	P	4.13	! PPA	4.59	P	1.28	0.013	cytoplasmic
+NM_146115_at	A830007P12Rik	RIKEN cDNA A830007P12 gene	8.11	P	6.91	P	7.34	P	1.2	0.013	cytoplasmic
+NM_011173_at	Pros1	protein S (alpha)	7.79	P	6.58	P	6.78	P	1.21	0.013	secreted, type II
+NM_009636_at	Aebp1	AE binding protein 1	10.6	P	9.42	P	9.82	P	1.18	0.013	cytoplasmic, secreted
+NM_153559_at	Qsox2	quiescin Q6 sulfhydryl oxidase 2	8.1	P	6.93	P	7.05	P	1.17	0.014	secreted, type II, multipass
+NM_009983_at	Ctsd	cathepsin D	11.24	P	10.07	P	10.86	P	1.18	0.014	secreted
+NM_207204_at	Ninl	ninein-like	5.36	P	4.08	P	5.09	P	1.28	0.015	cytoplasmic
+NM_009656_at	Aldh2	aldehyde dehydrogenase 2, mitochondrial	11.73	P	10.55	P	11.32	P	1.18	0.015	cytoplasmic
+NM_026192_at	Calcoco1	calcium binding and coiled coil domain 1	7.96	P	6.78	P	7.21	P	1.18	0.015	cytoplasmic
+NM_027760_at	Rassf8	Ras association (RalGDS/AF-6) domain family (N-terminal) member 8	4.85	! MMM	3.65	! MAA	3.79	! MM	1.21	0.015	cytoplasmic
+NM_001037987_at	Edil3	EGF-like repeats and discoidin I-like domains 3	4.7	P	3.52	A	3.82	P	1.18	0.015	secreted
+NM_007950_at	Ereg	epiregulin	10.22	P	8.98	P	9.29	P	1.24	0.015	type I
+NM_001159394_at	Nfkbiz	nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, zeta	7.91	P	6.75	P	6.9	P	1.16	0.015	cytoplasmic
+NM_016753_at	Lxn	latexin	10.22	P	9.02	P	9.64	P	1.2	0.015	cytoplasmic
+NM_024263_at	Mxra8	matrix-remodelling associated 8	10.51	P	9.33	P	9.54	P	1.18	0.015	type I
+NM_001080995_at	4632434I11Rik	RIKEN cDNA 4632434I11 gene	8.23	P	7.07	P	7.54	P	1.17	0.015	cytoplasmic, type II
+NM_008006_at	Fgf2	fibroblast growth factor 2	6.5	P	5.26	! PAM	6.33	P	1.25	0.016	cytoplasmic
+NM_026791_at	Fbxw9	F-box and WD-40 domain protein 9	8.18	P	7.02	A	7.1	! PA	1.16	0.016	cytoplasmic
+NM_010358_at	Gstm1	glutathione S-transferase, mu 1	10.09	P	8.92	P	10.43	P	1.17	0.016	cytoplasmic
+NM_028724_at	Rin2	Ras and Rab interactor 2	7.6	P	6.44	P	7.28	P	1.17	0.016	cytoplasmic
+NM_194269_at	Morn2	MORN repeat containing 2	7.31	P	6.16	P	6.24	P	1.15	0.016	cytoplasmic
+NM_001077411_at	Gba	glucosidase, beta, acid	9.65	P	8.49	P	9.24	P	1.15	0.016	secreted
+NM_028705_at	Herc3	hect domain and RLD 3	6.44	P	5.28	P	5.61	P	1.16	0.017	cytoplasmic
+NM_145450_at	BC022687	cDNA sequence BC022687	8.07	P	6.92	P	7.25	P	1.14	0.017	cytoplasmic
+NM_010376_at	H13	histocompatibility 13	7.65	P	6.53	P	7.06	P	1.12	0.017	multipass
+NM_001159551_at	H13	histocompatibility 13	7.16	P	6.06	P	6.57	P	1.1	0.02	multipass
+NM_007527_at	Bax	BCL2-associated X protein	11.13	P	10.01	P	10.47	P	1.12	0.018	type II
+NM_011580_at	Thbs1	thrombospondin 1	12.32	P	11.19	P	11.87	P	1.13	0.018	secreted
+NM_026837_at	Tmem53	transmembrane protein 53	7.21	P	6.09	A	6.48	A	1.12	0.019	type II
+NM_133234_at	Bbc3	BCL2 binding component 3	7.29	P	6.19	! APM	6.49	! PM	1.11	0.019	cytoplasmic
+NM_019749_at	Gabarap	gamma-aminobutyric acid receptor associated protein	12.7	P	11.59	P	12.38	P	1.11	0.019	cytoplasmic
+NM_172285_at	Plcg2	phospholipase C, gamma 2	6.54	P	5.44	A	5.69	A	1.1	0.019	cytoplasmic
+NM_198425_at	Eid2	EP300 interacting inhibitor of differentiation 2	5.93	P	4.82	A	5.17	A	1.11	0.018	cytoplasmic
+NM_178417_at	Zfp867	zinc finger protein 867	5.59	P	4.49	! PAA	4.55	! PM	1.1	0.018	cytoplasmic
+NM_011116_at	Pld3	phospholipase D family, member 3	9.36	P	8.26	P	8.55	P	1.11	0.02	type II
+NM_025808_at	Lztr1	leucine-zipper-like transcriptional regulator, 1	8.64	P	7.54	P	8.08	P	1.1	0.021	cytoplasmic
+NM_023168_at	Grina	glutamate receptor, ionotropic, N-methyl D-aspartate-associated protein 1 (glutamate binding)	10.28	P	9.19	P	10.22	P	1.1	0.021	multipass
+NM_029432_at	4930402H24Rik	RIKEN cDNA 4930402H24 gene	7.54	P	6.45	P	7.06	P	1.09	0.021	cytoplasmic
+NM_144804_at	Depdc7	DEP domain containing 7	7.27	P	6.16	P	7.05	P	1.1	0.021	cytoplasmic
+NM_029861_at	Cnrip1	cannabinoid receptor interacting protein 1	5.45	P	4.36	! APA	4.36	A	1.1	0.021	cytoplasmic
+NM_001113424_at	Amn1	antagonist of mitotic exit network 1 homolog (S. cerevisiae)	7.88	P	6.79	P	7.39	P	1.09	0.021	cytoplasmic
+NM_001083929_at	Gpx3	glutathione peroxidase 3	6.72	A	5.63	A	5.68	A	1.08	0.021	secreted
+NM_009148_at	Exoc4	exocyst complex component 4	8.99	P	7.89	P	8.22	P	1.11	0.022	cytoplasmic
+NM_011542_at	Tcea3	transcription elongation factor A (SII), 3	5.81	P	4.72	! AMA	4.99	A	1.09	0.022	cytoplasmic
+NM_010893_at	Neu1	neuraminidase 1	7.89	P	6.81	P	7.65	P	1.08	0.023	secreted
+NM_031177_at	Ift122	intraflagellar transport 122 homolog (Chlamydomonas)	6.82	P	5.74	P	5.94	P	1.08	0.023	cytoplasmic
+NM_001038492_at	Ctsa	cathepsin A	9.21	P	8.14	P	9.1	P	1.07	0.024	secreted
+NM_008452_at	Klf2	Kruppel-like factor 2 (lung)	9.23	P	8.18	P	8.38	P	1.05	0.025	cytoplasmic
+NM_172770_at	Ttc12	tetratricopeptide repeat domain 12	6.22	P	5.17	! PPA	5.72	! MP	1.06	0.025	cytoplasmic
+NM_133697_at	1110003E01Rik	RIKEN cDNA 1110003E01 gene	10.53	P	9.45	P	10.34	P	1.08	0.026	type II
+NM_013760_at	Dnajb9	DnaJ (Hsp40) homolog, subfamily B, member 9	8.92	P	7.86	P	8.85	P	1.06	0.026	secreted
+NM_133688_at	Lyrm5	LYR motif containing 5	8.94	P	7.88	P	8.03	P	1.06	0.026	cytoplasmic
+NM_028281_at	Pcbd2	pterin 4 alpha carbinolamine dehydratase/dimerization cofactor of hepatocyte nuclear factor 1 alpha (TCF1) 2	8.4	P	7.34	P	8.45	P	1.06	0.026	cytoplasmic
+NM_024217_at	Cmtm3	CKLF-like MARVEL transmembrane domain containing 3	9.72	P	8.66	P	10.03	P	1.06	0.026	multipass
+NM_021439_at	Chst11	carbohydrate sulfotransferase 11	8.43	P	7.3	P	7.39	P	1.13	0.027	type II
+NM_133754_at	Fblim1	filamin binding LIM protein 1	8.67	P	7.64	P	8.07	P	1.03	0.027	cytoplasmic
+NM_153150_at	Slc25a1	solute carrier family 25 (mitochondrial carrier, citrate transporter), member 1	9.34	P	8.31	P	8.44	P	1.04	0.027	cytoplasmic
+NM_013535_at	Grcc10	gene rich cluster, C10 gene	11.17	P	10.14	P	10.85	P	1.04	0.027	cytoplasmic
+NM_177814_at	Erc2	ELKS/RAB6-interacting/CAST family member 2	5.92	P	4.89	! PAA	5.48	! PA	1.03	0.027	cytoplasmic
+NM_001146153_at	Homer3	homer homolog 3 (Drosophila)	8.08	P	7.03	P	7.68	P	1.05	0.028	cytoplasmic
+NM_030721_at	Acox3	acyl-Coenzyme A oxidase 3, pristanoyl	5.86	P	4.81	! APA	4.97	! PA	1.05	0.028	cytoplasmic
+NM_010398_at	H2-T23	histocompatibility 2, T region locus 23	4.53	! AMM	3.48	! AMA	4.44	! MM	1.05	0.028	secreted, type I
+NM_009318_at	Tapbp	TAP binding protein	9.07	P	8.04	P	9.06	P	1.03	0.027	type I
+NM_001025313_at	Tapbp	TAP binding protein	9.05	P	8.03	P	9.05	P	1.01	0.029	type I
+NM_009644_at	Ahrr	aryl-hydrocarbon receptor repressor	5.98	P	4.93	! AMA	5.56	! PA	1.04	0.028	cytoplasmic
+NM_011434_at	Sod1	superoxide dismutase 1, soluble	11.41	P	10.38	P	11.11	P	1.02	0.028	cytoplasmic, type II
+NM_001042534_at	Capg	capping protein (actin filament), gelsolin-like	10.84	P	9.81	P	10.19	P	1.03	0.029	cytoplasmic
+NM_001130412_at	Lpin1	lipin 1	6.81	P	5.79	! PPA	6.31	P	1.02	0.029	cytoplasmic
+NM_015761_at	Dos	downstream of Stk11	7.63	P	6.6	P	6.82	P	1.03	0.029	cytoplasmic
+NM_026436_at	Tmem86a	transmembrane protein 86A	7.35	P	6.32	P	7.27	P	1.03	0.029	multipass
+NM_175398_at	6530418L21Rik	RIKEN cDNA 6530418L21 gene	5.54	P	4.5	A	4.96	A	1.03	0.029	cytoplasmic
+NM_008981_at	Ptprg	protein tyrosine phosphatase, receptor type, G	7.42	P	6.39	P	6.68	P	1.02	0.029	cytoplasmic, multipass
+XR_035220_at	D330050I23Rik	Derived by automated computational analysis using gene prediction method: GNOMON. Supporting evidence includes similarity to: 6 mRNAs, 129 ESTs, 3 Proteins	6.26	P	5.22	! PMA	6.41	P	1.04	0.029	cytoplasmic
+NM_001136088_at	Sh3bp2	SH3-domain binding protein 2	6.83	P	5.79	! PAA	6.63	P	1.04	0.029	cytoplasmic
+NM_177688_at	H2afj	H2A histone family, member J	8.13	P	7.12	P	7.65	P	1.02	0.029	cytoplasmic
+NM_008598_at	Mgmt	O-6-methylguanine-DNA methyltransferase	8.56	P	7.54	P	8.07	! PA	1.02	0.029	cytoplasmic
+NM_181409_at	Mtmr11	myotubularin related protein 11	8.02	P	7.01	P	8	P	1.01	0.029	cytoplasmic
+NM_025378_at	Ifitm3	interferon induced transmembrane protein 3	12.24	P	11.23	P	11.13	P	1.01	0.03	multipass
+NM_011159_at	Prkdc	protein kinase, DNA activated, catalytic polypeptide	7.34	P	6.33	P	6.9	P	1	0.031	cytoplasmic
+NM_013701_at	Ugt1a2	UDP glucuronosyltransferase 1 family, polypeptide A2	5.91	P	4.87	! PAA	6.1	P	1.04	0.031	type I
+NM_145079_at	Ugt1a6a	UDP glucuronosyltransferase 1 family, polypeptide A6A	5.91	P	4.87	! PAA	6.1	P	1.04	0.031	type I
+NM_201410_at	Ugt1a6b	UDP glucuronosyltransferase 1 family, polypeptide A6B	5.91	P	4.87	! PAA	6.1	P	1.04	0.031	type I
+NM_201641_at	Ugt1a10	UDP glycosyltransferase 1 family, polypeptide A10	5.91	P	4.87	! PAA	6.1	P	1.04	0.031	multipass
+NM_201642_at	Ugt1a7c	UDP glucuronosyltransferase 1 family, polypeptide A7C	5.91	P	4.87	! PAA	6.1	P	1.04	0.031	type I
+NM_201643_at	Ugt1a5	UDP glucuronosyltransferase 1 family, polypeptide A5	5.91	P	4.87	! PAA	6.1	P	1.04	0.031	multipass
+NM_201644_at	Ugt1a9	UDP glucuronosyltransferase 1 family, polypeptide A9	5.91	P	4.87	! PAA	6.1	P	1.04	0.031	type I, type II
+NM_201645_at	Ugt1a1	UDP glucuronosyltransferase 1 family, polypeptide A1	5.91	P	4.87	! PAA	6.1	P	1.04	0.031	type I
+NM_008576_at	Abcc1	ATP-binding cassette, sub-family C (CFTR/MRP), member 1	9.7	P	8.7	P	9.5	P	0.99	0.03	multipass
+NM_133741_at	Snrk	SNF related kinase	8.43	! MMM	7.42	! MMM	7.55	! MA	1.02	0.03	type II
+NM_197986_at	Tmem140	transmembrane protein 140	5.73	P	4.71	! PMA	5.55	P	1.02	0.03	multipass
+XM_907047_at	D630023B12Rik	Derived by automated computational analysis using gene prediction method: GNOMON. Supporting evidence includes similarity to: 1 mRNA, 53 ESTs, 4 Proteins	9.02	P	8	P	9.1	P	1.03	0.03	type II
+NM_175124_at	Lrrc28	leucine rich repeat containing 28	7.69	P	6.69	P	6.85	P	1.01	0.03	cytoplasmic
+NM_013872_at	Pmm1	phosphomannomutase 1	9.75	P	8.75	P	8.75	P	1	0.031	cytoplasmic
+NM_001142957_at	Gm4455	predicted gene 4455	9.16	P	8.13	P	8.74	P	1.04	0.031	cytoplasmic
+NM_028149_at	Fbxl20	F-box and leucine-rich repeat protein 20	8.02	P	7.01	P	7.23	P	1.01	0.031	cytoplasmic
+NM_176841_at	Ccdc88a	coiled coil domain containing 88A	8.51	P	7.47	P	8.11	P	1.04	0.031	cytoplasmic
+XM_001002633_at	Wdr81	Derived by automated computational analysis using gene prediction method: GNOMON. Supporting evidence includes similarity to: 4 mRNAs, 134 ESTs, 4 Proteins	9.38	P	8.39	P	8.83	P	0.99	0.032	type II
+NM_015728_at	Slc33a1	solute carrier family 33 (acetyl-CoA transporter), member 1	8.13	P	7.09	P	7.39	P	1.04	0.032	multipass
+NM_008410_at	Itm2b	integral membrane protein 2B	12.16	P	11.16	P	11.68	P	1	0.032	cytoplasmic, type II
+NM_009263_at	Spp1	secreted phosphoprotein 1	11.94	P	10.9	P	12.28	P	1.04	0.033	secreted
+NM_023785_at	Ppbp	pro-platelet basic protein	7.18	P	6.15	P	7.55	P	1.03	0.033	secreted
+NM_026619_at	Gsto2	glutathione S-transferase omega 2	5.25	P	4.26	A	6.31	P	0.99	0.033	cytoplasmic
+NM_182927_at	Spred3	sprouty-related, EVH1 domain containing 3	6.62	P	5.64	! MPA	5.98	P	0.98	0.033	cytoplasmic
+NM_001113527_at	Isg20	interferon-stimulated protein	6.95	P	5.97	A	7.33	P	0.98	0.033	cytoplasmic, type II
+NM_001145801_at	Ctla2b	cytotoxic T lymphocyte-associated protein 2 beta	4.64	P	3.65	! PAA	5.57	P	0.99	0.033	cytoplasmic
+NM_053177_at	Mcoln1	mucolipin 1	8.59	P	7.6	P	8.89	P	0.98	0.033	multipass
+NM_009404_at	Tnfsf9	tumor necrosis factor (ligand) superfamily, member 9	6.98	P	5.99	P	6.55	P	0.99	0.033	type II
+NM_025833_at	Baiap2l1	BAI1-associated protein 2-like 1	8.31	P	7.28	P	7.81	P	1.03	0.033	cytoplasmic
+XM_905706_at	BC043476	Derived by automated computational analysis using gene prediction method: GNOMON. Supporting evidence includes similarity to: 3 mRNAs, 23 ESTs, 1 Protein	5.12	P	4.12	P	4.03	P	1.01	0.033	cytoplasmic
+NM_011170_at	Prnp	prion protein	11.74	P	10.75	P	11.53	P	0.99	0.033	multipass
+NM_013477_at	Atp6v0d1	ATPase, H+ transporting, lysosomal V0 subunit D1	11.09	P	10.12	P	10.18	P	0.98	0.033	cytoplasmic
+NM_001081333_at	Plekhg4	pleckstrin homology domain containing, family G (with RhoGef domain) member 4	7.97	P	6.98	P	7.02	P	0.99	0.035	cytoplasmic
+NM_001033238_at	Cblb	Casitas B-lineage lymphoma b	7.88	P	6.9	P	7.13	P	0.98	0.035	cytoplasmic
+NM_145439_at	Tmc6	transmembrane channel-like gene family 6	5.39	P	4.4	! PAA	4.65	! PA	0.99	0.035	multipass
+NM_026058_at	Lass4	LAG1 homolog, ceramide synthase 4	7.57	P	6.6	P	6.47	P	0.96	0.035	multipass
+NM_153412_at	Phldb2	pleckstrin homology-like domain, family B, member 2	11.04	P	10.06	P	11.01	P	0.98	0.035	cytoplasmic
+NM_019542_at	Nagk	N-acetylglucosamine kinase	8.57	P	7.6	P	8.19	P	0.97	0.035	cytoplasmic
+NM_001033217_at	Prickle1	prickle like 1 (Drosophila)	5.6	P	4.6	A	5.57	! PM	1	0.035	cytoplasmic
+NM_009667_at	Ampd3	adenosine monophosphate deaminase 3	7.65	P	6.68	P	6.95	P	0.97	0.035	cytoplasmic
+NM_010386_at	H2-DMa	histocompatibility 2, class II, locus DMa	7.87	P	6.9	! PPM	7.57	P	0.97	0.035	type I
+NM_207298_at	Cercam	cerebral endothelial cell adhesion molecule	6.83	P	5.85	P	6.04	! MP	0.98	0.036	secreted
+NM_019472_at	Myo10	myosin X	10.01	P	9.03	P	9.99	P	0.97	0.036	cytoplasmic
+NM_001001983_at	Pi4ka	phosphatidylinositol 4-kinase, catalytic, alpha polypeptide	9.33	P	8.37	P	9.26	P	0.96	0.036	cytoplasmic, type II
+NM_008721_at	Npdc1	neural proliferation, differentiation and control gene 1	8.89	P	7.93	P	8.49	P	0.96	0.036	type I, type II
+NM_009601_at	Chrnb1	cholinergic receptor, nicotinic, beta polypeptide 1 (muscle)	7.3	P	6.33	P	7.33	P	0.97	0.036	multipass
+NM_026353_at	Slc48a1	solute carrier family 48 (heme transporter), member 1	9.95	P	8.98	P	9.81	P	0.96	0.036	multipass
+NM_009676_at	Aox1	aldehyde oxidase 1	4.97	P	3.96	A	4.33	A	1.01	0.037	cytoplasmic
+NM_026162_at	Plxdc2	plexin domain containing 2	5.34	P	4.39	A	4.55	! MA	0.95	0.037	type II
+NM_173753_at	Fnip1	folliculin interacting protein 1	8.85	P	7.86	P	8.94	P	0.99	0.037	cytoplasmic
+NM_018755_at	Pgcp	plasma glutamate carboxypeptidase	8.85	P	7.87	P	8.68	P	0.98	0.038	secreted, type I
+NM_153091_at	St7l	suppression of tumorigenicity 7-like	8.23	P	7.26	P	7.66	P	0.97	0.038	multipass
+NM_007670_at	Cdkn2b	cyclin-dependent kinase inhibitor 2B (p15, inhibits CDK4)	10.1	P	9.13	P	9.05	P	0.97	0.038	cytoplasmic
+NM_008349_at	Il10rb	interleukin 10 receptor, beta	8.81	P	7.86	P	8.11	P	0.95	0.038	type I, type II
+NM_010582_at	Itih2	inter-alpha trypsin inhibitor, heavy chain 2	9.29	P	8.29	P	8.86	P	1	0.038	secreted
+NM_026823_at	Arl8a	ADP-ribosylation factor-like 8A	8.79	P	7.83	P	8.29	P	0.95	0.039	cytoplasmic
+NM_177632_at	Fam43a	family with sequence similarity 43, member A	8.3	P	7.36	P	7.15	P	0.94	0.039	cytoplasmic
+NM_010421_at	Hexa	hexosaminidase A	10.95	P	9.99	P	10.3	P	0.96	0.039	secreted
+NM_001111312_at	Lrrfip1	leucine rich repeat (in FLII) interacting protein 1	8.42	P	7.47	P	7.73	P	0.95	0.039	cytoplasmic
+NM_013546_at	Hebp1	heme binding protein 1	9.25	P	8.3	P	8.19	P	0.95	0.039	cytoplasmic
+NM_001122830_at	Klhl26	kelch-like 26 (Drosophila)	9.53	P	8.59	! PPA	8.93	P	0.94	0.039	cytoplasmic
+NM_008985_at	Ptprn	protein tyrosine phosphatase, receptor type, N	7.41	P	6.48	A	7.36	! MP	0.94	0.039	type I, type II
+NM_007423_at	Afp	alpha fetoprotein	5.12	! PAP	3.67	A	3.81	! PA	1.45	0.039	secreted
+XM_001475347_at	0610007N19Rik	Derived by automated computational analysis using gene prediction method: GNOMON. Supporting evidence includes similarity to: 1 mRNA, 38 ESTs	8.92	P	7.98	P	7.78	P	0.94	0.04	cytoplasmic
+NM_001085371_at	Speg	SPEG complex locus	7.66	P	6.72	P	6.89	P	0.94	0.04	cytoplasmic
+NM_010156_at	Samd9l	sterile alpha motif domain containing 9-like	6.61	P	5.65	P	6.79	P	0.95	0.04	cytoplasmic
+NM_011227_at	Rab20	RAB20, member RAS oncogene family	6.35	P	5.39	P	6.13	! PM	0.96	0.04	cytoplasmic
+NM_008127_at	Gjb4	gap junction protein, beta 4	6.71	P	5.78	P	6.55	P	0.94	0.04	multipass
+NM_021320_at	Ntn4	netrin 4	7.09	! APP	6.14	A	6.2	A	0.95	0.04	secreted
+NM_001111279_at	Wdfy1	WD repeat and FYVE domain containing 1	7.38	P	6.45	P	6.64	P	0.94	0.041	cytoplasmic
+NM_133897_at	Lrrc8c	leucine rich repeat containing 8 family, member C	10.19	P	9.25	P	9.99	P	0.93	0.041	multipass
+NM_133167_at	Parvb	parvin, beta	8.24	P	7.3	P	7.41	P	0.93	0.041	cytoplasmic, type II
+NM_175445_at	Rassf2	Ras association (RalGDS/AF-6) domain family member 2	6.44	P	5.48	P	6.15	P	0.95	0.041	cytoplasmic
+NM_011834_at	Aadat	aminoadipate aminotransferase	5.76	P	4.82	A	4.79	A	0.94	0.041	cytoplasmic
+NM_025790_at	Acot13	acyl-CoA thioesterase 13	9.83	P	8.88	P	9.82	P	0.94	0.041	cytoplasmic
+NM_007471_at	App	amyloid beta (A4) precursor protein	11.08	P	10.15	P	10.99	P	0.93	0.042	secreted, type I
+NM_028803_at	Gbe1	glucan (1,4-alpha-), branching enzyme 1	6.46	P	5.51	! PPM	5.76	P	0.95	0.042	cytoplasmic
+NM_021273_at	Ckb	creatine kinase, brain	9.34	! AMA	8.42	A	9.34	A	0.92	0.043	cytoplasmic
+NM_001029855_at	Psme2	proteasome (prosome, macropain) 28 subunit, beta	11.28	! MMM	10.35	! MMM	11.16	! MM	0.92	0.043	cytoplasmic
+NM_001034097_at	Tnfsf12-Tnfsf13	Tnfsf12-tnfsf13 readthrough transcript	5.7	P	4.75	! MPA	4.73	P	0.95	0.043	type II
+NM_001159505_at	Tnfsf13	tumor necrosis factor (ligand) superfamily, member 13	5.7	P	4.75	! MPA	4.73	P	0.95	0.043	type II
+NM_011026_at	P2rx4	purinergic receptor P2X, ligand-gated ion channel 4	8	P	7.08	P	7.97	P	0.92	0.043	multipass
+NM_173444_at	Nbeal1	neurobeachin like 1	6.38	P	5.42	P	6.18	P	0.96	0.043	cytoplasmic
+NM_001004150_at	A4galt	alpha 1,4-galactosyltransferase	5.87	A	4.95	A	5.26	A	0.93	0.043	type II
+NM_181821_at	Hcfc1r1	host cell factor C1 regulator 1 (XPO1-dependent)	11.27	P	10.35	P	10.8	P	0.92	0.045	cytoplasmic
+NM_172399_at	A930038C07Rik	RIKEN cDNA A930038C07 gene	6.09	P	5.13	! APP	6.28	P	0.96	0.045	cytoplasmic, secreted
+NM_030066_at	Armcx1	armadillo repeat containing, X-linked 1	8.75	P	7.81	P	8.62	P	0.94	0.045	type II
+NM_023122_at	Gpm6b	glycoprotein m6b	5.26	P	4.29	! PAA	4.14	A	0.97	0.045	cytoplasmic, multipass
+NM_011019_at	Osmr	oncostatin M receptor	8.6	P	7.66	P	7.57	P	0.93	0.045	type I
+NM_009804_at	Cat	catalase	9.59	P	8.66	P	9.07	P	0.93	0.045	cytoplasmic
+NM_178406_at	Gpr153	G protein-coupled receptor 153	6.8	! PPA	5.89	A	6.19	A	0.91	0.045	multipass
+NM_146067_at	Cpped1	Vcalcineurin-like phosphoesterase domain containing 1	7.99	P	7.06	! PPM	6.99	! PM	0.93	0.045	cytoplasmic
+NM_001042558_at	Apaf1	apoptotic peptidase activating factor 1	7.96	P	7.05	P	6.92	P	0.91	0.045	cytoplasmic
+NM_021565_at	Midn	midnolin	10.04	P	9.13	P	9.16	P	0.9	0.045	cytoplasmic
+NM_172398_at	Akr1b10	aldo-keto reductase family 1, member B10 (aldose reductase)	9.01	P	8.09	P	8.67	P	0.92	0.046	cytoplasmic
+NM_177333_at	Exoc3	exocyst complex component 3	9.08	P	8.16	P	9.26	P	0.92	0.047	cytoplasmic
+NM_015760_at	Nox4	NADPH oxidase 4	5.61	P	4.7	P	5.14	P	0.91	0.047	multipass
+NM_173408_at	Dcun1d3	DCN1, defective in cullin neddylation 1, domain containing 3 (S. cerevisiae)	7.92	P	7.01	P	7.29	P	0.91	0.048	cytoplasmic
+NM_026522_at	Chid1	chitinase domain containing 1	6.39	P	5.48	P	6.19	P	0.9	0.048	secreted
+NM_053262_at	Hsd17b11	hydroxysteroid (17-beta) dehydrogenase 11	8.08	P	7.17	P	7.33	P	0.91	0.048	type I, multipass
+NM_001033409_at	Lgr6	leucine-rich repeat-containing G protein-coupled receptor 6	7.33	P	6.39	P	7.44	P	0.94	0.048	multipass
+NM_001044741_at	Cacnb3	calcium channel, voltage-dependent, beta 3 subunit	9.7	P	8.79	P	9.37	P	0.9	0.048	cytoplasmic
+NM_001122998_at	Tiam2	T-cell lymphoma invasion and metastasis 2	9.5	P	8.61	P	9.18	P	0.89	0.048	cytoplasmic
+NM_019955_at	Ripk3	receptor-interacting serine-threonine kinase 3	9.88	P	8.99	P	9.67	P	0.89	0.048	cytoplasmic
+NM_013657_at	Sema3c	sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3C	9.12	P	8.2	P	8.57	P	0.92	0.049	secreted
+NM_008329_at	Ifi204	interferon activated gene 204	4.85	P	3.9	! PPA	4.01	P	0.96	0.049	cytoplasmic
+NM_025865_at	2310030G06Rik	RIKEN cDNA 2310030G06 gene	7.04	P	6.13	P	6.35	P	0.91	0.049	cytoplasmic
+NM_011018_at	Sqstm1	sequestosome 1	12.54	P	11.65	P	12.32	P	0.9	0.05	cytoplasmic
+NM_009853_at	Cd68	CD68 antigen	5.45	P	4.53	! PPA	4.31	P	0.92	0.05	type I
+NM_009610_at	Actg2	actin, gamma 2, smooth muscle, enteric	10.05	P	9.39	P	5.1	A	5	0	cytoplasmic
+NM_001113515_at	Col2a1	collagen, type II, alpha 1	11.58	P	11.91	P	6.86	A	4.7	0.002	cytoplasmic, secreted
+NM_009922_at	Cnn1	calponin 1	11.58	P	11.24	P	7.87	P	3.7	0	cytoplasmic
+NM_009866_at	Cdh11	cadherin 11	10.35	P	9.56	P	7.17	P	3.2	0	type II
+NM_011526_at	Tagln	transgelin	12.7	P	12.45	P	9.7	P	3	0	cytoplasmic
+NM_011340_at	Serpinf1	serine (or cysteine) peptidase inhibitor, clade F, member 1	10.76	P	11.32	P	7.75	P	3	0	secreted
+NM_001159518_at	Igfbp7	insulin-like growth factor binding protein 7	10.05	P	10.43	P	7.14	P	2.9	0	cytoplasmic
+NM_031185_at	Akap12	A kinase (PRKA) anchor protein (gravin) 12	9.33	P	9.46	P	6.6	! PA	2.7	0	cytoplasmic
+NM_008216_at	Has2	hyaluronan synthase 2	8.63	P	8.44	P	6.02	P	2.6	0	multipass
+NM_026465_at	Prdxdd1	PrdX-deacylase domain 1	6.96	P	7.3	P	4.36	A	2.6	0	cytoplasmic
+XM_194370_at	Adamtsl3	Derived by automated computational analysis using gene prediction method: GNOMON. Supporting evidence includes similarity to: 2 mRNAs, 15 ESTs, 6 Proteins	8.5	P	8.04	P	6.09	! AP	2.4	0	cytoplasmic
+NM_153573_at	Fkbp14	FK506 binding protein 14	8.71	P	7.83	P	6.28	P	2.4	0	secreted
+NM_009930_at	Col3a1	collagen, type III, alpha 1	8.8	P	9.07	P	6.38	P	2.4	0	secreted
+NM_172486_at	Zfp677	zinc finger protein 677	6.44	! MMM	6.16	! MAA	4.17	! MA	2.3	0	cytoplasmic
+NM_008695_at	Nid2	nidogen 2	8.16	P	7.93	P	5.87	P	2.3	0	secreted
+NM_019631_at	Tmem45a	transmembrane protein 45a	8.46	P	7.67	P	6.21	P	2.2	0	multipass
+NM_144810_at	Klhdc8a	kelch domain containing 8A	8.1	P	8.04	P	5.92	P	2.2	0	cytoplasmic
+NM_007678_at	Cebpa	CCAAT/enhancer binding protein (C/EBP), alpha	7.31	P	7.71	P	5.15	A	2.2	0	cytoplasmic
+NM_011957_at	Creb3l1	cAMP responsive element binding protein 3-like 1	7.85	P	8	P	5.73	A	2.1	0	type II
+NM_153782_at	Fam20a	family with sequence similarity 20, member A	6.74	P	7.22	P	4.63	A	2.1	0	secreted
+NM_001077694_at	Dysf	dysferlin	7.67	P	6.81	P	5.62	A	2.1	0.001	type II
+NM_008381_at	Inhbb	inhibin beta-B	8.42	P	8.28	P	6.45	P	2	0.002	secreted
+NM_001034962_at	Sorbs1	sorbin and SH3 domain containing 1	7.46	P	7.1	P	5.51	P	2	0.002	cytoplasmic
+NM_144799_at	Lmcd1	LIM and cysteine-rich domains 1	8.09	P	7.62	P	6.09	A	2	0.001	cytoplasmic
+NM_009616_at	Adam19	a disintegrin and metallopeptidase domain 19 (meltrin beta)	8.42	P	8.28	P	6.48	P	1.9	0.001	type I, type II
+XM_001477025_at	LOC100041799	Derived by automated computational analysis using gene prediction method: GNOMON. Supporting evidence includes similarity to: 7 ESTs	5.8	A	5.99	! MMM	3.85	! MA	1.9	0.002	cytoplasmic
+NM_011607_at	Tnc	tenascin C	10.48	P	10.59	P	8.51	P	2	0.002	secreted
+NM_183116_at	1110021L09Rik	RIKEN cDNA 1110021L09 gene	7.81	P	7.97	P	5.89	P	1.9	0.002	type II, multipass
+NM_019802_at	Ggcx	gamma-glutamyl carboxylase	7.23	P	6.35	P	5.28	! PA	2	0.002	multipass
+NM_009200_at	Slc1a6	solute carrier family 1 (high affinity aspartate/glutamate transporter), member 6	6	! AAP	6.18	! APP	4.02	A	2	0.002	multipass
+NM_054044_at	Gpr124	G protein-coupled receptor 124	7.24	P	7.97	P	5.36	A	1.9	0.002	multipass
+NM_178929_at	Kazald1	Kazal-type serine peptidase inhibitor domain 1	6.36	P	6.29	P	4.46	A	1.9	0.003	secreted
+NM_009670_at	Ank3	ankyrin 3, epithelial	7.28	P	6.94	P	5.46	P	1.8	0.004	cytoplasmic
+NM_011706_at	Trpv2	transient receptor potential cation channel, subfamily V, member 2	7.86	P	7.18	P	6	! PA	1.9	0.003	multipass
+NM_198860_at	AI646023	expressed sequence AI646023	8.1	P	7.91	P	6.22	P	1.9	0.003	cytoplasmic
+NM_001039071_at	Ldb3	LIM domain binding 3	6.33	P	5.56	P	4.52	! PA	1.8	0.004	cytoplasmic
+XM_001475886_at	LOC100046255	Derived by automated computational analysis using gene prediction method: GNOMON. Supporting evidence includes similarity to: 4 mRNAs, 24 ESTs, 14 Proteins	7.03	P	6.17	! PMP	5.25	A	1.8	0.004	cytoplasmic
+NM_009413_at	Tpd52l1	tumor protein D52-like 1	8.31	P	7.95	P	6.57	P	1.7	0.005	cytoplasmic
+NM_172051_at	Tmcc3	transmembrane and coiled coil domains 3	9.01	P	9.1	P	7.28	P	1.7	0.005	multipass
+NM_013601_at	Msx2	homeobox, msh-like 2	7	P	6.15	! PMM	5.25	A	1.8	0.005	cytoplasmic
+NM_026163_at	Pkp2	plakophilin 2	8.71	P	8.47	P	6.98	P	1.7	0.005	cytoplasmic
+NM_001159533_at	Cacna1c	calcium channel, voltage-dependent, L type, alpha 1C subunit	7.87	P	7.57	P	6.17	P	1.7	0.006	cytoplasmic, multipass
+NM_133187_at	1110032E23Rik	RIKEN cDNA 1110032E23 gene	8.29	P	8.07	P	6.58	P	1.7	0.006	cytoplasmic
+NR_003642_at	2900062L11Rik	RIKEN cDNA 2900062L11 gene	6.58	P	7.08	P	4.9	P	1.7	0.006	type II
+NM_021422_at	Dnaja4	DnaJ (Hsp40) homolog, subfamily A, member 4	6.49	P	6.06	P	4.79	A	1.7	0.006	cytoplasmic
+NM_172900_at	Siglecg	sialic acid binding Ig-like lectin G	8.49	P	9.13	P	6.82	P	1.7	0.006	secreted, type I
+NM_001085500_at	Cisd3	CDGSH iron sulfur domain 3	6.81	A	6.23	A	5.14	A	1.7	0.007	cytoplasmic
+NM_144942_at	Csad	cysteine sulfinic acid decarboxylase	8.13	P	7.42	P	6.46	P	1.7	0.007	cytoplasmic
+NM_026505_at	Bambi	BMP and activin membrane-bound inhibitor, homolog (Xenopus laevis)	6.51	P	6.22	P	4.84	A	1.7	0.007	type II
+NM_201518_at	Flrt2	fibronectin leucine rich transmembrane protein 2	8.7	P	8.64	P	7.04	P	1.7	0.007	type I
+NM_011581_at	Thbs2	thrombospondin 2	8.41	P	8.26	P	6.76	P	1.7	0.008	secreted
+NM_008714_at	Notch1	Notch gene homolog 1 (Drosophila)	7.65	P	6.82	P	5.99	! AP	1.7	0.008	type I
+NM_172465_at	Zdhhc9	zinc finger, DHHC domain containing 9	8.08	P	7.37	P	6.44	P	1.6	0.008	multipass
+NM_011267_at	Rgs16	regulator of G-protein signaling 16	6.61	P	6.07	P	4.99	A	1.6	0.009	cytoplasmic
+NM_007901_at	S1pr1	sphingosine-1-phosphate receptor 1	6.82	P	6.3	! PPM	5.19	A	1.6	0.01	multipass
+NM_146131_at	Pbxip1	pre-B-cell leukemia transcription factor interacting protein 1	8.02	P	7.68	P	6.42	P	1.6	0.01	type II
+NM_172508_at	Dse	dermatan sulfate epimerase	8.86	P	8.51	P	7.25	P	1.6	0.01	multipass
+NM_172393_at	Aim1	absent in melanoma 1	6.96	P	7.22	! PAM	5.36	A	1.6	0.01	cytoplasmic
+NM_025287_at	Spop	speckle-type POZ protein	10.12	P	10.7	P	8.52	P	1.6	0.01	cytoplasmic
+NM_172637_at	Hectd2	HECT domain containing 2	6.46	P	6.21	P	4.88	P	1.6	0.011	cytoplasmic
+XR_001805_at	EG665945	Derived by automated computational analysis using gene prediction method: GNOMON. Supporting evidence includes similarity to: 4 mRNAs, 68 ESTs, 9 Proteins	8.72	P	8.03	P	7.14	! PA	1.6	0.012	pseudogene
+NM_130451_at	Slc2a10	solute carrier family 2 (facilitated glucose transporter), member 10	6.52	P	5.69	P	4.97	P	1.6	0.012	multipass
+NM_001079908_at	Fgfr1	fibroblast growth factor receptor 1	8.29	P	7.62	P	6.73	P	1.6	0.012	cytoplasmic, secreted, type I
+NM_009144_at	Sfrp2	secreted frizzled-related protein 2	10.66	P	11.29	P	9.09	P	1.6	0.012	secreted
+NM_015786_at	Hist1h1c	histone cluster 1, H1c	8.21	P	7.4	P	6.67	P	1.5	0.014	cytoplasmic
+NM_145379_at	Mrgprf	MAS-related GPR, member F	8.12	P	7.66	P	6.56	! PA	1.6	0.014	multipass
+NM_178066_at	1110012D08Rik	RIKEN cDNA 1110012D08 gene	9.23	P	9.09	P	7.71	P	1.5	0.015	multipass
+NM_001083316_at	Pdgfra	platelet derived growth factor receptor, alpha polypeptide	7.54	P	7.06	P	6.02	P	1.5	0.015	secreted, type I
+NM_178761_at	Zfp672	zinc finger protein 672	7.98	P	7.4	P	6.47	P	1.5	0.015	cytoplasmic
+NM_001081437_at	Fbln2	fibulin 2	11.56	P	11.69	P	10.04	P	1.5	0.015	secreted
+NM_001040654_at	Cdkn2a	cyclin-dependent kinase inhibitor 2A	8.8	P	8.11	P	7.29	P	1.5	0.015	cytoplasmic, type II
+NM_007742_at	Col1a1	collagen, type I, alpha 1	12.34	P	11.91	P	10.85	P	1.5	0.017	secreted
+NM_172753_at	Csgalnact1	chondroitin sulfate N-acetylgalactosaminyltransferase 1	7.53	P	7.53	P	6.05	P	1.5	0.017	type II
+NM_009504_at	Vdr	vitamin D receptor	6.52	P	6	P	5.06	A	1.5	0.017	cytoplasmic
+XR_033476_at	LOC100047608	Derived by automated computational analysis using gene prediction method: GNOMON. Supporting evidence includes similarity to: 19 ESTs, 7 Proteins	8.34	! PAP	8.22	! AAP	6.88	A	1.5	0.018	pseudogene
+NM_177595_at	Mkx	mohawk homeobox	6.44	P	6.68	P	4.98	P	1.5	0.018	cytoplasmic
+NM_029999_at	Lbh	limb-bud and heart	7.74	P	7.05	P	6.26	P	1.5	0.018	cytoplasmic
+NM_183254_at	1700025K23Rik	RIKEN cDNA 1700025K23 gene	7.12	P	7.21	P	5.66	! PA	1.5	0.018	cytoplasmic
+NM_022814_at	Svep1	sushi, von Willebrand factor type A, EGF and pentraxin domain containing 1	7.29	P	7.54	P	5.81	A	1.5	0.018	secreted
+NM_027154_at	Tmbim1	transmembrane BAX inhibitor motif containing 1	9.57	P	8.72	P	8.13	P	1.4	0.02	type II, multipass
+XM_125636_at	Tysnd1	Derived by automated computational analysis using gene prediction method: GNOMON. Supporting evidence includes similarity to: 4 mRNAs, 102 ESTs, 5 Proteins	7.82	P	8.35	P	6.38	! PM	1.4	0.02	cytoplasmic
+NM_175096_at	Stbd1	starch binding domain 1	7.89	P	7.95	P	6.46	P	1.4	0.019	secreted
+NM_019707_at	Cdh13	cadherin 13	7.61	P	6.72	P	6.19	P	1.4	0.019	secreted, type I
+NM_001143776_at	Fam13c	family with sequence similarity 13, member C	5.86	P	5.52	P	4.41	P	1.5	0.02	cytoplasmic
+XM_001478817_at	LOC100047749	Derived by automated computational analysis using gene prediction method: GNOMON. Supporting evidence includes similarity to: 38 ESTs, 4 Proteins	7.86	P	7.67	P	6.44	! PM	1.4	0.019	cytoplasmic
+NM_138315_at	Mical1	microtubule associated monoxygenase, calponin and LIM domain containing 1	8.23	P	7.95	P	6.81	P	1.4	0.019	cytoplasmic
+NM_010478_at	Hspa1b	heat shock protein 1B	9.64	P	9.25	P	8.22	P	1.4	0.019	cytoplasmic
+NM_028454_at	Tm7sf2	transmembrane 7 superfamily member 2	8.21	P	7.93	P	6.77	P	1.4	0.019	type I, multipass
+NM_009933_at	Col6a1	collagen, type VI, alpha 1	10.19	P	9.78	P	8.77	P	1.4	0.019	cytoplasmic, secreted
+NM_181390_at	Mustn1	musculoskeletal, embryonic nuclear protein 1	8.22	P	7.42	P	6.8	P	1.4	0.019	cytoplasmic
+NM_009640_at	Angpt1	angiopoietin 1	7.25	P	7	P	5.79	P	1.5	0.019	secreted
+NM_028472_at	Bmper	BMP-binding endothelial regulator	6.92	P	7.48	P	5.5	P	1.4	0.02	cytoplasmic, secreted
+NM_011824_at	Grem1	gremlin 1	8.04	P	7.78	P	6.62	P	1.4	0.02	secreted, type II
+NM_145978_at	Pdlim2	PDZ and LIM domain 2	9.59	P	8.96	P	8.15	P	1.4	0.02	cytoplasmic
+NM_053106_at	Lmod1	leiomodin 1 (smooth muscle)	7.35	! PMP	6.63	A	5.91	A	1.4	0.02	cytoplasmic
+NM_198625_at	Mtss1l	metastasis suppressor 1-like	6.41	P	5.79	! PPA	5.01	A	1.4	0.02	cytoplasmic
+NM_009003_at	Rab4a	RAB4A, member RAS oncogene family	7.48	P	7.23	P	6.09	P	1.4	0.02	cytoplasmic
+NM_001111324_at	Nedd9	neural precursor cell expressed, developmentally down-regulated gene 9	7.13	P	6.55	P	5.72	P	1.4	0.021	cytoplasmic
+NM_001079844_at	Gpc6	glypican 6	6.91	P	7.04	P	5.51	P	1.4	0.021	secreted
+XM_001473254_at	LOC100045283	Derived by automated computational analysis using gene prediction method: GNOMON. Supporting evidence includes similarity to: 6 mRNAs, 74 ESTs, 7 Proteins	6.91	P	7.04	P	5.51	P	1.4	0.021	secreted
+NM_183312_at	Synm	synemin, intermediate filament protein	6.04	P	5.31	P	4.63	P	1.4	0.021	cytoplasmic
+NM_146007_at	Col6a2	collagen, type VI, alpha 2	9.59	P	9.38	P	8.2	P	1.4	0.021	secreted
+NM_001145887_at	Tiam1	T-cell lymphoma invasion and metastasis 1	8.73	P	8.14	P	7.36	P	1.4	0.024	cytoplasmic
+NM_029770_at	Unc5b	unc-5 homolog B (C. elegans)	10.19	P	9.5	P	8.81	P	1.4	0.024	type I
+NM_001083810_at	Prr5l	proline rich 5 like	6.29	P	5.92	P	4.92	! PA	1.4	0.024	cytoplasmic
+NM_023132_at	Renbp	renin binding protein	8.66	P	8.31	P	7.27	A	1.4	0.024	cytoplasmic
+NM_178679_at	Zfp365	zinc finger protein 365	7.92	P	7.25	P	6.55	P	1.4	0.024	cytoplasmic
+NM_010917_at	Nid1	nidogen 1	8.82	P	9.18	P	7.47	P	1.3	0.025	type I
+NM_010070_at	Dok1	docking protein 1	10.69	P	10.26	P	9.34	P	1.4	0.025	cytoplasmic
+NM_008803_at	Pde8a	phosphodiesterase 8A	5.78	P	5.76	P	4.42	! MA	1.4	0.025	cytoplasmic
+NM_026840_at	Pdgfrl	platelet-derived growth factor receptor-like	9	P	8.51	P	7.64	P	1.4	0.025	secreted
+NM_001122892_at	Fyn	Fyn proto-oncogene	9.98	P	10.03	P	8.65	P	1.3	0.026	cytoplasmic
+NM_001105246_at	Pcdh19	protocadherin 19	8.98	P	9.29	P	7.63	P	1.4	0.025	type I, type II, multipass
+NM_001105245_at	Pcdh19	protocadherin 19	8.7	P	9.03	P	7.45	P	1.2	0.037	type I, type II, multipass
+XM_887910_at	A930035D04Rik	Derived by automated computational analysis using gene prediction method: GNOMON. Supporting evidence includes similarity to: 1 mRNA, 22 ESTs, 1 Protein	6.01	P	5.98	P	4.66	P	1.3	0.025	cytoplasmic
+NM_173733_at	Suox	sulfite oxidase	7.62	P	7.62	P	6.28	P	1.3	0.026	cytoplasmic
+NM_026268_at	Dusp6	dual specificity phosphatase 6	11.39	P	10.47	P	10.04	P	1.3	0.026	cytoplasmic
+NM_007792_at	Csrp2	cysteine and glycine-rich protein 2	10.27	P	10.59	P	8.95	P	1.3	0.026	cytoplasmic
+NM_020561_at	Smpdl3a	sphingomyelin phosphodiesterase, acid-like 3A	5.41	! AMA	5.69	! PMM	4.06	A	1.3	0.026	secreted
+NM_027533_at	Tspan2	tetraspanin 2	7.86	P	7.27	P	6.54	P	1.3	0.026	multipass
+NM_177846_at	Lcmt2	leucine carboxyl methyltransferase 2	6.12	P	5.59	! APP	4.79	A	1.3	0.026	cytoplasmic, secreted
+NM_019877_at	Copz2	coatomer protein complex, subunit zeta 2	8.92	P	8.37	P	7.57	P	1.3	0.026	type II
+NM_172118_at	Myl9	myosin, light polypeptide 9, regulatory	12.88	P	12.78	P	11.56	P	1.3	0.026	cytoplasmic
+NM_025855_at	Echdc1	enoyl Coenzyme A hydratase domain containing 1	8.68	P	8.79	P	7.36	P	1.3	0.026	cytoplasmic
+NM_177429_at	Ofd1	oral-facial-digital syndrome 1 gene homolog (human)	6.99	P	6.98	P	5.67	P	1.3	0.027	cytoplasmic
+NM_026166_at	1200009F10Rik	RIKEN cDNA 1200009F10 gene	9.78	P	8.89	P	8.47	P	1.3	0.028	cytoplasmic, type II
+NM_201239_at	Rnase4	ribonuclease, RNase A family 4	6.5	P	5.91	P	5.11	! PA	1.4	0.028	secreted
+NM_001037098_at	Nacc2	nucleus accumbens associated 2, BEN and BTB (POZ) domain containing	8.16	P	7.28	P	6.86	P	1.3	0.028	cytoplasmic
+NM_029344_at	Acyp2	acylphosphatase 2, muscle type	6	P	6.72	P	4.66	A	1.3	0.029	cytoplasmic
+NM_172543_at	Fam117a	family with sequence similarity 117, memberA	8.52	P	8.1	P	7.21	P	1.3	0.029	cytoplasmic
+NM_007897_at	Ebf1	early B-cell factor 1	7.63	P	7.93	P	6.32	P	1.3	0.029	cytoplasmic
+NM_015772_at	Sall2	sal-like 2 (Drosophila)	7.93	P	7.5	P	6.64	P	1.3	0.029	cytoplasmic
+NM_001136062_at	Eno3	enolase 3, beta muscle	10.58	P	9.89	P	9.29	P	1.3	0.029	cytoplasmic
+NM_199302_at	Lrsam1	leucine rich repeat and sterile alpha motif containing 1	7.86	P	7.01	P	6.56	P	1.3	0.029	cytoplasmic
+NM_001081235_at	Mn1	meningioma 1	6.33	P	6.41	P	5.03	! MP	1.3	0.031	cytoplasmic
+NM_009368_at	Tgfb3	transforming growth factor, beta 3	8.96	P	8.71	P	7.66	P	1.3	0.032	cytoplasmic, secreted
+NM_008813_at	Enpp1	ectonucleotide pyrophosphatase/phosphodiesterase 1	8.12	P	8.1	P	6.82	P	1.3	0.032	type II
+NM_027739_at	B4galnt1	beta-1,4-N-acetyl-galactosaminyl transferase 1	6.8	P	6.17	! APA	5.52	A	1.3	0.032	type II
+NM_011812_at	Fbln5	fibulin 5	8.26	P	8.3	P	6.97	P	1.3	0.032	secreted
+NM_026514_at	Cdc42ep3	CDC42 effector protein (Rho GTPase binding) 3	10.08	P	10.32	P	8.8	P	1.3	0.032	cytoplasmic
+NM_201361_at	Fam82a1	family with sequence similarity 82, member A1	6.09	P	5.51	P	4.81	P	1.3	0.032	cytoplasmic, type II
+NM_026902_at	Mcts1	malignant T cell amplified sequence 1	10.49	P	10.37	P	9.22	P	1.3	0.033	cytoplasmic
+NM_010027_at	Ddt	D-dopachrome tautomerase	9.41	P	9.23	P	8.13	! PM	1.3	0.033	cytoplasmic
+NM_026887_at	Ap1s2	adaptor-related protein complex 1, sigma 2 subunit	7.52	P	6.88	P	6.24	! PA	1.3	0.033	cytoplasmic
+NM_023794_at	Etv5	ets variant gene 5	8.02	! PPM	8.24	! PAM	6.73	A	1.3	0.034	cytoplasmic
+NM_025872_at	Golt1b	golgi transport 1 homolog B (S. cerevisiae)	8.64	P	8.39	P	7.39	P	1.3	0.035	multipass
+NM_177244_at	Fastkd1	FAST kinase domains 1	7.37	P	7.15	P	6.11	P	1.3	0.034	cytoplasmic
+NM_001003948_at	5033414K04Rik	RIKEN cDNA 5033414K04 gene	5.42	P	5.68	P	4.14	! PA	1.3	0.034	cytoplasmic
+NM_145466_at	A2ld1	AIG2-like domain 1	8.02	P	8.08	P	6.77	P	1.3	0.035	cytoplasmic
+NM_001159610_at	Lrrc57	leucine rich repeat containing 57	6.16	P	5.64	P	4.88	P	1.3	0.035	cytoplasmic
+NM_011593_at	Timp1	tissue inhibitor of metalloproteinase 1	11.49	P	11.11	P	10.25	P	1.2	0.035	secreted
+NM_019840_at	Pde4b	phosphodiesterase 4B, cAMP specific	5.89	P	5.26	P	4.63	P	1.3	0.035	cytoplasmic
+NM_145220_at	Appl2	adaptor protein, phosphotyrosine interaction, PH domain and leucine zipper containing 2	8.26	P	7.43	P	7	P	1.3	0.035	cytoplasmic
+NM_009061_at	Rgs2	regulator of G-protein signaling 2	7.8	P	8.16	P	6.55	P	1.2	0.035	cytoplasmic
+NM_021272_at	Fabp7	fatty acid binding protein 7, brain	6.19	P	6	! PPA	4.91	A	1.3	0.035	cytoplasmic
+NM_175194_at	Slc25a16	solute carrier family 25 (mitochondrial carrier, Graves disease autoantigen), member 16	8.35	P	8.15	P	7.08	P	1.3	0.035	cytoplasmic
+NM_008287_at	Hrsp12	heat-responsive protein 12	8.62	P	7.91	P	7.36	P	1.3	0.035	cytoplasmic
+NM_018763_at	Chst2	carbohydrate sulfotransferase 2	7.78	P	8.13	P	6.54	P	1.2	0.035	type II
+NM_010097_at	Sparcl1	SPARC-like 1	5.98	P	6.03	! PPA	4.73	A	1.2	0.036	secreted
+NM_019971_at	Pdgfc	platelet-derived growth factor, C polypeptide	9.14	P	8.28	P	7.91	P	1.2	0.037	cytoplasmic
+NM_026280_at	Mxra7	matrix-remodelling associated 7	7.7	! MMM	7.46	! MMM	6.42	! MM	1.3	0.037	type II
+NM_026667_at	Fam114a1	family with sequence similarity 114, member A1	8.81	P	8.35	P	7.57	P	1.2	0.037	cytoplasmic
+NM_010874_at	Nat2	N-acetyltransferase 2 (arylamine N-acetyltransferase)	7.88	P	7.92	P	6.64	P	1.2	0.038	cytoplasmic
+NM_026446_at	Rgs19	regulator of G-protein signaling 19	8.78	P	8.51	P	7.56	P	1.2	0.038	cytoplasmic
+NM_028000_at	Ppapdc1b	phosphatidic acid phosphatase type 2 domain containing 1B	8.74	P	8.41	P	7.53	P	1.2	0.041	multipass
+NM_008750_at	Nxn	nucleoredoxin	8.86	P	8.25	P	7.64	P	1.2	0.041	cytoplasmic
+NM_172307_at	Mbtps2	membrane-bound transcription factor peptidase, site 2	8.38	P	8.86	P	7.16	P	1.2	0.042	cytoplasmic, multipass
+NM_010217_at	Ctgf	connective tissue growth factor	13.56	P	13.47	P	12.36	P	1.2	0.042	secreted
+XM_979045_at	BC030863	Derived by automated computational analysis using gene prediction method: GNOMON. Supporting evidence includes similarity to: 4 mRNAs, 143 ESTs, 1 Protein	7.47	P	6.88	P	6.27	! MA	1.2	0.043	cytoplasmic
+NM_009931_at	Col4a1	collagen, type IV, alpha 1	11.25	P	11.05	P	10.05	P	1.2	0.043	secreted
+NM_019521_at	Gas6	growth arrest specific 6	6.58	P	6.14	P	5.37	! PA	1.2	0.043	secreted
+NM_013888_at	Dnajc12	DnaJ (Hsp40) homolog, subfamily C, member 12	6.71	P	7.18	P	5.49	! MA	1.2	0.043	cytoplasmic
+NM_025931_at	Rabl4	RAB, member of RAS oncogene family-like 4	8.73	P	7.92	P	7.54	P	1.2	0.043	cytoplasmic
+NM_138601_at	D10Jhu81e	DNA segment, Chr 10, Johns Hopkins University 81 expressed	9.28	P	9.04	P	8.09	P	1.2	0.044	cytoplasmic
+NM_177699_at	Fhod1	formin homology 2 domain containing 1	8.53	P	8.02	! PPM	7.36	A	1.2	0.044	cytoplasmic
+NM_011894_at	Sh3bp5	SH3-domain binding protein 5 (BTK-associated)	7.09	P	6.87	P	5.91	! PA	1.2	0.044	cytoplasmic, secreted
+XM_001479775_at	LOC100047944	Derived by automated computational analysis using gene prediction method: GNOMON. Supporting evidence includes similarity to: 9 mRNAs, 84 ESTs, 37 Proteins	8.79	P	8.54	P	7.61	P	1.2	0.044	cytoplasmic
+NM_033079_at	D6Mm5e	DNA segment, Chr 6, Miriam Meisler 5, expressed	6.34	P	5.84	! PAA	5.15	! PA	1.2	0.044	cytoplasmic
+NM_009365_at	Tgfb1i1	transforming growth factor beta 1 induced transcript 1	10.08	P	9.77	P	8.9	P	1.2	0.044	cytoplasmic
+NM_001081205_at	Nipal1	NIPA-like domain containing 1	7.27	P	6.6	P	6.07	P	1.2	0.045	multipass
+NM_028307_at	Tdrkh	tudor and KH domain containing protein	7.68	P	8.15	P	6.51	A	1.2	0.046	type II
+NM_029494_at	Rab30	RAB30, member RAS oncogene family	6.81	P	6.13	! PAP	5.64	! PA	1.2	0.046	cytoplasmic
+NM_027875_at	Syde1	synapse defective 1, Rho GTPase, homolog 1 (C. elegans)	9.39	P	9.42	P	8.22	P	1.2	0.046	cytoplasmic
+XM_001476728_at	LOC100046741	Derived by automated computational analysis using gene prediction method: GNOMON. Supporting evidence includes similarity to: 1 mRNA, 88 ESTs, 3 Proteins	8.85	P	8.27	P	7.68	P	1.2	0.046	cytoplasmic
+NM_026740_at	Slc46a1	solute carrier family 46, member 1	6.85	P	6.6	P	5.69	P	1.2	0.046	multipass
+XM_904152_at	LOC230628	Derived by automated computational analysis using gene prediction method: GNOMON. Supporting evidence includes similarity to: 16 ESTs, 1 Protein	6.44	A	7.16	! PAA	5.24	A	1.2	0.047	secreted
+NM_010222_at	Fkbp7	FK506 binding protein 7	9.2	P	8.31	P	8.03	P	1.2	0.047	secreted
+NM_139307_at	Vasn	vasorin	9.68	P	8.91	P	8.52	P	1.2	0.047	type I
+NM_031877_at	Wasf1	WASP family 1	8.33	P	8.62	P	7.17	P	1.2	0.047	cytoplasmic
+NM_011125_at	Pltp	phospholipid transfer protein	9.01	P	8.19	P	7.83	P	1.2	0.047	cytoplasmic, secreted
+NM_028235_at	Ttc30b	tetratricopeptide repeat domain 30B	6.7	P	6.05	P	5.51	! PM	1.2	0.048	multipass
+NM_027924_at	Pdgfd	platelet-derived growth factor, D polypeptide	7.37	P	8.04	P	6.19	P	1.2	0.05	secreted
+NM_201529_at	Lmo7	LIM domain only 7	6.68	P	6.81	P	5.51	P	1.2	0.05	cytoplasmic
+NM_013807_at	Plk3	polo-like kinase 3 (Drosophila)	7.05	! PMA	6.97	! PPA	5.9	A	1.2	0.05	cytoplasmic

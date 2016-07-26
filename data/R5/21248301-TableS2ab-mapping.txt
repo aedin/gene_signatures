@@ -1,0 +1,21 @@
+# Generate Mapping Tables Script: Version 4 11:04 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:04 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+affy_hg_u133b|223864_at|223864_at	hgnc_symbol|NY-BR-1|NY-BR-1
+affy_hg_u133b|226067_at|226067_at	hgnc_symbol|Not available|Not available
+affy_hg_u133b|227081_at|227081_at	hgnc_symbol|HUMAUANTIG|HUMAUANTIG
+affy_hg_u133b|228969_at|228969_at	hgnc_symbol|AGR2|AGR2
+affy_hg_u133b|229030_at|229030_at	hgnc_symbol|Not available|Not available
+affy_hg_u133b|229150_at|229150_at	hgnc_symbol|Not available|Not available
+affy_hg_u133b|229975_at|229975_at	hgnc_symbol|Not available|Not available
+affy_hg_u133b|230378_at|230378_at	hgnc_symbol|SCGB3A1|SCGB3A1
+affy_hg_u133b|230863_at|230863_at	hgnc_symbol|LRP2|LRP2
+affy_hg_u133b|232855_at|232855_at	hgnc_symbol|MRNA full length|MRNA full length
+affy_hg_u133b|233413_at|233413_at	hgnc_symbol|CDNA FLJ13457|CDNA FLJ13457
+affy_hg_u133b|235343_at|235343_at	hgnc_symbol|FLJ12505|FLJ12505
+affy_hg_u133b|238581_at|238581_at	hgnc_symbol|GBP5|GBP5
+affy_hg_u133b|238746_at|238746_at	hgnc_symbol|Not available|Not available
+affy_hg_u133b|243929_at|243929_at	hgnc_symbol|Not available|Not available

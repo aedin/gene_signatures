@@ -1,0 +1,41 @@
+Sample ID	Gene ID	Mutation type	Chromosomal positiona	Base change	Aminoacid change	read%	CovT	CovN	Affected domain	Polyphen-2 Prediction	Score	Expressionb	COSMIC v52 (N of Mutated cases)
+CLL1	ACTN1	missense	chr14:68422007	C>T	A425T	67%	7	6	spectrin-2	benign	0	A	1
+CLL1	AP1G2	nonsense	chr14:23102859	G>A	R380	30%	13	9	nd	altering	N/A	P	1
+CLL1	BBS2	nonsense	chr16:55105893	G>T	Y106	43%	7	15	nd	altering	N/A	P	1
+CLL1	BIRC3	frameshift deletion	chr11:101706960	32bases	E368fs	30%	11	9	interdomain (BIR3 and CARD)	altering	N/A	P	4
+CLL1	FRMPD1	missense	chr9:37736153	C>T	P1375L	75%	4	4	nd	benign	0.025	A	7
+CLL1	FSCN3	nonsense	chr7:127025782	C>T	R340	50%	8	7	actin-crosslinking domain	altering	N/A	A	1
+CLL1	GOLM1	missense	chr9:87882296	G>A	R54C	42%	12	8	lumenal	altering	0.948	A
+CLL2	ABCA7	missense	chr19:996094	G>A	G437S	40%	15	11	extracellular	altering	0.98	P (377.6)	3
+CLL2	ALPK3	missense	chr15:83202310	G>A	G1315S	33%	14	6	nd	altering	0.949	A (5.3)	7
+CLL2	DNAH2	missense	chr17:7618928	T>Cc	L1543P	20%	16	17	interdomain (TPR1-TPR2)	altering	0.999	NA	7
+CLL2	GPRASP1	missense	chrX:101798114	A>T	I873F	23%	23	12	Glu-rich region	altering	0.569	P (1220.8)	2
+CLL2	INHBC	missense	chr12:56115006	G>A	G24S	47%	16	10	propeptide (AA19-236)	benign	0.019	P (73.7)
+CLL2	NOTCH1	frameshift deletion	chr9:138510742	28 basesd	P2415fs				PEST domain	altering	N/A	NA	628
+CLL2	SCGN	missense	chr6:25809474	G>Ac	V255M	18%	18	11	calcium binding	benign	0.002	A	3
+CLL2	WHSC1	missense	chr4:1932599	G>A	E1099K	33%	13	27	SET domain	altering	0.982	P (290.5)	6
+CLL2	YBX1	missense	chr1:42935456	G>A	A226T	43%	7	6	nd	benign	0	P (7900.4)	4
+CLL2	ZNF300	missense	chr5:150255232	G>C	Q588E	50%	8	3	ZF N.12 (AA 577-599)	altering	0.984	A (15.3)	1
+CLL3	EMX2	nonsense	chr10:119297581	C>T	Q203	38%	14	11	homeobox DNA binding	altering	N/A	NA
+CLL3	MPP2	missense	chr17:39312768	C>T	E447K	33%	9	14	guanylate kinase-like	altering	0.418	A (93.5)
+CLL3	NOTCH1	frameshift deletion	chr9:138510462	CTc,d	P2515fs				PEST domain	altering	N/A	NA	628
+CLL3	OR4D11	missense	chr11:59028199	C>A	T192N	37%	10	20	extracellular	altering	0.924	NA	1
+CLL3	SNX9	frameshift deletion	chr6:158250968	ACTG	F290fs	44%	9	11	PX domain	altering	N/A	P (829.5)	2
+CLL3	TGM7	missense	chr15:41366909	G>T	N242K	33%	9	25	nd	altering	0.978	A (9.5)	2
+CLL4	ASPHD1	missense	chr16:29820259	C>T	R156C	33%	9	2	lumenal	altering	0.974	A (97.3)
+CLL4	FAM123B	missense	chrX:63329239	T>A	E218V	54%	13	9	nd	altering	0.903	A (12.1)	110
+CLL4	HIST1H2AM	missense	chr6:27968622	G>C	N95K	33%	12	14	kistone-fold	altering	0.983	P (180.8)	2
+CLL4	MOG	missense	chr6:29735146	C>T	R54C	71%	7	9	Ig-like V-type, EC	altering	0.999	A (30.2)	1
+CLL4	OR5AN1	missense	chr11:58888757	T>G	S84A	45%	11	12	extracellular	altering	0.508	NA	1
+CLL4	PLEKHG5	missense	chr1:6453687	A>T	Y525N	33%	12	8	nd	altering	1	A (25.3)	1
+CLL4	SLC1A1	missense	chr9:4575404	A>G	D474G	56%	9	10	extracellular	benign	0.012	A (64.4)
+CLL5	ACTL6A	missense	chr3:180770679	C>T	P78L	57%	7	7	nd	altering	0.979	P	1
+CLL5	ADCY8	missense	chr8:131862024	T>C	R1184G	75%	8	0	cytoplasmic	benign	0.174	NA	2
+CLL5	GDF2	missense	chr10:48033768	G>A	T369M	60%	7	0	chain (AA320-429)	altering	0.999	A	2
+CLL5	HEXIM1	missense	chr17:40582696	C>T	A119V	56%	12	0	nd	benign	0	P	1
+CLL5	MYD88	missense	chr3:38157645	T>C	L265P	50%	9	10	TIR domain	altering	0.999	P	92
+CLL5	NHSL2	missense	chrX:71275588	G>A	G489S	100%	15	0	nd	altering	0.906	A
+CLL5	PUM2	missense	chr2:20317179	T>C	N983S	67%	12	11	Pumilio 4	benign	0	P	1
+CLL5	SORCS1	missense	chr10:108327217	G>C	P1153R	44%	9	0	cytoplasmic	benign	0.001	P	1
+CLL5	ST18	missense	chr8:53240291	T>C	T418A	50%	8	0	ZF N.2 (AA 409-439)	altering	0.988	NA	4
+CLL5	ZNF644	missense	chr1:91176521	T>G	Y993S	55%	12	13	ZF N.6 (AA 963-987)	altering	0.995	P	2

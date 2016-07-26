@@ -1,0 +1,68 @@
+# Generate Mapping Tables Script: Version 4 11:08 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:08 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+refseq_dna|NM_031640|NM_031640	rgd_symbol|Pgcp|Pgcp
+refseq_dna|NM_031732|NM_031732	rgd_symbol|Sult1c3|Sult1c3
+refseq_dna|NM_012811|NM_012811	rgd_symbol|Mfge8|Mfge8
+refseq_dna|NM_017246|NM_017246	rgd_symbol|Map2k5|Map2k5
+refseq_dna|NM_019153|NM_019153	rgd_symbol|Fbln5|Fbln5
+refseq_dna|NM_019341|NM_019341	rgd_symbol|Rgs5|Rgs5
+refseq_dna|NM_053752|NM_053752	rgd_symbol|Suclg1|Suclg1
+refseq_dna|NM_024391|NM_024391	rgd_symbol|Hsd17b2|Hsd17b2
+refseq_dna|NM_013198|NM_013198	rgd_symbol|Maob|Maob
+refseq_dna|NM_012924|NM_012924	rgd_symbol|Cd44|Cd44
+refseq_dna|NM_053667|NM_053667	rgd_symbol|Lepre1|Lepre1
+refseq_dna|NM_019283|NM_019283	rgd_symbol|Slc3a2|Slc3a2
+refseq_dna|NM_030844|NM_030844	rgd_symbol|Ica1|Ica1
+entrezgene|BE115626|308624	rgd_symbol|Heca|Heca
+entrezgene|BF281848|361472	rgd_symbol|Mthfd1l|Mthfd1l
+refseq_dna|NM_019184|NM_019184	rgd_symbol|Cyp2c11|Cyp2c11
+refseq_dna|NM_013052|NM_013052	rgd_symbol|Ywhah|Ywhah
+refseq_dna|NM_012657|NM_012657	rgd_symbol|Serpina3k|Serpina3k
+refseq_dna|NM_012816|NM_012816	rgd_symbol|Amacr|Amacr
+refseq_dna|NM_017125|NM_017125	rgd_symbol|Cd63|Cd63
+refseq_dna|NM_052809|NM_052809	rgd_symbol|Cdo1|Cdo1
+refseq_dna|NM_013186|NM_013186	rgd_symbol|Kcnb1|Kcnb1
+entrezgene|AW251324|680308	rgd_symbol|Mthfd2|Mthfd2
+refseq_dna|NM_053857|NM_053857	rgd_symbol|Eif4ebp1|Eif4ebp1
+entrezgene|BE108905|89825	rgd_symbol|Nap1l1|Nap1l1
+entrezgene|BF416285|312566	rgd_symbol|Adamts9|Adamts9
+refseq_dna|NM_013145|NM_013145	rgd_symbol|Gnai1|Gnai1
+refseq_dna|NM_053431|NM_053431	rgd_symbol|Qsox1|Qsox1
+embl|AW524559|AW524559
+refseq_dna|NM_021653|NM_021653	rgd_symbol|Dio1|Dio1
+refseq_dna|NM_031324|NM_031324	rgd_symbol|Prep|Prep
+refseq_dna|NM_080786|NM_080786	rgd_symbol|Slco2b1|Slco2b1
+embl|BE111762|BE111762
+embl|BF555947|BF555947
+refseq_dna|NM_017270|NM_017270	rgd_symbol|Adh4|Adh4
+refseq_dna|NM_053293|NM_053293	rgd_symbol|Gstt1|Gstt1
+entrezgene|AI170382|304053	rgd_symbol|Ripk4|Ripk4
+entrezgene|BI296275|304301	rgd_symbol|Mmd2|Mmd2
+entrezgene|AW915454|502901	rgd_symbol|Clec9a|Clec9a
+refseq_dna|NM_013182|NM_013182	rgd_symbol|Mc5r|Mc5r
+refseq_dna|NM_012770|NM_012770	rgd_symbol|Gucy1b2|Gucy1b2
+refseq_dna|NM_019290|NM_019290	rgd_symbol|Btg3|Btg3
+refseq_dna|NM_031714|NM_031714	rgd_symbol|Hrsp12|Hrsp12
+refseq_dna|NM_031725|NM_031725	rgd_symbol|Scamp4|Scamp4
+entrezgene|AI171656|362536	rgd_symbol|RGD1564859|RGD1564859
+embl|AI408557|AI408557
+entrezgene|AI548730|307350	rgd_symbol|Afg3l2|Afg3l2
+embl|BM389496|BM389496
+entrezgene|BF282573|363195	rgd_symbol|Gtpbp2|Gtpbp2
+entrezgene|BF392344|306490	rgd_symbol|Mtmr7|Mtmr7
+refseq_dna|NM_017255|NM_017255	rgd_symbol|P2ry2|P2ry2
+refseq_dna|NM_017047|NM_017047	rgd_symbol|Slc10a1|Slc10a1
+refseq_dna|NM_012552|NM_012552	rgd_symbol|Cela1|Cela1
+refseq_dna|NM_012561|NM_012561	rgd_symbol|Fst|Fst
+refseq_dna|NM_012733|NM_012733	rgd_symbol|Rbp1|Rbp1
+refseq_dna|NM_013161|NM_013161	rgd_symbol|Pnlip|Pnlip
+refseq_dna|NM_017214|NM_017214	rgd_symbol|Rgs4|Rgs4
+refseq_dna|NM_021593|NM_021593	rgd_symbol|Kmo|Kmo
+refseq_dna|NM_021661|NM_021661	rgd_symbol|Rgs19|Rgs19
+refseq_dna|NM_021997|NM_021997	rgd_symbol|Clip2|Clip2
+refseq_dna|NM_019142|NM_019142	rgd_symbol|Prkaa1|Prkaa1
+refseq_dna|NM_031123|NM_031123	rgd_symbol|Stc1|Stc1

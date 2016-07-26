@@ -1,0 +1,23 @@
+# Generate Mapping Tables Script: Version 4 11:03 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:03 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+efg_agilent_wholegenome_4x44k_v1|A_23_P30884|A_23_P30884	entrezgene|114584|114584	entrezgene|1192|1192	hgnc_symbol|CLIC1|CLIC1	hgnc_symbol|Clic1|Clic1
+efg_agilent_wholegenome_4x44k_v1|A_23_P11806|A_23_P11806	entrezgene|12814|12814	entrezgene|1301|1301	hgnc_symbol|COL11A1|COL11A1	hgnc_symbol|Col11a1|Col11a1
+efg_agilent_wholegenome_4x44k_v1|A_24_P206776|A_24_P206776	entrezgene|12955|12955	entrezgene|1410|1410	hgnc_symbol|CRYAB|CRYAB	hgnc_symbol|Cryab|Cryab
+efg_agilent_wholegenome_4x44k_v1|A_23_P119362|A_23_P119362	entrezgene|13732|13732	entrezgene|2014|2014	hgnc_symbol|EMP3|EMP3	hgnc_symbol|Emp3|Emp3
+efg_agilent_wholegenome_4x44k_v1|A_23_P16963|A_23_P16963	entrezgene|381413|381413	entrezgene|2840|2840	hgnc_symbol|GPR17|GPR17	hgnc_symbol|Gpr176|Gpr176
+efg_agilent_wholegenome_4x44k_v1|A_23_P97990|A_23_P97990	entrezgene|56213|56213	entrezgene|5654|5654	hgnc_symbol|HTRA1|HTRA1	hgnc_symbol|Htra1|Htra1
+efg_agilent_wholegenome_4x44k_v1|A_23_P252306|A_23_P252306	entrezgene|15901|15901	entrezgene|3397|3397	hgnc_symbol|ID1|ID1	hgnc_symbol|Id1|Id1
+efg_agilent_wholegenome_4x44k_v1|A_23_P372255|A_23_P372255	entrezgene|320404|320404	entrezgene|3707|3707	hgnc_symbol|ITPKB|ITPKB	hgnc_symbol|Itpkb|Itpkb
+efg_agilent_wholegenome_4x44k_v1|A_24_P279704|A_24_P279704	entrezgene|17136|17136	entrezgene|4099|4099	hgnc_symbol|MAG|MAG	hgnc_symbol|Mag|Mag
+efg_agilent_wholegenome_4x44k_v1|A_23_P7636|A_23_P7636	entrezgene|30939|30939	entrezgene|9232|9232	hgnc_symbol|PTTG1|PTTG1	hgnc_symbol|Pttg1|Pttg1
+efg_agilent_wholegenome_4x44k_v1|A_23_P147025|A_23_P147025	entrezgene|19337|19337	entrezgene|9363|9363	hgnc_symbol|RAB33A|RAB33A	hgnc_symbol|Rab33a|Rab33a
+efg_agilent_wholegenome_4x44k_v1|A_23_P50919|A_23_P50919	entrezgene|20720|20720	entrezgene|5270|5270	hgnc_symbol|SERPINE2|SERPINE2	hgnc_symbol|Serpine2|Serpine2
+efg_agilent_wholegenome_4x44k_v1|A_23_P19673|A_23_P19673	entrezgene|20393|20393	entrezgene|6446|6446	hgnc_symbol|SGK1|SGK1	hgnc_symbol|Sgk1|Sgk1
+efg_agilent_wholegenome_4x44k_v1|A_23_P70398|A_23_P70398	entrezgene|22339|22339	entrezgene|7422|7422	hgnc_symbol|VEGFA|VEGFA	hgnc_symbol|Vegfa|Vegfa
+efg_agilent_wholegenome_4x44k_v1|A_23_P81805|A_23_P81805	entrezgene|22339|22339	entrezgene|7422|7422	hgnc_symbol|VEGFA|VEGFA	hgnc_symbol|Vegfa|Vegfa
+efg_agilent_wholegenome_4x44k_v1|A_24_P12401|A_24_P12401	entrezgene|22339|22339	entrezgene|7422|7422	hgnc_symbol|VEGFA|VEGFA	hgnc_symbol|Vegfa|Vegfa
+efg_agilent_wholegenome_4x44k_v1|A_24_P179400|A_24_P179400	entrezgene|22339|22339	entrezgene|7422|7422	hgnc_symbol|VEGFA|VEGFA	hgnc_symbol|Vegfa|Vegfa

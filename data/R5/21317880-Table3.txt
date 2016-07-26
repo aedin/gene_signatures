@@ -1,0 +1,14 @@
+Genes	Description	Fold change	P-value	Expression
+PTEN	Phosphatase and tensin homolog	3.7	0	a
+CASP3	Caspase 3, apoptosis-related cysteine peptidase	3.3	0.001	a
+BAD	BCL2-associated agonist of cell death	2.7	0.003	a
+PAK1	p21 protein (Cdc42/Rac)-activated kinase 1	2.7	0.003	a
+XIAP	X-linked inhibitor of apoptosis	2.4	0.005	a
+GSK3B	Glycogen synthase kinase 3 beta	2.4	0.006	a
+NFKB1	Nuclear factor kappa-B DNA binding subunit	2.3	0.008	a
+CDH1	E-cadherin	1.8	0.028	b
+CASP3	Caspase 3, apoptosis-related cysteine peptidase	3	0	c
+XIAP	X-linked inhibitor of apoptosis	2	0.022	c
+NFKB1	Nuclear factor kappa-B DNA binding subunit	2	0.022	c
+FAS	TNF receptor superfamily, member 6	2	0.022	c
+GSK3B	Glycogen synthase kinase 3 beta	1.8	0.043	c

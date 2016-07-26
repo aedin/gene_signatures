@@ -1,0 +1,49 @@
+GeneBank ID	Molecule	Description	Log ratio: MTX 48	Log ratio: R96	p-value: MTX 48	p-value: R96	Function
+NM_003810	TNFSF10 (APO2L)	tumor necrosis factor (ligand) superfamily, member 10		0,876		0,016	TNF superfamily members
+NM_005118	TNFSF15 (TL1)	tumor necrosis factor (ligand) superfamily, member 15		1195		0,022	TNF superfamily members
+NM_000576	IL1B	interleukin 1, beta		0,557		0,028	IL-1 molecule
+NM_001657	AREG	amphiregulin (schwannoma-derived growth factor), EGFR ligand		1422		0,014	Growth factors
+NM_006128	BMP1	bone morphogenetic protein 1, transcript variant BMP1		0,731		0,009	Growth factors
+NM_001200	BMP2	bone morphogenetic protein 2		1048		0,017	Growth factors
+NM_001432	EREG	epiregulin, EGFR ligand		0,723		0,001	Growth factors
+NM_013962	NRG1	neuregulin 1, transcript variant GGF2, ERBB3 ligand	1021	0,736	0	0,006	Growth factors
+NM_002607	PDGFA	platelet-derived growth factor alpha polypeptide, transcript variant 1 (RTK)	2216	2625	0,001	0	Growth factors
+NM_003236	TGFA	transforming growth factor, alpha, EGFR ligand	1294	1425	0,003	0,003	Growth factors
+NM_000043	FAS	Fas (TNF receptor superfamily, member 6)	2017	1798	0	0,002	TNF receptor / Fas molecules
+NM_002342	LTBR	lymphotoxin beta receptor (TNFR superfamily, member 3)		0,566		0,006	TNF receptor / Fas molecules
+NM_003844	TNFRSF10A (DR4)	tumor necrosis factor receptor superfamily, member 10a		0,743		0,003	TNF receptor / Fas molecules
+NM_003842	TNFRSF10B (DR5)	tumor necrosis factor receptor superfamily, member 10b, transcript variant 1	0,755	1079	0,001	0,002	TNF receptor / Fas molecules
+NM_016639	TNFRSF12A (TWEAK-R)	tumor necrosis factor receptor superfamily, member 12A	1475	1386	0,001	0	TNF receptor / Fas molecules
+NM_148965	TNFRSF25 (DR3)	tumor necrosis factor receptor superfamily, member 25	0,526	0,657	0,003	0,002	TNF receptor / Fas molecules
+NM_014452	TNFRSF21 (DR6)	tumor necrosis factor receptor superfamily, member 21	0,939	2451	0,006	0	TNF receptor / Fas molecules
+NM_003263	TLR1	toll-like receptor 1		1066		0,035	Toll-like receptors
+NM_003264	TLR2	toll-like receptor 2		0,626		0,01	Toll-like receptors
+NM_003265	TLR3	toll-like receptor 3		0,932		0,005	Toll-like receptors
+NM_000418	IL4R	interleukin 4 receptor, transcript variant 1	0,895	1079	0	0	Interleukin receptors
+NM_001560	IL13RA1	interleukin 13 receptor, alpha 1	0,551	0,784	0,02	0,02	Interleukin receptors
+NM_021258	IL22RA1	interleukin 22 receptor, alpha 1	1024	0,646	0	0,001	Interleukin receptors
+NM_001569	IRAK1 (not shown in the Figure)	interleukin-1 receptor-associated kinase 1, transcript variant 1		0,727		0,003	IL1R, TLR and TNFR signaling adaptor molecules
+NM_002468	MYD88 (not shown in the Figure)	myeloid differentiation primary response gene (88)	1152	1827	0	0,001	IL1R, TLR and TNFR signaling adaptor molecules
+NM_015093	TAB2 (MAP3K7IP2)	mitogen-activated protein kinase kinase kinase 7 interacting protein 2		0,516		0,002	IL1R, TLR and TNFR signaling adaptor molecules
+NM_182919	TICAM1 (TRIF) (not shown in the Figure)	toll-like receptor adaptor molecule 1, transcript variant 2	1596	2048	0	0	IL1R, TLR and TNFR signaling adaptor molecules
+NM_002204	ITGA3	integrin, alpha 3 (antigen CD49C, alpha 3 subunit of VLA-3 receptor), transcript variant a	1357	1129	0	0,009	Integrins
+NM_002211	ITGB1	integrin, beta 1 (fibronectin receptor, beta polypeptide, antigen CD29 includes MDF2, MSK12), transcript variant 1A	0,741	1241	0	0,011	Integrins
+NM_000211	ITGB2	integrin, beta 2 (complement component 3 receptor 3 and 4 subunit)		0,686		0,003	Integrins
+NM_000213	ITGB4	integrin, beta 4, transcript variant 1	0,87	0,776	0	0,002	Integrins
+NM_002214	ITGB8	integrin, beta 8	0,647	2376	0,001	0	Integrins
+NM_005163	AKT1	v-akt murine thymoma viral oncogene homolog 1, transcript variant 1		0,647		0,042	Molecules involved in PI3K/AKT-induced NF-?B signaling
+NM_005204	MAP3K8 (Cot)	mitogen-activated protein kinase kinase kinase 8		0,73		0,014	Molecules involved in PI3K/AKT-induced NF-?B signaling
+NM_003954	MAP3K14 (NIK)	mitogen-activated protein kinase kinase kinase 14	0,562	0,919	0,006	0,011	NF-?B-inducing kinase (NIK) molecules
+NM_145686	MAP4K4 (NIK)	mitogen-activated protein kinase kinase kinase kinase 4, transcript variant 2	0,786	0,451	0	0,011	NF-?B-inducing kinase (NIK) molecules
+NM_003639	IKBKG (IKK?)	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase gamma		0,915		0,003	Molecule of NF-?B activator
+NM_002502	NFKB2	nuclear factor of kappa light polypeptide gene enhancer in B-cells 2 (p49/p100)		0,568		0,001	NF-?B transcriptional complex molecules
+NM_006509	RELB	v-rel reticuloendotheliosis viral oncogene homolog B, nuclear factor of kappa light polypeptide gene enhancer in B-cells 3 (avian)	0,902	1465	0	0	NF-?B transcriptional complex molecules
+NM_138578	BCL2L1 (Bcl-xL)	BCL2-like 1 nuclear gene encoding mitochondrial protein, transcript variant 1	1025	0,948	0,005	0,001	NF-?B effector molecules
+NM_001165	BIRC3 (cIAP)	baculoviral IAP repeat-containing 3, transcript variant 1	1816	4119	0,003	0	NF-?B effector molecules
+NM_002985	CCL5 (RANTES)	chemokine (C-C motif) ligand 5	1056	1431	0,002	0,036	NF-?B effector molecules
+NM_053056	CCND1	cyclin D1		1078		0,002	NF-?B effector molecules
+NM_001511	CXCL1	chemokine (C-X-C motif) ligand 1 (melanoma growth stimulating activity, alpha)		2792		0,001	NF-?B effector molecules
+NM_002090	CXCL3	chemokine (C-X-C motif) ligand 3		1937		0,004	NF-?B effector molecules
+NM_000201	ICAM1	intercellular adhesion molecule 1 (CD54), human rhinovirus receptor	0,69	1044	0,002	0,002	NF-?B effector molecules
+NM_000625	NOS2A	nitric oxide synthase 2A (inducible, hepatocytes), transcript variant 1	0,985	3295	0,002	0	NF-?B effector molecules
+NM_000930	PLAT	plasminogen activator, tissue, transcript variant 1		1188		0,018	NF-?B effector molecules

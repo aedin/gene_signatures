@@ -1,0 +1,47 @@
+# Generate Mapping Tables Script: Version 4 11:03 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:03 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+
+entrezgene|6241|6241	hgnc_symbol|RRM2|RRM2
+entrezgene|891|891	hgnc_symbol|CCNB1|CCNB1
+entrezgene|9833|9833	hgnc_symbol|MELK|MELK
+entrezgene|6790|6790	hgnc_symbol|AURKA|AURKA
+entrezgene|9787|9787	hgnc_symbol|DLGAP5|DLGAP5
+entrezgene|2643|2643	hgnc_symbol|GCH1|GCH1
+entrezgene|4072|4072	hgnc_symbol|EPCAM|EPCAM
+entrezgene|22943|22943	hgnc_symbol|DKK1|DKK1
+entrezgene|1033|1033	hgnc_symbol|CDKN3|CDKN3
+entrezgene|7153|7153	hgnc_symbol|TOP2A|TOP2A
+entrezgene|3887|3887	hgnc_symbol|KRT81|KRT81
+entrezgene|81831|81831	hgnc_symbol|NETO2|NETO2
+entrezgene|10403|10403	hgnc_symbol|NDC80|NDC80
+entrezgene|55165|55165	hgnc_symbol|CEP55|CEP55
+entrezgene|11130|11130	hgnc_symbol|ZWINT|ZWINT
+entrezgene|3569|3569	hgnc_symbol|IL6|IL6
+entrezgene|3169|3169	hgnc_symbol|FOXA1|FOXA1
+entrezgene|991|991	hgnc_symbol|CDC20|CDC20
+entrezgene|701|701	hgnc_symbol|BUB1B|BUB1B
+entrezgene|60481|60481	hgnc_symbol|ELOVL5|ELOVL5
+entrezgene|9493|9493	hgnc_symbol|KIF23|KIF23
+entrezgene|55329|55329	hgnc_symbol|MNS1|MNS1
+entrezgene|51053|51053	hgnc_symbol|GMNN|GMNN
+entrezgene|10635|10635	hgnc_symbol|RAD51AP1|RAD51AP1
+entrezgene|7298|7298	hgnc_symbol|TYMS|TYMS
+entrezgene|3832|3832	hgnc_symbol|KIF11|KIF11
+entrezgene|259266|259266	hgnc_symbol|ASPM|ASPM
+entrezgene|306|306	hgnc_symbol|ANXA3|ANXA3
+entrezgene|8910|8910	hgnc_symbol|SGCE|SGCE
+entrezgene|1894|1894	hgnc_symbol|ECT2|ECT2
+entrezgene|56992|56992	hgnc_symbol|KIF15|KIF15
+entrezgene|4599|4599	hgnc_symbol|MX1|MX1
+entrezgene|4603|4603	hgnc_symbol|MYBL1|MYBL1
+entrezgene|10112|10112	hgnc_symbol|KIF20A|KIF20A
+entrezgene|64151|64151	hgnc_symbol|NCAPG|NCAPG
+entrezgene|214|214	hgnc_symbol|ALCAM|ALCAM
+entrezgene|3161|3161	hgnc_symbol|HMMR|HMMR
+entrezgene|9636|9636	hgnc_symbol|ISG15|ISG15
+entrezgene|4837|4837	hgnc_symbol|NNMT|NNMT
+entrezgene|684|684	hgnc_symbol|BST2|BST2

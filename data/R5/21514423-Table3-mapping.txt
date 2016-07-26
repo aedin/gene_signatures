@@ -1,0 +1,46 @@
+# Generate Mapping Tables Script: Version 4 11:05 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:05 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+entrezgene|6154|6154	hgnc_symbol|RPL26|RPL26
+entrezgene|1933|1933	hgnc_symbol|EEF1B2|EEF1B2
+entrezgene|442454|442454	hgnc_symbol|RP11|RP11
+entrezgene|29121|29121	hgnc_symbol|CLEC2D|CLEC2D
+entrezgene|127295|127295	hgnc_symbol|LOC127295|LOC127295
+entrezgene|81892|81892	hgnc_symbol|C14orf156|C14orf156
+entrezgene|6742|6742	hgnc_symbol|SSBP1|SSBP1
+entrezgene|391370|391370	hgnc_symbol|LOC391370|LOC391370
+entrezgene|55450|55450	hgnc_symbol|CAMK2N1|CAMK2N1
+entrezgene|1349|1349	hgnc_symbol|COX7B|COX7B
+entrezgene|25873|25873	hgnc_symbol|RPL36|RPL36
+entrezgene|4709|4709	hgnc_symbol|NDUFB3|NDUFB3
+entrezgene|54985|54985	hgnc_symbol|HCFC1R1|HCFC1R1
+entrezgene|9377|9377	hgnc_symbol|COX5A|COX5A
+entrezgene|1350|1350	hgnc_symbol|COX7C|COX7C
+entrezgene|4709|4709	hgnc_symbol|NDUFB3|NDUFB3
+entrezgene|140606|140606	hgnc_symbol|SELM|SELM
+entrezgene|53827|53827	hgnc_symbol|FXYD5|FXYD5
+entrezgene|5204|5204	hgnc_symbol|PFDN5|PFDN5
+entrezgene|114915|114915	hgnc_symbol|C5orf26|C5orf26
+entrezgene|6218|6218	hgnc_symbol|RPS17|RPS17
+entrezgene|23643|23643	hgnc_symbol|LY96|LY96
+entrezgene|441377|441377	hgnc_symbol|LOC441377|LOC441377
+entrezgene|27258|27258	hgnc_symbol|LSM3|LSM3
+entrezgene|7381|7381	hgnc_symbol|UQCRB|UQCRB
+entrezgene|10476|10476	hgnc_symbol|ATP5H|ATP5H
+entrezgene|4489|4489	hgnc_symbol| MT1A|MT1A
+entrezgene|3094|3094	hgnc_symbol|HINT1|HINT1
+entrezgene|9446|9446	hgnc_symbol|GSTO1|GSTO1
+entrezgene|27335|27335	hgnc_symbol|EIF3K|EIF3K
+entrezgene|10476|10476	hgnc_symbol|ATP5H|ATP5H
+entrezgene|441502|441502	hgnc_symbol|RPS26L1|RPS26L1
+entrezgene|10589|10589	hgnc_symbol|DRAP1|DRAP1
+entrezgene|140823|140823	hgnc_symbol|C20orf52|C20orf52
+entrezgene|80867|80867	hgnc_symbol|HCG2P7|HCG2P7
+entrezgene|55847|55847	hgnc_symbol|CISD1|CISD1
+entrezgene|4696|4696	hgnc_symbol|NDUFA3|NDUFA3
+entrezgene|8409|8409	hgnc_symbol|UXT|UXT
+entrezgene|440737|440737	hgnc_symbol|LOC440737|LOC440737
+entrezgene|4724|4724	hgnc_symbol|NDUFS4|NDUFS4

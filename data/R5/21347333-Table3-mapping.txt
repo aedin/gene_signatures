@@ -1,0 +1,44 @@
+# Generate Mapping Tables Script: Version 4 11:04 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:04 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+hgnc_symbol|CCR5|CCR5
+hgnc_symbol|TC2N|TC2N
+hgnc_symbol|UBASH3A|UBASH3A
+hgnc_symbol|AKT3|AKT3
+hgnc_symbol|PRF1|PRF1
+hgnc_symbol|PKIA|PKIA
+hgnc_symbol|PLEKHA1|PLEKHA1
+hgnc_symbol|AQP3|AQP3
+hgnc_symbol|CD1C|CD1C
+hgnc_symbol|LRRC8C|LRRC8C
+hgnc_symbol|GZMA|GZMA
+hgnc_symbol|SH2D1A|SH2D1A
+hgnc_symbol|PTPN4|PTPN4
+hgnc_symbol|CD5|CD5
+hgnc_symbol|PTPRCAP|PTPRCAP
+hgnc_symbol|FOSB|FOSB
+hgnc_symbol|LCK|LCK
+hgnc_symbol|LY9|LY9
+hgnc_symbol|CD3G|CD3G
+hgnc_symbol|LEF1|LEF1
+hgnc_symbol|CA5B|CA5B
+hgnc_symbol|CD3D|CD3D
+hgnc_symbol|TRAT1|TRAT1
+hgnc_symbol|LAT|LAT
+hgnc_symbol|TESPA1|TESPA1
+hgnc_symbol|CD3G|CD3G
+hgnc_symbol|GPR115|GPR115
+hgnc_symbol|TIGIT|TIGIT
+hgnc_symbol|TRAV20|TRAV20
+hgnc_symbol|CD160|CD160
+hgnc_symbol|DYRK2|DYRK2
+hgnc_symbol|GPR183|GPR183
+hgnc_symbol|MS4A1|MS4A1
+hgnc_symbol|CCR3|CCR3
+hgnc_symbol|S1PR1|S1PR1
+hgnc_symbol|FCER1A|FCER1A
+hgnc_symbol|GPR183|GPR183
+hgnc_symbol|GRAMD1C|GRAMD1C

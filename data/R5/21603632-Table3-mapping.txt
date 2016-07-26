@@ -1,0 +1,37 @@
+# Generate Mapping Tables Script: Version 4 11:03 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:03 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+hgnc_symbol|GADD45B|GADD45B
+hgnc_symbol|HES1|HES1
+hgnc_symbol|BCL3|BCL3
+hgnc_symbol|STAT3|STAT3
+hgnc_symbol|SOCS3|SOCS3
+hgnc_symbol|DDX11|DDX11
+hgnc_symbol|TRIM22|TRIM22
+hgnc_symbol|ASC|ASC
+hgnc_symbol|UBE2L6|UBE2L6
+hgnc_symbol|STAT1|STAT1
+hgnc_symbol|ISG20|ISG20
+hgnc_symbol|TRAIL|TRAIL
+hgnc_symbol|OAS2|OAS2
+hgnc_symbol|IFIT2|IFIT2
+hgnc_symbol|BST2(Tetherin)|BST2(Tetherin)
+hgnc_symbol|IFI35|IFI35
+hgnc_symbol|HERC5|HERC5
+hgnc_symbol|MX1|MX1
+hgnc_symbol|HLA-C|HLA-C
+hgnc_symbol|CCL5(RANTES)|CCL5(RANTES)
+hgnc_symbol|HLA-B|HLA-B
+hgnc_symbol|OAS1|OAS1
+hgnc_symbol|HLA-A|HLA-A
+hgnc_symbol|B2m|B2m
+hgnc_symbol|IFIT1|IFIT1
+hgnc_symbol|OASL|OASL
+hgnc_symbol|IFIT3|IFIT3
+hgnc_symbol|CXCL10(IP10)|CXCL10(IP10)
+hgnc_symbol|IFI44|IFI44
+hgnc_symbol|ISG15|ISG15
+hgnc_symbol|IFI27|IFI27

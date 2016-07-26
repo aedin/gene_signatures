@@ -1,0 +1,43 @@
+# Generate Mapping Tables Script: Version 4 11:08 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:08 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+affy_mouse430_2|1449470_at|1449470_at	mgi_symbol|Dlx1|Dlx1
+affy_mouse430_2|1424010_at|1424010_at	mgi_symbol|Mfap4|Mfap4
+affy_mouse430_2|1450960_at|1450960_at	mgi_symbol|Igfbpl1|Igfbpl1
+affy_mouse430_2|1431225_at|1431225_at	mgi_symbol|BC048721|BC048721
+affy_mouse430_2|1424596_s_at|1424596_s_at	mgi_symbol|Lmcd1|Lmcd1
+affy_mouse430_2|1450680_at|1450680_at	mgi_symbol|Rag1|Rag1
+affy_mouse430_2|1429945_at|1429945_at	mgi_symbol|Klhl35|Klhl35
+affy_mouse430_2|1419202_at|1419202_at	mgi_symbol|Cst7|Cst7
+affy_mouse430_2|1434411_at|1434411_at	mgi_symbol|Col12a1|Col12a1
+affy_mouse430_2|1426604_at|1426604_at	mgi_symbol|Rnasel|Rnasel
+affy_mouse430_2|1416846_a_at|1416846_a_at	mgi_symbol|Pdzrn3|Pdzrn3
+affy_mouse430_2|1439426_x_at|1439426_x_at	mgi_symbol|Lyz1|Lyz1
+affy_mouse430_2|1453125_at|1453125_at	mgi_symbol|Sox11|Sox11
+affy_mouse430_2|1438245_at|1438245_at	mgi_symbol|AK034813|AK034813
+affy_mouse430_2|1418139_at|1418139_at	mgi_symbol|Dcx|Dcx
+affy_mouse430_2|1448877_at|1448877_at	mgi_symbol|Dlx2|Dlx2
+affy_mouse430_2|1449434_at|1449434_at	mgi_symbol|Car3|Car3
+affy_mouse430_2|1449254_at|1449254_at	mgi_symbol|Spp1|Spp1
+affy_mouse430_2|1428184_at|1428184_at	mgi_symbol|3110035E14Rik|3110035E14Rik
+affy_mouse430_2|1460009_at|1460009_at	mgi_symbol|Ier5|Ier5
+affy_mouse430_2|1436364_x_at|1436364_x_at	mgi_symbol|Nfix|Nfix
+affy_mouse430_2|1442214_at|1442214_at	mgi_symbol|AK141047|AK141047
+affy_mouse430_2|1437156_at|1437156_at	mgi_symbol|Necab1|Necab1
+affy_mouse430_2|1456261_at|1456261_at	mgi_symbol|Sh3kbp1|Sh3kbp1
+affy_mouse430_2|1448891_at|1448891_at	mgi_symbol|Fcrls|Fcrls
+affy_mouse430_2|1434777_at|1434777_at	mgi_symbol|Mycl1|Mycl1
+affy_mouse430_2|1435165_at|1435165_at	mgi_symbol|Cntn2|Cntn2
+affy_mouse430_2|1416034_at|1416034_at	mgi_symbol|Cd24a|Cd24a
+affy_mouse430_2|1449130_at|1449130_at	mgi_symbol|Cd1d1|Cd1d1
+affy_mouse430_2|1447020_at|1447020_at	mgi_symbol|AK042819|AK042819
+affy_mouse430_2|1438072_at|1438072_at	mgi_symbol|AK042460|AK042460
+affy_mouse430_2|1453326_at|1453326_at	mgi_symbol|3300001A09Rik|3300001A09Rik
+affy_mouse430_2|1457261_at|1457261_at	mgi_symbol|A930025H08Rik|A930025H08Rik
+affy_mouse430_2|1439808_at|1439808_at	mgi_symbol|A130090K04Rik|A130090K04Rik
+affy_mouse430_2|1448288_at|1448288_at	mgi_symbol|Nfib|Nfib
+affy_mouse430_2|1448194_a_at|1448194_a_at	mgi_symbol|H19|H19
+affy_mouse430_2|1457227_at|1457227_at	mgi_symbol|AI843755|AI843755

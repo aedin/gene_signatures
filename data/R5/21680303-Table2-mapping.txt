@@ -1,0 +1,33 @@
+# Generate Mapping Tables Script: Version 4 11:05 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:05 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+affy_hg_u133_plus_2|232122_s_at|232122_s_at	unigene|Hs.658046|Hs.658046	hgnc_symbol|VEPH1|VEPH1
+affy_hg_u133_plus_2|211494_s_at|211494_s_at	unigene|Hs.5462|Hs.5462	hgnc_symbol|SLC4A4|SLC4A4
+affy_hg_u133_plus_2|210619_s_at|210619_s_at	unigene|Hs.75619|Hs.75619	hgnc_symbol|HYAL1|HYAL1
+affy_hg_u133_plus_2|215164_at|215164_at	unigene|Hs.669938|Hs.669938
+affy_hg_u133_plus_2|1558549_s_at|1558549_s_at	unigene|Hs.12114|Hs.12114	hgnc_symbol|VNN1|VNN1
+affy_hg_u133_plus_2|235777_at|235777_at	unigene|Hs.712566|Hs.712566	hgnc_symbol|ANKRD44|ANKRD44
+affy_hg_u133_plus_2|1552797_s_at|1552797_s_at	unigene|Hs.469313|Hs.469313	hgnc_symbol|PROM2|PROM2
+affy_hg_u133_plus_2|226281_at|226281_at	unigene|Hs.234074|Hs.234074	hgnc_symbol|DNER|DNER
+affy_hg_u133_plus_2|1554027_a_at|1554027_a_at	unigene|Hs.5462|Hs.5462	hgnc_symbol|SLC4A4|SLC4A4
+affy_hg_u133_plus_2|1559975_at|1559975_at	unigene|Hs.651357|Hs.651357	hgnc_symbol|BTG1|BTG1
+affy_hg_u133_plus_2|243761_at|243761_at	unigene|Hs.710469|Hs.710469	hgnc_symbol|PFTK1|PFTK1
+affy_hg_u133_plus_2|226211_at|226211_at	unigene|Hs.525589|Hs.525589	hgnc_symbol|MEG3|MEG3
+affy_hg_u133_plus_2|205715_at|205715_at	unigene|Hs.399980|Hs.399980	hgnc_symbol|BST1|BST1
+affy_hg_u133_plus_2|1552912_a_at|1552912_a_at	unigene|Hs.677426|Hs.677426	hgnc_symbol|IL23R|IL23R
+affy_hg_u133_plus_2|242033_at|242033_at	unigene|Hs.657843|Hs.657843	hgnc_symbol|RNF180|RNF180
+affy_hg_u133_plus_2|232330_at|232330_at	unigene|Hs.654779|Hs.654779	hgnc_symbol|C7orf44|C7orf44
+affy_hg_u133_plus_2|206525_at|206525_at	unigene|Hs.437745|Hs.437745	hgnc_symbol|GABRR1|GABRR1
+affy_hg_u133_plus_2|1566551_at|1566551_at	unigene|Hs.675485|Hs.675485
+affy_hg_u133_plus_2|208126_s_at|208126_s_at	unigene|Hs.511872|Hs.511872	hgnc_symbol|CYP2C18|CYP2C18
+affy_hg_u133_plus_2|204942_s_at|204942_s_at	unigene|Hs.87539|Hs.87539	hgnc_symbol|ALDH3B2|ALDH3B2
+affy_hg_u133_plus_2|235831_at|235831_at	unigene|Hs.311444|Hs.311444
+affy_hg_u133_plus_2|214308_s_at|214308_s_at	unigene|Hs.616526|Hs.616526	hgnc_symbol|HGD|HGD
+affy_hg_u133_plus_2|222934_s_at|222934_s_at	unigene|Hs.236516|Hs.236516	hgnc_symbol|CLEC4E|CLEC4E
+affy_hg_u133_plus_2|244441_at|244441_at	unigene|Hs.667217|Hs.667217
+affy_hg_u133_plus_2|235209_at|235209_at	unigene|Hs.439040|Hs.439040	hgnc_symbol|RPESP|RPESP
+affy_hg_u133_plus_2|235104_at|235104_at	unigene|Hs.591249|Hs.591249	hgnc_symbol|ERAP2|ERAP2
+affy_hg_u133_plus_2|219759_at|219759_at	unigene|Hs.591249|Hs.591249	hgnc_symbol|ERAP2|ERAP2

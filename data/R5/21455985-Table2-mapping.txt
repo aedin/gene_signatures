@@ -1,0 +1,63 @@
+# Generate Mapping Tables Script: Version 4 11:05 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:05 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+hgnc_symbol|HLA-A|HLA-A
+hgnc_symbol|HLA-B|HLA-B
+hgnc_symbol|HLA-C|HLA-C
+hgnc_symbol|HLA-E|HLA-E
+hgnc_symbol|HLA-F|HLA-F
+hgnc_symbol|HLA-G|HLA-G
+hgnc_symbol|HLA-DMA|HLA-DMA
+hgnc_symbol|HLA-DMB|HLA-DMB
+hgnc_symbol|HLA-DOA|HLA-DOA
+hgnc_symbol|HLA-DOB|HLA-DOB
+hgnc_symbol|HLA-DPA1|HLA-DPA1
+hgnc_symbol|HLA-DPB1|HLA-DPB1
+hgnc_symbol|HLA-DQB1|HLA-DQB1
+hgnc_symbol|HLA-DQB2|HLA-DQB2
+hgnc_symbol|HLA-DRA|HLA-DRA
+hgnc_symbol|HLA-DRB1|HLA-DRB1
+hgnc_symbol|HLA-DRB3|HLA-DRB3
+hgnc_symbol|HLA-DRB4|HLA-DRB4
+hgnc_symbol|IL1A|IL1A
+hgnc_symbol|IL1B|IL1B
+hgnc_symbol|IL6|IL6
+hgnc_symbol|IL8|IL8
+hgnc_symbol|IL10|IL10
+hgnc_symbol|IL16|IL16
+hgnc_symbol|IL18|IL18
+hgnc_symbol|IL1R1|IL1R1
+hgnc_symbol|IL1R2|IL1R2
+hgnc_symbol|IL2RA|IL2RA
+hgnc_symbol|IL2RG|IL2RG
+hgnc_symbol|IL3R|IL3R
+hgnc_symbol|IL4R|IL4R
+hgnc_symbol|IL6R|IL6R
+hgnc_symbol|IL7R|IL7R
+hgnc_symbol|IL10RA|IL10RA
+hgnc_symbol|IL10RB|IL10RB
+hgnc_symbol|IL11R|IL11R
+hgnc_symbol|IL13RA1|IL13RA1
+hgnc_symbol|IL17RA|IL17RA
+hgnc_symbol|IL17RD|IL17RD
+hgnc_symbol|IL21R|IL21R
+hgnc_symbol|IL27R|IL27R
+hgnc_symbol|IL28RA|IL28RA
+hgnc_symbol|TLR1|TLR1
+hgnc_symbol|TLR2|TLR2
+hgnc_symbol|TLR4|TLR4
+hgnc_symbol|TLR5|TLR5
+hgnc_symbol|TLR6|TLR6
+hgnc_symbol|TLR7|TLR7
+hgnc_symbol|TLR8|TLR8
+hgnc_symbol|CCR7|CCR7
+hgnc_symbol|CCL22|CCL22
+hgnc_symbol|CD40|CD40
+hgnc_symbol|CD80|CD80
+hgnc_symbol|CD83|CD83
+hgnc_symbol|CD86|CD86
+hgnc_symbol|SOCS2|SOCS2
+hgnc_symbol|NFKB1|NFKB1

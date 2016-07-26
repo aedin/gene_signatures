@@ -1,0 +1,27 @@
+GeneBank ID	Molecule	Description	Log ratio: MTX 48	Log ratio: R96	p-value: MTX 48	p-value: R96	Function
+NM_001017535	VDR	vitamin D (1,25- dihydroxyvitamin D3) receptor (VDR), transcript variant 2	0,883	1226	0,001	0	VDR receptor
+NM_078467	CDKN1A	cyclin-dependent kinase inhibitor 1A (p21, Cip1), transcript variant 2	2079	2,62	0,001	0	VDR/RXR effector molecules
+NM_001323	CST6	cystatin E/M	1963	2687	0,001	0,001	VDR/RXR effector molecules
+NM_001924	GADD45A	growth arrest and DNA-damage-inducible, alpha	2176	1234	0	0	VDR/RXR effector molecules
+NM_001013398	IGFBP3	insulin-like growth factor binding protein 3, transcript variant 1	0,73	3151	0,013	0	VDR/RXR effector molecules
+NM_002178	IGFBP6	insulin-like growth factor binding protein 6	1344	1359	0,005	0,025	VDR/RXR effector molecules
+NM_002357	MXD1	MAX dimerization protein 1	1614	1257	0,001	0,004	VDR/RXR effector molecules
+NM_002607	PDGFA	platelet-derived growth factor alpha polypeptide, transcript variant 1	2216	2625	0,001	0	VDR/RXR effector molecules
+NM_006238	PPARD	peroxisome proliferative activated receptor, delta	0,755	0,895	0	0	VDR/RXR effector molecules
+NM_004636	SEMA3B	sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3B, transcript variant 1	2035	1915	0	0	VDR/RXR effector molecules
+NM_030666	SERPINB1	serpin peptidase inhibitor, clade B (ovalbumin), member 1	1415	1013	0	0,009	VDR/RXR effector molecules
+NM_018646	TRPV6	transient receptor potential cation channel, subfamily V, member 6		2786		0,001	VDR/RXR effector molecules
+NM_001001396	ATP2B4	ATPase, Ca++ transporting, plasma membrane 4, transcript variant 1	0,625		0,024		Calcium transmembrane transporter and channels
+NM_000719	CACNA1C	calcium channel, voltage-dependent, L type, alpha 1C subunit		0,743		0,001	Calcium transmembrane transporter and channels
+NM_000835	GRIN2C (NMDAR2C)	glutamate receptor, ionotropic, N-methyl D-aspartate 2C	1929	1442	0	0,002	Calcium transmembrane transporter and channels
+NM_018646	TRPV6	transient receptor potential cation channel, subfamily V, member 6		2786		0,001	Calcium transmembrane transporter and channels
+NM_001681	ATP2A2	ATPase, Ca++ transporting, cardiac muscle, slow twitch 2, transcript variant 2		0,929		0	Sarcoplasmic and endoplasmic reticulum calcium transporters
+NM_002222	ITPR1	inositol 1,4,5-triphosphate receptor, type 1	0,718		0,025		Sarcoplasmic and endoplasmic reticulum calcium transporters
+NM_002224	ITPR3	inositol 1,4,5-triphosphate receptor, type 3	0,54		0,018		Sarcoplasmic and endoplasmic reticulum calcium transporters
+NM_001743	CALM2	calmodulin 2 (phosphorylase kinase, delta)	0,521	0,95	0,002	0,001	Calmodulin molecules
+NM_005184	CALM3	calmodulin 3 (phosphorylase kinase, delta)		0,651		0	Calmodulin molecules
+NM_005605	PPP3CC	protein phosphatase 3 (formerly 2B), catalytic subunit, gamma isoform (calcineurin A gamma)		0,626		0,004	Calcineurin molecule
+NM_172127	CAMK2D	calcium/calmodulin-dependent protein kinase (CaM kinase) II delta, transcript variant 1	0,744		0,001		Calcium/calmodulin-dependent protein kinases (CaMK II)
+NM_172171	CAMK2G	calcium/calmodulin-dependent protein kinase (CaM kinase) II gamma, transcript variant 1	0,734	1452	0,002	0	Calcium/calmodulin-dependent protein kinases (CaMK II)
+NM_016203	PRKAG2	protein kinase, AMP-activated, gamma 2 non-catalytic subunit, transcript variant a		0,566		0,004	cAMP-dependent protein kinases
+NM_002735	PRKAR1B	protein kinase, cAMP-dependent, regulatory, type I, beta		0,616		0,024	cAMP-dependent protein kinases

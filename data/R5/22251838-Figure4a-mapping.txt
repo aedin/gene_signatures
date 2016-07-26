@@ -1,0 +1,37 @@
+# Generate Mapping Tables Script: Version 4 11:07 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:07 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+refseq_dna|NM_007540|NM_007540	mgi_symbol|Bdnf|Bdnf
+refseq_dna|NM_008558|NM_008558	mgi_symbol|Max|Max
+refseq_dna|NM_153459|NM_153459	mgi_symbol|Dusp7|Dusp7
+refseq_dna|NM_016915|NM_016915	mgi_symbol|Pla2g6|Pla2g6
+entrezgene|U07617|14784	mgi_symbol|Grb2|Grb2
+refseq_dna|NM_011841|NM_011841	mgi_symbol|Mapk7|Mapk7
+refseq_dna|NM_009652|NM_009652	mgi_symbol|Akt1|Akt1
+refseq_dna|NM_028207|NM_028207	mgi_symbol|Dusp3|Dusp3
+embl|AK012530|AK012530	mgi_symbol|Dusp4|Dusp4
+refseq_dna|NM_010591|NM_010591	mgi_symbol|Jun|Jun
+refseq_dna|NM_022019|NM_022019	mgi_symbol|Dusp10|Dusp10
+refseq_dna|NM_178907|NM_178907	mgi_symbol|Mapkapk3|Mapkapk3
+refseq_dna|NM_008702|NM_008702	mgi_symbol|Nlk|Nlk
+refseq_dna|NM_011951|NM_011951	mgi_symbol|Mapk14|Mapk14
+refseq_dna|NM_011151|NM_011151	mgi_symbol|Ppm1b|Ppm1b
+refseq_dna|NM_023138|NM_023138	mgi_symbol|Map2k2|Map2k2
+refseq_dna|NM_016693|NM_016693	mgi_symbol|Map3k6|Map3k6
+refseq_dna|NM_011609|NM_011609	mgi_symbol|Tnfrsf1a|Tnfrsf1a
+refseq_dna|NM_009157|NM_009157	mgi_symbol|Map2k4|Map2k4
+refseq_dna|XM_127051|XM_127051	mgi_symbol|Sos2|Sos2
+refseq_dna|NM_009367|NM_009367	mgi_symbol|Tgfb2|Tgfb2
+refseq_dna|NM_020493|NM_020493	mgi_symbol|Srf|Srf
+refseq_dna|NM_025278|NM_025278	mgi_symbol|Gng12|Gng12
+refseq_dna|NM_011161|NM_011161	mgi_symbol|Mapk11|Mapk11
+refseq_dna|NM_011785|NM_011785	mgi_symbol|Akt3|Akt3
+refseq_dna|XM_985042|XM_985042	mgi_symbol|Rap1b|Rap1b
+refseq_dna|NM_025949|NM_025949	mgi_symbol|Rps6ka6|Rps6ka6
+entrezgene|U49929|12367	mgi_symbol|Casp3|Casp3
+refseq_dna|NM_011817|NM_011817	mgi_symbol|Gadd45g|Gadd45g
+refseq_dna|NM_010234|NM_010234	mgi_symbol|Fos|Fos
+refseq_dna|NM_007836|NM_007836	mgi_symbol|Gadd45a|Gadd45a

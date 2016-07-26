@@ -1,0 +1,38 @@
+# Generate Mapping Tables Script: Version 4 11:03 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:03 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+affy_hg_u133a|208944_at|208944_at	hgnc_symbol|TGFBR2|TGFBR2
+affy_hg_u133a|204072_s_at|204072_s_at	hgnc_symbol|FRY|FRY
+affy_hg_u133a|219874_at|219874_at	hgnc_symbol|SLC12A8|SLC12A8
+affy_hg_u133a|217284_x_at|217284_x_at	hgnc_symbol|SERHL2|SERHL2
+affy_hg_u133a|219515_at|219515_at	hgnc_symbol|PRDM10|PRDM10
+affy_hg_u133a|218625_at|218625_at	hgnc_symbol|NRN1|NRN1
+affy_hg_u133a|209339_at|209339_at	hgnc_symbol|SIAH2|SIAH2
+affy_hg_u133a|204032_at|204032_at	hgnc_symbol|BCAR3|BCAR3
+affy_hg_u133a|202998_s_at|202998_s_at	hgnc_symbol|LOXL2|LOXL2
+affy_hg_u133a|209032_s_at|209032_s_at	hgnc_symbol|CADM1|CADM1
+affy_hg_u133a|209030_s_at|209030_s_at	hgnc_symbol|CADM1|CADM1
+affy_hg_u133a|201830_s_at|201830_s_at	hgnc_symbol|NET1|NET1
+affy_hg_u133a|214519_s_at|214519_s_at	hgnc_symbol|RLN2|RLN2
+affy_hg_u133a|210244_at|210244_at	hgnc_symbol|CAMP|CAMP
+affy_hg_u133a|205174_s_at|205174_s_at	hgnc_symbol|QPCT|QPCT
+affy_hg_u133a|213419_at|213419_at	hgnc_symbol|APBB2|APBB2
+affy_hg_u133a|220105_at|220105_at	hgnc_symbol|RTDR1|RTDR1
+affy_hg_u133a|219646_at|219646_at	hgnc_symbol|DEF8|DEF8
+affy_hg_u133a|203823_at|203823_at	hgnc_symbol|RGS3|RGS3
+affy_hg_u133a|200824_at|200824_at	hgnc_symbol|GSTP1|GSTP1
+affy_hg_u133a|221893_s_at|221893_s_at	hgnc_symbol|ADCK2|ADCK2
+affy_hg_u133a|44120_at|44120_at	hgnc_symbol|ADCK2|ADCK2
+affy_hg_u133a|203881_s_at|203881_s_at	hgnc_symbol|DMD|DMD
+affy_hg_u133a|214156_at|214156_at	hgnc_symbol|MYRIP|MYRIP
+affy_hg_u133a|219580_s_at|219580_s_at	hgnc_symbol|TMC5|TMC5
+affy_hg_u133a|208086_s_at|208086_s_at	hgnc_symbol|DMD|DMD
+affy_hg_u133a|201387_s_at|201387_s_at	hgnc_symbol|UCHL1|UCHL1
+affy_hg_u133a|201820_at|201820_at	hgnc_symbol|KRT5|KRT5
+affy_hg_u133a|214318_s_at|214318_s_at	hgnc_symbol|FRY|FRY
+affy_hg_u133a|206018_at|206018_at	hgnc_symbol|FOXG1|FOXG1
+affy_hg_u133a|214319_at|214319_at	hgnc_symbol|FRY|FRY
+affy_hg_u133a|206373_at|206373_at	hgnc_symbol|ZIC1|ZIC1

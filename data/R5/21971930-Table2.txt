@@ -1,0 +1,23 @@
+microRNA	Mean fold change	p-value	Description	Gene targets (ref.)
+hsa-miR-1	2.44	<0.05	Tumor suppressor	cMET (39), TAGLN2 (40,41)
+hsa-miR-22	2.69	<0.05	Anti-migration, cell cycle arrest	MYCBP, MAX
+hsa-miR-139	1.61	<0.05	Anti-metastatic, tumor suppressor	ROCK2 (29), CDK6, HOXB2
+hsa-miR-143	1.94	<0.05	Tumor suppressor	KRAS (42), BCL2 (43)
+hsa-miR-144	1.97	<0.05	Tumor suppressor	Notch1 (44)
+hsa-miR-153	1.7	<0.05	Tumor suppressor	BCL2 (45)
+hsa-miR-155	1.53	<0.01	OncomiR	FOXO3A (46), SOCS1 (47), FADD and IKKE (48)
+hsa-miR-191	2.51	<0.05	Tumor suppressor	SPEN
+hsa-miR-194	1.7	<0.01	Tumor suppressor, anti-metastatic	CDH2, HBEGF, RAC1 and IGF1R (49)
+hsa-miR-215	2.26	<0.01	Anti-EMT, cell cycle arrest	ZEB1/2 (50)
+hsa-miR-202	1.82	<0.05	Tumor suppressor	TGFBR2, ROCK1
+hsa-miR-335	1.83	<0.05	Tumor suppressor, cell cycle arrest, metastasis suppressor	RB1/p105 (51), SOX4 and TNC (28)
+hsa-miR-486	1.97	<0.05	Tumor suppressor	CD40 (52)
+hsa-miR-526c	2.14	<0.05
+hsa-miR-544	1.74	<0.01
+hsa-miR-559	1.61	<0.05	Tumor suppressor	ERBB2 (53)
+hsa-miR-568	1.59	<0.05
+hsa-miR-620	2.31	<0.05
+hsa-miR-627	1.93	<0.05
+hsa-miR-638	1.55	<0.01
+hsa-miR-641	2.02	<0.05
+hsa-miR-888	1.76	<0.05

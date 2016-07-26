@@ -1,0 +1,51 @@
+# Generate Mapping Tables Script: Version 4 11:06 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:06 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+efg_agilent_wholegenome_4x44k_v1|A_24_P196704|A_24_P196704	refseq_dna|NM_182931|NM_182931	embl|0.8324|0.8324	hgnc_symbol|MLL5|MLL5
+efg_agilent_wholegenome_4x44k_v1|A_32_P841049|A_32_P841049	refseq_dna|NM_178425|NM_178425	embl|0.7368|0.7368	hgnc_symbol|HDAC9|HDAC9
+efg_agilent_wholegenome_4x44k_v1|A_24_P759314|A_24_P759314	entrezgene|BC042976|23081	embl|1.2998|1.2998	hgnc_symbol|KDM4C|KDM4C
+efg_agilent_wholegenome_4x44k_v1|A_24_P102512|A_24_P102512	refseq_dna|NM_012295|NM_012295	embl|0.8095|0.8095	hgnc_symbol|CABIN1|CABIN1
+efg_agilent_wholegenome_4x44k_v1|A_24_P196298|A_24_P196298	refseq_dna|NM_005933|NM_005933	embl|0.7124|0.7124	hgnc_symbol|MLL|MLL
+efg_agilent_wholegenome_4x44k_v1|A_24_P840688|A_24_P840688	refseq_dna|NM_170606|NM_170606	embl|0.7538|0.7538	hgnc_symbol|MLL3|MLL3
+efg_agilent_wholegenome_4x44k_v1|A_24_P367666|A_24_P367666	refseq_dna|NM_018489|NM_018489	embl|0.7078|0.7078	hgnc_symbol|ASH1L|ASH1L
+efg_agilent_wholegenome_4x44k_v1|A_23_P142872|A_23_P142872	refseq_dna|NM_031283|NM_031283	embl|0.805|0.805	hgnc_symbol|TCF7L1|TCF7L1
+efg_agilent_wholegenome_4x44k_v1|A_23_P4014|A_23_P4014	refseq_dna|NM_017575|NM_017575	embl|0.6927|0.6927	hgnc_symbol|SMG6|SMG6
+efg_agilent_wholegenome_4x44k_v1|A_23_P117515|A_23_P117515	refseq_dna|NM_023001|NM_023001	embl|0.8665|0.8665	hgnc_symbol|ARID4A|ARID4A
+efg_agilent_wholegenome_4x44k_v1|A_32_P112104|A_32_P112104	refseq_dna|NM_003074|NM_003074	embl|0.6855|0.6855	hgnc_symbol|SMARCC1|SMARCC1
+efg_agilent_wholegenome_4x44k_v1|A_23_P32707|A_23_P32707	refseq_dna|NM_012291|NM_012291	embl|0.6648|0.6648	hgnc_symbol|ESPL1|ESPL1
+efg_agilent_wholegenome_4x44k_v1|A_24_P171004|A_24_P171004	refseq_dna|NM_012330|NM_012330	embl|0.6521|0.6521	hgnc_symbol|MYST4|MYST4
+efg_agilent_wholegenome_4x44k_v1|A_23_P74446|A_23_P74446	refseq_dna|NM_014663|NM_014663	embl|0.8194|0.8194	hgnc_symbol|KDM4A|KDM4A
+efg_agilent_wholegenome_4x44k_v1|A_23_P343799|A_23_P343799	refseq_dna|NM_033326|NM_033326	embl|0.714|0.714	hgnc_symbol|SOX6|SOX6
+efg_agilent_wholegenome_4x44k_v1|A_23_P12733|A_23_P12733	refseq_dna|NM_018649|NM_018649	embl|0.8673|0.8673	hgnc_symbol|H2AFY2|H2AFY2
+efg_agilent_wholegenome_4x44k_v1|A_23_P395703|A_23_P395703	refseq_dna|NM_016578|NM_016578	embl|0.7991|0.7991	hgnc_symbol|RSF1|RSF1
+efg_agilent_wholegenome_4x44k_v1|A_24_P153800|A_24_P153800	refseq_dna|NM_007192|NM_007192	embl|0.7086|0.7086	hgnc_symbol|SUPT16H|SUPT16H
+efg_agilent_wholegenome_4x44k_v1|A_32_P164649|A_32_P164649	refseq_dna|NM_002967|NM_002967	embl|0.8405|0.8405	hgnc_symbol|SAFB|SAFB
+efg_agilent_wholegenome_4x44k_v1|A_24_P188183|A_24_P188183	refseq_dna|NM_017520|NM_017520	embl|0.8234|0.8234	hgnc_symbol|MPHOSPH8|MPHOSPH8
+efg_agilent_wholegenome_4x44k_v1|A_23_P408768|A_23_P408768	refseq_dna|NM_032482|NM_032482	embl|1.1905|1.1905	hgnc_symbol|DOT1L|DOT1L
+efg_agilent_wholegenome_4x44k_v1|A_23_P380839|A_23_P380839	refseq_dna|NM_020193|NM_020193	embl|0.8126|0.8126	hgnc_symbol|C11orf30|C11orf30
+efg_agilent_wholegenome_4x44k_v1|A_24_P357688|A_24_P357688	refseq_dna|NM_133433|NM_133433	embl|0.7081|0.7081	hgnc_symbol|NIPBL|NIPBL
+efg_agilent_wholegenome_4x44k_v1|A_24_P342279|A_24_P342279	refseq_dna|NM_004380|NM_004380	embl|0.7989|0.7989	hgnc_symbol|CREBBP|CREBBP
+efg_agilent_wholegenome_4x44k_v1|A_23_P1038|A_23_P1038	refseq_dna|NM_006618|NM_006618	embl|0.8398|0.8398	hgnc_symbol|KDM5B|KDM5B
+efg_agilent_wholegenome_4x44k_v1|A_23_P30805|A_23_P30805	refseq_dna|NM_021968|NM_021968	embl|0.8675|0.8675	hgnc_symbol|HIST1H4J|HIST1H4J
+efg_agilent_wholegenome_4x44k_v1|A_23_P57989|A_23_P57989	refseq_dna|NM_024665|NM_024665	embl|0.8589|0.8589	hgnc_symbol|TBL1XR1|TBL1XR1
+efg_agilent_wholegenome_4x44k_v1|A_32_P162076|A_32_P162076	refseq_dna|NM_016287|NM_016287	embl|1.2087|1.2087	hgnc_symbol|HP1BP3|HP1BP3
+efg_agilent_wholegenome_4x44k_v1|A_23_P21219|A_23_P21219	refseq_dna|NM_014159|NM_014159	embl|0.8291|0.8291	hgnc_symbol|SETD2|SETD2
+efg_agilent_wholegenome_4x44k_v1|A_23_P114075|A_23_P114075	refseq_dna|NM_004459|NM_004459	embl|0.7708|0.7708	hgnc_symbol|BPTF|BPTF
+efg_agilent_wholegenome_4x44k_v1|A_23_P300301|A_23_P300301	refseq_dna|NM_032776|NM_032776	embl|0.6966|0.6966	hgnc_symbol|JMJD1C|JMJD1C
+efg_agilent_wholegenome_4x44k_v1|A_24_P248251|A_24_P248251	refseq_dna|NM_139048|NM_139048	embl|0.6764|0.6764	hgnc_symbol|HLTF|HLTF
+efg_agilent_wholegenome_4x44k_v1|A_23_P395374|A_23_P395374	refseq_dna|NM_003539|NM_003539	embl|0.7024|0.7024	hgnc_symbol|HIST1H4D|HIST1H4D
+efg_agilent_wholegenome_4x44k_v1|A_23_P217411|A_23_P217411	refseq_dna|NM_006306|NM_006306	embl|0.8027|0.8027	hgnc_symbol|SMC1A|SMC1A
+efg_agilent_wholegenome_4x44k_v1|A_24_P166407|A_24_P166407	refseq_dna|NM_003544|NM_003544	embl|0.6756|0.6756	hgnc_symbol|HIST1H4B|HIST1H4B
+efg_agilent_wholegenome_4x44k_v1|A_23_P70480|A_23_P70480	refseq_dna|NM_003546|NM_003546	embl|0.6873|0.6873	hgnc_symbol|HIST1H4L|HIST1H4L
+efg_agilent_wholegenome_4x44k_v1|A_24_P7887|A_24_P7887	refseq_dna|NM_001429|NM_001429	embl|0.6161|0.6161	hgnc_symbol|EP300|EP300
+efg_agilent_wholegenome_4x44k_v1|A_24_P136807|A_24_P136807	refseq_dna|NM_002913|NM_002913	embl|0.6387|0.6387	hgnc_symbol|RFC1|RFC1
+efg_agilent_wholegenome_4x44k_v1|A_23_P214487|A_23_P214487	refseq_dna|NM_003542|NM_003542	embl|0.7006|0.7006	hgnc_symbol|HIST1H4C|HIST1H4C
+efg_agilent_wholegenome_4x44k_v1|A_23_P62270|A_23_P62270	refseq_dna|NM_004187|NM_004187	embl|0.71|0.71	hgnc_symbol|KDM5C|KDM5C
+efg_agilent_wholegenome_4x44k_v1|A_23_P217304|A_23_P217304	refseq_dna|NM_021140|NM_021140	embl|0.6019|0.6019	hgnc_symbol|KDM6A|KDM6A
+efg_agilent_wholegenome_4x44k_v1|A_23_P137238|A_23_P137238	refseq_dna|NM_004653|NM_004653	refseq_dna|14.1905|14.1905	hgnc_symbol|KDM5D|KDM5D
+efg_agilent_wholegenome_4x44k_v1|A_32_P209250|A_32_P209250	refseq_dna|NM_182660|NM_182660	refseq_dna|23.6776|23.6776	hgnc_symbol|UTY|UTY
+efg_agilent_wholegenome_4x44k_v1|A_23_P146865|A_23_P146865	refseq_dna|NM_024773|NM_024773	embl|0.8651|0.8651	hgnc_symbol|JMJD5|JMJD5
+efg_agilent_wholegenome_4x44k_v1|A_23_P313568|A_23_P313568	refseq_dna|NM_181659|NM_181659	embl|0.8592|0.8592	hgnc_symbol|NCOA3|NCOA3

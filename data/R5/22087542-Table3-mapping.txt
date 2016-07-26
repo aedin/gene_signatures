@@ -1,0 +1,88 @@
+# Generate Mapping Tables Script: Version 4 11:04 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:04 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+hgnc_symbol|SOD2|SOD2
+hgnc_symbol|CAT|CAT
+hgnc_symbol|SMOX|SMOX
+hgnc_symbol|CYR61|CYR61
+hgnc_symbol|NFE2L2|NFE2L2
+hgnc_symbol|NFkB1|NFkB1
+hgnc_symbol|NFkB2|NFkB2
+hgnc_symbol|NFkBIZ|NFkBIZ
+hgnc_symbol|DUSP1|DUSP1
+hgnc_symbol|DUSP5|DUSP5
+hgnc_symbol|FOS|FOS
+hgnc_symbol|JUNB|JUNB
+hgnc_symbol|c-JUN|c-JUN
+hgnc_symbol|STC1|STC1
+hgnc_symbol|STC2|STC2
+hgnc_symbol|IRF1|IRF1
+hgnc_symbol|RELA|RELA
+hgnc_symbol|RELB|RELB
+hgnc_symbol|IL1A|IL1A
+hgnc_symbol|IL1B|IL1B
+hgnc_symbol|IL6|IL6
+hgnc_symbol|IL8|IL8
+hgnc_symbol|IL11|IL11
+hgnc_symbol|IRAK2|IRAK2
+hgnc_symbol|PTGS2|PTGS2
+hgnc_symbol|CCL2/MCP1|CCL2/MCP1
+hgnc_symbol|CL20/MIP3 alpha|CL20/MIP3 alpha
+hgnc_symbol|CXCL1/ GRO1|CXCL1/ GRO1
+hgnc_symbol|CXCL2/MIP-2|CXCL2/MIP-2
+hgnc_symbol|CXCL5|CXCL5
+hgnc_symbol|CXC18/IL8|CXC18/IL8
+hgnc_symbol|PLAU|PLAU
+hgnc_symbol|ITGA2|ITGA2
+hgnc_symbol|MMP10|MMP10
+hgnc_symbol|CEBPB|CEBPB
+hgnc_symbol|NFE2L2|NFE2L2
+hgnc_symbol|NFkB1|NFkB1
+hgnc_symbol|NFkB2|NFkB2
+hgnc_symbol|NFkBIA|NFkBIA
+hgnc_symbol|NFkBIZ|NFkBIZ
+hgnc_symbol|GDF-15|GDF-15
+hgnc_symbol|GADD45alpha|GADD45alpha
+hgnc_symbol|GADD34|GADD34
+hgnc_symbol|EGR1|EGR1
+hgnc_symbol|BIRC3|BIRC3
+hgnc_symbol|c-FOS|c-FOS
+hgnc_symbol|FOSB|FOSB
+hgnc_symbol|FOSL1|FOSL1
+hgnc_symbol|CYR61|CYR61
+hgnc_symbol|JUND|JUND
+hgnc_symbol|OKL-38|OKL-38
+hgnc_symbol|EFNA1|EFNA1
+hgnc_symbol|MYC|MYC
+hgnc_symbol|CEBPB|CEBPB
+hgnc_symbol|TRIB1|TRIB1
+hgnc_symbol|PTGS2|PTGS2
+hgnc_symbol|ZFP36|ZFP36
+hgnc_symbol|KLF2|KLF2
+hgnc_symbol|KLF6|KLF6
+hgnc_symbol|KLF11|KLF11
+hgnc_symbol|KLF13|KLF13
+hgnc_symbol|ETS1|ETS1
+hgnc_symbol|DDIT3|DDIT3
+hgnc_symbol|FGF2|FGF2
+hgnc_symbol|EGR1|EGR1
+hgnc_symbol|RELB|RELB
+hgnc_symbol|IL8|IL8
+hgnc_symbol|DUSP5|DUSP5
+hgnc_symbol|FST|FST
+hgnc_symbol|ETS1|ETS1
+hgnc_symbol|EGR1|EGR1
+hgnc_symbol|ETS1|ETS1
+hgnc_symbol|STC1|STC1
+hgnc_symbol|c-JUN|c-JUN
+hgnc_symbol|NFkBIA|NFkBIA
+hgnc_symbol|PTGS2|PTGS2
+hgnc_symbol|CSF2|CSF2
+hgnc_symbol|CEBPB|CEBPB
+hgnc_symbol|EGR1|EGR1
+hgnc_symbol|FOSL1|FOSL1
+hgnc_symbol|c-JUN|c-JUN
+hgnc_symbol|FOXO1|FOXO1

@@ -1,0 +1,52 @@
+# Generate Mapping Tables Script: Version 4 11:03 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:03 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+affy_hugene_1_0_st_v1|7918878|7918878	hgnc_symbol|CASQ2|CASQ2
+affy_hugene_1_0_st_v1|7910792|7910792	hgnc_symbol|RYR2|RYR2
+affy_hugene_1_0_st_v1|8129330|8129330	hgnc_symbol|TRDN|TRDN
+affy_hugene_1_0_st_v1|8118734|8118734	hgnc_symbol|ITPR3|ITPR3
+affy_hugene_1_0_st_v1|8121729|8121729	hgnc_symbol|PLN|PLN
+affy_hugene_1_0_st_v1|8150988|8150988	hgnc_symbol|ASPH|ASPH
+affy_hugene_1_0_st_v1|8051762|8051762	hgnc_symbol|SLC8A1|SLC8A1
+affy_hugene_1_0_st_v1|7958644|7958644	hgnc_symbol|ATP2A2|ATP2A2
+affy_hugene_1_0_st_v1|7905581|7905581	hgnc_symbol|S100A1|S100A1
+affy_hugene_1_0_st_v1|8142435|8142435	hgnc_symbol|PPP1R3A|PPP1R3A
+affy_hugene_1_0_st_v1|7951479|7951479	hgnc_symbol|SLN|SLN
+affy_hugene_1_0_st_v1|8077503|8077503	hgnc_symbol|CAV3|CAV3
+affy_hugene_1_0_st_v1|8038319|8038319	hgnc_symbol|HRC|HRC
+affy_hugene_1_0_st_v1|7973850|7973850	hgnc_symbol|AKAP6|AKAP6
+affy_hugene_1_0_st_v1|7951178|7951178	hgnc_symbol|TRPC6|TRPC6
+affy_hugene_1_0_st_v1|8077376|8077376	hgnc_symbol|ITPR1|ITPR1
+affy_hugene_1_0_st_v1|7971104|7971104	hgnc_symbol|TRPC4|TRPC4
+affy_hugene_1_0_st_v1|7982392|7982392	hgnc_symbol|RYR3|RYR3
+affy_hugene_1_0_st_v1|8059470|8059470	hgnc_symbol|IRS1|IRS1
+affy_hugene_1_0_st_v1|8102678|8102678	hgnc_symbol|TRPC3|TRPC3
+affy_hugene_1_0_st_v1|8037657|8037657	hgnc_symbol|DMPK|DMPK
+affy_hugene_1_0_st_v1|8135661|8135661	hgnc_symbol|CFTR|CFTR
+affy_hugene_1_0_st_v1|8150439|8150439	hgnc_symbol|ANK1|ANK1
+affy_hugene_1_0_st_v1|8023646|8023646	hgnc_symbol|BCL2|BCL2
+affy_hugene_1_0_st_v1|7953040|7953040	hgnc_symbol|CACNA1C|CACNA1C
+affy_hugene_1_0_st_v1|8135378|8135378	hgnc_symbol|PRKAR2B|PRKAR2B
+affy_hugene_1_0_st_v1|8083166|8083166	hgnc_symbol|TRPC1|TRPC1
+affy_hugene_1_0_st_v1|8132860|8132860	hgnc_symbol|EGFR|EGFR
+affy_hugene_1_0_st_v1|7953094|7953094	hgnc_symbol|CACNA1C|CACNA1C
+affy_hugene_1_0_st_v1|7934393|7934393	hgnc_symbol|PPP3CB|PPP3CB
+affy_hugene_1_0_st_v1|8050215|8050215	hgnc_symbol|YWHAQ|YWHAQ
+affy_hugene_1_0_st_v1|7966368|7966368	hgnc_symbol|PPP1CC|PPP1CC
+affy_hugene_1_0_st_v1|7949765|7949765	hgnc_symbol|PPP1CA|PPP1CA
+affy_hugene_1_0_st_v1|7972745|7972745	hgnc_symbol|IRS2|IRS2
+affy_hugene_1_0_st_v1|8034762|8034762	hgnc_symbol|PRKACA|PRKACA
+affy_hugene_1_0_st_v1|8160857|8160857	hgnc_symbol|OPRS1|OPRS1
+affy_hugene_1_0_st_v1|8001666|8001666	hgnc_symbol|CSNK2A2|CSNK2A2
+affy_hugene_1_0_st_v1|8161615|8161615	hgnc_symbol|PRKACG|PRKACG
+affy_hugene_1_0_st_v1|8115122|8115122	hgnc_symbol|CAMK2A|CAMK2A
+affy_hugene_1_0_st_v1|8112841|8112841	hgnc_symbol|HOMER1|HOMER1
+affy_hugene_1_0_st_v1|7994463|7994463	hgnc_symbol|ATP2A1|ATP2A1
+affy_hugene_1_0_st_v1|7934979|7934979	hgnc_symbol|ANKRD1|ANKRD1
+affy_hugene_1_0_st_v1|8055476|8055476	hgnc_symbol|YWHAE|YWHAE
+affy_hugene_1_0_st_v1|8069085|8069085	hgnc_symbol|TRPM2|TRPM2
+affy_hugene_1_0_st_v1|8040530|8040530	hgnc_symbol|FKBP1B|FKBP1B
+affy_hugene_1_0_st_v1|8062880|8062880	hgnc_symbol|YWHAB|YWHAB

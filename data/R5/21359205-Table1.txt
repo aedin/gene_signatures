@@ -1,0 +1,31 @@
+Gene Name (Ensembl)	Description	Isolation Technique	Mean Signal Intensity HCV Liver	Mean Signal Intensity Control Liver	Fold Change	Bonferroni p Value	Expression Pattern
+IRF1	Interferon regulatory factor 1 (IRF-1)	59 Capped RNA	674	323	2.09	0.033	Upregulated only in 59 capped RNA
+IRF1	Interferon regulatory factor 1 (IRF-1)	Poly(A)+ RNA	2087	1363	1.53	51.505	Upregulated only in 59 capped RNA
+LILRA1	Leukocyte immunoglobulin-like receptor subfamily A member 1 Precursor	59 Capped RNA	192	121	1.58	0.001	Upregulated only in 59 capped RNA
+LILRA1	Leukocyte immunoglobulin-like receptor subfamily A member 1 Precursor	Poly(A)+ RNA	219	171	1.28	18.386	Upregulated only in 59 capped RNA
+LILRA4	Leukocyte immunoglobulin-like receptor subfamily A member 4 Precursor	59 Capped RNA	106	64	1.64	0.001	Upregulated only in 59 capped RNA
+LILRA4	Leukocyte immunoglobulin-like receptor subfamily A member 4 Precursor	Poly(A)+ RNA	126	102	1.24	7.956	Upregulated only in 59 capped RNA
+LILRB2	Leukocyte immunoglobulin-like receptor subfamily B member 2 Precursor	59 Capped RNA	756	359	2.1	0.015	Upregulated only in 59 capped RNA
+LILRB2	Leukocyte immunoglobulin-like receptor subfamily B member 2 Precursor	Poly(A)+ RNA	1186	756	1.57	7.591	Upregulated only in 59 capped RNA
+LILRB4	Leukocyte immunoglobulin-like receptor subfamily B member 4 Precursor	59 Capped RNA	191	92	2.06	0.001	Upregulated only in 59 capped RNA
+LILRB4	Leukocyte immunoglobulin-like receptor subfamily B member 4 Precursor	Poly(A)+ RNA	378	246	1.54	0.388	Upregulated only in 59 capped RNA
+RFX5	DNA-binding protein RFX5	59 Capped RNA	292	174	1.68	0.001	Upregulated only in 59 capped RNA
+RFX5	DNA-binding protein RFX5	Poly(A)+ RNA	899	523	1.72	0.729	Upregulated only in 59 capped RNA
+TRIM34	Tripartite motif-containing protein 34	59 Capped RNA	108	65	1.67	0.001	Upregulated only in 59 capped RNA
+TRIM34	Tripartite motif-containing protein 34	Poly(A)+ RNA	204	138	1.48	0.76	Upregulated only in 59 capped RNA
+LEAP2	Liver-expressed antimicrobial peptide 2 Precursor	59 Capped RNA	139	98	1.42	0.003	Upregulated only in Poly(A)+ RNA
+LEAP2	Liver-expressed antimicrobial peptide 2 Precursor	Poly(A)+ RNA	626	712	2.96	0.001	Upregulated only in Poly(A)+ RNA
+LILRA5	Leukocyte immunoglobulin-like receptor subfamily A member 5 Precursor	59 Capped RNA	65	63	1.04	221.422	Upregulated only in Poly(A)+ RNA
+LILRA5	Leukocyte immunoglobulin-like receptor subfamily A member 5 Precursor	Poly(A)+ RNA	425	217	1.95	0.013	Upregulated only in Poly(A)+ RNA
+MAP4K2	Mitogen-activated protein kinase kinase kinase kinase 2	59 Capped RNA	121	94	1.29	0.037	Upregulated only in Poly(A)+ RNA
+MAP4K2	Mitogen-activated protein kinase kinase kinase kinase 2	Poly(A)+ RNA	482	226	2.13	0.021	Upregulated only in Poly(A)+ RNA
+PSMB4	Proteasome subunit beta type-4 Precursor	59 Capped RNA	390	393	21.01	501.381	Upregulated only in Poly(A)+ RNA
+PSMB4	Proteasome subunit beta type-4 Precursor	Poly(A)+ RNA	14358	4689	3.06	0.013	Upregulated only in Poly(A)+ RNA
+TRIM22	Tripartite motif-containing protein 22	59 Capped RNA	824	201	4.11	0.001	Upregulated in both 59 capped and Poly(A)+ RNA
+TRIM22	Tripartite motif-containing protein 22	Poly(A)+ RNA	3390	545	6.22	0.001	Upregulated in both 59 capped and Poly(A)+ RNA
+LAIR1	Leukocyte-associated immunoglobulin-like receptor 1 Precursor	59 Capped RNA	199	85	2.34	0.001	Upregulated in both 59 capped and Poly(A)+ RNA
+LAIR1	Leukocyte-associated immunoglobulin-like receptor 1 Precursor	Poly(A)+ RNA	337	148	2.28	0.001	Upregulated in both 59 capped and Poly(A)+ RNA
+IFNAR1	Interferon-alpha/beta receptor alpha chain Precursor	59 Capped RNA	312	646	22.07	0.013	Downregulated only in 59 capped RNA
+IFNAR1	Interferon-alpha/beta receptor alpha chain Precursor	Poly(A)+ RNA	741	1220	21.65	1.132	Downregulated only in 59 capped RNA
+LILRB3	Leukocyte immunoglobulin-like receptor subfamily B member 3 Precursor	59 Capped RNA	83	138	21.66	0.001	Downregulated only in 59 capped RNA
+LILRB3	Leukocyte immunoglobulin-like receptor subfamily B member 3 Precursor	Poly(A)+ RNA	922	980	21.06	401.425	Downregulated only in 59 capped RNA

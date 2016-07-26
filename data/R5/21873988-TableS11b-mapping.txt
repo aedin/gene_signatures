@@ -1,0 +1,51 @@
+# Generate Mapping Tables Script: Version 4 11:04 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:04 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+affy_hg_u133_plus_2|36830_at|36830_at	hgnc_symbol|MIPEP|MIPEP
+affy_hg_u133_plus_2|201025_at|201025_at	hgnc_symbol|EIF5B|EIF5B
+affy_hg_u133_plus_2|201142_at|201142_at	hgnc_symbol|EIF2S1|EIF2S1
+affy_hg_u133_plus_2|201143_s_at|201143_s_at	hgnc_symbol|EIF2S1|EIF2S1
+affy_hg_u133_plus_2|201178_at|201178_at	hgnc_symbol|FBXO7|FBXO7
+affy_hg_u133_plus_2|201829_at|201829_at	hgnc_symbol|NET1|NET1
+affy_hg_u133_plus_2|201830_s_at|201830_s_at	hgnc_symbol|NET1|NET1
+affy_hg_u133_plus_2|202706_s_at|202706_s_at	hgnc_symbol|UMPS|UMPS
+affy_hg_u133_plus_2|203015_s_at|203015_s_at	hgnc_symbol|SSX2IP|SSX2IP
+affy_hg_u133_plus_2|203016_s_at|203016_s_at	hgnc_symbol|SSX2IP|SSX2IP
+affy_hg_u133_plus_2|203017_s_at|203017_s_at	hgnc_symbol|SSX2IP|SSX2IP
+affy_hg_u133_plus_2|203115_at|203115_at	hgnc_symbol|FECH|FECH
+affy_hg_u133_plus_2|203212_s_at|203212_s_at	hgnc_symbol|MTMR2|MTMR2
+affy_hg_u133_plus_2|203544_s_at|203544_s_at	hgnc_symbol|STAM|STAM
+affy_hg_u133_plus_2|203680_at|203680_at	hgnc_symbol|PRKAR2B|PRKAR2B
+affy_hg_u133_plus_2|204026_s_at|204026_s_at	hgnc_symbol|ZWINT|ZWINT
+affy_hg_u133_plus_2|204033_at|204033_at	hgnc_symbol|TRIP13|TRIP13
+affy_hg_u133_plus_2|204162_at|204162_at	hgnc_symbol|NDC80|NDC80
+affy_hg_u133_plus_2|204835_at|204835_at	hgnc_symbol|POLA1|POLA1
+affy_hg_u133_plus_2|204887_s_at|204887_s_at	hgnc_symbol|PLK4|PLK4
+affy_hg_u133_plus_2|205395_s_at|205395_s_at	hgnc_symbol|MRE11A|MRE11A
+affy_hg_u133_plus_2|205667_at|205667_at	hgnc_symbol|WRN|WRN
+affy_hg_u133_plus_2|205767_at|205767_at	hgnc_symbol|EREG|EREG
+affy_hg_u133_plus_2|206145_at|206145_at	hgnc_symbol|RHAG|RHAG
+affy_hg_u133_plus_2|206306_at|206306_at	hgnc_symbol|RYR3|RYR3
+affy_hg_u133_plus_2|206698_at|206698_at	hgnc_symbol|XK|XK
+affy_hg_u133_plus_2|206937_at|206937_at	hgnc_symbol|SPTA1|SPTA1
+affy_hg_u133_plus_2|207067_s_at|207067_s_at	hgnc_symbol|HDC|HDC
+affy_hg_u133_plus_2|207332_s_at|207332_s_at	hgnc_symbol|TFRC|TFRC
+affy_hg_u133_plus_2|209757_s_at|209757_s_at	hgnc_symbol|MYCN|MYCN
+affy_hg_u133_plus_2|210543_s_at|210543_s_at	hgnc_symbol|PRKDC|PRKDC
+affy_hg_u133_plus_2|211952_at|211952_at	hgnc_symbol|IPO5|IPO5
+affy_hg_u133_plus_2|213008_at|213008_at	hgnc_symbol|FANCI|FANCI
+affy_hg_u133_plus_2|217815_at|217815_at	hgnc_symbol|SUPT16H|SUPT16H
+affy_hg_u133_plus_2|218219_s_at|218219_s_at	hgnc_symbol|LANCL2|LANCL2
+affy_hg_u133_plus_2|218364_at|218364_at	hgnc_symbol|LRRFIP2|LRRFIP2
+affy_hg_u133_plus_2|218676_s_at|218676_s_at	hgnc_symbol|PCTP|PCTP
+affy_hg_u133_plus_2|218883_s_at|218883_s_at	hgnc_symbol|MLF1IP|MLF1IP
+affy_hg_u133_plus_2|218890_x_at|218890_x_at	hgnc_symbol|MRPL35|MRPL35
+affy_hg_u133_plus_2|219094_at|219094_at	hgnc_symbol|ARMC8|ARMC8
+affy_hg_u133_plus_2|219470_x_at|219470_x_at	hgnc_symbol|CCNJ|CCNJ
+affy_hg_u133_plus_2|221744_at|221744_at	hgnc_symbol|WDR68|WDR68
+affy_hg_u133_plus_2|223627_at|223627_at	hgnc_symbol|MEX3B|MEX3B
+affy_hg_u133_plus_2|227447_at|227447_at	hgnc_symbol|SKIV2L2|SKIV2L2
+affy_hg_u133_plus_2|231925_at|231925_at

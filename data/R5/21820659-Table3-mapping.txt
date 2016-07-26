@@ -1,0 +1,39 @@
+# Generate Mapping Tables Script: Version 4 11:03 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:03 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+mirbase_id|hsa-miR-21|hsa-miR-21	hgnc_symbol|PDZD2|PDZD2
+mirbase_id|hsa-miR-21|hsa-miR-21	hgnc_symbol|MPRIP|MPRIP
+mirbase_id|hsa-miR-21|hsa-miR-21	hgnc_symbol|C17orf39|C17orf39
+mirbase_id|hsa-miR-21|hsa-miR-21	hgnc_symbol|TIMP3|TIMP3
+mirbase_id|hsa-miR-21|hsa-miR-21	hgnc_symbol|MATN2|MATN2
+mirbase_id|hsa-miR-21|hsa-miR-21	hgnc_symbol|KBTBD6|KBTBD6
+mirbase_id|hsa-miR-21|hsa-miR-21	hgnc_symbol|EPHA4|EPHA4
+mirbase_id|hsa-miR-21|hsa-miR-21	hgnc_symbol|JAG1|JAG1
+mirbase_id|hsa-miR-21|hsa-miR-21	hgnc_symbol|RECK|RECK
+mirbase_id|hsa-miR-21|hsa-miR-21	hgnc_symbol|ASF1A|ASF1A
+mirbase_id|hsa-miR-21|hsa-miR-21	hgnc_symbol|LEMD3|LEMD3
+mirbase_id|hsa-miR-34a|hsa-miR-34a	hgnc_symbol|GREM2|GREM2
+mirbase_id|hsa-miR-34a|hsa-miR-34a	hgnc_symbol|LGR4|LGR4
+mirbase_id|hsa-miR-34a|hsa-miR-34a	hgnc_symbol|DIXDC1|DIXDC1
+mirbase_id|hsa-miR-34a|hsa-miR-34a	hgnc_symbol|MPP2|MPP2
+mirbase_id|hsa-miR-34a|hsa-miR-34a	hgnc_symbol|ProSAPiP1|ProSAPiP1
+mirbase_id|hsa-miR-34a|hsa-miR-34a	hgnc_symbol|PKP4|PKP4
+mirbase_id|hsa-miR-34a|hsa-miR-34a	hgnc_symbol|ZER1|ZER1
+mirbase_id|hsa-miR-34a|hsa-miR-34a	hgnc_symbol|POGZ|POGZ
+mirbase_id|hsa-miR-34a|hsa-miR-34a	hgnc_symbol|NAV3|NAV3
+mirbase_id|hsa-miR-34a|hsa-miR-34a	hgnc_symbol|VCL|VCL
+mirbase_id|hsa-miR-34a|hsa-miR-34a	hgnc_symbol|NFE2L1|NFE2L1
+mirbase_id|hsa-miR-34a|hsa-miR-34a	hgnc_symbol|CBFA2T3|CBFA2T3
+mirbase_id|hsa-miR-34a|hsa-miR-34a	hgnc_symbol|PID1|PID1
+mirbase_id|hsa-miR-34a|hsa-miR-34a	hgnc_symbol|ABR|ABR
+mirbase_id|hsa-miR-34a|hsa-miR-34a	hgnc_symbol|SLC2A4RG|SLC2A4RG
+mirbase_id|hsa-miR-34a|hsa-miR-34a	hgnc_symbol|JAG1|JAG1
+mirbase_id|hsa-miR-34a|hsa-miR-34a	hgnc_symbol|ZDHHC17|ZDHHC17
+mirbase_id|hsa-miR-34a|hsa-miR-34a	hgnc_symbol|ZMYM4|ZMYM4
+mirbase_id|hsa-miR-146a|hsa-miR-146a	hgnc_symbol|IGSF1|IGSF1
+mirbase_id|hsa-miR-146a|hsa-miR-146a	hgnc_symbol|SORT1|SORT1
+mirbase_id|hsa-miR-146a|hsa-miR-146a	hgnc_symbol|NOVA1|NOVA1
+mirbase_id|hsa-miR-210|hsa-miR-210	hgnc_symbol|KCMF1|KCMF1

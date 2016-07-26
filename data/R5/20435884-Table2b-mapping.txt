@@ -1,0 +1,48 @@
+# Generate Mapping Tables Script: Version 4 11:03 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:03 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+hgnc_symbol|AIM1|AIM1
+hgnc_symbol|ANXA4|ANXA4
+hgnc_symbol|ATP10D|ATP10D
+hgnc_symbol|CHFR|CHFR
+hgnc_symbol|DEGS1|DEGS1
+hgnc_symbol|DGKZ|DGKZ
+hgnc_symbol|EHD4|EHD4
+hgnc_symbol|EPS15|EPS15
+hgnc_symbol|FAM49A|FAM49A
+hgnc_symbol|FYB|FYB
+hgnc_symbol|GALNT10|GALNT10
+hgnc_symbol|IDS|IDS
+hgnc_symbol|IL1R1|IL1R1
+hgnc_symbol|ITGAL|ITGAL
+hgnc_symbol|LCP2|LCP2
+hgnc_symbol|LIMS1|LIMS1
+hgnc_symbol|LMO4|LMO4
+hgnc_symbol|LYST|LYST
+hgnc_symbol|MACF1|MACF1
+hgnc_symbol|PARP12|PARP12
+hgnc_symbol|PDLIM5|PDLIM5
+hgnc_symbol|PDXK|PDXK
+hgnc_symbol|PLA2G4C|PLA2G4C
+hgnc_symbol|PPAP2B|PPAP2B
+hgnc_symbol|PSTPIP1|PSTPIP1
+hgnc_symbol|RALGDS|RALGDS
+hgnc_symbol|RASGRP1|RASGRP1
+hgnc_symbol|RNF19B|RNF19B
+hgnc_symbol|RRAGA|RRAGA
+hgnc_symbol|RSU1|RSU1
+hgnc_symbol|SELPLG|SELPLG
+hgnc_symbol|SEPW1|SEPW1
+hgnc_symbol|SH3GLB1|SH3GLB1
+hgnc_symbol|TIAM1|TIAM1
+hgnc_symbol|TNFRSF1A|TNFRSF1A
+hgnc_symbol|FAS|FAS
+hgnc_symbol|TNIP2|TNIP2
+hgnc_symbol|TRPV2|TRPV2
+hgnc_symbol|UPP1|UPP1
+hgnc_symbol|VIM|VIM
+hgnc_symbol|VPS37B|VPS37B
+hgnc_symbol|WDR45|WDR45

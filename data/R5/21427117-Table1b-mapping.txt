@@ -1,0 +1,65 @@
+# Generate Mapping Tables Script: Version 4 11:05 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:05 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+hgnc_symbol|IGF1|IGF1
+hgnc_symbol|IGFBP2|IGFBP2
+hgnc_symbol|IGFBP4|IGFBP4
+hgnc_symbol|IGFBP5|IGFBP5
+hgnc_symbol|IGFBP7|IGFBP7
+hgnc_symbol|VEGFC|VEGFC
+hgnc_symbol|HDGFRP3|HDGFRP3
+hgnc_symbol|MEGF9|MEGF9
+hgnc_symbol|TGFB1/1|TGFB1/1
+hgnc_symbol|TNFAIP3|TNFAIP3
+hgnc_symbol|PDGFC|PDGFC
+hgnc_symbol|IL15|IL15
+hgnc_symbol|IL1R1|IL1R1
+hgnc_symbol|IL6ST|IL6ST
+hgnc_symbol|ILDR1|ILDR1
+hgnc_symbol|IL10RB|IL10RB
+hgnc_symbol|IL13RA1|IL13RA1
+hgnc_symbol|IL17RD|IL17RD
+hgnc_symbol|IL20RA|IL20RA
+hgnc_symbol|LIFR|LIFR
+hgnc_symbol|PDGFRA|PDGFRA
+hgnc_symbol|TGFR1|TGFR1
+hgnc_symbol|TGFR2|TGFR2
+hgnc_symbol|PTGFRN|PTGFRN
+hgnc_symbol|FGFR10P2|FGFR10P2
+hgnc_symbol|EDNRA|EDNRA
+hgnc_symbol|KDR|KDR
+hgnc_symbol|ITGAV|ITGAV
+hgnc_symbol|ITGA9|ITGA9
+hgnc_symbol|ITGB1|ITGB1
+hgnc_symbol|ITGB8|ITGB8
+hgnc_symbol|LGALS1|LGALS1
+hgnc_symbol|LGALS3|LGALS3
+hgnc_symbol|ALCAM|ALCAM
+hgnc_symbol|CEACAM1|CEACAM1
+hgnc_symbol|PECAM1|PECAM1
+hgnc_symbol|LAMA2|LAMA2
+hgnc_symbol|COL1A1|COL1A1
+hgnc_symbol|COL1A2|COL1A2
+hgnc_symbol|COL3A1|COL3A1
+hgnc_symbol|COL4A1|COL4A1
+hgnc_symbol|COL4A2|COL4A2
+hgnc_symbol|COL4A3BP|COL4A3BP
+hgnc_symbol|COL4A5|COL4A5
+hgnc_symbol|COL5A1|COL5A1
+hgnc_symbol|COL5A2|COL5A2
+hgnc_symbol|COL6A1|COL6A1
+hgnc_symbol|COL6A2|COL6A2
+hgnc_symbol|COL6A3|COL6A3
+hgnc_symbol|COL14A1|COL14A1
+hgnc_symbol|COL15A1|COL15A1
+hgnc_symbol|COL18A1|COL18A1
+hgnc_symbol|FN1|FN1
+hgnc_symbol|FBN1|FBN1
+hgnc_symbol|DCN|DCN
+hgnc_symbol|TIMP2|TIMP2
+hgnc_symbol|TIMP3|TIMP3
+hgnc_symbol|CD44|CD44
+hgnc_symbol|SDC2|SDC2

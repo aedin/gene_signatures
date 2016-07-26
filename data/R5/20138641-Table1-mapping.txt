@@ -1,0 +1,35 @@
+# Generate Mapping Tables Script: Version 4 11:03 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:03 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+hgnc_symbol|NF-kappaB|NF-kappaB
+hgnc_symbol|HAT1|HAT1
+hgnc_symbol|ATF4|ATF4
+hgnc_symbol|GCN5|GCN5
+hgnc_symbol|E2F|E2F
+hgnc_symbol|TFIIE|TFIIE
+hgnc_symbol|TFIIH|TFIIH
+hgnc_symbol|Cdk9|Cdk9
+hgnc_symbol|Cyclin T1|Cyclin T1
+hgnc_symbol|YY1|YY1
+hgnc_symbol|IL1beta|IL1beta
+hgnc_symbol|IL6|IL6
+hgnc_symbol|IL10|IL10
+hgnc_symbol|Small inducible cytokine A2|Small inducible cytokine A2
+hgnc_symbol|TNF-alpha|TNF-alpha
+hgnc_symbol|IFN-gamma|IFN-gamma
+hgnc_symbol|MIP-1alpha|MIP-1alpha
+hgnc_symbol|MIP-1beta|MIP-1beta
+hgnc_symbol|TGF-beta|TGF-beta
+hgnc_symbol|IFN-gamma receptor 2|IFN-gamma receptor 2
+hgnc_symbol|IL22 receptor|IL22 receptor
+hgnc_symbol|TNF-alpha receptor|TNF-alpha receptor
+hgnc_symbol|CXCR4|CXCR4
+hgnc_symbol|CCR5|CCR5
+hgnc_symbol|STAT3|STAT3
+hgnc_symbol|STAT5A|STAT5A
+hgnc_symbol|MMP12|MMP12
+hgnc_symbol|MMP14|MMP14
+hgnc_symbol|MMP7|MMP7

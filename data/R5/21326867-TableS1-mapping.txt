@@ -1,0 +1,482 @@
+# Generate Mapping Tables Script: Version 4 11:07 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:07 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+refseq_dna|NM_008102|NM_008102	unigene|Mm.10651|Mm.10651	mgi_symbol|Gch1|Gch1
+entrezgene|BB698398|14528	unigene|Mm.10651|Mm.10651	mgi_symbol|Gch1|Gch1
+entrezgene|AK010362|71967	unigene|Mm.379207|Mm.379207	mgi_symbol|2410003J06Rik|2410003J06Rik
+entrezgene|M12573|15511	unigene|Mm.372314|Mm.372314	mgi_symbol|Hspa1b|Hspa1b
+entrezgene|BG076333|17768	unigene|Mm.443|Mm.443	mgi_symbol|Mthfd2|Mthfd2
+embl|BB450769|BB450769
+entrezgene|BG076333|17768	unigene|Mm.443|Mm.443	mgi_symbol|Mthfd2|Mthfd2
+entrezgene|M12573|15511	unigene|Mm.372314|Mm.372314	mgi_symbol|Hspa1b|Hspa1b
+refseq_dna|NM_007893|NM_007893	unigene|Mm.163132|Mm.163132	mgi_symbol|E4f1|E4f1
+embl|BB027397|BB027397	unigene|Mm.445985|Mm.445985
+embl|BM201499|BM201499	unigene|Mm.450309|Mm.450309
+embl|BM247240|BM247240
+embl|BM211430|BM211430	unigene|Mm.413311|Mm.413311
+embl|BB631473|BB631473	unigene|Mm.437948|Mm.437948
+refseq_dna|NM_013738|NM_013738	unigene|Mm.103380|Mm.103380	mgi_symbol|Plek2|Plek2
+entrezgene|BB462549|269587	unigene|Mm.30038|Mm.30038	mgi_symbol|Epb4.1|Epb4.1
+embl|BB201490|BB201490	unigene|Mm.445692|Mm.445692
+embl|C79489|C79489
+embl|BE631223|BE631223	unigene|Mm.472907|Mm.472907
+embl|BG066654|BG066654
+embl|BF461324|BF461324	unigene|Mm.449557|Mm.449557
+embl|BB205419|BB205419
+entrezgene|BG071170|237898	unigene|Mm.178524|Mm.178524	mgi_symbol|Usp32|Usp32
+refseq_dna|NM_009824|NM_009824	unigene|Mm.194339|Mm.194339	mgi_symbol|Cbfa2t3|Cbfa2t3
+embl|BB471309|BB471309	unigene|Mm.406286|Mm.406286
+entrezgene|AK020483|72289	unigene|Mm.298256|Mm.298256	mgi_symbol|Malat1|Malat1
+embl|BM240223|BM240223	unigene|Mm.438431|Mm.438431
+entrezgene|BB328803|12725	unigene|Mm.259751|Mm.259751	mgi_symbol|Clcn3|Clcn3
+entrezgene|AF022992|18626	unigene|Mm.7373|Mm.7373	mgi_symbol|Per1|Per1
+entrezgene|BB547420|229473	unigene|Mm.28838|Mm.28838	mgi_symbol|D930015E06Rik|D930015E06Rik
+embl|BM225255|BM225255
+embl|BB200185|BB200185
+embl|BB047737|BB047737	unigene|Mm.440651|Mm.440651
+embl|BM225255|BM225255
+embl|AW545973|AW545973	unigene|Mm.442048|Mm.442048
+embl|BM237980|BM237980	unigene|Mm.462234|Mm.462234
+embl|BB154631|BB154631
+embl|BB503322|BB503322	unigene|Mm.441107|Mm.441107
+embl|AW557531|AW557531
+entrezgene|BG078867|217039	unigene|Mm.356653|Mm.356653	mgi_symbol|Ggnbp2|Ggnbp2
+embl|BB125494|BB125494
+entrezgene|AW537781|109242	unigene|Mm.370288|Mm.370288	mgi_symbol|Kif24|Kif24
+refseq_dna|NM_010023|NM_010023	unigene|Mm.291743|Mm.291743	mgi_symbol|Dci|Dci
+entrezgene|AV272467|320253	unigene|Mm.312623|Mm.312623	mgi_symbol|C3HC4|C3HC4
+embl|BB111383|BB111383	unigene|Mm.416361|Mm.416361
+embl|AI391218|AI391218	unigene|Mm.471710|Mm.471710
+refseq_dna|NM_010265|NM_010265	unigene|Mm.244825|Mm.244825	mgi_symbol|Gcnt1|Gcnt1
+embl|AK009735|AK009735
+embl|AA409371|AA409371
+embl|AW551720|AW551720
+entrezgene|U25708|17254	unigene|Mm.4114|Mm.4114	mgi_symbol|Slc3a2|Slc3a2
+entrezgene|BM239430|75547	unigene|Mm.216107|Mm.216107	mgi_symbol|Akap13|Akap13
+entrezgene|AV271736|219140	unigene|Mm.149776|Mm.149776	mgi_symbol|Spata13|Spata13
+entrezgene|AK020830|77938	unigene|Mm.225649|Mm.225649	mgi_symbol|Fam53b|Fam53b
+embl|BB009092|BB009092
+embl|BG069224|BG069224
+embl|BB502175|BB502175
+entrezgene|AK013880|70223	unigene|Mm.476771|Mm.476771	mgi_symbol|Nars|Nars
+embl|BG075643|BG075643
+embl|BM222179|BM222179
+refseq_dna|NM_019581|NM_019581	unigene|Mm.22147|Mm.22147	mgi_symbol|Gtpbp2|Gtpbp2
+embl|BM293801|BM293801	unigene|Mm.454419|Mm.454419
+entrezgene|AI606195|269587	unigene|Mm.30038|Mm.30038	mgi_symbol|Epb4.1|Epb4.1
+embl|BG075096|BG075096	unigene|Mm.455233|Mm.455233
+embl|BG063165|BG063165
+embl|BB133363|BB133363
+embl|BB531351|BB531351	unigene|Mm.440461|Mm.440461
+entrezgene|BB208315|69131	unigene|Mm.260516|Mm.260516	mgi_symbol|Crkrs|Crkrs
+entrezgene|BB391874|240041	unigene|Mm.328828|Mm.328828	mgi_symbol|A630033E08Rik|A630033E08Rik
+entrezgene|BB029606|114893	unigene|Mm.379305|Mm.379305	mgi_symbol|Dcun1d1|Dcun1d1
+embl|BI465596|BI465596	unigene|Mm.437701|Mm.437701
+entrezgene|AI849247|56055	unigene|Mm.22147|Mm.22147	mgi_symbol|Gtpbp2|Gtpbp2
+embl|BB214299|BB214299	unigene|Mm.233082|Mm.233082
+entrezgene|AV332053|11733	unigene|Mm.334444|Mm.334444	mgi_symbol|Ank1|Ank1
+embl|BB550311|BB550311	unigene|Mm.453379|Mm.453379
+embl|BB136975|BB136975
+refseq_dna|NM_011538|NM_011538	unigene|Mm.727|Mm.727	mgi_symbol|Tbx6|Tbx6
+entrezgene|BF462770|52187	unigene|Mm.300814|Mm.300814	mgi_symbol|Rragd|Rragd
+embl|BM224404|BM224404	unigene|Mm.413221|Mm.413221
+embl|BB555401|BB555401	unigene|Mm.396090|Mm.396090
+embl|C77595|C77595
+entrezgene|AV333182|11750	unigene|Mm.280231|Mm.280231	mgi_symbol|Anxa7|Anxa7
+embl|BB533969|BB533969
+embl|BM210131|BM210131	unigene|Mm.441222|Mm.441222
+entrezgene|BC008997|11750	unigene|Mm.280231|Mm.280231	mgi_symbol|Anxa7|Anxa7
+entrezgene|AK011813|72472	unigene|Mm.186778|Mm.186778	mgi_symbol|Slc16a10|Slc16a10
+embl|AI451001|AI451001	unigene|Mm.448498|Mm.448498
+entrezgene|BB127876|21969	unigene|Mm.217233|Mm.217233	mgi_symbol|Top1|Top1
+embl|BB127931|BB127931
+embl|BB163458|BB163458
+entrezgene|BG918834|76055	unigene|Mm.478002|Mm.478002	mgi_symbol|Mgea5|Mgea5
+embl|BB183534|BB183534	unigene|Mm.443623|Mm.443623
+embl|BB067736|BB067736
+embl|BB153954|BB153954
+embl|BI076717|BI076717
+embl|BM245920|BM245920
+embl|BB249892|BB249892	unigene|Mm.470374|Mm.470374
+embl|BM239301|BM239301
+embl|BM243903|BM243903
+embl|BG070099|BG070099	unigene|Mm.458987|Mm.458987
+embl|BB251000|BB251000	unigene|Mm.443495|Mm.443495
+entrezgene|AK012967|207952	unigene|Mm.206223|Mm.206223	mgi_symbol|Klhl25|Klhl25
+embl|BM122196|BM122196
+entrezgene|BB749838|21973	unigene|Mm.4237|Mm.4237	mgi_symbol|Top2a|Top2a
+embl|BG073023|BG073023	unigene|Mm.440673|Mm.440673
+embl|BM231698|BM231698	unigene|Mm.436906|Mm.436906
+embl|BB041915|BB041915	unigene|Mm.453339|Mm.453339
+embl|BB222968|BB222968	unigene|Mm.404218|Mm.404218
+refseq_dna|NM_023799|NM_023799	unigene|Mm.478002|Mm.478002	mgi_symbol|Mgea5|Mgea5
+refseq_dna|NM_019581|NM_019581	unigene|Mm.22147|Mm.22147	mgi_symbol|Gtpbp2|Gtpbp2
+entrezgene|BM218282|19653	unigene|Mm.426069|Mm.426069	mgi_symbol|Rbm4|Rbm4
+embl|BB011550|BB011550
+entrezgene|BC021434|83431	unigene|Mm.31979|Mm.31979	mgi_symbol|Ndel1|Ndel1
+embl|BB076850|BB076850	unigene|Mm.446212|Mm.446212
+embl|BM212035|BM212035	unigene|Mm.393076|Mm.393076
+entrezgene|L25109|18472	unigene|Mm.397111|Mm.397111	mgi_symbol|Pafah1b1|Pafah1b1
+entrezgene|BM242785|217869	unigene|Mm.271222|Mm.271222	mgi_symbol|Eif5|Eif5
+entrezgene|BB736539|229474	unigene|Mm.331107|Mm.331107	mgi_symbol|Fhdc1|Fhdc1
+embl|BB232083|BB232083
+embl|C79115|C79115	unigene|Mm.410441|Mm.410441
+embl|AK017419|AK017419	unigene|Mm.392103|Mm.392103
+entrezgene|U60330|19192	unigene|Mm.288477|Mm.288477	mgi_symbol|Psme3|Psme3
+embl|BB556313|BB556313	unigene|Mm.411262|Mm.411262
+entrezgene|AI447886|103737	unigene|Mm.102205|Mm.102205	mgi_symbol|Pex12|Pex12
+refseq_dna|NM_008748|NM_008748	unigene|Mm.39725|Mm.39725	mgi_symbol|Dusp8|Dusp8
+embl|BB538816|BB538816	unigene|Mm.440701|Mm.440701
+embl|BG072462|BG072462
+embl|AV269574|AV269574
+embl|AK014775|AK014775
+embl|BB453509|BB453509	unigene|Mm.416301|Mm.416301
+embl|BG070640|BG070640
+embl|BB307279|BB307279	unigene|Mm.452696|Mm.452696
+embl|BB622498|BB622498	unigene|Mm.440925|Mm.440925
+entrezgene|AW012617|72289	unigene|Mm.298256|Mm.298256	mgi_symbol|Malat1|Malat1
+refseq_dna|NM_013785|NM_013785	unigene|Mm.276155|Mm.276155	mgi_symbol|Ip6k1|Ip6k1
+embl|AK014472|AK014472	mgi_symbol|Snca|Snca
+entrezgene|U21209|12747	unigene|Mm.1761|Mm.1761	mgi_symbol|Clk1|Clk1
+embl|AW555091|AW555091
+embl|C78040|C78040
+entrezgene|AB012273|12611	unigene|Mm.273090|Mm.273090	mgi_symbol|Cebpg|Cebpg
+entrezgene|BB701578|209630	unigene|Mm.37932|Mm.37932	mgi_symbol|Frmd4a|Frmd4a
+entrezgene|BB709476|50849	unigene|Mm.30051|Mm.30051	mgi_symbol|Rnf10|Rnf10
+entrezgene|BB281000|208922	unigene|Mm.391176|Mm.391176	mgi_symbol|Cpeb3|Cpeb3
+entrezgene|BB390252|74302	unigene|Mm.425669|Mm.425669	mgi_symbol|Mtmr3|Mtmr3
+embl|BB071501|BB071501
+embl|BB206180|BB206180	unigene|Mm.426397|Mm.426397
+entrezgene|BG067578|69632	unigene|Mm.275266|Mm.275266	mgi_symbol|Arhgef12|Arhgef12
+refseq_dna|NM_138606|NM_138606	unigene|Mm.347478|Mm.347478	mgi_symbol|Pim2|Pim2
+embl|BG074656|BG074656
+refseq_dna|NM_134126|NM_134126	unigene|Mm.32802|Mm.32802	mgi_symbol|Ift140|Ift140
+refseq_dna|NM_021301|NM_021301	unigene|Mm.281804|Mm.281804	mgi_symbol|Slc15a2|Slc15a2
+embl|AW493533|AW493533	unigene|Mm.441111|Mm.441111
+entrezgene|AK004898|74154	unigene|Mm.267353|Mm.267353	mgi_symbol|Unkl|Unkl
+refseq_dna|NM_011921|NM_011921	unigene|Mm.14609|Mm.14609	mgi_symbol|Aldh1a7|Aldh1a7
+embl|BG297038|BG297038
+embl|BB251922|BB251922
+refseq_dna|NM_007655|NM_007655	unigene|Mm.1355|Mm.1355	mgi_symbol|Cd79a|Cd79a
+refseq_dna|NM_009870|NM_009870	unigene|Mm.6839|Mm.6839	mgi_symbol|Cdk4|Cdk4
+entrezgene|BM244106|272382	unigene|Mm.8012|Mm.8012	mgi_symbol|Spib|Spib
+refseq_dna|NM_019414|NM_019414	unigene|Mm.225405|Mm.225405	mgi_symbol|Selenbp2|Selenbp2
+refseq_dna|NM_009870|NM_009870	unigene|Mm.6839|Mm.6839	mgi_symbol|Cdk4|Cdk4
+refseq_dna|NM_009127|NM_009127	unigene|Mm.267377|Mm.267377	mgi_symbol|Scd1|Scd1
+refseq_dna|NM_008339|NM_008339	unigene|Mm.2987|Mm.2987	mgi_symbol|Cd79b|Cd79b
+refseq_dna|NM_011579|NM_011579	unigene|Mm.15793|Mm.15793	mgi_symbol|Tgtp|Tgtp
+embl|BB534670|BB534670	unigene|Mm.406799|Mm.406799
+entrezgene|M58045|12799	unigene|Mm.15711|Mm.15711	mgi_symbol|Cnp|Cnp
+refseq_dna|NM_008251|NM_008251	unigene|Mm.2756|Mm.2756	mgi_symbol|Hmgn1|Hmgn1
+entrezgene|U42190|17688	unigene|Mm.18210|Mm.18210	mgi_symbol|Msh6|Msh6
+entrezgene|BC011223|12346	unigene|Mm.273195|Mm.273195	mgi_symbol|Car1|Car1
+refseq_dna|NM_008331|NM_008331	unigene|Mm.439751|Mm.439751	mgi_symbol|Ifit1|Ifit1
+entrezgene|BI144310|72931	unigene|Mm.27344|Mm.27344	mgi_symbol|2900010J23Rik|2900010J23Rik
+refseq_dna|NM_026325|NM_026325	unigene|Mm.45155|Mm.45155	mgi_symbol|Tmem179b|Tmem179b
+refseq_dna|NM_010708|NM_010708	unigene|Mm.341434|Mm.341434	mgi_symbol|Lgals9|Lgals9
+refseq_dna|NM_007573|NM_007573	unigene|Mm.30049|Mm.30049	mgi_symbol|C1qbp|C1qbp
+refseq_dna|NM_026125|NM_026125	unigene|Mm.29140|Mm.29140	mgi_symbol|Fam132a|Fam132a
+entrezgene|BB755506|243912	unigene|Mm.34885|Mm.34885	mgi_symbol|Hspb6|Hspb6
+entrezgene|AV116987|52009	unigene|Mm.371601|Mm.371601	mgi_symbol|Hn1l|Hn1l
+entrezgene|BQ176617|68514	unigene|Mm.26834|Mm.26834	mgi_symbol|Efha1|Efha1
+refseq_dna|NM_011801|NM_011801	unigene|Mm.279437|Mm.279437	mgi_symbol|Cfdp1|Cfdp1
+refseq_dna|NM_009870|NM_009870	unigene|Mm.6839|Mm.6839	mgi_symbol|Cdk4|Cdk4
+refseq_dna|NM_020558|NM_020558	unigene|Mm.287982|Mm.287982	mgi_symbol|C1d|C1d
+refseq_dna|NM_134122|NM_134122	unigene|Mm.390992|Mm.390992	mgi_symbol|Nrm|Nrm
+refseq_dna|NM_009844|NM_009844	unigene|Mm.4360|Mm.4360	mgi_symbol|Cd19|Cd19
+entrezgene|BB759096|22084	unigene|Mm.30435|Mm.30435	mgi_symbol|Tsc2|Tsc2
+entrezgene|BG792484|66291	unigene|Mm.28071|Mm.28071	mgi_symbol|1810030N24Rik|1810030N24Rik
+entrezgene|BG073014|381760	unigene|Mm.276356|Mm.276356	mgi_symbol|Ssbp1|Ssbp1
+entrezgene|AK007743|69191	unigene|Mm.32631|Mm.32631	mgi_symbol|Pdia2|Pdia2
+entrezgene|BB836564|17330	unigene|Mm.255116|Mm.255116	mgi_symbol|Minpp1|Minpp1
+embl|AU015266|AU015266	unigene|Mm.466977|Mm.466977
+entrezgene|AV021593|68836	unigene|Mm.248163|Mm.248163	mgi_symbol|Mrpl52|Mrpl52
+entrezgene|BB279185|76498	unigene|Mm.477803|Mm.477803	mgi_symbol|Paqr4|Paqr4
+refseq_dna|NM_007991|NM_007991	unigene|Mm.4595|Mm.4595	mgi_symbol|Fbl|Fbl
+entrezgene|BB014781|30963	unigene|Mm.241205|Mm.241205	mgi_symbol|Ptpla|Ptpla
+entrezgene|AF022957|11737	unigene|Mm.269088|Mm.269088	mgi_symbol|Anp32a|Anp32a
+embl|BB199787|BB199787	unigene|Mm.471437|Mm.471437
+embl|AF220142|AF220142
+refseq_dna|NM_019795|NM_019795	unigene|Mm.402409|Mm.402409	mgi_symbol|Dnajc7|Dnajc7
+refseq_dna|NM_026418|NM_026418	unigene|Mm.18635|Mm.18635	mgi_symbol|Rgs10|Rgs10
+entrezgene|BC026795|69263	unigene|Mm.12553|Mm.12553	mgi_symbol|Rfc3|Rfc3
+refseq_dna|NM_010760|NM_010760	unigene|Mm.808|Mm.808	mgi_symbol|Magoh|Magoh
+entrezgene|BC011218|109901	unigene|Mm.2131|Mm.2131	mgi_symbol|Ela1|Ela1
+entrezgene|AW554405|52668	unigene|Mm.2121|Mm.2121	mgi_symbol|Ifi27l1|Ifi27l1
+entrezgene|BG072418|14000	unigene|Mm.293142|Mm.293142	mgi_symbol|Rnasen|Rnasen
+entrezgene|BC003830|14958	unigene|Mm.24350|Mm.24350	mgi_symbol|H1f0|H1f0
+entrezgene|AK012340|67824	unigene|Mm.372705|Mm.372705	mgi_symbol|Nmral1|Nmral1
+refseq_dna|NM_008894|NM_008894	unigene|Mm.35788|Mm.35788	mgi_symbol|Pold2|Pold2
+embl|BB724741|BB724741
+entrezgene|AK004595|22169	unigene|Mm.271839|Mm.271839	mgi_symbol|Cmpk2|Cmpk2
+refseq_dna|NM_139063|NM_139063	unigene|Mm.261554|Mm.261554	mgi_symbol|Muted|Muted
+entrezgene|BM118654|74670	unigene|Mm.26540|Mm.26540	mgi_symbol|4930432O21Rik|4930432O21Rik
+entrezgene|AF302653|65973	unigene|Mm.222206|Mm.222206	mgi_symbol|Asph|Asph
+entrezgene|BB469322|56403	unigene|Mm.260545|Mm.260545	mgi_symbol|Syncrip|Syncrip
+entrezgene|BI903760|67711	unigene|Mm.4467|Mm.4467	mgi_symbol|Nsmce1|Nsmce1
+entrezgene|BB283676|80890	unigene|Mm.44876|Mm.44876	mgi_symbol|Trim2|Trim2
+entrezgene|AW540162|109331	unigene|Mm.24765|Mm.24765	mgi_symbol|Rnf20|Rnf20
+refseq_dna|NM_023422|NM_023422	unigene|Mm.261676|Mm.261676	mgi_symbol|Hist1h2bc|Hist1h2bc
+embl|AV292968|AV292968
+entrezgene|AK008404|109552	unigene|Mm.96211|Mm.96211	mgi_symbol|Sri|Sri
+refseq_dna|NM_013663|NM_013663	unigene|Mm.6787|Mm.6787	mgi_symbol|Sfrs3|Sfrs3
+refseq_dna|NM_010448|NM_010448	unigene|Mm.280842|Mm.280842	mgi_symbol|Hnrnpab|Hnrnpab
+entrezgene|BQ174458|16549	unigene|Mm.34296|Mm.34296	mgi_symbol|Khsrp|Khsrp
+entrezgene|BC014731|214424	unigene|Mm.31129|Mm.31129	mgi_symbol|Parp16|Parp16
+entrezgene|AW208944|67089	unigene|Mm.18472|Mm.18472	mgi_symbol|Psmc6|Psmc6
+entrezgene|BC003335|106344	unigene|Mm.386835|Mm.386835	mgi_symbol|Rfc4|Rfc4
+entrezgene|AF091101|110074	unigene|Mm.282499|Mm.282499	mgi_symbol|Dut|Dut
+embl|AW107484|AW107484	unigene|Mm.393454|Mm.393454
+entrezgene|BM119387|22350	unigene|Mm.277812|Mm.277812	mgi_symbol|Ezr|Ezr
+entrezgene|AA409562|28000	unigene|Mm.358657|Mm.358657	mgi_symbol|Prpf19|Prpf19
+refseq_dna|NM_025424|NM_025424	unigene|Mm.46444|Mm.46444	mgi_symbol|Nenf|Nenf
+entrezgene|BC011321|228889	unigene|Mm.295031|Mm.295031	mgi_symbol|Ddx27|Ddx27
+refseq_dna|NM_011694|NM_011694	unigene|Mm.3555|Mm.3555	mgi_symbol|Vdac1|Vdac1
+entrezgene|BB278418|94219	unigene|Mm.306903|Mm.306903	mgi_symbol|Cnnm2|Cnnm2
+embl|AV339366|AV339366
+entrezgene|AK011367|70533	unigene|Mm.379178|Mm.379178	mgi_symbol|Btf3l4|Btf3l4
+entrezgene|AB067534|246727	unigene|Mm.204887|Mm.204887	mgi_symbol|Oas3|Oas3
+entrezgene|BC016273|69305	unigene|Mm.229110|Mm.229110	mgi_symbol|Dcps|Dcps
+embl|BB138434|BB138434
+entrezgene|BF124540|13007	unigene|Mm.196484|Mm.196484	mgi_symbol|Csrp1|Csrp1
+entrezgene|BC004070|28000	unigene|Mm.358657|Mm.358657	mgi_symbol|Prpf19|Prpf19
+refseq_dna|NM_026632|NM_026632	unigene|Mm.29073|Mm.29073	mgi_symbol|Rpa3|Rpa3
+refseq_dna|NM_009226|NM_009226	unigene|Mm.603|Mm.603	mgi_symbol|Snrpd1|Snrpd1
+entrezgene|BB529913|12014	unigene|Mm.431426|Mm.431426	mgi_symbol|Bach2|Bach2
+entrezgene|BF682223|22234	unigene|Mm.198803|Mm.198803	mgi_symbol|Ugcg|Ugcg
+refseq_dna|NM_133684|NM_133684	unigene|Mm.177724|Mm.177724	mgi_symbol|Mosc2|Mosc2
+entrezgene|AK003990|68653	unigene|Mm.290725|Mm.290725	mgi_symbol|Samm50|Samm50
+refseq_dna|NM_026506|NM_026506	unigene|Mm.276802|Mm.276802	mgi_symbol|Snrpg|Snrpg
+embl|BB611004|BB611004	unigene|Mm.474937|Mm.474937
+refseq_dna|NM_016772|NM_016772	unigene|Mm.291776|Mm.291776	mgi_symbol|Ech1|Ech1
+refseq_dna|NM_019673|NM_019673	unigene|Mm.41077|Mm.41077	mgi_symbol|Actl6a|Actl6a
+embl|BB795103|BB795103	unigene|Mm.393454|Mm.393454
+entrezgene|AF204156|27756	unigene|Mm.165735|Mm.165735	mgi_symbol|Lsm2|Lsm2
+entrezgene|BF319868|14827	unigene|Mm.263177|Mm.263177	mgi_symbol|Pdia3|Pdia3
+entrezgene|BF228243|230514	unigene|Mm.4756|Mm.4756	mgi_symbol|Leprot|Leprot
+entrezgene|BG066664|108101	unigene|Mm.157591|Mm.157591	mgi_symbol|Fermt3|Fermt3
+refseq_dna|NM_026506|NM_026506	unigene|Mm.276802|Mm.276802	mgi_symbol|Snrpg|Snrpg
+entrezgene|BM120662|108062	unigene|Mm.67938|Mm.67938	mgi_symbol|Cstf2|Cstf2
+entrezgene|AK004632|74105	unigene|Mm.29619|Mm.29619	mgi_symbol|Gga2|Gga2
+entrezgene|AV296905|23942	unigene|Mm.25339|Mm.25339	mgi_symbol|Mta2|Mta2
+entrezgene|AA756810|16430	unigene|Mm.2863|Mm.2863	mgi_symbol|Stt3a|Stt3a
+entrezgene|BB183081|14580	unigene|Mm.1239|Mm.1239	mgi_symbol|Gfap|Gfap
+entrezgene|BC020080|68487	unigene|Mm.248440|Mm.248440	mgi_symbol|Tmem140|Tmem140
+entrezgene|AK006541|433256	unigene|Mm.292056|Mm.292056	mgi_symbol|Acsl5|Acsl5
+entrezgene|BC005704|57896	unigene|Mm.250569|Mm.250569	mgi_symbol|Krcc1|Krcc1
+entrezgene|BB311524|22698	unigene|Mm.127646|Mm.127646	mgi_symbol|Zfp39|Zfp39
+entrezgene|BC009141|75062	unigene|Mm.25779|Mm.25779	mgi_symbol|Sf3a3|Sf3a3
+entrezgene|BM239527|51786	unigene|Mm.716|Mm.716	mgi_symbol|Cpsf2|Cpsf2
+refseq_dna|NM_026312|NM_026312	unigene|Mm.273405|Mm.273405	mgi_symbol|2610029G23Rik|2610029G23Rik
+entrezgene|BB807707|66109	unigene|Mm.254663|Mm.254663	mgi_symbol|Tspan13|Tspan13
+refseq_dna|NM_019484|NM_019484	unigene|Mm.389208|Mm.389208	mgi_symbol|Refbp2|Refbp2
+refseq_dna|NM_025573|NM_025573	unigene|Mm.287826|Mm.287826	mgi_symbol|Sfrs9|Sfrs9
+refseq_dna|NM_053161|NM_053161	unigene|Mm.34951|Mm.34951	mgi_symbol|Mrpl27|Mrpl27
+entrezgene|AK017673|68026	unigene|Mm.351273|Mm.351273	mgi_symbol|2810417H13Rik|2810417H13Rik
+entrezgene|AV328340|19106	unigene|Mm.378990|Mm.378990	mgi_symbol|Eif2ak2|Eif2ak2
+entrezgene|AV225029|66676	unigene|Mm.296043|Mm.296043	mgi_symbol|Tmed7|Tmed7
+refseq_dna|NM_021793|NM_021793	unigene|Mm.304656|Mm.304656	mgi_symbol|Tmem8|Tmem8
+entrezgene|BC024400|225745	unigene|Mm.39293|Mm.39293	mgi_symbol|Ccdc5|Ccdc5
+refseq_dna|NM_025319|NM_025319	unigene|Mm.35693|Mm.35693	mgi_symbol|0610009B22Rik|0610009B22Rik
+entrezgene|BC003914|58875	unigene|Mm.286458|Mm.286458	mgi_symbol|Hibadh|Hibadh
+refseq_dna|NM_133655|NM_133655	unigene|Mm.806|Mm.806	mgi_symbol|Cd81|Cd81
+embl|BF580235|BF580235
+refseq_dna|NM_029571|NM_029571	unigene|Mm.440007|Mm.440007	mgi_symbol|Kti12|Kti12
+refseq_dna|NM_133744|NM_133744	unigene|Mm.478066|Mm.478066	mgi_symbol|Ccdc71|Ccdc71
+refseq_dna|NM_029397|NM_029397	unigene|Mm.27660|Mm.27660	mgi_symbol|Rbm12|Rbm12
+entrezgene|BG070487|110446	unigene|Mm.293233|Mm.293233	mgi_symbol|Acat1|Acat1
+entrezgene|BC012260|228769	unigene|Mm.146984|Mm.146984	mgi_symbol|Psmf1|Psmf1
+entrezgene|BC004739|213211	unigene|Mm.472711|Mm.472711	mgi_symbol|Rnf26|Rnf26
+refseq_dna|NM_133676|NM_133676	unigene|Mm.274791|Mm.274791	mgi_symbol|Osgep|Osgep
+entrezgene|BC005598|98221	unigene|Mm.379278|Mm.379278	mgi_symbol|Eif3m|Eif3m
+refseq_dna|NM_026086|NM_026086	unigene|Mm.120911|Mm.120911	mgi_symbol|4930519N13Rik|4930519N13Rik
+entrezgene|BC024693|67199	unigene|Mm.30184|Mm.30184	mgi_symbol|Pfdn1|Pfdn1
+refseq_dna|NM_007531|NM_007531	unigene|Mm.36241|Mm.36241	mgi_symbol|Phb2|Phb2
+entrezgene|AK014889|65111	unigene|Mm.29028|Mm.29028	mgi_symbol|Dap3|Dap3
+entrezgene|BC013545|26370	unigene|Mm.24643|Mm.24643	mgi_symbol|Cetn2|Cetn2
+refseq_dna|NM_010247|NM_010247	unigene|Mm.288809|Mm.288809	mgi_symbol|Xrcc6|Xrcc6
+refseq_dna|NM_024220|NM_024220	unigene|Mm.334031|Mm.334031	mgi_symbol|Ndufc2|Ndufc2
+refseq_dna|NM_008229|NM_008229	unigene|Mm.19806|Mm.19806	mgi_symbol|Hdac2|Hdac2
+refseq_dna|NM_011189|NM_011189	unigene|Mm.830|Mm.830	mgi_symbol|Psme1|Psme1
+refseq_dna|NM_026635|NM_026635	unigene|Mm.27107|Mm.27107	mgi_symbol|Fam96a|Fam96a
+entrezgene|BC027370|338349	unigene|Mm.440562|Mm.440562	mgi_symbol|Cntln|Cntln
+entrezgene|BC002240|66310	unigene|Mm.28536|Mm.28536	mgi_symbol|Dpy30|Dpy30
+entrezgene|BB747462|68059	unigene|Mm.275191|Mm.275191	mgi_symbol|Tm9sf2|Tm9sf2
+refseq_dna|NM_138745|NM_138745	unigene|Mm.29584|Mm.29584	mgi_symbol|Mthfd1|Mthfd1
+entrezgene|BF787384|66223	unigene|Mm.28579|Mm.28579	mgi_symbol|Mrpl35|Mrpl35
+entrezgene|AK014330|107435	unigene|Mm.272472|Mm.272472	mgi_symbol|Hat1|Hat1
+embl|AK005498|AK005498
+embl|BM227771|BM227771	unigene|Mm.458563|Mm.458563
+refseq_dna|NM_008188|NM_008188	unigene|Mm.781|Mm.781	mgi_symbol|Thumpd3|Thumpd3
+embl|BG073415|BG073415	unigene|Mm.405067|Mm.405067
+entrezgene|BG070689|110959	unigene|Mm.410206|Mm.410206	mgi_symbol|Nudt19|Nudt19
+refseq_dna|NM_134138|NM_134138	unigene|Mm.150701|Mm.150701	mgi_symbol|Psmg2|Psmg2
+refseq_dna|NM_019685|NM_019685	unigene|Mm.42195|Mm.42195	mgi_symbol|Ruvbl1|Ruvbl1
+entrezgene|BC005632|216169	unigene|Mm.29802|Mm.29802	mgi_symbol|Fam108a|Fam108a
+refseq_dna|NM_025380|NM_025380	unigene|Mm.477755|Mm.477755	mgi_symbol|Eef1e1|Eef1e1
+entrezgene|BB071632|13877	unigene|Mm.378913|Mm.378913	mgi_symbol|Erh|Erh
+entrezgene|BI413749|216169	unigene|Mm.29802|Mm.29802	mgi_symbol|Fam108a|Fam108a
+entrezgene|BG065061|232087	unigene|Mm.29815|Mm.29815	mgi_symbol|Mat2a|Mat2a
+refseq_dna|NM_019708|NM_019708	unigene|Mm.246911|Mm.246911	mgi_symbol|Scoc|Scoc
+entrezgene|BI901126|11692	unigene|Mm.28124|Mm.28124	mgi_symbol|Gfer|Gfer
+refseq_dna|NM_011150|NM_011150	unigene|Mm.3152|Mm.3152	mgi_symbol|Lgals3bp|Lgals3bp
+refseq_dna|NM_016763|NM_016763	unigene|Mm.6994|Mm.6994	mgi_symbol|Hsd17b10|Hsd17b10
+refseq_dna|NM_026000|NM_026000	unigene|Mm.278997|Mm.278997	mgi_symbol|Psmd9|Psmd9
+entrezgene|AF068749|20698	unigene|Mm.20944|Mm.20944	mgi_symbol|Sphk1|Sphk1
+entrezgene|BF322051|68999	unigene|Mm.257445|Mm.257445	mgi_symbol|Anapc10|Anapc10
+entrezgene|AV297071|18114	unigene|Mm.38344|Mm.38344	mgi_symbol|Rrp1|Rrp1
+refseq_dna|NM_025520|NM_025520	unigene|Mm.25642|Mm.25642	mgi_symbol|Lsm5|Lsm5
+refseq_dna|NM_008613|NM_008613	unigene|Mm.387671|Mm.387671	mgi_symbol|Mns1|Mns1
+refseq_dna|NM_015751|NM_015751	unigene|Mm.5831|Mm.5831	mgi_symbol|Abce1|Abce1
+refseq_dna|NM_013929|NM_013929	unigene|Mm.289812|Mm.289812	mgi_symbol|Siva1|Siva1
+entrezgene|BB783243|66359	unigene|Mm.86589|Mm.86589	mgi_symbol|2310005N03Rik|2310005N03Rik
+entrezgene|BC013777|68981	unigene|Mm.413078|Mm.413078	mgi_symbol|Snrpa1|Snrpa1
+entrezgene|BC004578|19891	unigene|Mm.2870|Mm.2870	mgi_symbol|Rpa2|Rpa2
+refseq_dna|NM_030695|NM_030695	unigene|Mm.439825|Mm.439825	mgi_symbol|Lrba|Lrba
+entrezgene|AK015136|67723	unigene|Mm.116284|Mm.116284	mgi_symbol|4932415G12Rik|4932415G12Rik
+refseq_dna|NM_007530|NM_007530	unigene|Mm.242379|Mm.242379	mgi_symbol|Bcap29|Bcap29
+entrezgene|AY034062|71514	unigene|Mm.257276|Mm.257276	mgi_symbol|Sfpq|Sfpq
+refseq_dna|NM_009156|NM_009156	unigene|Mm.42829|Mm.42829	mgi_symbol|Sepw1|Sepw1
+refseq_dna|NM_134024|NM_134024	unigene|Mm.142348|Mm.142348	mgi_symbol|Tubg1|Tubg1
+refseq_dna|NM_027141|NM_027141	unigene|Mm.274794|Mm.274794	mgi_symbol|Spsb3|Spsb3
+entrezgene|BB315728|18032	unigene|Mm.9394|Mm.9394	mgi_symbol|Nfix|Nfix
+entrezgene|BQ174458|16549	unigene|Mm.34296|Mm.34296	mgi_symbol|Khsrp|Khsrp
+refseq_dna|NM_009746|NM_009746	unigene|Mm.89667|Mm.89667	mgi_symbol|Bcl7c|Bcl7c
+entrezgene|BB523428|57373	unigene|Mm.334138|Mm.334138	mgi_symbol|D930014E17Rik|D930014E17Rik
+entrezgene|U48737|19134	unigene|Mm.10027|Mm.10027	mgi_symbol|Prpf4b|Prpf4b
+refseq_dna|NM_009514|NM_009514	unigene|Mm.333851|Mm.333851	mgi_symbol|Vpreb3|Vpreb3
+entrezgene|AY075132|71586	unigene|Mm.136224|Mm.136224	mgi_symbol|Ifih1|Ifih1
+entrezgene|BF228243|230514	unigene|Mm.4756|Mm.4756	mgi_symbol|Leprot|Leprot
+refseq_dna|NM_025321|NM_025321	unigene|Mm.198138|Mm.198138	mgi_symbol|Pcp4l1|Pcp4l1
+entrezgene|BG070487|110446	unigene|Mm.293233|Mm.293233	mgi_symbol|Acat1|Acat1
+embl|BC006028|BC006028
+refseq_dna|NM_025419|NM_025419	unigene|Mm.268307|Mm.268307	mgi_symbol|1110059G10Rik|1110059G10Rik
+entrezgene|AY007382|66350	unigene|Mm.151951|Mm.151951	mgi_symbol|Pla2g12a|Pla2g12a
+entrezgene|BI655075|52668	unigene|Mm.2121|Mm.2121	mgi_symbol|Ifi27l1|Ifi27l1
+refseq_dna|NM_008330|NM_008330	unigene|Mm.24769|Mm.24769	mgi_symbol|Olfr56|Olfr56
+refseq_dna|NM_010256|NM_010256	unigene|Mm.4505|Mm.4505	mgi_symbol|Gart|Gart
+entrezgene|BC010826|70186	unigene|Mm.212991|Mm.212991	mgi_symbol|Fam162a|Fam162a
+entrezgene|BI905689|68342	unigene|Mm.1129|Mm.1129	mgi_symbol|Ndufb10|Ndufb10
+embl|AV223474|AV223474
+embl|BE370775|BE370775
+entrezgene|BC006809|29858	unigene|Mm.18939|Mm.18939	mgi_symbol|Pmm1|Pmm1
+refseq_dna|NM_020022|NM_020022	unigene|Mm.332739|Mm.332739	mgi_symbol|Rfc2|Rfc2
+refseq_dna|NM_030082|NM_030082	unigene|Mm.28022|Mm.28022	mgi_symbol|Hist3h2ba|Hist3h2ba
+entrezgene|AK013131|69956	unigene|Mm.30256|Mm.30256	mgi_symbol|Ptcd3|Ptcd3
+refseq_dna|NM_011956|NM_011956	unigene|Mm.36718|Mm.36718	mgi_symbol|Nubp2|Nubp2
+entrezgene|BI525140|18810	unigene|Mm.373750|Mm.373750	mgi_symbol|Plec1|Plec1
+embl|BB818311|BB818311	unigene|Mm.435639|Mm.435639
+refseq_dna|NM_009547|NM_009547	unigene|Mm.29434|Mm.29434	mgi_symbol|Zfp161|Zfp161
+refseq_dna|NM_023431|NM_023431	unigene|Mm.273418|Mm.273418	mgi_symbol|Mum1|Mum1
+refseq_dna|NM_008095|NM_008095	unigene|Mm.12468|Mm.12468	mgi_symbol|Gbas|Gbas
+entrezgene|BI246587|64659	unigene|Mm.29599|Mm.29599	mgi_symbol|Mrps14|Mrps14
+entrezgene|AK013287|72117	unigene|Mm.278726|Mm.278726	mgi_symbol|Nat13|Nat13
+entrezgene|AI510077|71902	unigene|Mm.203965|Mm.203965	mgi_symbol|Cand1|Cand1
+entrezgene|AK011546|67440	unigene|Mm.49826|Mm.49826	mgi_symbol|Mtpap|Mtpap
+entrezgene|AW060738|70078	unigene|Mm.439927|Mm.439927	mgi_symbol|Nol7|Nol7
+refseq_dna|NM_023331|NM_023331	unigene|Mm.193181|Mm.193181	mgi_symbol|Mrpl46|Mrpl46
+refseq_dna|NM_029787|NM_029787	unigene|Mm.22560|Mm.22560	mgi_symbol|Cyb5r3|Cyb5r3
+entrezgene|BC003288|28088	unigene|Mm.9257|Mm.9257	mgi_symbol|D10Wsu52e|D10Wsu52e
+entrezgene|BM119407|11306	unigene|Mm.426128|Mm.426128	mgi_symbol|Abcb7|Abcb7
+entrezgene|BI080799|69878	unigene|Mm.259642|Mm.259642	mgi_symbol|Snrpf|Snrpf
+entrezgene|BC025501|223921	unigene|Mm.352946|Mm.352946	mgi_symbol|Aaas|Aaas
+entrezgene|AF176524|30841	unigene|Mm.86406|Mm.86406	mgi_symbol|Kdm2b|Kdm2b
+entrezgene|AB026997|12380	unigene|Mm.29163|Mm.29163	mgi_symbol|Cast|Cast
+entrezgene|BC024945|68115	unigene|Mm.275428|Mm.275428	mgi_symbol|9430016H08Rik|9430016H08Rik
+refseq_dna|NM_013908|NM_013908	unigene|Mm.29170|Mm.29170	mgi_symbol|Fbxw5|Fbxw5
+entrezgene|AK016023|66569	unigene|Mm.477731|Mm.477731	mgi_symbol|Gdpd1|Gdpd1
+refseq_dna|NM_008801|NM_008801	unigene|Mm.12925|Mm.12925	mgi_symbol|Pde6d|Pde6d
+embl|BF158817|BF158817	unigene|Mm.397554|Mm.397554
+refseq_dna|NM_025358|NM_025358	unigene|Mm.29939|Mm.29939	mgi_symbol|Ndufa9|Ndufa9
+entrezgene|AK004129|26371	unigene|Mm.45179|Mm.45179	mgi_symbol|Ciao1|Ciao1
+entrezgene|BB667651|18770	unigene|Mm.383180|Mm.383180	mgi_symbol|Pklr|Pklr
+entrezgene|AK020708|106529	unigene|Mm.352239|Mm.352239	mgi_symbol|Gpsn2|Gpsn2
+refseq_dna|NM_010360|NM_010360	unigene|Mm.282351|Mm.282351	mgi_symbol|Gstm5|Gstm5
+entrezgene|BG064779|328099	unigene|Mm.268180|Mm.268180	mgi_symbol|AU021838|AU021838
+entrezgene|AA920031|68051	unigene|Mm.269188|Mm.269188	mgi_symbol|Nutf2|Nutf2
+embl|BM210281|BM210281	unigene|Mm.153159|Mm.153159
+entrezgene|AK007572|72881	unigene|Mm.261606|Mm.261606	mgi_symbol|Zdhhc4|Zdhhc4
+refseq_dna|NM_134040|NM_134040	unigene|Mm.251255|Mm.251255	mgi_symbol|Ddx1|Ddx1
+refseq_dna|NM_010874|NM_010874	unigene|Mm.4695|Mm.4695	mgi_symbol|Nat2|Nat2
+entrezgene|BC002162|12626	unigene|Mm.12481|Mm.12481	mgi_symbol|Cetn3|Cetn3
+entrezgene|BI078449|66624	unigene|Mm.30043|Mm.30043	mgi_symbol|Spcs2|Spcs2
+entrezgene|BF453953|66311	unigene|Mm.251779|Mm.251779	mgi_symbol|2610036L11Rik|2610036L11Rik
+embl|BF158817|BF158817	unigene|Mm.397554|Mm.397554
+entrezgene|AV135835|18949	unigene|Mm.22347|Mm.22347	mgi_symbol|Pnn|Pnn
+entrezgene|U00431|15289	unigene|Mm.313345|Mm.313345	mgi_symbol|Hmgb1|Hmgb1
+entrezgene|BC025116|56222	unigene|Mm.272646|Mm.272646	mgi_symbol|Cited4|Cited4
+refseq_dna|NM_008253|NM_008253	unigene|Mm.336087|Mm.336087	mgi_symbol|Hmgb3|Hmgb3
+entrezgene|U31934|22196	unigene|Mm.384234|Mm.384234	mgi_symbol|Ube2i|Ube2i
+refseq_dna|NM_023136|NM_023136	unigene|Mm.250332|Mm.250332	mgi_symbol|Dtymk|Dtymk
+entrezgene|BG067031|74838	unigene|Mm.275281|Mm.275281	mgi_symbol|Narg1|Narg1
+entrezgene|AK010292|69724	unigene|Mm.182470|Mm.182470	mgi_symbol|Rnaseh2a|Rnaseh2a
+refseq_dna|NM_007838|NM_007838	unigene|Mm.7236|Mm.7236	mgi_symbol|Ddost|Ddost
+entrezgene|AF098949|12850	unigene|Mm.20634|Mm.20634	mgi_symbol|Coq7|Coq7
+entrezgene|AK017830|74330	unigene|Mm.296915|Mm.296915	mgi_symbol|Dnajc14|Dnajc14
+entrezgene|BC011114|17992	unigene|Mm.477723|Mm.477723	mgi_symbol|Ndufa4|Ndufa4
+entrezgene|M25487|319188	unigene|Mm.264645|Mm.264645	mgi_symbol|Hist1h2bp|Hist1h2bp
+entrezgene|AW553435|381314	unigene|Mm.331142|Mm.331142	mgi_symbol|Iars2|Iars2
+entrezgene|AK019868|78929	unigene|Mm.215115|Mm.215115	mgi_symbol|Polr3h|Polr3h
+entrezgene|BI658327|17215	unigene|Mm.4502|Mm.4502	mgi_symbol|Mcm3|Mcm3
+refseq_dna|NM_026533|NM_026533	unigene|Mm.14798|Mm.14798	mgi_symbol|Rps13|Rps13
+refseq_dna|NM_026503|NM_026503	unigene|Mm.250424|Mm.250424	mgi_symbol|1110058L19Rik|1110058L19Rik
+entrezgene|AF356874|68917	unigene|Mm.25285|Mm.25285	mgi_symbol|Hint2|Hint2
+refseq_dna|NM_008303|NM_008303	unigene|Mm.215667|Mm.215667	mgi_symbol|Hspe1|Hspe1
+entrezgene|BB230296|12238	unigene|Mm.249586|Mm.249586	mgi_symbol|Commd3|Commd3
+entrezgene|BB729616|55989	unigene|Mm.220367|Mm.220367	mgi_symbol|Nop58|Nop58
+refseq_dna|NM_018762|NM_018762	unigene|Mm.12897|Mm.12897	mgi_symbol|Gp9|Gp9
+entrezgene|AA409562|28000	unigene|Mm.358657|Mm.358657	mgi_symbol|Prpf19|Prpf19
+entrezgene|BC016676|22367	unigene|Mm.2981|Mm.2981	mgi_symbol|Vrk1|Vrk1
+entrezgene|M33934|23918	unigene|Mm.6065|Mm.6065	mgi_symbol|Impdh2|Impdh2
+embl|BB429200|BB429200	unigene|Mm.470916|Mm.470916
+entrezgene|AK013962|66925	unigene|Mm.10406|Mm.10406	mgi_symbol|Sdhd|Sdhd
+entrezgene|AK007703|27410	unigene|Mm.477776|Mm.477776	mgi_symbol|Abca3|Abca3
+entrezgene|AW553381|109284	unigene|Mm.300416|Mm.300416	mgi_symbol|C030046I01Rik|C030046I01Rik
+entrezgene|BI692577|72900	unigene|Mm.2206|Mm.2206	mgi_symbol|Ndufv2|Ndufv2
+entrezgene|BB174377|216792	unigene|Mm.266175|Mm.266175	mgi_symbol|A230051G13Rik|A230051G13Rik
+refseq_dna|NM_007422|NM_007422	unigene|Mm.338021|Mm.338021	mgi_symbol|Adss|Adss
+entrezgene|AF316999|80861	unigene|Mm.271830|Mm.271830	mgi_symbol|Dhx58|Dhx58
+entrezgene|AI480598|108067	unigene|Mm.34612|Mm.34612	mgi_symbol|Eif2b3|Eif2b3
+refseq_dna|NM_027139|NM_027139	unigene|Mm.301148|Mm.301148	mgi_symbol|Taf9|Taf9
+entrezgene|AK013709|15384	unigene|Mm.280842|Mm.280842	mgi_symbol|Hnrnpab|Hnrnpab
+entrezgene|AV158882|18104	unigene|Mm.252|Mm.252	mgi_symbol|Nqo1|Nqo1
+entrezgene|AK002873|68020	unigene|Mm.425762|Mm.425762	mgi_symbol|2810002N01Rik|2810002N01Rik
+entrezgene|BF468377|224705	unigene|Mm.296044|Mm.296044	mgi_symbol|Vps52|Vps52
+entrezgene|BC007472|19205	unigene|Mm.265610|Mm.265610	mgi_symbol|Ptbp1|Ptbp1
+embl|BG919982|BG919982	unigene|Mm.474025|Mm.474025
+embl|AK003393|AK003393
+refseq_dna|NM_019953|NM_019953	unigene|Mm.44220|Mm.44220	mgi_symbol|Cnpy2|Cnpy2
+entrezgene|BB787147|66904	unigene|Mm.335385|Mm.335385	mgi_symbol|Pccb|Pccb
+entrezgene|BB406585|72055	unigene|Mm.253403|Mm.253403	mgi_symbol|Slc38a10|Slc38a10
+refseq_dna|NM_009041|NM_009041	unigene|Mm.245746|Mm.245746	mgi_symbol|Rdx|Rdx
+entrezgene|BB494388|223722	unigene|Mm.37560|Mm.37560	mgi_symbol|Mcat|Mcat
+entrezgene|BC006960|67804	unigene|Mm.252171|Mm.252171	mgi_symbol|Snx2|Snx2
+entrezgene|BC024615|73737	unigene|Mm.27608|Mm.27608	mgi_symbol|1110008P14Rik|1110008P14Rik
+entrezgene|BG066125|26441	unigene|Mm.30270|Mm.30270	mgi_symbol|Psma4|Psma4
+refseq_dna|NM_133991|NM_133991	unigene|Mm.327529|Mm.327529	mgi_symbol|Ftsj1|Ftsj1
+refseq_dna|NM_013715|NM_013715	unigene|Mm.402384|Mm.402384	mgi_symbol|Cops5|Cops5
+entrezgene|BI408935|66525	unigene|Mm.167913|Mm.167913	mgi_symbol|Timm50|Timm50
+entrezgene|AK006658|73327	unigene|Mm.379221|Mm.379221	mgi_symbol|1700040I03Rik|1700040I03Rik
+refseq_dna|NM_026310|NM_026310	unigene|Mm.290166|Mm.290166	mgi_symbol|Mrpl18|Mrpl18
+entrezgene|BB043703|227102	unigene|Mm.212846|Mm.212846	mgi_symbol|Ormdl1|Ormdl1
+entrezgene|BM119274|12848	unigene|Mm.3596|Mm.3596	mgi_symbol|Cops2|Cops2
+entrezgene|BM213850|70769	unigene|Mm.402190|Mm.402190	mgi_symbol|Nolc1|Nolc1
+entrezgene|AB049633|94062	unigene|Mm.29746|Mm.29746	mgi_symbol|Mrpl3|Mrpl3
+embl|AK005233|AK005233
+refseq_dna|NM_053092|NM_053092	unigene|Mm.196544|Mm.196544	mgi_symbol|Kars|Kars
+refseq_dna|NM_007636|NM_007636	unigene|Mm.247788|Mm.247788	mgi_symbol|Cct2|Cct2
+refseq_dna|NM_133981|NM_133981	unigene|Mm.160035|Mm.160035	mgi_symbol|Alg9|Alg9
+entrezgene|AK005025|58184	unigene|Mm.291708|Mm.291708	mgi_symbol|Rqcd1|Rqcd1
+refseq_dna|NM_015765|NM_015765	unigene|Mm.89341|Mm.89341	mgi_symbol|Hspa14|Hspa14
+refseq_dna|NM_019767|NM_019767	unigene|Mm.371610|Mm.371610	mgi_symbol|Arpc1a|Arpc1a
+entrezgene|BM120802|69882	unigene|Mm.272616|Mm.272616	mgi_symbol|2010321M09Rik|2010321M09Rik
+entrezgene|BF134272|56086	unigene|Mm.335942|Mm.335942	mgi_symbol|Set|Set
+entrezgene|BB497590|66925	unigene|Mm.10406|Mm.10406	mgi_symbol|Sdhd|Sdhd
+entrezgene|BC012404|19302	unigene|Mm.132336|Mm.132336	mgi_symbol|Pxmp3|Pxmp3
+entrezgene|BC012707|14872	unigene|Mm.24118|Mm.24118	mgi_symbol|Gstt2|Gstt2
+entrezgene|AK002902|67952	unigene|Mm.380026|Mm.380026	mgi_symbol|Tomm20|Tomm20
+entrezgene|BE984258|107976	unigene|Mm.249822|Mm.249822	mgi_symbol|Bre|Bre
+entrezgene|AW556558|672511	unigene|Mm.133342|Mm.133342	mgi_symbol|Rnf213|Rnf213

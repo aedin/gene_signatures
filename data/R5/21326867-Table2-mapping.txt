@@ -1,0 +1,33 @@
+# Generate Mapping Tables Script: Version 4 11:07 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:07 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+refseq_dna|NM_134126|NM_134126	unigene|Mm.32802|Mm.32802	mgi_symbol|Ift140|Ift140
+refseq_dna|NM_021301|NM_021301	unigene|Mm.281804|Mm.281804	mgi_symbol|Slc15a2|Slc15a2
+embl|AW493533|AW493533	unigene|Mm.441111|Mm.441111
+entrezgene|AK004898|74154	unigene|Mm.267353|Mm.267353	mgi_symbol|Unkl|Unkl
+refseq_dna|NM_011921|NM_011921	unigene|Mm.14609|Mm.14609	mgi_symbol|Aldh1a7|Aldh1a7
+embl|BG297038|BG297038
+embl|BB251922|BB251922
+refseq_dna|NM_007655|NM_007655	unigene|Mm.1355|Mm.1355	mgi_symbol|Cd79a|Cd79a
+refseq_dna|NM_009870|NM_009870	unigene|Mm.6839|Mm.6839	mgi_symbol|Cdk4|Cdk4
+entrezgene|BM244106|272382	unigene|Mm.8012|Mm.8012	mgi_symbol|Spib|Spib
+refseq_dna|NM_019414|NM_019414	unigene|Mm.225405|Mm.225405	mgi_symbol|Selenbp2|Selenbp2
+refseq_dna|NM_009127|NM_009127	unigene|Mm.267377|Mm.267377	mgi_symbol|Scd1|Scd1
+refseq_dna|NM_008339|NM_008339	unigene|Mm.2987|Mm.2987	mgi_symbol|Cd79b|Cd79b
+refseq_dna|NM_011579|NM_011579	unigene|Mm.15793|Mm.15793	mgi_symbol|Tgtp|Tgtp
+embl|BB534670|BB534670	unigene|Mm.406799|Mm.406799
+entrezgene|M58045|12799	unigene|Mm.15711|Mm.15711	mgi_symbol|Cnp|Cnp
+refseq_dna|NM_008251|NM_008251	unigene|Mm.2756|Mm.2756	mgi_symbol|Hmgn1|Hmgn1
+entrezgene|U42190|17688	unigene|Mm.18210|Mm.18210	mgi_symbol|Msh6|Msh6
+entrezgene|BC011223|12346	unigene|Mm.273195|Mm.273195	mgi_symbol|Car1|Car1
+refseq_dna|NM_008331|NM_008331	unigene|Mm.439751|Mm.439751	mgi_symbol|Ifit1|Ifit1
+entrezgene|BI144310|72931	unigene|Mm.27344|Mm.27344	mgi_symbol|2900010J23Rik|2900010J23Rik
+refseq_dna|NM_026325|NM_026325	unigene|Mm.45155|Mm.45155	mgi_symbol|Tmem179b|Tmem179b
+refseq_dna|NM_010708|NM_010708	unigene|Mm.341434|Mm.341434	mgi_symbol|Lgals9|Lgals9
+refseq_dna|NM_007573|NM_007573	unigene|Mm.30049|Mm.30049	mgi_symbol|C1qbp|C1qbp
+refseq_dna|NM_026125|NM_026125	unigene|Mm.29140|Mm.29140	mgi_symbol|Fam132a|Fam132a
+entrezgene|BB755506|243912	unigene|Mm.34885|Mm.34885	mgi_symbol|Hspb6|Hspb6
+entrezgene|AV116987|52009	unigene|Mm.371601|Mm.371601	mgi_symbol|Hn1l|Hn1l

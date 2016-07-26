@@ -1,0 +1,54 @@
+Affymetrix ID	Symbol	Full name	Relative Intensity (mean+/-SEB): Scrambled siRNA	Relative Intensity (mean+/-SEB): Sp1 siRNA	Fold Change	p value	Function
+212816_s_at	CBS	Cystathionine-beta-synthase	76.97 +/- 17.94	463.1+/- 169.8	6.02	ns	Metabolism
+206643_at	HAL	Histidine ammonia-lyase	539.4 +/- 20.38	2521 +/- 140.2	4.67	P<0.01	Metabolism
+206177_s_at	ARG1	Arginase, liver	646.5 +/- 55.23	2667 +/- 348.5	4.12	P<0.05	Metabolism
+217127_at	CTH	Cystathionase (cystathionin e gamma-lyase	286.7 +/- 82.59	1056 +/- 172.6	3.68	ns	Metabolism
+211788_s_at	TREX	Three prime repair exonuclease 2	155.4 +/- 11.99	564.2+/- 31.81	3.63	P<0.001	Metabolism
+231202_at	ALDH1L2	Aldehyde dehydrogenase 1 family, member L2	21.67 +/- 4.486	85.3 +/- 28.12	3.94	ns	Metabolism
+203438_at	STC2	Stanniocalcin 2	214.9 +/- 67.02	670.8+/- 124.8	3.12	P<0.05	Metabolism
+205047_s_at	ASNS	Asparagine synthetase	873.8 +/- 224.7	2999 +/-825.5	3.43	ns	Metabolism
+238029_s_at	SLC16A14	Solute carrier family 16, member 14 (monocarboxylic acid transporter 14)	10.53 +/- 1.364	34.97+/-3.597	3.32	P<0.01	Metabolism
+208126_s_at	CYP2C18	Cytochrome P450, family 2, subfamily C, polypeptide 18	71.33 +/- 2.483	218.3+/- 15.59	3.06	P<0.001	Metabolism
+224009_x_at	DHRS9	Dehydrogenase/reductase (SDR family) member 9	390.6 +/- 16.85	1213 +/- 197.8	3.1	P<0.05	Metabolism
+208998_at	UCP2	Uncoupling protein 2 (mitochondrial, proton carrier)	955.4 +/- 2.776	196.9 +/- 17.97	-4.85	P<0.001	Metabolism
+223044_at	SLC40A1	Solute carrier family 40 (iron-regulated transporter), member 1	232.0 +/- 7.365	54.43 +/- 9.879	-4.26	P<0.001	Metabolism
+210519_s_at	NQO1	NAD(P)H dehydrogenase, quinine 1	1724 +/- 32.77	501.5 +/- 44.00	-3.43	P<0.01	Metabolism
+206561_s_at	AKR1B10	Aldo-keto reductase family 1, member B10 (aldose reductase)	563.5 +/- 35.33	171.3 +/- 18.33	-3.29	P<0.001	Metabolism
+201042_at	TGM2	Transglutaminase 2(C polypeptide, protein-glutamine-gamma-glutamyltransferase)	296.4 +/- 21.87	92.30 +/- 13.51	-3.21	P<0.001	Metabolism
+215785_s_at	CYFIP2	Cytoplasmic FMR1 interacting protein 2	71.40 +/- 3.544	275.6 +/- 22.37	3.85	P<0.001	Cell growth and apoptosis
+226492_at	SEMA6D	Sema domain, transmembrane domain(TM), and cytoplasmic domain, (semaphorin) 6D	49.83 +/- 5.912	13.20 +/- 1.464	-3.77	P<0.01	Cell growth and apoptosis
+202409_at	IGF2///INS-IGF2	Insulin-like growth factor 2 (somatomedin A)/// INS-IGF2 readthrough transcript	2082 +/- 37.40	597.7 +/- 37.49	-3.48	P<0.001	Cell growth and apoptosis
+211959_at	IGFBP5	Insulin-like growth factor binding protein 5	98.93 +/- 15.52	29.27 +/- 4.53	-3.38	P<0.05	Cell growth and apoptosis
+1552701_a_at	CARD16	Caspase recruitment domain family, member 16	320.9 +/- 26.74	89.83 +/- 8.07	-3.57	P<0.01	Cell growth and apoptosis
+205081_at	CRIP1	Cysteine-rich protein 1 (intestinal)	164.0 +/- 9.40	47.57 +/- 0.38	-3.44	P<0.001	Cell growth and apoptosis
+236265_at	SP4	Sp4 transcription factor	135.3 +/- 9.734	517.3 +/- 57.95	3.82	P<0.01	Transcription factor
+205863_at	S100A12	S100 calcium binding protein A12	101.8+/- 5.4	690.6 +/- 9.04	6.78	P<0.001	Inflammation
+220528_at	VNN3	Vanin 3	27.00 +/- 0.51	152.3 +/- 15.09	5.64	P<0.01	Inflammation
+204007_at	FCGR3B	Fc fragment of IgG, low affinity IIIb, receptor (CD16b)	36.37 +/- 4.70	242.0 +/- 42.53	6.65	P<0.01	Receptor and transmembrane protein
+221107_at	CHRNA9	Cholinergic receptor, nicotinic, alpha 9	44.60 +/- 0.70	190.7 +/- 33.45	4.27		Receptor and transmembrane protein
+228176_at	SIPR3	Sphingosine-1-phosphate receptor 3	101.8 +/- 9.18	24.30 +/- 3.24	-4.19	P<0.01	Receptor and transmembrane protein
+209173_at	AGR2	Anterior gradient homolog 2 (Xenopus laevis)	321.4 +/- 11.59	106.7 +/- 8.23	-3.01	P<0.001	Mucus secretion
+219313_at	GRAMDIC	GRAM domain containing 1C	43.00 +/- 0.15	146.1 +/- 20.22	3.4	P<0.01	Membrane protein
+229927_at	LEMD1	LEM domain containing 1	129.2 +/- 10.31	26.07 +/- 1.24	-4.96	P<0.001	Membrane protein
+232176_at	SLITRK6	SLIT and NTRK-like family, member 6	134.8 +/- 5.48	35.00 +/- 8.96	-3.85	P<0.001	Membrane protein
+228080_at	LAYN	Layilin	184.9 +/- 3.89	53.13 +/- 4.30	-3.48	P<0.001	Membrane protein
+214297_at	CSPG4	Chondroitin sulfate proteoglycan 4	182.0 +/- 6.53	55.67 +/- 12.32	-3.27	P<0.001	Membrane protein
+220090_at	CRNN	Cornulin	98.43 +/- 9.19	31.30 +/- 2.89	-3.14	P<0.01	Membrane protein
+207935_s_at	KRT13	Keratin 13	4027 +/- 154.0	515.7 +/- 108.7	-7.81	P<0.001	Epidermis development /intermediate filament
+201650_at	KRT19	Keratin 19	2149 +/- 163.7	309.4 +/- 88.33	-6.95	P<0.001	Epidermis development /intermediate filament
+204734_at	KRT15	Keratin 15	3911 +/- 155.2	1067 +/- 230.4	-3.66	P<0.001	Epidermis development /intermediate filament
+206101_at	ECM2	Extracellular matrix protein 2, female organ and adipocyte specific	56.73 +/- 12.23	253.9 +/- 71.26	4.48	ns	Extracellular matrix
+208978_at	CRIP2	Cysteine-rich protein 2	1431 +/- 52.16	455.8 +/- 65.88	-3.14	P<0.001	Extracellular matrix
+211964_at	COL4A2	Collagen, type IV, alpha 2	360.7 +/- 18.67	111.2 +/- 7.16	-3.24	P<0.001	Extracellular matrix
+202036_s_at	SFRP1	Secreted frizzled-related protein 1	178.8 +/- 44.04	55.97 +/- 6.56	-3.2	ns	Wnt signaling pathway
+204733_at	KLK6	Kallikrein-related peptidase 6	80.87 +/- 2.30	463.1 +/- 39.02	5.72	P<0.001	Serine protease
+202833_s_at	SERPINA1	Serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1	68.03 +/- 1.62	18.37 +/- 0.86	-3.7	P<0.001	Protease inhibitor
+1558212_at	FLI35024	Hypothetical LOC401491	27.97 +/- 2.97	118.4 +/- 31.6	4.23	P<0.05	Unknown function
+227410_at	FAM43A	Family with sequence similarity 43, member A	172.0 +/- 10.24	650.7 +/- 70.41	3.78	P<0.01	Unknown function
+230765_at	KIAA1239	KIAA1239	32.63 +/- 2.85	117.5 +/- 16.24	3.6	ns	Unknown function
+226905_at	FAM101B	Family with sequence similarity 101, member B	187.2 +/- 17.27	638.0 +/- 65.02	3.41	P<0.05	Unknown function
+232689_at	LOC284561	Hypothetical protein LOC284561	31.10 +/- 4.82	112.7 +/- 31.41	3.62	P<0.001	Unknown function
+1558195_at	LOC283404	Hypothetical protein LOC283404	121.2 +/- 9.83	402.8 +/- 65.64	3.32	P<0.01	Unknown function
+226723_at	CCDC23	Coiled-coil domain containing 23	299.3 +/- 9.36	908.3 +/- 69.25	3.03	P<0.01	Unknown function
+218723_s_at	C13orf15	Chromosome 13 open reading frame 15	187.6 +/- 19.75	32.73 +/- 5.55	-5.73	P<0.01	Unknown function
+236984_at	C4orf26	Chromosome 4 open reading frame 26	32.20 +/- 1.79	10.63 +/- 1.22	-3.03	P<0.01	Unknown function

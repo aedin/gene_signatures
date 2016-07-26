@@ -1,0 +1,23 @@
+# Generate Mapping Tables Script: Version 4 11:06 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:06 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+mirbase_id|hsa-miR17|hsa-miR17	hgnc_symbol|BMPR2|BMPR2
+hgnc_symbol|Smad5|Smad5	hgnc_symbol|7|7
+hgnc_symbol|Myc|Myc
+hgnc_symbol|STAT-3|STAT-3
+hgnc_symbol|E2F1-3|E2F1-3
+mirbase_id|hsa-miR-20a|hsa-miR-20a	hgnc_symbol|Osterix|Osterix
+hgnc_symbol|Frizzled-1|Frizzled-1	hgnc_symbol|4|4	hgnc_symbol|7|7
+hgnc_symbol|Myc|Myc
+hgnc_symbol|BMPR2|BMPR2
+mirbase_id|hsa-miR-106a|hsa-miR-106a	hgnc_symbol|BMPR2|BMPR2
+hgnc_symbol|RUNX2|RUNX2
+hgnc_symbol|LIF|LIF
+hgnc_symbol|STAT-3|STAT-3
+mirbase_id|hsa-miR-20b|hsa-miR-20b	hgnc_symbol|STAT-3|STAT-3
+mirbase_id|hsa-miR-125b|hsa-miR-125b	hgnc_symbol|Osterix|Osterix
+hgnc_symbol|Schnurri-2|Schnurri-2
+mirbase_id|hsa-miR-193a-3p|hsa-miR-193a-3p	hgnc_symbol|CDK6|CDK6

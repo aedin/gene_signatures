@@ -1,0 +1,36 @@
+# Generate Mapping Tables Script: Version 4 11:04 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:04 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+affy_hg_u133a|201000_at|201000_at	hgnc_symbol|AARS|AARS
+affy_hg_u133a|201327_s_at|201327_s_at	hgnc_symbol|CCT6A|CCT6A
+affy_hg_u133a|201663_s_at|201663_s_at	hgnc_symbol|SMC4|SMC4
+affy_hg_u133a|201967_at|201967_at	hgnc_symbol|RBM6|RBM6
+affy_hg_u133a|202870_s_at|202870_s_at	hgnc_symbol|CDC20|CDC20
+affy_hg_u133a|203317_at|203317_at	hgnc_symbol|PSD4|PSD4
+affy_hg_u133a|203418_at|203418_at	hgnc_symbol|CCNA2|CCNA2
+affy_hg_u133a|203428_s_at|203428_s_at	hgnc_symbol|ASF1A|ASF1A
+affy_hg_u133a|203509_at|203509_at	hgnc_symbol|SORL1|SORL1
+affy_hg_u133a|203755_at|203755_at	hgnc_symbol|BUB1B|BUB1B
+affy_hg_u133a|204510_at|204510_at	hgnc_symbol|CDC7|CDC7
+affy_hg_u133a|205339_at|205339_at	hgnc_symbol|STIL|STIL
+affy_hg_u133a|205394_at|205394_at	hgnc_symbol|CHEK1|CHEK1
+affy_hg_u133a|206364_at|206364_at	hgnc_symbol|ACOX2|ACOX2
+affy_hg_u133a|207828_s_at|207828_s_at	hgnc_symbol|CENPF|CENPF
+affy_hg_u133a|208628_s_at|208628_s_at	hgnc_symbol|YBX1|YBX1
+affy_hg_u133a|209025_s_at|209025_s_at	hgnc_symbol|SYNCRIP|SYNCRIP
+affy_hg_u133a|209608_s_at|209608_s_at	hgnc_symbol|ACAT2|ACAT2
+affy_hg_u133a|210559_s_at|210559_s_at	hgnc_symbol|CDC2|CDC2
+affy_hg_u133a|212978_at|212978_at	hgnc_symbol|LRRC8B|LRRC8B
+affy_hg_u133a|213599_at|213599_at	hgnc_symbol|OIP5|OIP5
+affy_hg_u133a|213696_s_at|213696_s_at	hgnc_symbol|MED8|MED8
+affy_hg_u133a|213876_x_at|213876_x_at	hgnc_symbol|ZRSR2|ZRSR2
+affy_hg_u133a|214188_at|214188_at	hgnc_symbol|HEXIM1|HEXIM1
+affy_hg_u133a|215371_at|215371_at	hgnc_symbol|MED27|MED27
+affy_hg_u133a|218039_at|218039_at	hgnc_symbol|NUSAP1|NUSAP1
+affy_hg_u133a|219494_at|219494_at	hgnc_symbol|RAD54B|RAD54B
+affy_hg_u133a|219918_s_at|219918_s_at	hgnc_symbol|ASPM|ASPM
+affy_hg_u133a|221677_s_at|221677_s_at	hgnc_symbol|DONSON|DONSON
+affy_hg_u133a|222077_s_at|222077_s_at	hgnc_symbol|RACGAP1|RACGAP1

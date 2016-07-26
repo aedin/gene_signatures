@@ -1,0 +1,56 @@
+# Generate Mapping Tables Script: Version 4 11:03 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:03 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+hgnc_symbol|PREP|PREP
+hgnc_symbol|FASN|FASN
+
+hgnc_symbol|ABHD10|ABHD10
+hgnc_symbol|APEH|APEH
+
+hgnc_symbol|PAFAH2|PAFAH2
+hgnc_symbol|PREPL|PREPL
+
+hgnc_symbol|PAFAH1B3|PAFAH1B3
+
+hgnc_symbol|PNPLA4|PNPLA4
+hgnc_symbol|PPME1|PPME1
+
+hgnc_symbol|ABHD12|ABHD12
+hgnc_symbol|PAFAH1B2|PAFAH1B2
+
+hgnc_symbol|SCPEP1|SCPEP1
+
+hgnc_symbol|ABHD6|ABHD6
+hgnc_symbol|TPP2|TPP2
+hgnc_symbol|PRCP|PRCP
+
+hgnc_symbol|DPP8|DPP8
+hgnc_symbol|CTSA|CTSA
+hgnc_symbol|FAM108A1|FAM108A1
+
+hgnc_symbol|LYPLAL1|LYPLAL1
+hgnc_symbol|PARL|PARL
+hgnc_symbol|FAM108B1|FAM108B1
+hgnc_symbol|ABHD16A|ABHD16A
+hgnc_symbol|ABHD3|ABHD3
+
+hgnc_symbol|IAH1|IAH1
+hgnc_symbol|DAGLB|DAGLB
+
+hgnc_symbol|CES2|CES2
+hgnc_symbol|PNPLA8|PNPLA8
+hgnc_symbol|ABHD4|ABHD4
+hgnc_symbol|BCHE|BCHE
+hgnc_symbol|LACTB|LACTB
+hgnc_symbol|LONP1|LONP1
+
+hgnc_symbol|PLAU|PLAU
+
+hgnc_symbol|DPP4|DPP4
+hgnc_symbol|ACHE|ACHE
+hgnc_symbol|ABHD2|ABHD2
+hgnc_symbol|FAAH2|FAAH2
+hgnc_symbol|PLAT|PLAT

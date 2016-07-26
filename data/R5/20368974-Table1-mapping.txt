@@ -1,0 +1,43 @@
+# Generate Mapping Tables Script: Version 4 11:07 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:07 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+affy_rae230_2|1449009_at|1449009_at	entrezgene|21822|21822	refseq_dna|NM_011579|NM_011579	mgi_symbol|Tgtp|Tgtp
+affy_rae230_2|1429184_at|1429184_at	entrezgene|74558|74558	refseq_dna|NM_001039160|NM_001039160	mgi_symbol|Gvin1|Gvin1
+affy_rae230_2|1424923_at|1424923_at	entrezgene|20715|20715	refseq_dna|NM_009251|NM_009251	mgi_symbol|Serpina3g|Serpina3g
+affy_rae230_2|1420549_at|1420549_at	entrezgene|14468|14468	refseq_dna|NM_010259|NM_010259	mgi_symbol|Gbp1|Gbp1
+affy_rae230_2|1435906_x_at|1435906_x_at	entrezgene|14469|14469	refseq_dna|NM_010260|NM_010260	mgi_symbol|Gbp2|Gbp2
+affy_rae230_2|1418776_at|1418776_at	entrezgene|76074|76074	refseq_dna|NM_029509|NM_029509	mgi_symbol|5830443L24Rik|5830443L24Rik
+affy_rae230_2|1449498_at|1449498_at	entrezgene|17167|17167	refseq_dna|NM_010766|NM_010766	mgi_symbol|Marco|Marco
+affy_rae230_2|1447927_at|1447927_at	entrezgene|100702|100702	refseq_dna|NM_194336|NM_194336	mgi_symbol|Mpa2l|Mpa2l
+affy_rae230_2|1440481_at|1440481_at	entrezgene|20846|20846	refseq_dna|NM_009283|NM_009283	mgi_symbol|Stat1|Stat1
+affy_rae230_2|1436808_x_at|1436808_x_at	entrezgene|17218|17218	refseq_dna|NM_008566|NM_008566	mgi_symbol|Mcm5|Mcm5
+affy_rae230_2|1420699_at|1420699_at	entrezgene|56644|56644	refseq_dna|NM_020008|NM_020008	mgi_symbol|Clec7a|Clec7a
+affy_rae230_2|1416295_a_at|1416295_a_at	entrezgene|16186|16186	refseq_dna|NM_013563|NM_013563	mgi_symbol|Il2rg|Il2rg
+affy_rae230_2|1426808_at|1426808_at	entrezgene|16854|16854	refseq_dna|NM_010705|NM_010705	mgi_symbol|Lgals3|Lgals3
+affy_rae230_2|1448748_at|1448748_at	entrezgene|56193|56193	refseq_dna|NM_019549|NM_019549	mgi_symbol|Plek|Plek
+affy_rae230_2|1450648_s_at|1450648_s_at	entrezgene|14961|14961	refseq_dna|NM_207105|NM_207105	mgi_symbol|H2-Ab1|H2-Ab1
+affy_rae230_2|1417025_at|1417025_at	entrezgene|14969|14969	refseq_dna|NM_010382|NM_010382	mgi_symbol|H2-Eb1|H2-Eb1
+affy_rae230_2|1435290_x_at|1435290_x_at	entrezgene|14960|14960	refseq_dna|NM_010378|NM_010378	mgi_symbol|H2-Aa|H2-Aa
+affy_rae230_2|1422527_at|1422527_at	entrezgene|14998|14998	refseq_dna|NM_010386|NM_010386	mgi_symbol|H2-Dma|H2-Dma
+affy_rae230_2|1418638_at|1418638_at	entrezgene|14999|14999	refseq_dna|NM_010387|NM_010387	mgi_symbol|H2-DMb1|H2-DMb1
+affy_rae230_2|1425519_a_at|1425519_a_at	entrezgene|16149|16149	refseq_dna|NM_001042605|NM_001042605	mgi_symbol|Cd74|Cd74
+affy_rae230_2|1418652_at|1418652_at	entrezgene|17329|17329	refseq_dna|NM_008599|NM_008599	mgi_symbol|Cxcl9|Cxcl9
+affy_rae230_2|1418126_at|1418126_at	entrezgene|20304|20304	refseq_dna|NM_207105|NM_207105	mgi_symbol|Ccl5|Ccl5
+affy_rae230_2|1418930_at|1418930_at	entrezgene|15945|15945	refseq_dna|NM_021274|NM_021274	mgi_symbol|Cxcl10|Cxcl10
+affy_rae230_2|1423467_at|1423467_at	entrezgene|60361|60361	refseq_dna|NM_021718|NM_021718	mgi_symbol|Ms4a4b|Ms4a4b
+affy_rae230_2|1424638_at|1424638_at	entrezgene|12575|12575	refseq_dna|NM_001111099|NM_001111099	mgi_symbol|Cdkn1a|Cdkn1a
+affy_rae230_2|1452349_x_at|1452349_x_at	entrezgene|226695|226695	refseq_dna|NM_172648|NM_172648	mgi_symbol|Ifi205|Ifi205
+affy_rae230_2|1422903_at|1422903_at	entrezgene|17084|17084	refseq_dna|NM_010745|NM_010745	mgi_symbol|Ly86|Ly86
+affy_rae230_2|1421855_at|1421855_at	entrezgene|14190|14190	refseq_dna|NM_008013|NM_008013	mgi_symbol|Fgl2|Fgl2
+affy_rae230_2|1448162_at|1448162_at	entrezgene|22329|22329	refseq_dna|NM_011693|NM_011693	mgi_symbol|Vcam1|Vcam1
+affy_rae230_2|1447830_s_at|1447830_s_at	entrezgene|19735|19735	refseq_dna|NM_009061|NM_009061	mgi_symbol|Rgs2|Rgs2
+affy_rae230_2|1427455_x_at|1427455_x_at	entrezgene|16081|16081	refseq_dna|XM_001476664|XM_001476664	mgi_symbol|Igk-V1|Igk-V1
+affy_rae230_2|1452417_x_a|1452417_x_a	entrezgene|16071|16071	refseq_dna|XM_001476664|XM_001476664	mgi_symbol|Igk-C|Igk-C
+affy_rae230_2|1449846_at|1449846_at	entrezgene|13587|13587	refseq_dna|NM_007895|NM_007895	mgi_symbol|Ear2|Ear2
+affy_rae230_2|1431056_a_at|1431056_a_at	entrezgene|16956|16956	refseq_dna|NM_008509|NM_008509	mgi_symbol|Lpl|Lpl
+affy_rae230_2|1442798_x_at|1442798_x_at	entrezgene|212032|212032	refseq_dna|NM_001033245|NM_001033245	mgi_symbol|Hk3|Hk3
+affy_rae230_2|1451069_at|1451069_at	entrezgene|223775|223775	refseq_dna|NM_145478|NM_145478	mgi_symbol|Pim3|Pim3
+affy_rae230_2|1451588_at|1451588_at	entrezgene|69123|69123	refseq_dna|NM_026947|NM_026947	mgi_symbol|1810022C23Rik|1810022C23Rik

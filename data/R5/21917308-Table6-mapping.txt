@@ -1,0 +1,25 @@
+# Generate Mapping Tables Script: Version 4 11:06 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:06 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+affy_hg_u133_plus_2|220459_at|220459_at	ensembl_gene_id|ENSG00000215424|ENSG00000215424	hgnc_symbol|MCM3APAS|MCM3APAS
+affy_hg_u133_plus_2|1557008_at|1557008_at	ensembl_gene_id|ENSG00000248908|ENSG00000248908	hgnc_symbol|RP11-730N24.1|RP11-730N24.1
+affy_hg_u133_plus_2|1556453_at|1556453_at	ensembl_gene_id|ENSG00000229727|ENSG00000229727	hgnc_symbol|AC_013460.1|AC_013460.1
+affy_hg_u133_plus_2|210794_s_at|210794_s_at	ensembl_gene_id|ENSG00000214548|ENSG00000214548	hgnc_symbol|MEG3|MEG3
+affy_hg_u133_plus_2|215011_at|215011_at	ensembl_gene_id|ENST00000413987|ENST00000413987	hgnc_symbol|SNHG3|SNHG3
+affy_hg_u133_plus_2|1553449_at|1553449_at	ensembl_gene_id|ENSG00000180422|ENSG00000180422	hgnc_symbol|C16orf81|C16orf81
+affy_hg_u133_plus_2|228913_at|228913_at	ensembl_gene_id|ENSG00000170919|ENSG00000170919	hgnc_symbol|XXyac-R12DG2.2-010|XXyac-R12DG2.2-010
+affy_hg_u133_plus_2|1554447_at|1554447_at	ensembl_gene_id|ENSG00000225470|ENSG00000225470	hgnc_symbol|NCRNA00183|NCRNA00183
+affy_hg_u133_plus_2|223725_at|223725_at	ensembl_gene_id|ENSG00000240288|ENSG00000240288	hgnc_symbol|GHRLOS|GHRLOS
+affy_hg_u133_plus_2|243656_at|243656_at	ensembl_gene_id|ENSG00000215447|ENSG00000215447	hgnc_symbol|BX322557.10|BX322557.10
+affy_hg_u133_plus_2|1563088_a_at|1563088_a_at	ensembl_gene_id|ENSG00000215458|ENSG00000215458	hgnc_symbol|AP_001053.11|AP_001053.11
+affy_hg_u133_plus_2|1557505_a_at|1557505_a_at	ensembl_gene_id|ENSG00000251153|ENSG00000251153	hgnc_symbol|AL049776.2|AL049776.2
+affy_hg_u133_plus_2|241270_at|241270_at	ensembl_gene_id|ENSG00000250233|ENSG00000250233	hgnc_symbol|AC_015802.2|AC_015802.2
+affy_hg_u133_plus_2|1564211_at|1564211_at	ensembl_gene_id|ENSG00000246223|ENSG00000246223	hgnc_symbol|C14orf64|C14orf64
+affy_hg_u133_plus_2|1564426_x_at|1564426_x_at	ensembl_gene_id|ENSG00000247397|ENSG00000247397	hgnc_symbol|AC_130352.1|AC_130352.1
+affy_hg_u133_plus_2|237544_at|237544_at	ensembl_gene_id|ENSG00000107679|ENSG00000107679	hgnc_symbol|PLEKHA1|PLEKHA1
+affy_hg_u133_plus_2|1562250_at|1562250_at	ensembl_gene_id|ENSG00000176993|ENSG00000176993	hgnc_symbol|AL590233.1|AL590233.1
+affy_hg_u133_plus_2|1555890_at|1555890_at	ensembl_gene_id|ENSG00000170356|ENSG00000170356	hgnc_symbol|OR2A20P|OR2A20P
+affy_hg_u133_plus_2|244071_at|244071_at	ensembl_gene_id|ENSG00000188573|ENSG00000188573	hgnc_symbol|FBLL1|FBLL1

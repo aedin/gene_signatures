@@ -1,0 +1,33 @@
+# Generate Mapping Tables Script: Version 4 11:05 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:05 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+affy_hg_u133_plus_2|227798_at|227798_at	hgnc_symbol|SMAD1|SMAD1
+affy_hg_u133_plus_2|210993_s_at|210993_s_at	hgnc_symbol|SMAD1|SMAD1
+affy_hg_u133_plus_2|203139_at|203139_at	hgnc_symbol|DAPK1|DAPK1
+affy_hg_u133_plus_2|228057_at|228057_at	hgnc_symbol|DDIT4L|DDIT4L
+affy_hg_u133_plus_2|217800_s_at|217800_s_at	hgnc_symbol|NDFIP1|NDFIP1
+affy_hg_u133_plus_2|202973_x_at|202973_x_at	hgnc_symbol|FAM13A|FAM13A
+affy_hg_u133_plus_2|227376_at|227376_at	hgnc_symbol|GLI3|GLI3
+affy_hg_u133_plus_2|217047_s_at|217047_s_at	hgnc_symbol|FAM13A|FAM13A
+affy_hg_u133_plus_2|206142_at|206142_at	hgnc_symbol|ZNF135|ZNF135
+affy_hg_u133_plus_2|1559005_s_at|1559005_s_at	hgnc_symbol|CNTLN|CNTLN
+affy_hg_u133_plus_2|212158_at|212158_at	hgnc_symbol|SDC2|SDC2
+affy_hg_u133_plus_2|200998_s_at|200998_s_at	hgnc_symbol|CKAP4|CKAP4
+affy_hg_u133_plus_2|213955_at|213955_at	hgnc_symbol|MYOZ3|MYOZ3
+affy_hg_u133_plus_2|224151_s_at|224151_s_at	hgnc_symbol|AK3|AK3
+affy_hg_u133_plus_2|200644_at|200644_at	hgnc_symbol|MARCKSL1|MARCKSL1
+affy_hg_u133_plus_2|201016_at|201016_at	hgnc_symbol|EIF1AX|EIF1AX
+affy_hg_u133_plus_2|205191_at|205191_at	hgnc_symbol|RP2|RP2
+affy_hg_u133_plus_2|201019_s_at|201019_s_at	hgnc_symbol|EIF1AP1|EIF1AP1
+affy_hg_u133_plus_2|201017_at|201017_at	hgnc_symbol|EIF1AX|EIF1AX
+affy_hg_u133_plus_2|219351_at|219351_at	hgnc_symbol|TRAPPC2|TRAPPC2
+affy_hg_u133_plus_2|216929_x_at|216929_x_at	hgnc_symbol|ABO|ABO
+affy_hg_u133_plus_2|208655_at|208655_at	hgnc_symbol|NA|NA
+affy_hg_u133_plus_2|214678_x_at|214678_x_at	hgnc_symbol|ZFX|ZFX
+affy_hg_u133_plus_2|221002_s_at|221002_s_at	hgnc_symbol|TSPAN14|TSPAN14
+affy_hg_u133_plus_2|213864_s_at|213864_s_at	hgnc_symbol|NAP1L1|NAP1L1
+affy_hg_u133_plus_2|1564129_a_at|1564129_a_at	hgnc_symbol|NA|NA
+affy_hg_u133_plus_2|1556102_x_at|1556102_x_at	hgnc_symbol|LOC389906|LOC389906

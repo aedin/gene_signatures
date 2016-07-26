@@ -1,0 +1,41 @@
+# Generate Mapping Tables Script: Version 4 11:05 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:05 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+entrezgene|100133941|100133941	hgnc_symbol|CD24|CD24
+entrezgene|25796|25796	hgnc_symbol|PGLS|PGLS
+entrezgene|3069|3069	hgnc_symbol|HDLBP|HDLBP
+entrezgene|26003|26003	hgnc_symbol|GORASP2|GORASP2
+entrezgene|7298|7298	hgnc_symbol|TYMS|TYMS
+entrezgene|11065|11065	hgnc_symbol|UBE2C|UBE2C
+entrezgene|1362|1362	hgnc_symbol|CPD|CPD
+entrezgene|11260|11260	hgnc_symbol|XPOT|XPOT
+entrezgene|55249|55249	hgnc_symbol|YY1AP1|YY1AP1
+entrezgene|1033|1033	hgnc_symbol|CDKN3|CDKN3
+entrezgene|26502|26502	hgnc_symbol|NARF|NARF
+entrezgene|10945|10945	hgnc_symbol|KDELR1|KDELR1
+entrezgene|283820|283820	hgnc_symbol|NOMO2|NOMO2
+entrezgene|4728|4728	hgnc_symbol|NDUFS8|NDUFS8
+entrezgene|5053|5053	hgnc_symbol|PAH|PAH
+entrezgene|10891|10891	hgnc_symbol|PPARGC1A|PPARGC1A
+entrezgene|10747|10747	hgnc_symbol|MASP2|MASP2
+entrezgene|91614|91614	hgnc_symbol|DEPDC7|DEPDC7
+entrezgene|10249|10249	hgnc_symbol|GLYAT|GLYAT
+entrezgene|7366|7366	hgnc_symbol|UGT2B15|UGT2B15
+entrezgene|7763|7763	hgnc_symbol|ZFAND5 (ZA20D2)|ZFAND5 (ZA20D2)
+entrezgene|687|687	hgnc_symbol|KLF9|KLF9
+entrezgene|1576|1576	hgnc_symbol|CYP3A4|CYP3A4
+entrezgene|55089|55089	hgnc_symbol|SLC38A4|SLC38A4
+entrezgene|5295|5295	hgnc_symbol|PIK3R1|PIK3R1
+entrezgene|5444|5444	hgnc_symbol|PON1|PON1
+entrezgene|1807|1807	hgnc_symbol|DPYS|DPYS
+entrezgene|54407|54407	hgnc_symbol|SLC38A2|SLC38A2
+entrezgene|92292|92292	hgnc_symbol|GLYATL1|GLYATL1
+entrezgene|5105|5105	hgnc_symbol|PCK1|PCK1
+entrezgene|4638|4638	hgnc_symbol|MYLK|MYLK
+entrezgene|10157|10157	hgnc_symbol|AASS|AASS
+entrezgene|4143|4143	hgnc_symbol|MAT1A|MAT1A
+entrezgene|127|127	hgnc_symbol|ADH4|ADH4
+entrezgene|10171|10171	hgnc_symbol|RCL1|RCL1

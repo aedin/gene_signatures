@@ -1,0 +1,39 @@
+# Generate Mapping Tables Script: Version 4 11:06 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:06 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+refseq_dna|NM_032825|NM_032825	hgnc_symbol|ZNF382|ZNF382
+embl|BC032415|BC032415	hgnc_symbol|LOC100128439|LOC100128439
+refseq_dna|NM_033196|NM_033196	hgnc_symbol|ZNF682|ZNF682
+refseq_dna|NM_014480|NM_014480	hgnc_symbol|ZNF544|ZNF544
+refseq_dna|NM_145276|NM_145276	hgnc_symbol|ZNF563|ZNF563
+refseq_dna|NM_206901|NM_206901	hgnc_symbol|RTN2|RTN2
+refseq_dna|NM_014975|NM_014975	hgnc_symbol|MAST1|MAST1
+refseq_dna|NM_133492|NM_133492	hgnc_symbol|ACER1|ACER1
+refseq_dna|NM_006969|NM_006969	hgnc_symbol|ZNF28|ZNF28
+refseq_dna|NM_139314|NM_139314	hgnc_symbol|ANGPTL4|ANGPTL4
+refseq_dna|NM_032838|NM_032838	hgnc_symbol|ZNF566|ZNF566
+refseq_dna|NR_033418|NR_033418	hgnc_symbol|ZNF542|ZNF542
+refseq_dna|NM_003260|NM_003260	hgnc_symbol|TLE2|TLE2
+refseq_dna|NM_001171979|NM_001171979	hgnc_symbol|ZNF829|ZNF829
+refseq_dna|NM_032482|NM_032482	hgnc_symbol|DOT1L|DOT1L
+refseq_dna|NM_153263|NM_153263	hgnc_symbol|ZNF549|ZNF549
+refseq_dna|NM_024620|NM_024620	hgnc_symbol|ZNF329|ZNF329
+refseq_dna|NM_021089|NM_021089	hgnc_symbol|ZNF8|ZNF8
+refseq_dna|NM_207325|NM_207325	hgnc_symbol|DPY19L3|DPY19L3
+refseq_dna|NM_138393|NM_138393	hgnc_symbol|REEP6|REEP6
+refseq_dna|NM_001646|NM_001646	hgnc_symbol|APOC4|APOC4
+refseq_dna|NM_002501|NM_002501	hgnc_symbol|NFIX|NFIX
+refseq_dna|NM_024881|NM_024881	hgnc_symbol|SLC35E1|SLC35E1
+refseq_dna|NM_032816|NM_032816	hgnc_symbol|CCDC123|CCDC123
+refseq_dna|NM_001010851|NM_001010851	hgnc_symbol|ZNF766|ZNF766
+refseq_dna|NM_015493|NM_015493	hgnc_symbol|KANK2|KANK2
+refseq_dna|NM_004491|NM_004491	hgnc_symbol|GRLF1|GRLF1
+refseq_dna|NM_052884|NM_052884	hgnc_symbol|SIGLEC11|SIGLEC11
+refseq_dna|NM_005053|NM_005053	hgnc_symbol|RAD23A|RAD23A
+entrezgene|AK307933|1556	hgnc_symbol|CYP2B7P1|CYP2B7P1
+refseq_dna|NM_002866|NM_002866	hgnc_symbol|RAB3A|RAB3A
+refseq_dna|NM_000527|NM_000527	hgnc_symbol|LDLR|LDLR
+refseq_dna|NM_006210|NM_006210	hgnc_symbol|PEG3|PEG3

@@ -1,0 +1,57 @@
+Gene symbol	Accession number	Gene name	P-value	Fold change	Domain
+VTN	NM_000638	Vitronectin	0.005	57.713	Cell adhesion
+APOA4	NM_000482	Apolipoprotein A-IV	0.015	32.078	Cell adhesion
+KNG1	NM_000893	Kininogen 1	0.005	11.411	Cell adhesion
+DPP4	NM_001935	Dipeptidyl-peptidase 4	0.007	2.174	Cell adhesion
+SOD3	NM_003102	Superoxide dismutase 3, extracellular	0.046	2.797	Extracellular matrix remodeling
+ZG16B	NM_145252	Zymogen granule protein 16 homolog B (rat)	0.013	2.33	Extracellular matrix remodeling
+HGFAC	NM_001528	HGF activator	0.009	4.183	Cell-cell signaling (cytokine/chemokine)
+C4orf7	NM_152997	Chromosome 4 open reading frame 7	0.027	3.725	Cell-cell signaling (cytokine/chemokine)
+STC1	NM_003155	Stanniocalcin 1	0.013	2.958	Cell-cell signaling (cytokine/chemokine)
+DACT1	NM_016651	Dapper, antagonist of beta-catenin, homolog 1 (Xenopus laevis)	0.045	2.592	Cell-cell signaling (cytokine/chemokine)
+STC2	NM_003714	Stanniocalcin 2	0.048	2.222	Cell-cell signaling (cytokine/chemokine)
+APOA1	NM_000039	Apolipoprotein A-I	0.005	63.59	Signal transduction
+DHCR24	NM_014762	24-Dehydrocholesterol reductase	0.005	3.597	Signal transduction
+PITPNC1	AK094724	Phosphatidylinositol transfer protein, cytoplasmic 1	0.034	3.319	Signal transduction
+PITPNC1	NM_181671	Phosphatidylinositol transfer protein, cytoplasmic 1	0.023	2.551	Signal transduction
+SORL1	NM_003105	Sortilin-related receptor, L(DLR class) A repeats-containing	0.009	2.455	Signal transduction
+CALCR	NM_001742	Calcitonin receptor	0.045	2.385	Signal transduction
+ANGPTL4	NM_139314	Angiopoietin-like 4	0.043	2.075	Signal transduction
+NDRG1	NM_006096	N-myc downstream regulated 1	0.005	2.073	Immune response
+KLK10	NM_002776	Kallikrein-related peptidase 10	0.005	18.807	Cell cycle, apoptosis
+GAS2	NM_005256	Growth arrest-specific 2	0.014	6.565	Cell cycle, apoptosis
+ONECUT2	NM_004852	One cut homeobox 2	0.025	4.084	Transcription
+MLXIPL	NM_032951	MLX interacting protein-like	0.05	2.436	Transcription
+HIF3A	NM_022462	Hypoxia inducible factor 3, alpha subunit	0.014	2.356	Transcription
+TMEM229A	NM_001136002	Transmembrane protein 229A	0.047	2.22	Transcription
+PPARGC1A	NM_013261	Peroxisome proliferator-activated receptor gamma, coactivator 1alpha	0.027	2.039	Transcription
+CPS1	NM_001875	Carbamoyl-phosphate synthetase 1, mitochondrial	0.023	13.868	Metabolism
+ALDH1L1	NM_012190	Aldehyde dehydrogenase 1 family, member L1	0.007	11.772	Metabolism
+HMGCS2	NM_005518	3-Hydroxy-3-methylglutaryl-Coenzyme A synthase 2 (mitochondrial)	0.005	8.819	Metabolism
+TMPRSS6	NM_153609	Transmembrane protease, serine 6	0.031	7.609	Metabolism
+TAT	NM_000353	Tyrosine aminotransferase	0.023	6.929	Metabolism
+CYP2D6	NM_000106	Cytochrome P450, family 2, subfamily D, polypeptide 6	0.005	4.932	Metabolism
+ACOT12	NM_130767	Acyl-CoA thioesterase 12	0.029	4.353	Metabolism
+ADH1C	NM_000669	Alcohol dehydrogenase 1C (class I), gamma polypeptide	0.007	4.216	Metabolism
+B3GALT1	NM_020981	UDP-Gal:betaGlcNAc beta1,3-galactosyltransferase, polypeptide 1	0.031	3.909	Metabolism
+PKIB	NM_181795	Protein kinase (cAMP-dependent, catalytic) inhibitor beta	0.007	3.462	Metabolism
+PI3	NM_002638	Peptidase inhibitor 3, skin-derived	0.044	2.873	Metabolism
+KHK	NM_000221	Ketohexokinase (fructokinase)	0.009	2.555	Metabolism
+B3GNT7	NM_145236	UDP-GlcNAc:betaGal beta-1, 3-N-acetylglucosaminyltransferase 7	0.014	2.466	Metabolism
+NAGS	NM_153006	N-acetylglutamate synthase	0.029	2.341	Metabolism
+ENO2	NM_001975	Enolase 2 (gamma, neuronal)	0.007	2.171	Metabolism
+C10orf10	NM_007021	Chromosome 10 open reading frame 10	0.031	2.074	Metabolism
+HK2	NM_000189	Hexokinase 2	0.033	2.05	Metabolism
+HPX	NM_000613	Hemopexin	0.005	163.982	Transporter activity
+FABP1	NM_001443	Fatty acid binding protein 1, liver	0.005	116.798	Transporter activity
+SLC38A4	NM_018018	Solute carrier family 38, member 4	0.009	6.334	Transporter activity
+SLCO4A1	NM_016354	Solute carrier organic anion transporter family, member 4A1	0.009	3.035	Transporter activity
+PAEP	NM_002571	Progestagen-associated endometrial protein	0.038	2.474	Transporter activity
+NRN1	NM_016588	Neuritin 1	0.019	2.439	The others
+FAM162B	NM_001085480	Family with sequence similarity 162, member B	0.026	2.124	The others
+CLEC2B	NM_005127	C-type lectin domain family 2, member B	0.036	2.068	The others
+ANKFN1	NM_153228	Ankyrin-repeat and fibronectin type III domain containing 1	0.049	2.023	Unknown
+N/A	AK129542		0.007	3.388	Unknown
+N/A	AW444553		0.039	2.96	Unknown
+LOC100288985	XM_002342826	Hypothetical protein LOC100288985	0.05	2.753	Unknown
+N/A	BF213738		0.039	2.023	Unknown

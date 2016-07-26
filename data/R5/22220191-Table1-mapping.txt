@@ -1,0 +1,32 @@
+# Generate Mapping Tables Script: Version 4 11:05 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:05 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+affy_hg_u133a|211506_s_at|211506_s_at	hgnc_symbol|IL8|IL8
+affy_hg_u133a|211708_s_at|211708_s_at	hgnc_symbol|SCD|SCD
+affy_hg_u133a|39249_at|39249_at	hgnc_symbol|AQP3|AQP3
+affy_hg_u133a|202859_x_at|202859_x_at	hgnc_symbol|IL8|IL8
+affy_hg_u133a|202627_s_at|202627_s_at	hgnc_symbol|SERPINE1|SERPINE1
+affy_hg_u133a|212909_at|212909_at	hgnc_symbol|LYPDC1|LYPDC1
+affy_hg_u133a|200737_at|200737_at	hgnc_symbol|PGK1|PGK1
+affy_hg_u133a|204344_s_at|204344_s_at	hgnc_symbol|SEC23A|SEC23A
+affy_hg_u133a|205810_s_at|205810_s_at	hgnc_symbol|WASL|WASL
+affy_hg_u133a|217356_s_at|217356_s_at	hgnc_symbol|PGK1|PGK1
+affy_hg_u133a|215779_s_at|215779_s_at	hgnc_symbol|HIST1H2BG|HIST1H2BG
+affy_hg_u133a|212344_at|212344_at	hgnc_symbol|SULF1|SULF1
+affy_hg_u133a|209875_s_at|209875_s_at	hgnc_symbol|SPP1|SPP1
+affy_hg_u133a|219434_at|219434_at	hgnc_symbol|TREM1|TREM1
+affy_hg_u133a|219508_at|219508_at	hgnc_symbol|GCNT3|GCNT3
+affy_hg_u133a|208881_x_at|208881_x_at	hgnc_symbol|IDI1|IDI1
+affy_hg_u133a|215427_s_at|215427_s_at	hgnc_symbol|ZCCHC14|ZCCHC14
+affy_hg_u133a|214603_at|214603_at	hgnc_symbol|MAGEA2|MAGEA2
+affy_hg_u133a|219875_s_at|219875_s_at	hgnc_symbol|PNAS-4|PNAS-4
+affy_hg_u133a|204083_s_at|204083_s_at	hgnc_symbol|TPM2|TPM2
+affy_hg_u133a|218468_s_at|218468_s_at	hgnc_symbol|GREM1|GREM1
+affy_hg_u133a|204615_x_at|204615_x_at	hgnc_symbol|IDI1|IDI1
+affy_hg_u133a|212354_at|212354_at	hgnc_symbol|SULF1|SULF1
+affy_hg_u133a|218469_at|218469_at	hgnc_symbol|GREM1|GREM1
+affy_hg_u133a|212353_at|212353_at	hgnc_symbol|SULF1|SULF1
+affy_hg_u133a|202497_x_at|202497_x_at	hgnc_symbol|SLC2A3|SLC2A3

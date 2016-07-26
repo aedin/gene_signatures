@@ -1,0 +1,55 @@
+Cellular Pathway	Expression	Gene Symbol	Gene Name	Fold Change	P value
+TGFB signaling	Up	TGFBR2	TGF-beta receptor type-2	2.3	0.00276
+TGFB signaling	Up	TGFBR1	TGF-beta receptor type-1	2.6	0.01437
+TGFB signaling	Up	ACVR1	Activin receptor type-1	2.8	0.0116
+TGFB signaling	Up	ACVRL1	Serine/threonine-protein kinase receptor R3	30.7	0.0058
+TGFB signaling	Up	ENG	Endoglin	4	0.0254
+TGFB signaling	Up	CD109	CD109 antigen	11.7	0.01829
+TGFB signaling	Up	BMP4	Bone morphogenetic protein 4	8.3	0.02216
+TGFB signaling	Up	GDF15	Growth/differentiation factor 15	18.6	0.00073
+TGFB signaling	Up	INHBA	Inhibitin beta A chain	11.4	0.03279
+TGFB signaling	Up	ZFYVE16	Zinc finger FYVE domain-containing protein 16	2.4	0.00496
+TGFB signaling	Up	SMAD7	Mothers agaisnt decapentaplegic homolog 7	14	0.0014
+TGFB signaling	Up	SMAD1	Mothers agaisnt decapentaplegic homolog 1	6.6	0.02538
+TGFB signaling	Up	FOSL1	Fos-related antigen 1	2.5	0.04631
+TGFB signaling	Up	SKIL	Ski-like protein	4	0.00014
+TGFB signaling	Up	ID1	DNA-binding protein inhibitor ID-1	14.7	0.00098
+TGFB signaling	Down	CITED1	Cbp/p300-interacting transactivator 1	-2.6	0.00821
+Wnt signaling	Up	FZD4	Frizzled-4	16.1	0.0026
+Wnt signaling	Up	FZD5	Frizzled-5	5.3	0.0044
+Wnt signaling	Up	FZD7	Frizzled-7	4.3	0.006
+Angiogenesis	Up	TIE2	Angiopoietin-1 receptor	10.7	0.017
+Angiogenesis	Up	TIE1	Tyrosine-protein kinase receptor Tie-1	18.9	0.0088
+Angiogenesis	Up	VEGFC	Vascular endothelial growth factor C	9.4	0.0061
+Angiogenesis	Up	CCL2	C-C motif chemokine 2	22.6	0.0032
+Angiogenesis	Up	AMOTL2	Angiomotin-like protein 2	4.3	0.0191
+Angiogenesis	Up	ANGPTL4	Angiopoietin-related protein 4	8.6	0.0154
+Angiogenesis	Up	EDN1	Big endothelin-1	9.2	0.0061
+Angiogenesis	Up	THBS1	Thrombospondin-1	45.1	0.0004
+Angiogenesis	Down	FLT4	Vascular endothelial growth factor receptor 3	-2.1	0.0048
+Response to hypoxia	Up	HIF1A	Hypoxia-inducible factor 1 alpha	3.9	0.0111
+Response to hypoxia	Up	EPAS1	Endothelial PAS domain-containing protein 1	12.9	0.0067
+Response to hypoxia	Up	HIF3A	Hypoxia-inducible factor 3alpha	2.2	0.033
+Integrin signaling	Up	ITGA2	Integrin alpha-2	5.2	0.0219
+Integrin signaling	Up	ITGA6	Integrin alpha-6 light chain	6.7	0.0213
+Integrin signaling	Up	ACTN1	Alpha-actinin-1	11.9	0.0067
+Integrin signaling	Up	CAV1	Caveolin-1	18.9	0.0163
+Integrin signaling	Up	COL8A1	Collagen alpha-1 (VIII) chain	15.8	0.0025
+Integrin signaling	Up	COL9A3	Collagen alpha-3 (IX) chain	2.9	0.0413
+Integrin signaling	Up	COL5A1	Collagen alpha-1 (V) chain	4	0.0173
+Integrin signaling	Up	COL12A1	Collagen alpha-1 (XII) chain	5.4	0.0371
+Integrin signaling	Down	ITGB7	Integrin beta-7	-2.4	0.0047
+Cell Adhesion	Up	CLDN12	Claudin-12	4.1	0.01
+Cell Adhesion	Up	CLDN22	Claudin-22	4.2	0.0383
+Cell Adhesion	Up	CLDN5	Claudin-5	14.5	0.0041
+Cell Adhesion	Down	CLDN11	Claudin-11	-2.2	0.0177
+Cell Adhesion	Up	CLDH11	Cadherin-11	9.7	0.0293
+Cell Adhesion	Up	CDH13	Cadherin-13	7.1	0.0297
+Cell Adhesion	Up	CDH5	Cadherin-5	5.1	0.0304
+Cell Adhesion	Down	CDH23	Cadherin-23	-2.1	0.0038
+Cell Adhesion	Up	GJA1	Gap junction alpha-1 protein	18.4	0.0136
+Cell Adhesion	Up	PLXNB2	Plexin-B2	5.7	0.0311
+Cell Adhesion	Up	PLXND1	Plexin-D1	6.9	0.0025
+Others	Up	CCR6	C-C chemokine receptor type 6	7.3	0.005
+Others	Up	ABCB1	Multidrug resistance protein 1	6.3	0.0445
+Others	Up	PDGFC	Platelet-derived growth factor C, receptor-binding form	6.5	0.0051

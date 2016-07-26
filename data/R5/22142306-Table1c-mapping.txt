@@ -1,0 +1,26 @@
+# Generate Mapping Tables Script: Version 4 11:05 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:05 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+affy_hg_u133_plus_2|241722_x_at|241722_x_at
+affy_hg_u133_plus_2|211713_x_at|211713_x_at	unigene|Hs.81892|Hs.81892	hgnc_symbol|KIAA0101|KIAA0101
+affy_hg_u133_plus_2|1555725_a_at|1555725_a_at	unigene|Hs.24950|Hs.24950	hgnc_symbol|RGS5|RGS5
+affy_hg_u133_plus_2|234552_at|234552_at	unigene|Hs.200412|Hs.200412	hgnc_symbol|EPPK1|EPPK1
+affy_hg_u133_plus_2|213244_at|213244_at	unigene|Hs.144980|Hs.144980	hgnc_symbol|SCAMP4|SCAMP4
+affy_hg_u133_plus_2|208549_x_at|208549_x_at	unigene|Hs.459927|Hs.459927	hgnc_symbol|PTMA|PTMA
+affy_hg_u133_plus_2|1560500_at|1560500_at
+affy_hg_u133_plus_2|230141_at|230141_at	unigene|Hs.161000|Hs.161000	hgnc_symbol|ARID4A|ARID4A
+affy_hg_u133_plus_2|212285_s_at|212285_s_at	unigene|Hs.273330|Hs.273330	hgnc_symbol|AGRN|AGRN
+affy_hg_u133_plus_2|225305_at|225305_at	unigene|Hs.578109|Hs.578109	hgnc_symbol|SLC25A29|SLC25A29
+affy_hg_u133_plus_2|1554084_a_at|1554084_a_at	unigene|Hs.59425|Hs.59425	hgnc_symbol|NOL9|NOL9
+affy_hg_u133_plus_2|207535_s_at|207535_s_at	unigene|Hs.73090|Hs.73090	hgnc_symbol|NFKB2|NFKB2
+affy_hg_u133_plus_2|223276_at|223276_at	unigene|Hs.29444|Hs.29444	hgnc_symbol|C5orf62|C5orf62
+affy_hg_u133_plus_2|209508_x_at|209508_x_at	unigene|Hs.390736|Hs.390736	hgnc_symbol|CFLAR|CFLAR
+affy_hg_u133_plus_2|201728_s_at|201728_s_at	unigene|Hs.151761|Hs.151761	hgnc_symbol|KIAA0100|KIAA0100
+affy_hg_u133_plus_2|216222_s_at|216222_s_at	unigene|Hs.481720|Hs.481720	hgnc_symbol|MYO10|MYO10
+affy_hg_u133_plus_2|201861_s_at|201861_s_at	unigene|Hs.471779|Hs.471779	hgnc_symbol|LRRFIP1|LRRFIP1
+affy_hg_u133_plus_2|209370_s_at|209370_s_at	unigene|Hs.167679|Hs.167679	hgnc_symbol|SH3BP2|SH3BP2
+affy_hg_u133_plus_2|217650_x_at|217650_x_at	unigene|Hs.368611|Hs.368611	hgnc_symbol|ST3GAL2|ST3GAL2
+affy_hg_u133_plus_2|211012_s_at|211012_s_at	unigene|Hs.534573|Hs.534573	hgnc_symbol|GOLGA6L4PML|GOLGA6L4PML

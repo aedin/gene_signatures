@@ -1,0 +1,75 @@
+Symbol	Description	Fold regulation  7 days	Fold regulation 14 days	Function
+ALPL	Alkaline phosphatase, liver/bone/kidney		-1.62	Bone matrix proteins
+BGLAP	Osteocalcin		-1.42	Bone matrix proteins
+BGN	Biglycan			Bone matrix proteins
+BMP2	Bone morphogenetic protein 2	2.99		BMP superfamily
+BMP3	Bone morphogenetic protein 3	5.58		BMP superfamily
+BMP4	Bone morphogenetic protein 4	1.3	2.52	BMP superfamily
+BMP5	Bone morphogenetic protein 5			BMP superfamily
+BMP6	Bone morphogenetic protein 6		1.64	BMP superfamily
+GDF10	Growth differentiation factor 10		6.54	BMP superfamily
+TGFB1	Transforming growth factor, beta 1	-1.13	1.68	BMP superfamily
+TGFB2	Transforming growth factor, beta 2	1.48	4.29	BMP superfamily
+TGFB3	Transforming growth factor, beta 3		-3.15	BMP superfamily
+CD36	CD36 molecule (thrombospondin receptor)	3.1	4.7	Receptors
+CDH11	Cadherin 11, type 2, OB-cadherin		3.72	Receptors
+EGFR	Epidermal growth factor receptor	1.13	3.32	Receptors
+FGFR1	Fibroblast growth factor receptor 1	1.4		Receptors
+FGFR2	Fibroblast growth factor receptor 2		-1.58	Receptors
+FLT1	Fms-related tyrosine kinase 1			Receptors
+ICAM1	Intercellular adhesion molecule 1 (CD54)	-1.18	7.03	Receptors
+SCARB1	Scavenger receptor class B, member 1		2.15	Receptors
+TGFBR1	Transforming growth factor, beta receptor I	2.56	3.22	Receptors
+TGFBR2	Transforming growth factor, beta receptor II			Receptors
+VCAM1	Vascular cell adhesion molecule 1	1.5	-1.59	Receptors
+VDR	Vitamin D (1,25-dihydroxyvitamin D3) receptor	1.36		Receptors
+IGF1R	Insulin-like growth factor 1 receptor	1.7	1.46	Receptors
+PHEX	Phosphate regulating endopeptidase homolog, X-linked	2.52		Receptors
+EGF	Epidermal growth factor (beta-urogastrone)		2.36	Growth factors
+FGF1	Fibroblast growth factor 1 (acidic)	1.23	3.84	Growth factors
+FGF2	Fibroblast growth factor 2 (basic)	3.3	3.79	Growth factors
+IGF1	Insulin-like growth factor 1 (somatomedin C)	3.2	1.75	Growth factors
+IGF2	Insulin-like growth factor 2 (somatomedin A)	1.85		Growth factors
+PDGFA	Platelet-derived growth factor alpha		2.78	Growth factors
+VEGFA	Vascular endothelial growth factor A	1.19	-1.55	Growth factors
+VEGFB	Vascular endothelial growth factor B		3.9	Growth factors
+CSF2	Colony stimulating factor 2 (granulocyte-macrophage)		5.13	Growth factors
+CSF3	Colony stimulating factor 3 (granulocyte)			Growth factors
+ITGA1	Integrin, alpha 1	2.41	5	Integrin receptors
+ITGA2	Integrin, alpha 2	2.38	3.15	Integrin receptors
+ITGA3	Integrin, alpha 3	-1.29	1.88	Integrin receptors
+ITGB1	Integrin, beta 1		4.06	Integrin receptors
+COL10A1	Collagen, type X, alpha 1			Collagen
+COL11A1	Collagen, type XI, alpha 1	1.63	1.49	Collagen
+COL12A1	Collagen, type XII, alpha 1	1.2	1.28	Collagen
+COL14A1	Collagen, type XIV, alpha 1	-1.24	1.58	Collagen
+COL15A1	Collagen, type XV, alpha 1		2.27	Collagen
+COL1A1	Collagen, type I, alpha 1	1.26	-5.62	Collagen
+COL1A2	Collagen, type I, alpha 2			Collagen
+COL2A1	Collagen, type II, alpha 1			Collagen
+COL3A1	Collagen, type III, alpha 1		-1.41	Collagen
+COL4A3	Collagen, type IV, alpha 3		2.86	Collagen
+COL5A1	Collagen, type V, alpha 1	-1.15	2.63	Collagen
+COMP	Cartilage oligomeric matrix protein		2.49	Cartilage-related genes
+SOX9	SRY (sex determining region Y)-box 9	-1.28	3.79	Cartilage-related genes
+BMP1	Bone morphogenetic protein 1		2.23	Metalloproteinases
+MINPP1	Multiple inositol polyphosphate histidine phosphatase, 1	1.45	2.8	Metalloproteinases
+MMP10	Matrix metallopeptidase 10 (stromelysin 2)			Metalloproteinases
+MMP2	Matrix metallopeptidase 2		1.27	Metalloproteinases
+MMP8	Matrix metallopeptidase 8			Metalloproteinases
+MMP9	Matrix metallopeptidase 9			Metalloproteinases
+MSX1	Msh homeobox 1			Transcription factors
+NFKB1	Nuclear factor of kappa in B-cells 1 (p105)	1.35	-4.43	Transcription factors
+RUNX2	Runt-related transcription factor 2	-1.06	1.96	Transcription factors
+SMAD1	SMAD family member 1	-1.11	1.56	Transcription factors
+SMAD2	SMAD family member 2	3.03	1.18	Transcription factors
+SMAD3	SMAD family member 3	1.18	-6.67	Transcription factors
+SMAD4	SMAD family member 4		1.53	Transcription factors
+TWIST1	TWIST1			Transcription factors
+CTSK	CTSK	-1.14	-1.64	Other genes
+FN1	FN1			Other genes
+SERPINH1	SERPINH1			Other genes
+STATH	STATH	1.32	3.19	Other genes
+TUFT1	TUFT1		2.31	Other genes
+TFIP11	TFIP11		-1.15	Other genes
+ANX5	ANX5			Other genes

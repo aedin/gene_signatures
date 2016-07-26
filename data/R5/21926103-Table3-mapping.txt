@@ -1,0 +1,24 @@
+# Generate Mapping Tables Script: Version 4 11:05 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:05 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+entrezgene|136|136	hgnc_symbol|ADORA2B|ADORA2B
+entrezgene|2788|2788	hgnc_symbol|GNG7|GNG7
+entrezgene|7033|7033	hgnc_symbol|TFF3|TFF3
+entrezgene|23601|23601	hgnc_symbol|CLEC5A|CLEC5A
+entrezgene|57817|57817	hgnc_symbol|HAMP|HAMP
+entrezgene|81035|81035	hgnc_symbol|COLEC12|COLEC12
+entrezgene|140|140	hgnc_symbol|ADORA3|ADORA3
+entrezgene|624|624	hgnc_symbol|BDKRB2|BDKRB2
+entrezgene|3075|3075	hgnc_symbol|CFH|CFH
+entrezgene|4282|4282	hgnc_symbol|MIF|MIF
+entrezgene|4973|4973	hgnc_symbol|OLR1|OLR1
+entrezgene|7852|7852	hgnc_symbol|CXCR4|CXCR4
+entrezgene|10344|10344	hgnc_symbol|CCL26|CCL26
+entrezgene|10630|10630	hgnc_symbol|PDPN|PDPN
+entrezgene|25824|25824	hgnc_symbol|PRDX5|PRDX5
+entrezgene|53833|53833	hgnc_symbol|IL20RB|IL20RB
+entrezgene|57834|57834	hgnc_symbol|CYP4F11|CYP4F11
+entrezgene|148022|148022	hgnc_symbol|TICAM1|TICAM1

@@ -1,0 +1,36 @@
+# Generate Mapping Tables Script: Version 4 11:06 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:06 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+affy_hg_u133a|219438_at|219438_at	entrezgene|79570|79570	refseq_dna|NM_024522|NM_024522	hgnc_symbol|NKAIN1|NKAIN1
+affy_hg_u133a|219051_x_at|219051_x_at	entrezgene|79006|79006	refseq_dna|NM_024042|NM_024042	hgnc_symbol|METRN|METRN
+affy_hg_u133a|209617_s_at|209617_s_at	entrezgene|1501|1501	entrezgene|AF035302|1501	hgnc_symbol|CTNND2|CTNND2
+affy_hg_u133a|204916_at|204916_at	entrezgene|10267|10267	refseq_dna|NM_005855|NM_005855	hgnc_symbol|RAMP1|RAMP1
+affy_hg_u133a|219741_x_at|219741_x_at	entrezgene|79818|79818	refseq_dna|NM_024762|NM_024762	hgnc_symbol|ZNF552|ZNF552
+affy_hg_u133a|219044_at|219044_at	entrezgene|55258|55258	refseq_dna|NM_018271|NM_018271	hgnc_symbol|THNSL2|THNSL2
+affy_hg_u133a|209773_s_at|209773_s_at	entrezgene|6241|6241	entrezgene|BC001886|6241	hgnc_symbol|RRM2|RRM2
+affy_hg_u133a|215304_at|215304_at	entrezgene|79875|79875	embl|U79293|U79293	hgnc_symbol|THSD4|THSD4
+affy_hg_u133a|204509_at|204509_at	refseq_dna|NM_017689|NM_017689
+affy_hg_u133a|203928_x_at|203928_x_at	entrezgene|4137|4137	entrezgene|AI870749|4137	hgnc_symbol|MAPT|MAPT
+affy_hg_u133a|206401_s_at|206401_s_at	entrezgene|4137|4137	entrezgene|J03778|4137	hgnc_symbol|MAPT|MAPT
+affy_hg_u133a|217542_at|217542_at	entrezgene|84825|84825	entrezgene|BE930512|4193	hgnc_symbol|MGC5370|MGC5370
+affy_hg_u133a|214124_x_at|214124_x_at	entrezgene|51247|51247	embl|AL043487|AL043487	hgnc_symbol|PAIP2|PAIP2
+affy_hg_u133a|213134_x_at|213134_x_at	entrezgene|10950|10950	entrezgene|AI765445|10950	hgnc_symbol|BTG3|BTG3
+affy_hg_u133a|205696_s_at|205696_s_at	entrezgene|2674|2674	refseq_dna|NM_005264|NM_005264	hgnc_symbol|GFRA1|GFRA1
+affy_hg_u133a|214053_at|214053_at	entrezgene|2066|2066	entrezgene|AW772192|2066	hgnc_symbol|ERBB4|ERBB4
+affy_hg_u133a|219197_s_at|219197_s_at	entrezgene|57758|57758	entrezgene|AI424243|57758	hgnc_symbol|SCUBE2|SCUBE2
+affy_hg_u133a|205548_s_at|205548_s_at	entrezgene|10950|10950	refseq_dna|NM_006806|NM_006806	hgnc_symbol|BTG3|BTG3
+affy_hg_u133a|205354_at|205354_at	entrezgene|2593|2593	refseq_dna|NM_000156|NM_000156	hgnc_symbol|GAMT|GAMT
+affy_hg_u133a|212745_s_at|212745_s_at	entrezgene|585|585	entrezgene|AI813772|585	hgnc_symbol|BBS4|BBS4
+affy_hg_u133a|203930_s_at|203930_s_at	entrezgene|4137|4137	refseq_dna|NM_016835|NM_016835	hgnc_symbol|MAPT|MAPT
+affy_hg_u133a|212207_at|212207_at	entrezgene|23389|23389	entrezgene|BG426689|23389	hgnc_symbol|MED13L|MED13L
+affy_hg_u133a|202204_s_at|202204_s_at	entrezgene|267|267	entrezgene|AF124145|267	hgnc_symbol|AMFR|AMFR
+affy_hg_u133a|208945_s_at|208945_s_at	entrezgene|8678|8678	refseq_dna|NM_003766|NM_003766	hgnc_symbol|BECN1|BECN1
+affy_hg_u133a|215616_s_at|215616_s_at	entrezgene|23030|23030	entrezgene|AB020683|23030	hgnc_symbol|JMJD2B|JMJD2B
+affy_hg_u133a|204825_at|204825_at	entrezgene|9833|9833	refseq_dna|NM_014791|NM_014791	hgnc_symbol|MELK|MELK
+affy_hg_u133a|201508_at|201508_at	entrezgene|3487|3487	refseq_dna|NM_001552|NM_001552	hgnc_symbol|IGFBP4|IGFBP4
+affy_hg_u133a|203693_s_at|203693_s_at	entrezgene|1871|1871	refseq_dna|NM_001949|NM_001949	hgnc_symbol|E2F3|E2F3
+affy_hg_u133a|203929_s_at|203929_s_at	entrezgene|4137|4137	entrezgene|AI056359|4137	hgnc_symbol|MAPT|MAPT
+affy_hg_u133a|213234_at|213234_at	entrezgene|57613|57613	entrezgene|AB040900|57613	hgnc_symbol|KIAA1467|KIAA1467

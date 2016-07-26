@@ -1,0 +1,32 @@
+# Generate Mapping Tables Script: Version 4 11:08 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:08 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+mirbase_id|mmu-let-7a|mmu-let-7a
+mirbase_id|mmu-let-7b|mmu-let-7b
+mirbase_id|mmu-let-7c|mmu-let-7c
+mirbase_id|mmu-let-7c-2|mmu-let-7c-2
+mirbase_id|mmu-let-7d|mmu-let-7d
+mirbase_id|mmu-let-7e|mmu-let-7e
+mirbase_id|mmu-let-7f|mmu-let-7f
+mirbase_id|mmu-let-7f|mmu-let-7f
+mirbase_id|mmu-let-7g|mmu-let-7g
+mirbase_id|mmu-let-7i|mmu-let-7i
+mirbase_id|mmu-miR-1|mmu-miR-1
+mirbase_id|mmu-miR-100|mmu-miR-100
+mirbase_id|mmu-miR-101a|mmu-miR-101a
+mirbase_id|mmu-miR-101b|mmu-miR-101b
+mirbase_id|mmu-miR-106a|mmu-miR-106a
+mirbase_id|mmu-miR-107|mmu-miR-107
+mirbase_id|mmu-miR-10a|mmu-miR-10a
+mirbase_id|mmu-miR-10b|mmu-miR-10b
+mirbase_id|mmu-miR-1224|mmu-miR-1224
+mirbase_id|mmu-miR-125a-3p|mmu-miR-125a-3p
+mirbase_id|mmu-miR-125a-5p|mmu-miR-125a-5p
+mirbase_id|mmu-miR-126-3p|mmu-miR-126-3p
+mirbase_id|mmu-miR-126-5p|mmu-miR-126-5p
+mirbase_id|mmu-miR-128|mmu-miR-128
+mirbase_id|mmu-miR-129-3p|mmu-miR-129-3p
+mirbase_id|mmu-miR-132|mmu-miR-132

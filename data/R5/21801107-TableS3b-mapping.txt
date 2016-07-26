@@ -1,0 +1,20 @@
+# Generate Mapping Tables Script: Version 4 11:04 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:04 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+efg_agilent_wholegenome_4x44k_v1|A_23_P147166|A_23_P147166	entrezgene|AF516696|55799	hgnc_symbol|CACNA2D3|CACNA2D3
+efg_agilent_wholegenome_4x44k_v1|A_23_P154849|A_23_P154849	refseq_dna|NM_138983|NM_138983	hgnc_symbol|OLIG1|OLIG1
+efg_agilent_wholegenome_4x44k_v1|A_24_P318967|A_24_P318967	refseq_dna|NM_003681|NM_003681	hgnc_symbol|PDXK|PDXK
+efg_agilent_wholegenome_4x44k_v1|A_24_P623989|A_24_P623989	embl|BC040064|BC040064
+efg_agilent_wholegenome_4x44k_v1|A_24_P28722|A_24_P28722	refseq_dna|NM_080657|NM_080657	hgnc_symbol|RSAD2|RSAD2
+efg_agilent_wholegenome_4x44k_v1|A_32_P355396|A_32_P355396	refseq_dna|NM_014844|NM_014844	hgnc_symbol|TECPR2|TECPR2
+efg_agilent_wholegenome_4x44k_v1|A_24_P82880|A_24_P82880	refseq_dna|NM_003290|NM_003290	hgnc_symbol|TPM4|TPM4
+efg_agilent_wholegenome_4x44k_v1|A_23_P206677|A_23_P206677	refseq_dna|NM_017990|NM_017990	hgnc_symbol|PDPR|PDPR
+efg_agilent_wholegenome_4x44k_v1|A_32_P347617|A_32_P347617	refseq_dna|NM_181773|NM_181773
+efg_agilent_wholegenome_4x44k_v1|A_23_P252082|A_23_P252082	refseq_dna|NM_018487|NM_018487	hgnc_symbol|TMEM176A|TMEM176A
+efg_agilent_wholegenome_4x44k_v1|A_23_P79094|A_23_P79094	refseq_dna|NM_006865|NM_006865	hgnc_symbol|LILRA3|LILRA3
+efg_agilent_wholegenome_4x44k_v1|A_24_P318990|A_24_P318990	entrezgene|BC012876|3535
+efg_agilent_wholegenome_4x44k_v1|A_24_P385313|A_24_P385313	refseq_dna|NM_002840|NM_002840	hgnc_symbol|PTPRF|PTPRF
+efg_agilent_wholegenome_4x44k_v1|A_23_P36120|A_23_P36120	refseq_dna|NM_022349|NM_022349	hgnc_symbol|MS4A6A|MS4A6A

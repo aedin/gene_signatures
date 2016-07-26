@@ -1,0 +1,35 @@
+# Generate Mapping Tables Script: Version 4 11:03 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:03 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+affy_hg_u133a|34206_at|34206_at	hgnc_symbol|ARAP1|ARAP1
+affy_hg_u133a|208862_s_at|208862_s_at	hgnc_symbol|CTNND1|CTNND1
+affy_hg_u133a|200705_s_at|200705_s_at	hgnc_symbol|EEF1B2|EEF1B2
+affy_hg_u133a|208289_s_at|208289_s_at	hgnc_symbol|EI24|EI24
+affy_hg_u133a|212025_s_at|212025_s_at	hgnc_symbol|FLII|FLII
+affy_hg_u133a|203820_s_at|203820_s_at	hgnc_symbol|IGF2BP3|IGF2BP3
+affy_hg_u133a|201892_s_at|201892_s_at	hgnc_symbol|IMPDH2|IMPDH2
+affy_hg_u133a|202209_at|202209_at	hgnc_symbol|LSM3|LSM3
+affy_hg_u133a|208633_s_at|208633_s_at	hgnc_symbol|MACF1|MACF1
+affy_hg_u133a|207098_s_at|207098_s_at	hgnc_symbol|MFN1|MFN1
+affy_hg_u133a|217765_at|217765_at	hgnc_symbol|NRBP1|NRBP1
+affy_hg_u133a|213638_at|213638_at	hgnc_symbol|PHACTR1|PHACTR1
+affy_hg_u133a|202732_at|202732_at	hgnc_symbol|PKIG|PKIG
+affy_hg_u133a|217846_at|217846_at	hgnc_symbol|QARS|QARS
+affy_hg_u133a|210255_at|210255_at	hgnc_symbol|RAD51L1|RAD51L1
+affy_hg_u133a|200074_s_at|200074_s_at	hgnc_symbol|RPL14|RPL14
+affy_hg_u133a|217266_at|217266_at	hgnc_symbol|RPL15|RPL15
+affy_hg_u133a|200013_at|200013_at	hgnc_symbol|RPL24|RPL24
+affy_hg_u133a|200674_s_at|200674_s_at	hgnc_symbol|RPL32|RPL32
+affy_hg_u133a|200018_at|200018_at	hgnc_symbol|RPS13|RPS13
+affy_hg_u133a|212018_s_at|212018_s_at	hgnc_symbol|RSL1D1|RSL1D1
+affy_hg_u133a|209879_at|209879_at	hgnc_symbol|SELPLG|SELPLG
+affy_hg_u133a|221428_s_at|221428_s_at	hgnc_symbol|TBL1XR1|TBL1XR1
+affy_hg_u133a|218316_at|218316_at	hgnc_symbol|TIMM9|TIMM9
+affy_hg_u133a|219282_s_at|219282_s_at	hgnc_symbol|TRPV2|TRPV2
+affy_hg_u133a|203234_at|203234_at	hgnc_symbol|UPP1|UPP1
+affy_hg_u133a|216547_at|216547_at
+affy_hg_u133a|217347_at|217347_at
+affy_hg_u133a|216806_at|216806_at

@@ -1,0 +1,27 @@
+# Generate Mapping Tables Script: Version 4 11:03 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:03 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+entrezgene|60481|60481	hgnc_symbol|ELOVL5|ELOVL5	hgnc_symbol|ELOVL5|ELOVL5
+entrezgene|85460|85460	hgnc_symbol|ZNF518B|ZNF518B	hgnc_symbol|ZNF518B|ZNF518B
+entrezgene|3815|3815	hgnc_symbol|KIT|KIT	hgnc_symbol|KIT|KIT
+entrezgene|9852|9852	hgnc_symbol|EPM2AIP1|EPM2AIP1	hgnc_symbol|EPM2AIP1|EPM2AIP1
+entrezgene|4170|4170	hgnc_symbol|MCL1|MCL1	hgnc_symbol|MCL1|MCL1
+entrezgene|9037|9037	hgnc_symbol|SEMA5A|SEMA5A	hgnc_symbol|SEMA5A|SEMA5A
+entrezgene|55743|55743	hgnc_symbol|CHFR|CHFR	hgnc_symbol|CHFR|CHFR
+entrezgene|677|677	hgnc_symbol|ZFP36L1|ZFP36L1	hgnc_symbol|ZFP36L1|ZFP36L1
+entrezgene|9839|9839	hgnc_symbol|ZEB2|ZEB2	hgnc_symbol|ZEB2|ZEB2
+entrezgene|10659|10659	hgnc_symbol|CELF2|CELF2	hgnc_symbol|CUGBP2|CUGBP2
+entrezgene|64094|64094	hgnc_symbol|SMOC2|SMOC2	hgnc_symbol|SMOC2|SMOC2
+entrezgene|124535|124535	hgnc_symbol|HSF5|HSF5	hgnc_symbol|HSF5|HSF5
+entrezgene|3164|3164	hgnc_symbol|NR4A1|NR4A1	hgnc_symbol|NR4A1|NR4A1
+entrezgene|2353|2353	hgnc_symbol|FOS|FOS	hgnc_symbol|FOS|FOS
+entrezgene|9852|9852	hgnc_symbol|EPM2AIP1|EPM2AIP1	hgnc_symbol|EPM2AIP1|EPM2AIP1
+entrezgene|2920|2920	hgnc_symbol|CXCL2|CXCL2	hgnc_symbol|CXCL2|CXCL2
+entrezgene|9852|9852	hgnc_symbol|EPM2AIP1|EPM2AIP1	hgnc_symbol|EPM2AIP1|EPM2AIP1
+entrezgene|1958|1958	hgnc_symbol|EGR1|EGR1	hgnc_symbol|EGR1|EGR1
+entrezgene|2353|2353	hgnc_symbol|FOS|FOS	hgnc_symbol|FOS|FOS
+entrezgene|11138|11138	hgnc_symbol|TBC1D8|TBC1D8	hgnc_symbol|TBC1D8|TBC1D8
+entrezgene|4208|4208	hgnc_symbol|MEF2C|MEF2C	hgnc_symbol|MEF2C|MEF2C

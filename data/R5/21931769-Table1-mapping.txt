@@ -1,0 +1,25 @@
+# Generate Mapping Tables Script: Version 4 11:04 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:04 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+entrezgene|6543|6543	hgnc_symbol|SLC8A2|SLC8A2
+entrezgene|1043|1043	hgnc_symbol|CD52|CD52
+entrezgene|6659|6659	hgnc_symbol|SOX4|SOX4
+entrezgene|147906|147906	hgnc_symbol|DACT3|DACT3
+entrezgene|1013|1013	hgnc_symbol|CDH15|CDH15
+entrezgene|162494|162494	hgnc_symbol|RHBDL3|RHBDL3
+entrezgene|4093|4093	hgnc_symbol|SMAD9|SMAD9
+entrezgene|6615|6615	hgnc_symbol|SNAI1|SNAI1
+entrezgene|285489|285489	hgnc_symbol|DOK7|DOK7
+entrezgene|9148|9148	hgnc_symbol|NEURL|NEURL
+entrezgene|3726|3726	hgnc_symbol|JUNB|JUNB
+entrezgene|51207|51207	hgnc_symbol|DUSP13|DUSP13
+entrezgene|80725|80725	hgnc_symbol|SRCIN1|SRCIN1
+entrezgene|57571|57571	hgnc_symbol|CARNS1|CARNS1
+entrezgene|2786|2786	hgnc_symbol|GNG4|GNG4
+entrezgene|29993|29993	hgnc_symbol|PACSIN1|PACSIN1
+entrezgene|9625|9625	hgnc_symbol|AATK|AATK
+entrezgene|126567|126567	hgnc_symbol|C2CD4C|C2CD4C
+entrezgene|1907|1907	hgnc_symbol|EDN2|EDN2

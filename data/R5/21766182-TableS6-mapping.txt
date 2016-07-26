@@ -1,0 +1,40 @@
+# Generate Mapping Tables Script: Version 4 11:04 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:04 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+affy_hg_u133_plus_2|241493_at|241493_at	entrezgene|50743|50743
+affy_hg_u133_plus_2|231055_at|231055_at	entrezgene|40310|40310
+affy_hg_u133_plus_2|234418_x_at|234418_x_at	entrezgene|43668|43668
+affy_hg_u133_plus_2|239903_at|239903_at	entrezgene|49153|49153
+affy_hg_u133_plus_2|226388_at|226388_at	entrezgene|35645|35645
+affy_hg_u133_plus_2|227923_at|227923_at	entrezgene|37178|37178
+affy_hg_u133_plus_2|211988_at|211988_at	entrezgene|21296|21296
+affy_hg_u133_plus_2|224626_at|224626_at	entrezgene|33886|33886
+affy_hg_u133_plus_2|242784_at|242784_at	entrezgene|52034|52034
+affy_hg_u133_plus_2|226803_at|226803_at	entrezgene|36059|36059
+affy_hg_u133_plus_2|234512_x_at|234512_x_at	entrezgene|43762|43762
+affy_hg_u133_plus_2|1560883_s_at|1560883_s_at	entrezgene|5612|5612
+affy_hg_u133_plus_2|222001_x_at|222001_x_at	entrezgene|31282|31282
+affy_hg_u133_plus_2|209287_s_at|209287_s_at	entrezgene|18702|18702
+affy_hg_u133_plus_2|224000_at|224000_at	entrezgene|33275|33275
+affy_hg_u133_plus_2|241012_at|241012_at	entrezgene|50262|50262
+affy_hg_u133_plus_2|200717_x_at|200717_x_at	entrezgene|10166|10166
+affy_hg_u133_plus_2|232187_at|232187_at	entrezgene|41442|41442
+affy_hg_u133_plus_2|205216_s_at|205216_s_at	entrezgene|14664|14664
+affy_hg_u133_plus_2|218723_s_at|218723_s_at	entrezgene|28008|28008
+affy_hg_u133_plus_2|224993_at|224993_at	entrezgene|34252|34252
+affy_hg_u133_plus_2|1569496_s_at|1569496_s_at	entrezgene|9257|9257
+affy_hg_u133_plus_2|235396_at|235396_at	entrezgene|44646|44646
+affy_hg_u133_plus_2|233218_at|233218_at	entrezgene|42471|42471
+affy_hg_u133_plus_2|210587_at|210587_at	entrezgene|19975|19975
+affy_hg_u133_plus_2|212827_at|212827_at	entrezgene|22133|22133
+affy_hg_u133_plus_2|1560932_at|1560932_at	entrezgene|5648|5648
+affy_hg_u133_plus_2|203492_x_at|203492_x_at	entrezgene|12940|12940
+affy_hg_u133_plus_2|212198_s_at|212198_s_at	entrezgene|21505|21505
+affy_hg_u133_plus_2|217844_at|217844_at	entrezgene|27130|27130
+affy_hg_u133_plus_2|230999_at|230999_at	entrezgene|40254|40254
+affy_hg_u133_plus_2|211157_at|211157_at	entrezgene|20521|20521
+affy_hg_u133_plus_2|231866_at|231866_at	entrezgene|41121|41121
+affy_hg_u133_plus_2|219543_at|219543_at	entrezgene|28828|28828

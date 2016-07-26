@@ -1,0 +1,38 @@
+# Generate Mapping Tables Script: Version 4 11:06 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:06 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+entrezgene|6352|6352	hgnc_symbol|CCL5|CCL5
+entrezgene|3627|3627	hgnc_symbol|CXCL10|CXCL10
+entrezgene|3578|3578	hgnc_symbol|IL9|IL9
+entrezgene|3569|3569	hgnc_symbol|IL6|IL6
+entrezgene|3458|3458	hgnc_symbol|IFNG|IFNG
+entrezgene|3600|3600	hgnc_symbol|IL15|IL15
+entrezgene|4055|4055	hgnc_symbol|LTB|LTB
+entrezgene|4792|4792	hgnc_symbol|NFKBIA|NFKBIA
+entrezgene|4790|4790	hgnc_symbol|NFKB1|NFKB1
+entrezgene|84823|84823	hgnc_symbol|LMNB2|LMNB2
+entrezgene|8717|8717	hgnc_symbol|TRADD|TRADD
+entrezgene|7133|7133	hgnc_symbol|TNFRSF1B|TNFRSF1B
+entrezgene|6352|6352	hgnc_symbol|CCL5|CCL5
+entrezgene|330|330	hgnc_symbol|BIRC3|BIRC3
+entrezgene|4792|4792	hgnc_symbol|NFKBIA|NFKBIA
+entrezgene|4790|4790	hgnc_symbol|NFKB1|NFKB1
+entrezgene|8717|8717	hgnc_symbol|TRADD|TRADD
+entrezgene|8718|8718	hgnc_symbol|TNFRSF25|TNFRSF25
+entrezgene|2620|2620	hgnc_symbol|GAS2|GAS2
+entrezgene|637|637	hgnc_symbol|BID|BID
+entrezgene|7412|7412	hgnc_symbol|VCAM1|VCAM1
+entrezgene|3117|3117	hgnc_symbol|HLA-DQA1|HLA-DQA1
+entrezgene|3109|3109	hgnc_symbol|HLA-DMB|HLA-DMB
+entrezgene|3119|3119	hgnc_symbol|HLA-DQB1|HLA-DQB1
+entrezgene|6401|6401	hgnc_symbol|SELE|SELE
+entrezgene|214|214	hgnc_symbol|ALCAM|ALCAM
+entrezgene|3117|3117	hgnc_symbol|HLA-DQA1|HLA-DQA1
+entrezgene|4261|4261	hgnc_symbol|CIITA|CIITA
+entrezgene|972|972	hgnc_symbol|CD74|CD74
+entrezgene|3109|3109	hgnc_symbol|HLA-DMB|HLA-DMB
+entrezgene|3119|3119	hgnc_symbol|HLA-DQB1|HLA-DQB1
+entrezgene|1520|1520	hgnc_symbol|CTSS|CTSS

@@ -1,0 +1,103 @@
+Gene Symbol	Gene Name	CNTF-SM fold change	FBS-SM fold change	Function
+AURKA	Aurora kinase A	-4.45	-1.29	Cell Cycle
+BIRC5	Baculoviral IAP repeat-containing protein 5	-3.29	-1.21	Cell Cycle
+CCNA2	Cyclin A2	-4.88	-1.26	Cell Cycle
+CCNB1	G2/mitotic-specific cyclin B1	-4.01	-1.18	Cell Cycle
+CCNB2	G2/mitotic-specific cyclin B2	-5.42	-1.22	Cell Cycle
+CCNB3	G2/mitotic-specific cyclin B3	-3.91	-1.21	Cell Cycle
+CCND2	G1/S-specific cyclin D2	-2.58	-1.16	Cell Cycle
+CCNE1	G1/S-specific cyclin E1	-2.38	-1.05	Cell Cycle
+CCNF	G2/mitotic-specific cyclin F	-3.45	-1.22	Cell Cycle
+CDC2	Cell division cycle protein 2	-4.45	-1.18	Cell Cycle
+CDC6	Cell division cycle protein 6	-3.89	-1.1	Cell Cycle
+CDC7	Cell division cycle 7-related protein kinase	-2.01	-1.15	Cell Cycle
+CDCA2	Cell division cycle associated 2	-4.73	-1.17	Cell Cycle
+CDK2	Cell division protein kinase 2	-2.16	1.16	Cell Cycle
+CDK6	Cell division protein kinase 6	-2.06	-1.02	Cell Cycle
+CDKN1C	Cyclin-dependent kinase inhibitor 1C	1.63	-2.24	Cell Cycle
+CDKN2A	Cyclin-dependent kinase inhibitor 2A	-2.34	1.17	Cell Cycle
+CDKN2C	Cyclin-dependent kinase inhibitor 2C	-2.35	-1.24	Cell Cycle
+CDKN3	Cyclin-dependent kinase inhibitor 3	-2.39	-1.17	Cell Cycle
+CHEK1	Serine/threonine-protein kinase Chk1	-4.79	-1.67	Cell Cycle
+CHEK2	Serine/threonine-protein kinase Chk2	-3.02	-1.3	Cell Cycle
+GTSE1	G2 and S phase expressed protein 1	-4.68	-1.21	Cell Cycle
+KPNA2	Karyopherin alpha 2	-4.71	-1.34	Cell Cycle
+MAD2L1	Mitotic arrest deficient 2-like 1	-3.88	-1.24	Cell Cycle
+MCM2	DNA replication licensing factor MCM2	-3.69	-1.11	Cell Cycle
+MCM4	DNA replication licensing factor MCM4	-3.83	1.09	Cell Cycle
+MCM5	DNA replication licensing factor MCM5	-4.58	-1.05	Cell Cycle
+CLDN11	Claudin 11	16.33	1.43	Progenitor Markers
+KIT	Mast/stem cell growth factor receptor (CD117)	9.47	6.68	Progenitor Markers
+KLF4	Krueppel-like factor 4	-3.42	-1.33	Progenitor Markers
+MYCN	N-myc proto-oncogene	5.07	4.05	Progenitor Markers
+NES	Nestin	-4.85	-1.37	Progenitor Markers
+ELAVL2	ELAV-like 2	10.05	5.96	DNA/Transcription Regulation
+FLI1	Friend leukemia integration 1 transcription factor	42.9	13.54	DNA/Transcription Regulation
+MAFB	Transcription factor MafB	12.93	5.22	DNA/Transcription Regulation
+MEF2C	Myocyte enhancer factor 2C	5.48	4	DNA/Transcription Regulation
+RNASET2	Ribonuclease T2	7.72	3.59	DNA/Transcription Regulation
+RUNX1T1	Protein MTG8	16.91	7.69	DNA/Transcription Regulation
+SOX11	Transcription factor SOX-11	2.32	1.74	DNA/Transcription Regulation
+TBR1	T-brain-1 protein (TBR-1)	3.9	1.66	DNA/Transcription Regulation
+TCEAL2	Transcription elongation factor A protein-like 2	7.07	4.96	DNA/Transcription Regulation
+TOPOII	DNA topoisomerase II	-3.37	-1.31	DNA/Transcription Regulation
+SLA-B	MHC class I histocompatibility antigen	2.36	6.47	Surface Antigens
+SLA-DMB	MHC class II histocompatibility antigen	15.33	7.92	Surface Antigens
+SLA-DQA1	MHC class II histocompatibility antigen	7.6	5.56	Surface Antigens
+SLA-DQB1	MHC class II histocompatibility antigen	34.68	15.76	Surface Antigens
+SLA-DRA	MHC class II histocompatibility antigen	42.15	26.19	Surface Antigens
+SLA-DRB1	MHC class II histocompatibility antigen	817.21	481.88	Surface Antigens
+BMP2	Bone morphogenic protein 2	4.29	1.75	Cell Signaling
+CCL3L1	Chemokine (C-C motif) ligand 3-like 1	7.8	3.43	Cell Signaling
+CCR1	Chemokine (C-C motif) receptor 1	4.53	2.33	Cell Signaling
+CD14	CD14 molecule	3.96	1.6	Cell Signaling
+CD74	CD74 antigen	18.22	8.12	Cell Signaling
+CD180	CD180 molecule	5.14	2.86	Cell Signaling
+CRABP1	Cellular retinoic acid binding protein 1	7.83	5.35	Cell Signaling
+CXCL2	Chemokine (C-X-C motif) ligand 2	4.19	10.56	Cell Signaling
+IL7R	Interleukin 7 receptor	3.91	5.69	Cell Signaling
+IL8	Interleukin 8	46.89	200.66	Cell Signaling
+IL13RA1	Interleukin 13 Receptor alpha 1	3.62	2.09	Cell Signaling
+IL16	Interleukin 16	2.81	1.8	Cell Signaling
+RXRG	Retinoid X receptor, gamma	12.38	3.65	Cell Signaling
+TLR2	Toll-like receptor 2	8.08	4.91	Cell Signaling
+APC	Adenomatous polyposis coli protein	2.05	1.1	Wnt Pathway
+DIXDC1	DIX domain containing 1	-3.31	-1.25	Wnt Pathway
+DKK1	Dickkopf-related protein 1	-16.54	-8.93	Wnt Pathway
+DKK2	Dickkopf-related protein 2	1.45	3.94	Wnt Pathway
+FRZB	Frizzled-related protein	2.25	3.56	Wnt Pathway
+FZD5	Frizzled 5	1.98	3.08	Wnt Pathway
+FZD6	Frizzled 6	1.94	2.16	Wnt Pathway
+FZD8	Frizzled 8	2.75	1.69	Wnt Pathway
+LEF1	Lymphoid enhancer binding factor 1	-6.65	-2.84	Wnt Pathway
+TCF7L1	Transcription factor 7-like 1	3.5	2.33	Wnt Pathway
+WIF1	Wnt inhibitory factor 1	2.51	3.69	Wnt Pathway
+WNT2B	Wnt 2B	2.38	3.81	Wnt Pathway
+WNT4	Wnt 4	4.32	2.26	Wnt Pathway
+WNT5B	Wnt 5B	2.45	2.58	Wnt Pathway
+AQP4	Aquaporin 4	15.27	14.57	Astrocyte Markers
+GFAP	Glial fibrillary acidic protein	5.05	7.13	Astrocyte Markers
+MAG	Myelin-associated glycoprotein	13.36	-1.03	Oligodendrocyte Markers
+MBP	Myelin basic protein	8.81	1.26	Oligodendrocyte Markers
+MOBP	Myelin-associated oligodendrocyte basic protein	24.21	12.08	Oligodendrocyte Markers
+TYROBP	TYRO protein tyrosine kinase binding protein	97.51	32.7	Oligodendrocyte Markers
+DCX	Doublecortin	5.16	2.77	Neuron Markers
+INA	Internexin alpha	12.17	4.58	Neuron Markers
+L1CAM	Neural cell adhesion molecule L1	3.8	1.74	Neuron Markers
+MAPT	Microtubule-associated protein tau	5.34	3.04	Neuron Markers
+NEFL	Neurofilament light peptide	1.71	2.74	Neuron Markers
+NEFM	Neurofilament medium peptide	-2.35	6.56	Neuron Markers
+RELN	Reelin	1.47	2.97	Neuron Markers
+STMN2	Stathmin 2	6.36	3.13	Neuron Markers
+TUBB3	Tubulin, beta 3	2.08	2.07	Neuron Markers
+EPHA4	EPH receptor A4	2.52	1.38	Axon/Neurite Projection Markers
+NDRG2	NDRG2 protein	2.7	2.24	Axon/Neurite Projection Markers
+NRN1	Neuritin	2.89	1.75	Axon/Neurite Projection Markers
+NRSN1	Neurensin 1	2.72	1.48	Axon/Neurite Projection Markers
+ROBO1	Roundabout homolog 1	2.66	1.99	Axon/Neurite Projection Markers
+SCG2	Secretogranin II	4.5	4.3	Synapse
+SH3GL3	SH3-containing GRB2-like protein 3	17.34	2.12	Synapse
+SVOP	Senaptic Vesicle-2 related protein	9.66	5.79	Synapse
+SYNPO2	Synaptopodin-2	2.38	3.55	Synapse
+SYNPR	Synaptoporin	3.44	2.6	Synapse
+SYT1	Synaptotagmin-1	7.45	3.05	Synapse

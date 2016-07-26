@@ -1,0 +1,61 @@
+Top	miRNA	Chromosomal Location	Fold change	FDR-corrected P value
+MLL-1	hsa-let-7b	22q13.31	down 69	<0.001
+MLL-2	hsa-let-7c	21q21.1	down 16	<0.001
+MLL-3	hsa-mir-708	11q14.1	down 288	0.002
+MLL-4	hsa-mir-192	11q13.1	down 3	0.002
+MLL-5	hsa-mir-196a	17q21.32;12q13.13	up 2283	0.002
+MLL-6	hsa-mir-194	1q41; 11q13.1	down 3	0.002
+MLL-7	hsa-mir-497	17p13.1	down 24	0.003
+MLL-8	hsa-mir-20b	Xq26.2	down 6	0.003
+MLL-9	hsa-mir-133a	18q11.2; 20q13.33	up 47	0.009
+MLL-10	hsa-mir-372	19q13.41	down 27	0.009
+TEL-AML1-1	hsa-mir-213	1q31.3	down 5	<0.0001
+TEL-AML1-2	hsa-mir-99a	21q21.1	up 38	<0.001
+TEL-AML1-3	hsa-mir-100	11q24.1	up 30	<0.001
+TEL-AML1-4	hsa-mir-125b	11q24.1; 21q21.1	up 35	<0.001
+TEL-AML1-5	hsa-mir-126	9q34.3	up 4	<0.001
+TEL-AML1-6	hsa-mir-383	8p22	up 1671	<0.001
+TEL-AML1-7	hsa-mir-221	Xp11.3	down 7	<0.001
+TEL-AML1-8	hsa-mir-126	9q34.3	up 3	<0.001
+TEL-AML1-9	hsa-mir-629	15q23	up 4	<0.001
+TEL-AML1-10	hsa-mir-361	Xq21.2	down 2	<0.001
+BCR-ABL-1	hsa-mir-93	7q22.1	down 2	0.015
+BCR-ABL-2	hsa-mir-484	16p13.11	down 2	0.015
+BCR-ABL-3	hsa-mir-331	12q22	down 2	0.023
+BCR-ABL-4	hsa-mir-103	5q35.1; 20p13	down 2	0.023
+BCR-ABL-5	hsa-mir-1226	3p21.31	down 2	0.023
+BCR-ABL-6	hsa-mir-345	14q32.2	down 3	0.024
+BCR-ABL-7	hsa-mir-210	11p12	down 5	0.024
+BCR-ABL-8	hsa-mir-301	17q22	down 3	0.024
+BCR-ABL-9	hsa-mir-324	17p13.1	down 2	0.024
+BCR-ABL-10	hsa-mir-148b	12q13.13	down 2	0.024
+E2A-PBX1-1	hsa-mir-126	9q34.3	down 28	0.001
+E2A-PBX1-2	hsa-mir-126	9q34.3	down 34	0.001
+E2A-PBX1-3	hsa-mir-146a	5q33.3	down 14	0.001
+E2A-PBX1-4	hsa-mir-545	Xq13.2	down 5	0.001
+E2A-PBX1-5	hsa-mir-24	9q22.32; 19p13.13	down 4	0.001
+E2A-PBX1-6	hsa-mir-29a	7q32.3	down 3	0.001
+E2A-PBX1-7	hsa-mir-511	10p12.33	down 706	0.001
+E2A-PBX1-8	hsa-mir-365	16p13.12; 17q11.2	down 6	0.001
+E2A-PBX1-9	hsa-mir-30d	8q24.22	down 2	0.001
+E2A-PBX1-10	hsa-mir-193a	17q11.2	down 8	0.001
+hyperdiploid-1	hsa-mir-223	Xq11.2	up 4	<0.0001
+hyperdiploid-2	hsa-mir-222	Xp11.3	up 5	<0.0001
+hyperdiploid-3	hsa-mir-98	Xp11.22	up 3	<0.0001
+hyperdiploid-4	hsa-mir-511	10p12.33	up 7	<0.0001
+hyperdiploid-5	hsa-mir-222	Xp11.3	up 4	<0.001
+hyperdiploid-6	hsa-mir-660	Xp11.23	up 3	<0.001
+hyperdiploid-7	hsa-mir-361	Xq21.2	up 3	<0.001
+hyperdiploid-8	hsa-mir-374a	Xq13.2	up 3	<0.001
+hyperdiploid-9	hsa-mir-532	Xp11.23	up 3	<0.001
+hyperdiploid-10	hsa-mir-501	Xp11.23	up 3	<0.001
+T-ALL-1	hsa-mir-191	3p21.31	down 3	<0.0001
+T-ALL-2	hsa-mir-190	15q22.2	up 6	<0.0001
+T-ALL-3	hsa-mir-151	8q24.3	down 48	<0.0001
+T-ALL-4	hsa-mir-425	3p21.31	down 4	<0.0001
+T-ALL-5	hsa-mir-222	Xp11.3	down 8	<0.0001
+T-ALL-6	hsa-mir-542	Xq26.3	up 234	<0.0001
+T-ALL-7	hsa-mir-708	11q14.1	down 3884	<0.0001
+T-ALL-8	hsa-mir-132	17p13.3	down 6	<0.001
+T-ALL-9	hsa-mir-425	3p21.31	down 3	<0.001
+T-ALL-10	hsa-mir-342	14q32.2	up 3	<0.001

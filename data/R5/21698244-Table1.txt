@@ -1,0 +1,40 @@
+Gene Symbol	Gene Title	p-value(microarray)	p-value(qRT-PCR)	R2(qRT-PCR)	Expression
+BLVRB	Biliverdin reductase B (flavin reductase (NADPH))	0.0322553	0.000087	0.14	Upregulated Genes
+BPGM	2,3-bisphosphoglycerate mutase	0.0351863	0.000029	0.1611	Upregulated Genes
+C1QB	Complement component 1, q subcomponent, B chain	0.00673087	0.000000059	0.2345	Upregulated Genes
+C20orf108	Chromosome 20 open reading frame 108	0.0001927	0.024	0.0504	Upregulated Genes
+CARD12	Caspase recruitment domain family, member 12	0.00647157	0.04	0.044	Upregulated Genes
+CHPT1	Choline phosphotransferase 1	0.0414433	0.0034	0.0863	Upregulated Genes
+F5	Coagulation factor V (proaccelerin, labile factor)	0.0349511	0.011	0.064	Upregulated Genes
+GLRX5	Glutaredoxin 5 homolog (S. cerevisiae)	0.00303576	0.00072	0.1095	Upregulated Genes
+GYPA	Glycophorin A (MNS blood group)	0.00176843	0.018	0.0562	Upregulated Genes
+GYPB	Glycophorin B (MNS blood group)	0.0104615	0.018	0.0556	Upregulated Genes
+IGF2BP2	Insulin-like growth factor 2 mRNA binding protein 2	0.0166351	0.0000065	0.1788	Upregulated Genes
+IL1R2	Interleukin 1 receptor, type II	0.00972327	0.0026	0.0908	Upregulated Genes
+IRAK3	Interleukin-1 receptor-associated kinase 3	0.00052347	0.016	0.0599	Upregulated Genes
+LGALS3	Lectin, galactoside-binding, soluble, 3 (galectin 3)	0.0045688	0.00047	0.1164	Upregulated Genes
+NEDD4L	Neural precursor cell expressed, developmentally down-regulated 4-like	0.0157874	2.5E-09	0.2787	Upregulated Genes
+NEDD9	Neural precursor cell expressed, developmentally down-regulated 9	0.0386422	0.009	0.0669	Upregulated Genes
+NUDT4	Nudix (nucleoside diphosphate linked moiety X)-type motif 4	0.00417398	0.000015	0.1684	Upregulated Genes
+PBX1	Pre-B-cell leukemia transcription factor 1	0.00458616	0.0052	0.0774	Upregulated Genes
+PLAUR	Plasminogen activator, urokinase receptor	0.0351704	0.043	0.0419	Upregulated Genes
+PLEK2	Pleckstrin 2	0.00079183	4.2E-22	0.4979	Upregulated Genes
+PLXDC2	Plexin domain containing 2	0.00322457	0.000000005	0.2637	Upregulated Genes
+SIAH2	Seven in absentia homolog 2 (Drosophila)	0.0006551	0.000003	0.1927	Upregulated Genes
+SLC4A1	Solute carrier family 4, anion exchanger, member 1 (erythrocyte membrane protein band 3, Diego blood group)	0.0107523	0.000029	0.1548	Upregulated Genes
+TMOD1	Tropomodulin 1	0.00191409	0.0016	0.0959	Upregulated Genes
+TNS1	Tensin 1	0.0276222	0.013	0.0612	Upregulated Genes
+TSPAN5	Tetraspanin 5	0.0375013	0.0013	0.0998	Upregulated Genes
+XK	X-linked Kx blood group (McLeod syndrome)	0.00753119	0.00000098	0.2066	Upregulated Genes
+CNKSR2	Connector enhancer of kinase suppressor of Ras 2	0.007204	0.000021	0.1681	Downregulated Genes
+EDIL3	EGF-like repeats and discoidin I-like domains 3	0.018857	0.00062	0.1113	Downregulated Genes
+INPP4B	Inositol polyphosphate-4-phosphatase, type II, 105 kDa	0.000733	0.0042	0.084	Downregulated Genes
+KCNK2	Potassium channel, subfamily K, member 2	0.024077	0.000000038	0.2452	Downregulated Genes
+LARGE	Like-glycosyltransferase	0.000698	0.0000035	0.1885	Downregulated Genes
+NBEA	Neurobeachin	0.005041	0.000017	0.1677	Downregulated Genes
+NUCKS1	Nuclear casein kinase and cyclin-dependent kinase substrate 1	0.038581	0.007	0.0732	Downregulated Genes
+PTPRK	Protein tyrosine phosphatase, receptor type, K	0.044927	0.000083	0.1473	Downregulated Genes
+SCAND2	SCAN domain containing 2	0.011046	0.000026	0.1623	Downregulated Genes
+ST6GALNAC5	ST6 (alpha-N-acetyl-neuraminyl-2,3-beta-galactosyl-1,3)-N-acetylgalactosaminide alpha-2,6-sialyltransferase 5	0.005612	0.017	0.0592	Downregulated Genes
+TLK2	Tousled-like kinase 2	0.012065	0.034	0.0462	Downregulated Genes
+ZBTB10	Zinc finger and BTB domain containing 10	0.038739	0.00088	0.1087	Downregulated Genes

@@ -1,0 +1,40 @@
+# Generate Mapping Tables Script: Version 4 11:05 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:05 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+hgnc_symbol|A1CF|A1CF
+hgnc_symbol|ABCC2|ABCC2
+hgnc_symbol|ACSM2B|ACSM2B
+hgnc_symbol|ACSM3|ACSM3
+hgnc_symbol|AKAP2|AKAP2
+hgnc_symbol|ALDH1A2|ALDH1A2
+hgnc_symbol|ANKRD1|ANKRD1
+hgnc_symbol|C8B|C8B
+hgnc_symbol|CDH4|CDH4
+hgnc_symbol|DLL3|DLL3
+hgnc_symbol|DSCAM|DSCAM
+hgnc_symbol|FAM81A|FAM81A
+hgnc_symbol|GBX2|GBX2
+hgnc_symbol|GCKR|GCKR
+hgnc_symbol|ICAM5|ICAM5
+hgnc_symbol|ITGB1BP3|ITGB1BP3
+hgnc_symbol|KDR|KDR
+hgnc_symbol|MGC5566|MGC5566
+hgnc_symbol|MYH6|MYH6
+hgnc_symbol|NOG|NOG
+hgnc_symbol|NR2E1|NR2E1
+hgnc_symbol|NRN1|NRN1
+hgnc_symbol|PAX3|PAX3
+hgnc_symbol|PDE3B|PDE3B
+hgnc_symbol|PRSS7|PRSS7
+hgnc_symbol|PTPRZ1|PTPRZ1
+hgnc_symbol|RBFOX1|RBFOX1
+hgnc_symbol|RPS8|RPS8
+hgnc_symbol|TEAD1|TEAD1
+hgnc_symbol|TLX2|TLX2
+hgnc_symbol|TMEM121|TMEM121
+hgnc_symbol|VRTN|VRTN
+hgnc_symbol|WISP1|WISP1
+hgnc_symbol|ZDHHC21|ZDHHC21

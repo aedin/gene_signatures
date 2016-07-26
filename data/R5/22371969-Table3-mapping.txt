@@ -1,0 +1,14 @@
+# Generate Mapping Tables Script: Version 4 11:06 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:06 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+mirbase_id|hsa-miR-17|hsa-miR-17
+mirbase_id|hsa-miR-20a|hsa-miR-20a
+mirbase_id|hsa-miR-20b|hsa-miR-20b
+mirbase_id|hsa-miR-106a|hsa-miR-106a
+mirbase_id|hsa-miR-31|hsa-miR-31
+mirbase_id|hsa-miR-125a-5p|hsa-miR-125a-5p
+mirbase_id|hsa-miR-125b|hsa-miR-125b
+mirbase_id|hsa-miR-193a-3p|hsa-miR-193a-3p

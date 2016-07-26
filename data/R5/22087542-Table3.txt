@@ -1,0 +1,83 @@
+Gene	Gene Description	Crystalline silica (microg/cm2) 15	Crystalline silica (microg/cm2) 30	Crystalline silica (microg/cm2) 60	Crystalline silica (microg/cm2) 120	Crystalline silica (microg/cm2) 240	Time interval (hrs) 2	Time interval (hrs) 6	Time interval (hrs) 24	Function
+SOD2	Superoxide dismutase 2	1.08	1.11	1.21	1.98	2.5	-1.05	1.21	4.52	Reactive Oxygen Species
+CAT	Catalase	1.02	-1.05	-1.07	-1.16	-1.14	-1.08	-1.07	-1.24	Reactive Oxygen Species
+SMOX	Spermine oxidase	1.33	1.39	1.55	2.99	3.52	1.33	1.55	2.55	Reactive Oxygen Species
+CYR61	Cysteine-rich angiogenic inducer 61	1.12	1.59	1.9	2.47	1.57	2.11	1.9	1.55	Reactive Oxygen Species
+NFE2L2	Nuclear factor erythroid derived 2 like 2	1.03	1.05	1.15	1.83	1.61	1.28	1.15	-1.05	Antioxidant/Oxidative Stress
+NFkB1	Nuclear factor of kappa light polypeptide gene enhancer in B-cells 1	-1.04	1.18	1.31	2	2.03	1.11	1.31	1.5	Antioxidant/Oxidative Stress
+NFkB2	Nuclear factor of kappa light polypeptide gene enhancer in B-cells 2	1.04	1.02	1.05	1.12	1.11	1.05	1.05	1.09	Antioxidant/Oxidative Stress
+NFkBIZ	Nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, zeta	1.15	1.21	1.23	2.51	3.31	1.18	1.23	2.86	Antioxidant/Oxidative Stress
+DUSP1	Dual specificity phosphatase 1	1.24	1.22	1.49	2.47	3	1.56	1.49	1.55	Antioxidant/Oxidative Stress
+DUSP5	Dual specificity phosphatase 5	1.92	1.79	2.48	5.74	8.02	2.84	2.48	2.98	Antioxidant/Oxidative Stress
+FOS	v-fos FBJ murine osteosarcoma viral oncogene homolog	1.24	1.36	1.42	3.93	20.34	2.06	1.42	1.24	Antioxidant/Oxidative Stress
+JUNB	jun B proto-oncogene	1.02	-1	1.07	1.46	1.72	1.2	1.07	-1.03	Antioxidant/Oxidative Stress
+c-JUN	jun oncogene	1.27	1.46	1.87	5.46	10.64	2.17	1.87	2.4	Antioxidant/Oxidative Stress
+STC1	Stanniocalcin 1	1.63	1.75	2.37	4.67	5.4	1.9	2.37	2.75	Antioxidant/Oxidative Stress
+STC2	Stanniocalcin 2	1.22	1.31	1.55	2.06	2.03	1.02	1.55	3.35	Antioxidant/Oxidative Stress
+IRF1	Interferon regulatory factor1	1.1	1.06	1.14	1.54	1.33	-1.04	1.54	1.15	Inflammation
+RELA	v-rel reticuloendotheliosis viral oncogene homolog A	1.02	1.06	1.11	1.22	1.12	1.05	1.11	1.13	Inflammation
+RELB	v-rel reticuloendotheliosis viral oncogene homolog B	1.2	1.24	1.51	1.92	1.73	-1.01	1.51	1.92	Inflammation
+IL1A	Interleukin 1 alpha	1.05	1.02	1.05	1.86	2.62		1.05	1.22	Inflammation
+IL1B	Interleukin 1 beta		.1.00	1.02	1.28	1.45		1.28	1.6	Inflammation
+IL6	Interleukin 6	1.12	1.24	1.58	6.17	8.51	1.43	1.58	6.14	Inflammation
+IL8	Interleukin 8	3.16	3.84	7.13	35.72	41.6	9.77	7.13	18.21	Inflammation
+IL11	Interleukin 11	1.08	1.23	1.47	3.75	4.92	1.89	1.47	1.49	Inflammation
+IRAK2	Interleukin-1 receptor-associated kinase 2	1.63	1.77	1.89	5.56	7.15	1.66	1.89	3.54	Inflammation
+PTGS2	Prostaglandin-endoperoxide synthase 2	1.51	1.55	2.21	11.13	15.09	2.38	2.21	3.91	Inflammation
+CCL2/MCP1	Chemokine (C-C motif ) ligand 2	1.68	1.77	1.67	3.3	3.57	1.38	1.67	3.23	Inflammation
+CL20/MIP3 alpha	Chemokine (C-C motif) ligand 20	1.06	1.06	1.23	3.2	4.16	1.13	1.23	2.39	Inflammation
+CXCL1/ GRO1	Chemokine (C-X-C motif ) ligand 1		-1	1.04	1.41	1.5		1.04	1.6	Inflammation
+CXCL2/MIP-2	Chemokine (C-X-C motif ) ligand 2	1.24	1.12	1.29	3.81	3.58	1.38	1.29	3.23	Inflammation
+CXCL5	Chemokine (C-X-C motif ) ligand 5	1.24	1.17	1.57	2.7	4.16	1.13	1.57	2.39	Inflammation
+CXC18/IL8	Interleukin 8	3.16	3.84	7.13	35.72	41.6	9.77	7.13	18.21	Inflammation
+PLAU	Plasminogen activator urokinase	1.23	1.44	1.75	2.44	1.83	1.48	1.75	1.53	Inflammation
+ITGA2	Integrin alpha 2 (CD49B, alpha 2 subunit of VLA-2 receptor)	-1.05	1.11	1.26	1.74	1.57	1.03	1.26	1.81	Inflammation
+MMP10	Matrix metallopeptidase 10		1.03	1.04	1.87	3.82		1.04	1.71	Inflammation
+CEBPB	CCAAT/enhancer binding protein	1.13	1.23	1.42	2.78	3.62	1.86	1.42	2.08	Inflammation
+NFE2L2	Nuclear factor erythroid derived 2 like 2	1.03	1.05	1.15	1.83	1.61	1.28	1.15	-1.05	Apoptosis
+NFkB1	Nuclear factor of kappa light polypeptide gene enhancer in B-cells 1	-1.04	1.18	1.31	2	2.03	1.11	1.31	1.5	Apoptosis
+NFkB2	Nuclear factor of kappa light polypeptide gene enhancer in B-cells 2 (p49/p100)	1.04	1.02	1.05	1.12	1.11	1.05	1.05	1.05	Apoptosis
+NFkBIA	Nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor alpha	1.1	1.32	1.45	2.93	4.48	1.35	1.45	1.94	Apoptosis
+NFkBIZ	Nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, zeta	1.15	1.21	1.23	2.51	3.31	1.18	1.23	2.86	Apoptosis
+GDF-15	Growth differentiation factor 15	1.65	1.5	1.75	5.33	9.68	1.74	1.75	2.38	Apoptosis
+GADD45alpha	Growth arrest and DNA-damage-inducible 45 alpha	1.19	1.46	1.62	3.08	3.81	1.59	1.62	1.79	Apoptosis
+GADD34	Growth arrest and DNA-damage-inducible 34	1.86	2.1	2.82	5.88	10.93	2.72	2.82	3.56	Apoptosis
+EGR1	Early Growth Response 1	1.91	2.05	2.51	13.65	36.34	6.46	2.51	2.49	Apoptosis
+BIRC3	Baculoviral IAP repeat-containing 3	1.27	1.58	2.01	5.78	8.51	1.59	2.01	2.43	Apoptosis
+c-FOS	v-fos FBJ murine osteosarcoma viral oncogene homolog	1.24	1.36	1.42	3.93	20.34	2.06	1.42	1.24	Apoptosis
+FOSB	FBJ murine osteosarcoma viral oncogene homolog B	3.58	3.87	4.3	11.64	34.73	9.83	4.3	3.74	Apoptosis
+FOSL1	FOS-like antigen 1	1.1	1.31	1.63	2.93	2.33	1.39	1.63	1.44	Apoptosis
+CYR61	Cysteine-rich angiogenic inducer 61	1.12	1.59	1.9	2.47	1.57	2.11	1.9	1.55	Apoptosis
+JUND	jun D proto-oncogene	-1.03	1.1	1.2	2.26	3.26	1.17	1.2	-1.01	Apoptosis
+OKL-38	Pregnancy-induced growth inhibitor	-1.18	1.1	1.16	1.79	2.49	1.32	1.16	-1.16	Apoptosis
+EFNA1	Ephrin-A1	1.31	1.32	1.45	2.72	2.93	1.1	1.45	1.88	Cancer
+MYC	v-myc myelocytomatosis viral oncogene homolog (avian)	1.14	1.22	1.32	1.69	2.16	1.23	1.32	1.16	Cancer
+CEBPB	CCAAT/enhancer binding protein	1.13	1.23	1.42	2.78	3.62	1.86	1.42	2.08	Cancer
+TRIB1	Tribbles homolog 1 (Drosophila)	1.13	1.09	1.22	2.57	3.9	1.34	1.22	1.55	Cancer
+PTGS2	Prostaglandin-endoperoxide synthase 2	1.51	1.55	2.21	11.13	15.09	2.38	2.21	3.91	Cancer
+ZFP36	Zinc finger protein 36	1.36	1.44	1.58	6.43	10.65	2.16	1.58	1.1	Cancer
+KLF2	Kruppel-like factor 2	1.33	1.67	1.87	2.38	1.9	1.88	1.87	1.18	Cancer
+KLF6	Kruppel-like factor 6	1.38	1.61	1.97	5.14	6.84	2.03	1.97	2.38	Cancer
+KLF11	Kruppel-like factor 11	1.08	1.13	1.21	1.6	1.65	1.14	1.21	1.58	Cancer
+KLF13	Kruppel-like factor 13	1.14	1.22	1.38	1.71	1.32	1.01	1.38	1.15	Cancer
+ETS1	v-ets erythroblastosis virus E26 oncogene homolog 1	1.36	1.44	1.77	3.5	3.58	1.35	1.77	2.06	Cancer
+DDIT3	DNA-damage-inducible transcript 3	1.36	1.48	1.63	3.11	4.15	1.25	1.63	2.17	Cancer
+FGF2	Fibroblast growth factor 2	1	1	1.1	1.25	1.27	1.07	1.1	1.07	Cancer
+EGR1	Early Growth Response 1	1.91	2.05	2.51	13.65	36.34	6.46	2.51	2.49	Cellular Growth and Proliferation
+RELB	v-rel reticuloendotheliosis viral oncogene homolog B	1.2	1.24	1.51	1.92	1.73	–1.01	1.51	1.92	Cellular Growth and Proliferation
+IL8	Interleukin 8	3.16	3.84	7.13	35.72	41.6	9.77	7.13	18.21	Cellular Growth and Proliferation
+DUSP5	Dual specificity phosphatases 5	1.92	1.79	2.48	5.74	8.02	2.84	2.48	2.98	Cellular Growth and Proliferation
+FST	Follistatin	1.41	1.62	2.2	4.57	4.6	1.25	2.2	2.48	Cellular Growth and Proliferation
+ETS1	v-ets erythroblastosis virus E26 oncogene homolog 1	1.36	1.44	1.77	3.5	3.58	1.35	1.77	2.06	Cellular Growth and Proliferation
+EGR1	Early Growth Response 1	1.91	2.05	2.51	13.65	36.34	6.46	2.51	2.49	Cell Cycle
+ETS1	v-ets erythroblastosis virus E26 oncogene homolog 1	1.36	1.44	1.77	3.5	3.58	1.35	1.77	2.06	Cell Cycle
+STC1	Stanniocalcin 1	1.63	1.75	2.37	4.67	5.4	1.9	2.37	2.75	Cell Cycle
+c-JUN	jun oncogene	1.27	1.46	1.87	5.46	10.64	2.17	1.87	2.4	Cell Cycle
+NFkBIA	Nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor alpha	1.1	1.32	1.45	2.93	4.48	1.35	1.45	1.94	Cell Cycle
+PTGS2	Prostaglandin-endoperoxide synthase 2	1.51	1.55	2.21	11.13	15.09	2.38	2.21	3.91	Cell Cycle
+CSF2	Colony stimulating factor 2 (granulocyte-macrophage)		1.07	1.13	2.48	3.81	1.08	1.13	2.04	Cellular Development
+CEBPB	CCAAT/enhancer binding protein (C/EBP)	1.13	1.23	1.42	2.78	3.62	1.86	1.42	2.08	Cellular Development
+EGR1	Early Growth Response 1	1.91	2.05	2.51	13.65	36.34	6.46	2.51	2.49	Cellular Development
+FOSL1	FOS-like antigen 1	1.1	1.31	1.63	2.93	2.33	1.39	1.63	1.44	Cellular Development
+c-JUN	jun oncogene	1.27	1.46	1.87	5.46	10.64	2.17	1.87	2.4	Cellular Development
+FOXO1	Forkhead box O1	1.17	1.21	1.41	2.06	1.76	1.16	1.41	1.33	Cellular Development

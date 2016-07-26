@@ -1,0 +1,28 @@
+Curated Gene Symbol	Inflammatory mediator or ratio	Median level (pg/ml) (IQR) for UM (n = 31)	Median level (pg/ml) (IQR) for Non-SMA (n = 37)	Median level (pg/ml) (IQR) for SMA (n = 80)	P value	Function
+	IL-1beta	160.2 (323.6)	162.5 (309.3)	156.8 (277.7)	0.97	Cytokine or ratio
+	IL-1Ra	2,300.7 (2,396.8)	2,297.1 (2,082.3)	1,450.3 (2,021.0)	0.063	Cytokine or ratio
+IL2	IL-2	36.5 (104.5)	24.1 (66.1)	31.4 (61.4)	0.743	Cytokine or ratio
+	IL-2R	1,039.0 (1,577.5)	2,072.0 (1,085.5)	2,129.0 (2,737.7)	<0.001	Cytokine or ratio
+IL4	IL-4	7.7 (23.1)	1.7 (8.0)	4.9 (15.6)	0.02	Cytokine or ratio
+IL5	IL-5	1.7 (4.5)	1.4 (3.0)	1.6 (2.6)	0.708	Cytokine or ratio
+IL6	IL-6	50.6 (175.4)	68.7 (189.2)	97.9 (140.5)	0.003	Cytokine or ratio
+IL7	IL-7	25.8 (47.0)	8.5 (45.2)	1.3 (33.6)	0.456	Cytokine or ratio
+IL8	IL-8	16.8 (27.3)	11.9 (18.6)	15.3 (22.8)	0.716	Cytokine or ratio
+IL10	IL-10	168.4 (660.8)	569.6 (745.5)	254.5 (570.5)	<0.001	Cytokine or ratio
+	IL-12p70	362.0 (279.9)	439.6 (301.3)	340.1 (221.3)	0.016	Cytokine or ratio
+IL13	IL-13	29.6 (53.9)	29.6 (32.9)	29.5 (48.6)	0.157	Cytokine or ratio
+IL15	IL-15	53.0 (87.4)	22.4 (60.8)	26.9 (38.3)	0.106	Cytokine or ratio
+IL17A	IL-17	6.5 (24.8)	10.1 (19.3)	4.7 (11.3)	0.031	Cytokine or ratio
+	TNF-alpha	29.4 (39.3)	22.0 (51.1)	31.3 (49.2)	0.611	Cytokine or ratio
+IFNA1	IFN-alpha	32.8 (122.8)	12.3 (51.5)	8.4 (53.5)	0.057	Cytokine or ratio
+	IFN-gamma	16.2 (59.2)	8.0 (25.7)	4.2 (14.1)	0.102	Cytokine or ratio
+	IL-1Ra/IL-1beta	22.3 (45.4)	15.0 (52.1)	11.8 (46.3)	0.471	Cytokine or ratio
+	IL-2R/IL-2	12.6 (96.7)	71.1 (879.1)	70.0 (174.3)	0.026	Cytokine or ratio
+CSF2	GM-CSF	84.4 (362.5)	18.3 (137.5)	39.7 (164.5)	0.525	Growth factor or chemokine
+	MIP-1alpha	114.0 (137.2)	146.2 (87.0)	103.3 (105.0)	0.277	Growth factor or chemokine
+	MIP-1beta	411.7 (688.6)	343.7 (399.6)	404.3 (362.3)	0.888	Growth factor or chemokine
+CXCL10	IP-10	197.1 (694.3)	422.9 (1,155.4)	204.2 (509.2)	0.008	Growth factor or chemokine
+CXCL9	MIG	110.0 (155.0)	187.0 (216.5)	119.0 (157.5)	0.572	Growth factor or chemokine
+	Eotaxin	40.3 (22.5)	35.0 (32.8)	42.8 (27.8)	0.564	Growth factor or chemokine
+CCL5	RANTES	18,176 (100,486)	13,952 (37,060)	17,270 (144,999)	0.719	Growth factor or chemokine
+CCL2	MCP-1	235.1 (235.9)	226.2 (235.8)	192.8 (199.1)	0.431	Growth factor or chemokine

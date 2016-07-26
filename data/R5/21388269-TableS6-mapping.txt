@@ -1,0 +1,31 @@
+# Generate Mapping Tables Script: Version 4 11:03 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:03 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+efg_agilent_wholegenome_4x44k_v1|A_23_P379475|A_23_P379475	hgnc_symbol|DHCR24|DHCR24
+efg_agilent_wholegenome_4x44k_v1|A_23_P118246|A_23_P118246	hgnc_symbol|GINS2|GINS2
+efg_agilent_wholegenome_4x44k_v1|A_32_P143700|A_32_P143700	hgnc_symbol|DB160230|DB160230
+efg_agilent_wholegenome_4x44k_v1|A_23_P369502|A_23_P369502	hgnc_symbol|PADI4|PADI4
+efg_agilent_wholegenome_4x44k_v1|A_23_P46618|A_23_P46618	hgnc_symbol|PLXNA2|PLXNA2
+efg_agilent_wholegenome_4x44k_v1|A_23_P25155|A_23_P25155	hgnc_symbol|GPR84|GPR84
+efg_agilent_wholegenome_4x44k_v1|A_32_P170664|A_32_P170664	hgnc_symbol|AK024898|AK024898
+efg_agilent_wholegenome_4x44k_v1|A_23_P14734|A_23_P14734	hgnc_symbol|RPS27L|RPS27L
+efg_agilent_wholegenome_4x44k_v1|A_24_P925664|A_24_P925664	hgnc_symbol|THC2545454|THC2545454
+efg_agilent_wholegenome_4x44k_v1|A_24_P89457|A_24_P89457	hgnc_symbol|CDKN1A|CDKN1A
+efg_agilent_wholegenome_4x44k_v1|A_23_P23221|A_23_P23221	hgnc_symbol|GADD45A|GADD45A
+efg_agilent_wholegenome_4x44k_v1|A_23_P70290|A_23_P70290	hgnc_symbol|TMEM30A|TMEM30A
+efg_agilent_wholegenome_4x44k_v1|A_23_P31681|A_23_P31681	hgnc_symbol|AK074467|AK074467
+efg_agilent_wholegenome_4x44k_v1|A_23_P128408|A_23_P128408	hgnc_symbol|TRIAP1|TRIAP1
+efg_agilent_wholegenome_4x44k_v1|A_24_P180424|A_24_P180424	hgnc_symbol|TMEM30A|TMEM30A
+efg_agilent_wholegenome_4x44k_v1|A_23_P206077|A_23_P206077	hgnc_symbol|ISG20L1|ISG20L1
+efg_agilent_wholegenome_4x44k_v1|A_23_P59210|A_23_P59210	hgnc_symbol|CDKN1A|CDKN1A
+efg_agilent_wholegenome_4x44k_v1|A_23_P30254|A_23_P30254	hgnc_symbol|PLK2|PLK2
+efg_agilent_wholegenome_4x44k_v1|A_23_P139895|A_23_P139895	hgnc_symbol|MGC5370|MGC5370
+efg_agilent_wholegenome_4x44k_v1|A_24_P127462|A_24_P127462	hgnc_symbol|LOC392454|LOC392454
+efg_agilent_wholegenome_4x44k_v1|A_32_P85230|A_32_P85230	hgnc_symbol|BE646426|BE646426
+efg_agilent_wholegenome_4x44k_v1|A_23_P28886|A_23_P28886	hgnc_symbol|PCNA|PCNA
+efg_agilent_wholegenome_4x44k_v1|A_23_P62959|A_23_P62959	hgnc_symbol|PHLDA3|PHLDA3
+efg_agilent_wholegenome_4x44k_v1|A_23_P52610|A_23_P52610	hgnc_symbol|DDB2|DDB2
+efg_agilent_wholegenome_4x44k_v1|A_23_P38154|A_23_P38154	hgnc_symbol|FDXR|FDXR

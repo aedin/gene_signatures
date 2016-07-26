@@ -1,0 +1,20 @@
+# Generate Mapping Tables Script: Version 4 11:04 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:04 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+affy_hg_u133_plus_2|212198_s_at|212198_s_at	entrezgene|21505|21505
+affy_hg_u133_plus_2|219478_at|219478_at	entrezgene|28763|28763
+affy_hg_u133_plus_2|1557797_a_at|1557797_a_at	entrezgene|3898|3898
+affy_hg_u133_plus_2|1561307_at|1561307_at	entrezgene|5915|5915
+affy_hg_u133_plus_2|210180_s_at|210180_s_at	entrezgene|19585|19585
+affy_hg_u133_plus_2|1558544_at|1558544_at	entrezgene|4267|4267
+affy_hg_u133_plus_2|243049_at|243049_at	entrezgene|52300|52300
+affy_hg_u133_plus_2|1562847_at|1562847_at	entrezgene|6856|6856
+affy_hg_u133_plus_2|216692_at|216692_at	entrezgene|25983|25983
+affy_hg_u133_plus_2|213524_s_at|213524_s_at	entrezgene|22826|22826
+affy_hg_u133_plus_2|207453_s_at|207453_s_at	entrezgene|16896|16896
+affy_hg_u133_plus_2|214401_at|214401_at	entrezgene|23701|23701
+affy_hg_u133_plus_2|226171_at|226171_at	entrezgene|35428|35428
+affy_hg_u133_plus_2|223454_at|223454_at	entrezgene|32732|32732

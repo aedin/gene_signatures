@@ -1,0 +1,28 @@
+# Generate Mapping Tables Script: Version 4 11:03 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:03 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+
+entrezgene|23428|23428	hgnc_symbol|SLC7A8|SLC7A8
+entrezgene|6513|6513	hgnc_symbol|SLC2A1|SLC2A1
+entrezgene|9389|9389	hgnc_symbol|SLC22A14|SLC22A14
+entrezgene|6518|6518	hgnc_symbol|SLC2A5|SLC2A5
+entrezgene|10058|10058	hgnc_symbol|ABCB6|ABCB6
+entrezgene|10057|10057	hgnc_symbol|ABCC5|ABCC5
+entrezgene|9619|9619	hgnc_symbol|ABCG1|ABCG1
+entrezgene|1562|1562	hgnc_symbol|CYP2C18|CYP2C18
+entrezgene|6833|6833	hgnc_symbol|ABCC8|ABCC8
+entrezgene|1557|1557	hgnc_symbol|CYP2C19|CYP2C19
+entrezgene|56606|56606	hgnc_symbol|SLC2A9|SLC2A9
+entrezgene|51310|51310	hgnc_symbol|SLC22A17|SLC22A17
+entrezgene|54716|54716	hgnc_symbol|SLC6A20|SLC6A20
+entrezgene|1080|1080	hgnc_symbol|CFTR|CFTR
+entrezgene|1559|1559	hgnc_symbol|CYP2C9|CYP2C9
+entrezgene|6523|6523	hgnc_symbol|SLC5A1|SLC5A1
+entrezgene|1544|1544	hgnc_symbol|CYP1A2|CYP1A2
+entrezgene|55867|55867	hgnc_symbol|SLC22A11|SLC22A11
+entrezgene|6539|6539	hgnc_symbol|SLC6A12|SLC6A12
+entrezgene|6545|6545	hgnc_symbol|SLC7A4|SLC7A4
+entrezgene|9122|9122	hgnc_symbol|SLC16A4|SLC16A4

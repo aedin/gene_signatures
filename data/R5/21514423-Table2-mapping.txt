@@ -1,0 +1,46 @@
+# Generate Mapping Tables Script: Version 4 11:05 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:05 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+entrezgene|440915|440915	hgnc_symbol|ACTBL3|ACTBL3
+entrezgene|1982|1982	hgnc_symbol|EIF4G2|EIF4G2
+entrezgene|26509|26509	hgnc_symbol|FER1L3|FER1L3
+entrezgene|6387|6387	hgnc_symbol|CXCL12|CXCL12
+entrezgene|6307|6307	hgnc_symbol|SC4MOL|SC4MOL
+entrezgene|1634|1634	hgnc_symbol|DCN|DCN
+entrezgene|29927|29927	hgnc_symbol|SEC61A1|SEC61A1
+entrezgene|55970|55970	hgnc_symbol|GNG12|GNG12
+entrezgene|7078|7078	hgnc_symbol|TIMP3|TIMP3
+entrezgene|203068|203068	hgnc_symbol|TUBB|TUBB
+entrezgene|60|60	hgnc_symbol|ACTB|ACTB
+entrezgene|1452|1452	hgnc_symbol|CSNK1A1|CSNK1A1
+entrezgene|7846|7846	hgnc_symbol|TUBA1A|TUBA1A
+entrezgene|58533|58533	hgnc_symbol|SNX6|SNX6
+entrezgene|79567|79567	hgnc_symbol|FAM65A|FAM65A
+entrezgene|715|715	hgnc_symbol|C1R|C1R
+entrezgene|80233|80233	hgnc_symbol|C17orf70|C17orf70
+entrezgene|11167|11167	hgnc_symbol|FSTL1|FSTL1
+entrezgene|716|716	hgnc_symbol|C1S|C1S
+entrezgene|1499|1499	hgnc_symbol|CTNNB1|CTNNB1
+entrezgene|10484|10484	hgnc_symbol|SEC23A|SEC23A
+entrezgene|8140|8140	hgnc_symbol|SLC7A5|SLC7A5
+entrezgene|10938|10938	hgnc_symbol|EHD1|EHD1
+entrezgene|6917|6917	hgnc_symbol|TCEA1|TCEA1
+entrezgene|493|493	hgnc_symbol|ATP2B4|ATP2B4
+entrezgene|7415|7415	hgnc_symbol|VCP|VCP
+entrezgene|715|715	hgnc_symbol|C1R|C1R
+entrezgene|23466|23466	hgnc_symbol|CBX6|CBX6
+entrezgene|57484|57484	hgnc_symbol|RNF150|RNF150
+entrezgene|3371|3371	hgnc_symbol|TNC|TNC
+entrezgene|4131|4131	hgnc_symbol|MAP1B|MAP1B
+entrezgene|2192|2192	hgnc_symbol|FBLN1|FBLN1
+entrezgene|6294|6294	hgnc_symbol|SAFB|SAFB
+entrezgene|140609|140609	hgnc_symbol|NEK7|NEK7
+entrezgene|71|71	hgnc_symbol|ACTG1|ACTG1
+entrezgene|84617|84617	hgnc_symbol|TUBB6|TUBB6
+entrezgene|102|102	hgnc_symbol|ADAM10|ADAM10
+entrezgene|1499|1499	hgnc_symbol|CTNNB1|CTNNB1
+entrezgene|3688|3688	hgnc_symbol|ITGB1|ITGB1
+entrezgene|253827|253827	hgnc_symbol|MSRB3|MSRB3

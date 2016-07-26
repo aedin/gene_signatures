@@ -1,0 +1,34 @@
+# Generate Mapping Tables Script: Version 4 11:04 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:04 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+hgnc_symbol|CCK|CCK
+hgnc_symbol|CLDN1|CLDN1
+hgnc_symbol|DNAJC12|DNAJC12
+hgnc_symbol|FADS1|FADS1
+hgnc_symbol|FCGRT|FCGRT
+hgnc_symbol|FLRT2|FLRT2
+hgnc_symbol|KDSR|KDSR
+hgnc_symbol|GRK5|GRK5
+hgnc_symbol|GSTM2|GSTM2
+hgnc_symbol|GSTM4|GSTM4
+hgnc_symbol|GYG2|GYG2
+hgnc_symbol|IL1RAP|IL1RAP
+hgnc_symbol|KCNE3|KCNE3
+hgnc_symbol|KIAA1462|KIAA1462
+hgnc_symbol|KMO|KMO
+hgnc_symbol|LDB2|LDB2
+hgnc_symbol|VWA5A|VWA5A
+hgnc_symbol|MYOM2|MYOM2
+hgnc_symbol|NR0B1|NR0B1
+hgnc_symbol|NRN1|NRN1
+hgnc_symbol|OPN3|OPN3
+hgnc_symbol|PKP1|PKP1
+hgnc_symbol|RCOR1|RCOR1
+hgnc_symbol|SIRPA|SIRPA
+hgnc_symbol|SLC17A7|SLC17A7
+hgnc_symbol|STEAP2|STEAP2
+hgnc_symbol|STK32B|STK32B
+hgnc_symbol|XG|XG

@@ -1,0 +1,31 @@
+# Generate Mapping Tables Script: Version 4 11:05 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:05 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+unigene|Hs00171462_m1|Hs00171462_m1	hgnc_symbol|PAEP|PAEP
+unigene|Hs00190278_m1|Hs00190278_m1	hgnc_symbol|TGM2|TGM2
+unigene|Hs00156548_m1|Hs00156548_m1	hgnc_symbol|CLU|CLU
+unigene|Hs00171254_m1|Hs00171254_m1	hgnc_symbol|IGF2|IGF2
+unigene|Hs00174360_m1|Hs00174360_m1	hgnc_symbol|IL6ST|IL6ST
+unigene|Hs00164847_m1|Hs00164847_m1	hgnc_symbol|HGD|HGD
+unigene|Hs00170684_m1|Hs00170684_m1	hgnc_symbol|EVA1|EVA1
+unigene|Hs00163781_m1|Hs00163781_m1	hgnc_symbol|LOC90133|LOC90133
+unigene|Hs00161511_m1|Hs00161511_m1	hgnc_symbol|SAT1|SAT1
+unigene|Hs00167549_m1|Hs00167549_m1	hgnc_symbol|ANXA1|ANXA1
+unigene|Hs00402742_m1|Hs00402742_m1	hgnc_symbol|SLC25A29|SLC25A29
+unigene|Hs00832816_g1|Hs00832816_g1	hgnc_symbol|CRIP1|CRIP1
+unigene|Hs00299262_m1|Hs00299262_m1	hgnc_symbol|SLC39A14|SLC39A14
+unigene|Hs00426339_m1|Hs00426339_m1	hgnc_symbol|C4BPalpha|C4BPalpha
+unigene|Hs00165140_m1|Hs00165140_m1	hgnc_symbol|MAOA|MAOA
+unigene|Hs00163811_m1|Hs00163811_m1	hgnc_symbol|C3|C3
+unigene|Hs00244603_m1|Hs00244603_m1	hgnc_symbol|SERPINB9|SERPINB9
+unigene|Hs00243201_m1|Hs00243201_m1	hgnc_symbol|S100A4|S100A4
+unigene|Hs00153133_m1|Hs00153133_m1	hgnc_symbol|COX2|COX2
+unigene|Hs00177083_m1|Hs00177083_m1	hgnc_symbol|MAPK8|MAPK8
+unigene|Hs01026983_m1|Hs01026983_m1	hgnc_symbol|JAK1|JAK1
+unigene|Hs00377632_m1|Hs00377632_m1	hgnc_symbol|CTSL1|CTSL1
+unigene|Hs00996915_m1|Hs00996915_m1	hgnc_symbol|PLA2G4A|PLA2G4A
+unigene|Hs00168310_m1|Hs00168310_m1	hgnc_symbol|GSTP1|GSTP1
+unigene|Hs02758991_g1|Hs02758991_g1	hgnc_symbol|GAPDH|GAPDH

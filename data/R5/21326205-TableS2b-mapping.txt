@@ -1,0 +1,12 @@
+# Generate Mapping Tables Script: Version 4 11:03 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:03 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+unigene|Hs.440848|Hs.440848	hgnc_symbol|VWF|VWF
+unigene|Hs.78824|Hs.78824	hgnc_symbol|Tie-1|Tie-1
+unigene|Hs.89640|Hs.89640	hgnc_symbol|Tie-2 (TEK)|Tie-2 (TEK)
+unigene|Hs.514412|Hs.514412	hgnc_symbol|PECAM1|PECAM1
+unigene|Hs.510402|Hs.510402	hgnc_symbol|CD46 (MCP)|CD46 (MCP)
+unigene|Hs.479756|Hs.479756	hgnc_symbol|VEGFR2 (KDR)|VEGFR2 (KDR)

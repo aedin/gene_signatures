@@ -1,0 +1,31 @@
+# Generate Mapping Tables Script: Version 4 11:03 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:03 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+affy_hg_u133_plus_2|204712_at|204712_at	hgnc_symbol|WIF1|WIF1
+affy_hg_u133_plus_2|205278_at|205278_at	hgnc_symbol|GAD1|GAD1
+affy_hg_u133_plus_2|229554_at|229554_at
+affy_hg_u133_plus_2|218469_at|218469_at	hgnc_symbol|GREM1|GREM1
+affy_hg_u133_plus_2|218468_s_at|218468_s_at	hgnc_symbol|GREM1|GREM1
+affy_hg_u133_plus_2|1555778_a_at|1555778_a_at	hgnc_symbol|POSTN|POSTN
+affy_hg_u133_plus_2|206439_at|206439_at	hgnc_symbol|EPYC|EPYC
+affy_hg_u133_plus_2|204913_s_at|204913_s_at	hgnc_symbol|SOX11|SOX11
+affy_hg_u133_plus_2|203980_at|203980_at	hgnc_symbol|FABP4|FABP4
+affy_hg_u133_plus_2|229271_x_at|229271_x_at	hgnc_symbol|COL11A1|COL11A1
+affy_hg_u133_plus_2|209644_x_at|209644_x_at	hgnc_symbol|CDKN2A|CDKN2A
+affy_hg_u133_plus_2|207039_at|207039_at	hgnc_symbol|CDKN2A|CDKN2A
+affy_hg_u133_plus_2|229479_at|229479_at
+affy_hg_u133_plus_2|238877_at|238877_at	hgnc_symbol|EYA4|EYA4
+affy_hg_u133_plus_2|221690_s_at|221690_s_at	hgnc_symbol|NLRP2|NLRP2
+affy_hg_u133_plus_2|204915_s_at|204915_s_at	hgnc_symbol|SOX11|SOX11
+affy_hg_u133_plus_2|203824_at|203824_at	hgnc_symbol|TSPAN8|TSPAN8
+affy_hg_u133_plus_2|219564_at|219564_at	hgnc_symbol|KCNJ16|KCNJ16
+affy_hg_u133_plus_2|227566_at|227566_at	hgnc_symbol|NTM|NTM
+affy_hg_u133_plus_2|214571_at|214571_at	hgnc_symbol|FGF3|FGF3
+affy_hg_u133_plus_2|220179_at|220179_at	hgnc_symbol|DPEP3|DPEP3
+affy_hg_u133_plus_2|232056_at|232056_at	hgnc_symbol|SCEL|SCEL
+affy_hg_u133_plus_2|229331_at|229331_at	hgnc_symbol|SPATA18|SPATA18
+affy_hg_u133_plus_2|215108_x_at|215108_x_at	hgnc_symbol|TOX3|TOX3
+affy_hg_u133_plus_2|214651_s_at|214651_s_at	hgnc_symbol|HOXA9|HOXA9

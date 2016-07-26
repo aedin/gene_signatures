@@ -1,0 +1,20 @@
+Curated Gene Symbol	Symbol	Assay ID	Gene name	Microarray (average RQ)	Family
+BAX	BAX	Hs00751844_s1	BCL2-associated X protein	2.58	Proapoptotic BCL-2 family genes
+BCL2L2	BCL2L2	Hs00187848_m1	BCL2-like 2; BCL-W	1.69	Antiapoptotic BCL-2 family genes
+BCL2L11	BCL2L11	Hs00708019_s1	BCL2-like 11 (apoptosis facilitator); BIM, BAM	-2.49	Antiapoptotic BCL-2 family genes
+BIRC3	BIRC3	Hs00985031_g1	Baculoviral IAP repeat containing 3; c-IAP2	1.78	IAP family genes
+XIAP	BIRC4	Hs00745222_s1	X-linked inhibitor of apoptosis; XIAP	2.1	IAP family genes
+BIRC6	BIRC6	Hs00212288_m1	Baculoviral IAP repeat-containing 6; APOLLON	2.25	IAP family genes
+CASP2	CASP2	Hs00892481_m1	Caspase 2, apoptosis-related cysteine peptidase; NEDD2	1.53	Caspase and CARD family
+CASP4	CASP4	Hs01031947_m1	Caspase 4, apoptosis-related cysteine peptidase	3.53	Caspase and CARD family
+CASP8	CASP8	Hs01018151_m1	Caspase 8, apoptosis-related cysteine peptidase	2.25	Caspase and CARD family
+NOD1	CARD4	Hs00196075_m1	Nucleotide-binding oligomerization domain containing 1	1.51	Caspase and CARD family
+NLRP1	NALP1	Hs00248187_m1	NLR family, pyrin domain containing 1; CARD7	-1.71	Caspase and CARD family
+NFKBID	TA-NFKBH	Hs01076336_m1	Nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, delta; NFKBID	1.53	NF-kappa-B inhibitor family
+IKBKB	IKBKB	Hs00395088_m1	Inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase beta; IKKB, IKK2	1.82	NF-kappa-B inhibitor family
+IKBKE	IKBKE	Hs01063858_m1	Inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase epsilon; IKKE	1.61	NF-kappa-B inhibitor family
+TNFRSF1A	TNFRSF1A	Hs01042313_m1	Tumor necrosis factor receptor superfamily, member 1A	3.06	TNF receptor family
+TNFRSF10B	TNFRSF10B	Hs00366272_m1	Tumor necrosis factor receptor superfamily, member 10b; TRAIL-R2, KILLER	2.29	TNF receptor family
+FADD	FADD	Hs00538709_m1	Fas (TNFRSF6)-associated via death domain	-2.1	TNF receptor family
+PIDD	LRDD	Hs00388035_m1	P53-induced death domain protein; PIDD	1.56	Death domain family
+APAF1	APAF1	Hs00559441_m1	Apoptotic peptidase activating factor 1	-2.27	Other proapoptotic genes

@@ -1,0 +1,46 @@
+# Generate Mapping Tables Script: Version 4 11:07 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:07 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+illumina_mousewg_6_v2|33266_at|33266_at	refseq_dna|NM_004217|NM_004217	mgi_symbol|Aurkb|Aurkb
+illumina_mousewg_6_v2|33611_g_at|33611_g_at	refseq_dna|NM_199328|NM_199328	mgi_symbol|Cldn8|Cldn8
+illumina_mousewg_6_v2|38604_at|38604_at	refseq_dna|NM_000905|NM_000905	mgi_symbol|Npy|Npy
+illumina_mousewg_6_v2|37930_at|37930_at	refseq_dna|NM_000053 /// NM_001005918|NM_000053	mgi_symbol|Atp7b|Atp7b
+illumina_mousewg_6_v2|36912_at|36912_at	refseq_dna|NM_005441|NM_005441	mgi_symbol|Chaf1b|Chaf1b
+illumina_mousewg_6_v2|36192_at|36192_at	refseq_dna|NM_014766|NM_014766	mgi_symbol|Scrn1|Scrn1
+illumina_mousewg_6_v2|40697_at|40697_at	refseq_dna|NM_001237|NM_001237	mgi_symbol|Ccna2|Ccna2
+illumina_mousewg_6_v2|34736_at|34736_at	refseq_dna|NM_031966|NM_031966	mgi_symbol|Ccnb1|Ccnb1
+illumina_mousewg_6_v2|40726_at|40726_at	refseq_dna|NM_004523|NM_004523	mgi_symbol|Kif11|Kif11
+illumina_mousewg_6_v2|37228_at|37228_at	refseq_dna|NM_005030|NM_005030	mgi_symbol|Plk1|Plk1
+illumina_mousewg_6_v2|38920_at|38920_at	refseq_dna|NM_001114121 /// NM_001114122 /// NM_001274|NM_001114121	mgi_symbol|Chek1|Chek1
+illumina_mousewg_6_v2|31864_at|31864_at	refseq_dna|NM_005792|NM_005792	mgi_symbol|Mphosph6|Mphosph6
+illumina_mousewg_6_v2|36836_at|36836_at	refseq_dna|NM_001024628 /// NM_001024629 /// NM_003873|NM_001024628	mgi_symbol|Nrp1|Nrp1
+illumina_mousewg_6_v2|35016_at|35016_at	refseq_dna|NM_001025158 /// NM_001025159 /// NM_004355|NM_001025158	mgi_symbol|Cd74|Cd74
+illumina_mousewg_6_v2|38796_at|38796_at	refseq_dna|NM_000491|NM_000491	mgi_symbol|C1qb|C1qb
+illumina_mousewg_6_v2|37479_at|37479_at	refseq_dna|NM_001782|NM_001782	mgi_symbol|Cd72|Cd72
+illumina_mousewg_6_v2|583_s_at|583_s_at	refseq_dna|NM_001078 /// NM_080682|NM_001078	mgi_symbol|Vcam1|Vcam1
+illumina_mousewg_6_v2|37918_at|37918_at	refseq_dna|NM_000211 /// NM_001127491|NM_000211	mgi_symbol|Itgb2|Itgb2
+illumina_mousewg_6_v2|40715_at|40715_at	refseq_dna|NM_005582|NM_005582	mgi_symbol|Cd180|Cd180
+illumina_mousewg_6_v2|38976_at|38976_at	refseq_dna|NM_007074|NM_007074	mgi_symbol|Coro1a|Coro1a
+illumina_mousewg_6_v2|1405_i_at|1405_i_at	refseq_dna|NM_002985|NM_002985	mgi_symbol|Ccl5|Ccl5
+illumina_mousewg_6_v2|36277_at|36277_at	refseq_dna|NM_000733|NM_000733	mgi_symbol|Cd3e|Cd3e
+illumina_mousewg_6_v2|31820_at|31820_at	refseq_dna|NM_005335|NM_005335	mgi_symbol|Hcls1|Hcls1
+illumina_mousewg_6_v2|34481_at|34481_at	refseq_dna|NM_005428|NM_005428	mgi_symbol|Vav1|Vav1
+illumina_mousewg_6_v2|37328_at|37328_at	refseq_dna|NM_002664|NM_002664	mgi_symbol|Plek|Plek
+illumina_mousewg_6_v2|1984_s_at|1984_s_at	refseq_dna|NM_001175|NM_001175	mgi_symbol|Arhgdib|Arhgdib
+illumina_mousewg_6_v2|1506_at|1506_at	refseq_dna|NM_000206|NM_000206	mgi_symbol|Il2rg|Il2rg
+illumina_mousewg_6_v2|40296_at|40296_at	refseq_dna|NM_018990|NM_018990	mgi_symbol|Sash3|Sash3
+illumina_mousewg_6_v2|33238_at|33238_at	refseq_dna|NM_001042771 /// NM_005356|NM_001042771	mgi_symbol|Lck|Lck
+illumina_mousewg_6_v2|1365_at|1365_at	refseq_dna|NM_000878|NM_000878	mgi_symbol|Il2rb|Il2rb
+illumina_mousewg_6_v2|37975_at|37975_at	refseq_dna|NM_000397|NM_000397	mgi_symbol|Cybb|Cybb
+illumina_mousewg_6_v2|37988_at|37988_at	refseq_dna|NM_000626 /// NM_001039933 /// NM_021602|NM_000626	mgi_symbol|Cd79b|Cd79b
+illumina_mousewg_6_v2|245_at|245_at	refseq_dna|NM_000655|NM_000655	mgi_symbol|Sell|Sell
+illumina_mousewg_6_v2|36650_at|36650_at	refseq_dna|NM_001759|NM_001759	mgi_symbol|Ccnd2|Ccnd2
+illumina_mousewg_6_v2|33813_at|33813_at	refseq_dna|NM_001066|NM_001066	mgi_symbol|Tnfrsf1b|Tnfrsf1b
+illumina_mousewg_6_v2|32593_at|32593_at	refseq_dna|NM_015150|NM_015150	mgi_symbol|Rftn1|Rftn1
+illumina_mousewg_6_v2|32737_at|32737_at	refseq_dna|NM_002872|NM_002872	mgi_symbol|Rac2|Rac2
+illumina_mousewg_6_v2|35869_at|35869_at	refseq_dna|NM_004271|NM_004271	mgi_symbol|Ly86|Ly86
+illumina_mousewg_6_v2|39937_at|39937_at	refseq_dna|NM_000647 /// NM_000648|NM_000647	mgi_symbol|Ccr2|Ccr2
+illumina_mousewg_6_v2|33649_at|33649_at	refseq_dna|NM_005668 /// NM_175052|NM_005668	mgi_symbol|St8sia4|St8sia4

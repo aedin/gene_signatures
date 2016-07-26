@@ -1,0 +1,22 @@
+# Generate Mapping Tables Script: Version 4 11:04 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:04 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+hgnc_symbol|APOE|APOE	hgnc_symbol|AKT1|AKT1	hgnc_symbol|EGFR|EGFR
+hgnc_symbol|AURKA|AURKA	hgnc_symbol|ANXA2|ANXA2	hgnc_symbol|HGF|HGF
+hgnc_symbol|CCNE1|CCNE1	hgnc_symbol|CALR|CALR	hgnc_symbol|MET|MET
+hgnc_symbol|CDC20|CDC20	hgnc_symbol|CCNB1|CCNB1	hgnc_symbol|RHOA|RHOA
+hgnc_symbol|CDC25B|CDC25B	hgnc_symbol|EEF2|EEF2	hgnc_symbol|TNS4|TNS4
+hgnc_symbol|CXCR4|CXCR4	hgnc_symbol|ESM1|ESM1
+hgnc_symbol|E2F1|E2F1	hgnc_symbol|HIF1A|HIF1A
+hgnc_symbol|EGR1|EGR1	hgnc_symbol|MINA|MINA
+hgnc_symbol|GRB2|GRB2	hgnc_symbol|PHB|PHB
+hgnc_symbol|HK2|HK2
+hgnc_symbol|ICAM1|ICAM1
+hgnc_symbol|INHBA|INHBA
+hgnc_symbol|LOXL2|LOXL2
+hgnc_symbol|MCM3|MCM3
+hgnc_symbol|PTMA|PTMA
+hgnc_symbol|SPARC|SPARC

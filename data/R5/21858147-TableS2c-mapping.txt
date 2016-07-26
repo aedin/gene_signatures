@@ -1,0 +1,25 @@
+# Generate Mapping Tables Script: Version 4 11:06 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:06 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+efg_agilent_wholegenome_4x44k_v1|A_23_P316582|A_23_P316582	refseq_dna|NM_152355|NM_152355	hgnc_symbol|ZNF441|ZNF441
+efg_agilent_wholegenome_4x44k_v1|A_23_P373716|A_23_P373716	refseq_dna|NM_145276|NM_145276	hgnc_symbol|ZNF563|ZNF563
+efg_agilent_wholegenome_4x44k_v1|A_24_P944588|A_24_P944588	refseq_dna|NM_033196|NM_033196	hgnc_symbol|ZNF682|ZNF682
+efg_agilent_wholegenome_4x44k_v1|A_23_P208752|A_23_P208752	refseq_dna|NM_032838|NM_032838	hgnc_symbol|ZNF566|ZNF566
+efg_agilent_wholegenome_4x44k_v1|A_23_P16354|A_23_P16354	refseq_dna|NM_032825|NM_032825	hgnc_symbol|ZNF382|ZNF382
+efg_agilent_wholegenome_4x44k_v1|A_32_P82863|A_32_P82863	refseq_dna|NM_001171979|NM_001171979	hgnc_symbol|ZNF829|ZNF829
+efg_agilent_wholegenome_4x44k_v1|A_24_P113287|A_24_P113287	refseq_dna|NM_014518|NM_014518	hgnc_symbol|ZNF229|ZNF229
+efg_agilent_wholegenome_4x44k_v1|A_23_P208210|A_23_P208210	refseq_dna|NM_014650|NM_014650	hgnc_symbol|ZNF432|ZNF432
+efg_agilent_wholegenome_4x44k_v1|A_24_P935276|A_24_P935276	refseq_dna|NM_001010851|NM_001010851	hgnc_symbol|ZNF766|ZNF766
+efg_agilent_wholegenome_4x44k_v1|A_24_P282043|A_24_P282043	refseq_dna|NM_006969|NM_006969	hgnc_symbol|ZNF28|ZNF28
+efg_agilent_wholegenome_4x44k_v1|A_24_P241792|A_24_P241792	refseq_dna|NM_198893|NM_198893	hgnc_symbol|ZNF160|ZNF160
+efg_agilent_wholegenome_4x44k_v1|A_24_P570583|A_24_P570583	refseq_dna|NR_033418|NR_033418	hgnc_symbol|ZNF542|ZNF542
+efg_agilent_wholegenome_4x44k_v1|A_23_P407583|A_23_P407583	refseq_dna|NM_006210|NM_006210	hgnc_symbol|PEG3|PEG3
+efg_agilent_wholegenome_4x44k_v1|A_23_P399146|A_23_P399146	refseq_dna|NM_153263|NM_153263	hgnc_symbol|ZNF549|ZNF549
+efg_agilent_wholegenome_4x44k_v1|A_23_P50217|A_23_P50217	refseq_dna|NM_024833|NM_024833	hgnc_symbol|ZNF671|ZNF671
+efg_agilent_wholegenome_4x44k_v1|A_23_P413634|A_23_P413634	refseq_dna|NM_024620|NM_024620	hgnc_symbol|ZNF329|ZNF329
+efg_agilent_wholegenome_4x44k_v1|A_23_P141856|A_23_P141856	refseq_dna|NM_014480|NM_014480	hgnc_symbol|ZNF544|ZNF544
+efg_agilent_wholegenome_4x44k_v1|A_23_P130466|A_23_P130466	refseq_dna|NM_021089|NM_021089	hgnc_symbol|ZNF8|ZNF8
+efg_agilent_wholegenome_4x44k_v1|A_32_P163558|A_32_P163558	refseq_dna|NM_001130032|NM_001130032	hgnc_symbol|ZNF562|ZNF562

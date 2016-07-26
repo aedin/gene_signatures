@@ -1,0 +1,17 @@
+# Generate Mapping Tables Script: Version 4 11:06 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:06 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+hgnc_symbol|PPP3CC|PPP3CC	hgnc_symbol|CACNA1I|CACNA1I	hgnc_symbol|PPP3CB|PPP3CB	hgnc_symbol|PRKCA|PRKCA	hgnc_symbol|TGFBR2|TGFBR2	hgnc_symbol|CDC25B|CDC25B
+hgnc_symbol|MALT1|MALT1	hgnc_symbol|PPP3CC|PPP3CC	hgnc_symbol|PPP3CB|PPP3CB	hgnc_symbol|PRKCQ|PRKCQ
+hgnc_symbol|PPP3CC|PPP3CC	hgnc_symbol|PPP3CB|PPP3CB	hgnc_symbol|PRKCA|PRKCA	hgnc_symbol|HCST|HCST
+hgnc_symbol|WNT7A|WNT7A	hgnc_symbol|PPP3CC|PPP3CC	hgnc_symbol|PPP3CB|PPP3CB	hgnc_symbol|PRKCA|PRKCA
+hgnc_symbol|PPP3CC|PPP3CC	hgnc_symbol|CACNA1I|CACNA1I	hgnc_symbol|PPP3CB|PPP3CB	hgnc_symbol|PRKCA|PRKCA
+hgnc_symbol|MALT1|MALT1	hgnc_symbol|PPP3CC|PPP3CC	hgnc_symbol|PPP3CB|PPP3CB
+hgnc_symbol|PPP3CC|PPP3CC	hgnc_symbol|PPP3CB|PPP3CB	hgnc_symbol|PRKCA|PRKCA
+hgnc_symbol|PPP3CC|PPP3CC	hgnc_symbol|PPP3CB|PPP3CB	hgnc_symbol|PRKCA|PRKCA
+hgnc_symbol|PPP3CC|PPP3CC	hgnc_symbol|PPP3CB|PPP3CB	hgnc_symbol|ATM|ATM
+hgnc_symbol|CDC14B|CDC14B	hgnc_symbol|ATM|ATM	hgnc_symbol|CDC25B|CDC25B
+hgnc_symbol|CLDN18|CLDN18	hgnc_symbol|PRKCA|PRKCA	hgnc_symbol|PRKCQ|PRKCQ

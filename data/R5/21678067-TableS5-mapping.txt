@@ -1,0 +1,54 @@
+# Generate Mapping Tables Script: Version 4 11:04 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:04 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+refseq_dna|NM_003810|NM_003810	hgnc_symbol|TNFSF10 (APO2L)|TNFSF10 (APO2L)
+refseq_dna|NM_005118|NM_005118	hgnc_symbol|TNFSF15 (TL1)|TNFSF15 (TL1)
+refseq_dna|NM_000576|NM_000576	hgnc_symbol|IL1B|IL1B
+refseq_dna|NM_001657|NM_001657	hgnc_symbol|AREG|AREG
+refseq_dna|NM_006128|NM_006128	hgnc_symbol|BMP1|BMP1
+refseq_dna|NM_001200|NM_001200	hgnc_symbol|BMP2|BMP2
+refseq_dna|NM_001432|NM_001432	hgnc_symbol|EREG|EREG
+refseq_dna|NM_013962|NM_013962	hgnc_symbol|NRG1|NRG1
+refseq_dna|NM_002607|NM_002607	hgnc_symbol|PDGFA|PDGFA
+refseq_dna|NM_003236|NM_003236	hgnc_symbol|TGFA|TGFA
+refseq_dna|NM_000043|NM_000043	hgnc_symbol|FAS|FAS
+refseq_dna|NM_002342|NM_002342	hgnc_symbol|LTBR|LTBR
+refseq_dna|NM_003844|NM_003844	hgnc_symbol|TNFRSF10A (DR4)|TNFRSF10A (DR4)
+refseq_dna|NM_003842|NM_003842	hgnc_symbol|TNFRSF10B (DR5)|TNFRSF10B (DR5)
+refseq_dna|NM_016639|NM_016639	hgnc_symbol|TNFRSF12A (TWEAK-R)|TNFRSF12A (TWEAK-R)
+refseq_dna|NM_148965|NM_148965	hgnc_symbol|TNFRSF25 (DR3)|TNFRSF25 (DR3)
+refseq_dna|NM_014452|NM_014452	hgnc_symbol|TNFRSF21 (DR6)|TNFRSF21 (DR6)
+refseq_dna|NM_003263|NM_003263	hgnc_symbol|TLR1|TLR1
+refseq_dna|NM_003264|NM_003264	hgnc_symbol|TLR2|TLR2
+refseq_dna|NM_003265|NM_003265	hgnc_symbol|TLR3|TLR3
+refseq_dna|NM_000418|NM_000418	hgnc_symbol|IL4R|IL4R
+refseq_dna|NM_001560|NM_001560	hgnc_symbol|IL13RA1|IL13RA1
+refseq_dna|NM_021258|NM_021258	hgnc_symbol|IL22RA1|IL22RA1
+refseq_dna|NM_001569|NM_001569	hgnc_symbol|IRAK1 (not shown in the Figure)|IRAK1 (not shown in the Figure)
+refseq_dna|NM_002468|NM_002468	hgnc_symbol|MYD88 (not shown in the Figure)|MYD88 (not shown in the Figure)
+refseq_dna|NM_015093|NM_015093	hgnc_symbol|TAB2 (MAP3K7IP2)|TAB2 (MAP3K7IP2)
+refseq_dna|NM_182919|NM_182919	hgnc_symbol|TICAM1 (TRIF) (not shown in the Figure)|TICAM1 (TRIF) (not shown in the Figure)
+refseq_dna|NM_002204|NM_002204	hgnc_symbol|ITGA3|ITGA3
+refseq_dna|NM_002211|NM_002211	hgnc_symbol|ITGB1|ITGB1
+refseq_dna|NM_000211|NM_000211	hgnc_symbol|ITGB2|ITGB2
+refseq_dna|NM_000213|NM_000213	hgnc_symbol|ITGB4|ITGB4
+refseq_dna|NM_002214|NM_002214	hgnc_symbol|ITGB8|ITGB8
+refseq_dna|NM_005163|NM_005163	hgnc_symbol|AKT1|AKT1
+refseq_dna|NM_005204|NM_005204	hgnc_symbol|MAP3K8 (Cot)|MAP3K8 (Cot)
+refseq_dna|NM_003954|NM_003954	hgnc_symbol|MAP3K14 (NIK)|MAP3K14 (NIK)
+refseq_dna|NM_145686|NM_145686	hgnc_symbol|MAP4K4 (NIK)|MAP4K4 (NIK)
+refseq_dna|NM_003639|NM_003639	hgnc_symbol|IKBKG (IKK?)|IKBKG (IKK?)
+refseq_dna|NM_002502|NM_002502	hgnc_symbol|NFKB2|NFKB2
+refseq_dna|NM_006509|NM_006509	hgnc_symbol|RELB|RELB
+refseq_dna|NM_138578|NM_138578	hgnc_symbol|BCL2L1 (Bcl-xL)|BCL2L1 (Bcl-xL)
+refseq_dna|NM_001165|NM_001165	hgnc_symbol|BIRC3 (cIAP)|BIRC3 (cIAP)
+refseq_dna|NM_002985|NM_002985	hgnc_symbol|CCL5 (RANTES)|CCL5 (RANTES)
+refseq_dna|NM_053056|NM_053056	hgnc_symbol|CCND1|CCND1
+refseq_dna|NM_001511|NM_001511	hgnc_symbol|CXCL1|CXCL1
+refseq_dna|NM_002090|NM_002090	hgnc_symbol|CXCL3|CXCL3
+refseq_dna|NM_000201|NM_000201	hgnc_symbol|ICAM1|ICAM1
+refseq_dna|NM_000625|NM_000625	hgnc_symbol|NOS2A|NOS2A
+refseq_dna|NM_000930|NM_000930	hgnc_symbol|PLAT|PLAT

@@ -1,0 +1,60 @@
+# Generate Mapping Tables Script: Version 4 11:03 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:03 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+hgnc_symbol|FLJ35409|FLJ35409	hgnc_symbol|PTBP2|PTBP2	hgnc_symbol|DPYD|DPYD
+hgnc_symbol|VRK2|VRK2	hgnc_symbol|AB067499|AB067499
+hgnc_symbol|BCL11A|BCL11A	hgnc_symbol|FANCL|FANCL
+hgnc_symbol|OTX1|OTX1	hgnc_symbol|TMEM17|TMEM17	hgnc_symbol|NACSIN|NACSIN
+hgnc_symbol|AK126774|AK126774	hgnc_symbol|KYNU|KYNU	hgnc_symbol|ARHGAP15|ARHGAP15
+hgnc_symbol|ACVR2|ACVR2	hgnc_symbol|ZFHX1B|ZFHX1B
+hgnc_symbol|GPD2|GPD2	hgnc_symbol|NR4A2|NR4A2
+hgnc_symbol|CDCA7|CDCA7	hgnc_symbol|RAPGEF4|RAPGEF4	hgnc_symbol|ZAK|ZAK
+hgnc_symbol|AF119886|AF119886	hgnc_symbol|ZBTB20|ZBTB20
+hgnc_symbol|AF119886|AF119886	hgnc_symbol|ZBTB20|ZBTB20
+hgnc_symbol|P2RY1|P2RY1	hgnc_symbol|TMEM14E|TMEM14E	hgnc_symbol|MBNL1|MBNL1
+hgnc_symbol|MEF2C|MEF2C	hgnc_symbol|TMEM161B|TMEM161B
+hgnc_symbol|CETN3|CETN3	hgnc_symbol|MEF2C|MEF2C
+hgnc_symbol|ZNF354A|ZNF354A	hgnc_symbol|COL23A1|COL23A1	hgnc_symbol|CLK4|CLK4
+hgnc_symbol|CDKN1A|CDKN1A	hgnc_symbol|STK38|STK38	hgnc_symbol|SFRS3|SFRS3
+hgnc_symbol|PKHD1|PKHD1	hgnc_symbol|TFAP2B|TFAP2B
+hgnc_symbol|POU3F2|POU3F2	hgnc_symbol|C6orf167|C6orf167
+hgnc_symbol|POU3F2|POU3F2	hgnc_symbol|C6orf167|C6orf167
+hgnc_symbol|AB052759|AB052759	hgnc_symbol|MGC27348|MGC27348	hgnc_symbol|TRA2A|TRA2A
+hgnc_symbol|SKAP2|SKAP2	hgnc_symbol|KIAA0087|KIAA0087
+hgnc_symbol|HOXA1|HOXA1	hgnc_symbol|KIAA0087|KIAA0087	hgnc_symbol|SKAP2|SKAP2
+hgnc_symbol|C7orf25|C7orf25	hgnc_symbol|INHBA|INHBA	hgnc_symbol|GLI3|GLI3
+hgnc_symbol|DLX5|DLX5	hgnc_symbol|SHFM1|SHFM1
+hgnc_symbol|AK129682|AK129682	hgnc_symbol|EBF2|EBF2	hgnc_symbol|DOCK5|DOCK5
+hgnc_symbol|FLJ14299|FLJ14299	hgnc_symbol|FKSG2|FKSG2
+hgnc_symbol|ELAVL2|ELAVL2	hgnc_symbol|AK096011|AK096011
+hgnc_symbol|FSD1L|FSD1L	hgnc_symbol|ABCA1|ABCA1	hgnc_symbol|SLC44A1|SLC44A1
+hgnc_symbol|LHX2|LHX2	hgnc_symbol|CRB2|CRB2	hgnc_symbol|DENND1A|DENND1A
+hgnc_symbol|LOC51145|LOC51145	hgnc_symbol|GAPVD1|GAPVD1	hgnc_symbol|MAPKAP1|MAPKAP1
+hgnc_symbol|KCNMA1|KCNMA1	hgnc_symbol|C10orf41|C10orf41	hgnc_symbol|C10orf11|C10orf11
+hgnc_symbol|KCNMA1|KCNMA1	hgnc_symbol|C10orf41|C10orf41	hgnc_symbol|C10orf11|C10orf11
+hgnc_symbol|AF090931|AF090931	hgnc_symbol|LBX1|LBX1	hgnc_symbol|BTRC|BTRC
+hgnc_symbol|PRLHR|PRLHR	hgnc_symbol|CASC2|CASC2	hgnc_symbol|C10orf84|C10orf84
+hgnc_symbol|FLJ11370|FLJ11370	hgnc_symbol|BC022565|BC022565	hgnc_symbol|MGMT|MGMT
+hgnc_symbol|SOX6|SOX6	hgnc_symbol|CALCB|CALCB
+hgnc_symbol|AL136602|AL136602	hgnc_symbol|CALCB|CALCB	hgnc_symbol|SOX6|SOX6
+hgnc_symbol|MASP2|MASP2	hgnc_symbol|AL136602|AL136602	hgnc_symbol|SOX6|SOX6
+hgnc_symbol|MGC15912|MGC15912	hgnc_symbol|CCS|CCS	hgnc_symbol|RBM14|RBM14
+hgnc_symbol|EGLN3|EGLN3	hgnc_symbol|AKAP6|AKAP6	hgnc_symbol|NPAS3|NPAS3
+hgnc_symbol|GARNL1|GARNL1	hgnc_symbol|INSM2|INSM2	hgnc_symbol|GARNL1|GARNL1
+hgnc_symbol|FOXA1|FOXA1	hgnc_symbol|SLC25A21|SLC25A21	hgnc_symbol|MIPOL1|MIPOL1
+hgnc_symbol|FKBP3|FKBP3	hgnc_symbol|FAM179B|FAM179B	hgnc_symbol|PRPF39|PRPF39
+hgnc_symbol|PIAS1|PIAS1	hgnc_symbol|AF130086|AF130086	hgnc_symbol|MAP2K5|MAP2K5
+hgnc_symbol|NQO1|NQO1	hgnc_symbol|CYB5B|CYB5B	hgnc_symbol|NFAT5|NFAT5
+hgnc_symbol|ACACA|ACACA	hgnc_symbol|LHX1|LHX1	hgnc_symbol|AATF|AATF
+hgnc_symbol|SS18|SS18	hgnc_symbol|HRH4|HRH4	hgnc_symbol|ZNF521|ZNF521
+hgnc_symbol|SS18|SS18	hgnc_symbol|HRH4|HRH4	hgnc_symbol|ZNF521|ZNF521
+hgnc_symbol|LOC100132501|LOC100132501	hgnc_symbol|CCDC68|CCDC68	hgnc_symbol|TCF4|TCF4
+hgnc_symbol|LOC100132501|LOC100132501	hgnc_symbol|CCDC68|CCDC68	hgnc_symbol|TCF4|TCF4
+hgnc_symbol|PRO1410|PRO1410	hgnc_symbol|FKSG49|FKSG49	hgnc_symbol|C19orf2|C19orf2
+hgnc_symbol|ZNF507|ZNF507	hgnc_symbol|AL137518|AL137518	hgnc_symbol|TSHZ3|TSHZ3
+hgnc_symbol|ARX|ARX	hgnc_symbol|PCYT1B|PCYT1B	hgnc_symbol|POLA|POLA
+hgnc_symbol|ARX|ARX	hgnc_symbol|POLA|POLA
+hgnc_symbol|MGC39900|MGC39900	hgnc_symbol|MGC39655|MGC39655	hgnc_symbol|PLP1|PLP1

@@ -1,0 +1,64 @@
+order	name	mean fold change	p-value	Cq value
+1	hsa-let-7a	1.0943746	0.586468	non-significant
+2	hsa-let-7b	0.978667	1.6789	non-significant
+3	hsa-let-7c	1.789553	1.789564	non-significant
+4	hsa-let-7d			undetectable
+5	hsa-let-7f			undetectable
+6	hsa-let-7i			undetectable
+7	hsa-miR-1			undetectable
+8	hsa-miR-20a	3.13	0.000000364	significant
+9	hsa-miR-21	4.24	0.0000228	significant
+10	hsa-miR-22			undetectable
+11	hsa-miR-24	2.67	0.001255	significant
+12	hsa-miR-25	5.08	8.18E-10	significant
+13	hsa-miR-26a	4.16	0.128493	non-significant
+14	hsa-miR-27a	1.2960753	0.008085	non-significant
+15	hsa-miR-27b	1.07	0.7567261	non-significant
+16	hsa-miR-28-3p			Cq value > 35
+17	hsa-miR-29a	1.1431785	0.3623874	non-significant
+18	hsa-miR-29c	1.320792	0.1492103	non-significant
+19	hsa-miR-30a	1.4954582	0.0731187	non-significant
+20	hsa-miR-30d	0.8956235	0.5688125	non-significant
+21	hsa-miR-92a	1.2414502	0.3052584	non-significant
+22	hsa-miR-95	1.1179528	0.5932393	non-significant
+23	hsa-miR-99a	2.69	0.0000261	significant
+24	hsa-miR-100	1.0234521	0.9108538	non-significant
+25	hsa-miR-101	1.079218	0.7229841	non-significant
+26	hsa-miR-103	1.0661197	0.7972754	non-significant
+27	hsa-miR-107	1.094375	0.586468	non-significant
+28	hsa-miR-122	3.26	0.104824	non-significant
+29	hsa-miR-125a-5p			undetectable
+30	hsa-miR-125b	1.3597159	0.2975648	non-significant
+31	hsa-miR-128	1.0538031	0.8654724	non-significant
+32	hsa-miR-139-3p	1.053803	0.865472	non-significant
+33	hsa-miR-140-3p	1.042287	0.7037122	non-significant
+34	hsa-miR-146-5p			undetectable
+35	hsa-miR-148a	1.0481299	0.8971156	non-significant
+36	hsa-miR-150	1.746494	0.057758	non-significant
+37	hsa-miR-185	2.1	0.007051	significant
+38	hsa-miR-185			undetectable
+39	hsa-miR-191	2.87	0.000372	significant
+40	hsa-miR-192	1.3246894	0.2644458	non-significant
+41	hsa-miR-193b			Cq value > 35
+42	hsa-miR-197	1.117953	0.593239	non-significant
+43	hsa-miR-199a-3p	1.363585	0.2153148	non-significant
+44	hsa-miR-206			undetectable
+45	hsa-miR-210	1.3872444	0.3868377	non-significant
+46	hsa-miR-215	0.9732919	0.9444299	non-significant
+47	hsa-miR-221			undetectable
+48	hsa-miR-222	0.9764046	0.8690469	non-significant
+49	hsa-miR-320a	1.493328	0.0640379	non-significant
+50	hsa-miR-320b			Cq value > 35
+51	hsa-miR-339-5p			undetectable
+52	hsa-miR-361	1.5194114	0.3374292	non-significant
+53	hsa-miR-378	1.2340253	0.4139875	non-significant
+54	hsa-miR-411	1.796262	0.007805	non-significant
+55	hsa-miR-423-5p			undetectable
+56	hsa-miR-484			Cq value > 35
+57	hsa-miR-451	1.7464941	0.0577575	non-significant
+58	hsa-miR-483	5.632765	0.1209546	non-significant
+59	hsa-miR-486-3p			undetectable
+60	hsa-miR-486-5p			undetectable
+61	hsa-miR-532-5p	1.7962625	0.0078049	non-significant
+62	hsa-miR-532-3p			undetectable
+63	hsa-miR-584			Cq value > 35

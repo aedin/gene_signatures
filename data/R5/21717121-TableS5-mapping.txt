@@ -1,0 +1,50 @@
+# Generate Mapping Tables Script: Version 4 11:06 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:06 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+entrezgene|8644|8644	hgnc_symbol|AKR1C3|AKR1C3
+entrezgene|919|919	hgnc_symbol|CD247|CD247
+entrezgene|1390|1390	hgnc_symbol|CREM|CREM
+entrezgene|8530|8530	hgnc_symbol|CST7|CST7
+entrezgene|1521|1521	hgnc_symbol|CTSW|CTSW
+entrezgene|1524|1524	hgnc_symbol|CX3CR1|CX3CR1
+entrezgene|54541|54541	hgnc_symbol|DDIT4|DDIT4
+entrezgene|3337|3337	hgnc_symbol|DNAJB1|DNAJB1
+entrezgene|1844|1844	hgnc_symbol|DUSP2|DUSP2
+entrezgene|22875|22875	hgnc_symbol|ENPP4|ENPP4
+entrezgene|10578|10578	hgnc_symbol|GNLY|GNLY
+entrezgene|79158|79158	hgnc_symbol|GNPTAB|GNPTAB
+entrezgene|9289|9289	hgnc_symbol|GPR56|GPR56
+entrezgene|3001|3001	hgnc_symbol|GZMA|GZMA
+entrezgene|3002|3002	hgnc_symbol|GZMB|GZMB
+entrezgene|2999|2999	hgnc_symbol|GZMH|GZMH
+entrezgene|8807|8807	hgnc_symbol|IL18RAP|IL18RAP
+entrezgene|3560|3560	hgnc_symbol|IL2RB|IL2RB
+entrezgene|3820|3820	hgnc_symbol|KLRB1|KLRB1
+entrezgene|3824|3824	hgnc_symbol|KLRD1|KLRD1
+entrezgene|51348|51348	hgnc_symbol|KLRF1|KLRF1
+entrezgene|4603|4603	hgnc_symbol|MYBL1|MYBL1
+entrezgene|83988|83988	hgnc_symbol|NCALD|NCALD
+entrezgene|4818|4818	hgnc_symbol|NKG7|NKG7
+entrezgene|80310|80310	hgnc_symbol|PDGFD|PDGFD
+entrezgene|59338|59338	hgnc_symbol|PLEKHA1|PLEKHA1
+entrezgene|5551|5551	hgnc_symbol|PRF1|PRF1
+entrezgene|5567|5567	hgnc_symbol|PRKACB|PRKACB
+entrezgene|5583|5583	hgnc_symbol|PRKCH|PRKCH
+entrezgene|5727|5727	hgnc_symbol|PTCH1|PTCH1
+entrezgene|26191|26191	hgnc_symbol|PTPN22|PTPN22
+entrezgene|5775|5775	hgnc_symbol|PTPN4|PTPN4
+entrezgene|4068|4068	hgnc_symbol|SH2D1A|SH2D1A
+entrezgene|6693|6693	hgnc_symbol|SPN|SPN
+entrezgene|10417|10417	hgnc_symbol|SPON2|SPON2
+entrezgene|6775|6775	hgnc_symbol|STAT4|STAT4
+entrezgene|445347|445347	hgnc_symbol|TARP|TARP
+entrezgene|30009|30009	hgnc_symbol|TBX21|TBX21
+entrezgene|7049|7049	hgnc_symbol|TGFBR3|TGFBR3
+entrezgene|9760|9760	hgnc_symbol|TOX|TOX
+entrezgene|3812|3812	hgnc_symbol|KIR3DL2|KIR3DL2
+entrezgene|3303|3303	hgnc_symbol|HSPA1A|HSPA1A
+entrezgene|3304|3304	hgnc_symbol|HSPA1B|HSPA1B
+entrezgene|445347|445347	hgnc_symbol|TARP|TARP

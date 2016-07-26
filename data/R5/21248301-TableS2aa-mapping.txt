@@ -1,0 +1,23 @@
+# Generate Mapping Tables Script: Version 4 11:04 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:04 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+affy_hg_u133a|201710_at|201710_at	hgnc_symbol|MYBL2|MYBL2
+affy_hg_u133a|203438_at|203438_at	hgnc_symbol|STC2|STC2
+affy_hg_u133a|204623_at|204623_at	hgnc_symbol|TFF3|TFF3
+affy_hg_u133a|205009_at|205009_at	hgnc_symbol|TFF1|TFF1
+affy_hg_u133a|205186_at|205186_at	hgnc_symbol|DNALI1|DNALI1
+affy_hg_u133a|205440_s_at|205440_s_at	hgnc_symbol|NPY1R|NPY1R
+affy_hg_u133a|205472_s_at|205472_s_at	hgnc_symbol|DACH|DACH
+affy_hg_u133a|205734_s_at|205734_s_at	hgnc_symbol|LAF4|LAF4
+affy_hg_u133a|206869_at|206869_at	hgnc_symbol|CHAD|CHAD
+affy_hg_u133a|212949_at|212949_at	hgnc_symbol|BRRN1|BRRN1
+affy_hg_u133a|214079_at|214079_at	hgnc_symbol|DHRS2|DHRS2
+affy_hg_u133a|215014_at|215014_at	hgnc_symbol|MRNA|MRNA	hgnc_symbol|Cdna DKFZp547P042|Cdna DKFZp547P042
+affy_hg_u133a|215047_at|215047_at	hgnc_symbol|Not available|Not available
+affy_hg_u133a|217889_s_at|217889_s_at	hgnc_symbol|CYBRD1|CYBRD1
+affy_hg_u133a|221275_s_at|221275_s_at	hgnc_symbol|Not available|Not available
+affy_hg_u133a|221520_s_at|221520_s_at	hgnc_symbol|CDCA8|CDCA8
+affy_hg_u133a|221585_at|221585_at	hgnc_symbol|CACNG4|CACNG4

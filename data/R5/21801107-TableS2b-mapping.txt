@@ -1,0 +1,14 @@
+# Generate Mapping Tables Script: Version 4 11:04 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:04 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+efg_agilent_wholegenome_4x44k_v1|A_23_P108751|A_23_P108751	refseq_dna|NM_001039492|NM_001039492	hgnc_symbol|FHL2|FHL2
+efg_agilent_wholegenome_4x44k_v1|A_23_P426835|A_23_P426835	embl|AL834536|AL834536	hgnc_symbol|LOC729652|LOC729652
+efg_agilent_wholegenome_4x44k_v1|A_23_P43283|A_23_P43283	refseq_dna|NM_032777|NM_032777	hgnc_symbol|GPR124|GPR124
+efg_agilent_wholegenome_4x44k_v1|A_24_P589028|A_24_P589028	embl|AK026750|AK026750	hgnc_symbol|AK026750|AK026750
+efg_agilent_wholegenome_4x44k_v1|A_23_P67847|A_23_P67847	refseq_dna|NM_024572|NM_024572	hgnc_symbol|GALNT14|GALNT14
+efg_agilent_wholegenome_4x44k_v1|A_23_P132115|A_23_P132115	refseq_dna|NM_173354|NM_173354	hgnc_symbol|SNF1LK|SNF1LK
+efg_agilent_wholegenome_4x44k_v1|A_23_P170600|A_23_P170600	refseq_dna|NM_005670|NM_005670	hgnc_symbol|EPM2A|EPM2A
+efg_agilent_wholegenome_4x44k_v1|A_24_P867342|A_24_P867342	entrezgene|BC020920|125061	hgnc_symbol|BC020920|BC020920

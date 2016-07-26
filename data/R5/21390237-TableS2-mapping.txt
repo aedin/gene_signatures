@@ -1,0 +1,49 @@
+# Generate Mapping Tables Script: Version 4 11:08 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:08 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+refseq_dna|NM_009447|NM_009447	mgi_symbol|Tuba4a|Tuba4a
+refseq_dna|NM_009450|NM_009450	mgi_symbol|Tubb2a|Tubb2a
+refseq_dna|NM_023716|NM_023716	mgi_symbol|Tubb2b|Tubb2b
+refseq_dna|NM_146116|NM_146116	mgi_symbol|Tubb2c|Tubb2c
+refseq_dna|NM_023279|NM_023279	mgi_symbol|Tubb3|Tubb3
+refseq_dna|NM_026473|NM_026473	mgi_symbol|Tubb6|Tubb6
+refseq_dna|NM_009791|NM_009791	mgi_symbol|Aspm|Aspm
+refseq_dna|NM_001039179|NM_001039179	mgi_symbol|Bicd2|Bicd2
+refseq_dna|NM_011799|NM_011799	mgi_symbol|Cdc6|Cdc6
+refseq_dna|NM_020260|NM_020260	mgi_symbol|Cdgap|Cdgap
+refseq_dna|NM_173762|NM_173762	mgi_symbol|Cenpe|Cenpe
+refseq_dna|NM_001004140|NM_001004140	mgi_symbol|Ckap2|Ckap2
+refseq_dna|NM_181589|NM_181589	mgi_symbol|Ckap2l|Ckap2l
+refseq_dna|NM_175451|NM_175451	mgi_symbol|Ckap4|Ckap4
+refseq_dna|NM_001039520|NM_001039520	mgi_symbol|Dnm2|Dnm2
+refseq_dna|NM_010063|NM_010063	mgi_symbol|Dync1i1|Dync1i1
+refseq_dna|NM_027828|NM_027828	mgi_symbol|Fam110c|Fam110c
+refseq_dna|NM_016692|NM_016692	mgi_symbol|Incenp|Incenp
+refseq_dna|NM_010590|NM_010590	mgi_symbol|Jub|Jub
+refseq_dna|NM_008441|NM_008441	mgi_symbol|Kif1b|Kif1b
+refseq_dna|NM_139303|NM_139303	mgi_symbol|Kif18a|Kif18a
+refseq_dna|NM_009004|NM_009004	mgi_symbol|Kif20a|Kif20a
+refseq_dna|NM_016705|NM_016705	mgi_symbol|Kif21a|Kif21a
+refseq_dna|NM_145588|NM_145588	mgi_symbol|Kif22|Kif22
+refseq_dna|NM_024245|NM_024245	mgi_symbol|Kif23|Kif23
+refseq_dna|NM_001161665|NM_001161665	mgi_symbol|Kif26b|Kif26b
+refseq_dna|NM_134471|NM_134471	mgi_symbol|Kif2c|Kif2c
+refseq_dna|NM_008446|NM_008446	mgi_symbol|Kif4|Kif4
+refseq_dna|NM_008450|NM_008450	mgi_symbol|Klc1|Klc1
+refseq_dna|NM_029091|NM_029091	mgi_symbol|Klc4|Klc4
+refseq_dna|NM_015771|NM_015771	mgi_symbol|Lats2|Lats2
+refseq_dna|NM_026160|NM_026160	mgi_symbol|Map1lc3b|Map1lc3b
+refseq_dna|NM_010837|NM_010837	mgi_symbol|Mtap6|Mtap6
+refseq_dna|NM_010882|NM_010882	mgi_symbol|Ndn|Ndn
+refseq_dna|NM_207204|NM_207204	mgi_symbol|Ninl+|Ninl+
+refseq_dna|NM_010948|NM_010948	mgi_symbol|Nudc|Nudc
+refseq_dna|NM_011063|NM_011063	mgi_symbol|Pea15a|Pea15a
+refseq_dna|NM_145150|NM_145150	mgi_symbol|Prc1|Prc1
+refseq_dna|NM_015756|NM_015756	mgi_symbol|Shroom3|Shroom3
+refseq_dna|NM_017407|NM_017407	mgi_symbol|Spag5|Spag5
+refseq_dna|NM_173038|NM_173038	mgi_symbol|Tbcel|Tbcel
+refseq_dna|NM_001141977|NM_001141977	mgi_symbol|Tpx2|Tpx2
+refseq_dna|NM_009500|NM_009500	mgi_symbol|Vav2|Vav2

@@ -1,0 +1,15 @@
+# Generate Mapping Tables Script: Version 4 11:04 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:04 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+affy_hg_u133_plus_2|204778_x_at|204778_x_at	hgnc_symbol|HOXB7|HOXB7
+affy_hg_u133_plus_2|204379_s_at|204379_s_at	hgnc_symbol|FGFR3|FGFR3
+affy_hg_u133_plus_2|1405_i_at|1405_i_at	hgnc_symbol|CCL5|CCL5
+affy_hg_u133_plus_2|205463_s_at|205463_s_at	hgnc_symbol|PDGFA|PDGFA
+affy_hg_u133_plus_2|213425_at|213425_at	hgnc_symbol|WNT5A|WNT5A
+affy_hg_u133_plus_2|201506_at|201506_at	hgnc_symbol|TGFB1|TGFB1
+affy_hg_u133_plus_2|215179_x_at|215179_x_at	hgnc_symbol|PGF|PGF
+affy_hg_u133_plus_2|212171_x_at|212171_x_at	hgnc_symbol|VEGFA|VEGFA
+affy_hg_u133_plus_2|231579_s_at|231579_s_at	hgnc_symbol|TIMP2|TIMP2

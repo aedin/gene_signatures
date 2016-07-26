@@ -1,0 +1,27 @@
+GeneId	GeneSymbol	Gene Name	log2 ratio	P value	FDR	Function
+NM_006988	ADAMTS1	ADAM metallopeptidase with thrombospondin type 1 motif, 1	?3.275	0	0	Kidney development
+NM_170697	ALDH1A2	Aldehyde dehydrogenase 1 family, member A2	?6.559	0	0	Liver development
+NM_001039667	ANGPTL4	Angiopoietin-like 4	?1.900	0	0	Hypoxia
+NM_005173	ATP2A3	ATPase, Ca++ transporting, ubiquitous	?3.683	0.019	0.025	Nucleotide binding
+NM_133468	BMPER	BMP binding endothelial regulator	?4.778	0.003	0.005	Inhibitor of bone morphogenetic protein (BMP) function
+NM_002982	CCL2	Chemokine (C-C motif) ligand 2	?6.608	0	0	Moncyte chemotaxis
+NM_033027	CSRNP1	Cysteine-serine-rich nuclear protein 1	?2.647	0.001	0.002	Transcription factor regulation
+NM_001554	CYR61	Cysteine-rich, angiogenic inducer, 61	?2.900	0	0	Cell adhesion
+NM_001511	CXCL1	Chemokine (C-X-C motif) ligand 1 (melanoma growth stimulating activity, alpha)	?3.078	0.037	0.041	Chemotaxis
+NM_001955	EDN1	Endothelin 1	?3.670	0	0	Response to hypoxia
+NM_001130055	EEF1D	Eukaryotic translation elongation factor 1 delta (guanine nucleotide exchange protein)	?1.236	0	0	Translation elognation activity
+NM_005438	FOSL1	FOS-like antigen 1	?3.834	0.001	0.002	Transcription factor regulation
+NM_000518	HBB	Hemoglobin, beta	?2.335	0	0	Oxygen transporter activity
+NM_181054	HIF1A	Hypoxia inducible factor 1, alpha subunit (basic helix-loop-helix transcription factor)	?1.788	0.048	0.049	Response to hypoxia
+NM_033439	IL33	Interleukin 33	?2.085	0.011	0.016	Cytokine acitivity
+NM_000600	IL6	Interleukin 6 (interferon, beta 2)	?7.169	0	0	Cytokine acitivity
+NM_000584	IL8	Interleukin 8	?3.981	0.037	0.041	Chemotaxis
+NM_002391	MDK	Midkine (neurite growth-promoting factor 2)	?1.832	0.002	0.004	Nucleotide binding Function
+NM_006325	RAN	RAN, member RAS oncogene family	?2.153	0	0	RNA binding Function
+NM_001004	RPLP2	Ribosomal protein, large, P2	?1.714	0	0	RNA binding Function
+NM_004704	RRP9	Ribosomal RNA processing 9, small subunit (SSU) processome component, homolog (yeast)	?1.711	0.048	0.049	Processing of pre-ribosomal RNA
+NM_003955	SOCS3	Suppressor of cytokine signaling 3	?1.591	0	0	Response to hypoxia
+NM_003254	TIMP1	TIMP metallopeptidase inhibitor 1	?4.580	0	0	Extracellular matrix de
+NM_016639	TNFRSF12A	Tumor necrosis factor receptor superfamily, member 12A	?3.592	0.001	0.002	Apoptosis
+NM_080682	VCAM1	Vascular cell adhesion molecule 1	?3.633	0	0	Cell adhesion
+NM_001025370	VEGFA	Vascular endothelial growth factor A	?3.399	0.037	0.04	Response to hypoxia

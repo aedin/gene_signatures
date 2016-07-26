@@ -1,0 +1,56 @@
+Probe set	Genes	Gene title	Mean expression values Before IM	Normal	After	Rfold Before IM vs. After IM	Normal controls vs. After IM	Function
+204510_at	CDC7	CDC7 cell division cycle 7 (S. cerevisiae)	6.3	6	4.8	0.33	0.43	Cell cycle
+209714_s_at	CDKN3	Cyclin-dependent kinase inhibitor 3 (CDK2-associated dual specificity phosphatase)	7.8	7.8	6.7	0.41	0.48	Cell cycle
+208393_s_at	RAD50	RAD50 homolog (S. cerevisiae)	5.9	5.4	4.8	0.4	0.67	Cell cycle
+204641_at	NEK2	NIMA (never in mitosis gene a)-related kinase 2	6.4	6.5	5.1	0.41	0.39	Cell cycle
+204170_s_at	CKS2	CDC28 protein kinase regulatory subunit 2	9.3	8.4	7.9	0.39	0.73	Cell cycle
+200772_x_at	PTMA	Prothymosin a (gene sequence 28)	12.2	11.9	11.1	0.44	0.58	Cell cycle
+224847_at	CDK6	Cyclin-dependent kinase 6	8.7	8.4	7.5	0.33	0.51	Cell cycle
+242560_at	FANCD2	Fanconi anemia, complementation group D2	7.8	7.4	6.5	0.39	0.51	Cell cycle
+203625_x_at	SKP2	S-phase kinase-associated protein 2 (p45)	7.4	7.2	6.4	0.5	0.57	Cell cycle
+203062_s_at	MDC1	Mediator of DNA damage checkpoint 1	6.8	6.8	5.9	0.56	0.55	Cell cycle
+201897_s_at	CKS1B	CDC28 protein kinase regulatory subunit 1B	9.2	8.8	8.4	0.49	0.74	Cell cycle
+213523_at	CCNE1	Cyclin E1	7.3	7.5	6.3	0.45	0.44	Cell cycle
+202645_s_at	MEN1	Multiple endocrine neoplasia 1	6.8	6.7	5.8	0.42	0.52	Cell cycle
+209421_at	MSH2	MutS homolog 2, colon cancer, nonpolyposis type 1 (E. coli)	5.8	5.7	4.9	0.43	0.61	Cell cycle
+1565347_s_at	TFE3	Transcription factor binding to IGHM enhancer 3	3.2	3.2	4.9	4.11	3.21	Cell cycle
+216205_s_at	MFN2	Mitofusin 2	5.6	5.8	7.7	4.51	3.71	Cell cycle
+223380_s_at	LATS2	LATS, large tumor suppressor, homolog 2 (Drosophila spp.)	7.5	7.1	9.4	3.83	4.75	Cell cycle
+208200_at	IL1A	Interleukin 1 a	2.9	2.9	4.8	4.86	3.84	Cell cycle
+226400_at	CDC42	Cell division cycle 42 (GTP binding protein, 25 kDa)	9.7	9.5	11.7	3.95	4.88	Cell cycle
+233314_at	PTEN	Phosphatase and tensin homolog (mutated in multiple advanced cancers 1)	2.6	2.8	5.5	10.91	6.55	Cell cycle
+203628_at	IGF1R	Insulin-like growth factor 1 receptor	4.5	4.3	7.3	6.8	7.72	Cell cycle
+225116_at	HIPK2	Homeodomain interacting protein kinase 2	5.5	5	7.7	4.31	6.34	Cell cycle
+221923_s_at	NPM1	Nucleophosmin (nucleolar phosphoprotein B23, numatrin)	10.2	9.9	9.3	0.47	0.65	Cell Proliferation
+211605_s_at	RARA	Retinoic acid receptor a	5.1	5.4	6.2	2.42	1.85	Cell Proliferation
+235589_s_at	MDM4	Mdm4, transformed 3T3 cell double minute 4, p53 binding protein (mouse)	6.3	6	9.6	9.52	11.66	Cell Proliferation
+216396_s_at	EI24	Etoposide induced 2.4 mRNA	7.3	7.6	5.5	0.25	0.24	Apoptosis
+205176_s_at	ITGB3BP	Integrin b3 binding protein (b3-endonexin)	8	7.6	6.8	0.38	0.59	Apoptosis
+222985_at	YWHAG	Tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein g polypeptide	9.3	9.2	8.5	0.52	0.61	Apoptosis
+205692_s_at	CD38	CD38 antigen (p45)	7.2	7.2	6.2	0.41	0.5	Apoptosis
+208905_at	CYCS	Cytochrome c, somatic	9.7	9.7	8.9	0.49	0.57	Apoptosis
+236988_x_at	ITGB2	Integrin, b2 [antigen CD18 (p95), lymphocyte function-associated antigen 1; macrophage antigen 1 (mac-1) b subunit]	6.3	6.4	7.3	2.25	1.76	Apoptosis
+210564_x_at	CFLAR	CASP8 and FADD-like apoptosis regulator	6.9	7.3	8.2	2.27	1.80	Apoptosis
+201392_s_at	IGF2R	Insulin-like growth factor 2 receptor	6.6	6.8	8.6	3.39	3.35	Apoptosis
+204131_s_at	FOXO3A	Forkhead box O3A	8.9	8.6	10.5	3.18	3.69	Apoptosis
+209305_s_at	GADD45B	Growth arrest and DNA-damage-inducible b	7.4	7.3	9	3.95	3.28	Apoptosis
+200796_s_at	MCL1	Myeloid cell leukemia sequence 1 (BCL2-related)	5.5	5.5	9.7	17.53	18.73	Apoptosis
+218397_at	FANCL	Fanconi anemia, complementation group L	6	5.1	4.1	0.23	0.50	DNA repair
+218961_s_at	PNKP	Polynucleotide kinase 30-phosphatase	7	6.9	6.1	0.47	0.59	DNA repair
+204023_at	RFC4	Replication factor C (activator 1) 4, 37 kDa	8.3	8.1	7.1	0.41	0.51	DNA repair
+205395_s_at	MRE11A	MRE11 meiotic recombination 11 homolog A (S. cerevisiae)	5.7	5.3	4.8	0.43	0.72	DNA repair
+1559946_s_at	RUVBL2	RuvB-like 2 (E. coli)	8.9	8.8	7.9	0.44	0.56	DNA repair
+205024_s_at	RAD51	RAD51 homolog (RecA homolog, E. coli)(S. cerevisiae)	7.2	7	6.1	0.42	0.52	DNA repair
+202589_at	TYMS	Thymidylate synthetase	11	10.7	9.9	0.42	0.59	DNA repair
+209507_at	RPA3	Replication protein A3, 14 kDa	8.9	9.1	8.2	0.5	0.54	DNA repair
+206066_s_at	RAD51C	RAD51 homolog C (S. cerevisiae)	6.9	6.8	6.1	0.54	0.62	DNA repair
+203720_s_at	ERCC1	Excision repair cross-complementing rodent repair deficiency, complementation group 1 (includes overlapping antisense sequence)	7.7	7.5	6.9	0.51	0.64	DNA repair
+203209_at	RFC5	Replication factor C (activator 1) 5, 36.5 kDa	7.3	6.9	6.2	0.49	0.62	DNA repair
+205909_at	POLE2	Polymerase (DNA directed), E2 (p59 subunit)	6.7	6.8	5.8	0.48	0.49	DNA repair
+218428_s_at	REV1L	REV1-like (yeast)	6.6	6.5	5.6	0.48	0.54	DNA repair
+209579_s_at	MBD4	Methyl-CpG binding domain protein 4	8.2	8.2	9.7	2.66	2.81	DNA repair
+239163_at	UBE2B	Ubiquitin-conjugating enzyme E2B (RAD6 homolog)	4.2	4.1	6.5	5.46	5.36	DNA repair
+204835_at	POLA	Polymerase (DNA directed) a	6.2	5.9	4.9	0.37	0.5	DNA replication
+204127_at	RFC3	Replication factor C (activator 1) 3, 38 kDa	7.2	7	6	0.39	0.49	DNA replication
+222036_s_at	MCM4	MCM4 minichromosome maintenance deficient 4 (S. cerevisiae)	8.1	8.2	7	0.39	0.43	DNA replication
+205053_at	PRIM1	Primase, polypeptide 1, 49 kDa	7.8	7.4	6.9	0.45	0.72	DNA replication

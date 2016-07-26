@@ -1,0 +1,23 @@
+# Generate Mapping Tables Script: Version 4 11:03 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:03 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+refseq_dna|NM_005228|NM_005228	hgnc_symbol|EGFR|EGFR
+refseq_dna|NM_001042599|NM_001042599	hgnc_symbol|ERBB4|ERBB4
+refseq_dna|NM_006206|NM_006206	hgnc_symbol|PDGFRA|PDGFRA
+refseq_dna|NM_002609|NM_002609	hgnc_symbol|PDGFRB|PDGFRB
+refseq_dna|NM_015850|NM_015850	hgnc_symbol|FGFR1|FGFR1
+refseq_dna|NM_000141|NM_000141	hgnc_symbol|FGFR2|FGFR2
+refseq_dna|NM_002019|NM_002019	hgnc_symbol|VEGFR1|VEGFR1
+refseq_dna|NM_002253|NM_002253	hgnc_symbol|VEGFR2|VEGFR2
+refseq_dna|NM_002020.4|NM_002020	hgnc_symbol|VEGFR3|VEGFR3
+refseq_dna|NM_017617|NM_017617	hgnc_symbol|Notch1|Notch1
+refseq_dna|NM_024408|NM_024408	hgnc_symbol|Notch2|Notch2
+refseq_dna|NM_000435|NM_000435	hgnc_symbol|Notch3|Notch3
+refseq_dna|NM_004557|NM_004557	hgnc_symbol|Notch4|Notch4
+refseq_dna|NM_006617.1|NM_006617	hgnc_symbol|Nestin|Nestin
+refseq_dna|NM_014791|NM_014791	hgnc_symbol|MELK|MELK
+refseq_dna|NM_005180|NM_005180	hgnc_symbol|BMI-1|BMI-1
+refseq_dna|NM_006017|NM_006017	hgnc_symbol|CD133|CD133

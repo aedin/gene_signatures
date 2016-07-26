@@ -1,0 +1,18 @@
+GeneBank ID	Molecule	Description	Log ratio: MTX 48	Log ratio: R96	p-value: MTX 48	p-value: R96	Function
+NM_000625	NOS2A	nitric oxide synthase 2A (inducible, hepatocytes), transcript variant 1	0,985	3295	0,002	0	NOS molecules
+NM_000603	NOS3	nitric oxide synthase 3 (endothelial cell)	0,624		0,011		NOS molecules
+NM_000631	NCF4	neutrophil cytosolic factor 4, 40kDa, transcript variant 1		0,626		0,038	NADPH-oxidase complex regulatory molecule
+NM_000240	MAOA	monoamine oxidase A, nuclear gene encoding mitochondrial protein	0,651	1229	0,002	0	Phase I xenobiotic detoxification enzymes
+NM_000898	MAOB	monoamine oxidase B, nuclear gene encoding mitochondrial protein	2105	1,36	0,005	0,012	Phase I xenobiotic detoxification enzymes
+NM_000484	APP	amyloid beta (A4) precursor protein (peptidase nexin-II, Alzheimer disease), transcript variant 1		0,709		0	Other mitochondrial dysfunction-associated factors
+NM_144613	COX6B2	cytochrome c oxidase subunit VIb polypeptide 2 (testis)	1408	0,962	0,005	0,014	Other mitochondrial dysfunction-associated factors
+NM_000408	GPD2	glycerol-3-phosphate dehydrogenase 2 (mitochondrial)		0,993		0,014	Other mitochondrial dysfunction-associated factors
+NM_016013	NDUFAF1	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, assembly factor 1		0,608		0,012	Other mitochondrial dysfunction-associated factors
+NM_002541	OGDH	oxoglutarate (alpha-ketoglutarate) dehydrogenase (lipoamide), nuclear gene encoding mitochondrial protein, transcript variant 1	1042	0,734	0,027	0,001	Other mitochondrial dysfunction-associated factors
+NM_000021	PSEN1	presenilin 1 (Alzheimer disease 3)		0,855		0,003	Other mitochondrial dysfunction-associated factors
+NM_002032	FTH1	ferritin, heavy polypeptide 1	1528	1171	0,001	0,005	Nrf-2-dependent antioxidant defense enzymes
+NM_002133	HMOX1	heme oxygenase (decycling) 1	2684	3437	0	0	Nrf-2-dependent antioxidant defense enzymes
+NM_002574	PRDX1	peroxiredoxin 1, transcript variant 1		0,606		0,028	Nrf-2-dependent antioxidant defense enzymes
+NM_003330	TXNRD1	thioredoxin reductase 1, transcript variant 1		1358		0,006	Nrf-2-dependent antioxidant defense enzymes
+NM_003102	SOD3	superoxide dismutase 3, extracellular		1447		0	Nrf-2-dependent antioxidant defense enzymes
+NM_003900	SQSTM1	sequestosome 1	0,897	1228	0,001	0,004	Nrf-2-dependent antioxidant defense enzymes

@@ -1,0 +1,56 @@
+# Generate Mapping Tables Script: Version 4 11:03 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:03 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+entrezgene|362|362	hgnc_symbol|AQP5|AQP5
+entrezgene|83998|83998	hgnc_symbol|REG4|REG4
+entrezgene|1045|1045	hgnc_symbol|CDX2|CDX2
+entrezgene|1045|1045	hgnc_symbol|CDX2|CDX2
+entrezgene|124535|124535	hgnc_symbol|HSF5|HSF5
+entrezgene|30812|30812	hgnc_symbol|SOX8|SOX8
+entrezgene|124535|124535	hgnc_symbol|HSF5|HSF5
+entrezgene|7104|7104	hgnc_symbol|TM4SF4|TM4SF4
+entrezgene|2153|2153	hgnc_symbol|F5|F5
+entrezgene|1510|1510	hgnc_symbol|CTSE|CTSE
+entrezgene|8876|8876	hgnc_symbol|VNN1|VNN1
+entrezgene|80183|80183	hgnc_symbol|C13orf18|C13orf18
+entrezgene|146336|146336	hgnc_symbol|LOC146336|LOC146336
+entrezgene|9271|9271	hgnc_symbol|PIWIL1|PIWIL1
+entrezgene|9580|9580	hgnc_symbol|SOX13|SOX13
+entrezgene|54894|54894	hgnc_symbol|RNF43|RNF43
+entrezgene|23314|23314	hgnc_symbol|SATB2|SATB2
+entrezgene|29842|29842	hgnc_symbol|TFCP2L1|TFCP2L1
+entrezgene|60481|60481	hgnc_symbol|ELOVL5|ELOVL5
+entrezgene|9271|9271	hgnc_symbol|PIWIL1|PIWIL1
+entrezgene|4069|4069	hgnc_symbol|LYZ|LYZ
+entrezgene|54894|54894	hgnc_symbol|RNF43|RNF43
+entrezgene|124535|124535	hgnc_symbol|HSF5|HSF5
+entrezgene|124535|124535	hgnc_symbol|HSF5|HSF5
+entrezgene|7104|7104	hgnc_symbol|TM4SF4|TM4SF4
+entrezgene|388199|388199	hgnc_symbol|LOC388199|LOC388199
+entrezgene|6690|6690	hgnc_symbol|SPINK1|SPINK1
+entrezgene|10451|10451	hgnc_symbol|VAV3|VAV3
+entrezgene|8836|8836	hgnc_symbol|GGH|GGH
+entrezgene|22885|22885	hgnc_symbol|ABLIM3|ABLIM3
+entrezgene|8313|8313	hgnc_symbol|AXIN2|AXIN2
+entrezgene|1045|1045	hgnc_symbol|CDX2|CDX2
+entrezgene|388610|388610	hgnc_symbol|TRNP1|TRNP1
+entrezgene|6563|6563	hgnc_symbol|SLC14A1|SLC14A1
+entrezgene|57586|57586	hgnc_symbol|SYT13|SYT13
+entrezgene|11199|11199	hgnc_symbol|ANXA10|ANXA10
+entrezgene|124535|124535	hgnc_symbol|HSF5|HSF5
+entrezgene|406934|406934	hgnc_symbol|MIR142|MIR142
+entrezgene|4069|4069	hgnc_symbol|LYZ|LYZ
+entrezgene|8876|8876	hgnc_symbol|VNN1|VNN1
+entrezgene|55107|55107	hgnc_symbol|ANO1|ANO1
+entrezgene|4907|4907	hgnc_symbol|NT5E|NT5E
+entrezgene|131566|131566	hgnc_symbol|DCBLD2|DCBLD2
+entrezgene|1846|1846	hgnc_symbol|DUSP4|DUSP4
+entrezgene|8313|8313	hgnc_symbol|AXIN2|AXIN2
+entrezgene|5268|5268	hgnc_symbol|SERPINB5|SERPINB5
+entrezgene|5653|5653	hgnc_symbol|KLK6|KLK6
+entrezgene|388610|388610	hgnc_symbol|TRNP1|TRNP1
+entrezgene|23255|23255	hgnc_symbol|KIAA0802|KIAA0802
+entrezgene|79083|79083	hgnc_symbol|MLPH|MLPH

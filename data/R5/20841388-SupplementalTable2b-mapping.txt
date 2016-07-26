@@ -1,0 +1,23 @@
+# Generate Mapping Tables Script: Version 4 11:03 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:03 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+entrezgene|1386|1386	hgnc_symbol|ATF2|ATF2
+entrezgene|9425|9425	hgnc_symbol|CDYL|CDYL
+entrezgene|1387|1387	hgnc_symbol|CREBBP|CREBBP
+entrezgene|2033|2033	hgnc_symbol|EP300|EP300
+entrezgene|2648|2648	hgnc_symbol|GCN5L2|GCN5L2
+entrezgene|9329|9329	hgnc_symbol|GTF3C4|GTF3C4
+entrezgene|8520|8520	hgnc_symbol|HAT1|HAT1
+entrezgene|10524|10524	hgnc_symbol|HTATIP|HTATIP
+entrezgene|84148|84148	hgnc_symbol|MYST1|MYST1
+entrezgene|11143|11143	hgnc_symbol|MYST2|MYST2
+entrezgene|7994|7994	hgnc_symbol|MYST3|MYST3
+entrezgene|23522|23522	hgnc_symbol|MYST4|MYST4
+entrezgene|8648|8648	hgnc_symbol|NCOA1|NCOA1
+entrezgene|10499|10499	hgnc_symbol|NCOA2|NCOA2
+entrezgene|8850|8850	hgnc_symbol|PCAF|PCAF
+entrezgene|10847|10847	hgnc_symbol|SRCAP|SRCAP
+entrezgene|6872|6872	hgnc_symbol|TAF1|TAF1

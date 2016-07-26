@@ -1,0 +1,57 @@
+Proteins	Gene symbol	Description	Fold change MCF-7/30nM DOC	Fold change MCF-7/120nM DOC
+ABC transporters	ABCB1	ATP-binding cassette, sub-family B (MDR/TAP), member 1	10.55	215.2
+ABC transporters	ABCB4	ATP-binding cassette, sub-family B (MDR/TAP), member 4	NS	17.03
+ABC transporters	ABCB10	ATP-binding cassette, sub-family B (MDR/TAP), member 10	3.86	NS
+ABC transporters	ABCD1	ATP-binding cassette, sub-family D (ALD), member 1	3.54	NS
+ABC transporters	ABCC1	ATP-binding cassette, sub-family C (CFTR/MRP), member 1	-2.42	NS
+Glutathione metabolism related proteins	GPX1	Glutathione peroxidase 1	NS	105.8
+Glutathione metabolism related proteins	GSTP1	Glutathione S-transferase pi	NS	55.7
+P450 proteins	POR	P450 (cytochrome) oxidoreductase	NS	-5.1
+P450 proteins	CYP26B1	Cytochrome P450, family 26, subfamily B, polypeptide 1	NS	10.66
+P450 proteins	CYP24A1	Cytochrome P450, family 24, subfamily A, polypeptide 1	8.05	NS
+P450 proteins	CYP1B1	Cytochrome P450, family 1, subfamily B, polypeptide 1	-3.06	NS
+TNF receptors	TNFRSF6B; RTEL1	Tumor necrosis factor receptor superfamily, member 6b, decoy; regulator of telomere elongation helicase 1 (DcR3)	NS	27.61
+TNF receptors	TNFRSF10D	Tumor necrosis factor receptor superfamily, member 10d, decoy with truncated death domain (DcR2)	NS	6.65
+TNF receptors	CD40	CD40 antigen (TNF receptor superfamily member 5)	NS	16.8
+TNF ligands	TNFSF10	Tumor necrosis factor (ligand) superfamily, member 10; tumor necrosis factor (ligand) superfamily, member 10 (TRAIL)	3.95	-12.66
+TNF ligands	TNFSF13, TNFSF12	Tumor necrosis factor (ligand) superfamily, member 12-member 13 (APRIL)	3.57	NS
+Antiapoptotic proteins	AKT3	V-akt murine thymoma viral oncogene homolog 3	NS	35.86
+Antiapoptotic proteins	BCL2	B-cell CLL/lymphoma 2	5.78	NS
+Antiapoptotic proteins	BAG1	BCL2-associated athanogene	2.4	-2.63
+Antiapoptotic proteins	BAG3	BCL2-associated athanogene 3	4.09	-2.36
+Antiapoptotic proteins	BAG5	BCL2-associated athanogene 5	2.56	-3.04
+Growth factors and cytokines	EGFR	Epidermal growth factor receptor	NS	18.57
+Growth factors and cytokines	CTGF	Connective tissue growth factor	NS	126.5
+Growth factors and cytokines	ECGF1	Endothelial cell growth factor 1 (platelet-derived)	3.3	5.6
+Growth factors and cytokines	IL18	nterleukin 18 (interferon-gamma-inducing factor)	NS	38.37
+Microtubule dynamics	TUBB2	Tubulin, beta polypeptide paralog (beta II tubulin)	2.73	16.39
+Microtubule dynamics	TUBB6 (beta V tubulin)	Tubulin, beta 6 (beta V tubulin)	NS	11.45
+Microtubule dynamics	TUBB3 (beta III tubulin)	Tubulin, beta 3 (beta III tubulin)	2.03	4.98
+Microtubule dynamics	MAP1B	Microtubule-associated protein 1B	2.08	20.95
+Microtubule dynamics	MAP7	Microtubule-associated protein 7	NS	-22.37
+Microtubule dynamics	TTBK2	Tau tubulin kinase 2	NS	3.95
+ECM related proteins [8]	ITGA6	ntegrin, alpha 6	NS	24.66
+ECM related proteins [8]	COL4A2	Collagen, type IV, alpha 2	NS	54.65
+ECM related proteins [8]	LAMA1	Laminin, alpha 1	NS	84.3
+ECM related proteins [8]	FN1	Fibronectin 1	NS	33.94
+ECM related proteins [8]	CLDN1	Claudin 1	NS	42.79
+ECM related proteins [8]	GPC6	Glypican 6	13.9	78.43
+ECM related proteins [8]	SDC2	Syndecan 2	NS	48.98
+Matrix metallopeptidases [8]	MMP23B; MMP23A	Matrix metallopeptidase 23B; 23A	NS	11.71
+Matrix metallopeptidases [8]	ADAM9	ADAM metallopeptidase domain 9	2.55	5.751
+Matrix metallopeptidases [8]	ADAMTS3	ADAM metallopeptidase with thrombospondin type 1 motif, 3	NS	13.64
+Matrix metallopeptidases [8]	TIMP3	TIMP metallopeptidase inhibitor 3	NS	-97.09
+EMT related proteins [64]	SNAI2	Snail homolog 2	NS	23.45
+EMT related proteins [64]	ER, ESR1	Estrogen receptor 1	NS	-76.92
+EMT related proteins [64]	CDH1	Cadherin 1, type 1, E-cadherin (epithelial)	NS	-319.49
+EMT related proteins [64]	CDH2	Cadherin 2, type 1, N-cadherin (neuronal)	NS	6.09
+EMT related proteins [64]	VIM	Vimentin	NS	110.9
+EMT related proteins [64]	OCLN	Occludin	2.206	-5.55
+EMT related proteins [64]	CLDN3	Claudin 3	NS	-268.82
+EMT related proteins [64]	CLDN4	Claudin 4	NS	-21.98
+EMT related proteins [64]	CLDN7	Claudin 7	NS	-37.04
+EMT related proteins [64]	CLDN11	Claudin 11	NS	42.79
+EMT related proteins [64]	EGFR	Epidermal growth factor receptor	NS	18.57
+EMT related proteins [64]	FGFR1	Fibroblast growth factor receptor 1	NS	7.7
+EMT related proteins [64]	SMAD3	SMAD, mothers against DPP homolog 3	NS	7.81
+EMT related proteins [64]	TGFBR2	Transforming growth factor, beta receptor II	NS	5.17

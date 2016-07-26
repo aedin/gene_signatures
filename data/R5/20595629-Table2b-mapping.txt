@@ -1,0 +1,13 @@
+# Generate Mapping Tables Script: Version 4 11:05 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:05 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+mirbase_id|hsa-miR-10a and hsa-miR-221/222|hsa-miR-10a and hsa-miR-221/222	hgnc_symbol|AR|AR	hgnc_symbol|Arnt|Arnt	hgnc_symbol|MEF-2A|MEF-2A	hgnc_symbol|NCX|NCX
+mirbase_id|hsa-miR-182|hsa-miR-182	mirbase_id|hsa-miR-221/222|hsa-miR-221/222	hgnc_symbol|Cdc5|Cdc5	hgnc_symbol|POU3F2 (N-Oct-5a)|POU3F2 (N-Oct-5a)	hgnc_symbol|POU3F2 (N-Oct-5b)|POU3F2 (N-Oct-5b)
+mirbase_id|hsa-miR-10a|hsa-miR-10a	mirbase_id|hsa-miR-30b|hsa-miR-30b	hgnc_symbol|c-Myc|c-Myc	hgnc_symbol|Max1|Max1	hgnc_symbol|SREBP-1a (b|SREBP-1a (b	hgnc_symbol|c)|c)
+mirbase_id|hsa-miR-221/222|hsa-miR-221/222	mirbase_id|hsa-miR-30b|hsa-miR-30b	hgnc_symbol|E4BP4|E4BP4	hgnc_symbol|Hlf|Hlf
+mirbase_id|hsa-miR-10a|hsa-miR-10a	mirbase_id|hsa-miR-182|hsa-miR-182	hgnc_symbol|GATA-1|GATA-1	hgnc_symbol|MZF-1|MZF-1
+mirbase_id|hsa-miR-182|hsa-miR-182	mirbase_id|hsa-miR-221/222|hsa-miR-221/222	mirbase_id|hsa-miR-30b|hsa-miR-30b	hgnc_symbol|LCR-F1|LCR-F1
+mirbase_id|hsa-miR-10a|hsa-miR-10a	mirbase_id|hsa-miR-182|hsa-miR-182	mirbase_id|hsa-miR-221/222|hsa-miR-221/222	hgnc_symbol|POU3F2|POU3F2	hgnc_symbol|TBP|TBP

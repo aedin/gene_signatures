@@ -1,0 +1,201 @@
+Affymetrix Probe ID	Gene Symbol	Gene name	Correlation with outcome in training series	Cox regression P-value
+203606_at	NDUFS6	NADH dehydrogenase (ubiquinone) Fe-S protein 6, 13kDa (NADH-coenzyme Q reductase)	0.3	0.0000879
+201459_at	RUVBL2	RuvB-like 2 (E. coli)	0.3	0.0000028
+204033_at	TRIP13	thyroid hormone receptor interactor 13	0.29	0.000126
+214710_s_at	CCNB1	cyclin B1	0.29	0.000727
+203830_at	C17orf75	chromosome 17 open reading frame 75	0.28	0.0000146
+222077_s_at	RACGAP1	Rac GTPase activating protein 1	0.28	0.000115
+221509_at	DENR	density-regulated protein	0.28	0.0000691
+201277_s_at	HNRNPAB	heterogeneous nuclear ribonucleoprotein A/B	0.27	0.00027
+218009_s_at	PRC1	protein regulator of cytokinesis 1	0.26	0.0000053
+204817_at	ESPL1	extra spindle pole bodies homolog 1 (S. cerevisiae)	0.26	0.000155
+201291_s_at	TOP2A	topoisomerase (DNA) II alpha 170kDa	0.26	0.000616
+204767_s_at	FEN1	flap structure-specific endonuclease 1	0.25	0.000261
+200997_at	RBM4	RNA binding motif protein 4	0.25	0.0000036
+209103_s_at	UFD1L	ubiquitin fusion degradation 1 like (yeast)	0.24	0.000718
+208074_s_at	AP2S1	adaptor-related protein complex 2, sigma 1 subunit	0.24	0.000205
+218039_at	NUSAP1	nucleolar and spindle associated protein 1	0.24	0.000324
+209680_s_at	KIFC1	kinesin family member C1	0.23	0.0000635
+204170_s_at	CKS2	CDC28 protein kinase regulatory subunit 2	0.23	0.000831
+218755_at	KIF20A	kinesin family member 20A	0.23	0.000986
+201115_at	POLD2	polymerase (DNA directed), delta 2, regulatory subunit 50kDa	0.23	0.000503
+213007_at	FANCI	Fanconi anemia, complementation group I	0.22	0.0000269
+213008_at	FANCI	Fanconi anemia, complementation group I	0.22	0.000113
+203744_at	HMGB3	high-mobility group box 3	0.22	0.000108
+206445_s_at	PRMT1	protein arginine methyltransferase 1	0.21	0.000073
+208700_s_at	TKT	transketolase	0.21	0.0000239
+212094_at	PEG10	paternally expressed 10	0.2	0.0000826
+203713_s_at	LLGL2	lethal giant larvae homolog 2 (Drosophila)	0.2	0.000761
+203276_at	LMNB1	lamin B1	0.2	0.000657
+212181_s_at	NUDT4	nudix (nucleoside diphosphate linked moiety X)-type motif 4	0.19	0.0000948
+210981_s_at	GRK6	G protein-coupled receptor kinase 6	0.19	0.000279
+211047_x_at	AP2S1	adaptor-related protein complex 2, sigma 1 subunit	0.19	0.000333
+200749_at	RAN	RAN, member RAS oncogene family	0.19	0.000729
+202567_at	SNRPD3	small nuclear ribonucleoprotein D3 polypeptide 18kDa	0.19	0.00077
+212023_s_at	MKI67	antigen identified by monoclonal antibody Ki-67	0.18	0.0000668
+203975_s_at	CHAF1A	chromatin assembly factor 1, subunit A (p150)	0.18	0.000245
+209302_at	POLR2H	polymerase (RNA) II (DNA directed) polypeptide H	0.18	0.000275
+211921_x_at	PTMA	prothymosin, alpha	0.18	0.0000563
+208794_s_at	SMARCA4	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4	0.18	0.00027
+218318_s_at	NLK	nemo-like kinase	0.17	0.000535
+213720_s_at	SMARCA4	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4	0.17	0.0000077
+202120_x_at	AP2S1	adaptor-related protein complex 2, sigma 1 subunit	0.17	0.000206
+209974_s_at	BUB3	budding uninhibited by benzimidazoles 3 homolog (yeast)	0.17	0.000211
+205436_s_at	H2AFX	H2A histone family, member X	0.17	0.000111
+202667_s_at	SLC39A7	solute carrier family 39 (zinc transporter), member 7	0.16	0.000222
+205417_s_at	DAG1	dystroglycan 1 (dystrophin-associated glycoprotein 1)	0.16	0.000344
+221434_s_at	C14orf156	chromosome 14 open reading frame 156	0.16	0.000406
+212656_at	TSFM	Ts translation elongation factor, mitochondrial	0.16	0.000656
+202835_at	TXNL4A	thioredoxin-like 4A	0.15	0.000681
+209059_s_at	EDF1	endothelial differentiation-related factor 1	0.15	0.00072
+208688_x_at	EIF3B	eukaryotic translation initiation factor 3, subunit B	0.15	0.000813
+201416_at	SOX4	SRY (sex determining region Y)-box 4	0.15	0.000146
+200772_x_at	PTMA	prothymosin, alpha	0.15	0.00026
+200990_at	TRIM28	tripartite motif-containing 28	0.15	0.000223
+202871_at	TRAF4	TNF receptor-associated factor 4	0.15	0.000072
+213507_s_at	KPNB1	karyopherin (importin) beta 1	0.14	0.00013
+218592_s_at	CECR5	cat eye syndrome chromosome region, candidate 5	0.14	0.0000683
+40020_at	CELSR3	cadherin, EGF LAG seven-pass G-type receptor 3 (flamingo homolog, Drosophila)	0.14	0.000742
+208549_x_at	PTMAP7	prothymosin, alpha pseudogene 7	0.14	0.0000854
+202545_at	PRKCD	protein kinase C, delta	0.14	0.000879
+213441_x_at	SPDEF	SAM pointed domain containing ets transcription factor	0.14	0.00043
+209431_s_at	PATZ1	POZ (BTB) and AT hook containing zinc finger 1	0.14	0.0000097
+208930_s_at	ILF3	interleukin enhancer binding factor 3, 90kDa	0.13	0.000401
+200684_s_at	UBE2L3	ubiquitin-conjugating enzyme E2L 3	0.13	0.000414
+204402_at	RHBDD3	rhomboid domain containing 3	0.13	0.00075
+212087_s_at	ERAL1	Era G-protein-like 1 (E. coli)	0.12	0.000101
+219288_at	C3orf14	chromosome 3 open reading frame 14	0.12	0.000751
+201726_at	ELAVL1	ELAV (embryonic lethal, abnormal vision, Drosophila)-like 1 (Hu antigen R)	0.12	0.000735
+219223_at	C9orf7	chromosome 9 open reading frame 7	0.12	0.000695
+205538_at	CORO2A	coronin, actin binding protein, 2A	0.11	0.000945
+217806_s_at	POLDIP2	polymerase (DNA-directed), delta interacting protein 2	0.1	0.000478
+64486_at	CORO1B	coronin, actin binding protein, 1B	0.09	0.000941
+204178_s_at	RBM14	RNA binding motif protein 14	0.06	0.000547
+200005_at	EIF3D	eukaryotic translation initiation factor 3, subunit D	0.01	0.000724
+215784_at	CD1E	CD1e molecule	0	0.0000099
+221242_at	NA	NA	-0.02	0.000182
+210687_at	CPT1A	carnitine palmitoyltransferase 1A (liver)	-0.05	0.000413
+205732_s_at	NCOA2	nuclear receptor coactivator 2	-0.06	0.00022
+219961_s_at	NCRNA00153	non-protein coding RNA 153	-0.06	0.000472
+220338_at	RALGPS2	Ral GEF with PH domain and SH3 binding motif 2	-0.08	0.000907
+206748_s_at	SPAG9	sperm associated antigen 9	-0.08	0.000159
+219328_at	DDX31	DEAD (Asp-Glu-Ala-Asp) box polypeptide 31	-0.1	0.000803
+219969_at	CXorf15	chromosome X open reading frame 15	-0.1	0.000643
+219074_at	TMEM184C	transmembrane protein 184C	-0.1	0.000193
+205746_s_at	ADAM17	ADAM metallopeptidase domain 17	-0.1	0.000743
+202865_at	DNAJB12	DnaJ (Hsp40) homolog, subfamily B, member 12	-0.12	0.0000129
+209750_at	NR1D2	nuclear receptor subfamily 1, group D, member 2	-0.12	0.000953
+214995_s_at	APOBEC3F	apolipoprotein B mRNA editing enzyme, catalytic polypeptide-like 3F	-0.13	0.000062
+214098_at	KIAA1107	KIAA1107	-0.13	0.000989
+207319_s_at	CDC2L5	cell division cycle 2-like 5 (cholinesterase-related cell division controller)	-0.13	0.000756
+202195_s_at	TMED5	transmembrane emp24 protein transport domain containing 5	-0.13	0.000708
+209754_s_at	TMPO	thymopoietin	-0.14	0.000985
+200717_x_at	RPL7	ribosomal protein L7	-0.14	0.000941
+203134_at	PICALM	phosphatidylinositol binding clathrin assembly protein	-0.14	0.000635
+221976_s_at	HDGFRP3	hepatoma-derived growth factor, related protein 3	-0.14	0.000196
+211574_s_at	CD46	CD46 molecule, complement regulatory protein	-0.15	0.000883
+200847_s_at	TMEM66	transmembrane protein 66	-0.15	0.000108
+200756_x_at	CALU	calumenin	-0.15	0.0000556
+221523_s_at	RRAGD	Ras-related GTP binding D	-0.15	0.000675
+220526_s_at	MRPL20	mitochondrial ribosomal protein L20	-0.15	0.0000792
+214845_s_at	CALU	calumenin	-0.15	0.0000361
+210282_at	ZMYM2	zinc finger, MYM-type 2	-0.15	0.00017
+207292_s_at	MAPK7	mitogen-activated protein kinase 7	-0.15	0.0000458
+204785_x_at	IFNAR2	interferon (alpha, beta and omega) receptor 2	-0.15	0.00087
+222314_x_at	EGO	eosinophil granule ontogeny	-0.15	0.000807
+212742_at	RNF115	ring finger protein 115	-0.15	0.0000612
+201200_at	CREG1	cellular repressor of E1A-stimulated genes 1	-0.16	0.0000554
+205269_at	LCP2	lymphocyte cytosolic protein 2 (SH2 domain containing leukocyte protein of 76kDa)	-0.16	0.000196
+203638_s_at	FGFR2	fibroblast growth factor receptor 2	-0.16	0.000394
+208403_x_at	MAX	MYC associated factor X	-0.16	0.000162
+210465_s_at	SNAPC3	small nuclear RNA activating complex, polypeptide 3, 50kDa	-0.16	0.000233
+205097_at	SLC26A2	solute carrier family 26 (sulfate transporter), member 2	-0.16	0.000632
+220324_at	C6orf155	chromosome 6 open reading frame 155	-0.16	0.0000211
+218924_s_at	CTBS	chitobiase, di-N-acetyl-	-0.17	0.000386
+217591_at	NA	NA	-0.17	0.00024
+211807_x_at	PCDHGB5	protocadherin gamma subfamily B, 5	-0.17	0.000467
+217370_x_at	FUS	fusion (involved in t(12;16) in malignant liposarcoma)	-0.17	0.000774
+213702_x_at	ASAH1	N-acylsphingosine amidohydrolase (acid ceramidase) 1	-0.18	0.00031
+201534_s_at	UBL3	ubiquitin-like 3	-0.18	0.000486
+207419_s_at	RAC2	ras-related C3 botulinum toxin substrate 2 (rho family, small GTP binding protein Rac2)	-0.18	0.000137
+213619_at	HNRNPH1	heterogeneous nuclear ribonucleoprotein H1 (H)	-0.18	0.000102
+219679_s_at	WAC	WW domain containing adaptor with coiled-coil	-0.18	0.000399
+204188_s_at	RARG	retinoic acid receptor, gamma	-0.18	0.0000373
+207112_s_at	GAB1	GRB2-associated binding protein 1	-0.18	0.0000003
+201494_at	PRCP	prolylcarboxypeptidase (angiotensinase C)	-0.18	0.000421
+210838_s_at	ACVRL1	activin A receptor type II-like 1	-0.18	0.000121
+212324_s_at	VPS13D	vacuolar protein sorting 13 homolog D (S. cerevisiae)	-0.18	0.000526
+214299_at	TOP3A	topoisomerase (DNA) III alpha	-0.18	0.000304
+214513_s_at	CREB1	cAMP responsive element binding protein 1	-0.19	0.000173
+203123_s_at	SLC11A2	solute carrier family 11 (proton-coupled divalent metal ion transporters), member 2	-0.19	0.000395
+207304_at	ZNF45	zinc finger protein 45	-0.19	0.0000625
+214670_at	ZKSCAN1	zinc finger with KRAB and SCAN domains 1	-0.19	0.0000294
+204313_s_at	CREB1	cAMP responsive element binding protein 1	-0.19	0.000719
+210564_x_at	CFLAR	CASP8 and FADD-like apoptosis regulator	-0.19	0.000391
+210980_s_at	ASAH1	N-acylsphingosine amidohydrolase (acid ceramidase) 1	-0.19	0.000373
+219582_at	OGFRL1	opioid growth factor receptor-like 1	-0.19	0.000625
+34031_i_at	KRIT1	KRIT1, ankyrin repeat containing	-0.19	0.0000416
+206313_at	HLA-DOA	major histocompatibility complex, class II, DO alpha	-0.19	0.000314
+206807_s_at	ADD2	adducin 2 (beta)	-0.19	0.000267
+200741_s_at	RPS27	ribosomal protein S27	-0.19	0.000398
+208228_s_at	FGFR2	fibroblast growth factor receptor 2	-0.2	0.000197
+219777_at	GIMAP6	GTPase, IMAP family member 6	-0.2	0.000612
+208453_s_at	XPNPEP1	X-prolyl aminopeptidase (aminopeptidase P) 1, soluble	-0.2	0.000762
+203725_at	GADD45A	growth arrest and DNA-damage-inducible, alpha	-0.2	0.000312
+218614_at	C12orf35	chromosome 12 open reading frame 35	-0.2	0.000769
+207057_at	SLC16A7	solute carrier family 16, member 7 (monocarboxylic acid transporter 2)	-0.2	0.0000252
+209456_s_at	FBXW11	F-box and WD repeat domain containing 11	-0.2	0.000144
+202838_at	FUCA1	fucosidase, alpha-L- 1, tissue	-0.2	0.000398
+214843_s_at	USP33	ubiquitin specific peptidase 33	-0.21	0.000271
+204216_s_at	ZC3H14	zinc finger CCCH-type containing 14	-0.21	0.000647
+207387_s_at	GK	glycerol kinase	-0.21	0.000692
+213614_x_at	EEF1A1	eukaryotic translation elongation factor 1 alpha 1	-0.21	0.000334
+220985_s_at	RNF170	ring finger protein 170	-0.21	0.0000011
+202978_s_at	CREBZF	CREB/ATF bZIP transcription factor	-0.21	0.000456
+212008_at	UBXN4	UBX domain protein 4	-0.21	0.0000449
+212196_at	IL6ST	interleukin 6 signal transducer (gp130, oncostatin M receptor)	-0.21	0.000294
+203526_s_at	APC	adenomatous polyposis coli	-0.21	0.000734
+205083_at	AOX1	aldehyde oxidase 1	-0.22	0.000039
+201383_s_at	LOC100133166	similar to neighbor of BRCA1 gene 1	-0.22	0.000565
+201302_at	ANXA4	annexin A4	-0.22	0.0000117
+211749_s_at	VAMP3	vesicle-associated membrane protein 3 (cellubrevin)	-0.22	0.000123
+218194_at	REXO2	REX2, RNA exonuclease 2 homolog (S. cerevisiae)	-0.22	0.000854
+207243_s_at	CALM2	calmodulin 2 (phosphorylase kinase, delta)	-0.22	0.0000475
+217014_s_at	AZGP1	alpha-2-glycoprotein 1, zinc-binding	-0.22	0.0000857
+211922_s_at	CAT	catalase	-0.22	0.000272
+201571_s_at	DCTD	dCMP deaminase	-0.23	0.0000003
+212093_s_at	MTUS1	mitochondrial tumor suppressor 1	-0.23	0.000164
+204174_at	ALOX5AP	arachidonate 5-lipoxygenase-activating protein	-0.23	0.000501
+212398_at	RDX	radixin	-0.23	0.000896
+204236_at	FLI1	Friend leukemia virus integration 1	-0.23	0.000182
+212241_at	GRINL1A	glutamate receptor, ionotropic, N-methyl D-aspartate-like 1A	-0.23	0.000473
+212084_at	TEX261	testis expressed 261	-0.23	0.000814
+212224_at	ALDH1A1	aldehyde dehydrogenase 1 family, member A1	-0.24	0.0000072
+208633_s_at	MACF1	microtubule-actin crosslinking factor 1	-0.24	0.000436
+203266_s_at	MAP2K4	mitogen-activated protein kinase kinase 4	-0.24	0.00077
+219924_s_at	ZMYM6	zinc finger, MYM-type 6	-0.24	0.000467
+220368_s_at	SMEK1	SMEK homolog 1, suppressor of mek1 (Dictyostelium)	-0.24	0.000534
+209508_x_at	CFLAR	CASP8 and FADD-like apoptosis regulator	-0.24	0.000165
+205233_s_at	PAFAH2	platelet-activating factor acetylhydrolase 2, 40kDa	-0.24	0.000648
+210872_x_at	GAS7	growth arrest-specific 7	-0.25	0.0000442
+209311_at	BCL2L2	BCL2-like 2	-0.25	0.000443
+209856_x_at	ABI2	abl interactor 2	-0.25	0.000384
+213376_at	ZBTB1	zinc finger and BTB domain containing 1	-0.25	0.000727
+211671_s_at	NR3C1	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid receptor)	-0.26	0.0000524
+221643_s_at	RERE	arginine-glutamic acid dipeptide (RE) repeats	-0.26	0.000235
+214196_s_at	TPP1	tripeptidyl peptidase I	-0.27	0.0000466
+201865_x_at	NR3C1	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid receptor)	-0.27	0.000346
+215533_s_at	UBE4B	ubiquitination factor E4B (UFD2 homolog, yeast)	-0.27	0.0000244
+213698_at	ZMYM6	zinc finger, MYM-type 6	-0.28	0.000069
+202502_at	ACADM	acyl-Coenzyme A dehydrogenase, C-4 to C-12 straight chain	-0.28	0.000521
+212672_at	ATM	ataxia telangiectasia mutated	-0.28	0.00075
+212526_at	SPG20	spastic paraplegia 20 (Troyer syndrome)	-0.28	0.000331
+218659_at	ASXL2	additional sex combs like 2 (Drosophila)	-0.29	0.0000001
+202026_at	SDHD	succinate dehydrogenase complex, subunit D, integral membrane protein	-0.29	0.0000007
+205898_at	CX3CR1	chemokine (C-X3-C motif) receptor 1	-0.29	0.000518
+205542_at	STEAP1	six transmembrane epithelial antigen of the prostate 1	-0.3	0.0000032
+214753_at	N4BP2L2	NEDD4 binding protein 2-like 2	-0.3	0.0000744
+217732_s_at	ITM2B	integral membrane protein 2B	-0.3	0.000378
+215832_x_at	PICALM	phosphatidylinositol binding clathrin assembly protein	-0.3	0.0000244
+209006_s_at	C1orf63	chromosome 1 open reading frame 63	-0.3	0.000219
+208503_s_at	GATAD1	GATA zinc finger domain containing 1	-0.31	0.0000045

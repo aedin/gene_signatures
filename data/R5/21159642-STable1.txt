@@ -1,0 +1,162 @@
+Rank	Symbol	Description	Map	p-value	FDR	Mean PN	Mean PT	Fold (PN/PT)
+1	ENO2	Enolase 2 (gamma, neuronal)	12p13	0.0000002	0.0018	0.5325	1.3140	0.4053
+2	CENPE	Centromere protein E, 312kDa	4q24-q25	0.0000007	0.0032	0.8352	1.6465	0.5072
+3	LIMK1	LIM domain kinase 1	7q11.23	0.0000013	0.0040	0.5751	0.9229	0.6231
+4	LRP6	Low density lipoprotein receptor-related protein 6	12p11-p13	0.0000031	0.0071	0.3257	0.6943	0.4691
+5	RAB8A	RAB8A, member RAS oncogene family	19p13.1	0.0000047	0.0086	0.5478	0.9535	0.5745
+6	ITGA9	Integrin, alpha 9	3p21.3	0.0000074	0.0095	0.6838	1.1673	0.5858
+7	FZD2	Frizzled homolog 2 (Drosophila)	17q21.1	0.0000088	0.0095	0.5705	0.8768	0.6506
+8	VAMP3	Vesicle-associated membrane protein 3 (cellubrevin)	1p36.23	0.0000115	0.0095	0.6135	1.1078	0.5538
+9	RPS6KA4	Ribosomal protein S6 kinase, 90kDa, polypeptide 4	11q11-q13	0.0000122	0.0095	1.9033	0.9983	1.9066
+10	G3BP2	GTPase activating protein (SH3 domain) binding protein 2	4q21.1	0.0000125	0.0095	0.6200	1.1066	0.5603
+11	GTF2H1	General transcription factor IIH, polypeptide 1, 62kDa	11p15.1-p14	0.0000154	0.0108	0.7152	1.1067	0.6612
+12	RAB3A	RAB3A, member RAS oncogene family	19p13.2	0.0000185	0.0108	0.5943	1.1068	0.5484
+13	U2AF1	U2 small nuclear RNA auxiliary factor 1	21q22.3	0.0000195	0.0108	1.3551	1.1069	1.5515
+14	MATK	Megakaryocyte-associated tyrosine kinase	19p13.3	0.0000201	0.0108	0.6176	1.1070	0.6256
+15	RGS20	Regulator of G-protein signaling 20	8q	0.0000212	0.0108	0.6813	1.1071	0.6927
+16	MDFI	MyoD family inhibitor	6p21	0.000023	0.0110	0.4494	1.1072	0.5867
+17	ENO3	enolase 3 (beta, muscle) (ENO3)	17p13.2	0.0000263	0.0120	0.3960	1.1073	0.4559
+18	HOXB13	Homeobox B13	17q21.2	0.0000309	0.0134	0.3600	1.1074	0.3919
+19	GALK1	Galactokinase 1	17q24	0.0000335	0.0139	7.6805	1.1075	11.1268
+20	TBC1D16	TBC1 domain family, member 16	17q25.3	0.0000377	0.0145	2.6300	1.1076	1.9645
+21	N4BP1	NEDD4 binding protein 1	16q12.1	0.0000381	0.0145	1.3587	1.1077	1.7216
+22	ZNF646	Zinc finger protein 646	16p11.2	0.0000437	0.0153	0.5131	1.1078	0.5833
+23	VPS41	Vacuolar protein sorting 41 homolog (S. cerevisiae)	7p14-p13	0.0000475	0.0153	0.6539	1.1079	0.6535
+24	AK3	Adenylate kinase 3	9p24.1-p24.3	0.000048	0.0153	9.6368	1.1080	14.3472
+25	ALDH3B1	Aldehyde dehydrogenase 3 family, member B1	11q13	0.0000483	0.0153	0.5757	1.1081	0.6106
+26	EPB42	Erythrocyte membrane protein band 4.2	15q15-q21	0.0000485	0.0153	0.6149	1.1082	0.6412
+27	STOML1	Stomatin (EPB72)-like 1	15q24-q25	0.0000585	0.0164	0.7584	1.1083	0.6941
+28	JMJD8	Jumonji domain containing 8	16p13.3	0.0000589	0.0164	3.9184	1.1084	6.3168
+29	PDK1	Pyruvate dehydrogenase kinase, isozyme 1	2q31.1	0.0000598	0.0164	0.7159	1.1085	0.6660
+30	PLD2	Phospholipase D2	17p13.1	0.0000609	0.0164	0.6624	1.1086	0.6520
+31	CRISPLD2	Cysteine-rich secretory protein LCCL domain containing 2	16q24.1	0.0000611	0.0164	1.7451	1.1087	1.7089
+32	STUB1	STIP1 homology and U-box containing protein 1	16p13.3	0.0000702	0.0177	0.6793	1.1088	0.6717
+33	PMAIP1	Phorbol-12-myristate-13-acetate-induced protein 1	18q21.32	0.0000736	0.0177	0.6512	1.1089	0.4965
+34	BASP1	Brain abundant, membrane attached signal protein 1	5p15.1-p14	0.0000771	0.0177	0.6211	1.1090	0.6887
+35	TSHZ1	teashirt zinc finger homeobox 1 (TSHZ1)	18q22.3	0.0000774	0.0177	0.6041	1.1091	0.5503
+36	CDH13	cadherin 13, H-cadherin (heart) (CDH13)	16q23.3	0.0000787	0.0177	0.6963	1.1092	0.6185
+37	CHGB	chromogranin B (secretogranin 1) (CHGB)	20p12.3	0.0000806	0.0177	0.6110	1.1093	0.5643
+38	DTYMK	Deoxythymidylate kinase (thymidylate kinase)	2q37.3	0.0000819	0.0177	0.9487	1.1094	0.6519
+39	GPD2	glycerol-3-phosphate dehydrogenase 2 (mitochondrial) (GPD2), nuclear gene encoding mitochondrial protein	2q24.1	0.0000836	0.0177	0.6775	1.1095	0.5894
+40	JOSD1	Josephin domain containing 1	22q13.1	0.0000852	0.0177	0.6400	1.1096	0.6592
+41	ZNF605	Zinc finger protein 605	12q24.33	0.0000855	0.0177	5.3170	1.1097	5.9517
+42	SLC20A2	Solute carrier family 20 (phosphate transporter), member 2	8p12-p11	0.0000891	0.0181	0.6414	1.1098	0.6496
+43	ASPH	Aspartate beta-hydroxylase	8q12.1	0.0001049	0.0207	0.6908	1.1099	0.4435
+44	LOC100131096	Hypothetical protein LOC100131096	17q25.3	0.0001066	0.0207	1.4685	1.1100	1.4667
+45	PCF11	PCF11, cleavage and polyadenylation factor subunit, homolog (S. cerevisiae)	11q13	0.0001217	0.0231	1.6973	1.1101	1.8059
+46	HCG2P7	HLA complex group 2 pseudogene 7	6p21.3	0.0001285	0.0235	1.0582	1.1102	0.3714
+47	CYTH3	Cytohesin 3	7p22.1	0.0001354	0.0237	0.7575	1.1103	0.7102
+48	HIPK1	Homeodomain interacting protein kinase 1	1p13.2	0.0001371	0.0237	1.7646	1.1104	1.6205
+49	CALCOCO2	Calcium binding and coiled-coil domain 2	17q21.32	0.0001375	0.0237	0.6552	1.1105	0.5839
+50	COPA	Coatomer protein complex, subunit alpha	1q23-q25	0.0001437	0.0238	0.7118	1.1106	0.7212
+51	FEN1	Flap structure-specific endonuclease 1	11q12	0.0001619	0.0253	0.8765	1.1107	0.6069
+52	NCAPD3	Non-SMC condensin II complex, subunit D3	11q25	0.0001654	0.0253	0.8594	1.1108	0.6960
+53	GYS1	glycogen synthase 1 (muscle) (GYS1)	19q13.3	0.0001677	0.0253	0.5870	1.1109	0.6753
+54	ADD2	adducin 2 (beta) (ADD2)	2p13.3	0.0001691	0.0253	0.5375	1.1110	0.6825
+55	LOC151162	Hypothetical LOC151162	2q21.3	0.0001692	0.0253	1.2420	1.1111	1.5308
+56	SART1	Squamous cell carcinoma antigen recognized by T cells	11q13.1	0.0001698	0.0253	0.5796	1.1112	0.5404
+57	LRPPRC	Leucine-rich PPR-motif containing	2p21	0.0001719	0.0253	1.9349	1.1113	1.9118
+58	CDCA4	Cell division cycle associated 4	14q32.33	0.00018	0.0260	1.5567	1.1114	1.4811
+59	UBXN4	UBX domain protein 4	2q21.3	0.0001849	0.0260	1.8655	1.1115	1.3725
+60	SH3GLB1	SH3-domain GRB2-like endophilin B1	1p22	0.000185	0.0260	1.5280	1.1116	1.4653
+61	GCLC	glutamate-cysteine ligase, catalytic subunit (GCLC)	6p12.1	0.0001899	0.0260	0.5178	1.1117	0.4960
+62	PPAPDC1B	Phosphatidic acid phosphatase type 2 domain containing 1B	8p12	0.0001911	0.0260	2.1450	1.1118	1.8954
+63	RFC5	Replication factor C (activator 1) 5, 36.5kDa	12q24.23	0.0001987	0.0261	0.7963	1.1119	0.5603
+64	ATF2	Activating transcription factor 2	2q32	0.0002021	0.0261	0.6488	1.1120	0.6971
+65	MVK	Mevalonate kinase	12q24	0.0002021	0.0261	0.7510	1.1121	0.6526
+66	RHAG	Rh-associated glycoprotein	6p21.1-p11	0.0002033	0.0261	0.6750	1.1122	0.6897
+67	HMMR	Hyaluronan-mediated motility receptor (RHAMM)	5q33.2-qter	0.0002069	0.0262	0.5535	1.1123	0.5638
+68	SELENBP1	Selenium binding protein 1	1q21-q22	0.0002178	0.0272	0.5533	1.1124	0.5772
+69	SPG11	Spastic paraplegia 11 (autosomal recessive)	15q14	0.0002222	0.0274	1.4905	1.1125	1.4535
+70	CENTD3	Centaurin, delta 3	5q31.3	0.000228	0.0276	1.2394	1.1126	1.3177
+71	LOC643733	Hypothetical LOC643733	11q22.3	0.0002317	0.0276	1.4349	1.1127	1.4575
+72	GABRE	Gamma-aminobutyric acid (GABA) A receptor, epsilon	Xq28	0.0002328	0.0276	0.7223	1.1128	0.6878
+73	DTYMK	Deoxythymidylate kinase (thymidylate kinase)	2q37.3	0.0002466	0.0281	0.5597	1.1129	0.5946
+74	WWTR1	WW domain containing transcription regulator 1	3q23-q24	0.0002491	0.0281	1.2836	1.1130	1.3719
+75	IVNS1ABP	Influenza virus NS1A binding protein	1q25.1-q31.1	0.0002492	0.0281	1.9103	1.1131	1.6720
+76	ALDH3B2	Aldehyde dehydrogenase 3 family, member B2	11q13	0.0002683	0.0297	0.6659	1.1132	0.7362
+77	PRR3	Proline rich 3	6p21.33	0.0002767	0.0297	0.6923	1.1133	0.7476
+78	CES1	Carboxylesterase 1 (monocyte/macrophage serine esterase 1)	16q13-q22.1	0.0002769	0.0297	0.1937	1.1134	0.2078
+79	KIAA0319L	KIAA0319-like	1p34.2	0.000282	0.0298	1.5935	1.1135	1.3474
+80	CLCN7	Chloride channel 7	16p13	0.0002838	0.0298	0.8227	1.1136	0.6300
+81	SPP1	secreted phosphoprotein 1 (osteopontin, bone sialoprotein I, early T-lymphocyte activation 1) (SPP1)	4q22.1	0.0002872	0.0298	1.0377	1.1137	0.3149
+82	SPTBN2	Spectrin, beta, non-erythrocytic 2	11q13	0.0002933	0.0299	0.6270	1.1138	0.6572
+83	CTRB1	Chymotrypsinogen B1	16q23-q24.1	0.000298	0.0299	0.7337	1.1139	0.7179
+84	UGT8	UDP glycosyltransferase 8	4q26	0.0002984	0.0299	1.2759	1.1140	1.7117
+85	KHK	Ketohexokinase (fructokinase)	2p23.3	0.0003163	0.0305	0.6428	1.1141	0.6884
+86	PITX2	Paired-like homeodomain 2	4q25-q27	0.0003164	0.0305	0.7543	1.1142	0.6963
+87	TACC1	Transforming, acidic coiled-coil containing protein 1	8p11	0.0003173	0.0305	1.7334	1.1143	1.7894
+88	ATP6V1G2	ATPase, H+ transporting, lysosomal 13kDa, V1 subunit G2	6p21.3	0.0003228	0.0307	1.3505	1.1144	1.4361
+89	AP1S1	Adaptor-related protein complex 1, sigma 1 subunit	7q22.1	0.000327	0.0308	0.6694	1.1145	0.6589
+90	IRF2	Interferon regulatory factor 2	4q34.1-q35.1	0.0003361	0.0310	0.5250	1.1146	0.5896
+91	ACBD5	Acyl-Coenzyme A binding domain containing 5	10p12.1	0.0003492	0.0310	1.5216	1.1147	1.5290
+92	YRDC	YrdC domain containing (E. coli)	1p34.3	0.0003539	0.0310	1.6871	1.1148	1.7229
+93	EFTUD1	Elongation factor Tu GTP binding domain containing 1	15q25.2	0.0003588	0.0310	1.5895	1.1149	1.4877
+94	GTF2H4	General transcription factor IIH, polypeptide 4, 52kDa	6p21.3	0.0003604	0.0310	0.6392	1.1150	0.7071
+95	DNAJC9	DnaJ (Hsp40) homolog, subfamily C, member 9	10q22.2	0.0003782	0.0317	2.2358	1.1151	1.5620
+96	RPA2	Replication protein A2, 32kDa	1p35	0.0003895	0.0319	0.9905	1.1152	0.6739
+97	CD247	CD247 molecule	1q22-q23	0.0003913	0.0319	0.5863	1.1153	0.6863
+98	YES1	V-yes-1 Yamaguchi sarcoma viral oncogene homolog 1	18p11.31-p11.21	0.0004059	0.0328	0.6414	1.1154	0.7256
+99	TRIM33	Tripartite motif-containing 33	1p13.1	0.0004106	0.0329	1.8324	1.1155	1.6723
+100	PDCD11	Programmed cell death 11	10q24.33	0.0004167	0.0330	1.4049	1.1156	1.5058
+101	IL2RB	Interleukin 2 receptor, beta	22q13|22q1 3.1	0.0004189	0.0330	0.6748	1.1157	0.6744
+102	MOAP1	Modulator of apoptosis 1	14q32	0.0004367	0.0338	1.4773	1.1158	1.6352
+103	SLTM	SAFB-like, transcription modulator (SLTM)	15q22.1	0.0004446	0.0338	0.6749	1.1159	0.5922
+104	CD37	CD37 molecule	19q13.3	0.0004479	0.0338	0.5415	1.1160	0.7317
+105	C14orf102	Chromosome 14 open reading frame 102	14q32.11	0.0004481	0.0338	1.1354	1.1161	1.3523
+106	MMP9	Matrix metallopeptidase 9 (gelatinase B, 92kDa gelatinase, 92kDa type IV collagenase)	20q11.2-q13.1	0.0004486	0.0338	0.5573	1.1162	0.6009
+107	PLA2G6	Phospholipase A2, group VI (cytosolic, calcium-independent)	22q13.1	0.0004691	0.0351	0.5451	1.1163	0.6860
+108	ARPP-21	Cyclic AMP-regulated phosphoprotein, 21 kD	3p22.3	0.0004755	0.0353	1.1971	1.1164	1.4995
+109	SPOCK3	Sparc/osteonectin, cwcv and kazal-like domains proteoglycan (testican) 3	4q32.3	0.0004809	0.0354	0.7255	1.1165	0.6185
+110	HSD3B1	hydroxy-delta-5-steroid dehydrogenase, 3 beta-and steroid delta-isomerase 1 (HSD3B1)	1p12	0.0005254	0.0384	0.6486	1.1166	0.7193
+111	KCNQ1	potassium voltage-gated channel, KQT-like subfamily, member 1 (KCNQ1)	11p15.5	0.0005372	0.0389	0.6725	1.1167	0.6488
+112	PDLIM1	PDZ and LIM domain 1	10q22-q26.3	0.0005425	0.0390	1.6464	1.1168	1.6380
+113	SLC12A8	Solute carrier family 12 (potassium/chloride transporters), member 8	3q21.2	0.0005473	0.0390	1.6459	1.1169	1.4681
+114	CSF3R	Colony stimulating factor 3 receptor (granulocyte)	1p35-p34.3	0.000551	0.0390	0.7841	1.1170	0.7604
+115	CDS1	CDP-diacylglycerol synthase (phosphatidate cytidylyltransferase) 1	4q21.23	0.0005602	0.0393	0.7906	1.1171	0.6786
+116	LPL	Lipoprotein lipase	8p22	0.0005741	0.0397	0.7476	1.1172	0.7045
+117	LOC202451	Hypothetical protein LOC202451	6q23.3	0.0005936	0.0404	1.5491	1.1173	1.5178
+118	LPHN1	latrophilin 1 (LPHN1)	19p13.12	0.0005965	0.0404	0.6893	1.1174	0.7030
+119	AMIGO1	Adhesion molecule with Ig-like domain 1	1p13.3	0.0005978	0.0404	1.2479	1.1175	1.6002
+120	AKR1C4	Aldo-keto reductase family 1, member C4 (chlordecone reductase; 3-alpha hydroxysteroid dehydrogenase, type I; dihydrodiol dehydrogenase 4)	10p15-p14	0.0006057	0.0406	0.6409	1.1176	0.3041
+121	PYGB	Phosphorylase, glycogen; brain	20p11.2-p11.1	0.0006134	0.0406	0.8246	1.1177	0.6696
+122	TRMU	TRNA 5-methylaminomethyl-2-thiouridylate methyltransferase	22q13	0.00063	0.0414	1.4941	1.1178	1.5769
+123	RAD50	Homo sapiens RAD50 homolog (S. cerevisiae) (RAD50)	5q31.1	0.0006387	0.0416	0.5494	1.1179	0.5478
+124	MAP3K6	Mitogen-activated protein kinase kinase kinase 6	1p36.11	0.000649	0.0420	0.7763	1.1180	0.7175
+125	CRIP1	Cysteine-rich protein 1 (intestinal)	14q32.33	0.0006554	0.0421	1.5051	1.1181	1.4902
+126	PRUNE	Prune homolog (Drosophila)	1q21	0.0006623	0.0423	1.5021	1.1182	1.3399
+127	NR1D2	Nuclear receptor subfamily 1, group D, member 2	3p24.2	0.0006695	0.0424	0.6621	1.1183	0.5190
+128	GCNT2	Glucosaminyl (N-acetyl) transferase 2, I-branching enzyme (I blood group)	6p24.2	0.0006762	0.0424	0.6209	1.1184	0.7266
+129	SUPT7L	Suppressor of Ty 7 (S. cerevisiae)-like	2pter-p25.1	0.000678	0.0424	1.3977	1.1185	1.4854
+130	CHEK1	CHK1 checkpoint homolog (S. pombe)	11q24-q24	0.0006963	0.0432	0.8346	1.1186	0.6510
+131	NFKB1	Nuclear factor of kappa light polypeptide gene enhancer in B-cells 1	4q24	0.000702	0.0433	0.7160	1.1187	0.6862
+132	SERPINB6	Serpin peptidase inhibitor, clade B (ovalbumin), member 6	6p25	0.000706	0.0433	0.6323	1.1188	0.4775
+133	PS1TP4	HBV preS1-transactivated protein 4	2	0.0007309	0.0442	1.4181	1.1189	1.5185
+134	LTF	Lactotransferrin	3p21.31	0.0007398	0.0442	0.2594	1.1190	0.3230
+135	FANCC	Fanconi anemia, complementation group C	9q22.3	0.0007459	0.0442	0.6229	1.1191	0.6807
+136	NUP205	Nucleoporin 205kDa	7q33	0.0007478	0.0442	0.7413	1.1192	0.6819
+137	ZC3H12A	Zinc finger CCCH-type containing 12A	1p34.3	0.0007502	0.0442	1.4556	1.1193	1.6368
+138	GRHL2	grainyhead-like 2 (Drosophila) (GRHL2)	8q22.3	0.0007513	0.0442	2.0703	1.1194	2.0246
+139	RPS3	Ribosomal protein S3	11q13.3-q13.5	0.0007644	0.0447	1.3445	1.1195	1.3692
+140	RFTN1	Raftlin, lipid raft linker 1	3p24.3	0.0007707	0.0448	0.6942	1.1196	0.7317
+141	UNC119B	Unc-119 homolog B (C. elegans)	12q24.31	0.0007795	0.0449	0.7964	1.1197	0.6108
+142	NOL7	Nucleolar protein 7, 27kDa	6p23	0.0007827	0.0449	1.4966	1.1198	1.3653
+143	LANCL2	LanC lantibiotic synthetase component C-like 2 (bacterial)	7q31.1-q31.33	0.0008018	0.0452	1.5114	1.1199	1.6827
+144	COL4A5	collagen, type IV, alpha 5 (Alport syndrome) (COL4A5)	Xq22.3	0.0008283	0.0458	0.6416	1.1200	0.6426
+145	FUT8	Fucosyltransferase 8 (alpha (1,6) fucosyltransferase)	14q24.3	0.0008319	0.0458	0.8567	1.1201	0.7020
+146	TMEM194A	Transmembrane protein 194A	12q13.3	0.0008322	0.0458	1.0806	1.1202	0.5346
+147	RAB28	RAB28, member RAS oncogene family	4p15.33	0.0008469	0.0463	1.0619	1.1203	0.7074
+148	MTUS1	Mitochondrial tumor suppressor 1	8p22	0.0008576	0.0466	1.0429	1.1204	1.4356
+149	SUV420H1	Suppressor of variegation 4-20 homolog 1 (Drosophila)	11q13.2	0.0008796	0.0474	0.9489	1.1205	0.6680
+150	C2orf3	Chromosome 2 open reading frame 3	2p11.2-p11.1	0.0008846	0.0474	0.8364	1.1206	0.6301
+151	CCR3	Chemokine (C-C motif) receptor 3	3p21.3	0.0008901	0.0474	0.7396	1.1207	0.6135
+152	ZNF415	Zinc finger protein 415	19q13.41	0.0008939	0.0474	1.3887	1.1208	1.5727
+153	TGOLN2	Trans-golgi network protein 2	2p11.2	0.0009068	0.0477	0.5030	1.1209	0.4857
+154	EMD	Emerin	Xq28	0.000909	0.0477	0.5848	1.1210	0.5377
+155	ANKRD1	Ankyrin repeat domain 1 (cardiac muscle)	10q23.31	0.0009227	0.0481	1.3867	1.1211	1.7633
+156	GUCA2B	Guanylate cyclase activator 2B (uroguanylin)	1p34-p33	0.0009359	0.0485	0.6202	1.1212	0.6649
+157	LY6E	Lymphocyte antigen 6 complex, locus E	8q24.3	0.0009448	0.0486	0.5382	1.1213	0.6596
+158	ABL2	V-abl Abelson murine leukemia viral oncogene homolog 2 (arg, Abelson-related gene)	1q24-q25	0.0009482	0.0486	0.6571	1.1214	0.6778
+159	TRAP1	TNF receptor-associated protein 1	16p13.3	0.0009543	0.0487	0.6500	1.1215	0.6157
+160	MYD88	Myeloid differentiation primary response gene (88)	3p22	0.0009693	0.0492	0.5008	1.1216	0.5731
+161	USP12	Ubiquitin specific peptidase 12	13q12.13	0.0009835	0.0496	0.6015	1.1217	0.6723

@@ -1,0 +1,533 @@
+PID	SYMBOL	TITLE	CYTOBAND	ENTREZ GENE ID	REFSEQ ACCESSION NUMBER	Location	Type(s)	t-test (t)	t-test (p)	FDR	Status
+211339_s_at	ITK	IL2-inducible T-cell kinase	5q31-q32	3702	D13720	Cytoplasm	kinase	12.52	7.81084E-19	1.06212E-14	up High vs Low
+204891_s_at	LCK	lymphocyte-specific protein tyrosine kinase	1p34.3	3932	NM_005356	Cytoplasm	kinase	12.13	2.14105E-18	1.4557E-14	up High vs Low
+231776_at	EOMES	eomesodermin homolog (Xenopus laevis)	3p21.3-p21.2	8320	NM_005442	Nucleus	transcription regulator	11.93	2.67189E-15	2.01846E-12	up High vs Low
+1554240_a_at	ITGAL	integrin, alpha L (antigen CD11A (p180), lymphocyte function-associated antigen 1; alpha polypeptide)	16p11.2	3683	BC008777	Plasma Membrane	other	11.62	2.39687E-17	6.99027E-14	up High vs Low
+1555613_a_at	ZAP70	zeta-chain (TCR) associated protein kinase 70kDa	2q12	7535	AB083211	Plasma Membrane	kinase	11.48	2.15109E-15	1.82816E-12	up High vs Low
+211796_s_at	TRBV19	T cell receptor beta variable 19	7q34	28568	AF043179	Plasma Membrane		11.41	1.02683E-17	4.65429E-14	up High vs Low
+210031_at	CD247	CD247 molecule	1q22-q23	919	J04132	Plasma Membrane	transmembrane receptor	11.38	3.31075E-17	6.99027E-14	up High vs Low
+1559584_a_at	C16orf54	chromosome 16 open reading frame 54	16p11.2	283897	BC025741	unknown	other	11.32	1.51702E-16	2.29205E-13	up High vs Low
+206337_at	CCR7	chemokine (C-C motif) receptor 7	17q12-q21.2	1236	NM_001838	Plasma Membrane	G-protein coupled receptor	11.3	4.76058E-16	5.88494E-13	up High vs Low
+206991_s_at	CCR5	chemokine (C-C motif) receptor 5	3p21.31	1234	NM_000579	Plasma Membrane	G-protein coupled receptor	11.26	2.50868E-16	3.4113E-13	up High vs Low
+209083_at	CORO1A	coronin, actin binding protein, 1A	16p11.2	11151	U34690	Cytoplasm	other	11.2	7.59299E-16	7.94227E-13	up High vs Low
+227677_at	JAK3	Janus kinase 3 (a protein tyrosine kinase, leukocyte)	19p13.1	3718	BF512748	Cytoplasm	kinase	11.2	9.10682E-16	8.84533E-13	up High vs Low
+205213_at	ACAP1	ArfGAP with coiled-coil, ankyrin repeat and PH domains 1	17p13.1	9744	NM_014716	Nucleus	other	11.19	6.86627E-16	7.78063E-13	up High vs Low
+204116_at	IL2RG	interleukin 2 receptor, gamma (severe combined immunodeficiency)	Xq13.1	3561	NM_000206	Plasma Membrane	transmembrane receptor	11.13	3.35374E-17	6.99027E-14	up High vs Low
+209670_at	TRAC	T cell receptor alpha constant	14q11	28755	M12959	unknown	other	11.12	3.59846E-17	6.99027E-14	up High vs Low
+205831_at	CD2	CD2 molecule	1p13	914	NM_001767	Plasma Membrane	transmembrane receptor	11.1	4.91503E-17	8.35432E-14	up High vs Low
+226906_s_at	ARHGAP9	Rho GTPase activating protein 9	12q14	64333	AL548053	unknown	other	11.07	2.46546E-13	9.57865E-11	up High vs Low
+206181_at	SLAMF1	signaling lymphocytic activation molecule family member 1	1q22-q23	6504	NM_003037	Plasma Membrane	transmembrane receptor	11	4.00916E-15	2.59602E-12	up High vs Low
+204912_at	IL10RA	interleukin 10 receptor, alpha	11q23	3587	NM_001558	Plasma Membrane	transmembrane receptor	10.98	1.95141E-15	1.76902E-12	up High vs Low
+221080_s_at	DENND1C	DENN/MADD domain containing 1C	19p13.3	79958	NM_024898	unknown	other	10.95	8.15991E-15	5.04356E-12	up High vs Low
+1569225_a_at	SCML4	sex comb on midleg-like 4 (Drosophila)	6q21	256380	BC021582	unknown	other	10.76	9.17588E-14	4.30254E-11	up High vs Low
+226219_at	ARHGAP30	Rho GTPase activating protein 30	1q23.3	257106	AW575123	unknown	other	10.72	3.36263E-15	2.33779E-12	up High vs Low
+219191_s_at	BIN2	bridging integrator 2	12q13	51411	NM_016293	unknown	other	10.68	2.43747E-15	1.94969E-12	up High vs Low
+204057_at	IRF8	interferon regulatory factor 8	16q24.1	3394	AI073984	Nucleus	transcription regulator	10.58	1.58329E-13	6.74254E-11	up High vs Low
+213733_at	MYO1F	myosin IF	19p13.3-p13.2	4542	BF740152	unknown	other	10.45	9.04104E-15	5.34522E-12	up High vs Low
+207651_at	GPR171	G protein-coupled receptor 171	3q25.1	29909	NM_013308	Plasma Membrane	G-protein coupled receptor	10.42	1.66933E-14	9.24999E-12	up High vs Low
+219812_at	PVRIG	poliovirus receptor related immunoglobulin domain containing	7q22.1	79037	NM_024070	unknown	other	10.42	2.92532E-13	1.0751E-10	up High vs Low
+202957_at	HCLS1	hematopoietic cell-specific Lyn substrate 1	3q13	3059	NM_005335	Nucleus	transcription regulator	10.4	3.43843E-15	2.33779E-12	up High vs Low
+227346_at	IKZF1	IKAROS family zinc finger 1 (Ikaros)	7p13-p11.1	10320	AI741188	Nucleus	transcription regulator	10.39	1.58671E-13	6.74254E-11	up High vs Low
+205821_at	KLRK1	killer cell lectin-like receptor subfamily K, member 1	12p13.2-p12.3	22914	NM_007360	Plasma Membrane	transmembrane receptor	10.35	3.19904E-13	1.13456E-10	up High vs Low
+228258_at	TBC1D10C	TBC1 domain family, member 10C	11q13.1	374403	AW008519	unknown	other	10.24	2.36485E-13	9.45801E-11	up High vs Low
+218870_at	ARHGAP15	Rho GTPase activating protein 15	2q22.2	55843	NM_018460	unknown	other	10.24	5.1338E-13	1.66213E-10	up High vs Low
+210116_at	SH2D1A	SH2 domain protein 1A	Xq25-q26	4068	AF072930	Cytoplasm	other	10.17	2.60101E-12	6.67331E-10	up High vs Low
+209879_at	SELPLG	selectin P ligand	12q24	6404	AI741056	Plasma Membrane	other	10.09	1.70062E-14	9.24999E-12	up High vs Low
+204118_at	CD48	CD48 molecule	1q21.3-q22	962	NM_001778	Plasma Membrane	other	10.02	8.28177E-13	2.55944E-10	up High vs Low
+218805_at	GIMAP5	GTPase, IMAP family member 5	7q36.1	55340	NM_018384	Cytoplasm	other	10	4.09379E-14	2.14105E-11	up High vs Low
+204852_s_at	PTPN7	protein tyrosine phosphatase, non-receptor type 7	1q32.1	5778	NM_002832	Cytoplasm	phosphatase	9.99	1.17457E-13	5.32395E-11	up High vs Low
+205456_at	CD3E	CD3e molecule, epsilon (CD3-TCR complex)	11q23	916	NM_000733	Plasma Membrane	transmembrane receptor	9.91	5.67972E-14	2.75832E-11	up High vs Low
+213915_at	NKG7	natural killer cell group 7 sequence	19q13.33	4818	NM_005601	Plasma Membrane	other	9.85	2.92322E-13	1.0751E-10	up High vs Low
+212873_at	HMHA1	histocompatibility (minor) HA-1	19p13.3	23526	BE349017	unknown	transporter	9.82	1.28397E-12	3.79553E-10	up High vs Low
+204951_at	RHOH	ras homolog gene family, member H	4p13	399	NM_004310	Plasma Membrane	enzyme	9.82	2.32E-12	6.0668E-10	up High vs Low
+207957_s_at	PRKCB	protein kinase C, beta	16p11.2	5579	NM_002738	Cytoplasm	kinase	9.8	1.35059E-11	2.32162E-09	up High vs Low
+225701_at	AKNA	AT-hook transcription factor	9q32	80709	AK024431	Nucleus	other	9.78	4.31567E-13	1.46711E-10	up High vs Low
+236295_s_at	NLRC3	NLR family, CARD domain containing 3	16p13.3	197358	AA694067	Cytoplasm	other	9.69	3.254E-13	1.13456E-10	up High vs Low
+220560_at	C11orf21	chromosome 11 open reading frame 21	11p15.5	29125	NM_014144	Cytoplasm	other	9.58	5.81851E-12	1.25587E-09	up High vs Low
+205291_at	IL2RB	interleukin 2 receptor, beta	22q13|22q13.1	3560	NM_000878	Plasma Membrane	transmembrane receptor	9.57	2.27213E-13	9.36254E-11	up High vs Low
+204192_at	CD37	CD37 molecule	19q13.3	951	NM_001774	Plasma Membrane	other	9.54	1.94388E-12	5.28657E-10	up High vs Low
+206666_at	GZMK	granzyme K (granzyme 3; tryptase II)	5q11-q12	3003	NM_002104	Cytoplasm	peptidase	9.53	1.07573E-11	2.03164E-09	up High vs Low
+204563_at	SELL	selectin L	1q23-q25	6402	NM_000655	Plasma Membrane	other	9.5	5.37868E-14	2.70886E-11	up High vs Low
+242268_at	CUGBP2	CUG triplet repeat, RNA binding protein 2	10p13	10659	BE157991	Nucleus	other	9.41	2.88586E-12	7.26703E-10	up High vs Low
+213160_at	DOCK2	dedicator of cytokinesis 2	5q35.1	1794	D86964	Cytoplasm	other	9.4	4.06884E-12	9.37765E-10	up High vs Low
+221601_s_at	FAIM3	Fas apoptotic inhibitory molecule 3	1q32.1	9214	AI084226	unknown	other	9.4	2.13995E-12	5.70569E-10	up High vs Low
+228094_at	AMICA1	adhesion molecule, interacts with CXADR antigen 1	11q23.3	120425	AL048542	Plasma Membrane	other	9.39	1.16277E-11	2.13667E-09	up High vs Low
+203879_at	PIK3CD	phosphoinositide-3-kinase, catalytic, delta polypeptide	1p36.2	5293	U86453	Cytoplasm	kinase	9.32	3.75031E-12	9.10655E-10	up High vs Low
+207681_at	CXCR3	chemokine (C-X-C motif) receptor 3	Xq13	2833	NM_001504	Plasma Membrane	G-protein coupled receptor	9.31	9.97779E-12	1.93826E-09	up High vs Low
+204923_at	SASH3	SAM and SH3 domain containing 3	Xq26	54440	AL023653	unknown	other	9.3	4.90862E-12	1.07657E-09	up High vs Low
+213958_at	CD6	CD6 molecule	11q13	923	AW134823	Plasma Membrane	transmembrane receptor	9.27	4.49591E-13	1.49111E-10	up High vs Low
+206761_at	CD96	CD96 molecule	3q13.13-q13.2	10225	NM_005816	Plasma Membrane	other	9.22	8.51448E-12	1.74435E-09	up High vs Low
+216250_s_at	LPXN	leupaxin	11q12.1	9404	X77598	Cytoplasm	other	9.22	1.85751E-12	5.20166E-10	up High vs Low
+235306_at	GIMAP8	GTPase, IMAP family member 8	7q36.1	155038	AI611648	unknown	other	9.21	6.76119E-13	2.13811E-10	up High vs Low
+206978_at	CCR2	chemokine (C-C motif) receptor 2	3p21.31	1231	NM_000647	Plasma Membrane	G-protein coupled receptor	9.16	1.12682E-12	3.40499E-10	up High vs Low
+227552_at	37135	septin 1	16p11.1	1731	AI003777	Cytoplasm	enzyme	9.1	3.79032E-11	5.48307E-09	up High vs Low
+204153_s_at	MFNG	MFNG O-fucosylpeptide 3-beta-N-acetylglucosaminyltransferase	22q12	4242	NM_002405	Cytoplasm	enzyme	9.09	8.64472E-12	1.74435E-09	up High vs Low
+240070_at	TIGIT	T cell immunoreceptor with Ig and ITIM domains	3q13.31	201633	AW512550	unknown	other	9.06	1.38669E-12	4.01196E-10	up High vs Low
+228055_at	NAPSB	napsin B aspartic peptidase pseudogene	19q13.33	256236	AI763426			9.02	8.72305E-12	1.74435E-09	up High vs Low
+209827_s_at	IL16	interleukin 16 (lymphocyte chemoattractant factor)	15q26.3	3603	NM_004513	Extracellular Space	cytokine	8.98	8.71703E-11	1.17361E-08	up High vs Low
+213539_at	CD3D	CD3d molecule, delta (CD3-TCR complex)	11q23	915	NM_000732	Plasma Membrane	transmembrane receptor	8.97	4.55706E-12	1.0255E-09	up High vs Low
+223640_at	HCST	hematopoietic cell signal transducer	19q13.1	10870	AF285447	Plasma Membrane	other	8.96	1.34018E-11	2.32162E-09	up High vs Low
+205488_at	GZMA	granzyme A (granzyme 1, cytotoxic T-lymphocyte-associated serine esterase 3)	5q11-q12	3001	NM_006144	Cytoplasm	peptidase	8.94	3.93721E-12	9.37765E-10	up High vs Low
+207339_s_at	LTB	lymphotoxin beta (TNF superfamily, member 3)	6p21.3	4050	NM_002341	Extracellular Space	cytokine	8.94	1.15842E-11	2.13667E-09	up High vs Low
+205798_at	IL7R	interleukin 7 receptor	5p13	3575	NM_002185	Plasma Membrane	transmembrane receptor	8.92	3.03613E-12	7.50642E-10	up High vs Low
+232234_at	SLA2	Src-like-adaptor 2	20q11.23	84174	AA305476	Plasma Membrane	other	8.92	1.8744E-12	5.20166E-10	up High vs Low
+206118_at	STAT4	signal transducer and activator of transcription 4	2q32.2-q32.3	6775	NM_003151	Nucleus	transcription regulator	8.89	9.00472E-12	1.77458E-09	up High vs Low
+229686_at	P2RY8	purinergic receptor P2Y, G-protein coupled, 8	Xp22.33; Yp11.3	286530	AI436587	Plasma Membrane	G-protein coupled receptor	8.88	3.14169E-11	4.64356E-09	up High vs Low
+206150_at	CD27	CD27 molecule	12p13	939	NM_001242	Plasma Membrane	transmembrane receptor	8.88	8.60995E-12	1.74435E-09	up High vs Low
+204882_at	ARHGAP25	Rho GTPase activating protein 25	2p14	9938	NM_014882	unknown	other	8.86	9.83414E-11	1.28581E-08	up High vs Low
+221658_s_at	IL21R	interleukin 21 receptor	16p11	50615	AF269133	Plasma Membrane	transmembrane receptor	8.85	1.49175E-11	2.47376E-09	up High vs Low
+225282_at	SMAP2	small ArfGAP2	1p35.3-p34.1	64744	AL137764	unknown	other	8.84	4.60034E-12	1.0255E-09	up High vs Low
+34210_at	CD52	CD52 molecule	1p36	1043	N90866	Plasma Membrane	other	8.79	1.64658E-11	2.68104E-09	up High vs Low
+220418_at	UBASH3A	ubiquitin associated and SH3 domain containing, A	21q22.3	53347	NM_018961	Cytoplasm	enzyme	8.77	7.52267E-11	1.02293E-08	up High vs Low
+204265_s_at	GPSM3	G-protein signaling modulator 3 (AGS3-like, C. elegans)	6p21.3	63940	NM_022107	Cytoplasm	other	8.77	2.29468E-11	3.54581E-09	up High vs Low
+220005_at	P2RY13	purinergic receptor P2Y, G-protein coupled, 13	3q24	53829	NM_023914	Plasma Membrane	G-protein coupled receptor	8.75	6.18379E-12	1.31386E-09	up High vs Low
+228167_at	KLHL6	kelch-like 6 (Drosophila)	-	89857	AW574798	unknown	other	8.71	3.06799E-11	4.58445E-09	up High vs Low
+228592_at	MS4A1	membrane-spanning 4-domains, subfamily A, member 1	11q12	931	AW474852	Plasma Membrane	other	8.71	1.65618E-11	2.68104E-09	up High vs Low
+219282_s_at	TRPV2	transient receptor potential cation channel, subfamily V, member 2	17p11.2	51393	NM_015930	Plasma Membrane	ion channel	8.66	1.36586E-11	2.32162E-09	up High vs Low
+209795_at	CD69	CD69 molecule	12p13-p12	969	L07555	Plasma Membrane	transmembrane receptor	8.63	2.59676E-11	3.96749E-09	up High vs Low
+203508_at	TNFRSF1B	tumor necrosis factor receptor superfamily, member 1B	1p36.3-p36.2	7133	NM_001066	Plasma Membrane	transmembrane receptor	8.58	1.01758E-11	1.94888E-09	up High vs Low
+220684_at	TBX21	T-box 21	17q21.32	30009	NM_013351	Nucleus	transcription regulator	8.55	1.60125E-10	1.89337E-08	up High vs Low
+228677_s_at	FLJ21438	hypothetical protein FLJ21438	19p13.12	64926	AI028474	unknown	other	8.54	1.48958E-11	2.47376E-09	up High vs Low
+228410_at	GAB3	GRB2-associated binding protein 3	Xq28	139716	AA495984	unknown	other	8.52	2.82172E-11	4.26331E-09	up High vs Low
+41577_at	PPP1R16B	protein phosphatase 1, regulatory (inhibitor) subunit 16B	20q11.23	26051	AB020630	Plasma Membrane	phosphatase	8.5	1.18081E-10	1.51477E-08	up High vs Low
+227811_at	FGD3	FYVE, RhoGEF and PH domain containing 3	-	89846	AK000004	Cytoplasm	other	8.5	4.06324E-12	9.37765E-10	up High vs Low
+214054_at	DOK2	docking protein 2, 56kDa	8p21.3	9046	AI828929	Plasma Membrane	other	8.46	1.20561E-11	2.16097E-09	up High vs Low
+236341_at	CTLA4	cytotoxic T-lymphocyte-associated protein 4	2q33	1493	AI733018	Plasma Membrane	other	8.44	1.20778E-11	2.16097E-09	up High vs Low
+207419_s_at	RAC2	ras-related C3 botulinum toxin substrate 2 (rho family, small GTP binding protein Rac2)	22q13.1	5880	NM_002872	Cytoplasm	enzyme	8.33	7.43745E-11	1.02293E-08	up High vs Low
+212886_at	CCDC69	coiled-coil domain containing 69	5q33.1	26112	AL080169	unknown	other	8.32	2.06325E-10	2.39795E-08	up High vs Low
+204960_at	PTPRCAP	protein tyrosine phosphatase, receptor type, C-associated protein	11q13.3	5790	NM_005608	Plasma Membrane	other	8.32	7.07585E-10	6.92211E-08	up High vs Low
+205758_at	CD8A	CD8a molecule	2p12	925	AW006735	Plasma Membrane	other	8.29	2.40028E-10	2.74277E-08	up High vs Low
+1552584_at	IL12RB1	interleukin 12 receptor, beta 1	19p13.1	3594	NM_153701	Plasma Membrane	transmembrane receptor	8.23	1.17541E-10	1.51477E-08	up High vs Low
+219045_at	RHOF	ras homolog gene family, member F (in filopodia)	12q24.31	54509	NM_019034	Cytoplasm	enzyme	8.23	3.75791E-10	3.96125E-08	up High vs Low
+226474_at	NLRC5	NLR family, CARD domain containing 5	16q13	84166	AA005023	unknown	other	8.2	1.22757E-11	2.16786E-09	up High vs Low
+203110_at	PTK2B	PTK2B protein tyrosine kinase 2 beta	8p21.1	2185	U43522	Cytoplasm	kinase	8.18	1.69927E-11	2.71843E-09	up High vs Low
+1552316_a_at	GIMAP1	GTPase, IMAP family member 1	7q36.1	170575	NM_130759	Cytoplasm	other	8.16	4.42909E-11	6.33966E-09	up High vs Low
+229597_s_at	WDFY4	WDFY family member 4	10q11.22	57705	BF592952	unknown	other	8.14	3.6741E-09	2.88901E-07	up High vs Low
+214470_at	KLRB1	killer cell lectin-like receptor subfamily B, member 1	12p13	3820	NM_002258	Plasma Membrane	transmembrane receptor	8.12	3.58916E-10	3.87344E-08	up High vs Low
+203402_at	KCNAB2	potassium voltage-gated channel, shaker-related subfamily, beta member 2	1p36.3	8514	AL520102	Plasma Membrane	ion channel	8.11	1.26741E-10	1.59576E-08	up High vs Low
+225502_at	DOCK8	dedicator of cytokinesis 8	9p24.3	81704	AL161725	unknown	other	8.07	5.96303E-11	8.44638E-09	up High vs Low
+210140_at	CST7	cystatin F (leukocystatin)	20p11.21	8530	AF031824	Extracellular Space	other	8.07	1.25828E-10	1.59576E-08	up High vs Low
+228071_at	GIMAP7	GTPase, IMAP family member 7	7q36.1	168537	AA858297	unknown	other	8.06	1.47981E-10	1.82931E-08	up High vs Low
+212187_x_at	PTGDS	prostaglandin D2 synthase 21kDa (brain)	9q34.2-q34.3	5730	NM_000954	Cytoplasm	enzyme	8.06	6.50629E-10	6.45785E-08	up High vs Low
+207777_s_at	SP140	SP140 nuclear body protein	2q37.1	11262	NM_007237	Nucleus	transcription regulator	8.04	1.2275E-09	1.1278E-07	up High vs Low
+215967_s_at	LY9	lymphocyte antigen 9	1q21.3-q22	4063	AL582804	Plasma Membrane	other	8.04	3.62077E-10	3.87679E-08	up High vs Low
+230489_at	CD5	CD5 molecule	11q13	921	AI797836	Plasma Membrane	transmembrane receptor	8.02	8.29906E-10	8.00359E-08	up High vs Low
+233510_s_at	PARVG	parvin, gamma	22q13.2-q13	64098	AL355092	Cytoplasm	other	8	1.91337E-10	2.24293E-08	up High vs Low
+210038_at	PRKCQ	protein kinase C, theta	10p15	5588	AL137145	Cytoplasm	kinase	7.99	3.4859E-11	5.09691E-09	up High vs Low
+206219_s_at	VAV1	vav 1 guanine nucleotide exchange factor	19p13.2	7409	NM_005428	Nucleus	transcription regulator	7.99	9.68929E-11	1.27917E-08	up High vs Low
+210279_at	GPR18	G protein-coupled receptor 18	13q32	2841	AF261135	Plasma Membrane	G-protein coupled receptor	7.98	2.79113E-09	2.30023E-07	up High vs Low
+216920_s_at	TRGC2	T cell receptor gamma constant 2	7p14	6967	M27331	Cytoplasm	other	7.98	1.95195E-11	3.08635E-09	up High vs Low
+213416_at	ITGA4	integrin, alpha 4 (antigen CD49D, alpha 4 subunit of VLA-4 receptor)	2q31.3	3676	BG532690	Plasma Membrane	other	7.97	7.03401E-10	6.92211E-08	up High vs Low
+211178_s_at	PSTPIP1	proline-serine-threonine phosphatase interacting protein 1	15q24-q25.1	9051	AF038602	Cytoplasm	other	7.97	1.04696E-09	9.8865E-08	up High vs Low
+226659_at	DEF6	differentially expressed in FDCP 6 homolog (mouse)	6p21.33-p21.1	50619	Z97832	Extracellular Space	other	7.96	2.12736E-10	2.45151E-08	up High vs Low
+219279_at	DOCK10	dedicator of cytokinesis 10	2q36.2	55619	NM_017718	unknown	other	7.96	4.08795E-10	4.24335E-08	up High vs Low
+202524_s_at	SPOCK2	sparc/osteonectin, cwcv and kazal-like domains proteoglycan (testican) 2	10pter-q25.3	9806	NM_014767	Extracellular Space	other	7.95	2.05434E-11	3.2109E-09	up High vs Low
+226818_at	MPEG1	macrophage expressed gene 1	11q12.1	219972	T64884	Cytoplasm	other	7.94	3.67484E-10	3.90394E-08	up High vs Low
+203217_s_at	ST3GAL5	ST3 beta-galactoside alpha-2,3-sialyltransferase 5	2p11.2	8869	NM_003896	Cytoplasm	enzyme	7.91	2.89052E-10	3.19555E-08	up High vs Low
+209770_at	BTN3A1	butyrophilin, subfamily 3, member A1	6p22.1	11119	U90552	unknown	other	7.87	1.46112E-10	1.82278E-08	up High vs Low
+203523_at	LSP1	lymphocyte-specific protein 1	11p15.5	4046	NM_002339	Cytoplasm	other	7.86	3.81004E-10	3.9853E-08	up High vs Low
+204513_s_at	ELMO1	engulfment and cell motility 1	7p14.2	9844	NM_014800	Cytoplasm	other	7.84	6.6152E-11	9.27355E-09	up High vs Low
+211742_s_at	EVI2B	ecotropic viral integration site 2B	17q11.2	2124	BC005926	Plasma Membrane	other	7.83	1.1052E-09	1.02935E-07	up High vs Low
+202910_s_at	CD97	CD97 molecule	19p13	976	NM_001784	Plasma Membrane	G-protein coupled receptor	7.83	7.50735E-11	1.02293E-08	up High vs Low
+227002_at	FAM78A	family with sequence similarity 78, member A	9q34	286336	BF515132	unknown	other	7.77	6.07327E-10	6.11735E-08	up High vs Low
+200904_at	HLA-E	major histocompatibility complex, class I, E	6p21.3	3133	X56841	Plasma Membrane	transmembrane receptor	7.75	1.5151E-10	1.85607E-08	up High vs Low
+222838_at	SLAMF7	SLAM family member 7	1q23.1-q24.1	57823	AL121985	Plasma Membrane	other	7.75	2.9695E-10	3.2564E-08	up High vs Low
+211005_at	LAT	linker for activation of T cells	16p11.2	27040	AF036906	Cytoplasm	transporter	7.73	2.17825E-09	1.86288E-07	up High vs Low
+204205_at	APOBEC3G	apolipoprotein B mRNA editing enzyme, catalytic polypeptide-like 3G	22q13.1-q13.2	60489	NM_021822	Nucleus	enzyme	7.71	1.56523E-10	1.8771E-08	up High vs Low
+204961_s_at	NCF1	neutrophil cytosolic factor 1	7q11.23	653361	NM_000265	Cytoplasm	enzyme	7.71	3.29634E-09	2.65228E-07	up High vs Low
+236782_at	SAMD3	sterile alpha motif domain containing 3	6q23.1	154075	AI129628	unknown	other	7.69	9.85626E-10	9.37241E-08	up High vs Low
+223303_at	FERMT3	fermitin family homolog 3 (Drosophila)	11q13.1	83706	BC004347	Cytoplasm	enzyme	7.67	3.14775E-09	2.5478E-07	up High vs Low
+219033_at	PARP8	poly (ADP-ribose) polymerase family, member 8	5q11.1	79668	NM_024615	unknown	other	7.64	9.46597E-11	1.26194E-08	up High vs Low
+209606_at	CYTIP	cytohesin 1 interacting protein	2q11.2	9595	L06633	Cytoplasm	other	7.64	2.88857E-10	3.19555E-08	up High vs Low
+226789_at	LOC647121	embigin homolog (mouse) pseudogene	1p11.2	647121	W84421	Plasma Membrane	other	7.58	1.56757E-10	1.8771E-08	up High vs Low
+221756_at	PIK3IP1	phosphoinositide-3-kinase interacting protein 1	22q12.2	113791	AL540260	unknown	other	7.55	2.87757E-09	2.35718E-07	up High vs Low
+219452_at	DPEP2	dipeptidase 2	16q22.1	64174	NM_022355	unknown	peptidase	7.53	3.68223E-09	2.88901E-07	up High vs Low
+214339_s_at	MAP4K1	mitogen-activated protein kinase kinase kinase kinase 1	19q13.1-q13.4	11184	AA744529	Cytoplasm	kinase	7.52	1.43294E-09	1.28192E-07	up High vs Low
+202295_s_at	CTSH	cathepsin H	15q24-q25	1512	NM_004390	Cytoplasm	peptidase	7.51	2.83217E-10	3.1828E-08	up High vs Low
+232024_at	GIMAP2	GTPase, IMAP family member 2	7q36.1	26157	AI431931	unknown	other	7.51	3.21346E-10	3.49573E-08	up High vs Low
+219243_at	GIMAP4	GTPase, IMAP family member 4	7q36.1	55303	NM_018326	unknown	other	7.51	1.35045E-09	1.22422E-07	up High vs Low
+38241_at	BTN3A3	butyrophilin, subfamily 3, member A3	6p21.3	10384	U90548	unknown	other	7.49	1.57368E-10	1.8771E-08	up High vs Low
+220577_at	GVIN1	GTPase, very large interferon inducible 1	11p15.4	387751	NM_025006	Cytoplasm	other	7.47	1.34713E-08	9.0238E-07	up High vs Low
+227645_at	PIK3R5	phosphoinositide-3-kinase, regulatory subunit 5	17p13.1	23533	BG236366	Nucleus	kinase	7.45	1.18841E-09	1.09932E-07	up High vs Low
+214567_s_at	XCL1	chemokine (C motif) ligand 1	1q23	6375	NM_003175	Extracellular Space	cytokine	7.45	4.77851E-09	3.57023E-07	up High vs Low
+214551_s_at	CD7	CD7 molecule	17q25.2-q25.3	924	NM_006137	Plasma Membrane	other	7.44	9.16686E-10	8.77823E-08	up High vs Low
+240413_at	PYHIN1	pyrin and HIN domain family, member 1	1q23.1	149628	AI827431	Nucleus	other	7.43	3.88383E-08	2.36826E-06	up High vs Low
+219505_at	CECR1	cat eye syndrome chromosome region, candidate 1	22q11.2	51816	NM_017424	unknown	enzyme	7.43	5.57027E-10	5.69508E-08	up High vs Low
+231093_at	FCRL3	Fc receptor-like 3	1q21-q22	115352	BF514552	Plasma Membrane	other	7.4	2.59144E-08	1.67007E-06	up High vs Low
+206366_x_at	XCL2	chemokine (C motif) ligand 2	1q23-q25	6846	U23772	Extracellular Space	cytokine	7.39	4.03503E-09	3.09991E-07	up High vs Low
+205599_at	TRAF1	TNF receptor-associated factor 1	9q33-q34	7185	NM_005658	Cytoplasm	other	7.39	2.68828E-10	3.04627E-08	up High vs Low
+229937_x_at	LILRB1	leukocyte immunoglobulin-like receptor, subfamily B (with TM and ITIM domains), member 1	19q13.4	10859	AI681260	Plasma Membrane	other	7.37	4.4052E-09	3.32788E-07	up High vs Low
+1553856_s_at	P2RY10	purinergic receptor P2Y, G-protein coupled, 10	Xq21.1	27334	NM_014499	Plasma Membrane	G-protein coupled receptor	7.37	2.6629E-08	1.70001E-06	up High vs Low
+206682_at	CLEC10A	C-type lectin domain family 10, member A	17p13.1	10462	NM_006344	Plasma Membrane	other	7.35	3.69657E-09	2.88901E-07	up High vs Low
+201137_s_at	HLA-DPB1	major histocompatibility complex, class II, DP beta 1	6p21.3	3115	NM_002121	Plasma Membrane	transmembrane receptor	7.35	5.676E-10	5.75987E-08	up High vs Low
+203547_at	CD4	CD4 molecule	12pter-p12	920	U47924	Plasma Membrane	transmembrane receptor	7.34	1.99856E-09	1.75332E-07	up High vs Low
+204562_at	IRF4	interferon regulatory factor 4	6p25-p23	3662	NM_002460	Nucleus	transcription regulator	7.32	3.60757E-09	2.88563E-07	up High vs Low
+205639_at	AOAH	acyloxyacyl hydrolase (neutrophil)	7p14-p12	313	NM_001637	unknown	enzyme	7.31	1.05897E-08	7.34689E-07	up High vs Low
+221087_s_at	APOL3	apolipoprotein L, 3	22q13.1	80833	NM_014349	Cytoplasm	transporter	7.31	4.64907E-10	4.78925E-08	up High vs Low
+209846_s_at	BTN3A2	butyrophilin, subfamily 3, member A2	6p22.1	11118	BC002832	unknown	other	7.24	1.76985E-09	1.57297E-07	up High vs Low
+219777_at	GIMAP6	GTPase, IMAP family member 6	-	474344	NM_024711	unknown	other	7.24	2.01451E-09	1.75598E-07	up High vs Low
+1559263_s_at	PPIL4	peptidylprolyl isomerase (cyclophilin)-like 4	6q24-q25	85313	BG397809	Nucleus	enzyme	7.23	1.29465E-08	8.84652E-07	up High vs Low
+235291_s_at	FLJ32255	hypothetical protein LOC643977	5p12	643977	BE875232	unknown	other	7.22	6.4168E-10	6.41585E-08	up High vs Low
+226435_at	PAPLN	papilin, proteoglycan-like sulfated glycoprotein	14q24.2	89932	AU145309	unknown	other	7.22	5.61447E-09	4.06093E-07	up High vs Low
+226878_at	HLA-DOA	major histocompatibility complex, class II, DO alpha	6p21.3	3111	AL581873	Plasma Membrane	transmembrane receptor	7.2	3.78171E-09	2.9385E-07	up High vs Low
+213309_at	PLCL2	phospholipase C-like 2	3p24.3	23228	AL117515	Cytoplasm	enzyme	7.19	1.3309E-08	8.95922E-07	up High vs Low
+210072_at	CCL19	chemokine (C-C motif) ligand 19	9p13	6363	U88321	Extracellular Space	cytokine	7.19	7.69116E-10	7.47032E-08	up High vs Low
+1405_i_at	CCL5	chemokine (C-C motif) ligand 5	17q11.2-q12	6352	M21121	Extracellular Space	cytokine	7.18	1.06791E-09	1.00147E-07	up High vs Low
+212829_at	PIP4K2A	phosphatidylinositol-5-phosphate 4-kinase, type II, alpha	10p12.2	5305	BE878277	Cytoplasm	kinase	7.17	1.88448E-09	1.66397E-07	up High vs Low
+202664_at	WIPF1	WAS/WASL interacting protein family, member 1	2q31.1	7456	AW058622	Cytoplasm	other	7.17	4.81623E-09	3.57875E-07	up High vs Low
+223514_at	CARD11	caspase recruitment domain family, member 11	7p22	84433	AF322641	Cytoplasm	kinase	7.17	1.52767E-08	1.00841E-06	up High vs Low
+207907_at	TNFSF14	tumor necrosis factor (ligand) superfamily, member 14	19p13.3	8740	NM_003807	Extracellular Space	cytokine	7.16	1.34813E-09	1.22422E-07	up High vs Low
+230925_at	APBB1IP	amyloid beta (A4) precursor protein-binding, family B, member 1 interacting protein	10p12.1	54518	AI093231	Cytoplasm	other	7.14	2.33488E-09	1.95986E-07	up High vs Low
+36030_at	IFFO1	intermediate filament family orphan 1	12p13.3	25900	AL080214	unknown	other	7.12	2.12082E-09	1.82525E-07	up High vs Low
+225373_at	C10orf54	chromosome 10 open reading frame 54	10q22.1	64115	BE271644	unknown	other	7.12	2.60563E-09	2.16045E-07	up High vs Low
+205159_at	CSF2RB	colony stimulating factor 2 receptor, beta, low-affinity (granulocyte-macrophage)	22q13.1	1439	AV756141	Plasma Membrane	transmembrane receptor	7.11	4.12935E-09	3.15455E-07	up High vs Low
+204046_at	PLCB2	phospholipase C, beta 2	15q15	5330	NM_004573	Cytoplasm	enzyme	7.1	1.23701E-08	8.49539E-07	up High vs Low
+219014_at	PLAC8	placenta-specific 8	4q21.22	51316	NM_016619	Nucleus	other	7.09	3.69678E-09	2.88901E-07	up High vs Low
+209829_at	FAM65B	family with sequence similarity 65, member B	6p22.3-p21.32	9750	AB002384	unknown	other	7.09	3.97931E-08	2.40492E-06	up High vs Low
+229723_at	TAGAP	T-cell activation RhoGTPase activating protein	6q25.3	117289	BF591040	unknown	other	7.08	2.45106E-09	2.04476E-07	up High vs Low
+227607_at	STAMBPL1	STAM binding protein-like 1	10q23.31	57559	AI638611	unknown	other	7.08	4.56582E-09	3.43017E-07	up High vs Low
+232253_at	LOC441108	hypothetical gene supported by AK128882	5q31.1	441108	AL564637	unknown	other	7.07	8.60438E-09	6.09388E-07	up High vs Low
+218913_s_at	GMIP	GEM interacting protein	19p12-p11	51291	NM_016573	unknown	enzyme	7.07	2.92221E-09	2.37942E-07	up High vs Low
+217143_s_at	TRA@	T cell receptor alpha locus	14q11.2	6955	X06557	Plasma Membrane		7.06	5.07739E-09	3.7523E-07	up High vs Low
+206687_s_at	PTPN6	protein tyrosine phosphatase, non-receptor type 6	12p13	5777	NM_002831	Cytoplasm	phosphatase	7.05	5.61308E-09	4.06093E-07	up High vs Low
+205790_at	SKAP1	src kinase associated phosphoprotein 1	17q21.32	8631	NM_003726	Cytoplasm	kinase	7.03	2.21489E-09	1.88238E-07	up High vs Low
+222920_s_at	KIAA0748	KIAA0748	12q13.2	9840	BG231515	unknown	other	7.03	3.30813E-08	2.07299E-06	up High vs Low
+220423_at	PLA2G2D	phospholipase A2, group IID	1p36.12	26279	NM_012400	Extracellular Space	enzyme	7.02	1.0332E-07	5.59738E-06	up High vs Low
+214617_at	PRF1	perforin 1 (pore forming protein)	10q22	5551	AI445650	Cytoplasm	other	7.02	1.0155E-08	7.08139E-07	up High vs Low
+230110_at	MCOLN2	mucolipin 2	1p22	255231	AV713773	Cytoplasm	ion channel	7.01	8.03081E-09	5.74752E-07	up High vs Low
+40420_at	STK10	serine/threonine kinase 10	5q35.1	6793	AB015718	Cytoplasm	kinase	7.01	2.07055E-09	1.79333E-07	up High vs Low
+218600_at	LIMD2	LIM domain containing 2	17q23.3	80774	NM_030576	unknown	other	7.01	1.36868E-09	1.23254E-07	up High vs Low
+204220_at	GMFG	glia maturation factor, gamma	19q13.2	9535	NM_004877	Cytoplasm	growth factor	7.01	2.11497E-08	1.36949E-06	up High vs Low
+213106_at	ATP8A1	ATPase, aminophospholipid transporter (APLT), class I, type 8A, member 1	4p14-p12	10396	AI769688	Cytoplasm	transporter	7	2.3168E-09	1.95676E-07	up High vs Low
+1552497_a_at	SLAMF6	SLAM family member 6	1q23.2	114836	NM_052931	Plasma Membrane	transmembrane receptor	6.95	4.25297E-08	2.54766E-06	up High vs Low
+208450_at	LGALS2	lectin, galactoside-binding, soluble, 2	22q12-q13|22q13.1	3957	NM_006498	Cytoplasm	other	6.91	3.4731E-08	2.14669E-06	up High vs Low
+204897_at	PTGER4	prostaglandin E receptor 4 (subtype EP4)	5p13.1	5734	AA897516	Plasma Membrane	G-protein coupled receptor	6.91	5.45677E-09	3.98931E-07	up High vs Low
+206398_s_at	CD19	CD19 molecule	16p11.2	930	NM_001770	Plasma Membrane	other	6.91	1.05207E-07	5.67701E-06	up High vs Low
+206060_s_at	PTPN22	protein tyrosine phosphatase, non-receptor type 22 (lymphoid)	1p13.3-p13.1	26191	NM_015967	Cytoplasm	phosphatase	6.86	6.87812E-09	4.94861E-07	up High vs Low
+39318_at	TCL1A	T-cell leukemia/lymphoma 1A	14q32.1	8115	X82240	Nucleus	other	6.82	3.01189E-07	1.4627E-05	up High vs Low
+207677_s_at	NCF4	neutrophil cytosolic factor 4, 40kDa	22q13.1	4689	NM_013416	Cytoplasm	enzyme	6.79	9.1835E-09	6.47032E-07	up High vs Low
+211795_s_at	FYB	FYN binding protein (FYB-120/130)	5p13.1	2533	AF198052	Nucleus	other	6.77	9.66266E-09	6.77282E-07	up High vs Low
+225763_at	RCSD1	RCSD domain containing 1	1q22-q24	92241	AI659418	unknown	other	6.77	1.32194E-08	8.94317E-07	up High vs Low
+202531_at	IRF1	interferon regulatory factor 1	5q31.1	3659	NM_002198	Nucleus	transcription regulator	6.76	4.24342E-09	3.22358E-07	up High vs Low
+210184_at	ITGAX	integrin, alpha X (complement component 3 receptor 4 subunit)	16p11.2	3687	M81695	Plasma Membrane	other	6.76	1.71711E-08	1.12798E-06	up High vs Low
+210164_at	GZMB	granzyme B (granzyme 2, cytotoxic T-lymphocyte-associated serine esterase 1)	14q11.2	3002	J03189	Cytoplasm	peptidase	6.75	1.43708E-08	9.53241E-07	up High vs Low
+203932_at	HLA-DMB	major histocompatibility complex, class II, DM beta	6p21.3	3109	NM_002118	Plasma Membrane	transmembrane receptor	6.75	1.87062E-08	1.22291E-06	up High vs Low
+228298_at	FAM113B	family with sequence similarity 113, member B	12q13.11	91523	BF056901	unknown	other	6.75	8.2041E-09	5.84081E-07	up High vs Low
+205242_at	CXCL13	chemokine (C-X-C motif) ligand 13	4q21	10563	NM_006419	Extracellular Space	cytokine	6.73	3.8765E-09	2.99504E-07	up High vs Low
+204950_at	CARD8	caspase recruitment domain family, member 8	19q13.32	22900	NM_014959	Nucleus	other	6.72	5.86889E-08	3.42512E-06	up High vs Low
+1556601_a_at	SPATA13	spermatogenesis associated 13	13q12.12	221178	R69077	unknown	other	6.69	5.37121E-09	3.94799E-07	up High vs Low
+228372_at	C10orf128	chromosome 10 open reading frame 128	10q11.22	170371	AW204712	unknown	other	6.68	1.88441E-08	1.22604E-06	up High vs Low
+221978_at	HLA-F	major histocompatibility complex, class I, F	6p21.3	3134	BE138825	Plasma Membrane	transmembrane receptor	6.68	1.12994E-08	7.79942E-07	up High vs Low
+210448_s_at	P2RX5	purinergic receptor P2X, ligand-gated ion channel, 5	17p13.3	5026	U49396	Plasma Membrane	ion channel	6.68	1.15987E-07	6.1369E-06	up High vs Low
+227182_at	SUSD3	sushi domain containing 3	9q22.31	203328	AW966474	unknown	other	6.65	3.07606E-08	1.9455E-06	up High vs Low
+205049_s_at	CD79A	CD79a molecule, immunoglobulin-associated alpha	19q13.2	973	NM_001783	Plasma Membrane	transmembrane receptor	6.65	6.82158E-08	3.88117E-06	up High vs Low
+242814_at	SERPINB9	serpin peptidase inhibitor, clade B (ovalbumin), member 9	6p25	5272	AI986192	Cytoplasm	other	6.62	2.9133E-08	1.85117E-06	up High vs Low
+219836_at	ZBED2	zinc finger, BED-type containing 2	3q13.13	79413	NM_024508	unknown	other	6.6	1.54146E-07	8.00027E-06	up High vs Low
+205718_at	ITGB7	integrin, beta 7	12q13.13	3695	NM_000889	Plasma Membrane	transmembrane receptor	6.54	6.54051E-08	3.76855E-06	up High vs Low
+228658_at	MIAT	myocardial infarction associated transcript (non-protein coding)	22q12.1	440823	R54042	unknown	other	6.53	1.31807E-08	8.94317E-07	up High vs Low
+226074_at	PPM1M	protein phosphatase 1M (PP2C domain containing)	3p21.1	132160	N22918	Nucleus	phosphatase	6.5	5.46365E-08	3.20236E-06	up High vs Low
+212415_at	38961	septin 6	Xq24	23157	AW150913	Cytoplasm	other	6.49	3.72514E-08	2.29206E-06	up High vs Low
+219584_at	PLA1A	phospholipase A1 member A	3q13.13-q13.2	51365	NM_015900	Extracellular Space	enzyme	6.49	6.27302E-08	3.62981E-06	up High vs Low
+235175_at	GBP4	guanylate binding protein 4	1p22.2	115361	BG260886	Cytoplasm	enzyme	6.47	3.10703E-08	1.95599E-06	up High vs Low
+214186_s_at	HCG26	HLA complex group 26	6p21.3	352961	AI346483	unknown	other	6.46	6.0296E-08	3.50387E-06	up High vs Low
+231747_at	CYSLTR1	cysteinyl leukotriene receptor 1	Xq13.2-q21.1	10800	NM_006639	Plasma Membrane	G-protein coupled receptor	6.44	7.56092E-08	4.24849E-06	up High vs Low
+227791_at	SLC9A9	solute carrier family 9 (sodium/hydrogen exchanger), member 9	3q24	285195	BE222668	Cytoplasm	other	6.44	1.07159E-07	5.75947E-06	up High vs Low
+210538_s_at	BIRC3	baculoviral IAP repeat-containing 3	11q22	330	U37546	Cytoplasm	enzyme	6.44	2.65378E-08	1.70001E-06	up High vs Low
+207734_at	LAX1	lymphocyte transmembrane adaptor 1	1q32.1	54900	NM_017773	Cytoplasm	other	6.44	1.97885E-07	1.00781E-05	up High vs Low
+204949_at	ICAM3	intercellular adhesion molecule 3	19p13.3-p13.2	3385	NM_002162	Plasma Membrane	other	6.43	6.7595E-08	3.862E-06	up High vs Low
+217478_s_at	HLA-DMA	major histocompatibility complex, class II, DM alpha	6p21.3	3108	X76775	Plasma Membrane	transmembrane receptor	6.41	3.36219E-08	2.0972E-06	up High vs Low
+214450_at	CTSW	cathepsin W	11q13.1	1521	NM_001335	Cytoplasm	peptidase	6.38	1.98924E-07	1.00932E-05	up High vs Low
+212646_at	RFTN1	raftlin, lipid raft linker 1	3p24.3	23180	D42043	Plasma Membrane	other	6.37	5.40536E-08	3.18191E-06	up High vs Low
+202746_at	ITM2A	integral membrane protein 2A	Xq13.3-Xq21.2	9452	AL021786	Plasma Membrane	other	6.35	4.15899E-08	2.50239E-06	up High vs Low
+223395_at	ABI3BP	ABI family, member 3 (NESH) binding protein	3q12	25890	AB056106	unknown	other	6.33	3.78589E-08	2.31894E-06	up High vs Low
+218764_at	PRKCH	protein kinase C, eta	14q22-q23	5583	NM_024064	Cytoplasm	kinase	6.32	7.77088E-08	4.3485E-06	up High vs Low
+219734_at	SIDT1	SID1 transmembrane family, member 1	3q13.2	54847	NM_017699	unknown	other	6.3	3.97103E-08	2.40492E-06	up High vs Low
+213261_at	LBA1	lupus brain antigen 1	3p22.2	9881	AA035414	Nucleus	transcription regulator	6.3	9.68156E-08	5.30846E-06	up High vs Low
+204425_at	ARHGAP4	Rho GTPase activating protein 4	Xq28	393	NM_001666	Cytoplasm	other	6.28	9.03682E-08	5.01562E-06	up High vs Low
+204436_at	PLEKHO2	pleckstrin homology domain containing, family O member 2	15q22.1	80301	NM_025201	unknown	other	6.28	3.40817E-08	2.11618E-06	up High vs Low
+242946_at	CD53	CD53 molecule	1p13	963	AW293276	Plasma Membrane	other	6.27	3.12683E-07	1.51312E-05	up High vs Low
+227265_at	FGL2	fibrinogen-like 2	7q11.23	10875	AW135176	Extracellular Space	peptidase	6.23	9.21387E-08	5.0931E-06	up High vs Low
+209584_x_at	APOBEC3C	apolipoprotein B mRNA editing enzyme, catalytic polypeptide-like 3C	22q13.1|22q13.1-q13.2	27350	AF165520	unknown	enzyme	6.23	7.51958E-08	4.24849E-06	up High vs Low
+226991_at	NFATC2	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 2	20q13.2-q13.3	4773	AA489681	Nucleus	transcription regulator	6.23	1.41073E-07	7.37192E-06	up High vs Low
+208268_at	ADAM28	ADAM metallopeptidase domain 28	8p21.2	10863	NM_021777	Plasma Membrane	peptidase	6.22	1.8073E-07	9.27386E-06	up High vs Low
+228532_at	C1orf162	chromosome 1 open reading frame 162	1p13.2	128346	AW662189	unknown	transporter	6.22	1.01171E-07	5.525E-06	up High vs Low
+203281_s_at	UBA7	ubiquitin-like modifier activating enzyme 7	3p21	7318	NM_003335	Cytoplasm	enzyme	6.21	4.57289E-08	2.72729E-06	up High vs Low
+220059_at	STAP1	signal transducing adaptor family member 1	4q13.2	26228	NM_012108	Cytoplasm	other	6.2	7.7512E-07	3.43325E-05	up High vs Low
+205267_at	POU2AF1	POU class 2 associating factor 1	11q23.1	5450	NM_006235	Nucleus	transcription regulator	6.2	4.72285E-08	2.80442E-06	up High vs Low
+38964_r_at	WAS	Wiskott-Aldrich syndrome (eczema-thrombocytopenia)	Xp11.4-p11.21	7454	U12707	Cytoplasm	other	6.2	1.89749E-07	9.7E-06	up High vs Low
+215118_s_at	IGHA1	immunoglobulin heavy constant alpha 1	14q32.33	3493	AW519168	Extracellular Space	other	6.19	2.00956E-07	1.01207E-05	up High vs Low
+207536_s_at	TNFRSF9	tumor necrosis factor receptor superfamily, member 9	1p36	3604	NM_001561	Plasma Membrane	other	6.16	3.61956E-07	1.72697E-05	up High vs Low
+203915_at	CXCL9	chemokine (C-X-C motif) ligand 9	4q21	4283	NM_002416	Extracellular Space	cytokine	6.16	6.75372E-08	3.862E-06	up High vs Low
+208438_s_at	FGR	Gardner-Rasheed feline sarcoma viral (v-fgr) oncogene homolog	1p36.2-p36.1	2268	NM_005248	Nucleus	kinase	6.15	4.8213E-08	2.85043E-06	up High vs Low
+206974_at	CXCR6	chemokine (C-X-C motif) receptor 6	3p21	10663	NM_006564	Plasma Membrane	G-protein coupled receptor	6.14	1.3446E-07	7.05939E-06	up High vs Low
+1558827_a_at	ZNF831	zinc finger protein 831	20q13.32	128611	AL713683	unknown	other	6.14	6.9128E-07	3.10232E-05	up High vs Low
+205101_at	CIITA	class II, major histocompatibility complex, transactivator	16p13	4261	NM_000246	Nucleus	transcription regulator	6.14	1.77274E-07	9.16567E-06	up High vs Low
+212486_s_at	FYN	FYN oncogene related to SRC, FGR, YES	6q21	2534	N20923	Plasma Membrane	kinase	6.12	1.14666E-07	6.09073E-06	up High vs Low
+204698_at	ISG20	interferon stimulated exonuclease gene 20kDa	15q26	3669	NM_002201	Nucleus	enzyme	6.11	9.65457E-08	5.30846E-06	up High vs Low
+221581_s_at	LAT2	linker for activation of T cells family, member 2	7q11.23	7462	AF257135	Plasma Membrane	other	6.11	4.13682E-07	1.93307E-05	up High vs Low
+205692_s_at	CD38	CD38 molecule	4p15	952	NM_001775	Plasma Membrane	enzyme	6.11	1.41497E-07	7.37192E-06	up High vs Low
+214181_x_at	LST1	leukocyte specific transcript 1	6p21.3	7940	AI735692	Plasma Membrane	other	6.08	2.53491E-07	1.2489E-05	up High vs Low
+210260_s_at	TNFAIP8	tumor necrosis factor, alpha-induced protein 8	5q23.1	25816	BC005352	Cytoplasm	other	6.06	5.18263E-07	2.34131E-05	up High vs Low
+209354_at	TNFRSF14	tumor necrosis factor receptor superfamily, member 14 (herpesvirus entry mediator)	1p36.3-p36.2	8764	BC002794	Plasma Membrane	transmembrane receptor	6.06	7.53826E-08	4.24849E-06	up High vs Low
+238581_at	GBP5	guanylate binding protein 5	1p22.2	115362	BG271923	Plasma Membrane	enzyme	6.05	1.03042E-07	5.59738E-06	up High vs Low
+242020_s_at	ZBP1	Z-DNA binding protein 1	20q13.31	81030	AI925506	unknown	other	6.04	1.07866E-07	5.77466E-06	up High vs Low
+35974_at	LRMP	lymphoid-restricted membrane protein	12p12.1	4033	U10485	Cytoplasm	other	6.03	4.48517E-07	2.05351E-05	up High vs Low
+1553043_a_at	CD300LF	CD300 molecule-like family member f	17q25.1	146722	NM_139018	unknown	other	6.02	2.11862E-07	1.05527E-05	up High vs Low
+210321_at	GZMH	granzyme H (cathepsin G-like 2, protein h-CCPX)	14q11.2	2999	M36118	Cytoplasm	peptidase	6.02	4.3727E-07	2.01559E-05	up High vs Low
+210313_at	LILRA4	leukocyte immunoglobulin-like receptor, subfamily A (with TM domain), member 4	19q13.4	23547	AF041261	Plasma Membrane	other	6.01	3.45719E-07	1.66116E-05	up High vs Low
+205153_s_at	CD40	CD40 molecule, TNF receptor superfamily member 5	20q12-q13.2	958	NM_001250	Plasma Membrane	transmembrane receptor	6.01	2.11194E-07	1.05527E-05	up High vs Low
+229437_at	MIRN155	microRNA 155	-	406947	BG231961	unknown	other	6	3.52194E-07	1.68632E-05	up High vs Low
+218298_s_at	C14orf159	chromosome 14 open reading frame 159	14q32.12	80017	NM_024952	Cytoplasm	other	6	8.76769E-08	4.88619E-06	up High vs Low
+204269_at	PIM2	pim-2 oncogene	Xp11.23	11040	NM_006875	unknown	kinase	5.99	1.08821E-07	5.80291E-06	up High vs Low
+224909_s_at	PREX1	phosphatidylinositol-3,4,5-trisphosphate-dependent Rac exchange factor 1	20q13.13	57580	BF308645	Cytoplasm	other	5.99	1.79348E-07	9.23779E-06	up High vs Low
+226879_at	HVCN1	hydrogen voltage-gated channel 1	12q24.11	84329	AW406569	unknown	ion channel	5.94	1.05007E-06	4.51862E-05	up High vs Low
+209907_s_at	ITSN2	intersectin 2	2pter-p25.1	50618	AF182198	Cytoplasm	other	5.92	3.92384E-07	1.85209E-05	up High vs Low
+206478_at	KIAA0125	KIAA0125	14q32.33	9834	NM_014792	unknown	other	5.92	2.89199E-07	1.40951E-05	up High vs Low
+215785_s_at	CYFIP2	cytoplasmic FMR1 interacting protein 2	5q33.3	26999	AL161999	Cytoplasm	other	5.91	2.00579E-07	1.01207E-05	up High vs Low
+218223_s_at	PLEKHO1	pleckstrin homology domain containing, family O member 1	1q21.2	51177	NM_016274	Plasma Membrane	other	5.91	1.24701E-07	6.57244E-06	up High vs Low
+230011_at	MEI1	meiosis inhibitor 1	22q13.2	150365	AW195720	unknown	other	5.88	1.02968E-06	4.44496E-05	up High vs Low
+223565_at	MGC29506	hypothetical protein MGC29506	5q23-q31	51237	AF151024	Extracellular Space	other	5.87	3.38298E-07	1.63127E-05	up High vs Low
+227232_at	EVL	Enah/Vasp-like	14q32.2	51466	T58044	Cytoplasm	other	5.87	8.91089E-07	3.89615E-05	up High vs Low
+204236_at	FLI1	Friend leukemia virus integration 1	11q24.1-q24.3	2313	NM_002017	Nucleus	transcription regulator	5.86	4.68078E-07	2.13588E-05	up High vs Low
+204103_at	CCL4	chemokine (C-C motif) ligand 4	17q12	6351	NM_002984	Extracellular Space	cytokine	5.86	5.025E-07	2.27766E-05	up High vs Low
+220146_at	TLR7	toll-like receptor 7	Xp22.3	51284	NM_016562	Plasma Membrane	transmembrane receptor	5.85	4.34489E-07	2.01559E-05	up High vs Low
+1555349_a_at	ITGB2	integrin, beta 2 (complement component 3 receptor 3 and 4 subunit)	21q22.3	3689	L78790	Plasma Membrane	other	5.84	3.64964E-07	1.73524E-05	up High vs Low
+205590_at	RASGRP1	RAS guanyl releasing protein 1 (calcium and DAG-regulated)	15q14	10125	NM_005739	Cytoplasm	other	5.83	2.03351E-07	1.02036E-05	up High vs Low
+214369_s_at	RASGRP2	RAS guanyl releasing protein 2 (calcium and DAG-regulated)	11q13	10235	AI688812	Cytoplasm	other	5.82	1.62042E-06	6.57746E-05	up High vs Low
+230550_at	MS4A6A	membrane-spanning 4-domains, subfamily A, member 6A	11q12.1	64231	AA045175	unknown	other	5.81	4.296E-07	2.00058E-05	up High vs Low
+230753_at	PATL2	protein associated with topoisomerase II homolog 2 (yeast)	15q21.1	197135	R12665	unknown	other	5.8	1.23942E-06	5.20052E-05	up High vs Low
+205484_at	SIT1	signaling threshold regulating transmembrane adaptor 1	9p13-p12	27240	NM_014450	Plasma Membrane	other	5.79	9.74421E-07	4.24685E-05	up High vs Low
+208885_at	LCP1	lymphocyte cytosolic protein 1 (L-plastin)	13q14.3	3936	J02923	Cytoplasm	other	5.77	2.45183E-07	1.21679E-05	up High vs Low
+244654_at	MYO1G	myosin IG	7p13-p11.2	64005	BE646398	Cytoplasm	other	5.76	1.10358E-06	4.6895E-05	up High vs Low
+213620_s_at	ICAM2	intercellular adhesion molecule 2	17q23-q25	3384	AA126728	Plasma Membrane	other	5.75	2.80294E-07	1.37102E-05	up High vs Low
+206641_at	TNFRSF17	tumor necrosis factor receptor superfamily, member 17	16p13.1	608	NM_001192	Plasma Membrane	other	5.75	1.24295E-06	5.20052E-05	up High vs Low
+213045_at	MAST3	microtubule associated serine/threonine kinase 3	19p13.11	23031	AB011133	unknown	kinase	5.74	4.88917E-07	2.22351E-05	up High vs Low
+1555812_a_at	ARHGDIB	Rho GDP dissociation inhibitor (GDI) beta	12p12.3	397	AF498927	Cytoplasm	other	5.74	2.48233E-07	1.22745E-05	up High vs Low
+219690_at	TMEM149	transmembrane protein 149	19q13.12	79713	NM_024660	unknown	other	5.74	1.06882E-06	4.5848E-05	up High vs Low
+206486_at	LAG3	lymphocyte-activation gene 3	12p13.32	3902	NM_002286	Plasma Membrane	transmembrane receptor	5.73	5.45225E-07	2.45496E-05	up High vs Low
+208436_s_at	IRF7	interferon regulatory factor 7	11p15.5	3665	NM_004030	Nucleus	transcription regulator	5.71	2.54496E-07	1.24933E-05	up High vs Low
+238025_at	MLKL	mixed lineage kinase domain-like	16q22.3	197259	AA706818	unknown	kinase	5.69	3.76002E-07	1.78149E-05	up High vs Low
+225626_at	PAG1	phosphoprotein associated with glycosphingolipid microdomains 1	8q21.13	55824	AK000680	Plasma Membrane	other	5.69	4.36255E-07	2.01559E-05	up High vs Low
+205988_at	CD84	CD84 molecule	1q24	8832	NM_003874	Plasma Membrane	other	5.69	1.0127E-06	4.38555E-05	up High vs Low
+235023_at	VPS13C	vacuolar protein sorting 13 homolog C (S. cerevisiae)	15q22.2	54832	AA828371	unknown	other	5.68	7.17696E-07	3.21027E-05	up High vs Low
+219667_s_at	BANK1	B-cell scaffold protein with ankyrin repeats 1	4q24	55024	NM_017935	unknown	other	5.68	3.69563E-06	0.000131898	up High vs Low
+221081_s_at	DENND2D	DENN/MADD domain containing 2D	1p13.3	79961	NM_024901	Cytoplasm	other	5.68	4.40283E-07	2.02262E-05	up High vs Low
+205298_s_at	BTN2A2	butyrophilin, subfamily 2, member A2	6p22.1	10385	W58757	unknown	other	5.67	1.64614E-06	6.66009E-05	up High vs Low
+243981_at	STK4	serine/threonine kinase 4	20q11.2-q13.2	6789	AI763206	Cytoplasm	kinase	5.67	1.54253E-06	6.33693E-05	up High vs Low
+219866_at	CLIC5	chloride intracellular channel 5	6p21.1-p12.1	53405	NM_016929	Cytoplasm	ion channel	5.66	7.25184E-07	3.23313E-05	up High vs Low
+210288_at	KLRG1	killer cell lectin-like receptor subfamily G, member 1	12p12-p13	10219	AF081675	Plasma Membrane	other	5.64	2.85957E-06	0.000105093	up High vs Low
+1568943_at	INPP5D	inositol polyphosphate-5-phosphatase, 145kDa	2q37.1	3635	BC027960	Cytoplasm	phosphatase	5.64	3.39938E-06	0.000122288	up High vs Low
+228585_at	ENTPD1	ectonucleoside triphosphate diphosphohydrolase 1	10q24	953	AI301948	Plasma Membrane	enzyme	5.64	4.10145E-07	1.92316E-05	up High vs Low
+244556_at	LCP2	lymphocyte cytosolic protein 2 (SH2 domain containing leukocyte protein of 76kDa)	5q33.1-qter	3937	AI824014	Cytoplasm	other	5.62	2.20855E-06	8.53178E-05	up High vs Low
+214467_at	GPR65	G protein-coupled receptor 65	14q31-q32.1	8477	NM_003608	Plasma Membrane	G-protein coupled receptor	5.62	1.23222E-06	5.18754E-05	up High vs Low
+37145_at	GNLY	granulysin	2p11.2	10578	M85276	Cytoplasm	other	5.61	1.00358E-06	4.35996E-05	up High vs Low
+213293_s_at	TRIM22	tripartite motif-containing 22	11p15	10346	AA083478	Cytoplasm	transcription regulator	5.6	3.93626E-07	1.85209E-05	up High vs Low
+220330_s_at	SAMSN1	SAM domain, SH3 domain and nuclear localization signals 1	21q11	64092	NM_022136	Nucleus	other	5.6	8.60722E-07	3.77551E-05	up High vs Low
+206255_at	BLK	B lymphoid tyrosine kinase	8p23-p22	640	NM_001715	Cytoplasm	kinase	5.59	5.04013E-06	0.000171803	up High vs Low
+229560_at	TLR8	toll-like receptor 8	Xp22	51311	AW872374	Plasma Membrane	transmembrane receptor	5.58	2.47417E-06	9.37152E-05	up High vs Low
+215933_s_at	HHEX	hematopoietically expressed homeobox	10q23.33	3087	Z21533	Nucleus	transcription regulator	5.56	2.44997E-06	9.30578E-05	up High vs Low
+203413_at	NELL2	NEL-like 2 (chicken)	12q13.11-q13.12	4753	NM_006159	Extracellular Space	other	5.56	1.20538E-06	5.09029E-05	up High vs Low
+215602_at	FGD2	FYVE, RhoGEF and PH domain containing 2	6p21.2	221472	AK024456	Cytoplasm	other	5.55	3.72723E-06	0.000132678	up High vs Low
+212314_at	KIAA0746	KIAA0746 protein	4p15.2	23231	AB018289	unknown	other	5.55	7.57283E-07	3.36521E-05	up High vs Low
+204446_s_at	ALOX5	arachidonate 5-lipoxygenase	10q11.2	240	NM_000698	Cytoplasm	enzyme	5.55	1.11003E-06	4.70224E-05	up High vs Low
+1554834_a_at	RASSF5	Ras association (RalGDS/AF-6) domain family member 5	1q32.1	83593	AY062002	Plasma Membrane	other	5.55	1.07454E-06	4.59485E-05	up High vs Low
+1557718_at	PPP2R5C	protein phosphatase 2, regulatory subunit B, gamma isoform	14q32	5527	AL834350	Nucleus	peptidase	5.54	2.48352E-06	9.38079E-05	up High vs Low
+214735_at	PIP3-E	phosphoinositide-binding protein PIP3-E	6q25.2	26034	AW166711	Cytoplasm	enzyme	5.53	3.75667E-06	0.000133377	up High vs Low
+205504_at	BTK	Bruton agammaglobulinemia tyrosine kinase	Xq21.33-q22	695	NM_000061	Cytoplasm	kinase	5.53	2.85678E-06	0.000105093	up High vs Low
+203620_s_at	FCHSD2	FCH and double SH3 domains 2	11q13.4	9873	NM_014824	unknown	other	5.5	1.49012E-06	6.1402E-05	up High vs Low
+225530_at	MOBKL2A	MOB1, Mps One Binder kinase activator-like 2A (yeast)	19p13.3	126308	BE396735	unknown	other	5.49	1.73491E-06	6.89803E-05	up High vs Low
+232645_at	LOC153684	hypothetical LOC153684	5p12	153684	AW665885	unknown	other	5.49	2.03628E-06	8.00271E-05	up High vs Low
+206785_s_at	KLRC1	killer cell lectin-like receptor subfamily C, member 1	12p13	3821	NM_002260	Plasma Membrane	transmembrane receptor	5.49	4.52119E-06	0.000156436	up High vs Low
+219563_at	C14orf139	chromosome 14 open reading frame 139	14q32.13	79686	NM_024633	unknown	other	5.49	1.55658E-06	6.35078E-05	up High vs Low
+215925_s_at	CD72	CD72 molecule	9p13.3	971	AF283777	Plasma Membrane	transmembrane receptor	5.49	4.38227E-06	0.000152404	up High vs Low
+229971_at	GPR114	G protein-coupled receptor 114	16q13	221188	BF057784	Plasma Membrane	G-protein coupled receptor	5.48	6.70765E-06	0.000220849	up High vs Low
+223663_at	CCDC88B	coiled-coil domain containing 88B	11q12.3	283234	AL136799	Nucleus	enzyme	5.48	3.04097E-06	0.000111458	up High vs Low
+227228_s_at	CCDC88C	coiled-coil domain containing 88C	14q32.12	440193	AB040942	unknown	other	5.46	7.94499E-07	3.50396E-05	up High vs Low
+212587_s_at	PTPRC	protein tyrosine phosphatase, receptor type, C	1q31-q32	5788	AI809341	Plasma Membrane	phosphatase	5.46	1.68349E-06	6.75282E-05	up High vs Low
+206545_at	CD28	CD28 molecule	2q33	940	NM_006139	Plasma Membrane	other	5.46	2.15249E-06	8.3867E-05	up High vs Low
+206715_at	TFEC	transcription factor EC	7q31.2	22797	NM_012252	Nucleus	transcription regulator	5.43	2.11512E-06	8.2886E-05	up High vs Low
+203055_s_at	ARHGEF1	Rho guanine nucleotide exchange factor (GEF) 1	19q13.13	9138	NM_004706	Cytoplasm	other	5.43	1.66143E-06	6.68407E-05	up High vs Low
+204777_s_at	MAL	mal, T-cell differentiation protein	2cen-q13	4118	NM_002371	Plasma Membrane	transporter	5.42	1.65057E-06	6.66009E-05	up High vs Low
+205789_at	CD1D	CD1d molecule	1q22-q23	912	NM_001766	Plasma Membrane	other	5.42	8.2407E-06	0.000262429	up High vs Low
+202659_at	PSMB10	proteasome (prosome, macropain) subunit, beta type, 10	16q22.1	5699	NM_002801	Cytoplasm	peptidase	5.41	1.55483E-06	6.35078E-05	up High vs Low
+203388_at	ARRB2	arrestin, beta 2	17p13	409	NM_004313	Cytoplasm	other	5.4	1.09265E-06	4.65762E-05	up High vs Low
+204279_at	PSMB9	proteasome (prosome, macropain) subunit, beta type, 9 (large multifunctional peptidase 2)	6p21.3	5698	NM_002800	Cytoplasm	peptidase	5.39	1.3421E-06	5.56399E-05	up High vs Low
+207522_s_at	ATP2A3	ATPase, Ca++ transporting, ubiquitous	17p13.3	489	NM_005173	Cytoplasm	transporter	5.38	1.55991E-06	6.35078E-05	up High vs Low
+227844_at	FMNL3	formin-like 3	12q13.12	91010	AI089932	unknown	other	5.38	2.17001E-06	8.43081E-05	up High vs Low
+203320_at	SH2B3	SH2B adaptor protein 3	12q24	10019	NM_005475	Cytoplasm	other	5.37	2.27088E-06	8.74771E-05	up High vs Low
+213566_at	RNASE6	ribonuclease, RNase A family, k6	14q11.2	6039	NM_005615	Extracellular Space	enzyme	5.37	2.43168E-06	9.26219E-05	up High vs Low
+205861_at	SPIB	Spi-B transcription factor (Spi-1/PU.1 related)	19q13.3-q13.4	6689	NM_003121	Nucleus	transcription regulator	5.37	3.11618E-06	0.000113603	up High vs Low
+223553_s_at	DOK3	docking protein 3	5q35.3	79930	BC004564	Cytoplasm	other	5.37	3.34964E-06	0.000120818	up High vs Low
+210785_s_at	C1orf38	chromosome 1 open reading frame 38	1p35.3	9473	AB035482	unknown	other	5.36	1.7029E-06	6.81058E-05	up High vs Low
+209375_at	XPC	xeroderma pigmentosum, complementation group C	3p25	7508	D21089	Nucleus	other	5.35	2.3461E-06	8.9613E-05	up High vs Low
+203760_s_at	SLA	Src-like-adaptor	8q22.3-qter|8q24	6503	U44403	Plasma Membrane	other	5.34	6.04431E-06	0.000203442	up High vs Low
+213415_at	CLIC2	chloride intracellular channel 2	Xq28	1193	AI768628	unknown	other	5.33	1.4779E-06	6.10837E-05	up High vs Low
+222868_s_at	IL18BP	interleukin 18 binding protein	11q13	10068	AI521549	Extracellular Space	other	5.32	1.71433E-06	6.83619E-05	up High vs Low
+219386_s_at	SLAMF8	SLAM family member 8	1q23.2	56833	NM_020125	Extracellular Space	other	5.32	2.14142E-06	8.36752E-05	up High vs Low
+207655_s_at	BLNK	B-cell linker	10q23.2-q23.33	29760	NM_013314	Cytoplasm	other	5.3	1.99575E-06	7.86613E-05	up High vs Low
+202643_s_at	TNFAIP3	tumor necrosis factor, alpha-induced protein 3	6q23	7128	AI738896	Nucleus	other	5.3	2.34354E-06	8.9613E-05	up High vs Low
+212914_at	CBX7	chromobox homolog 7	22q13.1	23492	AV648364	Nucleus	other	5.29	2.71E-06	0.000101238	up High vs Low
+220987_s_at	C11orf17	chromosome 11 open reading frame 17	11p15.3	56672	NM_030952	unknown	kinase	5.29	2.33394E-06	8.9613E-05	up High vs Low
+205419_at	GPR183	G protein-coupled receptor 183	13q32.3	1880	NM_004951	Plasma Membrane	G-protein coupled receptor	5.28	2.75198E-06	0.000102525	up High vs Low
+230983_at	FAM129C	family with sequence similarity 129, member C	19p13.11	199786	BE646461	unknown	other	5.25	1.76769E-05	0.000502867	up High vs Low
+204411_at	KIF21B	kinesin family member 21B	1pter-q31.3	23046	NM_017596	Cytoplasm	other	5.25	4.15207E-06	0.000145891	up High vs Low
+226673_at	SH2D3C	SH2 domain containing 3C	9q34.11	10044	AW665063	Cytoplasm	other	5.24	3.69374E-06	0.000131898	up High vs Low
+208894_at	HLA-DRA	major histocompatibility complex, class II, DR alpha	6p21.3	3122	M60334	Plasma Membrane	transmembrane receptor	5.24	1.83313E-06	7.26732E-05	up High vs Low
+205859_at	LY86	lymphocyte antigen 86	6p25.1	9450	NM_004271	Plasma Membrane	other	5.24	6.08568E-06	0.000204329	up High vs Low
+212592_at	IGJ	immunoglobulin J polypeptide, linker protein for immunoglobulin alpha and mu polypeptides	4q21	3512	AV733266	Extracellular Space	other	5.23	1.95646E-06	7.73371E-05	up High vs Low
+223615_at	ABI3	ABI family, member 3	17q21.3	51225	AL136709	Plasma Membrane	other	5.23	2.69325E-06	0.000100889	up High vs Low
+227189_at	CPNE5	copine V	6p21.1	57699	AB046819	unknown	other	5.23	6.02249E-06	0.00020321	up High vs Low
+206049_at	SELP	selectin P (granule membrane protein 140kDa, antigen CD62)	1q22-q25	6403	NM_003005	Plasma Membrane	other	5.23	6.1693E-06	0.000206626	up High vs Low
+205297_s_at	CD79B	CD79b molecule, immunoglobulin-associated beta	17q23	974	NM_000626	Plasma Membrane	transmembrane receptor	5.23	1.29992E-05	0.000384266	up High vs Low
+206420_at	IGSF6	immunoglobulin superfamily, member 6	16p12-p13	10261	NM_005849	Plasma Membrane	transmembrane receptor	5.22	6.26128E-06	0.000208679	up High vs Low
+209447_at	SYNE1	spectrin repeat containing, nuclear envelope 1	6q25	23345	AF043290	Nucleus	other	5.22	3.27171E-06	0.000118637	up High vs Low
+206126_at	CXCR5	chemokine (C-X-C motif) receptor 5	11q23.3	643	NM_001716	Plasma Membrane	G-protein coupled receptor	5.22	1.34174E-05	0.000394061	up High vs Low
+213375_s_at	N4BP2L1	NEDD4 binding protein 2-like 1	13q12-q13	90634	N80918	unknown	other	5.22	3.1891E-06	0.00011595	up High vs Low
+205237_at	FCN1	ficolin (collagen/fibrinogen domain containing) 1	9q34	2219	NM_002003	Extracellular Space	other	5.21	9.8249E-06	0.000304326	up High vs Low
+204164_at	SIPA1	signal-induced proliferation-associated 1	11q13	6494	NM_006747	Cytoplasm	other	5.21	3.48376E-06	0.000124993	up High vs Low
+206513_at	AIM2	absent in melanoma 2	1q22	9447	NM_004833	Cytoplasm	other	5.21	3.88524E-06	0.000137582	up High vs Low
+220532_s_at	TMEM176B	transmembrane protein 176B	7q36.1	28959	NM_014020	unknown	other	5.19	2.1843E-06	8.46214E-05	up High vs Low
+205965_at	BATF	basic leucine zipper transcription factor, ATF-like	14q24.3	10538	NM_006399	Nucleus	transcription regulator	5.18	2.54351E-06	9.58078E-05	up High vs Low
+209734_at	NCKAP1L	NCK-associated protein 1-like	12q13.1	3071	BC001604	Plasma Membrane	other	5.18	6.64104E-06	0.000219186	up High vs Low
+205890_s_at	UBD	ubiquitin D	6p21.3	10537	NM_006398	Plasma Membrane	G-protein coupled receptor	5.17	2.83697E-06	0.000104829	up High vs Low
+204588_s_at	SLC7A7	solute carrier family 7 (cationic amino acid transporter, y+ system), member 7	14q11.2	9056	NM_003982	Plasma Membrane	transporter	5.16	6.90367E-06	0.000226754	up High vs Low
+209392_at	ENPP2	ectonucleotide pyrophosphatase/phosphodiesterase 2	8q24.1	5168	L35594	Plasma Membrane	enzyme	5.15	4.92961E-06	0.000168849	up High vs Low
+224927_at	KIAA1949	KIAA1949	6p21.3	170954	BG251556	unknown	other	5.14	4.03865E-06	0.000142273	up High vs Low
+204336_s_at	RGS19	regulator of G-protein signaling 19	20q13.33	10287	NM_005873	Cytoplasm	other	5.12	7.4796E-06	0.000241013	up High vs Low
+220035_at	NUP210	nucleoporin 210kDa	3p25.1	23225	NM_024923	Nucleus	transporter	5.12	3.89819E-06	0.000137682	up High vs Low
+235359_at	LRRC33	leucine rich repeat containing 33	3q29	375387	AA534416	unknown	other	5.12	4.68706E-06	0.000161732	up High vs Low
+205671_s_at	HLA-DOB	major histocompatibility complex, class II, DO beta	6p21.3	3112	NM_002120	Plasma Membrane	transmembrane receptor	5.11	5.82942E-06	0.000197185	up High vs Low
+218322_s_at	ACSL5	acyl-CoA synthetase long-chain family member 5	10q25.1-q25.2	51703	NM_016234	Cytoplasm	enzyme	5.11	2.82684E-06	0.000104739	up High vs Low
+213888_s_at	TRAF3IP3	TRAF3 interacting protein 3	1q32.3-q41	80342	AL022398	unknown	other	5.11	2.60058E-06	9.7687E-05	up High vs Low
+205467_at	CASP10	caspase 10, apoptosis-related cysteine peptidase	2q33-q34	843	NM_001230	Cytoplasm	peptidase	5.11	4.29192E-06	0.000150416	up High vs Low
+1552623_at	HSH2D	hematopoietic SH2 domain containing	19p13.11	84941	BC025237	Cytoplasm	other	5.1	1.31977E-05	0.000389289	up High vs Low
+232279_at	PHF15	PHD finger protein 15	5q31.1	23338	AK025001	unknown	other	5.09	1.29758E-05	0.000384266	up High vs Low
+224964_s_at	GNG2	guanine nucleotide binding protein (G protein), gamma 2	14q21	54331	AK026424	Plasma Membrane	enzyme	5.08	6.58512E-06	0.000218401	up High vs Low
+203485_at	RTN1	reticulon 1	14q23.1	6252	NM_021136	Cytoplasm	other	5.08	7.31638E-06	0.000236877	up High vs Low
+230836_at	ST8SIA4	ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 4	5q21	7903	AI422986	Cytoplasm	enzyme	5.08	1.02291E-05	0.000314694	up High vs Low
+215946_x_at	IGLL3	immunoglobulin lambda-like polypeptide 3	22q11.2|22q11.23	91353	AL022324	unknown	other	5.07	3.09429E-06	0.000113108	up High vs Low
+1552386_at	GAPT	GRB2-binding adaptor protein, transmembrane	5q11.2	202309	NM_152687	unknown	other	5.06	1.83368E-05	0.00051731	up High vs Low
+222786_at	CHST12	carbohydrate (chondroitin 4) sulfotransferase 12	7p22	55501	BC002918	Cytoplasm	enzyme	5.06	7.02144E-06	0.000230066	up High vs Low
+205544_s_at	CR2	complement component (3d/Epstein Barr virus) receptor 2	1q32	1380	NM_001877	Plasma Membrane	transmembrane receptor	5.05	2.09019E-05	0.000578868	up High vs Low
+209229_s_at	SAPS1	SAPS domain family, member 1	19q13.42	22870	BC002799	unknown	other	5.05	4.30651E-06	0.000150417	up High vs Low
+237426_at	SP100	SP100 nuclear antigen	2q37.1	6672	AA286940	Nucleus	transcription regulator	5.05	9.00487E-06	0.000282139	up High vs Low
+203474_at	IQGAP2	IQ motif containing GTPase activating protein 2	5q13.3	10788	NM_006633	Cytoplasm	other	5.03	4.69806E-06	0.000161732	up High vs Low
+210644_s_at	LAIR1	leukocyte-associated immunoglobulin-like receptor 1	19q13.4	3903	AF109683	Plasma Membrane	transmembrane receptor	5.03	9.1743E-06	0.000285474	up High vs Low
+226811_at	FAM46C	family with sequence similarity 46, member C	1p12	54855	AL046017	Extracellular Space	other	5.03	4.78792E-06	0.000164409	up High vs Low
+218380_at	NLRP1	NLR family, pyrin domain containing 1	17p13.2	22861	NM_021730	Cytoplasm	other	5.02	5.75733E-06	0.000195232	up High vs Low
+221249_s_at	FAM117A	family with sequence similarity 117, member A	17q21.33	81558	NM_030802	unknown	transporter	5.02	6.2177E-06	0.000207735	up High vs Low
+211368_s_at	CASP1	caspase 1, apoptosis-related cysteine peptidase (interleukin 1, beta, convertase)	11q23	834	U13700	Cytoplasm	peptidase	5.02	5.04115E-06	0.000171803	up High vs Low
+221905_at	CYLD	cylindromatosis (turban tumor syndrome)	16q12.1	1540	BF516433	Nucleus	transcription regulator	5.01	7.917E-06	0.000253307	up High vs Low
+227135_at	NAAA	N-acylethanolamine acid amidase	4q21.1	27163	AI436803	Cytoplasm	enzyme	5.01	4.31407E-06	0.000150417	up High vs Low
+44790_s_at	C13orf18	chromosome 13 open reading frame 18	13q14.12	80183	AI129310	unknown	other	5.01	7.35784E-06	0.000237653	up High vs Low
+206437_at	S1PR4	sphingosine-1-phosphate receptor 4	19p13.3	8698	NM_003775	Plasma Membrane	G-protein coupled receptor	5.01	8.13638E-06	0.000259715	up High vs Low
+205013_s_at	ADORA2A	adenosine A2a receptor	22q11.23	135	NM_000675	unknown	other	5	1.44428E-05	0.000420541	up High vs Low
+206134_at	ADAMDEC1	ADAM-like, decysin 1	8p21.2	27299	NM_014479	Extracellular Space	peptidase	4.99	6.63155E-06	0.000219186	up High vs Low
+1569257_at	FMNL1	formin-like 1	17q21	752	BC042925	Cytoplasm	other	4.99	1.27814E-05	0.000380309	up High vs Low
+211644_x_at	IGK@	immunoglobulin kappa locus	2p12	50802	L14458			4.98	4.45321E-06	0.000154477	up High vs Low
+227014_at	ASPHD2	aspartate beta-hydroxylase domain containing 2	22q12.1	57168	BE550881	unknown	enzyme	4.98	8.35406E-06	0.000265417	up High vs Low
+210401_at	P2RX1	purinergic receptor P2X, ligand-gated ion channel, 1	17p13.3	5023	U45448	Plasma Membrane	ion channel	4.97	1.89089E-05	0.000531247	up High vs Low
+205312_at	SPI1	spleen focus forming virus (SFFV) proviral integration oncogene spi1	11p11.2	6688	NM_003120	Nucleus	transcription regulator	4.95	7.70185E-06	0.000247004	up High vs Low
+239629_at	CFLAR	CASP8 and FADD-like apoptosis regulator	2q33-q34	8837	AI634046	Cytoplasm	other	4.95	1.11874E-05	0.000341858	up High vs Low
+205922_at	VNN2	vanin 2	6q23-q24	8875	NM_004665	Cytoplasm	enzyme	4.94	1.71297E-05	0.000490377	up High vs Low
+208335_s_at	DARC	Duffy blood group, chemokine receptor	1q21-q22	2532	NM_002036	Plasma Membrane	G-protein coupled receptor	4.93	1.01053E-05	0.000312299	up High vs Low
+230086_at	FNBP1	formin binding protein 1	9q34	23048	AA937109	Nucleus	enzyme	4.92	1.06048E-05	0.000324785	up High vs Low
+235339_at	SETDB2	SET domain, bifurcated 2	13q14	83852	W65369	Nucleus	enzyme	4.92	1.84872E-05	0.000520474	up High vs Low
+210152_at	LILRB4	leukocyte immunoglobulin-like receptor, subfamily B (with TM and ITIM domains), member 4	19q13.4	11006	U82979	Plasma Membrane	other	4.91	2.03676E-05	0.000565883	up High vs Low
+220068_at	VPREB3	pre-B lymphocyte 3	22q11.23|22q11	29802	NM_013378	unknown	other	4.91	2.55168E-05	0.000685727	up High vs Low
+209969_s_at	STAT1	signal transducer and activator of transcription 1, 91kDa	2q32.2	6772	BC002704	Nucleus	transcription regulator	4.91	5.71923E-06	0.000194425	up High vs Low
+205641_s_at	TRADD	TNFRSF1A-associated via death domain	16q22	8717	NM_003789	Cytoplasm	other	4.91	8.94739E-06	0.000280985	up High vs Low
+207375_s_at	IL15RA	interleukin 15 receptor, alpha	10p15-p14	3601	NM_002189	Plasma Membrane	transmembrane receptor	4.9	7.04025E-06	0.000230128	up High vs Low
+225706_at	GLCCI1	glucocorticoid induced transcript 1	7p21.3	113263	AI761989	unknown	other	4.89	9.0662E-06	0.000282757	up High vs Low
+209457_at	DUSP5	dual specificity phosphatase 5	10q25	1847	U16996	Nucleus	phosphatase	4.89	6.42462E-06	0.000213599	up High vs Low
+204158_s_at	TCIRG1	T-cell, immune regulator 1, ATPase, H+ transporting, lysosomal V0 subunit A3	11q13.2	10312	NM_006019	Plasma Membrane	enzyme	4.88	7.07229E-06	0.000230621	up High vs Low
+217022_s_at	IGH@	immunoglobulin heavy locus	14q32.33	3492	S55735	Extracellular Space	other	4.86	7.24764E-06	0.000235211	up High vs Low
+204070_at	RARRES3	retinoic acid receptor responder (tazarotene induced) 3	11q23	5920	NM_004585	Cytoplasm	other	4.85	7.19839E-06	0.000234172	up High vs Low
+221571_at	TRAF3	TNF receptor-associated factor 3	14q32.32	7187	AI721219	Cytoplasm	other	4.85	1.25671E-05	0.000376405	up High vs Low
+230052_s_at	NFKBID	nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, delta	19q13.12	84807	AA004799	unknown	other	4.85	2.18731E-05	0.00060087	up High vs Low
+206267_s_at	MATK	megakaryocyte-associated tyrosine kinase	19p13.3	4145	NM_002378	Cytoplasm	kinase	4.84	1.26144E-05	0.000376991	up High vs Low
+215784_at	CD1E	CD1e molecule	1q22-q23	913	AA309511	Cytoplasm	other	4.84	2.36426E-05	0.000642785	up High vs Low
+219371_s_at	KLF2	Kruppel-like factor 2 (lung)	19p13.13-p13.11	10365	NM_016270	Nucleus	transcription regulator	4.83	1.33109E-05	0.000391778	up High vs Low
+206170_at	ADRB2	adrenergic, beta-2-, receptor, surface	5q31-q32	154	NM_000024	Plasma Membrane	G-protein coupled receptor	4.83	2.23087E-05	0.000610369	up High vs Low
+204994_at	MX2	myxovirus (influenza virus) resistance 2 (mouse)	21q22.3	4600	NM_002463	Nucleus	enzyme	4.83	9.05525E-06	0.000282757	up High vs Low
+227609_at	EPSTI1	epithelial stromal interaction 1 (breast)	13q13.3	94240	AA633203	unknown	other	4.83	1.12146E-05	0.000341919	up High vs Low
+209166_s_at	MAN2B1	mannosidase, alpha, class 2B, member 1	19cen-q13.1	4125	U68567	Cytoplasm	enzyme	4.82	8.6274E-06	0.000272826	up High vs Low
+205192_at	MAP3K14	mitogen-activated protein kinase kinase kinase 14	17q21	9020	NM_003954	Cytoplasm	kinase	4.82	1.12689E-05	0.000342805	up High vs Low
+222895_s_at	BCL11B	B-cell CLL/lymphoma 11B (zinc finger protein)	14q32.2	64919	AA918317	Nucleus	other	4.8	9.44682E-06	0.000293283	up High vs Low
+217767_at	LOC653879	similar to Complement C3 precursor	-	653879	NM_000064	Extracellular Space	peptidase	4.8	1.29564E-05	0.000384266	up High vs Low
+208998_at	UCP2	uncoupling protein 2 (mitochondrial, proton carrier)	11q13	7351	U94592	Cytoplasm	transporter	4.8	8.77859E-06	0.000276963	up High vs Low
+206804_at	CD3G	CD3g molecule, gamma (CD3-TCR complex)	11q23	917	NM_000073	Plasma Membrane	transmembrane receptor	4.8	3.23301E-05	0.000847062	up High vs Low
+213534_s_at	PASK	PAS domain containing serine/threonine kinase	2q37.3	23178	D50925	Cytoplasm	kinase	4.79	1.22852E-05	0.000369589	up High vs Low
+202748_at	GBP2	guanylate binding protein 2, interferon-inducible	1p22.2	2634	NM_004120	Cytoplasm	enzyme	4.79	1.14541E-05	0.000346887	up High vs Low
+204352_at	TRAF5	TNF receptor-associated factor 5	1q32	7188	NM_004619	Cytoplasm	transporter	4.79	1.27013E-05	0.000378754	up High vs Low
+221044_s_at	TRIM34	tripartite motif-containing 34	11p15	53840	NM_021616	unknown	other	4.77	1.52054E-05	0.000440858	up High vs Low
+243423_at	TNIP1	TNFAIP3 interacting protein 1	5q32-q33.1	10318	AF150368	Nucleus	other	4.76	3.02668E-05	0.000796071	up High vs Low
+225909_at	tcag7.1196	similar to GLI-Kruppel family member HKR1	7q36.1	728743	BF940308	unknown	other	4.76	2.45708E-05	0.000661611	up High vs Low
+209539_at	ARHGEF6	Rac/Cdc42 guanine nucleotide exchange factor (GEF) 6	Xq26.3	9459	D25304	Cytoplasm	other	4.76	1.37571E-05	0.000402298	up High vs Low
+212796_s_at	TBC1D2B	TBC1 domain family, member 2B	15q24.3-q25.1	23102	BF195608	unknown	other	4.75	1.80024E-05	0.000508932	up High vs Low
+218999_at	TMEM140	transmembrane protein 140	7q33	55281	NM_018295	unknown	other	4.74	1.95542E-05	0.000547115	up High vs Low
+1559882_at	SAMHD1	SAM domain and HD domain 1	20pter-q12	25939	AF147427	Nucleus	enzyme	4.73	2.22245E-05	0.000609291	up High vs Low
+208594_x_at	LILRA6	leukocyte immunoglobulin-like receptor, subfamily A (with TM domain), member 6	19q13.4	79168	NM_024318	Plasma Membrane	other	4.73	2.24976E-05	0.000614303	up High vs Low
+213820_s_at	STARD5	StAR-related lipid transfer (START) domain containing 5	15q26	80765	T54159	Cytoplasm	transporter	4.73	2.4113E-05	0.000653163	up High vs Low
+227544_at	C14orf83	chromosome 14 open reading frame 83	14q24.1	161145	H07095	unknown	other	4.72	1.19254E-05	0.000360359	up High vs Low
+201236_s_at	BTG2	BTG family, member 2	1q32	7832	NM_006763	Nucleus	transcription regulator	4.72	1.58321E-05	0.000456112	up High vs Low
+211272_s_at	DGKA	diacylglycerol kinase, alpha 80kDa	12q13.3	1606	AF064771	Cytoplasm	kinase	4.71	2.7566E-05	0.000739333	up High vs Low
+209761_s_at	SP110	SP110 nuclear body protein	2q37.1	3431	AA969194	Nucleus	other	4.71	1.66624E-05	0.000478006	up High vs Low
+218345_at	TMEM176A	transmembrane protein 176A	7q36.1	55365	NM_018487	unknown	other	4.71	1.24399E-05	0.000373417	up High vs Low
+204642_at	S1PR1	sphingosine-1-phosphate receptor 1	1p21	1901	NM_001400	Plasma Membrane	G-protein coupled receptor	4.7	3.31661E-05	0.000867293	up High vs Low
+230756_at	ZNF683	zinc finger protein 683	1p36.11	257101	AI376558	unknown	other	4.7	2.86758E-05	0.00076308	up High vs Low
+209765_at	ADAM19	ADAM metallopeptidase domain 19 (meltrin beta)	5q32-q33	8728	Y13786	Plasma Membrane	peptidase	4.7	1.99486E-05	0.000555864	up High vs Low
+215313_x_at	HLA-A	major histocompatibility complex, class I, A	6p21.3	3105	AA573862	Plasma Membrane	transmembrane receptor	4.69	1.36219E-05	0.000399205	up High vs Low
+217992_s_at	EFHD2	EF-hand domain family, member D2	1p36.21	79180	NM_024329	unknown	other	4.69	1.71998E-05	0.00049135	up High vs Low
+229295_at	LOC150166	hypothetical protein LOC150166	22q11.21	150166	BF939473	unknown	other	4.67	1.7923E-05	0.000507743	up High vs Low
+203729_at	EMP3	epithelial membrane protein 3	19q13.3	2014	NM_001425	Plasma Membrane	other	4.66	2.11305E-05	0.000582825	up High vs Low
+227300_at	TMEM119	transmembrane protein 119	12q24.11	338773	AL521682	unknown	other	4.66	1.94754E-05	0.000546035	up High vs Low
+203185_at	RASSF2	Ras association (RalGDS/AF-6) domain family member 2	20pter-p12.1	9770	NM_014737	Nucleus	other	4.66	1.9618E-05	0.000547773	up High vs Low
+212443_at	NBEAL2	neurobeachin-like 2	3p21.31	23218	AB011112	unknown	other	4.65	1.7424E-05	0.000496713	up High vs Low
+212560_at	SORL1	sortilin-related receptor, L(DLR class) A repeats-containing	11q23.2-q24.2	6653	AV728268	Plasma Membrane	transporter	4.65	1.54241E-05	0.000446247	up High vs Low
+209568_s_at	RGL1	ral guanine nucleotide dissociation stimulator-like 1	1q25.3	23179	AF186779	Cytoplasm	other	4.64	2.36826E-05	0.000642785	up High vs Low
+228891_at	SEMA4D	sema domain, immunoglobulin domain (Ig), transmembrane domain (TM) and short cytoplasmic domain, (semaphorin) 4D	9q22.2	10507	N93399	Plasma Membrane	other	4.63	2.4394E-05	0.000658153	up High vs Low
+227384_s_at	LOC727820	hypothetical protein LOC727820	1q21.1	727820	AW340595			4.61	2.42024E-05	0.000654283	up High vs Low
+203104_at	CSF1R	colony stimulating factor 1 receptor	5q33-q35	1436	NM_005211	Plasma Membrane	kinase	4.59	2.97267E-05	0.000784899	up High vs Low
+228964_at	PRDM1	PR domain containing 1, with ZNF domain	6q21-q22.1	639	AI692659	Nucleus	transcription regulator	4.59	2.8118E-05	0.000752653	up High vs Low
+209993_at	ABCB1	ATP-binding cassette, sub-family B (MDR/TAP), member 1	7q21.1	5243	AF016535	Plasma Membrane	transporter	4.58	3.06464E-05	0.000804498	up High vs Low
+203920_at	NR1H3	nuclear receptor subfamily 1, group H, member 3	11p11.2	10062	NM_005693	Nucleus	ligand-dependent nuclear receptor	4.56	3.54763E-05	0.00091887	up High vs Low
+210340_s_at	CSF2RA	colony stimulating factor 2 receptor, alpha, low-affinity (granulocyte-macrophage)	Xp22.32 and Yp11.3	1438	BC002635	Plasma Membrane	transmembrane receptor	4.56	3.49263E-05	0.000908085	up High vs Low
+204440_at	CD83	CD83 molecule	6p23	9308	NM_004233	Plasma Membrane	other	4.56	3.48414E-05	0.000907611	up High vs Low
+213669_at	FCHO1	FCH domain only 1	19p13.11	23149	AB006628	unknown	other	4.55	2.97257E-05	0.000784899	up High vs Low
+212706_at	RASA4	RAS p21 protein activator 4	7q22	10156	AB011110	Cytoplasm	other	4.53	3.67132E-05	0.000947298	up High vs Low
+213326_at	VAMP1	vesicle-associated membrane protein 1 (synaptobrevin 1)	12p	6843	AU150319	Plasma Membrane	transporter	4.51	3.64798E-05	0.000943064	up High vs Low
+204633_s_at	RPS6KA5	ribosomal protein S6 kinase, 90kDa, polypeptide 5	14q31-q32.1	9252	AF074393	Nucleus	kinase	4.51	2.82065E-05	0.000753541	up High vs Low
+225051_at	EPB41	erythrocyte membrane protein band 4.1 (elliptocytosis 1, RH-linked)	1p33-p32	2035	AA522435	Plasma Membrane	other	4.5	3.89763E-05	0.00099624	up High vs Low
+218543_s_at	PARP12	poly (ADP-ribose) polymerase family, member 12	7q34	64761	NM_022750	Nucleus	other	4.5	2.98341E-05	0.000786209	up High vs Low
+205326_at	RAMP3	receptor (G protein-coupled) activity modifying protein 3	7p13-p12	10268	NM_005856	Plasma Membrane	other	4.49	3.72903E-05	0.000954939	up High vs Low
+203085_s_at	TGFB1	transforming growth factor, beta 1	19q13.2|19q13.1	7040	BC000125	Extracellular Space	growth factor	4.48	2.84105E-05	0.000757501	up High vs Low
+218964_at	ARID3B	AT rich interactive domain 3B (BRIGHT-like)	15q24	10620	NM_006465	unknown	other	4.47	3.69007E-05	0.000948537	up High vs Low
+200670_at	XBP1	X-box binding protein 1	22q12.1|22q12	7494	NM_005080	Nucleus	transcription regulator	4.46	3.68898E-05	0.000948537	up High vs Low
+223854_at	PCDHB10	protocadherin beta 10	5q31	56126	AF131761	Extracellular Space	other	-4.52	3.50576E-05	0.000909757	down High vs Low
+215286_s_at	PHTF2	putative homeodomain transcription factor 2	7q11.23-q21	57157	AL050389	Cytoplasm	other	-4.56	2.12973E-05	0.000586235	down High vs Low
+209227_at	TUSC3	tumor suppressor candidate 3	8p22	7991	AU158251	Plasma Membrane	other	-4.56	2.10354E-05	0.000581381	down High vs Low
+221410_x_at	PCDHB3	protocadherin beta 3	5q31	56132	NM_018937	Cytoplasm	other	-4.57	2.90887E-05	0.00077105	down High vs Low
+209822_s_at	VLDLR	very low density lipoprotein receptor	9p24	7436	L22431	Plasma Membrane	other	-4.59	2.88204E-05	0.000765429	down High vs Low
+224002_s_at	FKBP7	FK506 binding protein 7	2q31.2	51661	AF100751	Cytoplasm	enzyme	-4.62	2.31264E-05	0.000630206	down High vs Low
+217975_at	WBP5	WW domain binding protein 5	Xq22.1-q22.2	51186	NM_016303	Cytoplasm	enzyme	-4.66	3.44001E-05	0.000897835	down High vs Low
+213793_s_at	HOMER1	homer homolog 1 (Drosophila)	5q14.2	9456	BE550452	Cytoplasm	enzyme	-4.66	3.72522E-05	0.000954939	down High vs Low
+210513_s_at	VEGFA	vascular endothelial growth factor A	6p12	7422	AF091352	Plasma Membrane	transporter	-4.71	1.66024E-05	0.000477292	down High vs Low
+213424_at	KIAA0895	KIAA0895	7p14.2	23366	AB020702	Plasma Membrane	other	-4.72	1.50114E-05	0.000436164	down High vs Low
+228946_at	INTU	inturned planar cell polarity effector homolog (Drosophila)	4q28.1	27152	AW150229	unknown	other	-4.73	1.5742E-05	0.000454478	down High vs Low
+208504_x_at	PCDHB11	protocadherin beta 11	5q31	56125	NM_018931	unknown	other	-4.79	1.02048E-05	0.000314661	down High vs Low
+219410_at	TMEM45A	transmembrane protein 45A	3q12.2	55076	NM_018004	Cytoplasm	enzyme	-4.8	1.13089E-05	0.000343256	down High vs Low
+200827_at	PLOD1	procollagen-lysine 1, 2-oxoglutarate 5-dioxygenase 1	1p36.22	5351	NM_000302	Plasma Membrane	other	-4.81	1.40348E-05	0.000409539	down High vs Low
+218898_at	FAM57A	family with sequence similarity 57, member A	17p13.3	79850	NM_024792	Plasma Membrane	other	-4.81	2.03914E-05	0.000565883	down High vs Low
+223249_at	CLDN12	claudin 12	7q21	9069	AL136770	Plasma Membrane	other	-4.88	1.781E-05	0.000505595	down High vs Low
+204669_s_at	RNF24	ring finger protein 24	20p13-p12.1	11237	NM_007219	Cytoplasm	kinase	-4.92	8.40905E-06	0.000266541	down High vs Low
+202887_s_at	DDIT4	DNA-damage-inducible transcript 4	10pter-q26.12	54541	NM_019058	Cytoplasm	other	-4.92	1.0295E-05	0.000316007	down High vs Low
+203282_at	GBE1	glucan (1,4-alpha-), branching enzyme 1	3p12.3	2632	NM_000158	Cytoplasm	enzyme	-4.93	8.86218E-06	0.000278954	down High vs Low
+201849_at	BNIP3	BCL2/adenovirus E1B 19kDa interacting protein 3	10q26.3	664	NM_004052	Plasma Membrane	phosphatase	-5.04	1.21667E-05	0.000366835	down High vs Low
+212340_at	YIPF6	Yip1 domain family, member 6	Xq12	286451	BE673723	unknown	other	-5.05	7.68038E-06	0.000246898	down High vs Low
+202912_at	ADM	adrenomedullin	11p15.4	133	NM_001124	unknown	other	-5.07	3.34394E-06	0.000120818	down High vs Low
+223278_at	GJB2	gap junction protein, beta 2, 26kDa	13q11-q12	2706	M86849	Plasma Membrane	enzyme	-5.13	2.77929E-06	0.000103259	down High vs Low
+214436_at	FBXL2	F-box and leucine-rich repeat protein 2	3p22.3	25827	AF176518	Extracellular Space	growth factor	-5.29	1.28805E-06	5.35622E-05	down High vs Low
+228499_at	PFKFB4	6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 4	3p22-p21	5210	AL038787	Plasma Membrane	transporter	-5.4	1.28381E-06	5.355E-05	down High vs Low
+207543_s_at	P4HA1	procollagen-proline, 2-oxoglutarate 4-dioxygenase (proline 4-hydroxylase), alpha polypeptide I	10q21.3-q23.1	5033	NM_000917	unknown	other	-5.64	7.96238E-07	3.50396E-05	down High vs Low
+214978_s_at	PPFIA4	protein tyrosine phosphatase, receptor type, f polypeptide (PTPRF), interacting protein (liprin), alpha 4	1q32.1	8497	AK023365	Cytoplasm	other	-6.45	1.36347E-08	9.08847E-07	down High vs Low

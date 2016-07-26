@@ -1,0 +1,66 @@
+S.No.	Entrez Gene	Gene Symbol	Gene Title	RefSeq Transcript ID	Fold change	Regulation
+1	10537	UBD	ubiquitin D	NM_001470	26.07	Up
+2	5328	PLAU	plasminogen activator, urokinase	NM_001145031	19.66	Up
+3	5645	PRSS2	protease, serine, 2 (trypsin 2)	NM_002770	14.84	Up
+4	330	BIRC3	baculoviral IAP repeat-containing 3	NM_001165	13.51	Up
+5	5644	PRSS1	protease, serine, 1 (trypsin 1)	NM_002769	13.24	Up
+6	4050	LTB	lymphotoxin beta (TNF superfamily, member 3)	NM_002341	12.98	Up
+7	7128	TNFAIP3	tumor necrosis factor, alpha-induced protein 3	NM_006290	12.85	Up
+8	154754	PRSS1	protease, serine, 1 (trypsin 1)	NM_002769	12.56	Up
+9	7262	PHLDA2	pleckstrin homology-like domain, family A, member 2	NM_003311	10.51	Up
+10	10148	EBI3	Epstein-Barr virus induced 3	NM_005755	9.9	Up
+11	4914	NTRK1	neurotrophic tyrosine kinase, receptor, type 1	NM_001007792	9.51	Up
+12	6352	CCL5	chemokine (C-C motif) ligand 5	NM_002985	9.42	Up
+13	4792	NFKBIA	nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, alpha	NM_020529	8.33	Up
+14	2015	EMR1	egf-like module containing, mucin-like, hormone receptor-like 1	NM_001974	8.1	Up
+15	355	FAS	Fas (TNF receptor superfamily, member 6)	NM_000043	7.94	Up
+16	972	CD74	CD74 molecule, major histocompatibility complex, class II invariant chain	NM_001025158	7.02	Up
+17	3117	HLA-DQA1	major histocompatibility complex, class II, DQ alpha 1	NM_002122	6.73	Up
+18	259307	IL4I1	interleukin 4 induced 1	NM_152899	6.58	Up
+19	51700	CYB5R2	cytochrome b5 reductase 2	NM_016229	6.44	Up
+20	1543	CYP1A1	cytochrome P450, family 1, subfamily A, polypeptide 1	NM_000499	6.01	Up
+21	25907	TMEM158	transmembrane protein 158	NM_015444	5.81	Up
+22	7273	TTN	Titin	NM_003319	5.21	Up
+23	84033	OBSCN	obscurin, cytoskeletal calmodulin and titininteracting RhoGEF	NM_001098623	5.17	Up
+24	7412	VCAM1	vascular cell adhesion molecule 1	NM_001078	5.07	Up
+25	9294	S1PR2	sphingosine-1-phosphate receptor 2	NM_004230	5.03	Up
+26	5971	RELB	v-rel reticuloendotheliosis viral oncogene homolog B	NM_006509	4.97	Up
+27	5996	RGS1	regulator of G-protein signaling 1	NM_002922	4.97	Up
+28	9308	CD83	CD83 molecule	NM_001040280	4.94	Up
+29	3383	ICAM1	intercellular adhesion molecule 1	NM_000201	4.93	Up
+30	25801	GCA	grancalcin, EF-hand calcium binding protein	NM_012198	4.92	Up
+31	9235	IL32	interleukin 32	NM_001012631	4.81	Up
+32	8651	SOCS1	suppressor of cytokine signaling 1	NM_003745	4.75	Up
+33	11226	GALNT6	UDP-N-acetyl-alpha-D-galactosamine: polypeptide N-acetylgalactosaminyltransferase 6	NM_007210	4.7	Up
+34	1999	ELF3	E74-like factor 3 (ets domain transcription factor, epithelial-specific)	NM_001114309	4.68	Up
+35	3109	HLA-DMB	major histocompatibility complex, class II, DM beta	NM_002118	4.5	Up
+36	115019	SLC26A9	solute carrier family 26, member 9	NM_001142600	4.49	Up
+37	3561	IL2RG	interleukin 2 receptor, gamma (severe combined immunodeficiency)	NM_000206	4.48	Up
+38	4261	CIITA	class II, major histocompatibility complex, transactivator	NM_000246	4.34	Up
+39	4791	NFKB2	nuclear factor of kappa light polypeptide gene enhancer in B-cells 2 (p49/p100)	NM_001077493	4.29	Up
+40	718	C3	complement component 3	NM_000064	4.29	Up
+41	285025	CCDC141	coiled-coil domain containing 141	NM_173648	4.29	Up
+42	100132999	LOC100132999	hypothetical protein LOC100132999	XM_001722799	4.16	Up
+43	6892	TAPBP	TAP binding protein (tapasin)	NM_003190	4.14	Up
+44	6236	RRAD	Ras-related associated with diabetes	NM_001128850	4.12	Up
+45	27074	LAMP3	lysosomal-associated membrane protein 3	NM_014398	3.99	Up
+46	2232	FDXR	ferredoxin reductase	NM_004110	3.98	Up
+47	3119	HLA-DQB1	major histocompatibility complex, class II, DQ beta 1	NM_002123	3.77	Up
+48	114294	LACTB	lactamase, beta	NM_032857	3.7	Up
+49	64319	FBRS	Fibrosin	NM_001105079	3.7	Up
+50	780	DDR1	discoidin domain receptor tyrosine kinase 1	NM_001954	3.68	Up
+51	11124	FAF1	Fas (TNFRSF6) associated factor 1	NM_007051	3.31	Down
+52	55916	NXT2	nuclear transport factor 2-like export factor 2	NM_018698	2.74	Down
+53	51616	TAF9B	TAF9B RNA polymerase II, TATA box binding protein (TBP)-associated factor	NM_015975	2.71	Down
+54	2162	F13A1	coagulation factor XIII, A1 polypeptide	NM_000129	2.63	Down
+55	3753	KCNE1	potassium voltage-gated channel, Isk-related family, member 1	NM_000219	2.53	Down
+56	55737	VPS35	vacuolar protein sorting 35 homolog (S. cerevisiae)	NM_018206	2.45	Down
+57	51474	LIMA1	LIM domain and actin binding 1	NM_001113546	2.43	Down
+58	135932	TMEM139	transmembrane protein 139	NM_153345	2.38	Down
+59	2844	GPR21	G protein-coupled receptor 21	NM_005294	2.34	Down
+60	930	CD19	CD19 molecule	NM_001770	2.32	Down
+61	6711	SPTBN1	spectrin, beta, non-erythrocytic 1	NM_003128	2.3	Down
+62	2744	GLS	Glutaminase	NM_014905	2.29	Down
+63	3890	KRT84	keratin 84	NM_033045	2.23	Down
+64	54704	PPM2C	protein phosphatase 2C, magnesiumdependent, catalytic subunit	NM_018444	2.23	Down
+65	1131	CHRM3	cholinergic receptor, muscarinic 3	NM_000740	2.22	Down

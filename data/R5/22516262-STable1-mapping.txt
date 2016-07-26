@@ -1,0 +1,59 @@
+# Generate Mapping Tables Script: Version 4 11:04 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:04 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+hgnc_symbol|BCL2|BCL2
+
+hgnc_symbol|BCL2L2|BCL2L2
+hgnc_symbol|MCL1|MCL1
+hgnc_symbol|RFC1|RFC1
+
+hgnc_symbol|BAD|BAD
+hgnc_symbol|BID|BID
+hgnc_symbol|BIK|BIK
+hgnc_symbol|BCL2L11|BCL2L11
+hgnc_symbol|BMF|BMF
+hgnc_symbol|HRK|HRK
+hgnc_symbol|PMAIP1|PMAIP1
+hgnc_symbol|BBC3|BBC3
+hgnc_symbol|BCL2L14|BCL2L14
+
+hgnc_symbol|BNIP1|BNIP1
+hgnc_symbol|BNIP2|BNIP2
+hgnc_symbol|BNIP3|BNIP3
+
+hgnc_symbol|BCL2L13|BCL2L13
+
+
+hgnc_symbol|BAK1|BAK1
+hgnc_symbol|BAX|BAX
+hgnc_symbol|BOK|BOK
+hgnc_symbol|NAIP|NAIP
+
+
+hgnc_symbol|XIAP|XIAP
+
+hgnc_symbol|BIRC6|BIRC6
+hgnc_symbol|BIRC7|BIRC7
+
+hgnc_symbol|CASP2|CASP2
+hgnc_symbol|CASP3|CASP3
+hgnc_symbol|CASP4|CASP4
+hgnc_symbol|CASP6|CASP6
+hgnc_symbol|CASP7|CASP7
+hgnc_symbol|CASP8|CASP8
+hgnc_symbol|CASP9|CASP9
+hgnc_symbol|CASP10|CASP10
+hgnc_symbol|CASP14|CASP14
+hgnc_symbol|BAG1|BAG1
+
+
+hgnc_symbol|DIABLO|DIABLO
+
+hgnc_symbol|ATG5|ATG5
+
+hgnc_symbol|GAPDH|GAPDH
+hgnc_symbol|HPRT1|HPRT1
+hgnc_symbol|RPL4|RPL4

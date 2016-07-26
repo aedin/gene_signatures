@@ -1,0 +1,43 @@
+# Generate Mapping Tables Script: Version 4 11:04 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:04 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+mirbase_id|hsa-let- 7g|hsa-let- 7g	hgnc_symbol|KCTD14|KCTD14
+mirbase_id|hsa-let- 7g|hsa-let- 7g	hgnc_symbol|GNG5|GNG5
+mirbase_id|hsa-let- 7g|hsa-let- 7g	hgnc_symbol|ATOX1|ATOX1
+mirbase_id|hsa-let- 7g|hsa-let- 7g	hgnc_symbol|ZNF341|ZNF341
+mirbase_id|hsa-let- 7g|hsa-let- 7g	hgnc_symbol|HTATIP2|HTATIP2
+mirbase_id|hsa-let- 7g|hsa-let- 7g	hgnc_symbol|JOSD2|JOSD2
+mirbase_id|hsa-let- 7g|hsa-let- 7g	hgnc_symbol|HBEGF|HBEGF
+mirbase_id|hsa-let- 7g|hsa-let- 7g	hgnc_symbol|ESPL1|ESPL1
+mirbase_id|hsa-let- 7g|hsa-let- 7g	hgnc_symbol|C19orf56|C19orf56
+mirbase_id|hsa-let- 7g|hsa-let- 7g	hgnc_symbol|CYB561D2|CYB561D2
+mirbase_id|hsa-let- 7g|hsa-let- 7g	hgnc_symbol|CLP1|CLP1
+mirbase_id|hsa-let- 7g|hsa-let- 7g	hgnc_symbol|SUOX|SUOX
+mirbase_id|hsa-let- 7g|hsa-let- 7g	hgnc_symbol|BEST1|BEST1
+mirbase_id|hsa-let- 7g|hsa-let- 7g	hgnc_symbol|ABCC10|ABCC10
+mirbase_id|hsa-let- 7g|hsa-let- 7g	hgnc_symbol|SRM|SRM
+mirbase_id|hsa-let- 7g|hsa-let- 7g	hgnc_symbol|SURF1|SURF1
+mirbase_id|hsa-let- 7g|hsa-let- 7g	hgnc_symbol|WDR55|WDR55
+mirbase_id|hsa-let- 7g|hsa-let- 7g	hgnc_symbol|SLC35D2|SLC35D2
+mirbase_id|hsa-let- 7g|hsa-let- 7g	hgnc_symbol|ALG14|ALG14
+mirbase_id|hsa-let- 7g|hsa-let- 7g	hgnc_symbol|C16orf42|C16orf42
+mirbase_id|hsa-let- 7g|hsa-let- 7g	hgnc_symbol|SLC35B1|SLC35B1
+mirbase_id|hsa-let- 7g|hsa-let- 7g	hgnc_symbol|TIMM17B|TIMM17B
+mirbase_id|hsa-let- 7g|hsa-let- 7g	hgnc_symbol|HIGD2A|HIGD2A
+mirbase_id|hsa-let- 7g|hsa-let- 7g	hgnc_symbol|VPS33B|VPS33B
+mirbase_id|hsa-mir-150|hsa-mir-150	hgnc_symbol|ASGR1|ASGR1
+mirbase_id|hsa-mir-150|hsa-mir-150	hgnc_symbol|SP5|SP5
+mirbase_id|hsa-mir-150|hsa-mir-150	hgnc_symbol|DCPS|DCPS
+mirbase_id|hsa-mir-150|hsa-mir-150	hgnc_symbol|SPI1|SPI1
+mirbase_id|hsa-mir-150|hsa-mir-150	hgnc_symbol|EPHB2|EPHB2
+mirbase_id|hsa-mir-150|hsa-mir-150	hgnc_symbol|COG7|COG7
+mirbase_id|hsa-mir-150|hsa-mir-150	hgnc_symbol|TRPM4|TRPM4
+mirbase_id|hsa-mir-150|hsa-mir-150	hgnc_symbol|SLC6A12|SLC6A12
+mirbase_id|hsa-mir-150|hsa-mir-150	hgnc_symbol|SOCS1|SOCS1
+mirbase_id|hsa-mir-150|hsa-mir-150	hgnc_symbol|IER5|IER5
+mirbase_id|hsa-mir-150|hsa-mir-150	hgnc_symbol|MRPS16|MRPS16
+mirbase_id|hsa-mir-150|hsa-mir-150	hgnc_symbol|IQSEC2|IQSEC2
+mirbase_id|hsa-mir-150|hsa-mir-150	hgnc_symbol|RBED1|RBED1

@@ -1,0 +1,26 @@
+# Generate Mapping Tables Script: Version 4 11:04 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:04 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+agilent_wholegenome|A_23_P24515|A_23_P24515	refseq_dna|NM_000019|NM_000019	hgnc_symbol|ACAT1|ACAT1
+agilent_wholegenome|A_23_P213424|A_23_P213424	refseq_dna|NM_003633|NM_003633	hgnc_symbol|ENC1|ENC1
+agilent_wholegenome|A_23_P24716|A_23_P24716	refseq_dna|NM_017870|NM_017870	hgnc_symbol|TMEM132A|TMEM132A
+agilent_wholegenome|A_23_P256413|A_23_P256413	refseq_dna|NM_138410|NM_138410	hgnc_symbol|CMTM7|CMTM7
+agilent_wholegenome|A_23_P7353|A_23_P7353	refseq_dna|NM_178043|NM_178043	hgnc_symbol|LARP2|LARP2
+agilent_wholegenome|A_23_P153615|A_23_P153615	refseq_dna|NM_130760|NM_130760	hgnc_symbol|MADCAM1|MADCAM1
+agilent_wholegenome|A_23_P26717|A_23_P26717	refseq_dna|NM_000978|NM_000978	hgnc_symbol|RPL23|RPL23
+agilent_wholegenome|A_23_P13663|A_23_P13663	refseq_dna|NM_021238|NM_021238	hgnc_symbol|FAM60A|FAM60A
+agilent_wholegenome|A_23_P47843|A_23_P47843	refseq_dna|NM_020936|NM_020936	hgnc_symbol|DDX55|DDX55
+agilent_wholegenome|A_23_P13102|A_23_P13102	refseq_dna|NM_014383|NM_014383	hgnc_symbol|CASP12|CASP12
+agilent_wholegenome|A_23_P35521|A_23_P35521	refseq_dna|NM_000917|NM_000917	hgnc_symbol|P4HA1|P4HA1
+agilent_wholegenome|A_23_P27964|A_23_P27964	refseq_dna|NM_004838|NM_004838	hgnc_symbol|HOMER-3|HOMER-3
+agilent_wholegenome|A_23_P40309|A_23_P40309	refseq_dna|NM_003092|NM_003092	hgnc_symbol|SNRPB2|SNRPB2
+agilent_wholegenome|A_23_38262|A_23_38262	refseq_dna|NM_018127|NM_018127	hgnc_symbol|ELAC2|ELAC2
+agilent_wholegenome|A_23_P113634|A_23_P113634	refseq_dna|NM_001755|NM_001755	hgnc_symbol|CBFB|CBFB
+agilent_wholegenome|A_23_P210253|A_23_P210253	refseq_dna|NM_003648|NM_003648	hgnc_symbol|DGKD|DGKD
+agilent_wholegenome|A_23_P33075|A_23_P33075	embl|LO8961|LO8961	hgnc_symbol|LO8961|LO8961
+agilent_wholegenome|A_23_P131846|A_23_P131846	refseq_dna|NM_005985|NM_005985	hgnc_symbol|SNAI1|SNAI1
+agilent_wholegenome|A_23_P206268|A_23_P206268	refseq_dna|NM_016209|NM_016209	hgnc_symbol|TRAPPC2L|TRAPPC2L
+agilent_wholegenome|A_23_P35125|A_23_P35125	refseq_dna|NM_005850|NM_005850	hgnc_symbol|SF3B4|SF3B4

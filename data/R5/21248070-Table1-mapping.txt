@@ -1,0 +1,17 @@
+# Generate Mapping Tables Script: Version 4 11:03 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:03 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+affy_hugene_1_0_st_v1|3464995|3464995	ensembl_gene_id|ENST00000359142|ENST00000359142	hgnc_symbol|ATP2B1|ATP2B1
+affy_hugene_1_0_st_v1|3329783|3329783	ensembl_gene_id|ENST00000311027|ENST00000311027	hgnc_symbol|MADD|MADD
+affy_hugene_1_0_st_v1|2680306|2680306	ensembl_gene_id|ENST00000330909|ENST00000330909	hgnc_symbol|MAGI1|MAGI1
+affy_hugene_1_0_st_v1|3323129|3323129	ensembl_gene_id|ENST00000360655|ENST00000360655	hgnc_symbol|NAV2|NAV2
+affy_hugene_1_0_st_v1|2507435|2507435	ensembl_gene_id|ENST00000264160|ENST00000264160	hgnc_symbol|R3HDM1|R3HDM1
+affy_hugene_1_0_st_v1|3615612|3615612	ensembl_gene_id|ENST00000346128|ENST00000346128	hgnc_symbol|TJP1|TJP1
+affy_hugene_1_0_st_v1|3789479|3789479	ensembl_gene_id|ENST00000254442|ENST00000254442	hgnc_symbol|WDR7|WDR7
+affy_hugene_1_0_st_v1|2680331|2680331	ensembl_gene_id|ENST00000330909|ENST00000330909	hgnc_symbol|MAGI1|MAGI1
+affy_hugene_1_0_st_v1|3538263|3538263	ensembl_gene_id|ENST00000351081|ENST00000351081	hgnc_symbol|DAAM1|DAAM1
+affy_hugene_1_0_st_v1|2485003|2485003	ensembl_gene_id|ENST00000263991|ENST00000263991	hgnc_symbol|EHBP1|EHBP1
+affy_hugene_1_0_st_v1|3014461|3014461	ensembl_gene_id|ENST00000456197|ENST00000456197	hgnc_symbol|TRRAP|TRRAP

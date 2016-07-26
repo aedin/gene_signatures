@@ -1,0 +1,63 @@
+Genes	Gene symbol	GenBank ID	Fold change (corrected P value)	Regulation (premenopausal/postmenopausal)	Pathways
+SERTA domain containing 1	SERTAD1	NM_013376	2.00 (0.003)	Up	Positive regulation of biological process
+Cyclin D2	CCND2	NM_001759	1.96 (G0.001)	Up	Positive regulation of biological process
+Growth arrest-specific 1	GAS1	NM_002048	1.85 (G0.001)	Down	Positive regulation of biological process
+Chemokine (C-X3-C motif) ligand 1	CX3CL1	NM_002996	1.84 (0.012)	Up	Positive regulation of biological process
+Caspase recruitment domain family, member 9	CARD9	NM_052813	1.78 (0.029)	Up	Positive regulation of biological process
+Neuronal cell adhesion molecule	NRCAM	NM_001037132	1.76 (0.049)	Up	Positive regulation of biological process
+Complement component 6	C6	NM_000065	1.76 (0.010)	Down	Positive regulation of biological process
+B-cell lymphoma 3	BCL3	NM_005178	1.71 (0.011)	Up	Positive regulation of biological process
+CD86 molecule	CD86	NM_006889	1.70 (0.030)	Up	Positive regulation of biological process
+Kruppel-like factor 15	KLF15	NM_014079	1.61 (0.034)	Down	Positive regulation of biological process
+Aminolevulinate-C-synthase 2	ALAS2	NM_000032	3.41 (0.018)	Up	Immune system process
+Major histocompatibility complex (MHC) class II HLA-DQ-A (DR2-DQw1/DR4 DQw3)	HLA-DQB1	M20432	2.97 (G0.001)	Up	Immune system process
+Chemokine (C-C motif) ligand 2	CCL2	NM_002982	2.57 (0.005)	Up	Immune system process
+alpha-2-Glycoprotein 1, zinc binding	AZGP1	NM_001185	2.30 (0.003)	Down	Immune system process
+cDNA FLJ46621 fis, clone TLUNG2001445	IGHA1	AK128476	2.29 (0.002)	Down	Immune system process
+Immunoglobulin J polypeptide	IGJ	NM_144646	2.09 (0.020)	Down	Immune system process
+Fas apoptotic inhibitory molecule 3	FAIM3	NM_005449	2.03 (0.004)	Up	Immune system process
+2-5-Oligoadenylate synthetase-like	OASL	NM_003733	2.01 (G0.001)	Up	Immune system process
+Chemokine (C-C motif) ligand 8	CCL8	NM_005623	1.97 (0.008)	Up	Immune system process
+Nucleoside phosphorylase	NP	NM_000270	1.93 (0.014)	Up	Immune system process
+Serine dehydratase	SDS	NM_006843	3.06 (0.008)	Up	Metabolic process
+Cholesterol 25-hydroxylase	CH25H	NM_003956	2.20 (0.015)	Up	Metabolic process
+Upstream transcription factor 1	USF1	NM_007122	2.19 (0.005)	Down	Metabolic process
+v-abl Abelson murine leukemia viral oncogene homolog 2	ABL2	NM_007314	2.10 (0.002)	Up	Metabolic process
+Desmoplakin (DSP), transcript variant 1	DSP	NM_004415	2.09 (0.006)	Down	Metabolic process
+Slingshot homolog 1 (Drosophila)	SSH1	NM_018984	2.09 (0.028)	Up	Metabolic process
+Suppressor of cytokine signaling 3	SOCS3	NM_003955	2.04 (0.027)	Up	Metabolic process
+Pim-1 oncogene	PIM1	NM_002648	2.03 (G0.001)	Up	Metabolic process
+Pleckstrin homology-like domain, family A, member 1	PHLDA1	NM_007350	1.86 (0.033)	Up	Metabolic process
+SMAD-specific E3 ubiquitin protein ligase 2	SMURF2	NM_022739	1.82 (G0.001)	Up	Metabolic process
+Intercellular adhesion molecule 1	ICAM 1	NM_000201	1.79 (0.046)	Up	Positive regulation of cell migration
+Sphingosine kinase 1 (SPHK1), transcript variant 1	SPHK1	NM_021972	1.61 (0.002)	Up	Positive regulation of cell migration
+Hypoxia-inducible factor 1	HIF1A	NM_181054	1.59 (0.010)	Up	Positive regulation of cell migration
+Breast cancer antiestrogen resistance 1	BCAR1	NM_014567	1.50 (0.006)	Up	Positive regulation of cell migration
+Angiotensinogen	AGT	NM_000029	1.49 (0.017)	Down	Positive regulation of cell migration
+Thrombospondin 1	THBS1	NM_003246	1.48 (0.018)	Up	Positive regulation of cell migration
+Phosphoinositide-3-kinase, regulatory subunit 1	PIK3R1	NM_181523	1.39 (0.009)	Down	Positive regulation of cell migration
+Disintegrin and metalloproteinase domain-containing protein 17	ADAM17	NM_003183	1.35 (0.012)	Up	Positive regulation of cell migration
+Insulin receptor substrate 2	IRS2	NM_003749	1.35 (0.031)	Down	Positive regulation of cell migration
+alpha-2-Glycoprotein 1, zinc binding	AZGP1	NM_001185	2.30 (0.003)	Down	Antigen processing and presentation
+Intercellular adhesion molecule 1 (CD54)	ICAM1	NM_000201	1.79 (0.046)	Up	Antigen processing and presentation
+MHC, class II, DR>	HLA-DRA	NM_019111	1.58 (0.015)	Up	Antigen processing and presentation
+MHC, class II, DRA4	HLA-DRB4	NM_021983	1.58 (0.040)	Up	Antigen processing and presentation
+MHC, class II, DQA1	HLA-DQB1	NM_002123	1.56 (G0.001)	Up	Antigen processing and presentation
+MHC, class I, A	HLA-A	NM_002116	1.52 (0.009)	Up	Antigen processing and presentation
+v-rel Reticuloendotheliosis viral oncogene homolog B	RELB	NM_006509	1.46 (0.031)	Up	Antigen processing and presentation
+MHC, class II, DPA1	HLA-DPB1	NM_002121	1.45 (0.016)	Up	Antigen processing and presentation
+MHC, class II, DP>1	HLA-DPA1	NM_033554	1.43 (0.034)	Up	Antigen processing and presentation
+MHC, class II, DRA3	HLA-DRB3	BC106057	1.42 (0.035)	Up	Antigen processing and presentation
+Neurexin 3	NRXN3	NM_004796	4.63 (G0.001)	Up	Protein binding
+Rho family GTPase 1	RND1	NM_014470	2.72 (0.012)	Up	Protein binding
+Tumor necrosis factor receptor superfamily, member 11b	TNFRSF11B	NM_002546	2.48 (0.004)	Up	Protein binding
+Matrix-remodelling associated 5	MXRA5	NM_015419	2.15 (0.003)	Up	Protein binding
+Sorting nexin 5	SNX5	BC002724	2.00 (0.004)	Up	Protein binding
+Dermatopontin	DPT	NM_001937	1.97 (0.004)	Down	Protein binding
+Kelch-like 6 (Drosophila)	KLHL6	NM_130446	1.96 (0.023)	Up	Protein binding
+Hemoglobin, >2	HBA2	NM_000517	1.96 (0.027)	Up	Protein binding
+Connector enhancer of kinase suppressor of ras 3	CNKSR3	NM_173515	1.95 (0.012)	Up	Protein binding
+Tumor necrosis factor receptor superfamily, member 12A	TNFRSF12A	NM_016639	1.88 (0.010)	Up	Protein binding
+Fc fragment of IgG, low-affinity IIIa, receptor (CD16a)	FCGR3A	NM_000569	1.85 (0.031)	Up	Protein binding
+B-cell CLL/lymphoma 6, member B	BCL6B	NM_181844	1.84 (G0.001)	Up	Protein binding
+Ring finger protein 122	RNF122	NM_024787	1.83 (0.001)	Up	Protein binding

@@ -1,0 +1,54 @@
+# Generate Mapping Tables Script: Version 4 11:03 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:03 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+hgnc_symbol|UNC5B|UNC5B
+hgnc_symbol|RELN|RELN
+hgnc_symbol|LAMA4|LAMA4
+hgnc_symbol|G0S2|G0S2
+hgnc_symbol|CCNL2|CCNL2
+hgnc_symbol|EREG|EREG
+hgnc_symbol|CDKN2B|CDKN2B
+hgnc_symbol|ARHGEF2|ARHGEF2
+hgnc_symbol|CHRDL2|CHRDL2
+hgnc_symbol|SOCS2|SOCS2
+hgnc_symbol|FMOD|FMOD
+hgnc_symbol|LAMP3|LAMP3
+hgnc_symbol|THBS1|THBS1
+hgnc_symbol|FER1L3|FER1L3
+hgnc_symbol|MAP2|MAP2
+hgnc_symbol|NEBL|NEBL
+hgnc_symbol|ANKRD1|ANKRD1
+hgnc_symbol|GBP3|GBP3
+hgnc_symbol|DAF|DAF
+hgnc_symbol|HPGD|HPGD
+hgnc_symbol|PLA1A|PLA1A
+hgnc_symbol|SPTLC1|SPTLC1
+hgnc_symbol|XYLB|XYLB
+hgnc_symbol|ME3|ME3
+hgnc_symbol|SPTLC2L|SPTLC2L
+hgnc_symbol|SULT1C1|SULT1C1
+hgnc_symbol|EEF2|EEF2
+hgnc_symbol|C1orf24|C1orf24
+hgnc_symbol|CLGN|CLGN
+hgnc_symbol|AP2B1|AP2B1
+hgnc_symbol|KIAA1950|KIAA1950
+hgnc_symbol|KYNU|KYNU
+hgnc_symbol|ADRA2A|ADRA2A
+hgnc_symbol|AREG|AREG
+hgnc_symbol|ATF3|ATF3
+hgnc_symbol|HLF|HLF
+hgnc_symbol|RARB|RARB
+hgnc_symbol|EYA4|EYA4
+hgnc_symbol|BATF|BATF
+hgnc_symbol|GLI1|GLI1
+hgnc_symbol|CYP4V2|CYP4V2
+hgnc_symbol|CYP1A1|CYP1A1
+hgnc_symbol|MT1X|MT1X
+hgnc_symbol|SLC22A15|SLC22A15
+hgnc_symbol|RRAGD|RRAGD
+hgnc_symbol|COL16A1|COL16A1
+hgnc_symbol|SLC6A12|SLC6A12
+hgnc_symbol|MT2A|MT2A

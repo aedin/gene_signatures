@@ -1,0 +1,922 @@
+Gene Set	Symbol	ID_Type	EntrezGeneID	Gene Name	wt 2h vs 0h ratio	Significativity	wt 4h vs 0h ratio	Significativity	wt 8h vs 0h ratio	TAP-ER? 2h vs 0h ratio	TAP-ER? 4h vs 0h ratio	TAP-ER? 8h vs 0h ratio
+1	ABAT	Symbol	18	4-aminobutyrate aminotransferase	1.16	NS	1.41		1.73
+1	ACOX3	Symbol	8310	acyl-Coenzyme A oxidase 3, pristanoyl	1.01	NS	-1.25		-1.53
+1	AGPHD1	Symbol	123688	aminoglycoside phosphotransferase domain containing 1	-1.52	NS	-1.33	NS	-1.64
+1	ALDH1A3	Symbol	220	aldehyde dehydrogenase 1 family, member A3	-1.315		-1.345		-3.045
+1	ANKRD33	Symbol	341405	ankyrin repeat domain 33	1.35		1.45		1.93
+1	ANXA1	Symbol	301	annexin A1	-1.01	NS	1.1	NS	1.69
+1	ARMCX1	Symbol	51309	armadillo repeat containing, X-linked 1	1.27	NS	1.4	NS	2.07
+1	ARPP19	Symbol	10776	cAMP-regulated phosphoprotein, 19kDa	1.31	NS	1.39		1.5
+1	ARRDC2	Symbol	27106	arrestin domain containing 2	-1.06	NS	-1.26	NS	-1.48
+1	ATF3	Symbol	467	activating transcription factor 3	-1.22	NS	-1.29	NS	-1.72
+1	ATP1B1	Symbol	481	ATPase, Na+/K+ transporting, beta 1 polypeptide	-1.85		-1.37		-2.03
+1	ATP2C2	Symbol	9914	ATPase, Ca++ transporting, type 2C, member 2	-1.24	NS	-1.71		-1.49
+1	ATP6V0A4	Symbol	50617	ATPase, H+ transporting, lysosomal V0 subunit a4	-1.06	NS	-1.3	NS	-1.5
+1	AURKA	Symbol	6790	aurora kinase A	-1.06	NS	1.06	NS	1.53
+1	B4GALT1	Symbol	2683	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 1	-1.05	NS	-1.26		-1.5
+1	BANP	Symbol	54971	BTG3 associated nuclear protein	-1.17	NS	1.06	NS	1.55
+1	BARD1	Symbol	580	BRCA1 associated RING domain 1	1.35	NS	1.17	NS	1.64
+1	BCL3	Symbol	602	B-cell CLL/lymphoma 3	1.26	NS	-1.3	NS	-1.56
+1	C12orf49	Symbol	79794	chromosome 12 open reading frame 49	-1.26	NS	-1.36		-1.67
+1	C14orf4	Symbol	64207	chromosome 14 open reading frame 4	-1.2	NS	-1.23		-1.62
+1	C17orf91	Symbol	84981	chromosome 17 open reading frame 91	-1.17	NS	-1.2	NS	-1.93
+1	C1orf112	Symbol	55732	chromosome 1 open reading frame 112	1.2	NS	1.16	NS	1.77
+1	C1orf25	Symbol	81627	chromosome 1 open reading frame 25	-1.06	NS	1.09	NS	1.63
+1	C2CD2	Symbol	25966	C2 calcium-dependent domain containing 2	1.02	NS	-1.18		-1.59
+1	C3orf26	Symbol	84319	chromosome 3 open reading frame 26	-1.12	NS	1.25	NS	1.62
+1	C5orf4	Symbol	10826	chromosome 5 open reading frame 4	1.52		1.37	NS	1.84
+1	C5orf54	Symbol	63920	chromosome 5 open reading frame 54	-1.03	NS	-1.07	NS	1.55
+1	C6orf211	Symbol	79624	chromosome 6 open reading frame 211	1	NS	1.23		1.51
+1	C6orf226	Symbol	441150	chromosome 6 open reading frame 226	-1.06	NS	-1.23	NS	-1.53
+1	CACYBP	Symbol	27101	calcyclin binding protein	1.07	NS	1.35	NS	1.58
+1	CBL	Symbol	867	Cas-Br-M (murine) ecotropic retroviral transforming sequence	1.09	NS	1.1	NS	1.56
+1	CCDC117	Symbol	150275	coiled-coil domain containing 117	1.39		1.45		1.79
+1	CCNA2	Symbol	890	cyclin A2	1.1	NS	1.27	NS	1.52
+1	CCRN4L	Symbol	25819	CCR4 carbon catabolite repression 4-like (S. cerevisiae)	1.16	NS	-1.03	NS	-1.52
+1	CD97	Symbol	976	CD97 molecule	-1.17	NS	1.01	NS	-1.54
+1	CDKN1A	Symbol	1026	cyclin-dependent kinase inhibitor 1A (p21, Cip1)	1.01	NS	-1.1	NS	-1.56
+1	CHEK1	Symbol	1111	CHK1 checkpoint homolog (S. pombe)	1.1	NS	1.2	NS	1.87
+1	CHORDC1	Symbol	26973	cysteine and histidine-rich domain (CHORD)-containing 1	1.08	NS	1.28	NS	1.56
+1	CLCF1	Symbol	23529	cardiotrophin-like cytokine factor 1	-1.37		-1.2	NS	-1.82
+1	CLDN9	Symbol	9080	claudin 9	-1.1	NS	-1.43		-1.51
+1	CORO2A	Symbol	7464	coronin, actin binding protein, 2A	-1.02	NS	-1.44		-1.91
+1	CRABP2	Symbol	1382	cellular retinoic acid binding protein 2	1.04	NS	-1.14	NS	-1.52
+1	CRISPLD2	Symbol	83716	cysteine-rich secretory protein LCCL domain containing 2	-1.21	NS	-1.85		-2.59
+1	CSDE1	Symbol	7812	cold shock domain containing E1, RNA-binding	1.2	NS	-1.09	NS	-1.62
+1	CSE1L	Symbol	1434	CSE1 chromosome segregation 1-like (yeast)	1.36	NS	1.28	NS	1.6
+1	CSNK2A1	Symbol	1457	casein kinase 2, alpha 1 polypeptide	1.43		1.4	NS	1.52
+1	CSRNP1	Symbol	64651	cysteine-serine-rich nuclear protein 1	-1.39		-1.25		-1.7
+1	DCAF4	Symbol	26094	DDB1 and CUL4 associated factor 4	1.19	NS	1.01	NS	-1.53
+1	DCDC2	Symbol	51473	doublecortin domain containing 2	1.41		1.13	NS	1.62
+1	DDAH1	Symbol	23576	dimethylarginine dimethylaminohydrolase 1	1.38	NS	1.39		1.85
+1	DDX51	Symbol	317781	DEAD (Asp-Glu-Ala-Asp) box polypeptide 51	-1.08	NS	-1.07	NS	-1.48
+1	DENND2C	Symbol	163259	DENN/MADD domain containing 2C	-1.15	NS	-1.36	NS	-1.79
+1	DLL1	Symbol	28514	delta-like 1 (Drosophila)	-1.66	NS	-1.8	NS	-1.99
+1	DNAJB6	Symbol	10049	DnaJ (Hsp40) homolog, subfamily B, member 6	1.26		1.08	NS	1.57
+1	DNAJC30	Symbol	84277	DnaJ (Hsp40) homolog, subfamily C, member 30	-1.18	NS	-1.16	NS	-1.52
+1	EFHD1	Symbol	80303	EF-hand domain family, member D1	-1.01	NS	-1.21	NS	-1.95
+1	EFR3B	Symbol	22979	EFR3 homolog B (S. cerevisiae)	-1.25	NS	-1.47		-1.69
+1	EFTUD1	Symbol	79631	elongation factor Tu GTP binding domain containing 1	1.29	NS	1.25	NS	1.55
+1	EGR2	Symbol	1959	early growth response 2	1.23	NS	1.17	NS	-1.8
+1	EIF2C2	Symbol	27161	eukaryotic translation initiation factor 2C, 2	1.19	NS	-1.05	NS	-1.65
+1	ELOVL6	Symbol	79071	ELOVL family member 6, elongation of long chain fatty acids (FEN1/Elo2, SUR4/Elo3-like, yeast)	-1.07	NS	1.29	NS	1.79
+1	EPHA2	Symbol	1969	EPH receptor A2	-1.08	NS	-1.12	NS	-1.54
+1	EPS15L1	Symbol	58513	epidermal growth factor receptor pathway substrate 15-like 1	1.41		1.68		1.66
+1	EVI5	Symbol	7813	ecotropic viral integration site 5	-1.24	NS	-1.43		-1.54
+1	EXO1	Symbol	9156	exonuclease 1	1.1	NS	1.12	NS	1.55
+1	FAM174B	Symbol	400451	family with sequence similarity 174, member B	1.14	NS	-1.26	NS	-1.81
+1	FAM48A	Symbol	55578	family with sequence similarity 48, member A	-1.1	NS	1.15	NS	1.59
+1	FCAR	Symbol	2204	Fc fragment of IgA, receptor for	-1.31	NS	-1.44		-1.53
+1	FCF1	Symbol	51077	FCF1 small subunit (SSU) processome component homolog (S. cerevisiae)	-2.08		-1.64	NS	-1.83
+1	FICD	Symbol	11153	FIC domain containing	1.05	NS	-1.22	NS	-1.53
+1	FKBP4	Symbol	2288	FK506 binding protein 4, 59kDa	1.1	NS	1.29	NS	1.61
+1	FLJ25006	Symbol	124923	uncharacterized serine/threonine-protein kinase SgK494	1.09	NS	1.27	NS	1.51
+1	FUT6	Symbol	2528	fucosyltransferase 6 (alpha (1,3) fucosyltransferase)	-1.5		-1.36	NS	-1.57
+1	FXR1	Symbol	8087	fragile X mental retardation, autosomal homolog 1	-1.06	NS	1.13	NS	1.55
+1	FZD9	Symbol	8326	frizzled homolog 9 (Drosophila)	1.07	NS	-1.14	NS	-1.91
+1	GAB2	Symbol	9846	GRB2-associated binding protein 2	1.79		1.98		1.54
+1	GADD45A	Symbol	1647	growth arrest and DNA-damage-inducible, alpha	1.15	NS	-1.04	NS	-1.53
+1	GDF15	Symbol	9518	growth differentiation factor 15	1.15	NS	-1.08	NS	-2.02
+1	GFRA1	Symbol	2674	GDNF family receptor alpha 1	1.41		1.33		1.57
+1	GFRA1	Symbol	2674	GDNF family receptor alpha 1	1.29		1.22		1.58
+1	GHR	Symbol	2690	growth hormone receptor	-1.1	NS	-1.34	NS	-1.51
+1	GLA	Symbol	2717	galactosidase, alpha	1.3	NS	1.4	NS	1.73
+1	GMEB2	Symbol	26205	glucocorticoid modulatory element binding protein 2	-1.08	NS	-1.2		-1.63
+1	GOLPH3L	Symbol	55204	golgi phosphoprotein 3-like	1	NS	1.04	NS	1.69
+1	GPHN	Symbol	10243	gephyrin	1.08	NS	1.16	NS	1.57
+1	GPR126	Symbol	57211	G protein-coupled receptor 126	1.17	NS	1.2	NS	1.55
+1	GPR68	Symbol	8111	G protein-coupled receptor 68	2.31		2.06		2.03
+1	GPR81	Symbol	27198	G protein-coupled receptor 81	-1.22	NS	-1.8		-1.74
+1	GRIPAP1	Symbol	56850	GRIP1 associated protein 1	-1.16	NS	-1.15	NS	-1.53
+1	H1F0	Symbol	3005	H1 histone family, member 0	1.02	NS	-1.18	NS	-1.6
+1	H3F3B	Symbol	3021	H3 histone, family 3B (H3.3B)	-1.1	NS	-1.06	NS	-1.58
+1	HERC5	Symbol	51191	hect domain and RLD 5	1.29	NS	1.44	NS	1.6
+1	HES1	Symbol	3280	hairy and enhancer of split 1, (Drosophila)	-1.31	NS	-1.18	NS	-1.53
+1	HEY1	Symbol	23462	hairy/enhancer-of-split related with YRPW motif 1	-1.39	NS	-1.43	NS	-1.62
+1	HIST1H2AC	Symbol	8334	histone cluster 1, H2ac	-1.12	NS	-1.21	NS	-1.68
+1	HIST1H2BG	Symbol	8339	histone cluster 1, H2bg	1.07	NS	-1.39		-1.53
+1	HIST1H3H	Symbol	8357	histone cluster 1, H3h	-1.3		-1.12	NS	-1.61
+1	HIST1H4C	Symbol	8364	histone cluster 1, H4c	-1.21	NS	-1.78		-2.42
+1	HMGCS1	Symbol	3157	3-hydroxy-3-methylglutaryl-Coenzyme A synthase 1 (soluble)	-1.09	NS	1.12	NS	1.56
+1	HNRNPU	Symbol	3192	heterogeneous nuclear ribonucleoprotein U (scaffold attachment factor A)	-1.64		-1.39		-1.76
+1	HOXC13	Symbol	3229	homeobox C13	-1.33		-1.38		-1.64
+1	HS6ST2	Symbol	90161	heparan sulfate 6-O-sulfotransferase 2	-1.03	NS	1.3	NS	1.51
+1	HSPH1	Symbol	10808	heat shock 105kDa/110kDa protein 1	-1.01	NS	1.16	NS	1.68
+1	ICAM3	Symbol	3385	intercellular adhesion molecule 3	1.23		1.24		1.53
+1	IER2	Symbol	9592	immediate early response 2	-1.11	NS	-1.1	NS	-1.55
+1	IFI6	Symbol	2537	interferon, alpha-inducible protein 6	-2.06		-1.26	NS	-1.56
+1	ILMN_1752832	PROBE_ID		Orphan_Probe	-2.15		-1.41	NS	-1.79
+1	ILMN_1903021	PROBE_ID		Orphan_Probe	1.03	NS	-1.1	NS	-1.65
+1	ING3	Symbol	54556	inhibitor of growth family, member 3	-1.78		-1.31		-1.63
+1	IRS1	Symbol	3667	insulin receptor substrate 1	1.125	NS	1.52		1.795
+1	ITPRIP	Symbol	85450	inositol 1,4,5-triphosphate receptor interacting protein	-1.06	NS	-1.18	NS	-1.64
+1	JUNB	Symbol	3726	jun B proto-oncogene	1.01	NS	-1.23	NS	-1.77
+1	KIAA0913	Symbol	23053	KIAA0913	-1.4	NS	-1.12	NS	-1.54
+1	KIAA1199	Symbol	57214	KIAA1199	-1.06	NS	-1.41	NS	-1.88
+1	KIF1A	Symbol	547	kinesin family member 1A	-1.32	NS	-1.1	NS	-1.6
+1	KIF20B	Symbol	9585	kinesin family member 20B	-1.12	NS	1.23	NS	1.58
+1	KLK11	Symbol	11012	kallikrein-related peptidase 11	1.37		1.42	NS	2.09
+1	LARS	Symbol	51520	leucyl-tRNA synthetase	1.2	NS	1.33	NS	1.57
+1	LHX6	Symbol	26468	LIM homeobox 6	-1.13	NS	-1.19	NS	-1.74
+1	LMCD1	Symbol	29995	LIM and cysteine-rich domains 1	1.03	NS	-1.3	NS	-1.84
+1	LOC145837	Symbol	145837	hypothetical LOC145837	-1.35	NS	-1.43	NS	-1.63
+1	LOC284379	Symbol	284379	solute carrier family 7 (cationic amino acid transporter, y+ system), member 3 pseudogene	1.15	NS	-1.13	NS	-1.5
+1	LOC285696	Symbol	285696	hypothetical LOC285696	1.03	NS	-1.28	NS	-1.59
+1	LRRC8A	Symbol	56262	leucine rich repeat containing 8 family, member A	-1.22	NS	-1.19	NS	-1.49
+1	LRRC8E	Symbol	80131	leucine rich repeat containing 8 family, member E	-1.23	NS	-1.18	NS	-1.65
+1	MAOA	Symbol	4128	monoamine oxidase A	1.05	NS	1.06	NS	1.53
+1	MAPT	Symbol	4137	microtubule-associated protein tau	1.1	NS	1.27	NS	1.5
+1	MATK	Symbol	4145	megakaryocyte-associated tyrosine kinase	1.15	NS	1.32	NS	1.65
+1	MELK	Symbol	9833	maternal embryonic leucine zipper kinase	1.18	NS	1.09	NS	1.63
+1	METTL2A	Symbol	339175	methyltransferase like 2A	1.08	NS	1.01	NS	-1.49
+1	MIDN	Symbol	90007	midnolin	-1.22		-1.33	NS	-1.72
+1	MME	Symbol	4311	membrane metallo-endopeptidase	1.05	NS	1.01	NS	-1.63
+1	MORG1	Symbol	84292	mitogen-activated protein kinase organizer 1	-1.04	NS	-1.21	NS	-1.58
+1	MREG	Symbol	55686	melanoregulin	1.3	NS	1.79		1.55
+1	MSX1	Symbol	4487	msh homeobox 1	-1.05	NS	-1.38	NS	-2.41
+1	MT1X	Symbol	4501	metallothionein 1X	-1.17	NS	-1.13	NS	-1.52
+1	N4BP3	Symbol	23138	Nedd4 binding protein 3	-1.06	NS	-1.61		-1.68
+1	NAB1	Symbol	4664	NGFI-A binding protein 1 (EGR1 binding protein 1)	-1.2	NS	-1.08	NS	-1.52
+1	NCAPG	Symbol	64151	non-SMC condensin I complex, subunit G	1.28	NS	1.22	NS	1.77
+1	NDRG1	Symbol	10397	N-myc downstream regulated 1	1	NS	-1.23	NS	-2.08
+1	NFIC	Symbol	4782	nuclear factor I/C (CCAAT-binding transcription factor)	1	NS	-1.25	NS	-1.65
+1	NPNT	Symbol	255743	nephronectin	1	NS	-1.4		-1.5
+1	NT5C2	Symbol	22978	5-nucleotidase, cytosolic II	1.29		1.41		1.62
+1	NUAK1	Symbol	9891	NUAK family, SNF1-like kinase, 1	-1.345		-1.475		-2.015
+1	NUP107	Symbol	57122	nucleoporin 107kDa	1.15	NS	1.25	NS	1.59
+1	OSBPL7	Symbol	114881	oxysterol binding protein-like 7	-1.28		-1.28	NS	-1.5
+1	PCSK6	Symbol	5046	proprotein convertase subtilisin/kexin type 6	-1.04	NS	-1.22	NS	-1.67
+1	PCTP	Symbol	58488	phosphatidylcholine transfer protein	-1.09	NS	-1.18	NS	-1.51
+1	PDS5A	Symbol	23244	PDS5, regulator of cohesion maintenance, homolog A (S. cerevisiae)	1.27	NS	1.27	NS	1.61
+1	PHAX	Symbol	51808	phosphorylated adaptor for RNA export	-1.43		-1.31	NS	-1.66
+1	PHF14	Symbol	9678	PHD finger protein 14	-1.14	NS	1.09	NS	1.59
+1	PIGB	Symbol	9488	phosphatidylinositol glycan anchor biosynthesis, class B	1.05	NS	1.15	NS	1.54
+1	PKMYT1	Symbol	9088	protein kinase, membrane associated tyrosine/threonine 1	1.07	NS	1.24	NS	1.59
+1	PKNOX1	Symbol	5316	PBX/knotted 1 homeobox 1	-1.07	NS	-1.14	NS	-1.55
+1	PLEKHB2	Symbol	55041	pleckstrin homology domain containing, family B (evectins) member 2	-1.04	NS	-1.29		-1.75
+1	PLEKHF1	Symbol	79156	pleckstrin homology domain containing, family F (with FYVE domain) member 1	-1.12	NS	-1.58		-1.69
+1	PNPLA6	Symbol	10908	patatin-like phospholipase domain containing 6	-1.07	NS	-1.24		-1.73
+1	PNPLA7	Symbol	375775	patatin-like phospholipase domain containing 7	-1.54	NS	-1.22	NS	-1.67
+1	PODXL	Symbol	5420	podocalyxin-like	1.34		1.49		1.63
+1	POLA2	Symbol	23649	polymerase (DNA directed), alpha 2 (70kD subunit)	1.09	NS	-1.01	NS	1.54
+1	PPIL1	Symbol	51645	peptidylprolyl isomerase (cyclophilin)-like 1	1.14	NS	1.37	NS	1.55
+1	PRKCD	Symbol	5580	protein kinase C, delta	1.1	NS	-1.21	NS	-1.58
+1	PRRT3	Symbol	285368	proline-rich transmembrane protein 3	-1.19		-1.16		-1.52
+1	PTP4A2	Symbol	8073	protein tyrosine phosphatase type IVA, member 2	-1.34		-1.24		-1.62
+1	PUM2	Symbol	23369	pumilio homolog 2 (Drosophila)	1.16	NS	1.32	NS	1.55
+1	RAD54B	Symbol	25788	RAD54 homolog B (S. cerevisiae)	-1.09	NS	-1.07	NS	1.6
+1	RASEF	Symbol	158158	RAS and EF-hand domain containing	1.24		-1.03	NS	-1.48
+1	RASL11B	Symbol	65997	RAS-like, family 11, member B	-1.46		-1.52		-1.65
+1	RBM4	Symbol	5936	RNA binding motif protein 4	-2.36		-1.11	NS	-1.81
+1	RCBTB2	Symbol	1102	regulator of chromosome condensation (RCC1) and BTB (POZ) domain containing protein 2	-1.28	NS	-1.19	NS	-1.63
+1	RGL1	Symbol	23179	ral guanine nucleotide dissociation stimulator-like 1	-1.18		-1.35		-1.86
+1	RIMS3	Symbol	9783	regulating synaptic membrane exocytosis 3	-1.36		-1.5	NS	-1.55
+1	RIPK4	Symbol	54101	receptor-interacting serine-threonine kinase 4	1.18	NS	-1.41		-1.57
+1	RNF207	Symbol	388591	ring finger protein 207	-1.45		-1.14	NS	-1.58
+1	RPE	Symbol	6120	ribulose-5-phosphate-3-epimerase	1.2	NS	1.67		1.63
+1	RYBP	Symbol	23429	RING1 and YY1 binding protein	1.09	NS	-1.02	NS	-1.6
+1	SAMD9	Symbol	54809	sterile alpha motif domain containing 9	1.06	NS	1.09	NS	1.67
+1	SEMA3E	Symbol	9723	sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3E	-1.42	NS	-1.26	NS	-1.52
+1	SERTAD2	Symbol	9792	SERTA domain containing 2	-1.13	NS	-1.29	NS	-1.49
+1	SFRS18	Symbol	25957	splicing factor, arginine/serine-rich 18	-1.14	NS	1.1	NS	1.53
+1	SIK1	Symbol	150094	salt-inducible kinase 1	-1.59		-1.23		-1.49
+1	SIPA1L2	Symbol	57568	signal-induced proliferation-associated 1 like 2	-1.47		-1.65		-1.82
+1	SKIV2L2	Symbol	23517	superkiller viralicidic activity 2-like 2 (S. cerevisiae)	1.13	NS	1.26		1.57
+1	SLC16A9	Symbol	220963	solute carrier family 16, member 9 (monocarboxylic acid transporter 9)	-1.22	NS	-1.14	NS	-1.63
+1	SLC22A23	Symbol	63027	solute carrier family 22, member 23	-1.14	NS	-1.12	NS	-1.66
+1	SLC30A1	Symbol	7779	solute carrier family 30 (zinc transporter), member 1	1.28	NS	-1.06	NS	-1.71
+1	SLC38A2	Symbol	54407	solute carrier family 38, member 2	1.21	NS	1.5		1.78
+1	SLC39A8	Symbol	64116	solute carrier family 39 (zinc transporter), member 8	1.21	NS	1.41	NS	1.85
+1	SLITRK4	Symbol	139065	SLIT and NTRK-like family, member 4	2.26		1.88		1.55
+1	SNX29	Symbol	92017	sorting nexin 29	-1.72		-1.43		-1.77
+1	SPATS2	Symbol	65244	spermatogenesis associated, serine-rich 2	1.32	NS	1.26	NS	1.63
+1	SPIRE2	Symbol	84501	spire homolog 2 (Drosophila)	-1.31		-1.51		-2.27
+1	SPRY4	Symbol	81848	sprouty homolog 4 (Drosophila)	1.02	NS	-1.02	NS	-1.61
+1	SSB	Symbol	6741	Sjogren syndrome antigen B (autoantigen La)	-1.04	NS	1.27		1.54
+1	SSFA2	Symbol	6744	sperm specific antigen 2	-1.03	NS	1.59	NS	1.52
+1	ST3GAL1	Symbol	6482	ST3 beta-galactoside alpha-2,3-sialyltransferase 1	-1.12	NS	-1.31		-2.02
+1	STAG2	Symbol	10735	stromal antigen 2	1.17	NS	1.23	NS	1.56
+1	SVIL	Symbol	6840	supervillin	1.51		1.96		1.78
+1	TAF15	Symbol	8148	TAF15 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 68kDa	-1.96		-1.12	NS	-1.52
+1	TAF1D	Symbol	79101	TATA box binding protein (TBP)-associated factor, RNA polymerase I, D, 41kDa	1.6		1.52		1.67
+1	TAGLN	Symbol	6876	transgelin	-1.34		-1.47		-1.52
+1	TDRD1	Symbol	56165	tudor domain containing 1	-1.465		-1.38		-1.595
+1	TGFBRAP1	Symbol	9392	transforming growth factor, beta receptor associated protein 1	-1.18	NS	-1.41	NS	-1.74
+1	TIA1	Symbol	7072	TIA1 cytotoxic granule-associated RNA binding protein	-1.025	NS	1.06	NS	1.64
+1	TMED10	Symbol	10972	transmembrane emp24-like trafficking protein 10 (yeast)	1.51		1.21	NS	1.63
+1	TMEM17	Symbol	200728	transmembrane protein 17	-1.41		-1.03	NS	-1.53
+1	TNFRSF12A	Symbol	51330	tumor necrosis factor receptor superfamily, member 12A	-1.05	NS	-1.12	NS	-1.56
+1	TNS3	Symbol	64759	tensin 3	-1.05	NS	-1.17		-1.94
+1	TOM1L2	Symbol	146691	target of myb1-like 2 (chicken)	1.06	NS	-1.29		-1.52
+1	TP53INP2	Symbol	58476	tumor protein p53 inducible nuclear protein 2	-1.11	NS	-1.24	NS	-1.67
+1	TRMT2B	Symbol	79979	TRM2 tRNA methyltransferase 2 homolog B (S. cerevisiae)	-2.06		-1.51		-1.51
+1	UBR5	Symbol	51366	ubiquitin protein ligase E3 component n-recognin 5	1.24	NS	1.21	NS	1.5
+1	USP10	Symbol	9100	ubiquitin specific peptidase 10	1.21	NS	1.38	NS	1.5
+1	VAMP5	Symbol	10791	vesicle-associated membrane protein 5 (myobrevin)	-1.05	NS	-1.13	NS	-1.82
+1	VASN	Symbol	114990	vasorin	1.58		-1.3	NS	-1.89
+1	WDR73	Symbol	84942	WD repeat domain 73	-1.68		-1.25	NS	-1.92
+1	WNT10B	Symbol	7480	wingless-type MMTV integration site family, member 10B	-1.12	NS	-1.03	NS	-1.58
+1	WWP2	Symbol	11060	WW domain containing E3 ubiquitin protein ligase 2	-1.07	NS	1.03	NS	-1.49
+1	XRCC2	Symbol	7516	X-ray repair complementing defective repair in Chinese hamster cells 2	-1.68		-1.35	NS	-1.51
+1	XRCC5	Symbol	7520	X-ray repair complementing defective repair in Chinese hamster cells 5 (double-strand-break rejoining)	1.19	NS	1.29	NS	1.65
+1	ZADH2	Symbol	284273	zinc binding alcohol dehydrogenase domain containing 2	-1.12	NS	-1.3		-1.69
+1	ZCCHC8	Symbol	55596	zinc finger, CCHC domain containing 8	1.45		1.25	NS	1.52
+1	ZDHHC6	Symbol	64429	zinc finger, DHHC-type containing 6	1.08	NS	1.11	NS	1.58
+1	ZFP106	Symbol	64397	zinc finger protein 106 homolog (mouse)	1.14	NS	1.33		1.59
+1	ZMYND15	Symbol	84225	zinc finger, MYND-type containing 15	-1.63		-1.21	NS	-1.51
+1	ZNF14	Symbol	7561	zinc finger protein 14	-1.46	NS	-1.33	NS	-1.64
+1	ZNF223	Symbol	7766	zinc finger protein 223	-1.21		-1.26		-1.55
+1	ZNF274	Symbol	10782	zinc finger protein 274	-1.09	NS	-1.05	NS	-1.54
+1	ZNF281	Symbol	23528	zinc finger protein 281	-1.25	NS	-1.17		-1.63
+1	ZNF365	Symbol	22891	zinc finger protein 365	-1.13	NS	1.02	NS	-1.56
+1	ZNF469	Symbol	84627	zinc finger protein 469	-1.22	NS	-1.44	NS	-1.76
+1	ZNF483	Symbol	158399	zinc finger protein 483	-1.61		-1.21	NS	-1.67
+1	ZNF577	Symbol	84765	zinc finger protein 577	-1.49		-1.26	NS	-1.59
+1	ZWILCH	Symbol	55055	Zwilch, kinetochore associated, homolog (Drosophila)	1.1	NS	1.23	NS	1.65
+2	ABCA1	Symbol	19	ATP-binding cassette, sub-family A (ABC1), member 1	-1.16	NS	-1.35	NS	-1.66	1.15	-1.11	-1.72
+2	ABCC5	Symbol	10057	ATP-binding cassette, sub-family C (CFTR/MRP), member 5	-1.14	NS	-1.45		-1.5	-1.05	-1.41	-1.72
+2	ACHE	Symbol	43	acetylcholinesterase (Yt blood group)	-1.27	NS	-1.45	NS	-2.72	1.08	-1.16	-1.84
+2	ADORA1	Symbol	134	adenosine A1 receptor	2.37		2.71		2.03	2.05	2.08	1.7
+2	AFAP1L2	Symbol	84632	actin filament associated protein 1-like 2	1.26	NS	1.18	NS	1.77	1.42	1.5	1.7
+2	AK125960	Accession Number		Homo sapiens cDNA FLJ43972 fis, clone TESTI4017961	1.65		2.04		2.63	1.39	1.77	1.86
+2	AKIRIN1	Symbol	79647	akirin 1	-1.11	NS	-1.06	NS	-1.59	-1.58	-1.35	-1.55
+2	ANKRD13D	Symbol	338692	ankyrin repeat domain 13 family, member D	-1.71		-1.44	NS	-1.93	-1.23	-1.56	-1.97
+2	ARMCX6	Symbol	54470	armadillo repeat containing, X-linked 6	1.51		1.8		1.6	1.79	1.98	1.56
+2	BMF	Symbol	90427	Bcl2 modifying factor	-1.1	NS	-2.1		-2.5	1.81	1.01	-2.2
+2	BMP7	Symbol	655	bone morphogenetic protein 7	-1.32		-1.29		-1.58	-1.2	-1.74	-2.55
+2	BPNT1	Symbol	10380	3(2), 5-bisphosphate nucleotidase 1	-2.12		-1.74		-2.22	1.41	1.29	1.88
+2	C16orf7	Symbol	9605	chromosome 16 open reading frame 7	-1.03	NS	-1.4		-1.58	1.07	-1.4	-2.18
+2	C17orf82	Symbol	388407	chromosome 17 open reading frame 82	1.04	NS	-1.31	NS	-1.84	1.01	-1.32	-1.53
+2	C1orf21	Symbol	81563	chromosome 1 open reading frame 21	1.01	NS	-1.14	NS	-1.53	1.86	1.79	1.56
+2	C1orf63	Symbol	57035	chromosome 1 open reading frame 63	-1.18	NS	1.13	NS	1.68	-1.89	-1.24	-1.85
+2	C1orf71	Symbol	163882	chromosome 1 open reading frame 71	-1.13	NS	-1.39		-1.95	1.03	-1.18	-1.71
+2	C1QTNF6	Symbol	114904	C1q and tumor necrosis factor related protein 6	1.685		1.42		1.69	2.335	3.095	3.05
+2	C6orf141	Symbol	135398	chromosome 6 open reading frame 141	1.81		2.41		1.96	2.21	2.67	2.77
+2	C9orf169	Symbol	375791	chromosome 9 open reading frame 169	-1.2	NS	-1.53		-3.57	1.43	1.09	-2.31
+2	CA12	Symbol	771	carbonic anhydrase XII	2.37		2.86		1.72	3.37	3.59	2.04
+2	CA2	Symbol	760	carbonic anhydrase II	2.02		1.83		1.82	1.83	2.22	3.27
+2	CACNG6	Symbol	59285	calcium channel, voltage-dependent, gamma subunit 6	-1.32		-1.25		-1.94	-1.21	-1.26	-1.95
+2	CALCR	Symbol	799	calcitonin receptor	2.31		2.83		3.62	1.71	2.31	2.43
+2	CALML5	Symbol	51806	calmodulin-like 5	1.27	NS	-1.37	NS	-2.4	2.2	1.93	1.67
+2	CAMK2N1	Symbol	55450	calcium/calmodulin-dependent protein kinase II inhibitor 1	-1.04	NS	-1.57	NS	-2.31	-1.14	-1.53	-2.14
+2	CAP2	Symbol	10486	CAP, adenylate cyclase-associated protein, 2 (yeast)	1.16	NS	1.26		1.61	1.22	1.25	2.02
+2	CAPN5	Symbol	726	calpain 5	-1.26	NS	-1.22	NS	-2.01	1.06	-1.09	-2.08
+2	CAPN8	Symbol	388743	calpain 8	-1.03	NS	1.3	NS	1.93	-1.11	1.3	4.8
+2	CD44	Symbol	960	CD44 molecule (Indian blood group)	-1.01	NS	1.34		2.07	-1.05	1.31	1.86
+2	CDCA7	Symbol	83879	cell division cycle associated 7	1.07	NS	1.77		2.06	1.32	1.37	1.69
+2	CEBPD	Symbol	1052	CCAAT/enhancer binding protein (C/EBP), delta	-1.21	NS	-1.55		-1.83	-1.37	-1.62	-2.06
+2	CELSR2	Symbol	1952	cadherin, EGF LAG seven-pass G-type receptor 2 (flamingo homolog, Drosophila)	1.27	NS	1.31		1.69	1.32	1.46	2.05
+2	CGN	Symbol	57530	cingulin	-1.24		-1.4		-1.74	1.17	-1.43	-3.25
+2	CHD9	Symbol	80205	chromodomain helicase DNA binding protein 9	1.68	NS	1.45		1.63	1.98	2.48	1.64
+2	CLDN23	Symbol	137075	claudin 23	1.3		-1.08	NS	-1.5	2.12	1.15	-1.65
+2	COL12A1	Symbol	1303	collagen, type XII, alpha 1	1.36		1.34	NS	1.52	1.39	1.57	1.68
+2	CROT	Symbol	54677	carnitine O-octanoyltransferase	1.2	NS	1.44		1.96	-1.23	1.43	2.76
+2	CTGF	Symbol	1490	connective tissue growth factor	-1.29		-1.745		-3.935	-2.965	-1.84	-5.285
+2	CTSD	Symbol	1509	cathepsin D	1.45		1.66		2.24	1.52	1.83	1.9
+2	CXCL12	Symbol	6387	chemokine (C-X-C motif) ligand 12 (stromal cell-derived factor 1)	1.945		2.835		3.59	1.935	2.21	2.42
+2	CYP1A1	Symbol	1543	cytochrome P450, family 1, subfamily A, polypeptide 1	-1.63		-1.62		-5.89	1.36	1.22	-6.8
+2	CYP1B1	Symbol	1545	cytochrome P450, family 1, subfamily B, polypeptide 1	-1.34	NS	-1.3	NS	-1.71	1.22	1.03	-2.1
+2	CYP26B1	Symbol	56603	cytochrome P450, family 26, subfamily B, polypeptide 1	1.76		2.55		3.37	1.97	4.1	6.09
+2	DAB2	Symbol	1601	disabled homolog 2, mitogen-responsive phosphoprotein (Drosophila)	-1.485		-1.54		-1.815	-1.61	-2.18	-2.83
+2	DEPDC6	Symbol	64798	DEP domain containing 6	1.275	NS	1.94		2.45	1.14	1.68	1.865
+2	DHRS2	Symbol	10202	dehydrogenase/reductase (SDR family) member 2	1.14	NS	1.46		2.14	-1.07	1.35	1.66
+2	DHRS3	Symbol	9249	dehydrogenase/reductase (SDR family) member 3	1.38	NS	-1.3	NS	-2.8	4.32	6.46	4.1
+2	DNAJC12	Symbol	56521	DnaJ (Hsp40) homolog, subfamily C, member 12	1.076666667	NS	1.533333333		2.09	1.11	1.403333333	2.6
+2	DNAJC22	Symbol	79962	DnaJ (Hsp40) homolog, subfamily C, member 22	-1.04	NS	-1.32	NS	-1.56	-1.52	-2.6	-3.24
+2	DOK7	Symbol	285489	docking protein 7	1.33	NS	1.45	NS	1.5	1.67	1.56	1.68
+2	DRAM1	Symbol	55332	DNA-damage regulated autophagy modulator 1	1.03	NS	-1.25	NS	-1.52	-1.05	-1.45	-2.63
+2	DSCAM	Symbol	1826	Down syndrome cell adhesion molecule	1.25	NS	1.26	NS	1.57	1.29	1.21	1.59
+2	EDN1	Symbol	1906	endothelin 1	-1.41		-1.22		-1.64	-1.66	-1.27	-1.71
+2	EFNA1	Symbol	1942	ephrin-A1	-1.73		-1.69		-1.66	-1.88	-2.27	-2.11
+2	EGR1	Symbol	1958	early growth response 1	1.25	NS	1.13	NS	-2.67	1.1	2.31	-2.14
+2	ELF1	Symbol	1997	E74-like factor 1 (ets domain transcription factor)	1.42		1.41		1.54	1.52	1.98	1.81
+2	ELF3	Symbol	1999	E74-like factor 3 (ets domain transcription factor, epithelial-specific )	1.38		-1.34	NS	-1.57	3.33	2.61	1.93
+2	ENC1	Symbol	8507	ectodermal-neural cortex (with BTB-like domain)	-1.23		-1.18	NS	-1.56	-2.46	-2.54	-2.19
+2	EPOR	Symbol	2057	erythropoietin receptor	1.03	NS	-1.4	NS	-1.57	-1.13	-1.31	-2.04
+2	F2RL1	Symbol	2150	coagulation factor II (thrombin) receptor-like 1	-1.09	NS	-1.07	NS	-1.6	-2.08	-2.04	-1.77
+2	FAM43A	Symbol	131583	family with sequence similarity 43, member A	1.02	NS	-1.56		-1.72	2.28	2.11	2.48
+2	FGF18	Symbol	8817	fibroblast growth factor 18	2.11		1.8		1.61	2.86	2.52	1.87
+2	FOXD2	Symbol	2306	forkhead box D2	-1.38		-1.51		-1.56	-1.59	-1.62	-1.81
+2	FREM2	Symbol	341640	FRAS1 related extracellular matrix protein 2	1.29	NS	1.4	NS	1.64	1.46	1.39	1.56
+2	FRMD6	Symbol	122786	FERM domain containing 6	-1.13	NS	-1.18	NS	-1.49	-1.83	-1.65	-1.62
+2	FSCN1	Symbol	6624	fascin homolog 1, actin-bundling protein (Strongylocentrotus purpuratus)	-1.25		-1.46		-1.53	-1.03	-1.31	-1.75
+2	GART	Symbol	2618	phosphoribosylglycinamide formyltransferase, phosphoribosylglycinamide synthetase, phosphoribosylaminoimidazole synthetase	1.27		1.35		1.96	-1.17	1	1.54
+2	GINS3	Symbol	64785	GINS complex subunit 3 (Psf3 homolog)	1.27		1.59	NS	1.67	1.46	1.71	1.62
+2	GLB1L2	Symbol	89944	galactosidase, beta 1-like 2	-1.04	NS	1.32	NS	1.64	1.12	1.23	1.52
+2	GNA14	Symbol	9630	guanine nucleotide binding protein (G protein), alpha 14	1.51		1.68	NS	1.97	1.35	2.31	2.87
+2	GOLSYN	Symbol	55638	Golgi-localized protein	1.68		1.73		2.1	1.1	1.98	4.12
+2	GPRC5C	Symbol	55890	G protein-coupled receptor, family C, group 5, member C	-1.12	NS	-1.41		-1.84	1.47	-1.07	-1.76
+2	GRAMD1A	Symbol	57655	GRAM domain containing 1A	-1.15	NS	-1.53		-1.75	1.13	-1.49	-1.99
+2	GREB1	Symbol	9687	growth regulation by estrogen in breast cancer 1	3.16		4.12		5.86	2.21	2.32	2.07
+2	GRHL3	Symbol	57822	grainyhead-like 3 (Drosophila)	-1.98		-2.05		-2.75	-1.5	-1.57	-1.57
+2	GRM4	Symbol	2914	glutamate receptor, metabotropic 4	-1.15	NS	-1.55		-1.87	-1.17	-1.3	-1.63
+2	HBEGF	Symbol	1839	heparin-binding EGF-like growth factor	-1.38		-1.35		-1.83	-2.04	-1.7	-2.41
+2	HEY2	Symbol	23493	hairy/enhancer-of-split related with YRPW motif 2	2.34		1.95		2.46	2.28	2.26	2.32
+2	HEYL	Symbol	26508	hairy/enhancer-of-split related with YRPW motif-like	-1.13	NS	-1.32		-1.49	-1.18	-1.47	-1.74
+2	HPRT1	Symbol	3251	hypoxanthine phosphoribosyltransferase 1	-1.07	NS	1.18		1.56	-1.04	1.1	1.57
+2	HSPB8	Symbol	26353	heat shock 22kDa protein 8	2.45		2.59		1.83	2.71	2.82	1.64
+2	IFIT1	Symbol	3434	interferon-induced protein with tetratricopeptide repeats 1	1.13	NS	1.15	NS	1.61	-2.47	-2.54	-1.54
+2	IGDCC3	Symbol	9543	immunoglobulin superfamily, DCC subclass, member 3	-1.3	NS	-1.55		-1.58	-1.24	-1.48	-1.78
+2	IGFBP3	Symbol	3486	insulin-like growth factor binding protein 3	-1.25	NS	-1.41	NS	-2.15	-1.11	-1.25	-1.78
+2	IGFBP4	Symbol	3487	insulin-like growth factor binding protein 4	1.74		1.83		1.7	2.17	2.87	3.38
+2	IL17RB	Symbol	55540	interleukin 17 receptor B	1.63		1.62		1.55	3.49	3.54	3.4
+2	IRS2	Symbol	8660	insulin receptor substrate 2	1.59		1.73	NS	1.54	2.15	2.56	3.68
+2	ISG20	Symbol	3669	interferon stimulated exonuclease gene 20kDa	1.29	NS	1.48	NS	1.89	1.29	1.68	2.95
+2	ITM2A	Symbol	9452	integral membrane protein 2A	1.15	NS	1.29	NS	1.59	1.3	1.36	2.38
+2	JUN	Symbol	3725	jun oncogene	-1.02	NS	-1.12	NS	-1.72	-1.17	1.11	-1.48
+2	KIAA0513	Symbol	9764	KIAA0513	-1.08	NS	-1.43		-1.95	-1.07	-1.46	-1.6
+2	KIAA0907	Symbol	22889	KIAA0907	1.05	NS	1.14	NS	1.64	-1.53	-1.39	-1.55
+2	KRT13	Symbol	3860	keratin 13	1.93		3.42		6.03	2.62	5.12	8.17
+2	KRT15	Symbol	3866	keratin 15	1.29	NS	1.78		1.77	1.55	1.81	2.09
+2	LATS2	Symbol	26524	LATS, large tumor suppressor, homolog 2 (Drosophila)	-1.3		-1.42		-1.73	-1.42	-1.36	-1.75
+2	LOC338758	Symbol	338758	hypothetical LOC338758	-1.2	NS	-1.27		-1.94	-1.1	-1.45	-1.94
+2	LOC643008	Symbol	643008	hypothetical protein LOC643008	-1.38		-1.79		-2.85	1.2	-1.27	-2.09
+2	MACF1	Symbol	23499	microtubule-actin crosslinking factor 1	1.07	NS	1.62		1.63	-1.25	1.33	1.75
+2	MALL	Symbol	7851	mal, T-cell differentiation protein-like	-1.31		-1.18	NS	-1.65	-2.25	-2.09	-2.06
+2	MAP2K3	Symbol	5606	mitogen-activated protein kinase kinase 3	-1.085	NS	-1.085	NS	-1.61	-1.27	-1.49	-1.58
+2	MCM10	Symbol	55388	minichromosome maintenance complex component 10	1.11	NS	1.36	NS	2.02	1.17	1.21	1.64
+2	MCM3	Symbol	4172	minichromosome maintenance complex component 3	1.05	NS	1.26		1.74	-1.05	1.2	1.63
+2	MICB	Symbol	4277	MHC class I polypeptide-related sequence B	2.56		1.95		1.81	3.3	3.98	2.85
+2	MT2A	Symbol	4502	metallothionein 2A	-1.34	NS	-1.3		-1.74	1.35	1.29	1.63
+2	MYADM	Symbol	91663	myeloid-associated differentiation marker	-1.28		-1.36		-2.225	-1.895	-2.085	-2.125
+2	MYB	Symbol	4602	v-myb myeloblastosis viral oncogene homolog (avian)	3.38		3.82		4.93	5.42	5.07	5.28
+2	MYC	Symbol	4609	v-myc myelocytomatosis viral oncogene homolog (avian)	2.5		1.87		1.85	3.93	2.91	3.2
+2	MYEOV	Symbol	26579	myeloma overexpressed (in a subset of t(11;14) positive multiple myelomas)	1.56	NS	1.29	NS	1.62	1.31	1.51	3.46
+2	NAV2	Symbol	89797	neuron navigator 2	2.06		2.22		1.84	2.15	2.87	3.37
+2	NRIP1	Symbol	8204	nuclear receptor interacting protein 1	2.3		1.71		1.98	2.25	2.39	2.62
+2	OXTR	Symbol	5021	oxytocin receptor	-1.39	NS	-1.57		-1.96	-1.3	-2.19	-2.51
+2	PAQR7	Symbol	164091	progestin and adipoQ receptor family member VII	-1.28	NS	-1.35	NS	-1.57	-1.63	-1.94	-2.46
+2	PCP4	Symbol	5121	Purkinje cell protein 4	1.25		1.9		2.46	1.77	2.48	3.23
+2	PDZK1	Symbol	5174	PDZ domain containing 1	1.46	NS	1.65	NS	2.27	1.75	1.84	1.95
+2	PHLDA1	Symbol	22822	pleckstrin homology-like domain, family A, member 1	1.25		-1.04	NS	-2.91	-1.69	-1.25	-2.17
+2	PHLDA2	Symbol	7262	pleckstrin homology-like domain, family A, member 2	1.09	NS	1.15	NS	-1.7	1	1.27	1.68
+2	PHLDB1	Symbol	23187	pleckstrin homology-like domain, family B, member 1	-1.2	NS	-1.44	NS	-1.59	1.17	-1.4	-1.95
+2	PKIB	Symbol	5570	protein kinase (cAMP-dependent, catalytic) inhibitor beta	1.53		2.53		3.12	2.68	4.33	6.61
+2	PLAC1	Symbol	10761	placenta-specific 1	1.51	NS	2.3		3.02	1.91	4.72	16.39
+2	PLAU	Symbol	5328	plasminogen activator, urokinase	-1.43		-1.39		-1.89	-1.59	-2.1	-2.07
+2	PLEKHH2	Symbol	130271	pleckstrin homology domain containing, family H (with MyTH4 domain) member 2	-1.81		-1.5		-1.91	-1.89	-2.27	-2.47
+2	PLOD2	Symbol	5352	procollagen-lysine, 2-oxoglutarate 5-dioxygenase 2	1.4	NS	1.5		2.08	1.79	2.53	3.19
+2	PPL	Symbol	5493	periplakin	-1.12	NS	-1.37		-1.63	1.26	-1.05	-1.68
+2	RAB26	Symbol	25837	RAB26, member RAS oncogene family	1.01	NS	-1.39		-1.74	2.52	2.06	1.5
+2	RAB31	Symbol	11031	RAB31, member RAS oncogene family	1.47		2		2.07	1.21	1.53	2.02
+2	RAB9A	Symbol	9367	RAB9A, member RAS oncogene family	-1.5		-1.38	NS	-1.52	-1.51	-1.6	-1.74
+2	RAPGEFL1	Symbol	51195	Rap guanine nucleotide exchange factor (GEF)-like 1	1.92		2		1.94	3.08	3.03	1.78
+2	RASD1	Symbol	51655	RAS, dexamethasone-induced 1	-1.22		-1.37		-2.33	-2.48	-1.46	-2.86
+2	RCAN1	Symbol	1827	regulator of calcineurin 1	-1.47		-1.33		-1.73	-2.67	-2.5	-1.84
+2	RERG	Symbol	85004	RAS-like, estrogen-regulated, growth inhibitor	1.26	NS	2		2.01	1.35	1.63	1.83
+2	RET	Symbol	5979	ret proto-oncogene	1.565		1.73		2.01	2.585	3.08	3.595
+2	RGS2	Symbol	5997	regulator of G-protein signaling 2, 24kDa	-1.28	NS	-1.3		-1.91	-1.29	-1.07	1.57
+2	RND1	Symbol	27289	Rho family GTPase 1	-1.07	NS	-1.47		-2.51	1.52	1	-2.3
+2	RPRM	Symbol	56475	reprimo, TP53 dependent G2 arrest mediator candidate	1.01	NS	-1.39		-1.59	1.05	-1.38	-1.67
+2	SALL4	Symbol	57167	sal-like 4 (Drosophila)	-1.52		-1.99		-2.54	-1.69	-1.99	-2.44
+2	SFXN2	Symbol	118980	sideroflexin 2	1.53		1.86		2.6	1.48	1.35	1.51
+2	SGK3	Symbol	23678	serum/glucocorticoid regulated kinase family, member 3	1.93		2.56		2.82	2.41	2.69	2.92
+2	SH3BP4	Symbol	23677	SH3-domain binding protein 4	-1.15	NS	-1.33		-1.57	1.11	1.01	-1.5
+2	SHISA2	Symbol	387914	shisa homolog 2 (Xenopus laevis)	-1.1	NS	-1.31		-1.82	1.44	-1.02	-1.95
+2	SLC29A1	Symbol	2030	solute carrier family 29 (nucleoside transporters), member 1	1.17	NS	1.385		1.755	1.38	1.495	1.89
+2	SLC2A1	Symbol	6513	solute carrier family 2 (facilitated glucose transporter), member 1	2.03		1.95		1.64	1.8	1.95	1.9
+2	SLC31A2	Symbol	1318	solute carrier family 31 (copper transporters), member 2	-1.01	NS	-1.43		-1.93	1.22	-1.08	-1.93
+2	SLCO2A1	Symbol	6578	solute carrier organic anion transporter family, member 2A1	-1.3	NS	-1.41		-2.32	1.07	1.1	-1.55
+2	SLIT2	Symbol	9353	slit homolog 2 (Drosophila)	-1.06	NS	-1.47		-1.88	1.16	-1.29	-1.57
+2	SOX3	Symbol	6658	SRY (sex determining region Y)-box 3	1.87		2.57		3.59	1.74	1.57	1.59
+2	STC2	Symbol	8614	stanniocalcin 2	1.92		1.77		1.59	3.88	2.79	1.98
+2	SYTL4	Symbol	94121	synaptotagmin-like 4	1.31	NS	1.56	NS	2.06	-1.05	1.33	2.48
+2	TACC1	Symbol	6867	transforming, acidic coiled-coil containing protein 1	-1.34		-1.68		-1.51	-1.36	-1.89	-2.04
+2	TFF1	Symbol	7031	trefoil factor 1	1.62		1.72		2.04	1.42	1.81	2.02
+2	TGFBI	Symbol	7045	transforming growth factor, beta-induced, 68kDa	-1.01	NS	-1.16		-1.77	1.26	1.05	-1.66
+2	TLE2	Symbol	7089	transducin-like enhancer of split 2 (E(sp1) homolog, Drosophila)	-1.11	NS	-1.3		-1.64	-1.07	-1.26	-1.68
+2	TM4SF1	Symbol	4071	transmembrane 4 L six family member 1	-1.54		-3.06		-2.64	-1.76	-2.21	-2.37
+2	TMEM156	Symbol	80008	transmembrane protein 156	-1.41	NS	-1.32	NS	-1.6	-1.64	-1.52	-1.54
+2	TMEM158	Symbol	25907	transmembrane protein 158	-1.26	NS	-1.22	NS	-1.8	-1.38	-1.66	-1.94
+2	TMEM64	Symbol	169200	transmembrane protein 64	1.48		1.66		1.86	1.22	1.36	2.49
+2	TNFRSF11B	Symbol	4982	tumor necrosis factor receptor superfamily, member 11b	-2.46		-1.72		-2.82	-6.65	-5.1	-5.26
+2	TOP1	Symbol	7150	topoisomerase (DNA) I	-1.48		-1.41		-2.3	-1.34	-1.03	-1.53
+2	TPD52L1	Symbol	7164	tumor protein D52-like 1	1.41		1.995		2.38	1.695	2.435	3.285
+2	TSC22D3	Symbol	1831	TSC22 domain family, member 3	1.22		-1.23		-1.48	2.6	2.62	2.09
+2	TUFT1	Symbol	7286	tuftelin 1	-1.24	NS	-1.67		-1.83	-1.25	-1.34	-1.52
+2	UNC13D	Symbol	201294	unc-13 homolog D (C. elegans)	1.07	NS	-1.38		-1.55	-1.11	-1.23	-1.75
+2	VTCN1	Symbol	79679	V-set domain containing T cell activation inhibitor 1	-1.82		-1.68		-1.83	-1.24	1.01	-1.77
+2	VWF	Symbol	7450	von Willebrand factor	1.04	NS	-1.13	NS	-1.67	2.26	3.25	2.03
+2	WDR12	Symbol	55759	WD repeat domain 12	1.16		1.46		1.53	-1.03	1.3	1.51
+2	WISP2	Symbol	8839	WNT1 inducible signaling pathway protein 2	1.12	NS	1.17	NS	1.57	1.43	1.57	2.08
+2	WNT7B	Symbol	7477	wingless-type MMTV integration site family, member 7B	1.33	NS	-1.38	NS	-1.56	-1.12	-1.47	-1.8
+2	WSB1	Symbol	26118	WD repeat and SOCS box-containing 1	-1.2	NS	-1.44		-1.51	1.34	1.83	1.8
+2	XBP1	Symbol	7494	X-box binding protein 1	2.13		2.09		2.15	2.1	2.42	2.75
+2	ZNF121	Symbol	7675	zinc finger protein 121	-2.82		-1.24	NS	-1.52	1.61	1.94	2
+2	ZNF467	Symbol	168544	zinc finger protein 467	-1.03	NS	-1.39	NS	-1.56	-1.16	-1.7	-1.87
+3	ABCE1	Symbol	6059	ATP-binding cassette, sub-family E (OABP), member 1						1.04	1.45	1.86
+3	ABHD2	Symbol	11057	abhydrolase domain containing 2						1.01	1	1.52
+3	ABHD8	Symbol	79575	abhydrolase domain containing 8						2.12	2.26	1.75
+3	ACAD10	Symbol	80724	acyl-Coenzyme A dehydrogenase family, member 10						-1.05	-1.23	-1.55
+3	ACAD11	Symbol	84129	acyl-Coenzyme A dehydrogenase family, member 11						-1.01	-1.26	-1.8
+3	ACER3	Symbol	55331	alkaline ceramidase 3						-1.44	-1.59	-1.67
+3	ACOT1	Symbol	641371	acyl-CoA thioesterase 1						1.57	1.61	1.51
+3	ACOT4	Symbol	122970	acyl-CoA thioesterase 4						1.45	1.69	1.76
+3	ACOX2	Symbol	8309	acyl-Coenzyme A oxidase 2, branched chain						1.47	1.24	1.84
+3	ACSS2	Symbol	55902	acyl-CoA synthetase short-chain family member 2						-1.295	-1.5	-1.565
+3	ACTA2	Symbol	59	actin, alpha 2, smooth muscle, aorta						1.02	-1.23	-1.67
+3	AGAP11	Symbol	119385	ankyrin repeat and GTPase domain Arf GTPase activating protein 11						2.315	3.01	3.685
+3	AHCTF1	Symbol	25909	AT hook containing transcription factor 1						1.46	1.66	1.55
+3	AKAP1	Symbol	8165	A kinase (PRKA) anchor protein 1						1.99	2.12	1.72
+3	AKR1C2	Symbol	1646	aldo-keto reductase family 1, member C2 (dihydrodiol dehydrogenase 2; bile acid binding protein; 3-alpha hydroxysteroid dehydrogenase, type III)						1.33	1.37	1.52
+3	ALAD	Symbol	210	aminolevulinate, delta-, dehydratase						1.01	-1.31	-2.06
+3	ANGPTL4	Symbol	51129	angiopoietin-like 4						2.2	2.21	1.65
+3	ANK3	Symbol	288	ankyrin 3, node of Ranvier (ankyrin G)						-1.13	-1.5	-1.97
+3	ANKRA2	Symbol	57763	ankyrin repeat, family A (RFXANK-like), 2						-1.05	-1.17	-1.53
+3	ANKRD1	Symbol	27063	ankyrin repeat domain 1 (cardiac muscle)						1.1	1.63	1.87
+3	ANKRD23	Symbol	200539	ankyrin repeat domain 23						1.29	1.32	1.63
+3	ANKRD50	Symbol	57182	ankyrin repeat domain 50						-2.23	-1.95	-1.87
+3	APBA3	Symbol	9546	amyloid beta (A4) precursor protein-binding, family A, member 3						-1.16	-1.61	-1.48
+3	APOD	Symbol	347	apolipoprotein D						1.24	1.27	1.54
+3	AQP11	Symbol	282679	aquaporin 11						-1.46	-1.83	-1.64
+3	ARFGAP1	Symbol	55738	ADP-ribosylation factor GTPase activating protein 1						-1.4	-1.38	-1.53
+3	ARHGEF16	Symbol	27237	Rho guanine exchange factor (GEF) 16						1.23	-1.4	-1.69
+3	ARHGEF19	Symbol	128272	Rho guanine nucleotide exchange factor (GEF) 19						1.11	-1.13	-1.48
+3	ARID4B	Symbol	51742	AT rich interactive domain 4B (RBP1-like)						-1.42	-1.25	-1.5
+3	ARRB1	Symbol	408	arrestin, beta 1						1.86	1.85	2.025
+3	ASAP2	Symbol	8853	ArfGAP with SH3 domain, ankyrin repeat and PH domain 2						1.27	1.91	2.27
+3	ASB9	Symbol	140462	ankyrin repeat and SOCS box-containing 9						-1.15	-1.47	-1.89
+3	ASPSCR1	Symbol	79058	alveolar soft part sarcoma chromosome region, candidate 1						-1.08	-1.23	-1.57
+3	ATG16L2	Symbol	89849	ATG16 autophagy related 16-like 2 (S. cerevisiae)						1.11	-1.01	-1.51
+3	ATP11C	Symbol	286410	ATPase, class VI, type 11C						-1.15	1.05	1.59
+3	ATP6V0E1	Symbol	8992	ATPase, H+ transporting, lysosomal 9kDa, V0 subunit e1						1.45	1.56	1.58
+3	ATP6V1C2	Symbol	245973	ATPase, H+ transporting, lysosomal 42kDa, V1 subunit C2						1.54	1.95	1.74
+3	ATP6V1E1	Symbol	529	ATPase, H+ transporting, lysosomal 31kDa, V1 subunit E1						-1.23	-1.35	-1.59
+3	ATRIP	Symbol	84126	ATR interacting protein						1.535	1.65	1.575
+3	ATXN1	Symbol	6310	ataxin 1						-1.61	-1.07	1.58
+3	AVPI1	Symbol	60370	arginine vasopressin-induced 1						-1.45	-1.64	-1.72
+3	B3GALT4	Symbol	8705	UDP-Gal:betaGlcNAc beta 1,3-galactosyltransferase, polypeptide 4						1.15	-1.09	-1.63
+3	BACE1	Symbol	23621	beta-site APP-cleaving enzyme 1						1.31	1.55	1.74
+3	BAG1	Symbol	573	BCL2-associated athanogene						1.33	1.6	1.67
+3	BATF	Symbol	10538	basic leucine zipper transcription factor, ATF-like						3	3.48	2.69
+3	BAZ1A	Symbol	11177	bromodomain adjacent to zinc finger domain, 1A						-1.3	1.27	1.53
+3	BCAM	Symbol	4059	basal cell adhesion molecule (Lutheran blood group)						1.19	1.27	1.5
+3	BCDIN3D	Symbol	144233	BCDIN3 domain containing						-1.4	-1.24	-1.51
+3	BCL2	Symbol	596	B-cell CLL/lymphoma 2						2.175	2.535	1.675
+3	BCL9L	Symbol	283149	B-cell CLL/lymphoma 9-like						1.08	1.26	1.5
+3	BDKRB2	Symbol	624	bradykinin receptor B2						1.4	1.78	1.8
+3	BNIPL	Symbol	149428	BCL2/adenovirus E1B 19kD interacting protein like						1.02	-1.12	-1.56
+3	BTBD11	Symbol	121551	BTB (POZ) domain containing 11						-1.16	-1.46	-1.59
+3	BTG2	Symbol	7832	BTG family, member 2						-1.48	-1.05	-1.49
+3	BXDC2	Symbol	55299	brix domain containing 2						1.42	1.41	1.5
+3	BZW1L1	Symbol	151579	basic leucine zipper and W2 domains 1 like 1						-1.06	1.24	1.945
+3	C10orf58	Symbol	84293	chromosome 10 open reading frame 58						1.53	1.72	1.64
+3	C12orf24	Symbol	29902	chromosome 12 open reading frame 24						1.57	1.9	1.68
+3	C12orf76	Symbol	400073	chromosome 12 open reading frame 76						-1.36	-1.55	-1.85
+3	C13orf15	Symbol	28984	chromosome 13 open reading frame 15						-1.79	-1.7	-1.57
+3	C14orf132	Symbol	56967	chromosome 14 open reading frame 132						1.74	1.91	2.64
+3	C14orf43	Symbol	91748	chromosome 14 open reading frame 43						1.74	1.73	1.91
+3	C14orf45	Symbol	80127	chromosome 14 open reading frame 45						1.38	1.61	1.53
+3	C14orf80	Symbol	283643	chromosome 14 open reading frame 80						1	-1.57	-1.51
+3	C16orf74	Symbol	404550	chromosome 16 open reading frame 74						2.03	2.67	1.56
+3	C17orf58	Symbol	284018	chromosome 17 open reading frame 58						1.195	1.41	1.55
+3	C1orf115	Symbol	79762	chromosome 1 open reading frame 115						-1.3	-1.64	-1.67
+3	C1orf122	Symbol	127687	chromosome 1 open reading frame 122						-1.2	-1.36	-1.54
+3	C1orf216	Symbol	127703	chromosome 1 open reading frame 216						1.11	1.07	-1.54
+3	C20orf3	Symbol	57136	chromosome 20 open reading frame 3						1.28	1.6	1.77
+3	C21orf63	Symbol	59271	chromosome 21 open reading frame 63						-1.28	-1.52	-2.05
+3	C22orf29	Symbol	79680	chromosome 22 open reading frame 29						-1.15	-1.68	-1.68
+3	C3orf14	Symbol	57415	chromosome 3 open reading frame 14						-1.13	-1.39	-1.61
+3	C3orf59	Symbol	151963	chromosome 3 open reading frame 59						-1.16	-1.28	-1.91
+3	C5orf38	Symbol	153571	chromosome 5 open reading frame 38						-1.11	-1.37	-1.68
+3	C5orf41	Symbol	153222	chromosome 5 open reading frame 41						-1.4	-1.13	-1.53
+3	C6orf165	Symbol	154313	chromosome 6 open reading frame 165						-1.09	-1.38	-1.59
+3	C8orf38	Symbol	137682	chromosome 8 open reading frame 38						1.25	1.36	1.66
+3	CA5B	Symbol	11238	carbonic anhydrase VB, mitochondrial						-1.12	-1.15	-1.87
+3	CALHM2	Symbol	51063	calcium homeostasis modulator 2						-2.1	-1.68	-1.49
+3	CAMK2G	Symbol	818	calcium/calmodulin-dependent protein kinase II gamma						-1.02	-1.18	-1.49
+3	CARHSP1	Symbol	23589	calcium regulated heat stable protein 1, 24kDa						1.03	-1.37	-1.85
+3	CBX6	Symbol	23466	chromobox homolog 6						-1.1	-1.53	-1.76
+3	CCDC102A	Symbol	92922	coiled-coil domain containing 102A						-1.46	-1.84	-1.78
+3	CCDC103	Symbol	388389	coiled-coil domain containing 103						1.49	1.74	1.8
+3	CCDC64B	Symbol	146439	coiled-coil domain containing 64B						1.14	-1.17	-1.59
+3	CCDC74A	Symbol	90557	coiled-coil domain containing 74A						2.1	2.25	1.73
+3	CCDC86	Symbol	79080	coiled-coil domain containing 86						1.19	1.4	1.6
+3	CCDC92	Symbol	80212	coiled-coil domain containing 92						-1.32	-1.61	-1.59
+3	CCNA1	Symbol	8900	cyclin A1						-1.79	-1.7	-1.65
+3	CCNG2	Symbol	901	cyclin G2						-1.52	-1.56	-1.8366666667
+3	CCPG1	Symbol	9236	cell cycle progression 1						1.32	1.49	1.98
+3	CD55	Symbol	1604	CD55 molecule, decay accelerating factor for complement (Cromer blood group)						-1.4	-1.28	-1.81
+3	CD82	Symbol	3732	CD82 molecule						1.34	1.47	1.67
+3	CD9	Symbol	928	CD9 molecule						1.18	1.36	1.68
+3	CDC34	Symbol	997	cell division cycle 34 homolog (S. cerevisiae)						1.94	1.91	1.67
+3	CDC7	Symbol	8317	cell division cycle 7 homolog (S. cerevisiae)						-1.13	1.02	1.58
+3	CDH1	Symbol	999	cadherin 1, type 1, E-cadherin (epithelial)						1.27	1.59	2.04
+3	CDH10	Symbol	1008	cadherin 10, type 2 (T2-cadherin)						1.11	1.35	2.11
+3	CDH3	Symbol	1001	cadherin 3, type 1, P-cadherin (placental)						-1.05	-1.16	-2.01
+3	CDK6	Symbol	1021	cyclin-dependent kinase 6						-1.37	-1.97	-2.45
+3	CEBPA	Symbol	1050	CCAAT/enhancer binding protein (C/EBP), alpha						1.81	1.58	1.51
+3	CEL	Symbol	1056	carboxyl ester lipase (bile salt-stimulated lipase)						-1.49	-1.24	-1.65
+3	CHKA	Symbol	1119	choline kinase alpha						-1.11	-1.26	-1.54
+3	CHPF	Symbol	79586	chondroitin polymerizing factor						1.16	1.47	1.71
+3	CHPT1	Symbol	56994	choline phosphotransferase 1						1.48	1.685	1.75
+3	CHSY1	Symbol	22856	chondroitin sulfate synthase 1						1.77	2.1	1.87
+3	CITED1	Symbol	4435	Cbp/p300-interacting transactivator, with Glu/Asp-rich carboxy-terminal domain, 1						1.6	2.23	2.9
+3	CITED4	Symbol	163732	Cbp/p300-interacting transactivator, with Glu/Asp-rich carboxy-terminal domain, 4						2.64	2.96	2.17
+3	CLDN1	Symbol	9076	claudin 1						-3.4	-3.97	-2.76
+3	CLIP2	Symbol	7461	CAP-GLY domain containing linker protein 2						-1.45	-1.66	-1.72
+3	CLIP3	Symbol	25999	CAP-GLY domain containing linker protein 3						-1.18	-1.42	-1.73
+3	CLN3	Symbol	1201	ceroid-lipofuscinosis, neuronal 3						1.01	-1.25	-1.56
+3	CNTD2	Symbol	79935	cyclin N-terminal domain containing 2						2.76	3.2	2.48
+3	COL4A3BP	Symbol	10087	collagen, type IV, alpha 3 (Goodpasture antigen) binding protein						-1.59	-1.83	-1.57
+3	CORO1B	Symbol	57175	coronin, actin binding protein, 1B						1.01	-1.1	-1.55
+3	CRIM1	Symbol	51232	cysteine rich transmembrane BMP regulator 1 (chordin-like)						-1.13	-1.23	-1.5
+3	CSRP1	Symbol	1465	cysteine and glycine-rich protein 1						-1.46	-1.27	-1.66
+3	CTNNAL1	Symbol	8727	catenin (cadherin-associated protein), alpha-like 1						-1.77	-1.63	1.56
+3	CTNND2	Symbol	1501	catenin (cadherin-associated protein), delta 2 (neural plakophilin-related arm-repeat protein)						1.24	1.15	-1.91
+3	CTPS	Symbol	1503	CTP synthase						-1.11	1.39	1.59
+3	CTSC	Symbol	1075	cathepsin C						-1.07	1.09	1.725
+3	CUTC	Symbol	51076	cutC copper transporter homolog (E. coli)						1.18	1.27	1.55
+3	CYB5A	Symbol	1528	cytochrome b5 type A (microsomal)						1.22	1.33	1.5
+3	CYP2R1	Symbol	120227	cytochrome P450, family 2, subfamily R, polypeptide 1						1.76	1.96	1.71
+3	DDX21	Symbol	9188	DEAD (Asp-Glu-Ala-Asp) box polypeptide 21						1.08	1.49	1.7
+3	DDX47	Symbol	51202	DEAD (Asp-Glu-Ala-Asp) box polypeptide 47						1.155	1.48	1.72
+3	DEDD2	Symbol	162989	death effector domain containing 2						-1.51	-1.47	-1.53
+3	DENND2D	Symbol	79961	DENN/MADD domain containing 2D						-1.47	-1.3	-1.49
+3	DIDO1	Symbol	11083	death inducer-obliterator 1						-1.27	-1.32	-1.55
+3	DIO1	Symbol	1733	deiodinase, iodothyronine, type I						1.395	1.8	2.2
+3	DIP2C	Symbol	22982	DIP2 disco-interacting protein 2 homolog C (Drosophila)						1.01	-1.1	-1.52
+3	DKFZP564O0823	Symbol	25849	prostatic androgen-repressed message-1						1.05	1.64	2.57
+3	DKK1	Symbol	22943	dickkopf homolog 1 (Xenopus laevis)						-5.32	-2.74	-2.56
+3	DNPEP	Symbol	23549	aspartyl aminopeptidase						1.44	1.94	3.63
+3	DOCK1	Symbol	1793	dedicator of cytokinesis 1						-1.05	1.2	1.65
+3	DOCK8	Symbol	81704	dedicator of cytokinesis 8						1.12	1.55	2.03
+3	DOPEY2	Symbol	9980	dopey family member 2						1.99	2.23	1.99
+3	DSE	Symbol	29940	dermatan sulfate epimerase						-1.71	-1.92	-1.53
+3	EDC3	Symbol	80153	enhancer of mRNA decapping 3 homolog (S. cerevisiae)						-1.03	-1.13	-1.51
+3	EFEMP1	Symbol	2202	EGF-containing fibulin-like extracellular matrix protein 1						-1.505	-1.845	-2.065
+3	EIF3J	Symbol	8669	eukaryotic translation initiation factor 3, subunit J						1.09	1.72	1.84
+3	ELF5	Symbol	2001	E74-like factor 5 (ets domain transcription factor)						-1.22	-1.57	-1.97
+3	ENO3	Symbol	2027	enolase 3 (beta, muscle)						-1.07	-1.28	-1.65
+3	ENTPD3	Symbol	956	ectonucleoside triphosphate diphosphohydrolase 3						1.42	1.855	1.69
+3	ENTPD8	Symbol	377841	ectonucleoside triphosphate diphosphohydrolase 8						2.83	2.79	3.4
+3	EPB41L5	Symbol	57669	erythrocyte membrane protein band 4.1 like 5						-1.61	-1.735	-1.895
+3	EPHB3	Symbol	2049	EPH receptor B3						-1.51	-1.43	-1.59
+3	ERBB3	Symbol	2065	v-erb-b2 erythroblastic leukemia viral oncogene homolog 3 (avian)						1.26	-1.28	-2.31
+3	ERC2	Symbol	26059	ELKS/RAB6-interacting/CAST family member 2						-1.4	-1.27	-1.87
+3	ESR2	Symbol	2100	estrogen receptor 2 (ER beta)						-1.57	-1.32	-1.55
+3	EXOSC2	Symbol	23404	exosome component 2						1.42	1.6	1.54
+3	FAM111A	Symbol	63901	family with sequence similarity 111, member A						-1.35	-1.46	-1.51
+3	FAM131A	Symbol	131408	family with sequence similarity 131, member A						-1.54	-1.51	-1.66
+3	FAM189A1	Symbol	23359	family with sequence similarity 189, member A1						-1.53	-1.45	-1.71
+3	FAM46A	Symbol	55603	family with sequence similarity 46, member A						-1.18	1.37	1.81
+3	FAM46B	Symbol	115572	family with sequence similarity 46, member B						-2.64	-2.23	-2.02
+3	FAM49B	Symbol	51571	family with sequence similarity 49, member B						-1.215	1.035	1.75
+3	FAM83A	Symbol	84985	family with sequence similarity 83, member A						-1.675	-2.055	-2.33
+3	FAM86A	Symbol	196483	family with sequence similarity 86, member A						1.06	1.25	1.58
+3	FBN2	Symbol	2201	fibrillin 2						-1.28	-2.09	-2.28
+3	FGF13	Symbol	2258	fibroblast growth factor 13						-1.19	-1.45	-1.59
+3	FLJ41603	Symbol	389337	FLJ41603 protein						-1.39	-1.65	-1.93
+3	FLNB	Symbol	2317	filamin B, beta						1.83	2.39	2.17
+3	FLVCR2	Symbol	55640	feline leukemia virus subgroup C cellular receptor family, member 2						2.8	2.98	2.18
+3	FOXC1	Symbol	2296	forkhead box C1						4.19	2.68	1.76
+3	FUT4	Symbol	2526	fucosyltransferase 4 (alpha (1,3) fucosyltransferase, myeloid-specific)						2.76	2.32	2.07
+3	FXYD3	Symbol	5349	FXYD domain containing ion transport regulator 3						1.46	1.74	1.83
+3	FZD7	Symbol	8324	frizzled homolog 7 (Drosophila)						1.06	-1.33	-1.72
+3	GALNTL1	Symbol	57452	UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase-like 1						1.73	1.72	1.85
+3	GALT	Symbol	2592	galactose-1-phosphate uridylyltransferase						1.04	-1.17	-1.5
+3	GDPD3	Symbol	79153	glycerophosphodiester phosphodiesterase domain containing 3						-1.05	-1.19	-1.54
+3	GPATCH4	Symbol	54865	G patch domain containing 4						1.08	1.51	1.57
+3	GPR37L1	Symbol	9283	G protein-coupled receptor 37 like 1						1.86	2.21	2.09
+3	GPRC5A	Symbol	9052	G protein-coupled receptor, family C, group 5, member A						1.31	1.66	2.52
+3	GPSM1	Symbol	26086	G-protein signaling modulator 1 (AGS3-like, C. elegans)						1.56	1.88	1.5
+3	GRB10	Symbol	2887	growth factor receptor-bound protein 10						-1.14	-1.24	-1.55
+3	GREB1L	Symbol	80000	growth regulation by estrogen in breast cancer-like						1.47	1.98	1.69
+3	GSTM3	Symbol	2947	glutathione S-transferase mu 3 (brain)						1.91	1.77	1.96
+3	GSTZ1	Symbol	2954	glutathione transferase zeta 1						1.16	-1.17	-1.65
+3	GTF2IRD1	Symbol	9569	GTF2I repeat domain containing 1						-1.29	-1.63	-1.49
+3	GYG2	Symbol	8908	glycogenin 2						1.08	-1.18	-1.78
+3	H19	Symbol	283120	H19, imprinted maternally expressed transcript (non-protein coding)						2.63	3.58	3.51
+3	hCG_2038586	Symbol	646329	hypothetical LOC646329						-1.62	-1.24	-1.63
+3	HEG1	Symbol	57493	HEG homolog 1 (zebrafish)						3.61	3.69	3.6
+3	HEXIM2	Symbol	124790	hexamthylene bis-acetamide inducible 2						-1.22	-1.6	-1.66
+3	HIPK2	Symbol	28996	homeodomain interacting protein kinase 2						-1.07	1.2	1.5
+3	HK1	Symbol	3098	hexokinase 1						1.38	1.59	1.64
+3	HLA-DRB5	Symbol	3127	major histocompatibility complex, class II, DR beta 5						1.35	1.59	1.68
+3	HMG20B	Symbol	10362	high-mobility group 20B						-1.17	-1.24	-1.58
+3	HMGCL	Symbol	3155	3-hydroxymethyl-3-methylglutaryl-Coenzyme A lyase						-1.11	-1.19	-1.51
+3	HN1	Symbol	51155	hematological and neurological expressed 1						1.25	1.32	1.5
+3	HOMER2	Symbol	9455	homer homolog 2 (Drosophila)						1.275	1.75	2.43
+3	HOPX	Symbol	84525	HOP homeobox						-1.46	-1.36	-2
+3	HPDL	Symbol	84842	4-hydroxyphenylpyruvate dioxygenase-like						3.11	3.05	2.44
+3	HSPA12A	Symbol	259217	heat shock 70kDa protein 12A						-1.98	-2.48	-1.89
+3	HSPA4	Symbol	3308	heat shock 70kDa protein 4						-1.05	1.21	1.61
+3	HSPA5	Symbol	3309	heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa)						1.39	1.42	1.55
+3	ID3	Symbol	3399	inhibitor of DNA binding 3, dominant negative helix-loop-helix protein						-1.51	-1.35	-1.71
+3	IER3	Symbol	8870	immediate early response 3						-1.47	-1.77	-2.89
+3	IER5	Symbol	51278	immediate early response 5						-1.23	-1.33	-1.7
+3	IFNGR2	Symbol	3460	interferon gamma receptor 2 (interferon gamma transducer 1)						-1.48	-1.42	-1.49
+3	IFT122	Symbol	55764	intraflagellar transport 122 homolog (Chlamydomonas)						1.76	1.92	1.9
+3	IGFL1	Symbol	374918	IGF-like family member 1						1	1.32	2.02
+3	IGSF9	Symbol	57549	immunoglobulin superfamily, member 9						-1.61	-1.75	-1.56
+3	ILMN_1657996	PROBE_ID		Orphan_probe						-1.08	-1.47	-1.92
+3	ILMN_1661799	PROBE_ID		Orphan_probe						1.4	1.49	1.83
+3	ILMN_1667330	PROBE_ID		Orphan_probe						-1.26	-1.33	-1.62
+3	ILMN_1852384	PROBE_ID		Orphan_probe						-1.04	-1.23	1.69
+3	ILMN_1906187	PROBE_ID		Orphan_probe						1.26	1.1	-1.75
+3	ILMN_2387471	PROBE_ID		Orphan_probe						1.03	-1.41	-1.57
+3	INHBB	Symbol	3625	inhibin, beta B						1.66	1.59	1.53
+3	INO80B	Symbol	83444	INO80 complex subunit B						1.36	1.45	1.53
+3	INSIG2	Symbol	51141	insulin induced gene 2						1.01	1.43	1.54
+3	IRF6	Symbol	3664	interferon regulatory factor 6						-1.49	-1.39	-1.57
+3	IRF7	Symbol	3665	interferon regulatory factor 7						-1.32	-2.01	-1.89
+3	IRF9	Symbol	10379	interferon regulatory factor 9						-1.32	-1.61	-1.56
+3	IRX5	Symbol	10265	iroquois homeobox 5						-1.53	-1.83	-1.55
+3	ITGA5	Symbol	3678	integrin, alpha 5 (fibronectin receptor, alpha polypeptide)						-1.3	-1.64	-1.54
+3	ITGB4	Symbol	3691	integrin, beta 4						-1.14	-1.42	-2
+3	JAK2	Symbol	3717	Janus kinase 2						1.2	1.45	1.72
+3	JPH3	Symbol	57338	junctophilin 3						-1.11	-1.15	-1.72
+3	KANK1	Symbol	23189	KN motif and ankyrin repeat domains 1						1.29	1.46	1.66
+3	KCNK1	Symbol	3775	potassium channel, subfamily K, member 1						1.27	1.39	1.5
+3	KCNMA1	Symbol	3778	potassium large conductance calcium-activated channel, subfamily M, alpha member 1						1.03	1.08	2.53
+3	KCTD9	Symbol	54793	potassium channel tetramerisation domain containing 9						1.07	1.49	1.62
+3	KEAP1	Symbol	9817	kelch-like ECH-associated protein 1						-1.12	-1.12	-1.52
+3	KIAA0746	Symbol	23231	KIAA0746 protein						-1.41	-1.58	-1.58
+3	KIAA0922	Symbol	23240	KIAA0922						-1.43	-1.81	-1.76
+3	KIAA1467	Symbol	57613	KIAA1467						1.58	2	2.45
+3	KIF13B	Symbol	23303	kinesin family member 13B						1.67	1.66	1.82
+3	KLF4	Symbol	9314	Kruppel-like factor 4 (gut)						2.08	2.28	1.79
+3	KLF6	Symbol	1316	Kruppel-like factor 6						-1.11	-1.61	-1.61
+3	KLF9	Symbol	687	Kruppel-like factor 9						2.89	2.39	1.52
+3	KLHDC8B	Symbol	200942	kelch domain containing 8B						-1.23	-1.79	-1.66
+3	KLHDC9	Symbol	126823	kelch domain containing 9						1.09	-1.19	-1.68
+3	KLHL24	Symbol	54800	kelch-like 24 (Drosophila)						1.04	1.19	-1.72
+3	KLHL36	Symbol	79786	kelch-like 36 (Drosophila)						-1.47	-1.48	-1.6
+3	KREMEN2	Symbol	79412	kringle containing transmembrane protein 2						-1.35	-1.67	-1.62
+3	KYNU	Symbol	8942	kynureninase (L-kynurenine hydrolase)						-1.225	-1.815	-2.855
+3	LAMC1	Symbol	3915	laminin, gamma 1 (formerly LAMB2)						1.21	1.71	1.5
+3	LBX2	Symbol	85474	ladybird homeobox 2						-1.15	-1.48	-1.51
+3	LCP1	Symbol	3936	lymphocyte cytosolic protein 1 (L-plastin)						1.34	1.69	1.9
+3	LDHD	Symbol	197257	lactate dehydrogenase D						1.39	1.27	1.55
+3	LEPROT	Symbol	54741	leptin receptor overlapping transcript						-1.22	-1.44	-1.53
+3	LGALS8	Symbol	3964	lectin, galactoside-binding, soluble, 8						-1.61	-1.74	-1.99
+3	LITAF	Symbol	9516	lipopolysaccharide-induced TNF factor						-1.12	-1.22	-1.56
+3	LLGL1	Symbol	3996	lethal giant larvae homolog 1 (Drosophila)						-1.01	-1.23	-1.66
+3	LOC113230	Symbol	113230	hypothetical protein LOC113230						-1.27	-1.84	-1.62
+3	LOC149134	Symbol	149134	hypothetical LOC149134						-1.58	-1.68	-1.71
+3	LOC255783	Symbol	255783	hypothetical protein LOC255783						-1.19	-1.28	-1.55
+3	LOC286208	Symbol	286208	hypothetical LOC286208						1.05	-1.06	-1.59
+3	LOC389791	Symbol	389791	hypothetical LOC389791						-1.21	-1.08	-1.6
+3	LOC401397	Symbol	401397	hypothetical LOC401397						1.18	1.21	1.51
+3	LOC642852	Symbol	642852	hypothetical LOC642852						1.16	-1.16	-1.48
+3	LOC728342	Symbol	728342	hypothetical protein LOC728342						1.44	1.22	1.5
+3	LOC93622	Symbol	93622	hypothetical LOC93622						1.53	1.63	1.51
+3	LRIG1	Symbol	26018	leucine-rich repeats and immunoglobulin-like domains 1						1.96	2.37	2.235
+3	LRRC15	Symbol	131578	leucine rich repeat containing 15						1.77	1.81	1.77
+3	LRRC50	Symbol	123872	leucine rich repeat containing 50						3.56	4.59	3.94
+3	LRRC8D	Symbol	55144	leucine rich repeat containing 8 family, member D						1.01	1.06	1.51
+3	LYAR	Symbol	55646	Ly1 antibody reactive homolog (mouse)						1.24	1.55	1.53
+3	LYPD1	Symbol	116372	LY6/PLAUR domain containing 1						1.07	-1.2	-1.89
+3	MAD2L1	Symbol	4085	MAD2 mitotic arrest deficient-like 1 (yeast)						1.04	1.13	1.54
+3	MAP3K1	Symbol	4214	mitogen-activated protein kinase kinase kinase 1						1.81	2.02	2.4
+3	MAP3K5	Symbol	4217	mitogen-activated protein kinase kinase kinase 5						-2.09	-1.96	-1.52
+3	MARCKS	Symbol	4082	myristoylated alanine-rich protein kinase C substrate						1.2	1.32	1.73
+3	MARS2	Symbol	92935	methionyl-tRNA synthetase 2, mitochondrial						1.48	1.49	1.54
+3	MARVELD3	Symbol	91862	MARVEL domain containing 3						-1.18	-1.29	-1.64
+3	MB	Symbol	4151	myoglobin						1.55	1.87	1.66
+3	MBNL2	Symbol	10150	muscleblind-like 2 (Drosophila)						-1.045	1.175	1.765
+3	MBOAT1	Symbol	154141	membrane bound O-acyltransferase domain containing 1						3.08	3.3	2.54
+3	MC1R	Symbol	4157	melanocortin 1 receptor (alpha melanocyte stimulating hormone receptor)						-1.26	-1.65	-1.52
+3	MCCC1	Symbol	56922	methylcrotonoyl-Coenzyme A carboxylase 1 (alpha)						-1.2	-1.17	-1.69
+3	MCCC2	Symbol	64087	methylcrotonoyl-Coenzyme A carboxylase 2 (beta)						1.25	1.25	1.57
+3	MCM4	Symbol	4173	minichromosome maintenance complex component 4						1.3	1.27	1.51
+3	MCM5	Symbol	4174	minichromosome maintenance complex component 5						1.08	1.01	1.54
+3	MCOLN3	Symbol	55283	mucolipin 3						-1.01	-1.29	-1.5
+3	METTL7B	Symbol	196410	methyltransferase like 7B						-1.1	-1.05	1.75
+3	MID1IP1	Symbol	58526	MID1 interacting protein 1 (gastrulation specific G12 homolog (zebrafish))						2.24	2.555	2.41
+3	MITF	Symbol	4286	microphthalmia-associated transcription factor						-1.16	1.39	2.01
+3	MMD	Symbol	23531	monocyte to macrophage differentiation-associated						-1.61	-1.86	-1.57
+3	MPZL2	Symbol	10205	myelin protein zero-like 2						-1.58	-1.66	-2.03
+3	MTCP1	Symbol	4515	mature T-cell proliferation 1						1.36	1.52	1.79
+3	MTRR	Symbol	4552	5-methyltetrahydrofolate-homocysteine methyltransferase reductase						1	1.24	1.5
+3	MX1	Symbol	4599	myxovirus (influenza virus) resistance 1, interferon-inducible protein p78 (mouse)						-1.24	-1.56	-1.84
+3	MXD4	Symbol	10608	MAX dimerization protein 4						-1.04	-1.34	-1.98
+3	MYH9	Symbol	4627	myosin, heavy chain 9, non-muscle						1.29	1.64	1.55
+3	MYPN	Symbol	84665	myopalladin						1.04	1.35	1.84
+3	NANS	Symbol	54187	N-acetylneuraminic acid synthase						1.14	1.59	1.66
+3	NBEA	Symbol	26960	neurobeachin						-1.09	-1.27	-1.52
+3	NBL1	Symbol	4681	neuroblastoma, suppression of tumorigenicity 1						1.55	1.58	1.965
+3	NBPF1	Symbol	55672	neuroblastoma breakpoint family, member 1						2.415	1.97	1.905
+3	NECAP2	Symbol	55707	NECAP endocytosis associated 2						-1.21	-1.39	-1.65
+3	NFKBIE	Symbol	4794	nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, epsilon						-1.46	-1.39	-1.62
+3	NHS	Symbol	4810	Nance-Horan syndrome (congenital cataracts and dental anomalies)						-1.48	-1.74	-1.64
+3	NKD2	Symbol	85409	naked cuticle homolog 2 (Drosophila)						1.8	1.86	1.57
+3	NKX3-2	Symbol	579	NK3 homeobox 2						-1.37	-1.3	-1.54
+3	NOMO1	Symbol	23420	NODAL modulator 1						1.14	1.2	1.54
+3	NOP16	Symbol	51491	NOP16 nucleolar protein homolog (yeast)						1.32	1.72	1.59
+3	NOP58	Symbol	51602	NOP58 ribonucleoprotein homolog (yeast)						1.37	1.46	1.58
+3	NOTCH3	Symbol	4854	Notch homolog 3 (Drosophila)						-1.15	-1.55	-1.71
+3	NPAS3	Symbol	64067	neuronal PAS domain protein 3						-1.15	-1.26	-1.83
+3	NPHP3	Symbol	27031	nephronophthisis 3 (adolescent)						-1.29	-1.5	-1.57
+3	NR1H3	Symbol	10062	nuclear receptor subfamily 1, group H, member 3						-1.13	-1.43	-1.76
+3	NUSAP1	Symbol	51203	nucleolar and spindle associated protein 1						1.02	-1.27	-1.53
+3	OCIAD2	Symbol	132299	OCIA domain containing 2						1.26	1.58	1.61
+3	OGFOD1	Symbol	55239	2-oxoglutarate and iron-dependent oxygenase domain containing 1						1.69	1.53	1.52
+3	OGFR	Symbol	11054	opioid growth factor receptor						-1.11	-1.12	-1.57
+3	OPA3	Symbol	80207	optic atrophy 3 (autosomal recessive, with chorea and spastic paraplegia)						-1.255	-1.585	-2.155
+3	OPN3	Symbol	23596	opsin 3						1.23	1.66	2.245
+3	OPRL1	Symbol	4987	opiate receptor-like 1						-1.05	-1.54	-1.73
+3	OPTN	Symbol	10133	optineurin						-1.42	-1.47	-1.69
+3	OTUD6B	Symbol	51633	OTU domain containing 6B						1.09	1.38	1.7
+3	P2RY6	Symbol	5031	pyrimidinergic receptor P2Y, G-protein coupled, 6						-1.36	-1.68	-1.66
+3	PACSIN1	Symbol	29993	protein kinase C and casein kinase substrate in neurons 1						1.04	-1.45	-1.99
+3	PALM	Symbol	5064	paralemmin						1.05	-1.3	-1.83
+3	PANX2	Symbol	56666	pannexin 2						-1.19	-1.34	-1.6
+3	PAQR8	Symbol	85315	progestin and adipoQ receptor family member VIII						1.12	1.33	1.5
+3	PARP14	Symbol	54625	poly (ADP-ribose) polymerase family, member 14						-1.5	-1.56	-1.49
+3	PC	Symbol	5091	pyruvate carboxylase						-1.25	-1.48	-2.06
+3	PCDH17	Symbol	27253	protocadherin 17						-1.03	-1.95	-1.87
+3	PCDH19	Symbol	57526	protocadherin 19						-1.01	-1.04	1.79
+3	PCDH9	Symbol	5101	protocadherin 9						-1.37	-1.3	-2.86
+3	PCDHB16	Symbol	57717	protocadherin beta 16						1.1	1.09	1.51
+3	PCNA	Symbol	5111	proliferating cell nuclear antigen						1.18	-1.03	1.59
+3	PCNX	Symbol	22990	pecanex homolog (Drosophila)						-1.43	-1.64	-1.53
+3	PDLIM1	Symbol	9124	PDZ and LIM domain 1						1.57	1.68	1.68
+3	PDSS1	Symbol	23590	prenyl (decaprenyl) diphosphate synthase, subunit 1						1.03	1.26	1.53
+3	PFKFB3	Symbol	5209	6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 3						2.96	2.75	1.78
+3	PHGDH	Symbol	26227	phosphoglycerate dehydrogenase						-1.05	-1.4	-1.58
+3	PHLDB3	Symbol	653583	pleckstrin homology-like domain, family B, member 3						-1.53	-1.24	-1.58
+3	PIAS3	Symbol	10401	protein inhibitor of activated STAT, 3						-1.52	-1.57	-1.68
+3	PIAS4	Symbol	51588	protein inhibitor of activated STAT, 4						-1.82	-1.76	-1.57
+3	PID1	Symbol	55022	phosphotyrosine interaction domain containing 1						-1.09	-1.52	-1.83
+3	PIK3IP1	Symbol	113791	phosphoinositide-3-kinase interacting protein 1						-1.05	-1.3	-1.57
+3	PIM1	Symbol	5292	pim-1 oncogene						4.72	2.8	2.09
+3	PIP4K2A	Symbol	5305	phosphatidylinositol-5-phosphate 4-kinase, type II, alpha						1.49	1.54	1.62
+3	PIR	Symbol	8544	pirin (iron-binding nuclear protein)						-1.21	-1.47	-1.55
+3	PITPNC1	Symbol	26207	phosphatidylinositol transfer protein, cytoplasmic 1						1.015	1.68	1.82
+3	PLA2G16	Symbol	11145	phospholipase A2, group XVI						2.25	3.04	3.4
+3	PLA2G4C	Symbol	8605	phospholipase A2, group IVC (cytosolic, calcium-independent)						-1.12	-1.48	-1.74
+3	PLA2G4F	Symbol	255189	phospholipase A2, group IVF						-1.35	-1.47	-1.58
+3	PLCG2	Symbol	5336	phospholipase C, gamma 2 (phosphatidylinositol-specific)						-1.34	-1.49	-1.58
+3	PLEKHF2	Symbol	79666	pleckstrin homology domain containing, family F (with FYVE domain) member 2						1.24	1.51	1.64
+3	PLEKHG4	Symbol	25894	pleckstrin homology domain containing, family G (with RhoGef domain) member 4						-1.09	-1.28	-1.53
+3	PLEKHN1	Symbol	84069	pleckstrin homology domain containing, family N member 1						-1.23	-1.32	-1.73
+3	PLXDC2	Symbol	84898	plexin domain containing 2						-1.12	-1.31	-1.56
+3	PMP22	Symbol	5376	peripheral myelin protein 22						-1.07	-1.75	-2.29
+3	PNMA1	Symbol	9240	paraneoplastic antigen MA1						1.07	1.08	1.65
+3	POLR1B	Symbol	84172	polymerase (RNA) I polypeptide B, 128kDa						1.68	1.85	1.82
+3	PPAP2B	Symbol	8613	phosphatidic acid phosphatase type 2B						-1.83	-2.07	-1.93
+3	PPFIBP2	Symbol	8495	PTPRF interacting protein, binding protein 2 (liprin beta 2)						1.28	1.53	1.61
+3	PPP2R2C	Symbol	5522	protein phosphatase 2 (formerly 2A), regulatory subunit B, gamma isoform						1.1	1.365	1.62
+3	PRIC285	Symbol	85441	peroxisomal proliferator-activated receptor A interacting complex 285						-1.63	-1.81	-2.18
+3	PRKRIP1	Symbol	79706	PRKR interacting protein 1 (IL11 inducible)						-1.02	-1.17	-1.52
+3	PROM2	Symbol	150696	prominin 2						-1.09	-1.21	-1.55
+3	PRPF31	Symbol	26121	PRP31 pre-mRNA processing factor 31 homolog (S. cerevisiae)						1.29	1.15	1.7
+3	PRPS1	Symbol	5631	phosphoribosyl pyrophosphate synthetase 1						-1.41	-1.39	-1.58
+3	PRRT2	Symbol	112476	proline-rich transmembrane protein 2						-1.38	-1.62	-2.39
+3	PSTPIP2	Symbol	9050	proline-serine-threonine phosphatase interacting protein 2						1.12	1.45	1.56
+3	PTGER3	Symbol	5733	prostaglandin E receptor 3 (subtype EP3)						1.07	1.35	2.26
+3	PTGES	Symbol	9536	prostaglandin E synthase						2.09	2.1	1.96
+3	PTRH1	Symbol	138428	peptidyl-tRNA hydrolase 1 homolog (S. cerevisiae)						1.22	1.35	1.59
+3	PVT1	Symbol	5820	Pvt1 oncogene (non-protein coding)						2.4	2.34	1.84
+3	PYCARD	Symbol	29108	PYD and CARD domain containing						-1.12	-1.44	-1.57
+3	QSOX1	Symbol	5768	quiescin Q6 sulfhydryl oxidase 1						3.38	2.97	1.84
+3	RAB15	Symbol	376267	RAB15, member RAS onocogene family						1.59	1.69	1.59
+3	RAB18	Symbol	22931	RAB18, member RAS oncogene family						1.08	1.29	1.7
+3	RAB37	Symbol	326624	RAB37, member RAS oncogene family						1.68	1.57	2.26
+3	RAB4B	Symbol	53916	RAB4B, member RAS oncogene family						-1.24	-1.3	-1.54
+3	RAB5B	Symbol	5869	RAB5B, member RAS oncogene family						1.01	-1.16	-1.49
+3	RAD21	Symbol	5885	RAD21 homolog (S. pombe)						-1.21	-1.43	-1.65
+3	RAD23B	Symbol	5887	RAD23 homolog B (S. cerevisiae)						1.48	1.46	1.94
+3	RALGDS	Symbol	5900	ral guanine nucleotide dissociation stimulator						1.27	1.18	-1.74
+3	RAPGEF6	Symbol	51735	Rap guanine nucleotide exchange factor (GEF) 6						-1.48	-1.56	-1.63
+3	RASA3	Symbol	22821	RAS p21 protein activator 3						1.95	1.77	1.63
+3	RBM24	Symbol	221662	RNA binding motif protein 24						1.55	1.93	2.09
+3	RBM4B	Symbol	83759	RNA binding motif protein 4B						-1.23	-1.51	-1.65
+3	RELB	Symbol	5971	v-rel reticuloendotheliosis viral oncogene homolog B						-1.96	-1.98	-1.9
+3	RGS16	Symbol	6004	regulator of G-protein signaling 16						2.27	2.24	2.42
+3	RHOB	Symbol	388	ras homolog gene family, member B						1.86	2.03	2.3
+3	RHOBTB2	Symbol	23221	Rho-related BTB domain containing 2						-1.29	-1.44	-1.62
+3	RHOBTB3	Symbol	22836	Rho-related BTB domain containing 3						1.26	1.55	1.59
+3	RHPN2	Symbol	85415	rhophilin, Rho GTPase binding protein 2						1.34	1.62	2.06
+3	RMI1	Symbol	80010	RMI1, RecQ mediated genome instability 1, homolog (S. cerevisiae)						1.02	1.28	1.55
+3	RNF170	Symbol	81790	ring finger protein 170						1.25	1.46	1.56
+3	RNF39	Symbol	80352	ring finger protein 39						-1.86	-1.42	-1.63
+3	RP1-21O18.1	Symbol	23254	kazrin						1.755	1.98	1.755
+3	RPL13	Symbol	6137	ribosomal protein L13						1.245	1.245	1.57
+3	RPL23AP42	Symbol	647099	ribosomal protein L23a pseudogene 42						1.45	1.34	1.52
+3	RPL7A	Symbol	6130	ribosomal protein L7a						1.34	1.45	1.91
+3	RPP40	Symbol	10799	ribonuclease P/MRP 40kDa subunit						1.1	1.29	1.6
+3	RPS12	Symbol	6206	ribosomal protein S12						1.36	1.58	1.71
+3	RPS6KA5	Symbol	9252	ribosomal protein S6 kinase, 90kDa, polypeptide 5						2.16	1.96	1.55
+3	RRP1B	Symbol	23076	ribosomal RNA processing 1 homolog B (S. cerevisiae)						1.2	1.47	1.52
+3	RUSC2	Symbol	9853	RUN and SH3 domain containing 2						1.9	1.95	1.94
+3	S100P	Symbol	6286	S100 calcium binding protein P						1.47	1.66	2.23
+3	S1PR3	Symbol	1903	sphingosine-1-phosphate receptor 3						-1.96	-2.54	-2.22
+3	SAFB	Symbol	6294	scaffold attachment factor B						-1.09	-1.23	-1.49
+3	SASH1	Symbol	23328	SAM and SH3 domain containing 1						1.41	1.93	1.52
+3	SAT1	Symbol	6303	spermidine/spermine N1-acetyltransferase 1						1.14	1.55	1.57
+3	SC65	Symbol	10609	synaptonemal complex protein SC65						1.84	1.69	1.68
+3	SCCPDH	Symbol	51097	saccharopine dehydrogenase (putative)						-1.17	-1.38	-1.635
+3	SCML2	Symbol	10389	sex comb on midleg-like 2 (Drosophila)						-2.85	-2.41	-1.84
+3	SDCBP	Symbol	6386	syndecan binding protein (syntenin)						-1.07	1.17	1.56
+3	SEC14L2	Symbol	23541	SEC14-like 2 (S. cerevisiae)						3.17	4.35	2.3
+3	SELT	Symbol	51714	selenoprotein T						1.01	1.13	1.6
+3	SEMA3B	Symbol	7869	sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3B						2.465	3.385	4.28
+3	SEPT5	Symbol	5413	septin 5						-1.26	-1.41	-1.63
+3	SEPT9	Symbol	10801	septin 9						1.3	1.73	2.07
+3	SERPINA3	Symbol	12	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 3						1.12	1.21	2.69
+3	SERPINA5	Symbol	5104	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5						1.44	1.44	1.93
+3	SGK1	Symbol	6446	serum/glucocorticoid regulated kinase 1						5.63	3.36	2.71
+3	SGSM1	Symbol	129049	small G protein signaling modulator 1						-1.36	-1.87	-1.84
+3	SH2D3A	Symbol	10045	SH2 domain containing 3A						-1.32	-1.47	-1.6
+3	SH2D4A	Symbol	63898	SH2 domain containing 4A						-1.42	-1.85	-2.06
+3	SHANK2	Symbol	22941	SH3 and multiple ankyrin repeat domains 2						1.42	1.53	1.79
+3	SHROOM2	Symbol	357	shroom family member 2						1.18	-1.05	-1.83
+3	SIDT2	Symbol	51092	SID1 transmembrane family, member 2						1.51	1.88	1.65
+3	SIGIRR	Symbol	59307	single immunoglobulin and toll-interleukin 1 receptor (TIR) domain						-1.01	-1.31	-1.83
+3	SIX5	Symbol	147912	SIX homeobox 5						-1.17	-1.44	-1.8
+3	SLC16A6	Symbol	9120	solute carrier family 16, member 6 (monocarboxylic acid transporter 7)						3.03	3.55	4.3
+3	SLC19A1	Symbol	6573	solute carrier family 19 (folate transporter), member 1						1.35	1.56	1.67
+3	SLC25A16	Symbol	8034	solute carrier family 25 (mitochondrial carrier; Graves disease autoantigen), member 16						1.21	1.12	1.66
+3	SLC25A29	Symbol	123096	solute carrier family 25, member 29						-1.43	-1.84	-1.76
+3	SLC27A3	Symbol	11000	solute carrier family 27 (fatty acid transporter), member 3						-1.16	-1.37	-1.54
+3	SLC2A10	Symbol	81031	solute carrier family 2 (facilitated glucose transporter), member 10						-1.23	-1.53	-1.62
+3	SLC2A4RG	Symbol	56731	SLC2A4 regulator						-1.04	-1.37	-1.56
+3	SLC30A6	Symbol	55676	solute carrier family 30 (zinc transporter), member 6						1.59	1.44	1.61
+3	SLC37A3	Symbol	84255	solute carrier family 37 (glycerol-3-phosphate transporter), member 3						1.245	1.83	1.985
+3	SLC41A2	Symbol	84102	solute carrier family 41, member 2						-1.43	-1.57	-1.52
+3	SLC7A5	Symbol	8140	solute carrier family 7 (cationic amino acid transporter, y+ system), member 5						1.68	2.04	1.54
+3	SLC9A2	Symbol	6549	solute carrier family 9 (sodium/hydrogen exchanger), member 2						1.35	1.74	1.76
+3	SMAD6	Symbol	4091	SMAD family member 6						-1.28	-2.23	-2.17
+3	SMARCA2	Symbol	6595	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 2						1.27	1.58	1.62
+3	SMYD2	Symbol	56950	SET and MYND domain containing 2						-1.01	-1.19	-1.49
+3	SNORD31	Symbol	9298	small nucleolar RNA, C/D box 31						1.47	1.62	2.05
+3	SNTB2	Symbol	6645	syntrophin, beta 2 (dystrophin-associated protein A1, 59kDa, basic component 2)						-1.44	-1.68	-1.725
+3	SOCS3	Symbol	9021	suppressor of cytokine signaling 3						1.5	1.44	1.61
+3	SOX13	Symbol	9580	SRY (sex determining region Y)-box 13						-1.05	-1.35	-1.63
+3	SOX18	Symbol	54345	SRY (sex determining region Y)-box 18						1.2	-1.87	-1.86
+3	SOX9	Symbol	6662	SRY (sex determining region Y)-box 9						1.39	1.62	1.6
+3	SPTBN2	Symbol	6712	spectrin, beta, non-erythrocytic 2						1.17	1.38	1.52
+3	SQSTM1	Symbol	8878	sequestosome 1						-1.17	-1.42	-1.6
+3	SRPK1	Symbol	6732	SFRS protein kinase 1						1.02	1.25	1.63
+3	SSBP2	Symbol	23635	single-stranded DNA binding protein 2						-1.22	-1.58	-1.7
+3	ST6GALNAC4	Symbol	27090	ST6 (alpha-N-acetyl-neuraminyl-2,3-beta-galactosyl-1,3)-N-acetylgalactosaminide alpha-2,6-sialyltransferase 4						1.43	1.53	1.53
+3	STAT4	Symbol	6775	signal transducer and activator of transcription 4						1	-1.24	-1.84
+3	STRADB	Symbol	55437	STE20-related kinase adaptor beta						-1.39	-1.47	-1.6
+3	STX5	Symbol	6811	syntaxin 5						-1.2	-1.29	-1.64
+3	SULT2B1	Symbol	6820	sulfotransferase family, cytosolic, 2B, member 1						1.64	1.91	2.055
+3	SUOX	Symbol	6821	sulfite oxidase						-1.505	-1.99	-1.69
+3	TAX1BP3	Symbol	30851	Tax1 (human T-cell leukemia virus type I) binding protein 3						-1.22	-1.26	-1.6
+3	TBC1D4	Symbol	9882	TBC1 domain family, member 4						-1.19	1.28	1.59
+3	TCEAL1	Symbol	9338	transcription elongation factor A (SII)-like 1						1.37	1.49	1.55
+3	TCF12	Symbol	6938	transcription factor 12						-1.2	-1.13	1.64
+3	TFAP2C	Symbol	7022	transcription factor AP-2 gamma (activating enhancer binding protein 2 gamma)						1.68	1.715	1.75
+3	TFPI	Symbol	7035	tissue factor pathway inhibitor (lipoprotein-associated coagulation inhibitor)						-1.19	-1.36	-1.55
+3	TGFB2	Symbol	7042	transforming growth factor, beta 2						-1.51	-1.78	-1.92
+3	TGM2	Symbol	7052	transglutaminase 2 (C polypeptide, protein-glutamine-gamma-glutamyltransferase)						2.31	3.7	3.75
+3	THBS1	Symbol	7057	thrombospondin 1						-1.87	-1.65	-1.53
+3	THNSL2	Symbol	55258	threonine synthase-like 2 (S. cerevisiae)						-1.02	-1.32	-1.58
+3	TIMP3	Symbol	7078	TIMP metallopeptidase inhibitor 3						1.48	1.56	1.69
+3	TIPARP	Symbol	25976	TCDD-inducible poly(ADP-ribose) polymerase						6.75	3.87	1.91
+3	TIPIN	Symbol	54962	TIMELESS interacting protein						1.09	1.18	1.82
+3	TLN2	Symbol	83660	talin 2						1.32	-1.1	-1.56
+3	TM2D1	Symbol	83941	TM2 domain containing 1						1.22	1.245	1.59
+3	TMEM125	Symbol	128218	transmembrane protein 125						-1.32	-1.9	-1.66
+3	TMEM198	Symbol	130612	transmembrane protein 198						1.09	1.47	1.69
+3	TMEM42	Symbol	131616	transmembrane protein 42						-1.04	-1.39	-1.67
+3	TMEM44	Symbol	93109	transmembrane protein 44						-1.085	-1.18	-1.52
+3	TMEM63A	Symbol	9725	transmembrane protein 63A						1.07	1.27	1.64
+3	TMEM70	Symbol	54968	transmembrane protein 70						1.23	1.32	1.56
+3	TMEM79	Symbol	84283	transmembrane protein 79						-1.64	-1.84	-1.68
+3	TMEM91	Symbol	641649	transmembrane protein 91						-1.37	-1.4	-1.57
+3	TNFRSF21	Symbol	27242	tumor necrosis factor receptor superfamily, member 21						-2.72	-2.54	-1.53
+3	TNIP1	Symbol	10318	TNFAIP3 interacting protein 1						1.04	-1.34	-1.5
+3	TOR1AIP1	Symbol	26092	torsin A interacting protein 1						1.1	1.3	1.58
+3	TOX2	Symbol	84969	TOX high mobility group box family member 2						-1.31	-1.8	-1.56
+3	TRAK1	Symbol	22906	trafficking protein, kinesin binding 1						1.28	1.6366666667	1.8633333333
+3	TSPAN9	Symbol	10867	tetraspanin 9						-1.11	-1.45	-1.77
+3	TUBB3	Symbol	10381	tubulin, beta 3						-1.88	-2.47	-2.1
+3	TYRO3	Symbol	7301	TYRO3 protein tyrosine kinase						-1.05	-1.35	-1.51
+3	UBE2L6	Symbol	9246	ubiquitin-conjugating enzyme E2L 6						-1.1	-1.2	-1.55
+3	UBN1	Symbol	29855	ubinuclein 1						-1.26	-1.17	-1.52
+3	UBTD1	Symbol	80019	ubiquitin domain containing 1						-1.02	-1.44	-1.57
+3	UGDH	Symbol	7358	UDP-glucose dehydrogenase						1.03	1.27	1.6
+3	UNKL	Symbol	64718	unkempt homolog (Drosophila)-like						-1.11	-1.22	-1.56
+3	UPP1	Symbol	7378	uridine phosphorylase 1						-1.19	-1.55	-1.94
+3	VAV2	Symbol	7410	vav 2 guanine nucleotide exchange factor						1.11	-1.01	-1.49
+3	VDR	Symbol	7421	vitamin D (1,25- dihydroxyvitamin D3) receptor						1.6	2.01	1.63
+3	VEGFC	Symbol	7424	vascular endothelial growth factor C						-1.53	-1.52	-1.52
+3	VPS54	Symbol	51542	vacuolar protein sorting 54 homolog (S. cerevisiae)						-1.49	-1.44	-1.5
+3	VRK1	Symbol	7443	vaccinia related kinase 1						1.14	1.16	1.58
+3	WBP4	Symbol	11193	WW domain binding protein 4 (formin binding protein 21)						1.51	1.54	1.51
+3	WDR43	Symbol	23160	WD repeat domain 43						1.2	1.56	1.66
+3	WFS1	Symbol	7466	Wolfram syndrome 1 (wolframin)						2.29	2.09	1.62
+3	WIPI1	Symbol	55062	WD repeat domain, phosphoinositide interacting 1						1.02	1.54	1.74
+3	WWC3	Symbol	55841	WWC family member 3						1.17	1.55	1.67
+3	ZBED4	Symbol	9889	zinc finger, BED-type containing 4						2.2	1.96	1.59
+3	ZBTB4	Symbol	57659	zinc finger and BTB domain containing 4						1.03	-1.03	-1.49
+3	ZBTB46	Symbol	140685	zinc finger and BTB domain containing 46						-1.26	-1.51	-1.63
+3	ZCWPW1	Symbol	55063	zinc finger, CW type with PWWP domain 1						-1.05	-1.22	-1.86
+3	ZMYM6	Symbol	9204	zinc finger, MYM-type 6						-1.18	-1.55	-1.5
+3	ZNF20	Symbol	7568	zinc finger protein 20						-1.45	-1.3	-1.67
+3	ZNF217	Symbol	7764	zinc finger protein 217						-1.84	-1.18	-1.7
+3	ZNF30	Symbol	90075	zinc finger protein 30						1.72	1.41	1.51
+3	ZNF362	Symbol	149076	zinc finger protein 362						1.09	-1.15	-1.65
+3	ZNF385A	Symbol	25946	zinc finger protein 385A						1.18	1.27	1.6
+3	ZNF462	Symbol	58499	zinc finger protein 462						1.38	2.39	2.65
+3	ZNF585A	Symbol	199704	zinc finger protein 585A						-1.45	-1.15	-1.49
+3	ZNF703	Symbol	80139	zinc finger protein 703						1.56	1.7	1.64
+3	ZNF823	Symbol	55552	zinc finger protein 823						2.67	1.9	1.7
+3	ZNF830	Symbol	91603	zinc finger protein 830						-1.28	-1.15	-1.54
+3	ZSWIM3	Symbol	140831	zinc finger, SWIM-type containing 3						-1.82	-1.36	-1.51

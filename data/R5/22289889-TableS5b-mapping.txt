@@ -1,0 +1,55 @@
+# Generate Mapping Tables Script: Version 4 11:03 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:03 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+affy_hg_u133_plus_2|221350_at|221350_at	unigene|Hs.664500|Hs.664500	hgnc_symbol|HOXC8|HOXC8
+affy_hg_u133_plus_2|221660_at|221660_at	unigene|Hs.247831|Hs.247831	hgnc_symbol|MYLC2PL|MYLC2PL
+affy_hg_u133_plus_2|1554428_s_at|1554428_s_at	unigene|Hs.26229|Hs.26229	hgnc_symbol|NLGN2|NLGN2
+affy_hg_u133_plus_2|209057_x_at|209057_x_at	unigene|Hs.485471|Hs.485471	hgnc_symbol|CDC5L|CDC5L
+affy_hg_u133_plus_2|1567913_at|1567913_at	unigene|Hs.621508|Hs.621508
+affy_hg_u133_plus_2|228312_at|228312_at	unigene|Hs.25391|Hs.25391	hgnc_symbol|PI16|PI16
+affy_hg_u133_plus_2|224375_at|224375_at
+affy_hg_u133_plus_2|234225_at|234225_at
+affy_hg_u133_plus_2|216246_at|216246_at
+affy_hg_u133_plus_2|201205_at|201205_at
+affy_hg_u133_plus_2|228208_x_at|228208_x_at	unigene|Hs.709873|Hs.709873	hgnc_symbol|ZNF354C|ZNF354C
+affy_hg_u133_plus_2|1563431_x_at|1563431_x_at	unigene|Hs.713288|Hs.713288
+affy_hg_u133_plus_2|218565_at|218565_at	unigene|Hs.224137|Hs.224137	hgnc_symbol|C9orf114|C9orf114
+affy_hg_u133_plus_2|213048_s_at|213048_s_at
+affy_hg_u133_plus_2|213002_at|213002_at	hgnc_symbol|MARCKS|MARCKS
+affy_hg_u133_plus_2|211454_x_at|211454_x_at	hgnc_symbol|FKSG49|FKSG49
+affy_hg_u133_plus_2|212952_at|212952_at	unigene|Hs.593218|Hs.593218
+affy_hg_u133_plus_2|219138_at|219138_at	unigene|Hs.446522|Hs.446522	hgnc_symbol|RPL14|RPL14
+affy_hg_u133_plus_2|214001_x_at|214001_x_at	unigene|Hs.406620|Hs.406620
+affy_hg_u133_plus_2|214395_x_at|214395_x_at	unigene|Hs.707453|Hs.707453
+affy_hg_u133_plus_2|212953_x_at|212953_x_at	unigene|Hs.515162|Hs.515162	hgnc_symbol|CALR|CALR
+affy_hg_u133_plus_2|209972_s_at|209972_s_at	unigene|Hs.301613|Hs.301613	hgnc_symbol|JTV1|JTV1
+affy_hg_u133_plus_2|228204_at|228204_at	unigene|Hs.89545|Hs.89545	hgnc_symbol|PSMB4|PSMB4
+affy_hg_u133_plus_2|201774_s_at|201774_s_at	unigene|Hs.5719|Hs.5719	hgnc_symbol|NCAPD2|NCAPD2
+affy_hg_u133_plus_2|213979_s_at|213979_s_at	unigene|Hs.208597|Hs.208597	hgnc_symbol|CTBP1|CTBP1
+affy_hg_u133_plus_2|202648_at|202648_at
+affy_hg_u133_plus_2|201171_at|201171_at	unigene|Hs.484188|Hs.484188	hgnc_symbol|ATP6V0E1|ATP6V0E1
+affy_hg_u133_plus_2|221995_s_at|221995_s_at
+affy_hg_u133_plus_2|214315_x_at|214315_x_at	unigene|Hs.515162|Hs.515162	hgnc_symbol|CALR|CALR
+affy_hg_u133_plus_2|216554_s_at|216554_s_at
+affy_hg_u133_plus_2|222027_at|222027_at	unigene|Hs.213061|Hs.213061	hgnc_symbol|NUCKS1|NUCKS1
+affy_hg_u133_plus_2|212044_s_at|212044_s_at	unigene|Hs.523463|Hs.523463	hgnc_symbol|RPL27A|RPL27A
+affy_hg_u133_plus_2|213813_x_at|213813_x_at
+affy_hg_u133_plus_2|213736_at|213736_at	unigene|Hs.1342|Hs.1342	hgnc_symbol|COX5B|COX5B
+affy_hg_u133_plus_2|229420_at|229420_at	unigene|Hs.632573|Hs.632573
+affy_hg_u133_plus_2|202028_s_at|202028_s_at	unigene|Hs.380953|Hs.380953	hgnc_symbol|RPL38|RPL38
+affy_hg_u133_plus_2|221943_x_at|221943_x_at	unigene|Hs.380953|Hs.380953	hgnc_symbol|RPL38|RPL38
+affy_hg_u133_plus_2|222968_at|222968_at
+affy_hg_u133_plus_2|231387_at|231387_at	unigene|Hs.712966|Hs.712966
+affy_hg_u133_plus_2|213642_at|213642_at
+affy_hg_u133_plus_2|214041_x_at|214041_x_at	unigene|Hs.433701|Hs.433701	hgnc_symbol|RPL37A|RPL37A
+affy_hg_u133_plus_2|213875_x_at|213875_x_at	unigene|Hs.519930|Hs.519930	hgnc_symbol|C6orf62|C6orf62
+affy_hg_u133_plus_2|234464_s_at|234464_s_at	unigene|Hs.514330|Hs.514330	hgnc_symbol|EME1|EME1
+affy_hg_u133_plus_2|224321_at|224321_at	unigene|Hs.144513|Hs.144513	hgnc_symbol|TMEFF2|TMEFF2
+affy_hg_u133_plus_2|230750_at|230750_at	unigene|Hs.594199|Hs.594199
+affy_hg_u133_plus_2|224346_at|224346_at
+affy_hg_u133_plus_2|1556316_s_at|1556316_s_at	unigene|Hs.707281|Hs.707281	hgnc_symbol|LOC284889 /// MIF|LOC284889 /// MIF
+affy_hg_u133_plus_2|213350_at|213350_at	unigene|Hs.433529|Hs.433529	hgnc_symbol|RPS11|RPS11
+affy_hg_u133_plus_2|229538_s_at|229538_s_at	unigene|Hs.591495|Hs.591495	hgnc_symbol|IQGAP3|IQGAP3

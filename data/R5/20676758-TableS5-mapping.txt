@@ -1,0 +1,115 @@
+# Generate Mapping Tables Script: Version 4 11:06 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:06 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+entrezgene|5047|5047	hgnc_symbol|PAEP|PAEP
+entrezgene|145264|145264	hgnc_symbol|SERPINA12|SERPINA12
+entrezgene|647955|647955
+entrezgene|340168|340168	hgnc_symbol|DPPA5|DPPA5
+entrezgene|56130|56130	hgnc_symbol|PCDHB6|PCDHB6
+entrezgene|642044|642044
+entrezgene|643965|643965	hgnc_symbol|TMEM88B|TMEM88B
+entrezgene|9113|9113	hgnc_symbol|LATS1|LATS1
+entrezgene|390649|390649	hgnc_symbol|OR4F15|OR4F15
+entrezgene|149647|149647	hgnc_symbol|FAM71A|FAM71A
+entrezgene|4601|4601	hgnc_symbol|MXI1|MXI1
+entrezgene|220929|220929	hgnc_symbol|ZNF438|ZNF438
+entrezgene|221938|221938	hgnc_symbol|MMD2|MMD2
+entrezgene|9421|9421	hgnc_symbol|HAND1|HAND1
+entrezgene|54876|54876	hgnc_symbol|DCAF16|DCAF16
+entrezgene|282775|282775	hgnc_symbol|OR5J2|OR5J2
+entrezgene|652673|652673
+entrezgene|3933|3933	hgnc_symbol|LCN1|LCN1
+entrezgene|5375|5375	hgnc_symbol|PMP2|PMP2
+entrezgene|692224|692224	hgnc_symbol|FBXO22-AS1|FBXO22-AS1
+entrezgene|400807|400807
+entrezgene|112401|112401	hgnc_symbol|BIRC8|BIRC8
+entrezgene|346|346	hgnc_symbol|APOC4|APOC4
+entrezgene|84196|84196	hgnc_symbol|USP48|USP48
+entrezgene|220359|220359	hgnc_symbol|TIGD3|TIGD3
+entrezgene|283294|283294
+entrezgene|90050|90050	hgnc_symbol|FAM181A|FAM181A
+entrezgene|647797|647797
+entrezgene|283471|283471	hgnc_symbol|TMPRSS12|TMPRSS12
+entrezgene|10000|10000	hgnc_symbol|AKT3|AKT3
+entrezgene|64109|64109	hgnc_symbol|CRLF2|CRLF2
+entrezgene|647876|647876
+entrezgene|653397|653397
+entrezgene|646717|646717
+entrezgene|63978|63978	hgnc_symbol|PRDM14|PRDM14
+entrezgene|197320|197320	hgnc_symbol|ZNF778|ZNF778
+entrezgene|647894|647894
+entrezgene|116931|116931	hgnc_symbol|MED12L|MED12L
+entrezgene|148479|148479	hgnc_symbol|PHF13|PHF13
+entrezgene|647003|647003
+entrezgene|652662|652662
+entrezgene|503640|503640	hgnc_symbol|ARGFXP2|ARGFXP2
+entrezgene|25897|25897	hgnc_symbol|RNF19A|RNF19A
+entrezgene|649158|649158
+entrezgene|650475|650475
+entrezgene|135656|135656	hgnc_symbol|DPCR1|DPCR1
+entrezgene|90187|90187	hgnc_symbol|EMILIN3|EMILIN3
+entrezgene|54819|54819	hgnc_symbol|ZCCHC10|ZCCHC10
+entrezgene|23072|23072	hgnc_symbol|HECW1|HECW1
+entrezgene|653472|653472
+entrezgene|83897|83897	hgnc_symbol|KRTAP3-2|KRTAP3-2
+entrezgene|8578|8578	hgnc_symbol|SCARF1|SCARF1
+entrezgene|647551|647551
+entrezgene|646173|646173
+entrezgene|57576|57576	hgnc_symbol|KIF17|KIF17
+entrezgene|2686|2686	hgnc_symbol|GGT7|GGT7
+entrezgene|440080|440080
+entrezgene|642548|642548
+entrezgene|642666|642666
+entrezgene|132158|132158	hgnc_symbol|GLYCTK|GLYCTK
+entrezgene|645438|645438
+entrezgene|60495|60495	hgnc_symbol|HPSE2|HPSE2
+entrezgene|253512|253512	hgnc_symbol|SLC25A30|SLC25A30
+entrezgene|7032|7032	hgnc_symbol|TFF2|TFF2
+entrezgene|7490|7490	hgnc_symbol|WT1|WT1
+entrezgene|204474|204474	hgnc_symbol|PDILT|PDILT
+entrezgene|56108|56108	hgnc_symbol|PCDHGA7|PCDHGA7
+entrezgene|30819|30819	hgnc_symbol|KCNIP2|KCNIP2
+entrezgene|652883|652883
+entrezgene|65061|65061	hgnc_symbol|CDK15|CDK15
+entrezgene|390082|390082	hgnc_symbol|OR52E5|OR52E5
+entrezgene|6576|6576	hgnc_symbol|SLC25A1|SLC25A1
+entrezgene|440888|440888	hgnc_symbol|ACTR3BP2|ACTR3BP2
+entrezgene|122748|122748	hgnc_symbol|OR11H6|OR11H6
+entrezgene|646903|646903
+entrezgene|54943|54943	hgnc_symbol|DNAJC28|DNAJC28
+entrezgene|4642|4642	hgnc_symbol|MYO1D|MYO1D
+entrezgene|6674|6674	hgnc_symbol|SPAG1|SPAG1
+entrezgene|643566|643566
+entrezgene|85509|85509	hgnc_symbol|MBD3L1|MBD3L1
+entrezgene|387695|387695	hgnc_symbol|C10orf99|C10orf99
+entrezgene|2554|2554	hgnc_symbol|GABRA1|GABRA1
+entrezgene|392447|392447	hgnc_symbol|RPL32P36|RPL32P36
+entrezgene|730953|730953
+entrezgene|642282|642282
+entrezgene|23394|23394	hgnc_symbol|ADNP|ADNP
+entrezgene|23014|23014	hgnc_symbol|FBXO21|FBXO21
+entrezgene|644705|644705
+entrezgene|650422|650422
+entrezgene|84134|84134	hgnc_symbol|TOMM40L|TOMM40L
+entrezgene|525|525	hgnc_symbol|ATP6V1B1|ATP6V1B1
+entrezgene|445815|445815	hgnc_symbol|PALM2-AKAP2|PALM2-AKAP2
+entrezgene|23647|23647	hgnc_symbol|ARFIP2|ARFIP2
+entrezgene|220004|220004	hgnc_symbol|PPP1R32|PPP1R32
+entrezgene|401056|401056
+entrezgene|9684|9684	hgnc_symbol|LRRC14|LRRC14
+entrezgene|5148|5148	hgnc_symbol|PDE6G|PDE6G
+entrezgene|245806|245806	hgnc_symbol|VGLL2|VGLL2
+entrezgene|55729|55729	hgnc_symbol|ATF7IP|ATF7IP
+entrezgene|10110|10110	hgnc_symbol|SGK2|SGK2
+entrezgene|26529|26529	hgnc_symbol|OR12D2|OR12D2
+entrezgene|57479|57479	hgnc_symbol|PRR12|PRR12
+entrezgene|57608|57608	hgnc_symbol|KIAA1462|KIAA1462
+entrezgene|642383|642383
+entrezgene|23765|23765	hgnc_symbol|IL17RA|IL17RA
+entrezgene|401237|401237
+entrezgene|8558|8558	hgnc_symbol|CDK10|CDK10
+entrezgene|51005|51005	hgnc_symbol|AMDHD2|AMDHD2
+entrezgene|8618|8618	hgnc_symbol|CADPS|CADPS

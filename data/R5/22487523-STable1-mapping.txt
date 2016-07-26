@@ -1,0 +1,25 @@
+# Generate Mapping Tables Script: Version 4 11:07 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:07 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+refseq_dna|XM_979297;NP_080558|XM_979297	mgi_symbol|Spbc24|Spbc24
+refseq_dna|NM_028232;NP_082508|NM_028232	mgi_symbol|Sgol1|Sgol1
+refseq_dna|NM_178184;NP_835491|NM_178184	mgi_symbol|Hist1h2an|Hist1h2an
+refseq_dna|NM_172453;NP_766041|NM_172453	mgi_symbol|Pif1|Pif1
+refseq_dna|NM_176996;NP_795970|NM_176996	mgi_symbol|Smo|Smo
+refseq_dna|NM_172301;NP_758505|NM_172301	mgi_symbol|Ccnb1|Ccnb1
+refseq_dna|NM_025939;NP_080215|NM_025939	mgi_symbol|Paics|Paics
+refseq_dna|NM_016765;NP_058045|NM_016765	mgi_symbol|Ddah2|Ddah2
+refseq_dna|XM_974244;NP_082385|XM_974244	mgi_symbol|Tpx2|Tpx2
+refseq_dna|NM_007681;NP_031707|NM_007681	mgi_symbol|Cenpa|Cenpa
+refseq_dna|NM_026122;NP_778249|NM_026122	mgi_symbol|Hmgn3|Hmgn3
+refseq_dna|NM_153790;NP_722485|NM_153790	mgi_symbol|Scarf2|Scarf2
+refseq_dna|NM_016974;NP_058670|NM_016974	mgi_symbol|Dbp|Dbp
+refseq_dna|NM_011697;NP_035827|NM_011697	mgi_symbol|Vegfb|Vegfb
+refseq_dna|NM_001008702;NP_075607|NM_001008702	mgi_symbol|Dab2|Dab2
+refseq_dna|NM_175661;NP_783592|NM_175661	mgi_symbol|Hist1h2af|Hist1h2af
+refseq_dna|NM_175659;NP_783590|NM_175659	mgi_symbol|Hist1h2ah|Hist1h2ah
+refseq_dna|XM_974825;NP_080415|XM_974825	mgi_symbol|Armcx2|Armcx2
+refseq_dna|NM_011693;NP_035823|NM_011693	mgi_symbol|Vcam1|Vcam1

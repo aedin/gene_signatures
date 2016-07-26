@@ -1,0 +1,19 @@
+# Generate Mapping Tables Script: Version 4 11:04 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:04 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+embl|MI0000439|MI0000439	mirbase_id|hsa-miR-23b|hsa-miR-23b
+embl|MI0000461|MI0000461	mirbase_id|hsa-miR-145|hsa-miR-145
+embl|MI0000101|MI0000101	mirbase_id|hsa-miR-99a|hsa-miR-99a
+embl|MI0000440|MI0000440	mirbase_id|hsa-miR-27b|hsa-miR-27b
+embl|MI0003667|MI0003667	mirbase_id|hsa-miR-652|hsa-miR-652
+embl|MI0000261|MI0000261	mirbase_id|hsa-miR-139-5p|hsa-miR-139-5p
+embl|MI0000489|MI0000489	mirbase_id|hsa-miR-195|hsa-miR-195
+embl|MI0000805|MI0000805	mirbase_id|hsa-miR-342-3p|hsa-miR-342-3p
+embl|MI0000479|MI0000479	mirbase_id|hsa-miR-150|hsa-miR-150
+embl|MI0005566|MI0005566	mirbase_id|hsa-miR-374b|hsa-miR-374b
+embl|MI0000090|MI0000090	mirbase_id|hsa-miR-32|hsa-miR-32
+embl|MI0003642|MI0003642	mirbase_id|hsa-miR-628-5p|hsa-miR-628-5p
+embl|MI0005532|MI0005532	mirbase_id|hsa-miR-874|hsa-miR-874

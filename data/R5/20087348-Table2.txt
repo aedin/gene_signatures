@@ -1,0 +1,13 @@
+Taqman ID	Gene symbol	Gene name	Affymetrix ID	Compared sample groups	Fold change on microarrays	Fold change in RT –PCR 2(-DDCT)	P-value
+Hs00200350_m1	ABCA8	ATP-binding cassette, subfamily A (ABC1), member 8	204719_at	Adenoma vs normal	0.078	0.1	0.00061
+Hs00214306_m1	TRPM6	Transient receptor potential cation channel, subfamily M, member 6	240389_at	Adenoma vs normal	0.086	0.04	0.00006
+Hs00169795_m1	VWF	von Willebrand factor	202112_at	CRC vs normal	3.61	12.21	0.55142
+Hs00174103_m1	IL8	Interleukin 8	202859_x_at	CRC vs normal	20.2	148.06	0.00283
+Hs00194353_m1	LCN2	Lipocalin 2	212531_at	CRC vs normal	7.97	28.44	0.00051
+Hs00236937_m1	CXCL1	Chemokine (C-X-C motif) ligand 1	204470_at	CRC vs normal	13.1	14.32	0.0114
+Hs00266237_m1	COL4A1	Collagen, type IV, a1	211980_at	CRC vs normal	5.21	10.41	0.02831
+Hs00174838_m1	MCAM	Melanoma cell adhesion molecule	209087_x_at	CRC vs normal	2.92	6.87	0.05209
+Hs00277299_m1	IL1RN	Interleukin 1 receptor antagonist	212657_s_at	CRC vs normal	11.99	25.28	0.00714
+Hs00236966_m1	CXCL2	Chemokine (C-X-C motif) ligand 2	209774_x_at	CRC vs normal	9.2	13	0.00204
+Hs00204187_m1	DUOX2	Dual oxidase 2	219727_at	CRC vs normal	9.7	30.06	0.00363
+Hs00167093_m1	SPP1	Secreted phosphoprotein 1 (osteopontin)	209875_s_at	CRC vs normal	8.92	12.55	0.07492

@@ -1,0 +1,34 @@
+# Generate Mapping Tables Script: Version 4 11:08 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:08 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+affy_mouse430_2|1418705_at|1418705_at	mgi_symbol|Crx|Crx
+affy_mouse430_2|1423631_at|1423631_at	mgi_symbol|Nr2e3|Nr2e3
+affy_mouse430_2|1450946_at|1450946_at	mgi_symbol|Nrl|Nrl
+affy_mouse430_2|1436926_at|1436926_at	mgi_symbol|Esrrb|Esrrb
+affy_mouse430_2|1450723_at|1450723_at	mgi_symbol|Isl1|Isl1
+affy_mouse430_2|1420425_at|1420425_at	mgi_symbol|Prdm1/Blimp1|Prdm1/Blimp1
+affy_mouse430_2|1426413_at|1426413_at	mgi_symbol|NeuroD|NeuroD
+affy_mouse430_2|1451115_at|1451115_at	mgi_symbol|Pias3|Pias3
+affy_mouse430_2|1419628_at|1419628_at	mgi_symbol|Chx10|Chx10
+affy_mouse430_2|1424034_at|1424034_at	mgi_symbol|Rora|Rora
+affy_mouse430_2|1418558_at|1418558_at	mgi_symbol|Rax|Rax
+affy_mouse430_2|1418782_at|1418782_at	mgi_symbol|Rxrg|Rxrg
+affy_mouse430_2|1422202_at|1422202_at	mgi_symbol|Thrb|Thrb
+affy_mouse430_2|1450796_at|1450796_at	mgi_symbol|Math5|Math5
+affy_mouse430_2|1455799_at|1455799_at	mgi_symbol|Rorb|Rorb
+affy_mouse430_2|1418102_at|1418102_at	mgi_symbol|Hes1|Hes1
+affy_mouse430_2|1437588_at|1437588_at	mgi_symbol|Brn3b/Pou4F2|Brn3b/Pou4F2
+affy_mouse430_2|1427523_at|1427523_at	mgi_symbol|Six3|Six3
+affy_mouse430_2|1421336_at|1421336_at	mgi_symbol|Prox1|Prox1
+affy_mouse430_2|1419408_at|1419408_at	mgi_symbol|Six6|Six6
+affy_mouse430_2|1418633_at|1418633_at	mgi_symbol|Notch|Notch
+affy_mouse430_2|1418054_at|1418054_at	mgi_symbol|Math3|Math3
+affy_mouse430_2|1419271_at|1419271_at	mgi_symbol|Pax6|Pax6
+affy_mouse430_2|1423146_at|1423146_at	mgi_symbol|Hes5|Hes5
+affy_mouse430_2|1422839_at|1422839_at	mgi_symbol|Neurog2|Neurog2
+affy_mouse430_2|1437086_at|1437086_at	mgi_symbol|Mash1|Mash1
+affy_mouse430_2|1448877_at|1448877_at	mgi_symbol|Dlx2|Dlx2
+affy_mouse430_2|1449470_at|1449470_at	mgi_symbol|Dlx1|Dlx1

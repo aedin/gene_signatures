@@ -1,0 +1,76 @@
+Curated Gene Symbol	miRNA	Fold change	Probe ID	Gene symbols	Gene names	Fold change	Expression correlation	P value
+FAM178A	hsa-let-7	0.03	203481_at	C10ORF6	chromosome 10 open reading frame 6	1.58	-0.58	0.0188
+DPP3	hsa-let-7		218567_x_at	DPP3	dipeptidylpeptidase 3	2.31	-0.49	0.054
+EZH2	hsa-let-7		203358_s_at	EZH2	enhancer of zeste homolog 2 (Drosophila)	2.36	-0.64	0.00769
+SLC20A1	hsa-let-7		209283_at	SLC20A1	solute carrier family 20 (phosphate transporter), member 1	2.06	-0.3	0.253
+TRIB1	hsa-let-7		203358_s_at	TRIB1	tribbles homolog 1 (Drosophila)	1.77	-0.48	0.0584
+SDC1	hsa-miR-10b	0.04	202357_s_at	SDC1	syndecan 1	2.06	-0.28	0.296
+HMGB3	hsa-miR-125b	5.00E-02	203744_at	HMGB3	high-mobility group box 3	2.13	-0.61	0.0127
+NRIP1	hsa-miR-125b		209613_s_at	NRIP1	nuclear receptor interacting protein 1	2.25	-0.39	0.136
+MEMO1	hsa-miR-125b		213004_at	MEMO1	mediator of cell motility 1	1.73	-0.59	0.0154
+HMGB3	hsa-miR-17-3p	0.12	203744_at	HMGB3	high-mobility group box 3	2.13	-0.49	0.0566
+CERS6	hsa-miR-17-3p		212446_s_at	LASS6	LAG1 longevity assurance homolog 6	1.78	-0.31	0.238
+MAP7	hsa-miR-17-3p		211653_x_at	MAP7	microtubule-associated protein 7	1.73	-0.49	0.0519
+SERP1	hsa-miR-17-3p		213492_at	SERP1	stress-associated endoplasmic reticulum protein 1	1.8	-0.23	0.384
+SAR1B	hsa-miR-17-3p		203213_at	SAR1B	SAR1 gene homolog B (Saccharomyces cerevisiae)	1.95	-0.07	0.803
+ADAM9	hsa-miR-17-3p		202381_at	ADAM9	ADAM metallopeptidase domain 9	2.04	-0.45	0.0789
+BACH2	hsa-miR-181b	5.46	221234_s_at	BACH2	BTB and CNC homology 1 basic leucine zipper transcription factor 2	0.47	-0.3	0.262
+CBX7	hsa-miR-181b		212914_at	CBX7	chromobox homolog 7	0.44	-0.3	0.267
+HLF	hsa-miR-181b		204753_s_at	HLF	hepatic leukemia factor	0.24	-0.19	0.484
+	hsa-miR-181b		204755_x_at			0.28	-0.52	0.0382
+	hsa-miR-181b		204754_at			0.31	-0.45	0.077
+NMT2	hsa-miR-181b		204567_s_at	NMT2	N-myristoyltransferase 2	0.58	-0.35	0.181
+NR3C1	hsa-miR-181b		202274_at	NR3C1	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid receptor)	0.46	-0.44	0.0886
+	hsa-miR-181b		200974_at			0.57	-0.57	0.0221
+BACH2	hsa-miR-182	72.35	221234_s_at	BACH2	BTB and CNC homology 1 basic leucine zipper transcription factor 2	0.47	-0.73	0.00141
+BCL11A	hsa-miR-182		210347_s_at	BCL11A	B-cell CLL/lymphoma 11A	0.27	-0.65	0.00631
+	hsa-miR-182		219497_s_at			0.42	-0.69	0.00286
+	hsa-miR-182		219498_s_at			0.43	-0.8	0.000219
+BHLHE41	hsa-miR-182		221530_s_at	BHLHB3	basic helix-loop-helix domain containing, class B, 3	0.47	-0.55	0.0271
+DCX	hsa-miR-182		204851_s_at	DCX	doublecortex; lissencephaly, X-linked (doublecortin)	0.13	-0.83	0.0000748
+	hsa-miR-182		204850_s_at			0.3	-0.67	0.00463
+DOK4	hsa-miR-182		209691_s_at	DOK4	docking protein 4	0.56	-0.53	0.0365
+HOXA9	hsa-miR-182		209905_at	HOXA9	homeobox A9	0.1	-0.64	0.00818
+	hsa-miR-182		214651_s_at			0.31	-0.55	0.0263
+LPHN2	hsa-miR-182		64900_at	LPHN2	latrophilin 2	0.37	-0.62	0.00987
+PRKD1	hsa-miR-182		219497_s_at	PRKD1	protein kinase D1	0.54	-0.59	0.0161
+RIMS3	hsa-miR-182		210735_s_at	RIMS3	regulating synaptic membrane exocytosis 3	0.52	-0.73	0.00125
+FOXN3	hsa-miR-182		205022_s_at	FOXN3	checkpoint repressor 1	0.5	-0.67	0.0044
+NCAM1	hsa-miR-182		221935_s_at	NCAM1	neural cell adhesion molecule 1	0.43	-0.41	0.119
+CBX7	hsa-miR-182		212914_at	CBX7	chromobox homolog 7	0.44	-0.57	0.0222
+NMT2	hsa-miR-182		204567_s_at	NMT2	N-myristoyltransferase 2	0.58	-0.26	0.326
+BACH2	hsa-miR-183	51.88	221234_s_at	BACH2	BTB and CNC homology 1 basic leucine zipper transcription factor 2	0.47	-0.75	0.000783
+DCX	hsa-miR-183		204851_s_at	DCX	doublecortex; lissencephaly, X-linked (doublecortin)	0.13	-0.82	0.000106
+	hsa-miR-183		204850_s_at			0.3	-0.8	0.000216
+EGR1	hsa-miR-183		201693_s_at	EGR1	early growth response 1	0.45	-0.61	0.0112
+NR3C1	hsa-miR-183		202274_at	NR3C1	nuclear receptor subfamily 3, group C, member 1	0.46	-0.7	0.00277
+	hsa-miR-183		200974_at		(glucocorticoid receptor)	0.57	-0.45	0.0808
+ARL8B	hsa-miR-195	0.13	217852_s_at	ARL8B	ADP ribosylation factor-like 8B	1.64	-0.31	0.249
+CCND1	hsa-miR-195		208712_at	CCND1	cyclin D1 [43]	2.3	-0.33	0.219
+CD164	hsa-miR-195		208653_s_at	CD164	CD164 molecule, sialomucin	2.4	-0.54	0.0316
+ENSA	hsa-miR-195		202596_at	ENSA	endosulfine alpha	2.03	-0.37	0.154
+MAP7	hsa-miR-195		211653_x_at	MAP7	microtubule-associated protein 7	1.73	-0.52	0.04
+RAD23B	hsa-miR-195		221935_s_at	RAD23B	RAD23 homolog B	1.79	-0.08	0.761
+TMEM33	hsa-miR-195		201341_at	TMEM33	transmembrane protein 33	1.62	-0.3	0.264
+WWP1	hsa-miR-195		212464_s_at	WWP1	WW domain containing E3 ubiquitin protein ligase 1	2.79	-0.49	0.0557
+	hsa-miR-195		216442_x_at			2.83	-0.25	0.0557
+ARL8B	hsa-miR-204	0.08	217852_s_at	ARL8B	ADP-ribosylation factor-like 8B	1.64	-0.27	0.306
+SERP1	hsa-miR-204		213492_at	SERP1	stress-associated endoplasmic reticulum protein 1	1.8	-0.57	0.0222
+NFIB	hsa-miR-21	20.92	218992_at	NFIB	nuclear factor I/B [42]	0.43	-0.75	0.000915
+	hsa-miR-21		219060_at			0.52	-0.69	0.00328
+COL2A1	hsa-miR-7	5.19	213492_at	COL2A1	collagen type II, alpha 1	0.51	-0.12	0.661
+FLRT2	hsa-miR-7		204359_at	FLRT2	fibronectin leucine-rich transmembrane protein 2	0.35	-0.49	0.0536
+KCNJ2	hsa-miR-7		206765_at	KCNJ2	potassium inwardly rectifying channel, subfamily J, member 2	0.33	-0.73	0.00135
+SNCA	hsa-miR-7		214112_s_at	SNCA	synuclein alpha	0.48	-0.54	0.03
+FOXN3	hsa-miR-7		205022_s_at	FOXN3	checkpoint repressor 1	0.5	-0.61	0.0122
+BCL11A	hsa-miR-93	160.47	210347_s_at	BCL11A	B-cell CLL/lymphoma 11A	0.27	-0.75	0.00074
+	hsa-miR-93		219497_s_at			0.42	-0.72	0.00151
+	hsa-miR-93		219498_s_at			0.43	-0.71	0.00211
+HLF	hsa-miR-93		204753_s_at	HLF	hepatic leukemia factor	0.24	-0.68	0.0036
+	hsa-miR-93		204755_x_at			0.28	-0.81	0.000144
+	hsa-miR-93		204754_at			0.31	-0.81	0.000149
+NFIB	hsa-miR-93		218992_at	NFIB	nuclear factor I/B	0.43	-0.74	0.00114
+	hsa-miR-93		219060_at			0.52	-0.65	0.0063
+RGL1	hsa-miR-93		203963_at	RGL1	ral guanine nucleotide dissociation stimulator-like 1	0.53	-0.58	0.0179
+TXNIP	hsa-miR-93		204422_s_at	TXNIP	thioredoxin-interacting protein	0.36	-0.69	0.00296
+	hsa-miR-93		205117_at			0.49	-0.57	0.0214

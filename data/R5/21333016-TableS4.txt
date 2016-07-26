@@ -1,0 +1,51 @@
+Rank	Accession No.	Title	Symbol	Mean fold change	P Value	q-Value	Regulation
+1	NM_000582.2	Secreted phosphoprotein 1 (osteopontin, bone sialoprotein I, early T-lymphocyte activation 1)	SPP1	17.69	0.0063901	0.0657204	Up-regulated
+2	NM_000096.1	Ceruloplasmin (ferroxidase)	CP	14.76	0.004606	0.0560517	Up-regulated
+3	NM_000591.1	CD14 antigen (CD14)	CD14	10.09	0.0030821	0.0462251	Up-regulated
+4	NM_031311.2	Carboxypeptidase, vitellogenic-like (CPVL), transcript variant 1, mRNA.	CPVL	8.12	0.0005808	0.0207333	Up-regulated
+5	NM_016323.1	Hect domain and RLD 5	HERC5	5.53	0.0004827	0.0189638	Up-regulated
+6	NM_004086.1	coagulation factor C homolog, cochlin (Limulus polyphemus)	COCH	5.38	0.0001803	0.0119637	Up-regulated
+7	NM_003645.2	Solute carrier family 27 (fatty acid transporter), member 2	SLC27A2	5.36	0.0048143	0.0571476	Up-regulated
+8	NM_016619.1	Placenta-specific 8	PLAC8	5.02	0.0035658	0.0493337	Up-regulated
+9	NM_004120.3	Binding protein 2, interferon-inducible	GBP2	4.93	0.0043132	0.0541957	Up-regulated
+10	NM_005258.2	GTP cyclohydrolase I feedback regulator	GCHFR	4.32	0.0048704	0.0572591	Up-regulated
+11	NM_004093.2	Ephrin-B2	EFNB2	4.15	0.0002098	0.0128881	Up-regulated
+12	NM_018490.1	Leucine-rich repeat-containing G protein-coupled receptor 4	LGR4	4.13	0.0017499	0.0345578	Up-regulated
+13	NM_020247.3	Chaperone, ABC1 activity of bc1 complex like (S. pombe	CABC1	3.91	0.0062336	0.0649723	Up-regulated
+14	NM_014234.3	Hydroxysteroid (17-beta) dehydrogenase 8.	HSD17B8	3.9	0.0027659	0.0437959	Up-regulated
+15	BQ438671	cDNA clone IMAGE:6102595 5		3.73	0.0088979	0.0765079	Up-regulated
+16	NM_006408.2	Gradient 2 homolog (Xenopus laevis)	AGR2	3.62	0.0013778	0.0309093	Up-regulated
+17	NM_014573.1	Transmembrane protein 97	TMEM97	3.56	0.0027974	0.0439756	Up-regulated
+18	BC035116	cDNA clone IMAGE:5263177		3.54	0.0046531	0.0563239	Up-regulated
+19	NM_007129.2	Zic family member 2 (odd-paired homolog, Drosophila)	ZIC2	3.47	0.0000121	0.0031677	Up-regulated
+20	NM_148918.1	Serine hydroxymethyltransferase 1 (soluble) (SHMT1), transcript variant 2	SHMT1	3.45	0.00000227	0.0012335	Up-regulated
+21	NM_199335.2	FYN binding protein (FYB-120/130) (FYB), transcript variant 2	FYB	3.31	0.0073894	0.0698031	Up-regulated
+22	NM_004091.2	E2F transcription factor 2 (E2F2)	E2F2	3.16	0.0005596	0.0203305	Up-regulated
+23	NM_001467.3	Solute carrier family 37 (glycerol-6-phosphate transporter), member 4	SLC37A4	3.09	0.0042853	0.053963	Up-regulated
+24	NM_014214.1	Inositol(myo)-1(or 4)-monophosphatase 2	IMPA2	2.99	0.0093063	0.0782639	Up-regulated
+25	NM_153259.2	mucolipin 2	MCOLN2	2.93	0.0004289	0.017726	Up-regulated
+1	NM_000089.3	Collagen, type I, alpha 2	COL1A2	-167.85	1.1E-09	0.00000934	Down-regulated
+2	NM_000088.2	Collagen, type I, alpha 1	COL1A1	-126.15	1.9E-09	0.0000109	Down-regulated
+3	NM_000422.1	Keratin 17	KRT17	-68.04	0.000000916	0.0009882	Down-regulated
+4	NM_020404.2	CD248 antigen, endosialin	CD248	-72.29	0.00000295	0.0013253	Down-regulated
+5	NM_002575.1	Serpin peptidase inhibitor, clade B (ovalbumin), member 2	SERPINB2	-40.39	0.00000279	0.0012916	Down-regulated
+6	NM_003480.2	Microfibrillar associated protein 5	MFAP5	-44.96	0	0	Down-regulated
+7	NM_057164.2	Collagen, type VI, alpha 3 (COL6A3), transcript variant 2	COL6A3	-66.87	0.000000017	0.0000611	Down-regulated
+8	NM_002421.2	Matrix metallopeptidase 1 (interstitial collagenase)	MMP1	-48.34	0.0000438	0.0062346	Down-regulated
+9	NM_153370.2	Peptidase inhibitor 16	PI16	-27.45	0.00000749	0.0024464	Down-regulated
+10	NM_015170.1	Sulfatase 1	SULF1	-45.01	0.00000621	0.0021778	Down-regulated
+11	NM_000602.1	Serpin peptidase inhibitor, clade E (nexin, plasminogen activator inhibitor type 1), member 1	SERPINE1	-38.31	0.00000225	0.0012335	Down-regulated
+12	NM_007281.1	Scrapie responsive protein 1	SCRG1	-25.85	0.0000381	0.0059299	Down-regulated
+13	NM_000093.2	Collagen, type V, alpha 1	COL5A1	-42.25	0.0000151	0.0036181	Down-regulated
+14	NM_001001522.1	Transgelin (TAGLN), transcript variant 1	TAGLN	-44.43	2.4E-09	0.0000115	Down-regulated
+15	NM_052913.2	KIAA1913	KIAA1913	-36.01	0.0000065	0.0022317	Down-regulated
+16	NM_002982.3	Chemokine (C-C motif) ligand 2	CCL2	-36.57	0.00000101	0.0009882	Down-regulated
+17	NM_004181.3	Ubiquitin carboxyl-terminal esterase L1 (ubiquitin thiolesterase)	UCHL1	-12.57	0.0074468	0.0700806	Down-regulated
+18	NM_005613.3	Regulator of G-protein signalling 4	RGS4	-22.79	0.000000778	0.0009717	Down-regulated
+19	NM_001797.2	Cadherin 11, type 2, OB-cadherin (osteoblast)	CDH11	-32.04	0.00000028	0.0006194	Down-regulated
+20	NM_153360.1	Hypothetical protein FLJ90166	FLJ90166	-17.11	0.0002138	0.0130733	Down-regulated
+21	NM_001323.2	Cystatin E/M	CST6	-16.84	0.0000386	0.0059308	Down-regulated
+22	NM_000600.1	Interleukin 6 (interferon, beta 2)	IL6	-17.08	0.0000487	0.0063928	Down-regulated
+23	NM_004460.2	Fibroblast activation protein, alpha	FAP	-25.51	0.00000106	0.0009882	Down-regulated
+24	NM_004598.2	Sparc/osteonectin, cwcv and kazal-like domains proteoglycan (testican)	SPOCK	-14.05	0.0001902	0.0122166	Down-regulated
+25	NM_004385.2	Sulfate proteoglycan 2 (versican)	CSPG2	-28.33	0.0000296	0.0050555	Down-regulated

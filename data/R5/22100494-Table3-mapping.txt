@@ -1,0 +1,42 @@
+# Generate Mapping Tables Script: Version 4 11:03 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:03 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+affy_hg_u133a_2|213674|213674	hgnc_symbol|IGHG1|IGHG1
+affy_hg_u133a_2|211645|211645	hgnc_symbol|NA|NA
+affy_hg_u133a_2|215176|215176	hgnc_symbol|NTN2L|NTN2L
+affy_hg_u133a_2|217148|217148	hgnc_symbol|IGL@|IGL@
+affy_hg_u133a_2|217235|217235	hgnc_symbol|IGLV2-23|IGLV2-23
+affy_hg_u133a_2|211644|211644	hgnc_symbol|IGKC|IGKC
+affy_hg_u133a_2|205159|205159	hgnc_symbol|CSF2RB|CSF2RB
+affy_hg_u133a_2|200799|200799	hgnc_symbol|HSPA1A|HSPA1A
+affy_hg_u133a_2|216984|216984	hgnc_symbol|CKAP2|CKAP2
+affy_hg_u133a_2|216576|216576	hgnc_symbol|NTN2L|NTN2L
+affy_hg_u133a_2|209728|209728	hgnc_symbol|HLA-DRB4|HLA-DRB4
+affy_hg_u133a_2|211430|211430	hgnc_symbol|IGHG3|IGHG3
+affy_hg_u133a_2|217378|217378	hgnc_symbol|LOC100130100|LOC100130100
+affy_hg_u133a_2|200953|200953	hgnc_symbol|CCND2|CCND2
+affy_hg_u133a_2|217138|217138	hgnc_symbol|IGL@|IGL@
+affy_hg_u133a_2|201938|201938	hgnc_symbol|CDK2AP1|CDK2AP1
+affy_hg_u133a_2|218559|218559	hgnc_symbol|MAFB|MAFB
+affy_hg_u133a_2|215214|215214	hgnc_symbol|IGL@|IGL@
+affy_hg_u133a_2|200951|200951	hgnc_symbol|CCND2|CCND2
+affy_hg_u133a_2|202917|202917	hgnc_symbol|S100A8|S100A8
+affy_hg_u133a_2|217258|217258	hgnc_symbol|IVD|IVD
+affy_hg_u133a_2|217179|217179	hgnc_symbol|NA|NA
+affy_hg_u133a_2|207332|207332	hgnc_symbol|TFRC|TFRC
+affy_hg_u133a_2|209732|209732	hgnc_symbol|CLEC2B|CLEC2B
+affy_hg_u133a_2|201540|201540	hgnc_symbol|FHL1|FHL1
+affy_hg_u133a_2|213975|213975	hgnc_symbol|LYZ|LYZ
+affy_hg_u133a_2|204959|204959	hgnc_symbol|MNDA|MNDA
+affy_hg_u133a_2|202581|202581	hgnc_symbol|HSPA1B|HSPA1B
+affy_hg_u133a_2|209312|209312	hgnc_symbol|HLA-DRB1|HLA-DRB1
+affy_hg_u133a_2|214768|214768	hgnc_symbol|FAM20B|FAM20B
+affy_hg_u133a_2|201631|201631	hgnc_symbol|IER3|IER3
+affy_hg_u133a_2|202503|202503	hgnc_symbol|KIAA0101|KIAA0101
+affy_hg_u133a_2|208691|208691	hgnc_symbol|TFRC|TFRC
+affy_hg_u133a_2|205863|205863	hgnc_symbol|S100A12|S100A12
+affy_hg_u133a_2|214039|214039	hgnc_symbol|LAPTM4B|LAPTM4B
+affy_hg_u133a_2|200675|200675	hgnc_symbol|CD81|CD81

@@ -1,0 +1,77 @@
+Genes	Gene symbol	GenBank ID	Fold change (corrected P value)	Regulation	Pathways
+Mitochondrial ribosomal protein L33	MRPL33	NM_004891	1.76 (0.008)	Down	Translation
+Mitochondrial ribosomal protein L36	MRPL36	NM_032479	1.67 (0.002)	Down	Translation
+Mitochondrial ribosomal protein S33	MRPS33	NM_016071	1.66 (0.013)	Down	Translation
+Eukaryotic translation elongation factor less 1 epsilon 1	EEF1E1	NM_004280	1.57 (0.001)	Down	Translation
+Mitochondrial ribosomal protein S11	MRPS11	NM_022839	1.55 (0.012)	Down	Translation
+Ribosomal protein L28	RPL28	NM_000991	1.48 (0.018)	Down	Translation
+Ribosomal protein L36a-like	RPL36AL	NM_001001	1.47 (0.036)	Down	Translation
+Ribosomal protein S13	RPS13	NM_001017	1.47 (0.046)	Down	Translation
+Ribosomal protein L21	RPL21	BC104478	1.45 (0.042)	Down	Translation
+Ribosomal protein S29	RPS29	NM_001032	1.44 (0.042)	Down	Translation
+Mitochondrial hinge protein precursor	UQCRH	M36647	1.58 (0.015)	Down	Oxidative phosphorylation
+ATP synthase, H+ transporting, mitochondrial F0 complex, subunit F6	ATP5J	NM_001003703	1.55 (0.024)	Down	Oxidative phosphorylation
+NADH dehydrogenase (ubiquinone) 1A subcomplex, 1, 7 kd	NDUFB1	NM_004545	1.54 (0.041)	Down	Oxidative phosphorylation
+NADH dehydrogenase (ubiquinone) 1 > subcomplex, 4, 9 kd	NDUFA4	NM_002489	1.50 (0.018)	Down	Oxidative phosphorylation
+ATP synthase, H+ transporting, mitochondrial F0 complex, subunit C1	ATP5G1	NM_005175	1.50 (0.015)	Down	Oxidative phosphorylation
+Ubiquinol-cytochrome c reductase hinge protein	UQCRH	NM_006004	1.50 (0.019)	Down	Oxidative phosphorylation
+mutS homolog 2, colon cancer, nonpolyposis type	MSH2	NM_000251	1.46 (0.038)	Up	Oxidative phosphorylation
+ATP synthase, H+ transporting, mitochondrial F0 complex, subunit G	ATP5L	NM_006476	1.45 (0.026)	Down	Oxidative phosphorylation
+ATP synthase, H+ transporting, mitochondrial F0 complex, subunit E	ATP5I	NM_007100	1.43 (0.008)	Down	Oxidative phosphorylation
+SMAD family member 1	SMAD1	NM_005900	1.68 (0.045)	Up	RNA processing
+UPF3 regulator of nonsense transcripts homolog B	UPF3B	NM_080632	1.68 (0.010)	Up	RNA processing
+Splicing factor 3b, subunit 1, 155 kd	SF3B1	NM_012433	1.64 (0.040)	Up	RNA processing
+PRP38 pre-mRNA processing factor 38	PRPF38B	NM_018061	1.58 (0.042)	Up	RNA processing
+RNA-binding motif protein 17	RBM17	NM_032905	1.56 (0.032)	Up	RNA processing
+RNA-binding motif protein 6	RBM6	NM_005777	1.56 (0.039)	Up	RNA processing
+Zinc finger, matrin type 5	ZMAT5	NM_019103	1.52 (0.043)	Down	RNA processing
+Protein phosphatase 1, regulatory subunit 9B	PPP1R9B	NM_032595	1.52 (0.007)	Up	RNA processing
+Cleavage and polyadenylation factor I subunit	CLP1	NM_006831	1.51 (0.040)	Down	RNA processing
+Small nuclear ribonucleoprotein D1 polypeptide 16 kd	SNRPD1	NM_006938	1.49 (0.011)	Down	RNA processing
+v-myc myelocytomatosis viral oncogene homolog	MYC	NM_002467	1.71 (0.047)	Down	mRNA metabolic process
+Polymerase (RNA) III (DNA directed) polypeptide K,	POLR3K	NM_016310	1.52 (0.036)	Down	mRNA metabolic process
+UPF2 regulator of nonsense transcripts homolog (yeast)	UPF2	NM_080599	1.51 (0.036)	Up	mRNA metabolic process
+Polymerase (RNA) III (DNA directed) polypeptide H (22.9 kd)	POLR3H	NM_001018052	1.51 (0.015)	Down	mRNA metabolic process
+Gem (nuclear organelle)-associated protein 7	GEMIN7	NM_024707	1.48 (0.021)	Down	mRNA metabolic process
+UPF3 regulator of nonsense transcripts homolog A (yeast)	UPF3A	NM_023011	1.48 (0.034)	Up	mRNA metabolic process
+LSM5 homolog, U6 small nuclear RNA-associated (Saccharomyces cerevisiae)	LSM5	NM_012322	1.47 (0.031)	Down	mRNA metabolic process
+Small nuclear ribonucleoprotein polypeptide E	SNRPE	NM_003094	1.47 (0.039)	Down	mRNA metabolic process
+LSM3 homolog, U6 small nuclear RNA-associated	LSM3	NM_014463	1.46 (0.030)	Down	mRNA metabolic process
+Integrator complex subunit 5	INTS5	NM_030628	1.46 (0.045)	Down	mRNA metabolic process
+Keratin 7	KRT7	NM_005556	3.58 (0.033)	Down	Metabolic process
+Chitinase 1	CHIT1	NM_003465	2.99 (0.036)	Down	Metabolic process
+Aldehyde dehydrogenase 1 family, member A3	ALDH1A3	NM_000693	2.15 (0.039)	Down	Metabolic process
+Glutamine-fructose-6-phosphate transaminase 2	GFPT2	NM_005110	2.14 (0.026)	Down	Metabolic process
+BMX nonreceptor tyrosine kinase	BMX	NM_001721	2.04 (0.038)	Up	Metabolic process
+Cystatin A	CSTA	NM_005213	2.00 (0.022)	Down	Metabolic process
+Protein tyrosine phosphatase, receptor type, C	PTPRC	NM_002838	1.96 (0.030)	Up	Metabolic process
+Pim-1 oncogene	PIM1	NM_002648	1.93 (0.036)	Down	Metabolic process
+Dual adaptor of phosphotyrosine and 3-phosphoinositides	DAPP1	NM_014395	1.89 (0.016)	Up	Metabolic process
+Aldolase C, fructose-bisphosphate	ALDOC	NM_005165	1.87 (0.006)	Down	Metabolic process
+Metallothionein 1E	MT1E	AF495759	3.93 (0.031)	Down	Cadmium ion binding
+Metallothionein 1G	MT1G	NM_005950	2.43 (0.012)	Down	Cadmium ion binding
+Metallothionein 1B	MT1B	NM_005947	2.43 (0.026)	Down	Cadmium ion binding
+Metallothionein 1M	MT1M	NM_176870	2.34 (0.046)	Down	Cadmium ion binding
+Metallothionein 1X	MT1X	NM_005952	2.25 (0.013)	Down	Cadmium ion binding
+Metallothionein 1H	MT1H	NM_005951	2.04 (0.033)	Down	Cadmium ion binding
+Metallothionein 1A	MT1A	NM_005946	1.94 (0.032)	Down	Cadmium ion binding
+GA-binding protein transcription factor, beta-subunit 2	GABPB2	BC035091	3.19 (0.002)	Up	Gene expression
+Interferon regulatory factor 5	IRF5	NM_002200	1.99 (0.036)	Up	Gene expression
+Zinc finger protein 514	ZNF514	NM_032788	1.90 (0.002)	Up	Gene expression
+Zinc finger protein 251	ZNF251	ENST00292562	1.79 (0.031)	Up	Gene expression
+Zinc finger protein 593	ZNF593	NM_015871	1.76 (0.029)	Down	Gene expression
+Nuclear receptor subfamily 2, group F, member 2	NR2F2	NM_021005	1.69 (0.008)	Up	Gene expression
+Zinc finger protein 226	ZNF226	NM_001032372	1.55 (0.041)	Up	Gene expression
+Myeloid leukemia factor 1	MLF1	NM_022443	1.54 (0.002)	Down	Gene expression
+Death inducer-obliterator 1	DIDO1	NM_033081	1.53 (0.019)	Down	Gene expression
+Forkhead box P1, transcript variant 1	FOXP1	NM_032682	1.50 (0.032)	Up	Gene expression
+Adrenomedullin	ADM	NM_001124	1.89 (0.020)	Up	Cellular biosynthetic process
+Phosphoserine aminotransferase 1	PSAT1	NM_058179	1.80 (0.037)	Down	Cellular biosynthetic process
+Arachidonate 5-lipoxygenase	ALOX5	NM_000698	1.67 (0.021)	Up	Cellular biosynthetic process
+Glycine amidinotransferase	GATM	NM_001482	1.59 (0.008)	Up	Cellular biosynthetic process
+cAMP-responsive element-binding protein 5	CREB5	NM_182898	1.57 (0.030)	Down	Cellular biosynthetic process
+24-Dehydrocholesterol reductase	DHCR24	NM_014762	1.57 (0.042)	Down	Cellular biosynthetic process
+Oxysterol-binding protein-like 10	OSBPL10	NM_017784	1.55 (0.032)	Up	Cellular biosynthetic process
+5,10-Methenyltetrahydrofolate synthetase	MTHFS	NM_006441	1.53 (0.031)	Down	Cellular biosynthetic process
+Pterin-4 alpha-carbinolamine dehydratase	PCBD1	NM_000281	1.53 (0.011)	Down	Cellular biosynthetic process
+Protein kinase, AMP-activated, beta2 noncatalytic subunit	PRKAB2	NM_005399	1.49 (0.041)	Up	Cellular biosynthetic process

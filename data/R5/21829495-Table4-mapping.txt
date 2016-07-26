@@ -1,0 +1,46 @@
+# Generate Mapping Tables Script: Version 4 11:06 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:06 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+hgnc_symbol|MCM2|MCM2	hgnc_symbol|MCM7|MCM7	hgnc_symbol|PKMYT1|PKMYT1	hgnc_symbol|CDK2|CDK2	hgnc_symbol|GADD45B|GADD45B	hgnc_symbol|MAD2L2|MAD2L2	hgnc_symbol|TFDP1|TFDP1	hgnc_symbol|GADD45A|GADD45A	hgnc_symbol|PCNA|PCNA	hgnc_symbol|ORC1L|ORC1L
+hgnc_symbol|IRAK2|IRAK2	hgnc_symbol|NFKBIA|NFKBIA	hgnc_symbol|BCL2L1|BCL2L1	hgnc_symbol|TNFRSF10B|TNFRSF10B	hgnc_symbol|BAX|BAX	hgnc_symbol|DFFA|DFFA	hgnc_symbol|EXOG|EXOG	hgnc_symbol|TNF|TNF
+hgnc_symbol|ADA|ADA	hgnc_symbol|ADCY3|ADCY3	hgnc_symbol|ADCY8|ADCY8	hgnc_symbol|POLA1|POLA1	hgnc_symbol|POLR3K|POLR3K	hgnc_symbol|POLE2|POLE2	hgnc_symbol|GART|GART	hgnc_symbol|DGUOK|DGUOK
+hgnc_symbol|MAP3K8|MAP3K8	hgnc_symbol|GADD45B|GADD45B	hgnc_symbol|DUSP2|DUSP2	hgnc_symbol|ATF4|ATF4	hgnc_symbol|GADD45A|GADD45A	hgnc_symbol|DUSP5|DUSP5	hgnc_symbol|TNF|TNF	hgnc_symbol|DUSP10|DUSP10
+hgnc_symbol|TNFSF9|TNFSF9	hgnc_symbol|TNFRSF10B|TNFRSF10B	hgnc_symbol|CD70|CD70	hgnc_symbol|IL8|IL8	hgnc_symbol|TNF|TNF	hgnc_symbol|TNFRSF18|TNFRSF18	hgnc_symbol|TNFSF13B|TNFSF13B
+hgnc_symbol|MCM2|MCM2	hgnc_symbol|MCM7|MCM7	hgnc_symbol|POLA1|POLA1	hgnc_symbol|PCNA|PCNA	hgnc_symbol|POLE2|POLE2
+hgnc_symbol|PARP2|PARP2	hgnc_symbol|PCNA|PCNA	hgnc_symbol|POLE2|POLE2	hgnc_symbol|APEX2|APEX2	hgnc_symbol|POLB|POLB
+hgnc_symbol|SOCS3|SOCS3	hgnc_symbol|NFKBIA|NFKBIA	hgnc_symbol|TNF|TNF	hgnc_symbol|NFKBIE|NFKBIE	hgnc_symbol|CPT1A|CPT1A
+hgnc_symbol|CDK2|CDK2	hgnc_symbol|GADD45B|GADD45B	hgnc_symbol|TNFRSF10B|TNFRSF10B	hgnc_symbol|BAX|BAX	hgnc_symbol|GADD45A|GADD45A
+hgnc_symbol|NFKBIA|NFKBIA	hgnc_symbol|LYN|LYN	hgnc_symbol|IL8|IL8	hgnc_symbol|JAM2|JAM2	hgnc_symbol|SRC|SRC
+hgnc_symbol|NFKBIA|NFKBIA	hgnc_symbol|BCL2L1|BCL2L1	hgnc_symbol|CDK2|CDK2	hgnc_symbol|TRAF3|TRAF3	hgnc_symbol|TRAF4|TRAF4
+hgnc_symbol|NFKBIA|NFKBIA	hgnc_symbol|MAP3K8|MAP3K8	hgnc_symbol|IL8|IL8	hgnc_symbol|TNF|TNF	hgnc_symbol|TRAF3|TRAF3
+hgnc_symbol|SHMT2|SHMT2	hgnc_symbol|GART|GART	hgnc_symbol|MTHFS|MTHFS	hgnc_symbol|MTHFD1L|MTHFD1L
+hgnc_symbol|ASS1|ASS1	hgnc_symbol|ACY1|ACY1	hgnc_symbol|ALDH7A1|ALDH7A1	hgnc_symbol|SMS|SMS
+hgnc_symbol|WARS|WARS	hgnc_symbol|YARS|YARS	hgnc_symbol|GARS|GARS	hgnc_symbol|RARS|RARS
+hgnc_symbol|CBS|CBS	hgnc_symbol|PHGDH|PHGDH	hgnc_symbol|SHMT2|SHMT2	hgnc_symbol|GARS|GARS
+hgnc_symbol|ADCY3|ADCY3	hgnc_symbol|ADCY8|ADCY8	hgnc_symbol|CSNK1D|CSNK1D	hgnc_symbol|SRC|SRC
+hgnc_symbol|UPP1|UPP1	hgnc_symbol|POLA1|POLA1	hgnc_symbol|POLR3K|POLR3K	hgnc_symbol|POLE2|POLE2
+hgnc_symbol|ADCY3|ADCY3	hgnc_symbol|ADCY8|ADCY8	hgnc_symbol|ATF4|ATF4	hgnc_symbol|SRC|SRC
+hgnc_symbol|NFKBIA|NFKBIA	hgnc_symbol|MAP3K8|MAP3K8	hgnc_symbol|TNF|TNF	hgnc_symbol|NFKBIE|NFKBIE
+hgnc_symbol|CGN|CGN	hgnc_symbol|MYL2|MYL2	hgnc_symbol|JAM2|JAM2	hgnc_symbol|SRC|SRC
+hgnc_symbol|TRIP10|TRIP10	hgnc_symbol|SOCS3|SOCS3	hgnc_symbol|PFKM|PFKM	hgnc_symbol|PTPN1|PTPN1
+hgnc_symbol|MSH6|MSH6	hgnc_symbol|PCNA|PCNA	hgnc_symbol|EXO1|EXO1
+hgnc_symbol|ASS1|ASS1	hgnc_symbol|PYCR1|PYCR1	hgnc_symbol|RARS|RARS
+hgnc_symbol|ERCC1|ERCC1	hgnc_symbol|PCNA|PCNA	hgnc_symbol|POLE2|POLE2
+hgnc_symbol|ACADVL|ACADVL	hgnc_symbol|ALDH7A1|ALDH7A1	hgnc_symbol|CPT1A|CPT1A
+hgnc_symbol|GSTA4|GSTA4	hgnc_symbol|GGCT|GGCT	hgnc_symbol|SMS|SMS
+hgnc_symbol|IMPA2|IMPA2	hgnc_symbol|INPP1|INPP1	hgnc_symbol|ITPKA|ITPKA
+hgnc_symbol|BCL2L1|BCL2L1	hgnc_symbol|BAX|BAX	hgnc_symbol|TNF|TNF
+hgnc_symbol|CSNK1E|CSNK1E	hgnc_symbol|CSNK1D|CSNK1D	hgnc_symbol|RAB23|RAB23
+hgnc_symbol|ALDH7A1|ALDH7A1	hgnc_symbol|PFKM|PFKM	hgnc_symbol|GCK|GCK
+hgnc_symbol|GSTA4|GSTA4	hgnc_symbol|FMO4|FMO4	hgnc_symbol|CYP3A5|CYP3A5
+hgnc_symbol|NFKBIA|NFKBIA	hgnc_symbol|LYN|LYN	hgnc_symbol|NFKBIE|NFKBIE
+hgnc_symbol|NFKBIA|NFKBIA	hgnc_symbol|BCL2L1|BCL2L1	hgnc_symbol|STAT5A|STAT5A
+hgnc_symbol|IMPA2|IMPA2	hgnc_symbol|INPP1|INPP1	hgnc_symbol|ITPKA|ITPKA
+hgnc_symbol|NFKBIA|NFKBIA	hgnc_symbol|CDK2|CDK2	hgnc_symbol|ATF4|ATF4
+hgnc_symbol|TNFRSF10B|TNFRSF10B	hgnc_symbol|ULBP1|ULBP1	hgnc_symbol|TNF|TNF
+hgnc_symbol|SOCS3|SOCS3	hgnc_symbol|BCL2L1|BCL2L1	hgnc_symbol|STAT5A|STAT5A
+hgnc_symbol|ADCY3|ADCY3	hgnc_symbol|ADCY8|ADCY8	hgnc_symbol|ITPKA|ITPKA
+hgnc_symbol|MYL2|MYL2	hgnc_symbol|SRC|SRC	hgnc_symbol|PARVB|PARVB

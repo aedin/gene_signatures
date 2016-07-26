@@ -1,0 +1,33 @@
+# Generate Mapping Tables Script: Version 4 11:07 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:07 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+refseq_dna|NM_008102|NM_008102	unigene|Mm.10651|Mm.10651	mgi_symbol|Gch1|Gch1
+entrezgene|AK010362|71967	unigene|Mm.379207|Mm.379207	mgi_symbol|2410003J06Rik|2410003J06Rik
+entrezgene|M12573|15511	unigene|Mm.372314|Mm.372314	mgi_symbol|Hspa1b|Hspa1b
+entrezgene|BG076333|17768	unigene|Mm.443|Mm.443	mgi_symbol|Mthfd2|Mthfd2
+embl|BB450769|BB450769
+refseq_dna|NM_007893|NM_007893	unigene|Mm.163132|Mm.163132	mgi_symbol|E4f1|E4f1
+embl|BB027397|BB027397	unigene|Mm.445985|Mm.445985
+embl|BM201499|BM201499	unigene|Mm.450309|Mm.450309
+embl|BM247240|BM247240
+embl|BM211430|BM211430	unigene|Mm.413311|Mm.413311
+embl|BB631473|BB631473	unigene|Mm.437948|Mm.437948
+refseq_dna|NM_013738|NM_013738	unigene|Mm.103380|Mm.103380	mgi_symbol|Plek2|Plek2
+entrezgene|BB462549|269587	unigene|Mm.30038|Mm.30038	mgi_symbol|Epb4.1|Epb4.1
+embl|BB201490|BB201490	unigene|Mm.445692|Mm.445692
+embl|C79489|C79489
+embl|BE631223|BE631223	unigene|Mm.472907|Mm.472907
+embl|BG066654|BG066654
+embl|BF461324|BF461324	unigene|Mm.449557|Mm.449557
+embl|BB205419|BB205419
+entrezgene|BG071170|237898	unigene|Mm.178524|Mm.178524	mgi_symbol|Usp32|Usp32
+refseq_dna|NM_009824|NM_009824	unigene|Mm.194339|Mm.194339	mgi_symbol|Cbfa2t3|Cbfa2t3
+embl|BB471309|BB471309	unigene|Mm.406286|Mm.406286
+entrezgene|AK020483|72289	unigene|Mm.298256|Mm.298256	mgi_symbol|Malat1|Malat1
+embl|BM240223|BM240223	unigene|Mm.438431|Mm.438431
+entrezgene|BB328803|12725	unigene|Mm.259751|Mm.259751	mgi_symbol|Clcn3|Clcn3
+entrezgene|AF022992|18626	unigene|Mm.7373|Mm.7373	mgi_symbol|Per1|Per1
+entrezgene|BB547420|229473	unigene|Mm.28838|Mm.28838	mgi_symbol|D930015E06Rik|D930015E06Rik

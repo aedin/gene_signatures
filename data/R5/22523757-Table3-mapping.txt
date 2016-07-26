@@ -1,0 +1,36 @@
+# Generate Mapping Tables Script: Version 4 11:03 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:03 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+refseq_dna|NM_015365|NM_015365	hgnc_symbol|AMMECR1|AMMECR1
+refseq_dna|NM_015185|NM_015185	hgnc_symbol|ARHGEF9|ARHGEF9
+refseq_dna|NM_199320|NM_199320	hgnc_symbol|PHF17|PHF17
+refseq_dna|NM_002135|NM_002135	hgnc_symbol|NR4A1|NR4A1
+refseq_dna|NM_016952|NM_016952	hgnc_symbol|CDON|CDON
+refseq_dna|NM_152495|NM_152495	hgnc_symbol|CNIH3|CNIH3
+refseq_dna|NM_020695|NM_020695	hgnc_symbol|REXO1|REXO1
+refseq_dna|NM_018043|NM_018043	hgnc_symbol|TMEM16A|TMEM16A
+refseq_dna|NM_004747|NM_004747	hgnc_symbol|DLG5|DLG5
+entrezgene|AK025758|4773	hgnc_symbol|NFATc2|NFATc2
+refseq_dna|NM_000195|NM_000195	hgnc_symbol|HPS1|HPS1
+entrezgene|AK021820|286205	hgnc_symbol|GOLGA1|GOLGA1
+refseq_dna|NM_004101|NM_004101	hgnc_symbol|F2RL2|F2RL2
+refseq_dna|NM_177403|NM_177403	hgnc_symbol|RAB7B|RAB7B
+refseq_dna|NM_198794|NM_198794	hgnc_symbol|MAP4K5|MAP4K5
+refseq_dna|NM_001352|NM_001352	hgnc_symbol|DBP|DBP
+refseq_dna|NM_031431|NM_031431	hgnc_symbol|COG3|COG3
+refseq_dna|NM_017868|NM_017868	hgnc_symbol|TTC12|TTC12
+refseq_dna|NM_018171|NM_018171	hgnc_symbol|APPL2|APPL2
+refseq_dna|NM_005907|NM_005907	hgnc_symbol|MAN1A1|MAN1A1
+refseq_dna|NM_022037|NM_022037	hgnc_symbol|TIA1|TIA1
+refseq_dna|NM_018439|NM_018439	hgnc_symbol|IMPACT|IMPACT
+refseq_dna|NM_006243|NM_006243	hgnc_symbol|PPP2R5A|PPP2R5A
+refseq_dna|NM_016619|NM_016619	hgnc_symbol|PLAC8|PLAC8
+refseq_dna|NM_001935|NM_001935	hgnc_symbol|DPP4|DPP4
+refseq_dna|NM_004538|NM_004538	hgnc_symbol|NAP1L3|NAP1L3
+refseq_dna|NM_005771|NM_005771	hgnc_symbol|DHRS9|DHRS9
+refseq_dna|NM_004117|NM_004117	hgnc_symbol|FKBP5|FKBP5
+refseq_dna|NM_015417|NM_015417	hgnc_symbol|C20orf28|C20orf28
+refseq_dna|NM_000966|NM_000966	hgnc_symbol|RARG|RARG

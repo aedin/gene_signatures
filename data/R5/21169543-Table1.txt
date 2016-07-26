@@ -1,0 +1,41 @@
+Gene	Sf vs B6	Sf.Il2-/-vs B6	Sf vs Sf.Il2-/-	Cell types	Ligand/Receptor
+Cysltr1	89	3	32	Th2	LTC4, LTD4, LTE4
+Ltb4r1	8	1	9	Th2	LTB4
+Il1rl1	12	1	14	Th2	IL-33
+Itgae	9	2	18	T-cells	E-cadherin
+Ccr1	10	1	8	Inflammatory T-cells	CCL3, 5, 7
+Ccr2	6	3	2	Th1	CCL2
+Ccr8	3	1	3	T-cells in asthma	CCL1
+Cxcr6	11	4	3	Induced by IL-2&15	CXCL16
+Ccl1	24	6	4	T-cells in asthma	CCR8
+Ccl8	3	1.5	2	Mast, Eos, Baso	CCR1, 2B, R5
+Cxcl2	4	1	4	Monocytes, MÉ”	CXCR2
+Selp	2	1	2	Skin homing T-cells	P-selectin ligand
+L1cam	1	3	2	Leukocytes	IntegrinÉøÉÀÉ¿3
+Cxcr5	2	8	4	TFH	CXCL13
+Ccr5	4	16	4	Th1	CCL3, 4, 5, 8
+Ccl4	3	23	8	Inflammatory T-cells	CCR1, 5
+Ccl5	2	17	8	Inflammatory T-cells	CCR1, 3,5
+Cd44	3	4	1.5	Memory T-cells	Hyaluronic acid
+Ccr3	3	3	1	T-cells, Eos & Baso	CCL5, 7, 11, 13, 26
+Ccr4	2	3	1.5	Th2	CCL2, 4, 5, 17, 22
+Ccr6	2	5	2	Th17	CCL20
+Cxcr2	2	2	1	Th1 (induced by IFN-É¡)	CXCL1, 2, 3, 5, 8 (IL-8),
+Cxcr3	3	4	1	Th1 (induced by IFN-É¡)	CXCL4, 9, 10, 11
+Cxcr6	11	4	3	Induced by IL-2&15	CXCL16
+Cxcr7	2	3	1.5	Leukocytes	CXCL11, 12
+Ccl1	24	6	4	T-cells in asthma	CCR8
+Cxcl3	9	9	1	Leukocytes, epithelial	CXCR2
+Cxcl8	2	3	1	MÉ”, epithelial	CXCR1, 2
+Cxcl9	2	5	2	Th1 (induced by IFN-É¡)	CXCR3
+Cxcl10	13	10	1	Leukocytes, endothelial	CXCR3
+Cxcl11	10	6	2	Leukocytes, panc., liver	CXCR3
+Ccr7	3	3	1	LN homing	CCL19
+Ccl19	3	3	1	LN homing	CCR7
+Ccl20	3	2	1.5	Th17	CCR6
+Itga4	3	1.5	2	T-cells	ÉÀCAM-1, LGALS8, Paxillin
+Itga6	2	4	2	T-cells	TSPAN4, GIPC1
+Itga9	5	2	2	Leukocytes	ÉÀCAM1, cytotactin & osteopontin
+Itgb3	3	3	1	Platelets	Fibrinogen
+Sell	3	2	1.5	Naive T-cells	Gly-CAM1, Mad-CAM1, CD34
+Selplg	2	2	1	Skin homing T-cells	P-selectin

@@ -1,0 +1,31 @@
+# Generate Mapping Tables Script: Version 4 11:08 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:08 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+agilent_wholegenome|A_51_P495780|A_51_P495780	mgi_symbol|Plin4|Plin4
+agilent_wholegenome|A_51_P259296|A_51_P259296	mgi_symbol|Lpl|Lpl
+agilent_wholegenome|A_51_P374752|A_51_P374752	mgi_symbol|Rbp4|Rbp4
+agilent_wholegenome|A_51_P420547|A_51_P420547	mgi_symbol|TC1536702|TC1536702
+agilent_wholegenome|A_52_P592909|A_52_P592909	mgi_symbol|Dgat2|Dgat2
+agilent_wholegenome|A_51_P412579|A_51_P412579	mgi_symbol|Tmem182|Tmem182
+agilent_wholegenome|A_52_P492989|A_52_P492989	mgi_symbol|Ncan|Ncan
+agilent_wholegenome|A_52_P258194|A_52_P258194	mgi_symbol|Crtac1|Crtac1
+agilent_wholegenome|A_52_P577533|A_52_P577533	mgi_symbol|AI427515|AI427515
+agilent_wholegenome|A_51_P375146|A_51_P375146	mgi_symbol|Cd36|Cd36
+agilent_wholegenome|A_51_P239236|A_51_P239236	mgi_symbol|Acacb|Acacb
+agilent_wholegenome|A_51_P350453|A_51_P350453	mgi_symbol|Pdk4|Pdk4
+agilent_wholegenome|A_52_P572808|A_52_P572808	mgi_symbol|Agpat9|Agpat9
+agilent_wholegenome|A_51_P321126|A_51_P321126	mgi_symbol|Fasn|Fasn
+agilent_wholegenome|A_52_P306845|A_52_P306845	mgi_symbol|Cav1|Cav1
+agilent_wholegenome|A_51_P383638|A_51_P383638	mgi_symbol|Amy1|Amy1
+agilent_wholegenome|A_51_P253117|A_51_P253117	mgi_symbol|Sorbs1|Sorbs1
+agilent_wholegenome|A_52_P674808|A_52_P674808	mgi_symbol|Chrdl1|Chrdl1
+agilent_wholegenome|A_51_P480020|A_51_P480020	mgi_symbol|4931408D14Rik|4931408D14Rik
+agilent_wholegenome|A_51_P496432|A_51_P496432	mgi_symbol|Acsl1|Acsl1
+agilent_wholegenome|A_51_P241465|A_51_P241465	mgi_symbol|Gsn|Gsn
+agilent_wholegenome|A_51_P221062|A_51_P221062	mgi_symbol|Prkar2b|Prkar2b
+agilent_wholegenome|A_51_P268697|A_51_P268697	mgi_symbol|Slc1a3|Slc1a3
+agilent_wholegenome|A_51_P520718|A_51_P520718	mgi_symbol|Ptger3|Ptger3
+agilent_wholegenome|A_51_P114094|A_51_P114094	mgi_symbol|Clstn3|Clstn3

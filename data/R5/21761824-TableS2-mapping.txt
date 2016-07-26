@@ -1,0 +1,37 @@
+# Generate Mapping Tables Script: Version 4 11:05 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:05 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+hgnc_symbol|GART|GART
+hgnc_symbol|RAD18|RAD18
+hgnc_symbol|BAD|BAD
+hgnc_symbol|RAD51|RAD51
+hgnc_symbol|RELA|RELA
+hgnc_symbol|SLC1A5|SLC1A5
+hgnc_symbol|E2F1|E2F1
+hgnc_symbol|AKT1|AKT1
+hgnc_symbol|TOP2B|TOP2B
+hgnc_symbol|OGG1|OGG1
+hgnc_symbol|CHEK1|CHEK1
+hgnc_symbol|HSPB1|HSPB1
+hgnc_symbol|CHEK2|CHEK2
+hgnc_symbol|ABCB7|ABCB7
+hgnc_symbol|XRCC2|XRCC2
+hgnc_symbol|ITGAE|ITGAE
+hgnc_symbol|MMP2|MMP2
+hgnc_symbol|MT3|MT3
+hgnc_symbol|ABCA8|ABCA8
+hgnc_symbol|OVCA2|OVCA2
+hgnc_symbol|FAS|FAS
+hgnc_symbol|GPX4|GPX4
+hgnc_symbol|CLDN1|CLDN1
+hgnc_symbol|SLC7A5|SLC7A5
+hgnc_symbol|RB1|RB1
+hgnc_symbol|TRADD|TRADD
+hgnc_symbol|BNIP3L|BNIP3L
+hgnc_symbol|TGFA|TGFA
+hgnc_symbol|ABCC3|ABCC3
+hgnc_symbol|ACTB|ACTB
+hgnc_symbol|ASAH1|ASAH1

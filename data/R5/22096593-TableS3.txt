@@ -1,0 +1,93 @@
+Hit Gene	EntrezID	N_TPM	F_TPM	Change induced by Fasting	DO Term
+APOM	55937	199.97	133.93	Downregulated	Diabetes mellitus
+GHR	2690	164.18	81.7	Downregulated	Diabetes mellitus
+DBI	1622	1423.77	664	Downregulated	Diabetes mellitus
+BMP4	652	17.09	4.69	Downregulated	Diabetes mellitus
+PARP1	142	5.54	2.01	Downregulated	Diabetes mellitus
+TSC22D1	8848	24.24	9.09	Downregulated	Diabetes mellitus
+LIPC	3990	276.81	185.2	Downregulated	Diabetes mellitus
+KLF10	7071	12.22	7.08	Downregulated	Diabetes mellitus
+CALD1	800	221.07	143.97	Downregulated	Diabetes mellitus
+SPP1	6696	56.79	32.33	Downregulated	Diabetes mellitus
+CAPN1	823	13.27	6.03	Downregulated	Diabetes mellitus
+MBL2	4153	195.3	100.45	Downregulated	Diabetes mellitus
+PKLR	5313	194.72	12.82	Downregulated	Diabetes mellitus
+XBP1	7494	210.47	136.03	Downregulated	Diabetes mellitus
+RDX	5962	54.69	35.87	Downregulated	Diabetes mellitus
+LPL	4023	15.27	8.51	Downregulated	Diabetes mellitus
+PYGL	5836	273.76	81.22	Downregulated	Diabetes mellitus
+GCK	2645	121.42	3.73	Downregulated	Diabetes mellitus
+GCKR	2646	42.76	14.16	Downregulated	Diabetes mellitus
+ECE1	1889	43.43	25.45	Downregulated	Diabetes mellitus
+MGEA5	10724	35.89	22.67	Downregulated	Diabetes mellitus
+RORC	6097	21.76	8.99	Downregulated	Diabetes mellitus
+F3	2152	2.67	0.57	Downregulated	Diabetes mellitus
+TTR	7276	253.14	67.06	Downregulated	Diabetes mellitus
+RELA	5970	21.48	9.76	Downregulated	Diabetes mellitus
+ADIPOR2	79602	284.26	150.76	Downregulated	Diabetes mellitus
+SOD3	6649	21.38	12.53	Downregulated	Diabetes mellitus
+CYBA	1535	11.45	6.12	Downregulated	Diabetes mellitus
+TXNIP	10628	25.87	86	Upregulatedd	Diabetes mellitus
+GJA1	2697	0.19	2.01	Upregulatedd	Diabetes mellitus
+JUN	3725	6.11	11.38	Upregulatedd	Diabetes mellitus
+SLC2A1	6513	2.86	9.85	Upregulatedd	Diabetes mellitus
+NAMPT	10135	32.36	58.16	Upregulatedd	Diabetes mellitus
+CEBPB	1051	117.69	293.3	Upregulatedd	Diabetes mellitus
+IGFBP1	3484	125.14	855.99	Upregulatedd	Diabetes mellitus
+PCK1	5105	656.14	2481.5	Upregulatedd	Diabetes mellitus
+PTGES2	80142	15.85	26.02	Upregulatedd	Diabetes mellitus
+SLC22A5	6584	2.2	15.31	Upregulatedd	Diabetes mellitus
+APOA1	335	14475.62	21816.42	Upregulatedd	Diabetes mellitus
+APOA4	337	103.95	1039.86	Upregulatedd	Diabetes mellitus
+CTGF	1490	2	10.81	Upregulatedd	Diabetes mellitus
+TTPA	7274	33.41	49.55	Upregulatedd	Diabetes mellitus
+LEPR	3953	0.86	18.37	Upregulatedd	Diabetes mellitus
+HSPB1	3315	8.5	19.52	Upregulatedd	Diabetes mellitus
+ADFP	123	243.88	415.66	Upregulatedd	Diabetes mellitus
+GSTM3	2947	16.51	0.77	Downregulated	Liver cancer
+PARP1	142	5.54	2.01	Downregulated	Liver cancer
+SLC9A3R1	9368	52.02	27.65	Downregulated	Liver cancer
+MBL2	4153	195.3	100.45	Downregulated	Liver cancer
+JAG1	182	3.63	0.67	Downregulated	Liver cancer
+DUSP6	1848	23.58	13.68	Downregulated	Liver cancer
+DUSP1	1843	62.23	33.77	Downregulated	Liver cancer
+LAMA5	3911	8.78	3.44	Downregulated	Liver cancer
+CASP9	842	9.35	4.88	Downregulated	Liver cancer
+ELF1	1997	22.14	14.16	Downregulated	Liver cancer
+MAD2L2	10459	19.85	8.71	Downregulated	Liver cancer
+MAD2L1BP	9587	9.83	4.21	Downregulated	Liver cancer
+OSGIN1	29948	1343.01	206.92	Downregulated	Liver cancer
+VEGFB	7423	7.54	2.2	Downregulated	Liver cancer
+GADD45B	4616	0.57	9.18	Upregulatedd	Liver cancer
+ATF5	22809	473.54	931.37	Upregulatedd	Liver cancer
+IGFBP1	3484	125.14	855.99	Upregulatedd	Liver cancer
+HSPB1	3315	8.5	19.52	Upregulatedd	Liver cancer
+APOA1	335	14475.62	21816.42	Upregulatedd	Liver cancer
+CTGF	1490	2	10.81	Upregulatedd	Liver cancer
+HTATIP2	10553	8.21	15.11	Upregulatedd	Liver cancer
+GNMT	27232	265.74	389.92	Upregulatedd	Liver cancer
+EIF6	3692	10.98	17.31	Upregulatedd	Liver cancer
+NR1I3	9970	32.17	132.11	Upregulatedd	Liver cancer
+ADFP	123	243.88	415.66	Upregulatedd	Liver cancer
+APOM	55937	199.97	133.93	Downregulated	Infection
+LAMA5	3911	8.78	3.44	Downregulated	Infection
+CASP9	842	9.35	4.88	Downregulated	Infection
+IRF1	3659	20.33	12.63	Downregulated	Infection
+EPS15	2060	7.45	3.44	Downregulated	Infection
+LDLR	3949	30.16	15.59	Downregulated	Infection
+SGPL1	8879	17.28	8.99	Downregulated	Infection
+CLDN1	9076	229.28	84.95	Downregulated	Infection
+MBL2	4153	195.3	100.45	Downregulated	Infection
+RDX	5962	54.69	35.87	Downregulated	Infection
+PVRL1	5818	8.21	3.92	Downregulated	Infection
+EIF4G1	1981	69.97	44.67	Downregulated	Infection
+CDKN1A	1026	8.69	25.45	Upregulatedd	Infection
+NAMPT	10135	32.36	58.16	Upregulatedd	Infection
+SDC1	6382	27.39	42.28	Upregulatedd	Infection
+LBP	3929	13.17	20.76	Upregulatedd	Infection
+FST	10468	7.16	1.63	Downregulated	Liver tumor
+DUSP1	1843	62.23	33.77	Downregulated	Liver tumor
+HSPB1	3315	8.5	19.52	Upregulatedd	Liver tumor
+APOA1	335	14475.62	21816.42	Upregulatedd	Liver tumor
+ADFP	123	243.88	415.66	Upregulatedd	Liver tumor
+IGFBP1	3484	125.14	855.99	Upregulatedd	Liver tumor

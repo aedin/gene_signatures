@@ -1,0 +1,20 @@
+Target	Function	p-Value	Fold-Change	miRNA	Function
+DACH1	dachshund homolog 1, transcription regulation, marrow microenvironment	0.0392738	1.27652	hsa-miR-342	Transcription Regulation
+ENO1	enolase 1, (alpha), transcription regulation (MYC)	0.133759	-1.17469	hsa-miR-558	Transcription Regulation
+FOXP1	forkhead box P1, transcription factor, ?tumor suppressor	4.68E-05	-1.27138	hsa-miR-150, 342	Transcription Regulation
+HOXA3	homeobox A3, transcription factor	0.00171039	1.32686	hsa-miR-10b	Transcription Regulation
+MEIS1	Meis homeobox 1, transcription regulation	8.99E-05	1.38496	hsa-miR-365	Transcription Regulation
+MYB	v-myb myeloblastosis viral oncogene homolog, transcription factor	0.000495758	1.13861	hsa-miR-103, 150, 342	Transcription Regulation
+SOX4	SRY (sex determining region Y)-box 4, transcription factor, DNA damage	0.450521	-1.06625	hsa-miR-140	Transcription Regulation
+PTPRJ	protein tyrosine phosphatase, receptor type, J, cell signaling	0.220728	-1.15073	hsa-miR-365	Cell Signaling
+RASD1	RAS, dexamethasone-induced 1, cell signaling	0.422677	1.06616	hsa-miR-365	Cell Signaling
+CACNA2D4	calcium channel, voltage-dependent, alpha 2/delta subunit 4	0.786542	1.00646	hsa-miR-378	Ion Channel
+KCNQ1	potassium voltage-gated channel, KQT-like subfamily, member 1	0.00054998	-1.19323	hsa-miR-365	Ion Channel
+SCN3A	sodium channel, voltage-gated, type III, alpha subunit	0.510436	-1.03524	hsa-miR-10b	Ion Channel
+ZDHHC8	zinc finger, DHHC-type containing 8	0.0913159	-1.06066	hsa-miR-636	Zinc finger Proteins (Function not specified)
+ZNF827	zinc finger protein 827	0.0588725	1.07585	hsa-miR-140	Zinc finger Proteins (Function not specified)
+ZNRF1	zinc and ring finger 1	0.000363403	1.20773	hsa-miR-365	Zinc finger Proteins (Function not specified)
+DLL1	delta-like 1, Notch ligand, lineage differentiation	0.363298	-1.04678	hsa-miR-103	Other
+NRN1	neuritin 1	0.0211991	1.10743	hsa-miR-636	Other
+SLC6A6	solute carrier family 6 (neurotransmitter transporter, taurine), member 6	0.109231	-1.27128	hsa-miR-140	Other
+UBE2E2	ubiquitin-conjugating enzyme E2E 2 (UBC4/5 homolog, yeast)	0.00345321	1.27421	hsa-miR-636	Other

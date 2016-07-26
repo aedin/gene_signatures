@@ -1,0 +1,31 @@
+# Generate Mapping Tables Script: Version 4 11:03 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:03 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+affy_hg_u133_plus_2|204039_at|204039_at	hgnc_symbol|CEBPA|CEBPA
+affy_hg_u133_plus_2|210762_s_at|210762_s_at	hgnc_symbol|DLC1|DLC1
+affy_hg_u133_plus_2|223095_at|223095_at	hgnc_symbol|MARVELD1|MARVELD1
+affy_hg_u133_plus_2|1553183_at|1553183_at	hgnc_symbol|UMODL1|UMODL1
+affy_hg_u133_plus_2|214651_s_at|214651_s_at	hgnc_symbol|HOXA9|HOXA9
+affy_hg_u133_plus_2|1555630a_at|1555630a_at	hgnc_symbol|RAB34|RAB34
+affy_hg_u133_plus_2|222423_at|222423_at	hgnc_symbol|NDFIP1|NDFIP1
+affy_hg_u133_plus_2|203305_at|203305_at	hgnc_symbol|F13A1|F13A1
+affy_hg_u133_plus_2|202252_at|202252_at	hgnc_symbol|RAB13|RAB13
+affy_hg_u133_plus_2|209686_at|209686_at	hgnc_symbol|S100B|S100B
+affy_hg_u133_plus_2|211709_s_at|211709_s_at	hgnc_symbol|CLEC11A|CLEC11A
+affy_hg_u133_plus_2|34210_at|34210_at	hgnc_symbol|CD52|CD52
+affy_hg_u133_plus_2|206698_at|206698_at	hgnc_symbol|XK|XK
+affy_hg_u133_plus_2|205624_at|205624_at	hgnc_symbol|CPA3|CPA3
+affy_hg_u133_plus_2|201161_s_at|201161_s_at	hgnc_symbol|CSDA|CSDA
+affy_hg_u133_plus_2|219463_at|219463_at	hgnc_symbol|C20orf103|C20orf103
+affy_hg_u133_plus_2|201427_s_at|201427_s_at	hgnc_symbol|SEPP1|SEPP1
+affy_hg_u133_plus_2|223708_at|223708_at	hgnc_symbol|C1QTNF4|C1QTNF4
+affy_hg_u133_plus_2|238021_s_at|238021_s_at	hgnc_symbol|hCG-1815491|hCG-1815491
+affy_hg_u133_plus_2|220010_at|220010_at	hgnc_symbol|KCNE1L|KCNE1L
+affy_hg_u133_plus_2|210387_at|210387_at	hgnc_symbol|HIST1H2BG|HIST1H2BG
+affy_hg_u133_plus_2|210116_at|210116_at	hgnc_symbol|SH2D1A|SH2D1A
+affy_hg_u133_plus_2|202242_at|202242_at	hgnc_symbol|TSPAN7|TSPAN7
+affy_hg_u133_plus_2|212775_at|212775_at	hgnc_symbol|OBSL1|OBSL1
+affy_hg_u133_plus_2|201841_s_at|201841_s_at	hgnc_symbol|HSPB1 // MEIS3|HSPB1 // MEIS3

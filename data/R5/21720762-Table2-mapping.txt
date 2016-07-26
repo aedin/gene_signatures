@@ -1,0 +1,62 @@
+# Generate Mapping Tables Script: Version 4 11:05 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:05 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+hgnc_symbol|ABCB1|ABCB1
+hgnc_symbol|ABCB4|ABCB4
+hgnc_symbol|ABCB10|ABCB10
+hgnc_symbol|ABCD1|ABCD1
+hgnc_symbol|ABCC1|ABCC1
+hgnc_symbol|GPX1|GPX1
+hgnc_symbol|GSTP1|GSTP1
+hgnc_symbol|POR|POR
+hgnc_symbol|CYP26B1|CYP26B1
+hgnc_symbol|CYP24A1|CYP24A1
+hgnc_symbol|CYP1B1|CYP1B1
+hgnc_symbol|TNFRSF6B|TNFRSF6B	hgnc_symbol|RTEL1|RTEL1
+hgnc_symbol|TNFRSF10D|TNFRSF10D
+hgnc_symbol|CD40|CD40
+hgnc_symbol|TNFSF10|TNFSF10
+hgnc_symbol|TNFSF13|TNFSF13	hgnc_symbol|TNFSF12|TNFSF12
+hgnc_symbol|AKT3|AKT3
+hgnc_symbol|BCL2|BCL2
+hgnc_symbol|BAG1|BAG1
+hgnc_symbol|BAG3|BAG3
+hgnc_symbol|BAG5|BAG5
+hgnc_symbol|EGFR|EGFR
+hgnc_symbol|CTGF|CTGF
+hgnc_symbol|ECGF1|ECGF1
+hgnc_symbol|IL18|IL18
+hgnc_symbol|TUBB2|TUBB2
+hgnc_symbol|TUBB6 (beta V tubulin)|TUBB6 (beta V tubulin)
+hgnc_symbol|TUBB3 (beta III tubulin)|TUBB3 (beta III tubulin)
+hgnc_symbol|MAP1B|MAP1B
+hgnc_symbol|MAP7|MAP7
+hgnc_symbol|TTBK2|TTBK2
+hgnc_symbol|ITGA6|ITGA6
+hgnc_symbol|COL4A2|COL4A2
+hgnc_symbol|LAMA1|LAMA1
+hgnc_symbol|FN1|FN1
+hgnc_symbol|CLDN1|CLDN1
+hgnc_symbol|GPC6|GPC6
+hgnc_symbol|SDC2|SDC2
+hgnc_symbol|MMP23B|MMP23B	hgnc_symbol|MMP23A|MMP23A
+hgnc_symbol|ADAM9|ADAM9
+hgnc_symbol|ADAMTS3|ADAMTS3
+hgnc_symbol|TIMP3|TIMP3
+hgnc_symbol|SNAI2|SNAI2
+hgnc_symbol|ER|ER	hgnc_symbol|ESR1|ESR1
+hgnc_symbol|CDH1|CDH1
+hgnc_symbol|CDH2|CDH2
+hgnc_symbol|VIM|VIM
+hgnc_symbol|OCLN|OCLN
+hgnc_symbol|CLDN3|CLDN3
+hgnc_symbol|CLDN4|CLDN4
+hgnc_symbol|CLDN7|CLDN7
+hgnc_symbol|CLDN11|CLDN11
+hgnc_symbol|EGFR|EGFR
+hgnc_symbol|FGFR1|FGFR1
+hgnc_symbol|SMAD3|SMAD3
+hgnc_symbol|TGFBR2|TGFBR2

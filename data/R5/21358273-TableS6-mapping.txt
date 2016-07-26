@@ -1,0 +1,47 @@
+# Generate Mapping Tables Script: Version 4 11:03 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:03 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+illumina_humanwg_6_v2|ILMN_1797735|ILMN_1797735	hgnc_symbol|C1orf21|C1orf21
+illumina_humanwg_6_v2|ILMN_1915908|ILMN_1915908	hgnc_symbol|uc004cic.2|uc004cic.2
+illumina_humanwg_6_v2|ILMN_1720235|ILMN_1720235	hgnc_symbol|ADSSL1|ADSSL1
+illumina_humanwg_6_v2|ILMN_1743275|ILMN_1743275	hgnc_symbol|SH3MD4|SH3MD4
+illumina_humanwg_6_v2|ILMN_1763837|ILMN_1763837	hgnc_symbol|ANPEP|ANPEP
+illumina_humanwg_6_v2|ILMN_1811330|ILMN_1811330	hgnc_symbol|FAM134B|FAM134B
+illumina_humanwg_6_v2|ILMN_1889436|ILMN_1889436	hgnc_symbol|unannotated transcript|unannotated transcript
+illumina_humanwg_6_v2|ILMN_1725746|ILMN_1725746	hgnc_symbol|KIAA1394|KIAA1394
+illumina_humanwg_6_v2|ILMN_1812067|ILMN_1812067	hgnc_symbol|RER1|RER1
+illumina_humanwg_6_v2|ILMN_1723846|ILMN_1723846	hgnc_symbol|FAM119B|FAM119B
+illumina_humanwg_6_v2|ILMN_1784737|ILMN_1784737	hgnc_symbol|EDG6|EDG6
+illumina_humanwg_6_v2|ILMN_1721818|ILMN_1721818	hgnc_symbol|CLDN10|CLDN10
+illumina_humanwg_6_v2|ILMN_1752591|ILMN_1752591	hgnc_symbol|LEPROTL1|LEPROTL1
+illumina_humanwg_6_v2|ILMN_1804444|ILMN_1804444	hgnc_symbol|PDIA2|PDIA2
+illumina_humanwg_6_v2|ILMN_1812297|ILMN_1812297	hgnc_symbol|CYP26B1|CYP26B1
+illumina_humanwg_6_v2|ILMN_1843198|ILMN_1843198	hgnc_symbol|AK026966|AK026966
+illumina_humanwg_6_v2|ILMN_1699265|ILMN_1699265	hgnc_symbol|TNFRSF10B|TNFRSF10B
+illumina_humanwg_6_v2|ILMN_1705390|ILMN_1705390	hgnc_symbol|KLHL22|KLHL22
+illumina_humanwg_6_v2|ILMN_1781532|ILMN_1781532	hgnc_symbol|LYK5|LYK5
+illumina_humanwg_6_v2|ILMN_1889155|ILMN_1889155	hgnc_symbol|unannotated transcript|unannotated transcript
+illumina_humanwg_6_v2|ILMN_1667692|ILMN_1667692	hgnc_symbol|PTGIS|PTGIS
+illumina_humanwg_6_v2|ILMN_1694007|ILMN_1694007	hgnc_symbol|ADRB3|ADRB3
+illumina_humanwg_6_v2|ILMN_1711807|ILMN_1711807	hgnc_symbol|LPHN3|LPHN3
+illumina_humanwg_6_v2|ILMN_1729117|ILMN_1729117	hgnc_symbol|COL5A2|COL5A2
+illumina_humanwg_6_v2|ILMN_1763404|ILMN_1763404	hgnc_symbol|LOC653226|LOC653226
+illumina_humanwg_6_v2|ILMN_1784749|ILMN_1784749	hgnc_symbol|GAS6|GAS6
+illumina_humanwg_6_v2|ILMN_1802905|ILMN_1802905	hgnc_symbol|PIAS4|PIAS4
+illumina_humanwg_6_v2|ILMN_1653028|ILMN_1653028	hgnc_symbol|COL4A1|COL4A1
+illumina_humanwg_6_v2|ILMN_1665290|ILMN_1665290	hgnc_symbol|LOC643995|LOC643995
+illumina_humanwg_6_v2|ILMN_1708275|ILMN_1708275	hgnc_symbol|PTGS1|PTGS1
+illumina_humanwg_6_v2|ILMN_1743701|ILMN_1743701	hgnc_symbol|SLCO4A1|SLCO4A1
+illumina_humanwg_6_v2|ILMN_1863509|ILMN_1863509	hgnc_symbol|uc003hcu.1|uc003hcu.1
+illumina_humanwg_6_v2|ILMN_1849784|ILMN_1849784	hgnc_symbol|unannotated transcript|unannotated transcript
+illumina_humanwg_6_v2|ILMN_1662888|ILMN_1662888	hgnc_symbol|PDLIM4|PDLIM4
+illumina_humanwg_6_v2|ILMN_1722056|ILMN_1722056	hgnc_symbol|ATP7B|ATP7B
+illumina_humanwg_6_v2|ILMN_1775708|ILMN_1775708	hgnc_symbol|SLC2A3|SLC2A3
+illumina_humanwg_6_v2|ILMN_1819304|ILMN_1819304	hgnc_symbol|DDX5|DDX5
+illumina_humanwg_6_v2|ILMN_1684368|ILMN_1684368	hgnc_symbol|MST150|MST150
+illumina_humanwg_6_v2|ILMN_1739608|ILMN_1739608	hgnc_symbol|CP|CP
+illumina_humanwg_6_v2|ILMN_1726852|ILMN_1726852	hgnc_symbol|CPOX|CPOX
+illumina_humanwg_6_v2|ILMN_1668996|ILMN_1668996	hgnc_symbol|C1QBP|C1QBP

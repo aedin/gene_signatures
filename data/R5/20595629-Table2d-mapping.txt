@@ -1,0 +1,24 @@
+# Generate Mapping Tables Script: Version 4 11:05 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:05 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+mirbase_id|hsa-miR-192/4|hsa-miR-192/4	mirbase_id|hsa-miR-210|hsa-miR-210	mirbase_id|hsa-miR-455-3p|hsa-miR-455-3p	hgnc_symbol|AhR|AhR	hgnc_symbol|AP-4|AP-4	hgnc_symbol|Arnt|Arnt
+mirbase_id|hsa-miR-21|hsa-miR-21	mirbase_id|hsa-miR-210|hsa-miR-210	mirbase_id|hsa-miR-455-3p|hsa-miR-455-3p	hgnc_symbol|AP-2alphaA|AP-2alphaA	hgnc_symbol|AP-2gamma|AP-2gamma
+mirbase_id|hsa-miR-192/4|hsa-miR-192/4	mirbase_id|hsa-miR-204|hsa-miR-204	hgnc_symbol|AR|AR	hgnc_symbol|AREB6|AREB6	hgnc_symbol|Nkx2-1|Nkx2-1
+mirbase_id|hsa-miR-192/4|hsa-miR-192/4	mirbase_id|hsa-miR-455-3p|hsa-miR-455-3p	hgnc_symbol|ATF6|ATF6
+mirbase_id|hsa-miR-192/4|hsa-miR-192/4	mirbase_id|hsa-miR-204|hsa-miR-204	mirbase_id|hsa-miR-455-3p|hsa-miR-455-3p	hgnc_symbol|E47|E47
+mirbase_id|hsa-miR-204|hsa-miR-204	mirbase_id|hsa-miR-21|hsa-miR-21	hgnc_symbol|Elk-1|Elk-1
+mirbase_id|hsa-miR-204|hsa-miR-204	mirbase_id|hsa-miR-210|hsa-miR-210	hgnc_symbol|AP-2rep|AP-2rep	hgnc_symbol|FOXD1|FOXD1	hgnc_symbol|MAZR|MAZR
+mirbase_id|hsa-miR-146a|hsa-miR-146a	mirbase_id|hsa-miR-204|hsa-miR-204	hgnc_symbol|GATA-1|GATA-1	hgnc_symbol|NF-kappaB2|NF-kappaB2	hgnc_symbol|Sox9|Sox9
+mirbase_id|hsa-miR-210|hsa-miR-210	mirbase_id|hsa-miR-455-3p|hsa-miR-455-3p	hgnc_symbol|GR-alpha|GR-alpha
+mirbase_id|hsa-miR-146a|hsa-miR-146a	mirbase_id|hsa-miR-204|hsa-miR-204	mirbase_id|hsa-miR-210|hsa-miR-210	hgnc_symbol|HSF1 (long)|HSF1 (long)	hgnc_symbol|Meis-1|Meis-1
+mirbase_id|hsa-miR-146a|hsa-miR-146a	mirbase_id|hsa-miR-210|hsa-miR-210	hgnc_symbol|HSF2|HSF2	hgnc_symbol|OCA-B|OCA-B	hgnc_symbol|Octa-factor|Octa-factor	hgnc_symbol|octamer-binding factor|octamer-binding factor	hgnc_symbol|Oct-B1(B2|Oct-B1(B2	hgnc_symbol|B3)|B3)	hgnc_symbol|POU2F2 (2F2B|POU2F2 (2F2B	hgnc_symbol|2F2C|2F2C	hgnc_symbol|3F1|3F1	hgnc_symbol|3F2|3F2	hgnc_symbol|4F1(l)|4F1(l)	hgnc_symbol|5F1A|5F1A	hgnc_symbol|5F1B|5F1B	hgnc_symbol|5F1C)|5F1C)
+mirbase_id|hsa-miR-204|hsa-miR-204	mirbase_id|hsa-miR-455-3p|hsa-miR-455-3p	hgnc_symbol|ISGF-3|ISGF-3	hgnc_symbol|Pax-5|Pax-5	hgnc_symbol|STAT1alpha|STAT1alpha	hgnc_symbol|STAT1beta|STAT1beta	hgnc_symbol|STAT3|STAT3
+mirbase_id|hsa-miR-146a|hsa-miR-146a	mirbase_id|hsa-miR-21|hsa-miR-21	mirbase_id|hsa-miR-455-3p|hsa-miR-455-3p	hgnc_symbol|MEF-2A|MEF-2A
+mirbase_id|hsa-miR-146a|hsa-miR-146a	mirbase_id|hsa-miR-192/4|hsa-miR-192/4	mirbase_id|hsa-miR-204|hsa-miR-204	mirbase_id|hsa-miR-455-3p|hsa-miR-455-3p	hgnc_symbol|NF-kappaB|NF-kappaB	hgnc_symbol|NF-kappaB1|NF-kappaB1
+mirbase_id|hsa-miR-192/4|hsa-miR-192/4	mirbase_id|hsa-miR-204|hsa-miR-204	mirbase_id|hsa-miR-210|hsa-miR-210	mirbase_id|hsa-miR-455-3p|hsa-miR-455-3p	hgnc_symbol|Pax-2|Pax-2
+mirbase_id|hsa-miR-146a|hsa-miR-146a	mirbase_id|hsa-miR-192/4|hsa-miR-192/4	mirbase_id|hsa-miR-204|hsa-miR-204	mirbase_id|hsa-miR-210|hsa-miR-210	hgnc_symbol|POU2F1|POU2F1
+mirbase_id|hsa-miR-192/4|hsa-miR-192/4	mirbase_id|hsa-miR-204|hsa-miR-204	mirbase_id|hsa-miR-210|hsa-miR-210	hgnc_symbol|PPAR-gamma1|PPAR-gamma1	hgnc_symbol|PPAR-gamma2|PPAR-gamma2
+mirbase_id|hsa-miR-146a|hsa-miR-146a	mirbase_id|hsa-miR-192/4|hsa-miR-192/4	mirbase_id|hsa-miR-455-3p|hsa-miR-455-3p	hgnc_symbol|RelA|RelA

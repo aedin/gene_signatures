@@ -1,0 +1,69 @@
+# Generate Mapping Tables Script: Version 4 11:03 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:03 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+mirbase_id|hsa-let-7a|hsa-let-7a
+mirbase_id|hsa-let-7b|hsa-let-7b
+mirbase_id|hsa-let-7c|hsa-let-7c
+mirbase_id|hsa-let-7d|hsa-let-7d
+mirbase_id|hsa-let-7f|hsa-let-7f
+mirbase_id|hsa-let-7i|hsa-let-7i
+mirbase_id|hsa-miR-1|hsa-miR-1
+mirbase_id|hsa-miR-20a|hsa-miR-20a
+mirbase_id|hsa-miR-21|hsa-miR-21
+mirbase_id|hsa-miR-22|hsa-miR-22
+mirbase_id|hsa-miR-24|hsa-miR-24
+mirbase_id|hsa-miR-25|hsa-miR-25
+mirbase_id|hsa-miR-26a|hsa-miR-26a
+mirbase_id|hsa-miR-27a|hsa-miR-27a
+mirbase_id|hsa-miR-27b|hsa-miR-27b
+mirbase_id|hsa-miR-28-3p|hsa-miR-28-3p
+mirbase_id|hsa-miR-29a|hsa-miR-29a
+mirbase_id|hsa-miR-29c|hsa-miR-29c
+mirbase_id|hsa-miR-30a|hsa-miR-30a
+mirbase_id|hsa-miR-30d|hsa-miR-30d
+mirbase_id|hsa-miR-92a|hsa-miR-92a
+mirbase_id|hsa-miR-95|hsa-miR-95
+mirbase_id|hsa-miR-99a|hsa-miR-99a
+mirbase_id|hsa-miR-100|hsa-miR-100
+mirbase_id|hsa-miR-101|hsa-miR-101
+mirbase_id|hsa-miR-103|hsa-miR-103
+mirbase_id|hsa-miR-107|hsa-miR-107
+mirbase_id|hsa-miR-122|hsa-miR-122
+mirbase_id|hsa-miR-125a-5p|hsa-miR-125a-5p
+mirbase_id|hsa-miR-125b|hsa-miR-125b
+mirbase_id|hsa-miR-128|hsa-miR-128
+mirbase_id|hsa-miR-139-3p|hsa-miR-139-3p
+mirbase_id|hsa-miR-140-3p|hsa-miR-140-3p
+mirbase_id|hsa-miR-146-5p|hsa-miR-146-5p
+mirbase_id|hsa-miR-148a|hsa-miR-148a
+mirbase_id|hsa-miR-150|hsa-miR-150
+mirbase_id|hsa-miR-185|hsa-miR-185
+mirbase_id|hsa-miR-185|hsa-miR-185
+mirbase_id|hsa-miR-191|hsa-miR-191
+mirbase_id|hsa-miR-192|hsa-miR-192
+mirbase_id|hsa-miR-193b|hsa-miR-193b
+mirbase_id|hsa-miR-197|hsa-miR-197
+mirbase_id|hsa-miR-199a-3p|hsa-miR-199a-3p
+mirbase_id|hsa-miR-206|hsa-miR-206
+mirbase_id|hsa-miR-210|hsa-miR-210
+mirbase_id|hsa-miR-215|hsa-miR-215
+mirbase_id|hsa-miR-221|hsa-miR-221
+mirbase_id|hsa-miR-222|hsa-miR-222
+mirbase_id|hsa-miR-320a|hsa-miR-320a
+mirbase_id|hsa-miR-320b|hsa-miR-320b
+mirbase_id|hsa-miR-339-5p|hsa-miR-339-5p
+mirbase_id|hsa-miR-361|hsa-miR-361
+mirbase_id|hsa-miR-378|hsa-miR-378
+mirbase_id|hsa-miR-411|hsa-miR-411
+mirbase_id|hsa-miR-423-5p|hsa-miR-423-5p
+mirbase_id|hsa-miR-484|hsa-miR-484
+mirbase_id|hsa-miR-451|hsa-miR-451
+mirbase_id|hsa-miR-483|hsa-miR-483
+mirbase_id|hsa-miR-486-3p|hsa-miR-486-3p
+mirbase_id|hsa-miR-486-5p|hsa-miR-486-5p
+mirbase_id|hsa-miR-532-5p|hsa-miR-532-5p
+mirbase_id|hsa-miR-532-3p|hsa-miR-532-3p
+mirbase_id|hsa-miR-584|hsa-miR-584

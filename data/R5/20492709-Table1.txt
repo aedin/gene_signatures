@@ -1,0 +1,17 @@
+Case #	BRCA status	Description	Age at diagnosis	Stage	Local treatment	Systemic treatment	Description	Age at diagnosis	Time interval from BC (months)	FIGO stage	Metastatic site	Outcome
+1	ND	Breast Tumor	45	III	M	CT-T	Ovarian Tumor	48	34	IV	Liver	DOD
+2	ND	Breast Tumor	48	III	M	CT	Ovarian Tumor	48	73*	IV	Liver	DOD
+3	ND	Breast Tumor	45	III	BCS	CT-T	Ovarian Tumor	57	150	IV	"Bone, liver"	DOD
+4	ND	Breast Tumor	59	I	BCS	No	Ovarian Tumor	70	130	IV	"Peritoneal carcinomatosis, axillary LN"	DOD
+5	ND	Breast Tumor	57	III	M	T	Ovarian Tumor	58	20	IIIc	NA	DOD
+6	ND	Breast Tumor	49	III	M	CT-T	Ovarian Tumor	52	33	IIIc	NA	DOD
+7	BRCA2 m	Breast Tumor	66	I	BCS	CT	Ovarian Tumor	67	19	Ic	NA	NED
+8	"BRCA1 wt, BRCA2 uk"	Breast Tumor	46	III	BCS	CT-T	Ovarian Tumor	46	0	IIa	NA	DOD
+9	ND	Breast Tumor	34	III	M	CT-T	Ovarian Tumor	45	133	IV	"Peritoneal carcinomatosis, supraclavicular LN, brain"	SD
+10	ND	Breast Tumor	47	III	M	T	Ovarian Tumor	54	83	IIIc	NA	NED
+11	BRCA1 m	Breast Tumor	69	III	M	CT	Ovarian Tumor	71	24	IIa	NA	DOD
+12	Familial history ¢´	Breast Tumor	47	III	M	CT-T	Ovarian Tumor	54	79	IIIc	NA	DOD
+13	ND	Breast Tumor	50	I	BCS	No	Ovarian Tumor	57	87	IIc	NA	NED
+14	ND	Breast Tumor	57	II	BCS	T	Ovarian Tumor	64	82	IIc	NA	NED
+15	"BRCA1 wt, BRCA2 wt"	Breast Tumor	32	III	M	CT	Ovarian Tumor	38	74	IV	Pleura	DOD
+16	ND	Breast Tumor	48	II	BCS	CT	Ovarian Tumor	49	18	IIIc	NA	DOD

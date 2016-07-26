@@ -1,0 +1,208 @@
+# Generate Mapping Tables Script: Version 4 11:08 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:08 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+entrezgene|341289|341289
+entrezgene|485170|485170
+entrezgene|409154|409154	mgi_symbol|na|na
+entrezgene|652688|652688	mgi_symbol|Olfr1450|Olfr1450
+entrezgene|588033|588033
+entrezgene|783155|783155	mgi_symbol|Fgf5|Fgf5
+entrezgene|721264|721264	mgi_symbol|Dscam|Dscam
+entrezgene|422948|422948
+entrezgene|929310|929310	mgi_symbol|Afp|Afp
+entrezgene|312137|312137
+entrezgene|932248|932248	mgi_symbol|Rbp4|Rbp4
+entrezgene|441133|441133	mgi_symbol|Slc28a2|Slc28a2
+entrezgene|476307|476307	mgi_symbol|Bid3|Bid3
+entrezgene|391171|391171
+entrezgene|729395|729395	mgi_symbol|Igfbp5|Igfbp5
+entrezgene|759808|759808	mgi_symbol|Hist1h2ac|Hist1h2ac
+entrezgene|782315|782315	mgi_symbol|5330408N05Rik|5330408N05Rik
+entrezgene|358837|358837	mgi_symbol|Irs4|Irs4
+entrezgene|856242|856242
+entrezgene|316156|316156	mgi_symbol|Tnfrsf18|Tnfrsf18
+entrezgene|396339|396339	mgi_symbol|Tmprss2|Tmprss2
+entrezgene|437440|437440	mgi_symbol|Hsd17b9|Hsd17b9
+entrezgene|913230|913230	mgi_symbol|Apoa2|Apoa2
+entrezgene|372079|372079
+entrezgene|855571|855571
+entrezgene|744117|744117	mgi_symbol|Rhbg|Rhbg
+entrezgene|690253|690253	mgi_symbol|Lnx1|Lnx1
+entrezgene|589604|589604	mgi_symbol|C230013L11Rik|C230013L11Rik
+entrezgene|643954|643954	mgi_symbol|Dusp26|Dusp26
+entrezgene|375429|375429	mgi_symbol|Lamb3|Lamb3
+entrezgene|811330|811330
+entrezgene|439174|439174
+entrezgene|659625|659625	mgi_symbol|Theg|Theg
+entrezgene|435760|435760	mgi_symbol|1700027N10Rik|1700027N10Rik
+entrezgene|463597|463597
+entrezgene|357336|357336
+entrezgene|487588|487588
+entrezgene|344792|344792	mgi_symbol|G0s2|G0s2
+entrezgene|666555|666555
+entrezgene|864310|864310	mgi_symbol|Cthrc1|Cthrc1
+entrezgene|472226|472226
+entrezgene|789466|789466	mgi_symbol|Prss12|Prss12
+entrezgene|915527|915527	mgi_symbol|Clps|Clps
+entrezgene|751623|751623
+entrezgene|772436|772436
+entrezgene|441590|441590	mgi_symbol|Mal2|Mal2
+entrezgene|498825|498825	mgi_symbol|Sec5l1|Sec5l1
+entrezgene|482117|482117
+entrezgene|852020|852020
+entrezgene|384320|384320
+entrezgene|749763|749763	mgi_symbol|Gabrb3|Gabrb3
+entrezgene|829714|829714
+entrezgene|719012|719012	mgi_symbol|Kng2|Kng2
+entrezgene|435392|435392
+entrezgene|699693|699693	mgi_symbol|Mybpc2|Mybpc2
+entrezgene|578314|578314	mgi_symbol|5730467H21Rik|5730467H21Rik
+entrezgene|930772|930772	mgi_symbol|Slc16a13|Slc16a13
+entrezgene|352654|352654	mgi_symbol|Dpep3|Dpep3
+entrezgene|791865|791865	mgi_symbol|Hist1h3f|Hist1h3f
+entrezgene|464250|464250	mgi_symbol|Rnf180|Rnf180
+entrezgene|339024|339024	mgi_symbol|Marveld3|Marveld3
+entrezgene|834186|834186	mgi_symbol|Fkbp6|Fkbp6
+entrezgene|853114|853114	mgi_symbol|Kcnmb4|Kcnmb4
+entrezgene|890132|890132	mgi_symbol|na|na
+entrezgene|546734|546734	mgi_symbol|Prom2|Prom2
+entrezgene|399434|399434
+entrezgene|600412|600412	mgi_symbol|E130203B14Rik|E130203B14Rik
+entrezgene|696550|696550	mgi_symbol|Atf7ip2|Atf7ip2
+entrezgene|593343|593343	mgi_symbol|Arhgef3|Arhgef3
+entrezgene|359513|359513
+entrezgene|512117|512117
+entrezgene|439103|439103
+entrezgene|467523|467523	mgi_symbol|Nkx3-1|Nkx3-1
+entrezgene|885722|885722	mgi_symbol|Rshl1|Rshl1
+entrezgene|926231|926231
+entrezgene|503701|503701
+entrezgene|402567|402567	mgi_symbol|Coch|Coch
+entrezgene|365667|365667	mgi_symbol|Ntn4|Ntn4
+entrezgene|658340|658340	mgi_symbol|Cpvl|Cpvl
+entrezgene|663785|663785	mgi_symbol|Slc36a2|Slc36a2
+entrezgene|475705|475705	mgi_symbol|2310045A20Rik|2310045A20Rik
+entrezgene|575758|575758
+entrezgene|393786|393786
+entrezgene|750975|750975	mgi_symbol|Slc23a1|Slc23a1
+entrezgene|567279|567279	mgi_symbol|Usp13|Usp13
+entrezgene|678556|678556
+entrezgene|848401|848401	mgi_symbol|2810459M11Rik|2810459M11Rik
+entrezgene|728239|728239	mgi_symbol|Gstm6|Gstm6
+entrezgene|421816|421816	mgi_symbol|Clec2e|Clec2e
+entrezgene|890056|890056	mgi_symbol|Pcanap6|Pcanap6
+entrezgene|302827|302827	mgi_symbol|Fto|Fto
+entrezgene|686468|686468
+entrezgene|891890|891890	mgi_symbol|Magea8|Magea8
+entrezgene|733871|733871	mgi_symbol|Zfp354b|Zfp354b
+entrezgene|765608|765608
+entrezgene|854287|854287	mgi_symbol|2210010L05Rik|2210010L05Rik
+entrezgene|505324|505324	mgi_symbol|Maob|Maob
+entrezgene|912184|912184	mgi_symbol|Ttyh1|Ttyh1
+entrezgene|302054|302054	mgi_symbol|Rapgef5|Rapgef5
+entrezgene|852049|852049	mgi_symbol|Zfpn1a3|Zfpn1a3
+entrezgene|578285|578285	mgi_symbol|Slc40a1|Slc40a1
+entrezgene|518663|518663	mgi_symbol|Tmem41b|Tmem41b
+entrezgene|469652|469652	mgi_symbol|Igsf1|Igsf1
+entrezgene|504251|504251	mgi_symbol|Adcy2|Adcy2
+entrezgene|583301|583301
+entrezgene|752377|752377
+entrezgene|437388|437388
+entrezgene|469902|469902	mgi_symbol|Lrrc3|Lrrc3
+entrezgene|588381|588381	mgi_symbol|Alox15b|Alox15b
+entrezgene|362206|362206	mgi_symbol|Hist1h2ae|Hist1h2ae
+entrezgene|850476|850476	mgi_symbol|na|na
+entrezgene|557227|557227	mgi_symbol|Dnahc11|Dnahc11
+entrezgene|718962|718962
+entrezgene|476172|476172	mgi_symbol|4933402E13Rik|4933402E13Rik
+entrezgene|428487|428487	mgi_symbol|Gnmt|Gnmt
+entrezgene|558068|558068	mgi_symbol|1110030H18Rik|1110030H18Rik
+entrezgene|742855|742855	mgi_symbol|Zfp612|Zfp612
+entrezgene|627721|627721	mgi_symbol|Cpt1b|Cpt1b
+entrezgene|851904|851904
+entrezgene|464018|464018
+entrezgene|356847|356847	mgi_symbol|Siglec5|Siglec5
+entrezgene|904888|904888	mgi_symbol|Tspan12|Tspan12
+entrezgene|726308|726308	mgi_symbol|4930429H24Rik|4930429H24Rik
+entrezgene|847962|847962
+entrezgene|636855|636855	mgi_symbol|Sdsl|Sdsl
+entrezgene|630009|630009	mgi_symbol|2410118P20Rik|2410118P20Rik
+entrezgene|309042|309042	mgi_symbol|Ctsh|Ctsh
+entrezgene|365443|365443	mgi_symbol|Cldn5|Cldn5
+entrezgene|444993|444993	mgi_symbol|Rab17|Rab17
+entrezgene|712936|712936	mgi_symbol|Fgg|Fgg
+entrezgene|922534|922534	mgi_symbol|Rassf6|Rassf6
+entrezgene|825337|825337	mgi_symbol|Lgi2|Lgi2
+entrezgene|901716|901716	mgi_symbol|Magea5|Magea5
+entrezgene|734299|734299	mgi_symbol|na|na
+entrezgene|925379|925379	mgi_symbol|Akr1c13|Akr1c13
+entrezgene|919185|919185	mgi_symbol|Tex12|Tex12
+entrezgene|729766|729766	mgi_symbol|A030007D23Rik|A030007D23Rik
+entrezgene|868033|868033	mgi_symbol|Olfm1|Olfm1
+entrezgene|791213|791213	mgi_symbol|E130115E03Rik|E130115E03Rik
+entrezgene|929804|929804	mgi_symbol|Hsf2|Hsf2
+entrezgene|761289|761289	mgi_symbol|Sp8|Sp8
+entrezgene|629101|629101
+entrezgene|660865|660865	mgi_symbol|2510049J12Rik|2510049J12Rik
+entrezgene|881510|881510	mgi_symbol|4632411J06Rik|4632411J06Rik
+entrezgene|509729|509729
+entrezgene|612894|612894	mgi_symbol|Ugt2b34|Ugt2b34
+entrezgene|360587|360587
+entrezgene|676503|676503
+entrezgene|895392|895392
+entrezgene|411743|411743
+entrezgene|360072|360072	mgi_symbol|AU040377|AU040377
+entrezgene|452328|452328	mgi_symbol|Smpdl3a|Smpdl3a
+entrezgene|370481|370481
+entrezgene|772549|772549
+entrezgene|902496|902496	mgi_symbol|Cited1|Cited1
+entrezgene|448995|448995
+entrezgene|635689|635689	mgi_symbol|Cct6b|Cct6b
+entrezgene|523449|523449	mgi_symbol|2810457I06Rik|2810457I06Rik
+entrezgene|315206|315206
+entrezgene|905421|905421	mgi_symbol|5730559C18Rik|5730559C18Rik
+entrezgene|718886|718886	mgi_symbol|C2|C2
+entrezgene|366145|366145	mgi_symbol|6430537H07Rik|6430537H07Rik
+entrezgene|689441|689441	mgi_symbol|LOC434197|LOC434197
+entrezgene|490562|490562	mgi_symbol|D14Ertd581e|D14Ertd581e
+entrezgene|912408|912408	mgi_symbol|Gpx6|Gpx6
+entrezgene|425404|425404	mgi_symbol|D330012F22Rik|D330012F22Rik
+entrezgene|362896|362896	mgi_symbol|Pdzk1|Pdzk1
+entrezgene|712844|712844	mgi_symbol|Daf1|Daf1
+entrezgene|548509|548509	mgi_symbol|Idua|Idua
+entrezgene|829280|829280	mgi_symbol|Prkcb1|Prkcb1
+entrezgene|672340|672340	mgi_symbol|E130319B15Rik|E130319B15Rik
+entrezgene|382361|382361	mgi_symbol|Nans|Nans
+entrezgene|913451|913451	mgi_symbol|Adssl1|Adssl1
+entrezgene|361788|361788
+entrezgene|928493|928493	mgi_symbol|Rgl3|Rgl3
+entrezgene|579693|579693	mgi_symbol|1700029J07Rik|1700029J07Rik
+entrezgene|528112|528112	mgi_symbol|Plxdc2|Plxdc2
+entrezgene|651638|651638
+entrezgene|756314|756314	mgi_symbol|Hira|Hira
+entrezgene|855303|855303
+entrezgene|334928|334928	mgi_symbol|Mmp15|Mmp15
+entrezgene|692146|692146	mgi_symbol|4922504H04Rik|4922504H04Rik
+entrezgene|764179|764179	mgi_symbol|Crym|Crym
+entrezgene|684703|684703	mgi_symbol|Brsk2|Brsk2
+entrezgene|383711|383711	mgi_symbol|Pla1a|Pla1a
+entrezgene|524957|524957	mgi_symbol|Anxa13|Anxa13
+entrezgene|659628|659628	mgi_symbol|Ahi1|Ahi1
+entrezgene|687842|687842	mgi_symbol|4930521I23Rik|4930521I23Rik
+entrezgene|482541|482541	mgi_symbol|Slc35b4|Slc35b4
+entrezgene|560089|560089	mgi_symbol|Shd|Shd
+entrezgene|920968|920968	mgi_symbol|H2-Eb1|H2-Eb1
+entrezgene|529985|529985
+entrezgene|578271|578271	mgi_symbol|Marveld2|Marveld2
+entrezgene|770752|770752	mgi_symbol|Nudt11|Nudt11
+entrezgene|888362|888362
+entrezgene|736667|736667	mgi_symbol|Nkd2|Nkd2
+entrezgene|339692|339692	mgi_symbol|Srrp|Srrp
+entrezgene|707662|707662	mgi_symbol|Rnf144|Rnf144
+entrezgene|548735|548735	mgi_symbol|Leprel1|Leprel1
+entrezgene|465508|465508	mgi_symbol|Hebp2|Hebp2
+entrezgene|676829|676829	mgi_symbol|1700020N01Rik|1700020N01Rik
+entrezgene|353919|353919	mgi_symbol|Mjd|Mjd

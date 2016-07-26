@@ -1,0 +1,48 @@
+Hit Gene	EntrezID	N_TPM	R_TPM	Change induced by Refeeding	DO Term
+Gadd45g	23882	58.99	30.65	Downregulated	Liver cancer
+Lama5	16776	8.78	3.81	Downregulated	Liver cancer
+Dusp1	19252	62.23	31.06	Downregulated	Liver cancer
+Osgin1	71839	1343.01	827.46	Downregulated	Liver cancer
+Igf1	16000	36.18	21.29	Downregulated	Liver cancer
+Igfbp1	16006	125.14	68.09	Downregulated	Liver cancer
+Rit1	19769	9.64	17.07	Upregulated	Liver cancer
+Gstm3	14864	16.51	144.3	Upregulated	Liver cancer
+Ephx1	13849	26.54	44.54	Upregulated	Liver cancer
+Acsl4	50790	6.2	13.68	Upregulated	Liver cancer
+Bre	107976	10.98	18.72	Upregulated	Liver cancer
+Eif6	16418	10.98	22.83	Upregulated	Liver cancer
+Sepp1	20363	3234.97	5007.64	Upregulated	Liver cancer
+Cdc16	69957	1.53	8.33	Upregulated	Liver cancer
+Slc9a3r1	26941	52.02	86.29	Upregulated	Liver cancer
+Agt	11606	247.13	159.63	Downregulated	Cirrhosis
+Igf1	16000	36.18	21.29	Downregulated	Cirrhosis
+Igfbp1	16006	125.14	68.09	Downregulated	Cirrhosis
+Mdm2	17246	6.2	12.03	Upregulated	Cirrhosis
+Krt18	16668	167.23	391.98	Upregulated	Cirrhosis
+Fibp	58249	5.25	11.01	Upregulated	Cirrhosis
+Pck1	18534	656.14	394.14	Downregulated	Diabetes mellitus
+Ctsb	13030	9.35	2.67	Downregulated	Diabetes mellitus
+Bmp4	12159	17.09	10.7	Downregulated	Diabetes mellitus
+Cat	12359	24.24	13.89	Downregulated	Diabetes mellitus
+Cd163	93671	20.14	10.18	Downregulated	Diabetes mellitus
+Igfbp1	16006	125.14	68.09	Downregulated	Diabetes mellitus
+Pklr	18770	194.72	355.98	Upregulated	Diabetes mellitus
+Irak1	16179	4.1	12.65	Upregulated	Diabetes mellitus
+Gfpt1	14583	5.63	15.84	Upregulated	Diabetes mellitus
+Hp	15439	1402	2305.57	Upregulated	Diabetes mellitus
+Keap1	50868	13.84	21.6	Upregulated	Diabetes mellitus
+Spp1	20750	56.79	85.06	Upregulated	Diabetes mellitus
+Nampt	59027	32.36	73.54	Upregulated	Diabetes mellitus
+Apoa4	11808	103.95	730.67	Upregulated	Diabetes mellitus
+Slc2a2	20526	76.84	116.43	Upregulated	Diabetes mellitus
+Inppl1	16332	7.83	14.09	Upregulated	Diabetes mellitus
+Ltbr	17000	13.94	21.91	Upregulated	Diabetes mellitus
+Eif4e	13684	0.57	2.78	Upregulated	Diabetes mellitus
+Wfs1	22393	4.87	9.57	Upregulated	Diabetes mellitus
+Lepr	16847	0.86	4.94	Upregulated	Diabetes mellitus
+Igf1	16000	36.18	21.29	Downregulated	Hepatitis C
+Mdm2	17246	6.2	12.03	Upregulated	Hepatitis C
+Krt18	16668	167.23	391.98	Upregulated	Hepatitis C
+Spp1	20750	56.79	85.06	Upregulated	Hepatitis C
+Il18	16173	5.92	11.83	Upregulated	Hepatitis C
+Tlr2	24088	0.38	2.78	Upregulated	Hepatitis C

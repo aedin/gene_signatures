@@ -1,0 +1,42 @@
+# Generate Mapping Tables Script: Version 4 11:03 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:03 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+affy_hg_u133a_2|208712|208712	hgnc_symbol|CCND1|CCND1
+affy_hg_u133a_2|208711|208711	hgnc_symbol|CCND1|CCND1
+affy_hg_u133a_2|207076|207076	hgnc_symbol|ASS1|ASS1
+affy_hg_u133a_2|206121|206121	hgnc_symbol|AMPD1|AMPD1
+affy_hg_u133a_2|220828|220828	hgnc_symbol|FLJ11292|FLJ11292
+affy_hg_u133a_2|212698|212698	hgnc_symbol|SEPT10|SEPT10
+affy_hg_u133a_2|204999|204999	hgnc_symbol|ATF5|ATF5
+affy_hg_u133a_2|204114|204114	hgnc_symbol|NID2|NID2
+affy_hg_u133a_2|218051|218051	hgnc_symbol|NT5DC2|NT5DC2
+affy_hg_u133a_2|203698|203698	hgnc_symbol|FRZB|FRZB
+affy_hg_u133a_2|210230|210230	hgnc_symbol|RNU2-1|RNU2-1
+affy_hg_u133a_2|210800|210800	hgnc_symbol|TIMM8A|TIMM8A
+affy_hg_u133a_2|205047|205047	hgnc_symbol|ASNS|ASNS
+affy_hg_u133a_2|217966|217966	hgnc_symbol|FAM129A|FAM129A
+affy_hg_u133a_2|209921|209921	hgnc_symbol|SLC7A11|SLC7A11
+affy_hg_u133a_2|220448|220448	hgnc_symbol|KCNK12|KCNK12
+affy_hg_u133a_2|209324|209324	hgnc_symbol|RGS16|RGS16
+affy_hg_u133a_2|203697|203697	hgnc_symbol|FRZB|FRZB
+affy_hg_u133a_2|202620|202620	hgnc_symbol|PLOD2|PLOD2
+affy_hg_u133a_2|221841|221841	hgnc_symbol|KLF4|KLF4
+affy_hg_u133a_2|204998|204998	hgnc_symbol|ATF5|ATF5
+affy_hg_u133a_2|210401|210401	hgnc_symbol|P2RX1|P2RX1
+affy_hg_u133a_2|210993|210993	hgnc_symbol|SMAD1|SMAD1
+affy_hg_u133a_2|203423|203423	hgnc_symbol|RBP1|RBP1
+affy_hg_u133a_2|220266|220266	hgnc_symbol|KLF4|KLF4
+affy_hg_u133a_2|215992|215992	hgnc_symbol|RAPGEF2|RAPGEF2
+affy_hg_u133a_2|219572|219572	hgnc_symbol|CADPS2|CADPS2
+affy_hg_u133a_2|217137|217137	hgnc_symbol|NA|NA
+affy_hg_u133a_2|207855|207855	hgnc_symbol|CLCC1|CLCC1
+affy_hg_u133a_2|216859|216859	hgnc_symbol|NA|NA
+affy_hg_u133a_2|219759|219759	hgnc_symbol|ERAP2|ERAP2
+affy_hg_u133a_2|200629|200629	hgnc_symbol|WARS|WARS
+affy_hg_u133a_2|204286|204286	hgnc_symbol|PMAIP1|PMAIP1
+affy_hg_u133a_2|217967|217967	hgnc_symbol|FAM129A|FAM129A
+affy_hg_u133a_2|201914|201914	hgnc_symbol|SEC63|SEC63
+affy_hg_u133a_2|202063|202063	hgnc_symbol|SEL1L|SEL1L

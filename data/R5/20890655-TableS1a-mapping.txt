@@ -1,0 +1,14 @@
+# Generate Mapping Tables Script: Version 4 11:07 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:07 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+agilent_wholegenome|AGI_MM_OLIGO_A_51_P186798|AGI_MM_OLIGO_A_51_P186798	mgi_symbol|Fgf2|Fgf2
+agilent_wholegenome|AGI_MM_OLIGO_A_51_P452711|AGI_MM_OLIGO_A_51_P452711	mgi_symbol|Kcnmb4|Kcnmb4
+agilent_wholegenome|AGI_MM_OLIGO_A_51_P211786|AGI_MM_OLIGO_A_51_P211786	mgi_symbol|LOC381796|LOC381796
+agilent_wholegenome|AGI_MM_OLIGO_A_51_P107321|AGI_MM_OLIGO_A_51_P107321	mgi_symbol|Oxct1|Oxct1
+agilent_wholegenome|AGI_MM_OLIGO_A_51_P327322|AGI_MM_OLIGO_A_51_P327322	mgi_symbol|Solt|Solt
+agilent_wholegenome|AGI_MM_OLIGO_A_51_P149291|AGI_MM_OLIGO_A_51_P149291	mgi_symbol|Glt25d1|Glt25d1
+agilent_wholegenome|AGI_MM_OLIGO_A_51_P186172|AGI_MM_OLIGO_A_51_P186172	mgi_symbol|BC005764|BC005764
+agilent_wholegenome|AGI_MM_OLIGO_A_51_P429335|AGI_MM_OLIGO_A_51_P429335	mgi_symbol|Prss16|Prss16

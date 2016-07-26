@@ -1,0 +1,32 @@
+# Generate Mapping Tables Script: Version 4 11:06 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:06 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+refseq_dna|NM_005252|NM_005252	hgnc_symbol|FOS|FOS
+refseq_dna|NM_001124|NM_001124	hgnc_symbol|ADM|ADM
+refseq_dna|NM_000484|NM_000484	hgnc_symbol|APP|APP
+refseq_dna|NM_015991|NM_015991	hgnc_symbol|C1QA|C1QA
+refseq_dna|NM_004417|NM_004417	hgnc_symbol|DUSP1|DUSP1
+refseq_dna|NM_002727|NM_002727	hgnc_symbol|PRG1|PRG1
+refseq_dna|NM_015675|NM_015675	hgnc_symbol|GADD45B|GADD45B
+refseq_dna|NM_004040|NM_004040	hgnc_symbol|RHOB|RHOB
+refseq_dna|NM_016626|NM_016626	hgnc_symbol|RKHD2|RKHD2
+refseq_dna|NM_000566|NM_000566	hgnc_symbol|FCGR1A|FCGR1A
+refseq_dna|NM_000046|NM_000046	hgnc_symbol|ARSB|ARSB
+refseq_dna|NM_006186|NM_006186	hgnc_symbol|NR4A2|NR4A2
+refseq_dna|NM_002612|NM_002612	hgnc_symbol|PDK4|PDK4
+refseq_dna|NM_003380|NM_003380	hgnc_symbol|VIM|VIM
+refseq_dna|NM_1744918|NM_1744918	hgnc_symbol|MCEMP1|MCEMP1
+refseq_dna|NM_003921|NM_003921	hgnc_symbol|BCL10|BCL10
+refseq_dna|NM_080387|NM_080387	hgnc_symbol|CLEC4D|CLEC4D
+refseq_dna|NM_001032282|NM_001032282	hgnc_symbol|KLF10|KLF10
+refseq_dna|NM_001995|NM_001995	hgnc_symbol|ACSL1|ACSL1
+refseq_dna|NM_006775|NM_006775	hgnc_symbol|QKI|QKI
+refseq_dna|NM_002508|NM_002508	hgnc_symbol|NID1|NID1
+refseq_dna|NM_005746|NM_005746	hgnc_symbol|PBEF1|PBEF1
+refseq_dna|NM_005980|NM_005980	hgnc_symbol|S100P|S100P
+refseq_dna|NM_003864|NM_003864	hgnc_symbol|SAP30|SAP30
+refseq_dna|NM_020307|NM_020307	hgnc_symbol|CCNL1|CCNL1
+refseq_dna|NM_014214|NM_014214	hgnc_symbol|IMPA2|IMPA2

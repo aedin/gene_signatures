@@ -1,0 +1,36 @@
+# Generate Mapping Tables Script: Version 4 11:05 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:05 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+refseq_dna|NM_130786|NM_130786	hgnc_symbol|A1BG|A1BG
+refseq_dna|NM_001023587|NM_001023587	hgnc_symbol|ABCC5|ABCC5
+refseq_dna|NM_001615|NM_001615	hgnc_symbol|ACTG2|ACTG2
+refseq_dna|NM_001633|NM_001633	hgnc_symbol|AMBP|AMBP
+refseq_dna|NM_001643|NM_001643	hgnc_symbol|APOA2|APOA2
+refseq_dna|NM_000041|NM_000041	hgnc_symbol|APOE|APOE
+refseq_dna|NM_001645|NM_001645	hgnc_symbol|APOC1|APOC1
+refseq_dna|NM_152547|NM_152547	hgnc_symbol|BTNL9|BTNL9
+refseq_dna|NM_001855|NM_001855	hgnc_symbol|COL15A1|COL15A1
+refseq_dna|NM_001008540|NM_001008540	hgnc_symbol|CXCR4|CXCR4
+refseq_dna|NM_001135604|NM_001135604	hgnc_symbol|ESM1|ESM1
+refseq_dna|NM_001442|NM_001442	hgnc_symbol|FABP4|FABP4
+refseq_dna|NM_004467|NM_004467	hgnc_symbol|FGL1|FGL1
+refseq_dna|NM_004484|NM_004484	hgnc_symbol|GPC3|GPC3
+refseq_dna|NR_002196|NR_002196	hgnc_symbol|H19|H19
+refseq_dna|NM_000412|NM_000412	hgnc_symbol|HRG|HRG
+refseq_dna|NM_000599|NM_000599	hgnc_symbol|IGFBP5|IGFBP5
+refseq_dna|NM_002215|NM_002215	hgnc_symbol|ITIH1|ITIH1
+refseq_dna|NM_002217|NM_002217	hgnc_symbol|ITIH3|ITIH3
+refseq_dna|NM_002291|NM_002291	hgnc_symbol|LAMB1|LAMB1
+refseq_dna|NM_005947|NM_005947	hgnc_symbol|MT1B|MT1B
+refseq_dna|NM_000607|NM_000607	hgnc_symbol|ORM1|ORM1
+refseq_dna|NM_001145031|NM_001145031	hgnc_symbol|PLAU|PLAU
+refseq_dna|NM_006622|NM_006622	hgnc_symbol|PLK2|PLK2
+refseq_dna|NM_031310|NM_031310	hgnc_symbol|PLVAP|PLVAP
+refseq_dna|NM_015869|NM_015869	hgnc_symbol|PPARG|PPARG
+refseq_dna|NM_012212|NM_012212	hgnc_symbol|PTGR1|PTGR1
+refseq_dna|NM_021033|NM_021033	hgnc_symbol|RAP2A|RAP2A
+refseq_dna|NM_001085|NM_001085	hgnc_symbol|SERPINA3|SERPINA3
+refseq_dna|NM_012339|NM_012339	hgnc_symbol|TSPAN15|TSPAN15

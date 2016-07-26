@@ -1,0 +1,66 @@
+# Generate Mapping Tables Script: Version 4 11:06 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:06 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+mirbase_id|hsa-let-7b|hsa-let-7b	hgnc_symbol|RAS(283)|RAS(283)	hgnc_symbol|c-MYC|c-MYC	hgnc_symbol|HMGA2(1)|HMGA2(1)	hgnc_symbol|IMP-1|IMP-1
+mirbase_id|hsa-let-7c|hsa-let-7c	hgnc_symbol|RAS(283)|RAS(283)	hgnc_symbol|c-MYC|c-MYC	hgnc_symbol|HMGA2(1)|HMGA2(1)	hgnc_symbol|IMP-1|IMP-1
+mirbase_id|hsa-miR-708|hsa-miR-708	hgnc_symbol|unknown|unknown
+mirbase_id|hsa-miR-192|hsa-miR-192	hgnc_symbol|ZEB2(7)|ZEB2(7)
+mirbase_id|hsa-miR-196a|hsa-miR-196a	hgnc_symbol|HOXB8(67)|HOXB8(67)	hgnc_symbol|HOXC8(1)|HOXC8(1)	hgnc_symbol|HOXD8|HOXD8	hgnc_symbol|HMGA2(23)|HMGA2(23)	hgnc_symbol|ANXA1|ANXA1
+mirbase_id|hsa-miR-194|hsa-miR-194	hgnc_symbol|unknown|unknown
+mirbase_id|hsa-miR-497|hsa-miR-497	hgnc_symbol|unknown|unknown
+mirbase_id|hsa-miR-20b|hsa-miR-20b	hgnc_symbol|MYLIP(891)|MYLIP(891)	hgnc_symbol|RBP1|RBP1
+mirbase_id|hsa-miR-133a|hsa-miR-133a	hgnc_symbol|UCP2|UCP2	hgnc_symbol|UCP3|UCP3
+mirbase_id|hsa-miR-372|hsa-miR-372	hgnc_symbol|LATS2(4)|LATS2(4)	hgnc_symbol|CD44(56)|CD44(56)
+mirbase_id|hsa-miR-213|hsa-miR-213	hgnc_symbol|unknown|unknown
+mirbase_id|hsa-miR-99a|hsa-miR-99a	hgnc_symbol|unknown|unknown
+mirbase_id|hsa-miR-100|hsa-miR-100	hgnc_symbol|unknown|unknown
+mirbase_id|hsa-miR-125b|hsa-miR-125b	hgnc_symbol|IRF4(12)|IRF4(12)	hgnc_symbol|PRDM1(124)|PRDM1(124)	hgnc_symbol|ERBB2|ERBB2	hgnc_symbol|ERBB3|ERBB3	hgnc_symbol|SMO|SMO
+mirbase_id|hsa-miR-126|hsa-miR-126	hgnc_symbol|unknown|unknown
+mirbase_id|hsa-miR-383|hsa-miR-383	hgnc_symbol|unknown|unknown
+mirbase_id|hsa-miR-221|hsa-miR-221	hgnc_symbol|Kit(5)|Kit(5)	hgnc_symbol|CDKN1B(6)|CDKN1B(6)	hgnc_symbol|CDKN1C(218)|CDKN1C(218)
+mirbase_id|hsa-miR-126|hsa-miR-126	hgnc_symbol|PLK2(13)|PLK2(13)	hgnc_symbol|HOXA9|HOXA9
+mirbase_id|hsa-miR-629|hsa-miR-629	hgnc_symbol|unknown|unknown
+mirbase_id|hsa-miR-361-5p|hsa-miR-361-5p	hgnc_symbol|unknown|unknown
+mirbase_id|hsa-miR-93|hsa-miR-93	hgnc_symbol|CDKN1A(383)|CDKN1A(383)	hgnc_symbol|BCL2L11(733)|BCL2L11(733)	hgnc_symbol|TP53INP1(369)|TP53INP1(369)	hgnc_symbol|E2F1 (529)|E2F1 (529)
+mirbase_id|hsa-miR-484|hsa-miR-484	hgnc_symbol|unknown|unknown
+mirbase_id|hsa-miR-331|hsa-miR-331	hgnc_symbol|unknown|unknown
+mirbase_id|hsa-miR-103|hsa-miR-103	hgnc_symbol|unknown|unknown
+mirbase_id|hsa-miR-1226|hsa-miR-1226	hgnc_symbol|unknown|unknown
+mirbase_id|hsa-miR-345|hsa-miR-345	hgnc_symbol|unknown|unknown
+mirbase_id|hsa-miR-210|hsa-miR-210	hgnc_symbol|RAD52|RAD52
+mirbase_id|hsa-miR-301|hsa-miR-301	hgnc_symbol|unknown|unknown
+mirbase_id|hsa-miR-324-5p|hsa-miR-324-5p	hgnc_symbol|SMO|SMO	hgnc_symbol|GLI1|GLI1
+mirbase_id|hsa-miR-148b|hsa-miR-148b	hgnc_symbol|DNMT3B|DNMT3B
+mirbase_id|hsa-miR-126|hsa-miR-126	hgnc_symbol|unknown|unknown
+mirbase_id|hsa-miR-126|hsa-miR-126	hgnc_symbol|PLK2(13)|PLK2(13)	hgnc_symbol|HOXA9|HOXA9
+mirbase_id|hsa-miR-146a|hsa-miR-146a	hgnc_symbol|IRAK1(3)|IRAK1(3)	hgnc_symbol|TRAF1|TRAF1
+mirbase_id|hsa-miR-545|hsa-miR-545	hgnc_symbol|unknown|unknown
+mirbase_id|hsa-miR-24|hsa-miR-24	hgnc_symbol|CDKN2A|CDKN2A	hgnc_symbol|ALK2|ALK2	hgnc_symbol|ALK4|ALK4	hgnc_symbol|DHFR|DHFR
+mirbase_id|hsa-miR-29a|hsa-miR-29a	hgnc_symbol|DNMT3A(294)|DNMT3A(294)	hgnc_symbol|DNMT3B(132)|DNMT3B(132)	hgnc_symbol|BACE1(750)|BACE1(750)	hgnc_symbol|TTP|TTP
+mirbase_id|hsa-miR-511|hsa-miR-511	hgnc_symbol|unknown|unknown
+mirbase_id|hsa-miR-365|hsa-miR-365	hgnc_symbol|unknown|unknown
+mirbase_id|hsa-miR-30d|hsa-miR-30d	hgnc_symbol|unknown|unknown
+mirbase_id|hsa-miR-193a|hsa-miR-193a	hgnc_symbol|E2F6(20)|E2F6(20)	hgnc_symbol|Ptk2|Ptk2	hgnc_symbol|MCL1(32)|MCL1(32)
+mirbase_id|hsa-miR-223|hsa-miR-223	hgnc_symbol|NFIA(52)|NFIA(52)	hgnc_symbol|LMO2(61)|LMO2(61)
+mirbase_id|hsa-miR-222|hsa-miR-222	hgnc_symbol|unknown|unknown
+mirbase_id|hsa-miR-98|hsa-miR-98	hgnc_symbol|HMGA2(1)|HMGA2(1)
+mirbase_id|hsa-miR-511|hsa-miR-511	hgnc_symbol|unknown|unknown
+mirbase_id|hsa-miR-222|hsa-miR-222	hgnc_symbol|c-KIT(5)|c-KIT(5)	hgnc_symbol|CDKN1B(6)|CDKN1B(6)	hgnc_symbol|CDKN1C(218)|CDKN1C(218)
+mirbase_id|hsa-miR-660|hsa-miR-660	hgnc_symbol|unknown|unknown
+mirbase_id|hsa-miR-361-3p|hsa-miR-361-3p	hgnc_symbol|unknown|unknown
+mirbase_id|hsa-miR-374a|hsa-miR-374a	hgnc_symbol|unknown|unknown
+mirbase_id|hsa-miR-532-5p|hsa-miR-532-5p	hgnc_symbol|unknown|unknown
+mirbase_id|hsa-miR-501-5p|hsa-miR-501-5p	hgnc_symbol|unknown|unknown
+mirbase_id|hsa-miR-191|hsa-miR-191	hgnc_symbol|unknown|unknown
+mirbase_id|hsa-miR-190|hsa-miR-190	hgnc_symbol|unknown|unknown
+mirbase_id|hsa-miR-151|hsa-miR-151	hgnc_symbol|unknown|unknown
+mirbase_id|hsa-miR-425-5p|hsa-miR-425-5p	hgnc_symbol|unknown|unknown
+mirbase_id|hsa-miR-222|hsa-miR-222	hgnc_symbol|unknown|unknown
+mirbase_id|hsa-miR-542-5p|hsa-miR-542-5p	hgnc_symbol|unknown|unknown
+mirbase_id|hsa-miR-708|hsa-miR-708	hgnc_symbol|unknown|unknown
+mirbase_id|hsa-miR-132|hsa-miR-132	hgnc_symbol|unknown|unknown
+mirbase_id|hsa-miR-425-3p|hsa-miR-425-3p	hgnc_symbol|unknown|unknown
+mirbase_id|hsa-miR-342-3p|hsa-miR-342-3p	hgnc_symbol|unknown|unknown

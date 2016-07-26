@@ -1,0 +1,66 @@
+Biological pathways	Gene ID	Name of gene/protein	Fold change Postnatal treated	Adult treated	Postnatal + adult treated
+Apoptosis	BAX	Bcl-2 associated X gene	1.11	2.35	1.93
+Apoptosis	BCL2	B-cell lymphoma 2	-1.09	-3.92	-3.2
+Apoptosis	DAP-3	Death associated protein 3 gene	1.09	2.13	2.64
+Apoptosis	CASP6	Caspase 6, apoptosis-related cysteine protease	1.07	2.65	3.54
+Apoptosis	CASP9	Caspase 9, apoptosis-related cysteine protease	1.16	5.86	4.79
+Apoptosis	TP53	Tumour suppressor gene	1.22	3.33	2.5
+Cell cycle	CDKN2B	Cyclin-dependent kinase inhibitor 2B	1.08	3.24	2.61
+Cell cycle	CDKN2D	Cyclin-dependent kinase inhibitor 2D (p19, inhibits CDK4)	-1.14	-2.55	-3.7
+Cell cycle	E2F	Early region -2 transcription factor-1	1.28	2.73	3.52
+Cell cycle	CCNA2	Cyclin A2	-1.05	-1.83	-2.43
+Cell cycle	CCND2	Cyclin D2	1.03	1.51	2.23
+Cell signalling	MAPT	Microtubule-associated protein tau	-1.13	-2.41	-1.88
+Cell signalling	GADD45A	Growth arrest and DNA-damage-inducible, alpha	1.06	3.53	2.38
+Cell signalling	NOS2A	Nitric oxide synthase 2A	1.06	1.91	2.87
+Cell signalling	ITGB6	Integrin, beta 6	1.17	2.98	19.94
+Cell signalling	SCYA2	Small inducible cytokine A2	1.02	1.99	2.19
+Cell signalling	ILK	Integrin-linked kinase	-1.06	-1.86	-1.96
+Cell signalling	MAP3K4	Mitogen-activated protein kinase kinase kinase 4	1.11	2.15	3.94
+Cell signalling	BRAF	V-raf murine sarcoma viral oncogene homolog B1	-1.2	-1.66	-1.99
+Cell signalling	PSEN1	Presenilin 1 (Alzheimer disease 3)	1.23	2.59	5.28
+Cell signalling	STAT4	Signal transducer and activator of transcription 4	-1.14	-2.13	-4.14
+Cell signalling	STAT5A	Signal transducer and activator of transcription 5A	-1.03	-2.77	-1.7
+Cell signalling	APC	Adenomatosis polyposis coli	1.09	2.45	1.69
+Cell signalling	IGF1	Insulin-like growth factor 1 (somatomedia C)	-1.28	-1.98	-2.73
+Cell signalling	IRS2	Insulin receptor substrate 2	-1.03	-2.1	-1.5
+Cell signalling	MAPK4	Mitogen-activated protein kinase 4	-1.02	-2.14	-9.12
+Cell signalling	ITGAE	Integrin, alpha E (antigen CD103)	-1.19	-5.71	-11.47
+Cell signalling	IL9	Interleukin 9	1.22	1.86	3.83
+Cell signalling	AKT1	V-akt murine thymoma viral oncogene homolog 1	-1.17	-1.66	-3.6
+Calcium ion homeostasis	CDH12	Cadherin 12, type 2 (N-cadherin 2)	1.05	2.36	5.01
+Calcium ion homeostasis	ITPR1	Inositol 1, 4, 5-triphosphate receptor, type 1	-1.2	-3.23	-2.56
+Cell division	CDK9	Cyclin-dependent kinase 9 (CDC2-related kinase)	-1.14	-2.15	-1.69
+Inflammatory response	IL-1B	Interleukin-1 beta	1.11	3.3	11.73
+Inflammatory response	IL-10	Interleukin 10	1.1	1.73	2.52
+Inflammatory response	IL-11	Interleukin 11	1.08	2.23	3.54
+Inflammatory response	CASP1	Caspase 1, apoptosis-related cysteine protease	-1.16	3.11	3.86
+Inflammatory response	IFNG	Interferon gamma	-1.06	-2.04	-3.71
+Inflammatory response	CRLF1	Cytokine receptor-like factor 1	-1.09	-2.56	-2.21
+Inflammatory response	IL9R	Interleukin 9 receptor	1.05	4.72	3.46
+Cellular metabolism	ALDH5A1	Aldehyde dehydrogenase 5 family, member A1 (succinate-semi-aldehyde dehydrogenase)	-1.15	-3.4	-1.9
+Xenobiotic metabolism	EPHX1	Epoxide hydrolase 1, microsomal (xenobiotic)	1.2	2.7	3.54
+Xenobiotic metabolism	GSTP1	Glutathione S-transferase pi	-1.06	-2.01	-2.5
+Neuronal cell development and differentiation	MAP2	Microtubule-associated protein 2	-1.31	-2	-2.03
+Neuronal cell development and differentiation	NTRK2	Neurotrophic tyrosine kinase receptor, type 2	-1.15	-2.14	-4.82
+Neuronal cell development and differentiation	FOXF2	Forkhead box F2	-1.06	-1.92	-1.64
+Neuronal cell development and differentiation	LGALS7	Lectin, galactoside-binding, soluble, 7 (galectin 7)	-1.06	-2.25	-3.96
+Growth factor	VEGFC	Vascular endothelial growth factor	-1.1	-1.64	-2.16
+Growth factor	PDGFA	Platelet-derived growth factor alpha polypeptide	1.11	1.78	2.45
+Cytoskeleton	VIM	Vimentin	-1.18	-2.27	-1.99
+Cytoskeleton	ITGB3	Integrin, beta 3 (platelet glycoprotein IIIa, antigen CD61)	1.01	3.57	1.73
+Cytoskeleton	JUP	Junction plakoglobin	-1.21	-1.51	-2.3
+Cell adhesion	NCAM1	Neural cell adhesion molecule 1	-1.1	-4.53	-18.8
+Energy metabolism	ATP6S14	ATPase, vacuolar, 14 kD	1.03	2.25	16.54
+Energy metabolism	COX4	Cytochrome c oxidase subunit IV	1.14	2.05	5.2
+Ion channel	KCNJ9	Potassium inwardly-rectifying channel, subfamily J, member 9	-1.07	-6.36	-1.83
+DNA repair	ERCC2	Excision repair cross-complementing rodent repair	-1.1	-3.91	-8.86
+DNA repair	NSEP1	Nuclease sensitive element binding protein 1	1.13	1.71	1.78
+Ribosomal protein	RPS29	Ribosomal protein S29	-1.09	-2.15	-1.75
+Ribosomal protein	LAMR1	Laminin receptor (2H5 epitope)	1.15	2.15	1.73
+Cellular transport	SCAMP2	Secretory carrier membrane protein 2	-1.07	-1.7	-2.64
+Cellular transport	COPG2	Coatomer protein complex, subunit gamma 2	-1.14	-2.96	-2.13
+Cellular transport	RNP24	Coated vesicle membrane protein	-1.15	-1.89	-2.3
+Proteasomal degradation system	UBB	Ubiquitin B	-1.19	-2.21	-2.29
+Muscle movement	Nebuliin	Nebuliin	-1.13	-2.15	-1.92
+Transcription factor	GATA-2	GATA-binding protein-2	-1.19	-1.89	-3.01

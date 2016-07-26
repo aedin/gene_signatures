@@ -1,0 +1,28 @@
+# Generate Mapping Tables Script: Version 4 11:05 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:05 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+entrezgene|1301|1301	protein_id|P12107|P12107	hgnc_symbol|COL11A1|COL11A1
+entrezgene|7292|7292	protein_id|P23510|P23510	hgnc_symbol|TNFSF4|TNFSF4
+entrezgene|8076|8076	protein_id|Q13361|Q13361	hgnc_symbol|MFAP5|MFAP5
+entrezgene|81849|81849	protein_id|Q9BVH7|Q9BVH7	hgnc_symbol|ST6GALNAC5|ST6GALNAC5
+entrezgene|8707|8707	protein_id|O43825|O43825	hgnc_symbol|B3GALT2|B3GALT2
+entrezgene|5021|5021	protein_id|P30559|P30559	hgnc_symbol|OXTR|OXTR
+entrezgene|27063|27063	protein_id|Q15327|Q15327	hgnc_symbol|ANKRD1|ANKRD1
+entrezgene|23213|23213	protein_id|Q8IWU6|Q8IWU6	hgnc_symbol|SULF1|SULF1
+entrezgene|255928|255928	protein_id|Q8NB59|Q8NB59	hgnc_symbol|SYT14|SYT14
+entrezgene|5787|5787	protein_id|P23467|P23467	hgnc_symbol|PTPRB|PTPRB
+entrezgene|7099|7099	protein_id|O00206|O00206	hgnc_symbol|TLR4|TLR4
+entrezgene|2124|2124	protein_id|P34910|P34910	hgnc_symbol|EVI2B|EVI2B
+entrezgene|3383|3383	protein_id|P05362|P05362	hgnc_symbol|ICAM1|ICAM1
+entrezgene|22801|22801	protein_id|Q9UKX5|Q9UKX5	hgnc_symbol|ITGA11|ITGA11
+entrezgene|1116|1116	protein_id|P36222|P36222	hgnc_symbol|CHI3L1|CHI3L1
+entrezgene|4311|4311	protein_id|P08473|P08473	hgnc_symbol|MME|MME
+entrezgene|7058|7058	protein_id|P35442|P35442	hgnc_symbol|THBS2|THBS2
+entrezgene|9404|9404	protein_id|O60711|O60711	hgnc_symbol|LPXN|LPXN
+entrezgene|50507|50507	protein_id|Q9NPH5|Q9NPH5	hgnc_symbol|NOX4|NOX4
+entrezgene|55784|55784	protein_id|Q6DN12|Q6DN12	hgnc_symbol|MCTP2|MCTP2
+entrezgene|55357|55357	protein_id|Q9BYX2|Q9BYX2	hgnc_symbol|TBC1D2|TBC1D2
+entrezgene|115908|115908	protein_id|Q96CG8|Q96CG8	hgnc_symbol|CTHRC1|CTHRC1

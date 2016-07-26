@@ -1,0 +1,26 @@
+# Generate Mapping Tables Script: Version 4 11:05 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:05 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+ensembl_gene_id|not annotated|not annotated	hgnc_symbol|AC_074289.1|AC_074289.1
+ensembl_gene_id|ENSG00000125144|ENSG00000125144	hgnc_symbol|MT1G|MT1G
+ensembl_gene_id|ENSG00000196154|ENSG00000196154	hgnc_symbol|S100A4|S100A4
+ensembl_gene_id|ENSG00000175084|ENSG00000175084	hgnc_symbol|DES|DES
+ensembl_gene_id|ENSG00000214046|ENSG00000214046	hgnc_symbol|C19orf42|C19orf42
+ensembl_gene_id|ENSG00000107951|ENSG00000107951	hgnc_symbol|MTPAP|MTPAP
+ensembl_gene_id|ENSG00000103024|ENSG00000103024	hgnc_symbol|NME3|NME3
+ensembl_gene_id|ENSG00000129250|ENSG00000129250	hgnc_symbol|KIF1C|KIF1C
+ensembl_gene_id|ENSG00000071054|ENSG00000071054	hgnc_symbol|MAP4K4|MAP4K4
+ensembl_gene_id|ENSG00000119699|ENSG00000119699	hgnc_symbol|TGFB3|TGFB3
+ensembl_gene_id|ENSG00000133816|ENSG00000133816	hgnc_symbol|MICAL2|MICAL2
+ensembl_gene_id|ENSG00000158560|ENSG00000158560	hgnc_symbol|DYNC1I1|DYNC1I1
+ensembl_gene_id|ENSG00000089169|ENSG00000089169	hgnc_symbol|RPH3A|RPH3A
+ensembl_gene_id|ENSG00000058335|ENSG00000058335	hgnc_symbol|RASGRF1|RASGRF1
+ensembl_gene_id|ENSG00000070961|ENSG00000070961	hgnc_symbol|ATP2B1|ATP2B1
+ensembl_gene_id|ENSG00000110675|ENSG00000110675	hgnc_symbol|ELMOD1|ELMOD1
+ensembl_gene_id|ENSG00000184613|ENSG00000184613	hgnc_symbol|NELL2|NELL2
+ensembl_gene_id|ENSG00000186642|ENSG00000186642	hgnc_symbol|PDE2A|PDE2A
+ensembl_gene_id|ENSG00000110931|ENSG00000110931	hgnc_symbol|CAMKK2|CAMKK2
+ensembl_gene_id|ENSG00000105376|ENSG00000105376	hgnc_symbol|ICAM5|ICAM5

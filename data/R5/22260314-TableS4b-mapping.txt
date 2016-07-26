@@ -1,0 +1,504 @@
+# Generate Mapping Tables Script: Version 4 11:06 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:06 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+entrezgene|150137|150137	hgnc_symbol|FABP4|FABP4
+entrezgene|152152|152152	hgnc_symbol|PRG4|PRG4
+entrezgene|163630|163630	hgnc_symbol|CLDN16|CLDN16
+entrezgene|228243|228243	hgnc_symbol|ZNF429|ZNF429
+entrezgene|157338|157338	hgnc_symbol|RARRES1|RARRES1
+entrezgene|200584|200584	hgnc_symbol|POTE14|P704P|ACTBL1|POTE14|P704P|ACTBL1
+entrezgene|115632|115632	hgnc_symbol|CACNA1G|CACNA1G
+entrezgene|547559|547559	hgnc_symbol|PRKCBP1|PRKCBP1
+entrezgene|183788|183788	hgnc_symbol|LOC130576|LOC130576
+entrezgene|189318|189318
+entrezgene|127094|127094	hgnc_symbol|AADACL1|AADACL1
+entrezgene|108260|108260
+entrezgene|519015|519015
+entrezgene|112201|112201	hgnc_symbol|ADH1C|ADH1C
+entrezgene|218004|218004	hgnc_symbol|TUSC5|TUSC5
+entrezgene|235386|235386
+entrezgene|114188|114188	hgnc_symbol|S100B|S100B
+entrezgene|219817|219817	hgnc_symbol|HOXD4|HOXD4
+entrezgene|173408|173408	hgnc_symbol|CXCL2|CXCL2
+entrezgene|683116|683116
+entrezgene|190681|190681
+entrezgene|133475|133475	hgnc_symbol|KRTAP3-1|KRTAP3-1
+entrezgene|207059|207059	hgnc_symbol|PDCL2|PDCL2
+entrezgene|123744|123744	hgnc_symbol|PTX3|PTX3
+entrezgene|127488|127488	hgnc_symbol|C10orf81|C10orf81
+entrezgene|201691|201691
+entrezgene|131599|131599	hgnc_symbol|CDH23|CDH23
+entrezgene|498878|498878
+entrezgene|192657|192657
+entrezgene|176032|176032	hgnc_symbol|TM4SF1|TM4SF1
+entrezgene|183774|183774	hgnc_symbol|TNFRSF17|TNFRSF17
+entrezgene|122135|122135	hgnc_symbol|PLIN|PLIN
+entrezgene|157022|157022	hgnc_symbol|PLAC8|PLAC8
+entrezgene|116539|116539
+entrezgene|106161|106161	hgnc_symbol|SYP|SYP
+entrezgene|10546171|10546171
+entrezgene|515759|515759
+entrezgene|205124|205124	hgnc_symbol|CP|CP
+entrezgene|101762|101762	hgnc_symbol|PRAME|PRAME
+entrezgene|224495|224495
+entrezgene|187709|187709	hgnc_symbol|40270|40270
+entrezgene|235777|235777	hgnc_symbol|CTAGE4|LOC442780|CTAGE4|LOC442780
+entrezgene|231094|231094	hgnc_symbol|LOC402573|LOC402573
+entrezgene|130323|130323	hgnc_symbol|LAX1|LAX1
+entrezgene|171943|171943	hgnc_symbol|AK5|AK5
+entrezgene|175139|175139
+entrezgene|430390|430390	hgnc_symbol|RLN3R2|RLN3R2
+entrezgene|198848|198848	hgnc_symbol|KIAA0460|KIAA0460
+entrezgene|164167|164167
+entrezgene|155932|155932
+entrezgene|529964|529964	hgnc_symbol|KIAA1786|KIAA1786
+entrezgene|157207|157207	hgnc_symbol|LOC154761|FLJ40722|LOC154761|FLJ40722
+entrezgene|118831|118831	hgnc_symbol|PDF|PDF
+entrezgene|206456|206456	hgnc_symbol|TMTC1|TMTC1
+entrezgene|111161|111161
+entrezgene|188172|188172	hgnc_symbol|SLC5A1|SLC5A1
+entrezgene|231872|231872	hgnc_symbol|LOC286149|LOC286149
+entrezgene|592040|592040
+entrezgene|114371|114371	hgnc_symbol|SELP|SELP
+entrezgene|178869|178869	hgnc_symbol|GPR135|GPR135
+entrezgene|142977|142977
+entrezgene|137785|137785	hgnc_symbol|SP140|SP140
+entrezgene|161328|161328	hgnc_symbol|MGC2848|MGC2848
+entrezgene|108279|108279	hgnc_symbol|MPPED2|MPPED2
+entrezgene|112586|112586	hgnc_symbol|LGALS2|LGALS2
+entrezgene|229198|229198	hgnc_symbol|MGC51025|FLJ40244|MGC51025|FLJ40244
+entrezgene|187607|187607
+entrezgene|133491|133491	hgnc_symbol|KLK13|KLK13
+entrezgene|483986|483986
+entrezgene|128616|128616
+entrezgene|123795|123795
+entrezgene|191139|191139	hgnc_symbol|OR2L2|OR2L2
+entrezgene|148692|148692	hgnc_symbol|KIAA1026|KIAA1026
+entrezgene|237087|237087
+entrezgene|703394|703394	hgnc_symbol|GPRC5C|GPRC5C
+entrezgene|221066|221066
+entrezgene|182589|182589	hgnc_symbol|ANKRD15|ANKRD15
+entrezgene|230438|230438
+entrezgene|232304|232304
+entrezgene|235383|235383	hgnc_symbol|LOC390712|LOC390712
+entrezgene|205575|205575	hgnc_symbol|DGCR8|DGCR8
+entrezgene|158846|158846	hgnc_symbol|GPR171|GPR171
+entrezgene|226129|226129	hgnc_symbol|MRGPRX3|MRGPRX3
+entrezgene|124789|124789
+entrezgene|236719|236719
+entrezgene|112559|112559
+entrezgene|170576|170576	hgnc_symbol|LOC402169|LOC401121|LOC402170|LOC402168|LOC402166|LOC402165|LOC402167|DUB3|LOC402169|LOC401121|LOC402170|LOC402168|LOC402166|LOC402165|LOC402167|DUB3
+entrezgene|190897|190897
+entrezgene|10423512|10423512
+entrezgene|153907|153907	hgnc_symbol|GPD2|GPD2
+entrezgene|181595|181595	hgnc_symbol|OR10A2|OR10A2
+entrezgene|141660|141660
+entrezgene|384686|384686
+entrezgene|715431|715431
+entrezgene|142330|142330
+entrezgene|101645|101645	hgnc_symbol|LOC93349|LOC93349
+entrezgene|151761|151761	hgnc_symbol|C9orf57|C9orf57
+entrezgene|114538|114538	hgnc_symbol|POLR1B|POLR1B
+entrezgene|182294|182294	hgnc_symbol|CACNA1C|CACNA1C
+entrezgene|174752|174752
+entrezgene|710187|710187	hgnc_symbol|LOC440565|PRAMEF10|LOC441870|LOC440565|PRAMEF10|LOC441870
+entrezgene|142125|142125
+entrezgene|115390|115390	hgnc_symbol|APOC2|APOC2
+entrezgene|138852|138852	hgnc_symbol|DKFZP564O0823|DKFZP564O0823
+entrezgene|232589|232589
+entrezgene|127863|127863	hgnc_symbol|C21orf96|C21orf96
+entrezgene|228955|228955
+entrezgene|229790|229790
+entrezgene|206220|206220	hgnc_symbol|MT1M|MT1M
+entrezgene|152134|152134	hgnc_symbol|ATHL1|ATHL1
+entrezgene|545513|545513	hgnc_symbol|IGFL1|IGFL1
+entrezgene|10546117|10546117
+entrezgene|195893|195893	hgnc_symbol|LOC112703|LOC112703
+entrezgene|200916|200916	hgnc_symbol|RPL21|RPL21
+entrezgene|134553|134553
+entrezgene|127127|127127	hgnc_symbol|CACNA1D|CACNA1D
+entrezgene|213565|213565
+entrezgene|134061|134061	hgnc_symbol|DCDC2|DCDC2
+entrezgene|160454|160454	hgnc_symbol|SMC4L1|SMC4L1
+entrezgene|144197|144197	hgnc_symbol|SKI|SKI
+entrezgene|102846|102846	hgnc_symbol|LOC284379|LOC284379
+entrezgene|182760|182760	hgnc_symbol|REP15|REP15
+entrezgene|100410|100410	hgnc_symbol|LOC339483|LOC339483
+entrezgene|124299|124299	hgnc_symbol|ADH1A|ADH1A
+entrezgene|152747|152747	hgnc_symbol|ELA2B|ELA2B
+entrezgene|198728|198728	hgnc_symbol|CEP55|CEP55
+entrezgene|144221|144221	hgnc_symbol|TAF15|TAF15
+entrezgene|131060|131060
+entrezgene|229134|229134
+entrezgene|136723|136723	hgnc_symbol|PCSK4|PCSK4
+entrezgene|103476|103476	hgnc_symbol|HYPB|HYPB
+entrezgene|164232|164232	hgnc_symbol|NF1|NF1
+entrezgene|222735|222735	hgnc_symbol|HSD17B12|HSD17B12
+entrezgene|216520|216520	hgnc_symbol|FOSL1|FOSL1
+entrezgene|182228|182228	hgnc_symbol|GATA2|GATA2
+entrezgene|690434|690434
+entrezgene|127008|127008	hgnc_symbol|OR56A3|OR56A3
+entrezgene|180280|180280	hgnc_symbol|MGC15912|RBM14|MGC15912|RBM14
+entrezgene|484928|484928
+entrezgene|232413|232413
+entrezgene|108201|108201	hgnc_symbol|PHC3|PHC3
+entrezgene|189410|189410	hgnc_symbol|C20orf57|C20orf57
+entrezgene|235846|235846	hgnc_symbol|NFAM1|NFAM1
+entrezgene|168822|168822	hgnc_symbol|HS6ST1P|HS6ST1|HS6ST1P|HS6ST1
+entrezgene|189444|189444
+entrezgene|223116|223116	hgnc_symbol|FAM24B|FAM24B
+entrezgene|203851|203851	hgnc_symbol|MGC16037|MGC16037
+entrezgene|112953|112953
+entrezgene|706212|706212
+entrezgene|106343|106343
+entrezgene|133405|133405	hgnc_symbol|XCL1|XCL1
+entrezgene|235617|235617
+entrezgene|126980|126980	hgnc_symbol|TXNL2|TXNL2
+entrezgene|101692|101692
+entrezgene|713949|713949
+entrezgene|189066|189066	hgnc_symbol|MICAL3|MICAL3
+entrezgene|190303|190303	hgnc_symbol|CYP2D6|CYP2D6
+entrezgene|221542|221542	hgnc_symbol|C20orf75|C20orf75
+entrezgene|113042|113042	hgnc_symbol|FGF2|FGF2
+entrezgene|103944|103944	hgnc_symbol|FBF1|FBF1
+entrezgene|158079|158079	hgnc_symbol|LTB4R2|LTB4R2
+entrezgene|198858|198858	hgnc_symbol|SUHW2|SUHW2
+entrezgene|126398|126398
+entrezgene|234389|234389
+entrezgene|161427|161427	hgnc_symbol|KIF1B|KIF1B
+entrezgene|649805|649805	hgnc_symbol|KIAA0125|KIAA0125
+entrezgene|125805|125805	hgnc_symbol|SEMA7A|SEMA7A
+entrezgene|131413|131413	hgnc_symbol|LOC285299|LOC285299
+entrezgene|138955|138955	hgnc_symbol|POLQ|POLQ
+entrezgene|118480|118480	hgnc_symbol|LOC391773|LOC391773
+entrezgene|160315|160315	hgnc_symbol|DLEU2|DLEU2
+entrezgene|172824|172824	hgnc_symbol|TSC22D4|TSC22D4
+entrezgene|704061|704061
+entrezgene|189090|189090	hgnc_symbol|KLF4|KLF4
+entrezgene|230675|230675	hgnc_symbol|C8orf77|C8orf77
+entrezgene|10400392|10400392
+entrezgene|149728|149728	hgnc_symbol|C10orf121|C10orf121
+entrezgene|155879|155879	hgnc_symbol|PXMP4|PXMP4
+entrezgene|149045|149045
+entrezgene|138764|138764	hgnc_symbol|PAPLN|PAPLN
+entrezgene|129974|129974	hgnc_symbol|ADAMDEC1|ADAMDEC1
+entrezgene|195624|195624	hgnc_symbol|SHANK3|SHANK3
+entrezgene|170374|170374	hgnc_symbol|TNK2|TNK2
+entrezgene|229406|229406	hgnc_symbol|RARB|RARB
+entrezgene|143443|143443	hgnc_symbol|GNG7|GNG7
+entrezgene|460746|460746	hgnc_symbol|C1orf145|C1orf145
+entrezgene|230983|230983
+entrezgene|227956|227956	hgnc_symbol|MT1J|MT1J
+entrezgene|209952|209952	hgnc_symbol|LOC402100|LOC402100
+entrezgene|124894|124894
+entrezgene|194532|194532
+entrezgene|114179|114179	hgnc_symbol|C6orf150|C6orf150
+entrezgene|230820|230820	hgnc_symbol|LOC96597|LOC96597
+entrezgene|548935|548935
+entrezgene|216817|216817
+entrezgene|232200|232200	hgnc_symbol|FLJ13439|FLJ13439
+entrezgene|165826|165826
+entrezgene|416900|416900	hgnc_symbol|MBL1P1|MBL1P1
+entrezgene|210109|210109
+entrezgene|179926|179926	hgnc_symbol|SIT1|SIT1
+entrezgene|146709|146709	hgnc_symbol|FLJ10808|FLJ10808
+entrezgene|171828|171828	hgnc_symbol|DFFB|DFFB
+entrezgene|215702|215702	hgnc_symbol|EML2|EML2
+entrezgene|699542|699542
+entrezgene|216353|216353	hgnc_symbol|ADAMTS1|ADAMTS1
+entrezgene|105251|105251	hgnc_symbol|FLJ21924|FLJ21924
+entrezgene|216283|216283	hgnc_symbol|LSM8|LSM8
+entrezgene|197890|197890	hgnc_symbol|PAX4|PAX4
+entrezgene|180071|180071	hgnc_symbol|C9orf3|C9orf3
+entrezgene|173838|173838	hgnc_symbol|GGTLA1|GGTLA1
+entrezgene|146533|146533	hgnc_symbol|YPEL2|YPEL2
+entrezgene|219156|219156
+entrezgene|202313|202313	hgnc_symbol|GPR126|GPR126
+entrezgene|118448|118448
+entrezgene|155861|155861
+entrezgene|131169|131169
+entrezgene|172477|172477	hgnc_symbol|KIAA1731|KIAA1731
+entrezgene|151419|151419	hgnc_symbol|C19orf25|C19orf25
+entrezgene|142719|142719	hgnc_symbol|SNCB|SNCB
+entrezgene|174451|174451	hgnc_symbol|CEP135|CEP135
+entrezgene|530623|530623
+entrezgene|204251|204251	hgnc_symbol|LOC200312|LOC200312
+entrezgene|706831|706831
+entrezgene|217204|217204
+entrezgene|121683|121683	hgnc_symbol|KRT6IRS|KRT6IRS
+entrezgene|144618|144618	hgnc_symbol|DRD2|DRD2
+entrezgene|187988|187988	hgnc_symbol|FUT8|FUT8
+entrezgene|543186|543186
+entrezgene|175963|175963
+entrezgene|211052|211052	hgnc_symbol|EFHD2|EFHD2
+entrezgene|208620|208620
+entrezgene|164455|164455
+entrezgene|235168|235168
+entrezgene|615986|615986
+entrezgene|100694|100694	hgnc_symbol|PHTF2|PHTF2
+entrezgene|235516|235516
+entrezgene|128344|128344
+entrezgene|219483|219483	hgnc_symbol|TLK1|TLK1
+entrezgene|416533|416533	hgnc_symbol|LOC440320|LOC440243|LOC440318|LOC440247|FLJ36131|LOC440320|LOC440243|LOC440318|LOC440247|FLJ36131
+entrezgene|264940|264940
+entrezgene|202630|202630
+entrezgene|212661|212661	hgnc_symbol|C10orf56|C10orf56
+entrezgene|144571|144571	hgnc_symbol|ZDHHC8|ZDHHC8
+entrezgene|237080|237080
+entrezgene|236396|236396	hgnc_symbol|LOC391014|LOC391014
+entrezgene|343680|343680
+entrezgene|197392|197392
+entrezgene|339932|339932
+entrezgene|123933|123933	hgnc_symbol|MLL3|MLL3
+entrezgene|214165|214165	hgnc_symbol|ABCE1|ABCE1
+entrezgene|112364|112364
+entrezgene|197726|197726	hgnc_symbol|LOC440984|LOC440984
+entrezgene|116702|116702
+entrezgene|124085|124085	hgnc_symbol|KIAA0495|KIAA0495
+entrezgene|191693|191693	hgnc_symbol|SLC41A2|SLC41A2
+entrezgene|133461|133461	hgnc_symbol|HMX3|HMX3
+entrezgene|188546|188546	hgnc_symbol|NAALADL2|NAALADL2
+entrezgene|233158|233158
+entrezgene|147079|147079	hgnc_symbol|TCIRG1|TCIRG1
+entrezgene|543830|543830
+entrezgene|697660|697660
+entrezgene|208403|208403
+entrezgene|168361|168361	hgnc_symbol|C14orf172|C14orf172
+entrezgene|226580|226580
+entrezgene|218186|218186	hgnc_symbol|KRT3|KRT3
+entrezgene|146642|146642
+entrezgene|176234|176234	hgnc_symbol|C20orf59|C20orf59
+entrezgene|116331|116331	hgnc_symbol|EPIM|EPIM
+entrezgene|156010|156010	hgnc_symbol|KIAA1904|KIAA1904
+entrezgene|154115|154115
+entrezgene|213394|213394
+entrezgene|232255|232255	hgnc_symbol|C20orf117|C20orf117
+entrezgene|308378|308378
+entrezgene|361497|361497
+entrezgene|170535|170535	hgnc_symbol|BAK1|BAK1
+entrezgene|536310|536310
+entrezgene|188411|188411	hgnc_symbol|ANKRD11|ANKRD11
+entrezgene|468014|468014
+entrezgene|233305|233305
+entrezgene|118205|118205	hgnc_symbol|PADI2|PADI2
+entrezgene|100722|100722
+entrezgene|138552|138552
+entrezgene|225940|225940	hgnc_symbol|GPM6B|GPM6B
+entrezgene|190804|190804	hgnc_symbol|FLJ21616|FLJ21616
+entrezgene|116953|116953
+entrezgene|701053|701053
+entrezgene|178477|178477
+entrezgene|164015|164015	hgnc_symbol|BTK|BTK
+entrezgene|211325|211325	hgnc_symbol|ZNF650|ZNF650
+entrezgene|190302|190302	hgnc_symbol|CYP2D7P1|CYP2D6|CYP2D7P1|CYP2D6
+entrezgene|187876|187876	hgnc_symbol|IRX6|IRX6
+entrezgene|164563|164563	hgnc_symbol|CENPJ|CENPJ
+entrezgene|140057|140057
+entrezgene|216339|216339	hgnc_symbol|ELOVL6|ELOVL6
+entrezgene|101445|101445
+entrezgene|103291|103291
+entrezgene|544895|544895
+entrezgene|187910|187910	hgnc_symbol|LOC339804|LOC339804
+entrezgene|100182|100182	hgnc_symbol|LOC340171|LOC340171
+entrezgene|180665|180665	hgnc_symbol|LOC440186|LOC440186
+entrezgene|148051|148051	hgnc_symbol|PELI2|PELI2
+entrezgene|149653|149653	hgnc_symbol|KIFC3|KIFC3
+entrezgene|196634|196634	hgnc_symbol|OR6Q1|OR6Q1
+entrezgene|132029|132029
+entrezgene|128935|128935	hgnc_symbol|ZNF268|ZNF268
+entrezgene|187211|187211	hgnc_symbol|TRGC2|TRGV5|LOC442535|TRGC2|TRGV5|LOC442535
+entrezgene|232976|232976	hgnc_symbol|C10orf54|C10orf54
+entrezgene|231223|231223
+entrezgene|106876|106876	hgnc_symbol|KIAA1324L|KIAA1324L
+entrezgene|143671|143671	hgnc_symbol|COX6B2|COX6B2
+entrezgene|239100|239100
+entrezgene|547737|547737
+entrezgene|700357|700357
+entrezgene|129234|129234	hgnc_symbol|LOC441790|LOC441790
+entrezgene|234488|234488
+entrezgene|193222|193222
+entrezgene|111389|111389	hgnc_symbol|NOX1|NOX1
+entrezgene|137496|137496	hgnc_symbol|OR4B1|OR4B1
+entrezgene|127071|127071
+entrezgene|142775|142775
+entrezgene|10715552|10715552
+entrezgene|205153|205153	hgnc_symbol|XPO1|XPO1
+entrezgene|103589|103589	hgnc_symbol|CXCR3|CXCR3
+entrezgene|171513|171513	hgnc_symbol|FLJ22833|FLJ22833
+entrezgene|162571|162571	hgnc_symbol|PCSK5|PCSK5
+entrezgene|201868|201868	hgnc_symbol|JMJD1C|JMJD1C
+entrezgene|232933|232933
+entrezgene|229452|229452	hgnc_symbol|ACOX1|ACOX1
+entrezgene|216489|216489	hgnc_symbol|PTK6|PTK6
+entrezgene|231854|231854	hgnc_symbol|C10orf71|C10orf71
+entrezgene|158533|158533	hgnc_symbol|MDS1|MDS1
+entrezgene|172727|172727	hgnc_symbol|ANXA3|ANXA3
+entrezgene|164529|164529	hgnc_symbol|AARSD1|AARSD1
+entrezgene|121822|121822	hgnc_symbol|LOC115110|LOC115110
+entrezgene|236811|236811
+entrezgene|300613|300613	hgnc_symbol|C13orf25|C13orf25
+entrezgene|230259|230259
+entrezgene|119925|119925	hgnc_symbol|MGC42174|MGC42174
+entrezgene|120747|120747
+entrezgene|107386|107386	hgnc_symbol|RPL34|RPL34
+entrezgene|229767|229767
+entrezgene|236414|236414
+entrezgene|153110|153110	hgnc_symbol|CEI|CEI
+entrezgene|181811|181811	hgnc_symbol|LOC400985|LOC400985
+entrezgene|189302|189302
+entrezgene|234785|234785	hgnc_symbol|PLEKHH1|PLEKHH1
+entrezgene|446330|446330
+entrezgene|173501|173501
+entrezgene|209615|209615	hgnc_symbol|C14orf106|C14orf106
+entrezgene|697779|697779	hgnc_symbol|LOC149157|LOC149157
+entrezgene|143527|143527
+entrezgene|190970|190970
+entrezgene|118340|118340	hgnc_symbol|P2RX2|P2RX2
+entrezgene|705119|705119	hgnc_symbol|FLJ34208|FLJ34208
+entrezgene|173500|173500	hgnc_symbol|PHF13|PHF13
+entrezgene|202382|202382	hgnc_symbol|FHL1|FHL1
+entrezgene|488455|488455
+entrezgene|198428|198428	hgnc_symbol|ANKRD13|ANKRD13
+entrezgene|182939|182939	hgnc_symbol|OFD1|OFD1
+entrezgene|265696|265696
+entrezgene|211414|211414	hgnc_symbol|RSRC1|RSRC1
+entrezgene|206878|206878
+entrezgene|208172|208172
+entrezgene|113113|113113	hgnc_symbol|TCF7L2|TCF7L2
+entrezgene|157015|157015	hgnc_symbol|LOC391599|LOC391599
+entrezgene|10702703|10702703
+entrezgene|705075|705075
+entrezgene|100736|100736	hgnc_symbol|PLCB4|PLCB4
+entrezgene|195871|195871	hgnc_symbol|KLF15|KLF15
+entrezgene|230034|230034
+entrezgene|170466|170466	hgnc_symbol|CDK5R2|CDK5R2
+entrezgene|144301|144301	hgnc_symbol|AMAC1L2|AMAC1L2
+entrezgene|150377|150377	hgnc_symbol|OR2B11|OR2B11
+entrezgene|189521|189521	hgnc_symbol|TBL1XR1|TBL1XR1
+entrezgene|127236|127236
+entrezgene|146543|146543	hgnc_symbol|ROBO4|ROBO4
+entrezgene|164701|164701	hgnc_symbol|DLG3|DLG3
+entrezgene|232185|232185
+entrezgene|101310|101310
+entrezgene|223720|223720
+entrezgene|145230|145230	hgnc_symbol|VARS|VARS
+entrezgene|149880|149880	hgnc_symbol|TPMT|TPMT
+entrezgene|234918|234918
+entrezgene|179869|179869	hgnc_symbol|SLC6A3|SLC6A3
+entrezgene|110210|110210	hgnc_symbol|SPIB|SPIB
+entrezgene|695977|695977	hgnc_symbol|DUX2|DUX2
+entrezgene|701550|701550
+entrezgene|223980|223980	hgnc_symbol|BCOR|BCOR
+entrezgene|137732|137732	hgnc_symbol|FBXL19|FBXL19
+entrezgene|174119|174119	hgnc_symbol|MT1B|MT1B
+entrezgene|143287|143287	hgnc_symbol|AQP8|AQP8
+entrezgene|199514|199514	hgnc_symbol|NAG8|NAG8
+entrezgene|596935|596935
+entrezgene|168528|168528	hgnc_symbol|ATR|ATR
+entrezgene|176028|176028
+entrezgene|166306|166306	hgnc_symbol|PRKCI|PRKCI
+entrezgene|106389|106389
+entrezgene|227182|227182	hgnc_symbol|MSL3L1|MSL3L1
+entrezgene|234297|234297
+entrezgene|133107|133107	hgnc_symbol|MCF2L2|MCF2L2
+entrezgene|146512|146512	hgnc_symbol|PARP4|PARP4
+entrezgene|547754|547754
+entrezgene|148350|148350	hgnc_symbol|RPS8|RPS8
+entrezgene|138397|138397
+entrezgene|102341|102341	hgnc_symbol|KIAA1462|KIAA1462
+entrezgene|208272|208272	hgnc_symbol|CDC45L|CDC45L
+entrezgene|116958|116958	hgnc_symbol|SLC5A4|SLC5A4
+entrezgene|232916|232916
+entrezgene|180218|180218	hgnc_symbol|DRIM|DRIM
+entrezgene|214597|214597	hgnc_symbol|TRH|TRH
+entrezgene|196448|196448
+entrezgene|221463|221463	hgnc_symbol|VWA2|VWA2
+entrezgene|143556|143556	hgnc_symbol|HSF4|HSF4
+entrezgene|132134|132134	hgnc_symbol|TNFRSF13C|TNFRSF13C
+entrezgene|318897|318897
+entrezgene|702243|702243
+entrezgene|160611|160611
+entrezgene|103252|103252
+entrezgene|225107|225107
+entrezgene|199830|199830	hgnc_symbol|C1orf151|C1orf151
+entrezgene|236899|236899
+entrezgene|151200|151200
+entrezgene|148494|148494	hgnc_symbol|ADRA2C|ADRA2C
+entrezgene|162520|162520	hgnc_symbol|GDPD3|GDPD3
+entrezgene|230838|230838
+entrezgene|236351|236351
+entrezgene|541841|541841
+entrezgene|170593|170593	hgnc_symbol|ELMO3|ELMO3
+entrezgene|525049|525049
+entrezgene|206837|206837
+entrezgene|164911|164911	hgnc_symbol|RAC2|RAC2
+entrezgene|147381|147381	hgnc_symbol|AOC2|AOC2
+entrezgene|210956|210956	hgnc_symbol|FARP2|FARP2
+entrezgene|170545|170545	hgnc_symbol|OVOS2|OVOS2
+entrezgene|123649|123649
+entrezgene|157269|157269	hgnc_symbol|SLC5A10|SLC5A10
+entrezgene|103907|103907	hgnc_symbol|TMEM20|TMEM20
+entrezgene|196635|196635	hgnc_symbol|NPHS2|NPHS2
+entrezgene|704185|704185	hgnc_symbol|C17orf57|C17orf57
+entrezgene|201653|201653
+entrezgene|130312|130312	hgnc_symbol|GRPEL2|GRPEL2
+entrezgene|141049|141049	hgnc_symbol|WDR75|WDR75
+entrezgene|114220|114220	hgnc_symbol|VMD2L2|VMD2L2
+entrezgene|118495|118495	hgnc_symbol|GFM1|GFM1
+entrezgene|183190|183190	hgnc_symbol|KIFC2|KIFC2
+entrezgene|152811|152811	hgnc_symbol|OR10H5|OR10H5
+entrezgene|641625|641625
+entrezgene|543821|543821	hgnc_symbol|LOC286208|LOC286208
+entrezgene|525698|525698
+entrezgene|121386|121386	hgnc_symbol|MRRF|MRRF
+entrezgene|164177|164177	hgnc_symbol|MBTPS2|MBTPS2
+entrezgene|112937|112937
+entrezgene|543648|543648	hgnc_symbol|ZNF600|ZNF600
+entrezgene|197348|197348
+entrezgene|195332|195332	hgnc_symbol|PSORS1C2|PSORS1C2
+entrezgene|179110|179110	hgnc_symbol|RCC1|RCC1
+entrezgene|148887|148887	hgnc_symbol|LOC441076|LOC441076
+entrezgene|167412|167412	hgnc_symbol|SR140|SR140
+entrezgene|232087|232087	hgnc_symbol|LOC439930|LOC439930
+entrezgene|126845|126845	hgnc_symbol|HAGHL|HAGHL
+entrezgene|171290|171290	hgnc_symbol|BLNK|BLNK
+entrezgene|119407|119407	hgnc_symbol|NUPL1|NUPL1
+entrezgene|132892|132892	hgnc_symbol|HIPK3|HIPK3
+entrezgene|195584|195584	hgnc_symbol|SMR3A|SMR3A
+entrezgene|121526|121526	hgnc_symbol|LOC150223|LOC150223
+entrezgene|112020|112020	hgnc_symbol|OTOG|OTOG
+entrezgene|712385|712385
+entrezgene|224882|224882	hgnc_symbol|ALDH4A1|ALDH4A1
+entrezgene|149525|149525	hgnc_symbol|TMEM1|TMEM1
+entrezgene|705462|705462
+entrezgene|121345|121345	hgnc_symbol|FLJ39660|FLJ39660
+entrezgene|141343|141343	hgnc_symbol|KIFC1|KIFC1
+entrezgene|359301|359301
+entrezgene|135507|135507	hgnc_symbol|CLOCK|CLOCK
+entrezgene|141973|141973	hgnc_symbol|FBS1|FBS1
+entrezgene|171719|171719	hgnc_symbol|NBPF10|NBPF15|NBPF10|NBPF15
+entrezgene|114403|114403
+entrezgene|185108|185108	hgnc_symbol|DUSP26|DUSP26
+entrezgene|219174|219174	hgnc_symbol|TAOK2|TAOK2
+entrezgene|509721|509721
+entrezgene|123012|123012	hgnc_symbol|JAG1|JAG1
+entrezgene|213789|213789	hgnc_symbol|HP1BP3|HP1BP3
+entrezgene|150962|150962	hgnc_symbol|C20orf26|C20orf26
+entrezgene|230035|230035
+entrezgene|134330|134330	hgnc_symbol|SEMA3B|SEMA3B
+entrezgene|151115|151115
+entrezgene|194223|194223
+entrezgene|152450|152450	hgnc_symbol|ZFYVE19|ZFYVE19
+entrezgene|160495|160495
+entrezgene|118799|118799	hgnc_symbol|ZFP57|ZFP57
+entrezgene|230909|230909	hgnc_symbol|ACAA1|ACAA1
+entrezgene|222664|222664	hgnc_symbol|USP48|USP48
+entrezgene|466024|466024
+entrezgene|210021|210021
+entrezgene|192662|192662	hgnc_symbol|OR52N4|OR52N4
+entrezgene|186044|186044	hgnc_symbol|CD163L1|CD163L1
+entrezgene|205339|205339	hgnc_symbol|CXorf21|CXorf21
+entrezgene|670634|670634

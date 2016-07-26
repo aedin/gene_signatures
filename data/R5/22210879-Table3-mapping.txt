@@ -1,0 +1,35 @@
+# Generate Mapping Tables Script: Version 4 11:06 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:06 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+affy_hg_u133_plus_2|229461_x_at|229461_x_at	hgnc_symbol|NEGR1|NEGR1
+affy_hg_u133_plus_2|226415_at|226415_at	hgnc_symbol|VAT1L|VAT1L
+affy_hg_u133_plus_2|228462_at|228462_at	hgnc_symbol|IRX2|IRX2
+affy_hg_u133_plus_2|230472_at|230472_at	hgnc_symbol|IRX1|IRX1
+affy_hg_u133_plus_2|202609_at|202609_at	hgnc_symbol|EPS8|EPS8
+affy_hg_u133_plus_2|201688_s_at|201688_s_at	hgnc_symbol|TPD52|TPD52
+affy_hg_u133_plus_2|214156_at|214156_at	hgnc_symbol|MYRIP|MYRIP
+affy_hg_u133_plus_2|209480_at|209480_at	hgnc_symbol|HLA-DQB1|HLA-DQB1
+affy_hg_u133_plus_2|205403_at|205403_at	hgnc_symbol|IL1R2|IL1R2
+affy_hg_u133_plus_2|212192_at|212192_at	hgnc_symbol|KCTD12|KCTD12
+affy_hg_u133_plus_2|201743_at|201743_at	hgnc_symbol|CD14|CD14
+affy_hg_u133_plus_2|1555745_a_at|1555745_a_at	hgnc_symbol|LYZ|LYZ
+affy_hg_u133_plus_2|203535_at|203535_at	hgnc_symbol|S100A9|S100A9
+affy_hg_u133_plus_2|238900_at|238900_at	hgnc_symbol|HLA-DRB1|HLA-DRB1
+affy_hg_u133_plus_2|201689_s_at|201689_s_at	hgnc_symbol|TPD52|TPD52
+affy_hg_u133_plus_2|204959_at|204959_at	hgnc_symbol|MNDA|MNDA
+affy_hg_u133_plus_2|211372_s_at|211372_s_at	hgnc_symbol|IL1R2|IL1R2
+affy_hg_u133_plus_2|218454_at|218454_at	hgnc_symbol|PLBD1|PLBD1
+affy_hg_u133_plus_2|211571_s_at|211571_s_at	hgnc_symbol|VCAN|VCAN
+affy_hg_u133_plus_2|202289_s_at|202289_s_at	hgnc_symbol|TACC2|TACC2
+affy_hg_u133_plus_2|228434_at|228434_at	hgnc_symbol|BTNL9|BTNL9
+affy_hg_u133_plus_2|202917_s_at|202917_s_at	hgnc_symbol|S100A8|S100A8
+affy_hg_u133_plus_2|204620_s_at|204620_s_at	hgnc_symbol|VCAN|VCAN
+affy_hg_u133_plus_2|205863_at|205863_at	hgnc_symbol|S100A12|S100A12
+affy_hg_u133_plus_2|201690_s_at|201690_s_at	hgnc_symbol|TPD52|TPD52
+affy_hg_u133_plus_2|204619_s_at|204619_s_at	hgnc_symbol|VCAN|VCAN
+affy_hg_u133_plus_2|215646_s_at|215646_s_at	hgnc_symbol|VCAN|VCAN
+affy_hg_u133_plus_2|221731_x_at|221731_x_at	hgnc_symbol|VCAN|VCAN
+affy_hg_u133_plus_2|204971_at|204971_at	hgnc_symbol|CSTA|CSTA

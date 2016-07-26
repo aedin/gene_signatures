@@ -1,0 +1,43 @@
+GeneBank ID	Molecule	Description	Log ratio: MTX 48	Log ratio: R96	p-value: MTX 48	p-value: R96	Function
+NM_212482	FN1	fibronectin 1, transcript variant 1	2,49	0,758	0	0,006	ECM molecule
+NM_006080	SEMA3A	sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3A	0,523	0,853	0,008	0,039	Semaphorins
+NM_003612	SEMA7A	semaphorin 7A, GPI membrane anchor (John Milton Hagen blood group)		1268		0,008	Semaphorins
+NM_000729	CCK	cholecystokinin		0,609		0,018	GPCR agonist
+NM_001005862	ERBB2	v-erb-b2 erythroblastic leukemia viral oncogene homolog 2, neuro/glioblastoma derived oncogene homolog (avian), transcript variant 2		0,857		0,007	Receptor tyrosine kinase molecules
+NM_000245	MET	met proto-oncogene (hepatocyte growth factor receptor)		0,74		0,033	Receptor tyrosine kinase molecules
+NM_000245	MET	met proto-oncogene (hepatocyte growth factor receptor)		0,74		0,033	Semaphorin receptor molecules
+NM_003873	NRP1	neuropilin 1, transcript variant 1	2313	1407	0,003	0,026	Semaphorin receptor molecules
+NM_002673	PLXNB1	plexin B1		0,681		0,021	Semaphorin receptor molecules
+NM_002859	PXN	paxillin	0,908	1105	0,005	0	Focal adhesion complex molecules
+NM_015059	TLN2	talin 2		0,705		0,032	Focal adhesion complex molecules
+NM_014000	VCL	vinculin, transcript variant 1		1223		0	Focal adhesion complex molecules
+NM_003379	VIL2	villin 2 (ezrin)	0,976	1,76	0	0,003	Focal adhesion complex molecules
+NM_003461	ZYX	zyxin, transcript variant 1	0,707	0,975	0,004	0,001	Focal adhesion complex molecules
+NM_002577	PAK2	p21 (CDKN1A)-activated kinase 2		0,613		0,043	p21-activated protein kinase molecules
+NM_020168	PAK6	p21(CDKN1A)-activated kinase 6		0,674		0,008	p21-activated protein kinase molecules
+NM_001664	RHOA	ras homolog gene family, member A		0,542		0,022	Small GTPases of the Rho family molecules
+NM_019034	RHOF	ras homolog gene family, member F (in filopodia)	1826	1487	0	0,006	Small GTPases of the Rho family molecules
+NM_021205	RHOU	ras homolog gene family, member U		0,937		0,003	Small GTPases of the Rho family molecules
+NM_133639	RHOV	ras homolog gene family, member V	1258	3228	0,002	0,001	Small GTPases of the Rho family molecules
+NM_006471	MRCL3 (MYL12A)	myosin regulatory light chain	0,721	0,734	0,001	0,004	Myosin light chain regulatory molecules
+NM_033546	MRLC2 (MYL12B)	myosin regulatory light chain	0,586	0,685	0,004	0,007	Myosin light chain regulatory molecules
+NM_021914	CFL2	cofilin 2 (muscle), transcript variant 1		0,596		0,029	Actin-binding molecules
+NM_198252	GSN	gelsolin (amyloidosis, Finnish type), transcript variant 2	1,28	2,3	0	0	Actin-binding molecules
+NM_002421	MMP1	matrix metallopeptidase 1 (interstitial collagenase)	2332	3674	0	0,001	ECM remodeling enzymes
+NM_002425	MMP10	matrix metallopeptidase 10 (stromelysin 2)	1512	2062	0,012	0,017	ECM remodeling enzymes
+NM_002428	MMP15	matrix metallopeptidase 15 (membrane-inserted)		0,801		0,001	ECM remodeling enzymes
+NM_002423	MMP7	matrix metallopeptidase 7 (matrilysin, uterine)		1608		0,002	ECM remodeling enzymes
+NM_002658	PLAU	plasminogen activator, urokinase	2,61	3219	0	0	ECM remodeling enzymes
+NM_000362	TIMP3	TIMP metallopeptidase inhibitor 3 (Sorsby fundus dystrophy, pseudoinflammatory)	0,82	2271	0,005	0	ECM remodeling enzymes
+NM_020770	CGN	cingulin	1053	1,89	0,005	0	Germ cell-Sertoli cell junction and tight junction molecules
+NM_021101	CLDN1	claudin 1		0,756		0	Germ cell-Sertoli cell junction and tight junction molecules
+NM_194284	CLDN23	claudin 23	2627	3748	0	0	Germ cell-Sertoli cell junction and tight junction molecules
+NM_001305	CLDN4	claudin 4	1463	1601	0,002	0,015	Germ cell-Sertoli cell junction and tight junction molecules
+NM_001307	CLDN7	claudin 7		1085		0,008	Germ cell-Sertoli cell junction and tight junction molecules
+NM_002538	OCLN	occludin	1,44	1886	0,008	0,009	Germ cell-Sertoli cell junction and tight junction molecules
+NM_001903	CTNNA1	catenin (cadherin-associated protein), alpha 1, 102kDa		0,689		0,055	Germ cell-Sertoli cell junction and tight junction molecules
+NM_001331	CTNND1	catenin (cadherin-associated protein), delta 1		0,746		0,011	Germ cell-Sertoli cell junction and tight junction molecules
+NM_003257	TJP1 (ZO1)	tight junction protein 1 (zona occludens 1), transcript variant 1	1248	1497	0,001	0	Germ cell-Sertoli cell junction and tight junction molecules
+NM_014428	TJP3 (ZO3)	tight junction protein 3 (zona occludens 3)	0,54	0,79	0,001	0,004	Germ cell-Sertoli cell junction and tight junction molecules
+NM_001753	CAV1	caveolin 1, caveolae protein, 22kDa	1,1	0,796	0,001	0,007	Endocytosis-regulating molecules
+NM_007097	CLTB	clathrin, light polypeptide (Lcb), transcript variant brain	1,14	1162	0	0	Endocytosis-regulating molecules

@@ -1,0 +1,31 @@
+# Generate Mapping Tables Script: Version 4 11:08 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:08 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+agilent_wholegenome|A_51_P358765|A_51_P358765	mgi_symbol|Spp1|Spp1
+agilent_wholegenome|A_51_P301435|A_51_P301435	mgi_symbol|B3galt5|B3galt5
+agilent_wholegenome|A_51_P384894|A_51_P384894	mgi_symbol|Stfa1|Stfa1
+agilent_wholegenome|A_52_P6490|A_52_P6490	mgi_symbol|Insr|Insr
+agilent_wholegenome|A_51_P409694|A_51_P409694	mgi_symbol|Psrc1|Psrc1
+agilent_wholegenome|A_52_P646858|A_52_P646858	mgi_symbol|Car12|Car12
+agilent_wholegenome|A_51_P256827|A_51_P256827	mgi_symbol|S100a8|S100a8
+agilent_wholegenome|A_51_P240501|A_51_P240501	mgi_symbol|4930583H14 Rik|4930583H14 Rik
+agilent_wholegenome|A_51_P184484|A_51_P184484	mgi_symbol|Mmp13|Mmp13
+agilent_wholegenome|A_52_P387009|A_52_P387009	mgi_symbol|Egln3|Egln3
+agilent_wholegenome|A_51_P268154|A_51_P268154	mgi_symbol|Acsl4|Acsl4
+agilent_wholegenome|A_52_P318673|A_52_P318673	mgi_symbol|Saa1|Saa1
+agilent_wholegenome|A_51_P461040|A_51_P461040	mgi_symbol|Crct1|Crct1
+agilent_wholegenome|A_52_P158095|A_52_P158095	mgi_symbol|NAP107172-1|NAP107172-1
+agilent_wholegenome|A_52_P232580|A_52_P232580	mgi_symbol|Dyrk3|Dyrk3
+agilent_wholegenome|A_52_P240232|A_52_P240232	mgi_symbol|NAP052665-1|NAP052665-1
+agilent_wholegenome|A_51_P499698|A_51_P499698	mgi_symbol|Asprv1|Asprv1
+agilent_wholegenome|A_51_P302831|A_51_P302831	mgi_symbol|Dbccr1|Dbccr1
+agilent_wholegenome|A_52_P59206|A_52_P59206	mgi_symbol|Cst6|Cst6
+agilent_wholegenome|A_51_P459477|A_51_P459477	mgi_symbol|Col11a1|Col11a1
+agilent_wholegenome|A_52_P220440|A_52_P220440	mgi_symbol|Slc6a15|Slc6a15
+agilent_wholegenome|A_51_P457747|A_51_P457747	mgi_symbol|Krt16|Krt16
+agilent_wholegenome|A_51_P212782|A_51_P212782	mgi_symbol|Il1b|Il1b
+agilent_wholegenome|A_51_P147034|A_51_P147034	mgi_symbol|Ica1l|Ica1l
+agilent_wholegenome|A_51_P491667|A_51_P491667	mgi_symbol|Derl3|Derl3

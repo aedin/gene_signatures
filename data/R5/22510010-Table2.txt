@@ -1,0 +1,22 @@
+miRNA	Chromosome location	Up/downregulation	Putative targets	Fold changes	p Value
+hsa-let-7g	3p21.1	Up	NRAS, HMGA2, TGFBR1, IGF1R, MYCN, MAPK6, TP53	1.34	0.012
+hsa-miR-22	17p13.3	Up	ESR1, BCL9L, ERBB3, SP1, SATB2, RAB5B, CAV3	1.21	0
+hsa-miR-503	Xq26.3	Up	CBX4, IGF1,M CPEB2, PIK3R1	1.6	0.014
+hsa-miR-923	17	Up		1.2	0.042
+hsa-miR-200c	12p13.31	Up	ZEB1, TIMP2, MYB, BCL2	2.44	0.024
+hsa-miR-135b	1q32.1	Down	STAT6, TET3, MRAS, MMP11	-2.77	0.003
+hsa-miR-181a	1q31.3	Down	TRIM2, E2F1, RET, SP8	-1.2	0.025
+hsa-miR-181a	1q31.3	Down		-1.1	0.01
+hsa-miR-210	11p15.5	Down	EFNA3,BDNF, PCDH17	-1	0.006
+hsa-miR-216a	2	Down	SP1, CDC23	-1.41	0.024
+hsa-miR-216b	2	Down	BCL2L11, SERBP1, TCF4	-1.3	0.031
+hsa-miR-217	2p16.1	Down	RICTOR, FAM60A	-1.98	0.021
+hsa-miR-514	X	Down	SERBP1, PTEN, TIAM1, FOXO4	-4.31	0.017
+hsa-miR-598	8p23.1	Down	ZEB2, HOXOA3	-1.1	0.022
+hsa-miR-25	7q22.1	Down	MAP2K4, RAB23, MALAT1	-2.49	0.03
+hsa-miR-95	10p13	Down	NR4A2, SELS, GNAI2, OAZ2	-1.5	0.017
+hsa-miR-34b	11q23.1	Down	ASB1, SGPP1	-1.2	0.003
+hsa-miR-34c-5p	11q23.1	Down	DLL1, FLOT2, NAV1	-1.3	0.014
+hsa-miR-106b	7q22.1	Down	ZBTB7, ITGB8	-1.5	0.04
+hsa-miR-92a-1	13q31.3	Down	CPEB3, NFYC, HIPK3	-3.3	0.022
+hsa-miR-124	8p23.1	Down	OSR1, CDH11, PTPN12	-1.9	0.032

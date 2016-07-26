@@ -1,0 +1,22 @@
+# Generate Mapping Tables Script: Version 4 11:03 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:03 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+illumina_humanwg_6_v3|3140148|3140148	hgnc_symbol|PPY|PPY
+illumina_humanwg_6_v3|1710577|1710577	hgnc_symbol|GPR61|GPR61
+illumina_humanwg_6_v3|7610411|7610411	hgnc_symbol|PPP4R4|PPP4R4
+illumina_humanwg_6_v3|3710563|3710563	hgnc_symbol|SLC9A2|SLC9A2
+illumina_humanwg_6_v3|4810142|4810142	hgnc_symbol|ESRRB|ESRRB
+illumina_humanwg_6_v3|1940193|1940193	hgnc_symbol|KCNK12|KCNK12
+illumina_humanwg_6_v3|2060114|2060114	hgnc_symbol|CYP11B2|CYP11B2
+illumina_humanwg_6_v3|7050129|7050129	hgnc_symbol|CLRN1|CLRN1
+illumina_humanwg_6_v3|150309|150309	hgnc_symbol|SLC24A3|SLC24A3
+illumina_humanwg_6_v3|4480079|4480079	hgnc_symbol|AQP2|AQP2
+illumina_humanwg_6_v3|6660671|6660671	hgnc_symbol|KCNK1|KCNK1
+illumina_humanwg_6_v3|6220309|6220309	hgnc_symbol|KCNH3|KCNH3
+illumina_humanwg_6_v3|4860762|4860762	hgnc_symbol|INPP4B|INPP4B
+illumina_humanwg_6_v3|3890278|3890278	hgnc_symbol|CYP17A1|CYP17A1
+illumina_humanwg_6_v3|7040487|7040487	hgnc_symbol|SCNN1A|SCNN1A
+illumina_humanwg_6_v3|3990739|3990739	hgnc_symbol|KCNK5|KCNK5

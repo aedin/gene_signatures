@@ -1,0 +1,28 @@
+# Generate Mapping Tables Script: Version 4 11:05 on 02(MM)14(DD)2014(YYYY)
+# Image/GenBank Handler Script: Version 2 11:05 on 02(MM)14(DD)2014(YYYY)
+# Clone ID to GenBank   lookuptable: IMAGECLONE_UCSC_HG19
+# GenBank  to Unigene   lookuptable: GB_TO_UG
+# Unigene to EntrezGene lookuptable: UG_TO_ENTREZGENE
+# Contig ID to Ensembl Lookuptable: PHRAP_CONTIGS 
+hgnc_symbol|PTPRA|PTPRA
+hgnc_symbol|PTPRK|PTPRK
+hgnc_symbol|PTPN11|PTPN11
+hgnc_symbol|PTPN18|PTPN18
+hgnc_symbol|DUSP1|DUSP1
+hgnc_symbol|DUSP2|DUSP2
+hgnc_symbol|DUSP5|DUSP5
+hgnc_symbol|DUSP12|DUSP12
+hgnc_symbol|DUSP16|DUSP16
+hgnc_symbol|DUSP23|DUSP23
+hgnc_symbol|STYXL1|STYXL1
+hgnc_symbol|PTP4A1|PTP4A1
+hgnc_symbol|PTP4A3|PTP4A3
+hgnc_symbol|MTM1|MTM1
+hgnc_symbol|MTMR12|MTMR12
+hgnc_symbol|DUSP6|DUSP6
+hgnc_symbol|DUSP14|DUSP14
+hgnc_symbol|CDKN3|CDKN3
+hgnc_symbol|PTEN|PTEN
+hgnc_symbol|MTMR4|MTMR4
+hgnc_symbol|MTMR11|MTMR11
+hgnc_symbol|CDC25C|CDC25C
