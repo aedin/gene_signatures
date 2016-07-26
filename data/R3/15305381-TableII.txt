@@ -1,0 +1,42 @@
+Ensembl ID	Gene	Product	Subcellular location	Biological function	Average ratio	t-test p-value	Reference
+ENSG00000162772	ATF3	Activating transcription factor 3	Nucleus	Regulation of transcription, DNA-dependent	0.21	< 0.001
+ENSG00000169594	BNC	Basonuclin	Nucleus	Regulation of transcription, DNA-dependent	0.09	< 0.001
+Homologous to	BNIP31	BCL2/adenovirus E1B 19kDa interacting protein 3	Mitochondrion	Antiapoptosis	0.44	< 0.001	34
+ENSG00000151914	BPAG1	Bullous pemphigoid antigen	Intercellular junction	Cell adhesion and cell cycle arrest	0.1	< 0.001
+ENSG00000151465	C10orf7	Protein D123		Cell cycle arrest	0.22	< 0.001
+ENSG00000118971	CCND2	Cyclin D2	Nucleus	Regulation of cell cycle	0.01	< 0.001	39
+ENSG00000062038	CDH3	Cadherin 3	Integral to membrane	Cell adhesion	0.08	< 0.001	[33][39]
+ENSG00000124762	CDKN1A	Cyclin-dependent kinase inhibitor 1A (p21, Cip1)	Nucleus	Cell cycle arrest	0.3	< 0.001
+ENSG00000084636	COL16A1	Collagen, type XVI, alpha 1	Collagen	Cell adhesion	0.21	< 0.001
+ENSG00000114270	COL7A1	Collagen, type VII, alpha 1	Basement membrane	Cell adhesion	0.32	< 0.001
+ENSG00000175183	CSRP2	Cysteine and glycine-rich protein 2	Nucleus	Cell proliferation	0.24	< 0.001
+ENSG00000121552	CSTA	Cystatin A (stefin A)		Epidermal development and maintenance	0.22	< 0.001	39
+ENSG00000142871	CYR61	Cysteine-rich, angiogenic inducer, 61	Extracellular	Cell proliferation	0.38	< 0.001
+ENSG00000170477	EBS2	Keratin 4	Intercellular junction	Cytoskeleton organization and biogenesis	0.12	< 0.001
+ENSG00000134531	EMP1	Epithelial membrane protein 1	Integral to membrane	Cell death	0.3	< 0.001
+ENSG00000086570	FAT2	FAT tumor suppressor homolog 2 (Drosophila)2	Integral to membrane	Homophilic cell adhesion	0.19	< 0.001
+ENSG00000138829	FBN2	Fibrillin 2	Extracellular matrix	Formation/maintenance of extracellular microfibrils	0.21	< 0.001
+ENSG00000161958	FGF11	Fibroblast growth factor 11	Extracellular space	Cell-cell signaling	0.28	< 0.001
+ENSG00000182106	GIP2	Interferon, alpha-inducible protein (clone IFI-15K)	Extracellular space	Cell-cell signaling	0.34	< 0.001
+ENSG00000116717	GADD45A	Growth arrest and DNA-damage-inducible, alpha2	Nucleus	Cell cycle arrest	0.21	< 0.001
+ENSG00000152661	GJA1	Gap junction protein, alpha 1, 43kDa (connexin 43)	Connexon complex	Cell-cell signaling	0.25	< 0.001
+ENSG00000063660	GPC1	Glypican 1	Extracellular matrix	Cell division and growth regulation	0.36	< 0.001	39
+ENSG00000117318	ID3	Inhibitor of DNA binding 3	Nucleus	Development	0.45	< 0.001
+ENSG00000163453	IGFBP7	Insulin-like growth factor binding protein 7	Extracellular	Negative regulation of cell proliferation	0.42	< 0.001
+ENSG00000125538	IL1B	Interleukin 1, beta	Extracellular space	Negative regulation of cell proliferation	0.18	< 0.001
+ENSG00000185479	KRT6E	Keratin 6E	Intercellular junction	Cytoskeleton organization and biogenesis	0.14	< 0.001
+ENSG00000178939	LGALS7	Lectin, galactoside-binding, soluble, 7 (galactin 7)	Extracellular space	Heterophilic cell adhesion	0.16	< 0.001
+ENSG00000169688	MT1J	Metallothionein 1J	Cytoplasm	Modulate apoptosis	0.22	< 0.001
+ENSG00000125144	MT1K	Metallothionein 1K		Modulate apoptosis	0.31	< 0.001
+ENSG00000087250	MT3	Metallothionein 3		Cell proliferation	0.24	< 0.001
+ENSG00000112245	PTP4A1	Protein tyrosine phosphatase type IVA, member 1	Nucleus	Protein amino acid dephosphorylation	0.35	< 0.001
+ENSG00000160675	S100A2	S100 calcium-binding protein A2		Tumor suppressor function	0.17	< 0.001
+ENSG00000163220	S100A9	S100 calcium binding protein A9 (calgranulin B)	Extracellular space	Cell-cell signaling	0.2	< 0.001
+ENSG00000166401	SERPINB2	Serine proteinase inhibitor, clade B (ovalbumin), member 2		Antiapoptosis	0.15	< 0.001
+ENSG00000175793	SFN	Stratifin	Extracellular space	Regulation of cell cycle	0.21	< 0.001
+ENSG00000129194	SOX15	SRY-box 15	Chromatin	Regulation of transcription, DNA-dependent	0.07	< 0.001	39
+ENSG00000113140	SPARC	Secreted protein, acidic, cysteine-rich (osteonectin)	Basement membrane	Collagen binding	0.08	< 0.001
+ENSG00000105825	TFP12	Tissue factor pathway inhibitor 2	Extracellular matrix	Blood coagulation	0.44	< 0.001
+Homologous to	THBS22	Thrombospondin 2	Extracellular matrix	Cell adhesion	0.06	< 0.001	39
+ENSG00000073282	TP73L	Tumor protein p73-like	Nucleus	Induction of apoptosis	0.19	< 0.001
+ENSG00000008838	TRAP1003	Thyroid hormone receptor-associated protein	Nucleus	Regulation of transcription, DNA-dependent	0.23	< 0.001

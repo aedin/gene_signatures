@@ -1,0 +1,119 @@
+Functional category	Probe set ID	Gene symbol	Gene title	Fold-change S/NS	p value	Fold-change S/NS	p value
+Adhesion	206460_at	AJAP1	adherens junction associated protein 1	1.78	0.002	4.36	0.022
+Adhesion	209270_at	LAMB3	laminin, beta 3	-2.1	0.026	-2.38	0.011
+Apoptosis	207469_s_at	PIR	pirin	2.64	0.007	2.22	0.028
+Apoptosis	225116_at	HIPK2	homeodomain interacting protein kinase 2	2.47	0.009	2.22	0.011
+Apoptosis	207180_s_at	HTATIP2	HIV-1 Tat interactive protein 2	1.86	0	1.63	0.028
+Apoptosis	207574_s_at	GADD45B	growth arrest and DNA-damage-inducible, beta	-1.83	0.024	-2.26	0.014
+Cell Cycle	213348_at	CDKN1C	cyclin-dependent kinase inhibitor 1C	-2.22	0.018	-2.02	0.006
+Cell growth and maintenance	226425_at	RSNL2	restin-like 2	2.36	0.034	2.75	0.023
+Cell growth and maintenance	219944_at	RSNL2	restin-like 2	1.77	0.002	2.52	0.002
+Cell growth and maintenance	229265_at	DRPLA	atrophin 1	-1.41	0.03	-1.74	0.033
+Cell growth and maintenance	212281_s_at	MAC30	hypothetical protein MAC30	-1.65	0.034	-1.65	0.045
+Cell growth and maintenance	1556012_at	KLHDC7A	kelch domain containing 7A	-1.78	0.043	-1.81	0.032
+Cell growth and maintenance	221675_s_at	CHPT1	choline phosphotransferase 1	-1.92	0.003	-1.99	0.014
+Cytoskeleton	218950_at	CENTD3	centaurin, delta 3	-1.39	0.003	-1.68	0.021
+Cytoskeleton	201718_s_at	EPB41L2	erythrocyte membrane protein band 4.1-like 2	-2.26	0.005	-2.45	0.007
+Cytoskeleton	201719_s_at	EPB41L2	erythrocyte membrane protein band 4.1-like 2	-2.3	0.008	-3.22	0.007
+Immune response	219389_at	SUSD4	sushi domain containing 4	-1.55	0.03	-1.92	0.023
+Immune response	203233_at	IL4R	interleukin 4 receptor	-1.74	0.008	-1.91	0.017
+Immune response	223822_at	SUSD4	sushi domain containing 4	-1.77	0.036	-1.86	0.007
+Immune response	218638_s_at	SPON2	spondin 2, extracellular matrix protein	-1.86	0.045	-1.92	0.018
+Immune response	823_at	CX3CL1	chemokine (C-X3-C motif) ligand 1	-2.89	0.016	-2.96	0.004
+Metabolism	228490_at	ABHD2	abhydrolase domain containing 2	1.81	0.043	1.73	0.011
+Metabolism	230999_at	DCPS	decapping enzyme, scavenger	1.46	0.024	3.04	0.048
+Metabolism	217775_s_at	RDH11	retinol dehydrogenase 11	1.43	0.035	1.5	0.047
+Metabolism	213687_s_at	RPL35A	ribosomal protein L35a	-1.34	0.026	-1.55	0.004
+Metabolism	201275_at	FDPS	farnesyl diphosphate synthase	-1.35	0.023	-1.54	0.011
+Metabolism	42361_g_at	CCHCR1	coiled-coil alpha-helical rod protein 1	-1.84	0.019	-2.1	0.044
+Metabolism	226649_at	PANK1	pantothenate kinase 1	-2.06	0.026	-2.02	0.012
+Metabolism	219049_at	ChGn	chondroitin beta1,4 N-acetylgalactosaminyltransferase	-2.41	0.026	-2.37	0.046
+Metabolism	203939_at	NT5E	5-nucleotidase, ecto (CD73)	-2.51	0.01	-2.81	0.004
+Mucin	1553602_at	SBEM	small breast epithelial mucin	4.9	0.002	5.47	0.003
+Pentose cycle	208700_s_at	TKT	transketolase	1.91	0.007	1.99	0.014
+Pentose cycle	201463_s_at	TALDO1	transaldolase 1	1.82	0.002	1.65	0.005
+Proteolysis	239229_at	PHEX	transcribed locus	3.91	0.02	3.52	0.029
+Proteolysis	231835_at	C1orf93	chromosome 1 open reading frame 93	-1.74	0.009	-2.07	0.004
+Proteolysis	242662_at	PCSK6	proprotein convertase subtilisin/kexin type 6	-2.21	0.025	-2	0.037
+Proteolysis	207414_s_at	PCSK6	proprotein convertase subtilisin/kexin type 6	-2.3	0.01	-2.3	0.05
+Response to  oxidants and xenobiotics	202437_s_at	CYP1B1	cytochrome P450, family 1, subfamily B, polypeptide 1	38.87	0.025	36.19	0.014
+Response to  oxidants and xenobiotics	202436_s_at	CYP1B1	cytochrome P450, family 1, subfamily B, polypeptide 1	32.86	0.016	41.36	0.005
+Response to  oxidants and xenobiotics	206561_s_at	AKR1B10	aldo-keto reductase family 1, member B10	24.84	0.003	20.76	0.002
+Response to  oxidants and xenobiotics	202435_s_at	CYP1B1	cytochrome P450, family 1, subfamily B, polypeptide 1	20.73	0.039	54.7	0.004
+Response to  oxidants and xenobiotics	210505_at	ADH7	alcohol dehydrogenase 7 (class IV), mu or sigma polypeptide	7.21	0.001	6.1	0.001
+Response to  oxidants and xenobiotics	202831_at	GPX2	glutathione peroxidase 2 (gastrointestinal)	5.89	0	6.11	0
+Response to  oxidants and xenobiotics	205623_at	ALDH3A1	aldehyde dehydrogenase 3 family, memberA1	5.6	0	4.96	0.001
+Response to  oxidants and xenobiotics	204059_s_at	ME1	malic enzyme 1, NADP(+)- dependent, cytosolic	4.92	0	4.31	0.001
+Response to  oxidants and xenobiotics	217626_at	AKR1C1	aldo-keto reductase family 1, member C1	4.31	0.016	4.93	0.006
+Response to  oxidants and xenobiotics	201468_s_at	NQO1	NAD(P)H dehydrogenase, quinone 1	3.85	0	4.01	0
+Response to  oxidants and xenobiotics	204058_at	ME1	malic enzyme 1, NADP(+)- dependent, cytosolic	3.79	0.015	4.2	0.03
+Response to  oxidants and xenobiotics	215125_s_at	UGT1A10	UDP glucuronosyltransferase 1 family, polypeptide A10	3.56	0.001	3.55	0.001
+Response to  oxidants and xenobiotics	208596_s_at	UGT1A10	UDP glucuronosyltransferase 1 family, polypeptide A10	3.46	0.002	3.92	0.006
+Response to  oxidants and xenobiotics	209699_x_at	AKR1C2	aldo-keto reductase family 1,	3.43	0	3.22	0
+Response to  oxidants and xenobiotics	201467_s_at	NQO1	NAD(P)H dehydrogenase, quinone 1	3.37	0	3.38	0
+Response to  oxidants and xenobiotics	204532_x_at	UGT1A10	UDP glucuronosyltransferase 1 family, polypeptide A10	3.1	0.001	2.98	0
+Response to  oxidants and xenobiotics	211653_x_at	AKR1C2	aldo-keto reductase family 1, member C2	3.06	0.001	2.44	0.001
+Response to  oxidants and xenobiotics	210519_s_at	NQO1	NAD(P)H dehydrogenase, quinone 1	3.06	0	2.75	0
+Response to  oxidants and xenobiotics	207126_x_at	UGT1A10	UDP glucuronosyltransferase 1 family, polypeptide A10	3.05	0.001	2.94	0.002
+Response to  oxidants and xenobiotics	216594_x_at	AKR1C1	aldo-keto reductase family 1, member C1	2.96	0.001	2.86	0
+Response to  oxidants and xenobiotics	206094_x_at	UGT1A6	UDP glucuronosyltransferase 1 family, polypeptide A6	2.85	0.007	2.93	0.001
+Response to  oxidants and xenobiotics	204151_x_at	AKR1C1	aldo-keto reductase family 1, member C1	2.7	0.001	2.16	0.002
+Response to  oxidants and xenobiotics	239595_at	GPX2	glutathione peroxidase 2	2.69	0.009	3.73	0.001
+Response to  oxidants and xenobiotics	209160_at	AKR1C3	aldo-keto reductase family 1, member C3	2.6	0.01	2.32	0.014
+Response to  oxidants and xenobiotics	205379_at	CBR3	carbonyl reductase 3	2.27	0.023	2.45	0.008
+Response to  oxidants and xenobiotics	208680_at	PRDX1	peroxiredoxin 1	1.56	0.009	1.41	0.045
+Response to  oxidants and xenobiotics	210524_x_at	MT1F	---	-1.55	0.017	-2	0.022
+Response to  oxidants and xenobiotics	213629_x_at	MT1F	metallothionein 1F	-1.73	0.02	-2.6	0.004
+Response to  oxidants and xenobiotics	219489_s_at	NXN	nucleoredoxin	-2.02	0.047	-2.13	0.039
+Response to  oxidants and xenobiotics	204041_at	MAOB	monoamine oxidase B	-2.28	0.012	-2.93	0.018
+RNA processing	207830_s_at	PPP1R8	protein phosphatase 1, regulatory subunit 8	-1.3	0.027	-1.53	0.017
+RNA processing	204372_s_at	KHSRP	KH-type splicing regulatory protein	-1.38	0.043	-1.56	0.007
+RNA processing	207541_s_at	EXOSC10	exosome component 10	-1.54	0.033	-1.61	0.045
+Signal transduction	219928_s_at	CABYR	calcium binding tyrosine-(Y)-phosphorylation regulated	6.02	0.011	6.1	0.002
+Signal transduction	224279_s_at	CABYR	calcium binding tyrosine-(Y)-phosphorylation regulated	5.99	0.004	6.21	0.001
+Signal transduction	201591_s_at	NISCH	nischarin	-1.32	0.039	-1.69	0.039
+Signal transduction	225637_at	FLJ20186	hypothetical protein FLJ20186	-1.37	0.022	-1.59	0.018
+Signal transduction	224739_at	PIM3	pim-3 oncogene	-1.5	0.046	-1.63	0.035
+Signal transduction	227405_s_at	FZD8	frizzled homolog 8 (Drosophila)	-1.72	0.017	-2.02	0.012
+Signal transduction	223168_at	RHOU	ras homolog gene family, member U	-1.76	0.042	-2.09	0.014
+Signal transduction	224325_at	FZD8	frizzled homolog 8 (Drosophila)	-1.83	0.021	-2.02	0.014
+Signal transduction	229158_at	WNK4	WNK lysine deficient protein kinase 4	-2.09	0.026	-2.98	0.049
+Transcription and chromatin structure	219123_at	ZNF232	zinc finger protein 232	-1.47	0.047	-1.77	0.035
+Transcription and chromatin structure	211998_at	H3F3B	H3 histone, family 3B	-1.5	0.043	-1.7	0.044
+Transcription and chromatin structure	229964_at	C9orf152	chromosome 9 open reading frame 152	-1.51	0.02	-1.57	0.017
+Transcription and chromatin structure	40837_at	TLE2	transducin-like enhancer of split 2 (E(sp1) homolog, Drosophila)	-1.53	0.049	-1.85	0.011
+Transcription and chromatin structure	239207_at	SMCX	Smcy homolog, X-linked (mouse)	-1.7	0.024	-1.72	0.027
+Transcription and chromatin structure	40284_at	FOXA2	forkhead box A2	-1.84	0.009	-2.52	0.013
+Transcription and chromatin structure	55872_at	GM632	KIAA1196 protein	-1.86	0.024	-1.81	0.037
+Transcription and chromatin structure	221016_s_at	TCF7L1	transcription factor 7-like 1	-2.09	0.003	-2.38	0.002
+Transcription and chromatin structure	50221_at	TFEB	transcription factor EB	-2.11	0.008	-2.33	0.022
+Transport	220197_at	ATP6V0A4	ATPase, H+ transporting, lysosomal V0 subunit a isoform 4	2.47	0.011	2.22	0.025
+Transport	201250_s_at	SLC2A1	solute carrier family 2 (facilitated glucose transporter), member 1	1.58	0.008	1.57	0.021
+Transport	207096_at	SAA4	serum amyloid A4, constitutive	-2.16	0.034	-2.67	0.026
+Transport	240699_at	SEC14L3	SEC14-like 3 (S. cerevisiae)	-4.17	0.008	-5.43	0.012
+Transport	216346_at	SEC14L3	SEC14-like 3 (S. cerevisiae)	-4.29	0.025	-4.42	0.018
+Ubiquitin- dependent protein catabolism	201387_s_at	UCHL1	ubiquitin carboxyl-terminal esterase L1	15.85	0.002	31.07	0
+Ubiquitin- dependent protein catabolism	226176_s_at	USP42	ubiquitin specific peptidase 42	-1.59	0.019	-1.68	0.028
+Unknown	237351_at	LOC284825	hypothetical protein LOC284825	4.67	0.011	7.82	0
+Unknown	1555854_at	---	CDNA FLJ33809 fis, clone CTONG2001858	4.55	0.026	3.98	0.022
+Unknown	205499_at	SRPX2	sushi-repeat-containing protein, X-linked 2	2.55	0.004	2.49	0.005
+Unknown	221908_at	TMEM118	transmembrane protein 118	1.91	0.043	1.91	0.039
+Unknown	223442_at	NICN1	nicolin 1	-1.31	0.044	-1.55	0.013
+Unknown	204546_at	KIAA0513	KIAA0513	-1.33	0.043	-1.52	0.019
+Unknown	226780_s_at	HSPC268	hypothetical protein HSPC268	-1.34	0.04	-1.52	0.037
+Unknown	221867_at	N4BP1	Nedd4 binding protein 1	-1.43	0.005	-1.96	0.001
+Unknown	229742_at	LOC145853	hypothetical LOC145853	-1.45	0.034	-1.51	0.038
+Unknown	243934_at	---	transcribed locus	-1.47	0.047	-1.72	0.039
+Unknown	226781_at	HSPC268	hypothetical protein HSPC268	-1.55	0.023	-1.69	0.036
+Unknown	225704_at	KIAA1545	KIAA1545 protein	-1.56	0.003	-1.52	0.032
+Unknown	219450_at	FLJ11017	hypothetical protein FLJ11017	-1.57	0.029	-1.5	0.047
+Unknown	235350_at	---	transcribed locus	-1.61	0.008	-1.8	0.013
+Unknown	1558508_a_at	C1orf53	chromosome 1 open reading	-1.74	0.043	-1.49	0.046
+Unknown	230433_at	LOC400764	hypothetical gene supported by AK094796	-1.82	0.002	-1.56	0.043
+Unknown	219563_at	C14orf139	chromosome 14 open reading frame 139	-1.82	0.026	-1.92	0.006
+Unknown	240869_at	---	CDNA FLJ45029 fis, clone BRAWH3018326	-2.17	0.018	-2.06	0.025
+Unknown	1554190_s_at	C10orf81	chromosome 10 open reading frame 81	-2.21	0.047	-2.44	0.014
+Unknown	238755_at	---	transcribed locus	-2.27	0.026	-2.02	0.027
+Unknown	229654_at	---	transcribed locus	-2.51	0.035	-2.71	0.05
+Unknown	236656_s_at	---	full length insert cDNA YI37C01	-2.51	0.004	-2.65	0.012
+Unknown	228854_at	---	transcribed locus	-3.88	0.022	-3.44	0.022

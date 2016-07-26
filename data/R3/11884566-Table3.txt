@@ -1,0 +1,51 @@
+Regulation	Rank	C-SD	I (%)	I-R	GeneSymbol	Protein	Unigene	Intensity uninfected	Intensity Infected
+Up	1	7.6	NA	NA	MTH1	Metallothionein (MTH1)	Hs.83326	4,470	25,030
+Up	2	6.3	NA	NA	---	Exodus 2 beta chemokine	Hs.57907	3,110	17,360
+Up	3	5.4	93.1	1.7	HHR23A	RAD23A UV excision repair protein (HHR23A)	Hs.180455	1,440	7,780
+Up	4	4.9	NA	NA	---	Osteopontin	Hs.313	740	8,200
+Up	5	4.7	NA	NA	DCR3	DCR3 decoy receptor 3	Hs.278556	1,270	9,280
+Up	6	4.6	99.7	+2.8, +2.6	RDC1	RDC1 G-protein-coupled receptor homolog	Hs.23016	1,470	11,770
+Up	7	4.2	NA	NA	TPP	Tripeptidyl-peptidase 1 (TPP)	Hs.20478	4,130	10,620
+Up	8	4.1	NA	NR	---	Proteasome component C9	Hs.251531	990	5,110
+Up	9	3.9	ND	NA	MRP14	Calgranulin B (migration inhibitory factor MRP14)	Hs.112405	570	4,340
+Up	10	3.6	17.4	1.2	TIMP1	TIMP1 inhibitor of metalloproteinases	Hs.5831	25,420	33,390
+Up	11	3.6	NA	NR	---	Cytochrome P450 II A6	Hs.183584	1,020	5,890
+Up	12	3.6	NA	NR	BCL3	Bcl3 (B-cell lymphoma 3)	Hs.31210	4,570	11,400
+Up	13	3.5	NA	NA	TIMP4	TIMP4 inhibitor of metalloproteinases	Hs.190787	1,620	5,060
+Up	14	3.3	86.9	1.5	---	Interferon-induced leucine zipper protein	Hs.50842	4,960	8,540
+Up	15, 27	+3.2,  +2.5	89.5	1.6	IRF7	IRF7 (interferon regulatory factor 7)	Hs.166120	940	2,960
+Up	16	3.2	10	1.3	RAMP2	RAMP2 (receptor activation modifier 2)	Hs.155106	8,050	16,220
+Up	17	3.1	96.1	1.8	CDC25B	CDC25B—cell division cycle protein	Hs.153752	3,560	7,050
+Up	18	3.1	0.2	4.5	PAI1	PAI-1 endothelial plasminogen activator inhibitor-1	Hs.82085	4,960	8,550
+Up	19	3	NA	NA	---	Smooth muscle cell LIM protein	Hs.10526	480	3,880
+Up	20	+2.8,  +1.3	94.3	1.7	---	Neurogranin	Hs.26944	3,560	6,450
+Up	22	2.7	NA	NR	ICAM2	ICAM2 (intracellular adhesion molecule 2)	Hs.83733	2,730	6,300
+Up	26	2.5	NA	NA	H105E3	H105E3	Hs.57698	11,845	18,370
+Up	28	2.5	NA	NR	---	Fibrinogen B beta	Hs.166120	15,610	23,120
+Up	33	2.4	NA	NA	VWF	VWF	Hs.110802	11,650	17,760
+Up	36	2.4	NA	NA	RIG-E	RIG-E (stem cell antigen 2)	Hs.77667	6,400	11,120
+Down	1	-5	NA	NR	---	Nucleobindin	Hs.172609	15,960	4,830
+Down	2	-4.9	81.5	-1.2	CXCR4	CXCR4 stromal cell alpha chemokine receptor	Hs.89414	13,840	4,910
+Down	3	-4.6	NA	NR	IL8	IL-8	Hs.624	14,520	5,450
+Down	4	-4.4	NA	NA	Notch3	Notch3 homologue	NA	14,090	3,470
+Down	5	-4	82.7	-1.2	GPRK2L	GRK4 G-protein-coupled receptor kinase (GPRK2L)	Hs.32959	17,090	4,980
+Down	6	-3.8	99.8	-4.3	---	Thrombin receptor (coagulation factor II)	Hs.128087	9,670	2,890
+Down	7	-3.8	NA	NR	---	Inhibin  beta-B subunit	Hs.1735	12,070	2,250
+Down	8	-3.7	97.2	-1.7	---	Cytosolic dynein heavy chain	Hs.23958	17,790	6,150
+Down	9	-2.9	NA	NR	THY1	Thy1 membrane glycoprotein	Hs.125359	26,260	13,350
+Down	10	-2.9	19.2	-1.4	---	Phosphatidylethanolamine-binding protein	Hs.80423	9,810	2,380
+Down	11	-2.9	NA	NR	MJD1	Machado-Joseph disease protein 1 (MJD1)	Hs.66521	3,970	190
+Down	12	-2.8	93	NA	---	Junction plakoglobin, desmoplakin III	Hs.2340	10,110	4,760
+Down	13	-2.8	NA	NA	---	Glycine amidinotransferase	Hs.75335	5,870	180
+Down	14	-2.8	NA	NR	MSS4	Guanine nucleotide exchange factor MSS4	Hs.90875	15,320	6,330
+Down	15	-2.7	95.8	-1.5	---	c-Maf transcription factor	Hs.30250	4,870	530
+Down	16	-2.6	NA	NA	---	Gastric triacylglycerol lipase	Hs.159177	3,910	11,360
+Down	17	-2.6	91.9	-1.4	---	Reelin	Hs.12246	7,900	1,540
+Down	18	-2.6	93.2	-1.4	LASP1	LIM and SH3 domain protein LASP-1	Hs.75080	5,380	12,260
+Down	19	-2.5	93.4	-1.4	---	Phospholipase C-gamma-2	Hs.75648	2,710	560
+Down	20	-2.5	NA	NA	---	Phosphomevalonate kinase	Hs.30954	10,110	3,250
+Down	21	-2.5	NA	NR	CD40	CD40 receptor associated factor	Hs.89676	4,870	1,620
+Down	23	-2.4	NA	NR	CNN1	Cyclin A1 (CNN1)	Hs.86137	1,750	230
+Down	29	-2.2,   -1.8	NA	NA	WNT13	WNT 13	Hs.258575	9,420	5,890
+Down	31	-2.1	NA	NR	BFGFR	bFGF-R (basic fibroblast growth factor receptor)	Hs.748	9,030	5,560
+Down	32	-2.1	NA	NA	GRK5	GRK5 (G-protein receptor kinase 5)	Hs.311569	5,140	2,700

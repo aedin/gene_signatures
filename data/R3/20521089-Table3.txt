@@ -1,0 +1,58 @@
+Gene Symbol	Gene Name	Spearman r	P value	Slope
+NRIP1	nuclear receptor interacting protein 1	0.87	P?<?0.0001	0.83
+KRT16	keratin 16	0.86	P?<?0.0001	0.98
+KRT15	keratin 15	0.85	0.0001	1.2
+GPATCH4	G patch domain containing 4	0.83	0.0002	1.41
+SCNN1A	sodium channel, nonvoltage-gated 1 alpha	0.83	0.0003	1.21
+JUP	junction plakoglobin	0.83	0.0003	1.03
+FGFBP1	fibroblast growth factor binding protein 1	0.83	0.0003	0.72
+DDR1	discoidin domain receptor tyrosine kinase 1	0.83	0.0003	0.66
+SPINT1	serine peptidase inhibitor, Kunitz type 1	0.82	0.0003	0.88
+ALDH1A3	aldehyde dehydrogenase 1 family, member A3	0.82	0.0003	0.8
+F11R	F11 receptor	0.82	0.0003	0.72
+PTGES	prostaglandin E synthase	0.81	0.0004	0.87
+ITGB4	integrin, beta 4	0.8	0.0006	1.02
+S100A14	S100 calcium binding protein A14	0.8	0.0006	0.92
+MAP7	microtubule-associated protein 7	0.79	0.0007	0.69
+EPAS1	endothelial PAS domain protein 1	0.79	0.0008	0.61
+IL1A	interleukin 1, alpha	0.78	0.0009	1.1
+CHST15	carbohydrate sulfotransferase 15	0.77	0.0012	0.54
+SH3YL1	SH3 domain containing, Ysc84-like 1	0.77	0.0014	0.96
+PYCARD	PYD and CARD domain containing	0.77	0.0014	0.81
+LSR	lipolysis stimulated lipoprotein receptor	0.76	0.0015	0.79
+DSG2	desmoglein 2	0.76	0.0017	0.77
+RHOD	ras homolog gene family, member D	0.76	0.0017	0.74
+RAB25	RAB25, member RAS oncogene family	0.74	0.0027	1.04
+DSC3	desmocollin 3	0.74	0.0027	0.56
+KRT17	keratin 17	0.73	0.0032	1.34
+KCNK1	potassium channel, subfamily K, member 1	0.73	0.0032	0.64
+CXADR	coxsackie virus and adenovirus receptor	0.73	0.0032	0.53
+KRT5	keratin 5	0.71	0.0045	1.8
+ZBED2	zinc finger, BED-type containing 2	0.71	0.0048	0.89
+TGFA	transforming growth factor, alpha	0.71	0.0048	0.87
+NET1	neuroepithelial cell transforming 1	0.71	0.0048	0.68
+MAFB	v-maf musculoaponeurotic fibrosarcoma oncogene homolog B	0.71	0.0048	0.65
+CLIC3	chloride intracellular channel 3	0.7	0.0052	0.52
+LAMC2	laminin, gamma 2	0.7	0.0056	1.01
+CCNA1	cyclin A1	0.69	0.0061	0.57
+LITAF	lipopolysaccharide-induced TNF factor	0.69	0.0061	0.54
+LAD1	ladinin 1	0.69	0.0065	0.5
+TRIM29	tripartite motif-containing 29	0.68	0.0076	0.99
+EFNB2	ephrin-B2	0.67	0.0087	0.96
+SLPI	secretory leukocyte peptidase inhibitor	0.67	0.0093	1.11
+AKR1C2	aldo-keto reductase family 1, member C2	0.66	0.01	1.3
+PKP1	plakophilin 1	0.66	0.01	0.75
+MPZL2	myelin protein zero-like 2	0.66	0.01	0.71
+FYN	FYN oncogene	?0.69	0.0061	?0.62
+KHDRBS3	KH domain containing, RNA binding signal transduction associated 3	?0.69	0.0061	?0.59
+MAGEA5	melanoma antigen family A, 5	?0.70	0.0056	?0.71
+PRR16	proline rich 16	?0.71	0.0045	?1.20
+VIM	vimentin	?0.71	0.0041	?1.39
+KAT2B	K(lysine) acetyltransferase 2B	?0.73	0.0032	?0.52
+MAGEA6	melanoma antigen family A, 6	?0.73	0.0029	?2.41
+MAGEA12	melanoma antigen family A, 12	?0.75	0.0022	?1.54
+GNG11	guanine nucleotide binding protein (G protein), gamma 11	?0.75	0.002	?1.16
+MAGEA1	melanoma antigen family A, 1	?0.78	0.0011	?0.83
+EMP3	epithelial membrane protein 3	?0.79	0.0007	?0.50
+AP1S2	adaptor-related protein complex 1, sigma 2 subunit	?0.86	P?<?0.0001	?0.73
+PMP22	peripheral myelin protein 22	?0.90	P?<?0.0001	?0.81

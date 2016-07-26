@@ -1,0 +1,63 @@
+Category	Gene ID	Description	Gene Symbol	Smokers/nonsmokers Fold up-regulated	Smokers/nonsmokers Fold down-regulated	p value
+Immuneresponse and inflammation	U20758	Osteopontin(secretedphosphoprotein1)	SPP1	5.5		0.001
+Immuneresponse and inflammation	U95626	Chemokine(C-Cmotif)receptor5	CCR5	4.8		0.006
+Immuneresponse and inflammation	D83920	Ficolin1	FCN1	2.7		0.032
+Immuneresponse and inflammation	U18259	Major histocompatibility complex classII transactivator	MHC2TA	2.1		0.047
+Immuneresponse and inflammation	U83303	Chemokine(C-X-Cmotif)ligand6  (granulocytechemotacticprotein2)	CXCL6		5.2	0.001
+Immuneresponse and inflammation	L05512	Histatin1	HTN1		3	0.022
+Immuneresponse and inflammation	M30818	Myxovirusresistance2	MX2		2.3	0.033
+Immuneresponse and inflammation	X57351	Interferoninducedtransmembraneprotein3	IFITM3		2	0.025
+Immuneresponse and inflammation	M14058	Complementcomponent1,rsubcomponent	C1R		2	0.028
+Adhesion and extracellular matrix	L25851	alpha E-integrin	ITGAE	2.4		0.008
+Adhesion and extracellular matrix	X15882	alpha2-collagen,typeVI	COL6A2	2.3		0.015
+Adhesion and extracellular matrix	L38608	Activatedleukocytecelladhesionmolecule	ALCAM	2.1		0.01
+Adhesion and extracellular matrix	M33308	Vinculin	VCL	2		0.02
+Adhesion and extracellular matrix	X69819	Intercellularadhesionmolecule3	ICAM3		2.4	0.045
+Signal transduction	Y09561	PurinergicreceptorP2X  (ligand-gatedionchannel7)	P2RX7	3.4		0.036
+Signal transduction	HG1996;HT2044	Rap2	RAP2A	2.8		0.004
+Signal transduction	D50640	cyclicguanosinemonophosphate-inhibited phosphodiesterase3B	PDE3B	2.7		0.005
+Signal transduction	L07597	90kDapolypeptide1ofribosomal proteinS6kinase	RPS6KA1	2.1		0.003
+Signal transduction	HG511–HT511	mitogen-activatedproteinkinase associatedprotein1	MAPKAP1	2.1		0.004
+Signal transduction	L24564	Ras-relatedassociatedwithdiabetes	RRAD		22.3	0.043
+Signal transduction	X06182	V-kitHardy-Zuckerman4felinesarcoma viraloncogenehomolog	KIT		3.3	0.026
+Signal transduction	D86969	PHDfingerprotein16	PHF16		2.6	0.04
+Signal transduction	M64572	Nonreceptortype3proteintyrosinephosphatasePTPN3			2.4	0.028
+Proteolysis/ antiproteolysis	Z48579	Disintegrinandmetalloproteinasedomain10	ADAM10	2.3		0.029
+Proteolysis/ antiproteolysis	M21188	Insulin-degradingenzyme	IDE	2.1		0.018
+Proteolysis/ antiproteolysis	U04313	Serine(orcysteine)proteinaseinhibitor5	SERPINB5		18.3	0.016
+Lysosomal function	Z31690	LipaseA	LIPA	3.4		0.015
+Lysosomal function	J03263	Lysosomal-associatedmembraneprotein1	LAMP1	3.1		0.036
+Lysosomal function	M29877	?-Lfucosidase1	FUCA1	2.4		0.046
+Regulation of transcription	L01042	TATAelementmodulatoryfactor1	TMF1	2.4		0.048
+Regulation of transcription	X59841	Pre-Bcellleukemiatranscriptionfactor3	PBX3	2		0.012
+Regulation of transcription	L19314	Hairyandenhancerofsplit1	HES1		10	0.027
+Regulation of transcription	U44754	43 kDa polypeptide1 of the small nuclear  RNA activating complex	SNAPC1		3	0.049
+Regulation of transcription	U09413	Zincfingerprotein135	ZNF135		2.4	0.04
+Antioxidant-related	U62389	Soluble [ nicotinamide adenine denucleotide phosphate (oxidized form)] isocitrate dehydrogenase1	IDH1	2.5		0.025
+Other	L27943	Cytidinedeaminase	CDA	4.4		0.001
+Other	L76465	Hydroxyprostaglandindehydrogenase 15-(nicotinamideadeninedinucleotide)	HPGD	3.3		0.038
+Other	L10381	RibonucleaseL	RNASEL	3.1		0.021
+Other	L31529	beta 1-syntrophin	SNTB1	2.5		0.045
+Other	U57623	Fattyacidbindingprotein3	FABP3	2.9		0.019
+Other	U66036	Sulfotransferasefamily,1C1	SULT1C1	2.4		0.02
+Other	U18009	Vesicleaminetransportprotein1 homolog(Torpedocalifornica)	VAT1	2.4		0.027
+Other	Z67743	Chloridechannel7	CLCN7	2.2		0.019
+Other	M74525	Ubiquitin-conjugatingenzymeE2B (RAD6homolog)	UBE2B	2.2		0.05
+Other	M18533	Dystrophin	DMD		8.5	0.024
+Other	Z19574	Keratin17	KRT17		8.4	0.037
+Other	M13955	Keratin7	KRT7		4.6	0.017
+Other	HG3945–HT4215	Phospholipidtransferprotein	PLTP		5.2	0.04
+Other	X01630	Argininosuccinatesynthetase	ASS		5.1	0.028
+Other	AB002366		KIAA0368		5	0.026
+Other	S58544	Spermassociatedantigen1	SPAG1		4.5	0.024
+Other	U68385	Myeloidecotropicviralintegration site1homolog4(mouse)	MEIS4		4.4	0.03
+Other	M19309	SlowskeletaltroponinT1	TNNT1		4.4	0.044
+Other	M64936	Retinoicacid-inducibleendogenous retroviralDNA	HUMRIRT		3.8	0.026
+Other	U02081	Neuroepithelialcelltransforminggene1	NET1		3.8	0.028
+Other	U23070	Bone morphogenetic protein and activin membrane-bound inhibitor homolog (Xenopuslaevis)	BAMBI		2.8	0.001
+Other	M81883	Glutamatedecarboxylase1	GAD1		2.6	0.013
+Other	U90716	Coxsackievirusandadenovirusreceptor	CXADR		2.6	0.043
+Other	L38933	GT198,completeopenreadingframe	HUMGT198A		2.4	0.017
+Other	U60975	Sortilin-relatedreceptorL  (DLRclass,Arepeats-containing)	SORL1		2.4	0
+Other	D16350	SAhypertension-associatedhomolog(rat)	SAH		2.2	0.047
+Other	U21936	Solutecarrierfamily15(oligopeptide  transporter),member1	SLC15A1		2.2	0.002

@@ -1,0 +1,27 @@
+Gene name	Description	Genbank #	Fold change	Fold change	GO term
+Cxcl2;Mip2	Chemokine (C-X-C motif) ligand 2	NM_053647	4.7 +- 0.9	6.2 +- 1.2.	Inflammatory response; chemotaxis
+Spp1	Secreted phosphoprotein 1	NM_012881	5.2 +- 0.9	4.7 +- 0.8.	Inflammatory response; chemotaxis
+Cxcl1;Cinc1	Chemokine (C-X-C motif) ligand 1	NM_030845	3.8 +- 0.7	3.9 +- 1.0.	Inflammatory response; chemotaxis
+Il6	Interleukin 6	NM_012589	4.1 +- 1.8	4.6 +- 2.1.	Inflammatory response
+Ccl2;Mcp1	Chemokine (C-C motif) ligand 2	NM_031530	4.4 +- 2.1	3.9 +- 1.8.	Inflammatory response
+Pparg	Peroxisome proliferator activated receptor, gamma	NM_013124	1.6 +- 0.2	1.2 +- 0.1	Inflammatory response
+Sod2	Superoxide dismutase 2, mitochondrial	NM_017051	2.2 +- 0.4	2.4 +- 0.8.	Immune response
+Il8ra	Interleukin 8 receptor, alpha	NM_019310	2.2 +- 0.2	3.4 +- 1.2.	Cytokine binding; chemotaxis
+Cmkor1	Chemokine orphan receptor 1	NM_053352	1.5 +- 0.1	1.3 +- 0.1.	Cytokine binding; chemotaxis
+Il1r2	Interleukin 1 receptor, type II	NM_053953	2.3 +- 0.2	2.4 +- 0.5.	Cytokine binding
+Il2rb	Interleukin 2 receptor, beta chain	NM_013195	-1.6	-2.1 +- 0.5.	Cytokine binding; Immune response
+Cxcr4	Chemokine (C-X-C motif) receptor 4	NM_022205	-1.9	-1.9 +- 0.3.	Cytokine binding; immune response
+Fcgr3	Class III Fc-gamma receptor	M64368	1.5 +- 0.1	n.d.	Chemotaxis; phagocytosis, engulfment
+Ptpns1	Protein tyrosine phosphatase, non-receptor type substrate 1	NM_013016	1.4 +- 0.1	n.d.	Phagocytosis, engulfment
+Fcgr2b	Fc receptor, IgG, low affinity IIb phagocytosis, engulfment	NM_175756	1.6 +- 0.3	n.d.	Inflammatory response;
+Fgg	Fibrinogen, gamma polypeptide	NM_012559	1.4 +- 0.1	n.d.	Inflammatory response
+Cd14	CD14 antigen	NM_021744	1.6 +- 0.2	n.d.	Inflammatory response
+Sfln3	Schlafen 3	NM_053687	-2.3	n.d.	Immune response
+Gbp2	Guanylate binding protein 2, interferon-inducible	NM_133624	-1.8	n.d.	Immune response
+C4bpa	Complement component 4 binding protein, alpha	NM_012516	2.4 +- 0.2	n.d.	Immune response
+Hp	Haptoglobin	NM_012582	1.8 +- 0.2	n.d.	Immune response
+Tap2	ATP-binding cassette, sub-family B	NM_032056	-2.4	n.d.	Immune response
+Vav1	Vav 1 oncogene	NM_012759	1.4 +- 0.2	n.d.	Immune response
+F3	Coagulation factor 3	NM_013057	1.6 +- 0.1	n.d.	Immune response
+Il18	Interleukin 18	NM_019165	2.1 +- 0.2	n.d.	Immune response
+Cfi	Complement factor I	NM_024157	2.0 +- 0.2	n.d.	Immune response

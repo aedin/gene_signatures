@@ -1,0 +1,24 @@
+Gene	Name	Accession No.	Functions	Mean difference	P value	Type of genes
+WHSC1	Wolf-Hirschorn syndrome candidate 1 (MMSET)	AJ007042	May be transforming event of t(4;14)	1.27	0.005	Oncogenes
+PTP4A1	Protein tyrosine phosphatase type IVA, member 1	U48296	Overexpression confers transformed phenotype	1.24	0.014	Oncogenes
+ARHH	Ras homolog gene family, member H	Z35227	Small G-like protein expressed in hematopoietic cells and tissues, oncogenesis	1.19	0.04	Oncogenes
+FRAG1	FGF receptor activating protein 1	AL049261	Predicted tumor suppressor	-1	0.005	Tumor suppressors
+ATRX	alpha thalassemia/mental retardation syndrome X-linked (RAD54 homolog)	U72936	Chromatin remodeling, DNA methylation, recombination and repair	1.15, 1.16	0.039, 0.03	Chromatin
+HIST1H3D	Histone 1, H3d	N35832	Nucleosome assembly	-1.06	0.032	Chromatin
+CSDA	Cold shock domain protein A	M24069	Negative regulation of transcription from Pol II promoter	1.57	0.014	Transcription
+MATR3	Matrin 3	AB018266	May play a support structure role for transcription	1.36	0.02	Transcription
+BS69	Adenovirus 5 E1A binding protein	AA127624	Negative regulation of transcription from Pol II promoter	1.34	0.019	Transcription
+MITF	Micropthalmia-associated transcription factor	AB006909	Transcriptional activator activity	1.23	0.01	Transcription
+NRIP1	Nuclear receptor interacting protein 1	X84373	Modulates transcriptional activity of the ER, co-activator activity	1.21	0.029	Transcription
+FOXO3A	Forkhead box O3A	AF032886	transcription factor for genes necessary for cell death	1.18	0.008	Transcription
+MYBL1	v-myb myeloblastosis viral oncogene homolog (avian)-like 1	X66087	Transcriptional activator	1.12	0.03	Transcription
+WT1	Wilms tumor 1	X51630	Transcription factor, functions in kidney and gonad proliferation and differentiation	-1.01	0.001	Transcription
+PHOX2B	Paired-like homeobox 2b	D82344	Transcription factor, development of some neuron populations	-1.07	0.003	Transcription
+RNPC2	RNA-binding region (RNP1, RRM) containing 2	L10910	RNA binding protein and possible splicing factor	1.1	0.012	Transcription
+DEDD	Death effector domain containing	AF043733	Negative regulation of transcription	-1.01	0.001	Transcription
+TIEG2	TGFB inducible early growth response 2	AI991531	Negative regulation of transcription from Pol II promoter	-1.03	0.002	Transcription
+CDX1	Caudal type homeobox transcription factor 1	U51095	Transcription factor activity, down regulated after promoter methylation in colorectal tumor cell lines	-1.04	0.001	Transcription
+ZFP36L1	Zinc finger protein 36, CH3 type-like 1	X79067	Putative nuclear transcription factor	1.44	0.01	Transcription
+ZNF193	Zinc finger protein 193	AL022393	Transcription factor activity	-1	0.008	Transcription
+ATRX	alpha thalassemia/mental retardation syndrome X-linked (RAD54 homolog)	U72936	Chromatin remodeling, DNA methylation, recombination and repair	1.15, 1.16	0.039, 0.03	DNA repair
+APEX2	APEX nuclease (apurinic/apyrimidinic endonuclease)2	AJ011311	Nuclear and mitochondrial base excision repair, protein has weak class II AP endonuclease activity	-1.08	0.007	DNA repair

@@ -1,0 +1,14 @@
+Tissue Type	Probe set	Gene name	Pathway	Status	P-value
+HCC-C versus CB	203050_at	TP53BP1: tumour protein p53 binding protein, 1	p53	HCC-C > CB	<0.05
+HCC-C versus CB	203120_at	TP53BP2: tumour protein p53 binding protein, 2	p53	HCC-C > CB	0.07
+HCC-C versus CB	210609_s_at	TP53I3: tumour protein p53 inducible protein 3	p53	HCC-C > CB	<0.05
+HCC-C versus CB	208712_at	cyclin D1 (PRAD1): parathyroid adenomatosis 1	Cyclin D1	HCC-C > CB	<0.05
+HCC-NC versus NCB	210621_s_at	RAS p21 protein activator (GTPase activating protein) 1	p21	HCC-NC > NCB	0.07
+HCC-NC versus NCB	206636_at	RAS p21 protein activator 2	p21	HCC-NC > NCB	<0.05
+HCC-NC versus NCB	206220_s_at	RAS p21 protein activator 3	p21	HCC-NC > NCB	0.08
+HCC-NC versus NCB	209615_s_at	p21 ? Cdc42 ? Rac1-activated kinase 1	p21	HCC-NC > NCB	<0.01
+HCC-NC versus NCB	207805_s_at	PSMD9: proteasome (prosome, macropain) 26S subunit, non-ATPase, 9	p27	HCC-NC > NCB	<0.05
+HCC-C versus HCC-NC	209615_s_at	p21 ? Cdc42 ? Rac1-activated kinase 1	p21	HCC-NC > HCC-C	<0.01
+HCC-C versus HCC-NC	206636_at	RAS p21 protein activator 2	p21	HCC-NC > HCC-C	<0.05
+HCC-C versus HCC-NC	203050_at	TP53BP1: tumour protein p53 binding protein, 1	p53	HCC-NC < HCC-C	<0.05
+HCC-C versus HCC-NC	210609_s_at	TP53I3: tumour protein p53 inducible protein 3	p53	HCC-NC < HCC-C	<0.05

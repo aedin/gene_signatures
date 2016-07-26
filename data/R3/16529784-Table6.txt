@@ -1,0 +1,13 @@
+Gene name	Description	Genbank #	Fold change (oligo array)	Fold change (qPCR)	GO term
+Cyp1a1	Cytochrome P450, family 1, subfamily a, polypeptide 1	NM_012540	23.2 +- 3.7	2202.6 +- 316.4	Response to stimulus; aromatic compound metabolism
+Cyp1b1	Cytochrome P450, family 1, subfamily b, polypeptide 1	NM_012940	22.2 +- 4.0	26.1 +- 4.5	Response to stimulus; aromatic compound metabolism
+Nqo1	NAD(P)H dehydrogenase, quinone 1	NM_017000	4.8 +- 0.3	6.7 +- 0.8	Response to stimulus; xenobiotic metabolism
+Aldh3a1	Aldehyde dehydrogenase family 3, member A1	NM_031972	5.6 +- 0.6	49.8 +- 11.9	Aldehyde dehydrogenase activity
+Gsta5	Glutathione S-transferase A5	NM_031509	2.0 +- 0.2	1.9 +- 0.3	Response to stimulus; response to drug
+Sod2	Superoxide dismutase 2, mitochondrial	NM_017051	2.2 +- 0.4	2.4 +- 0.8	Response to stimulus; response to oxidative stress
+Hsp1a1	Heat shock 70 kDa protein 1A	NM_031971	2.0 +- 0.2	1.7 +- 0.5	Response to stimulus; defense response
+Hmox1	Heme oxygenase (decycling) 1	NM_012580	1.9 +- 0.2	2.0 +- 0.3	Response to stimulus; DNA damage response
+Xrcc5	X-ray repair complementing defective repair in Chinese hamster cells 5	NM_177419	1.6 +- 0.1	1.5 +- 0.2	Response to stimulus; DNA repair
+Gpx1	Glutathione peroxidase 1	NM_030826	1.4 +- 0.1	1.3 +- 0.1	Response to stimulus; response to oxidative stress
+Mt1a	Metallothionein	NM_138826	1.9 +- 0.2	2.9 +- 0.5	Response to stimulus; metal ion binding
+Cyp2f2	Cytochrome P450, family 2, subfamily f, polypeptide 2	NM_019303	-2.5 +- 0.4	-2.8	Monooxygenase activity

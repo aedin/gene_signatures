@@ -1,0 +1,76 @@
+Gene name	Accession number	Description	Mean fold change	Function
+CD274	NM_014143	CD274 molecule	1.94	Cell Proliferation
+CDKN1A	NM_078467	Cyclin-dependent kinase inhibitor 1A (p21, Cip1)	?2.07	Cell Proliferation
+DAB2	NM_001343	Disabled homolog 2	1.85	Cell Proliferation
+DLC1	NM_024767	Deleted in liver cancer 1	2.77	Cell Proliferation
+DLG3	AB033058	Discs, large homolog 3	1.80	Cell Proliferation
+FGFR2	NM_022970	Homo sapiens fibroblast growth factor receptor 2	2.03	Cell Proliferation
+FOSL1	NM_005438	FOS-like antigen 1	?2.08	Cell Proliferation
+GAS6	NM_000820	Growth arrest-specific 6	?2.36	Cell Proliferation
+GLI1	NM_005269	Glioma-associated oncogene homolog1	?1.77	Cell Proliferation
+IGFBP6	NM_002178	Insulin-like growth factor binding protein 6	?2.34	Cell Proliferation
+MIA	NM_006533	Melanoma inhibitory activity	?1.73	Cell Proliferation
+MYEOV	NM_138768	Homo sapiens myeloma overexpressed gene	?2.09	Cell Proliferation
+NOV	NM_002514	Homo sapiens nephroblastoma overexpressed gene	?2.08	Cell Proliferation
+PDZK1	NM_002614	PDZ domain containing 1	2.27	Cell Proliferation
+PTN	NM_002825	Pleiotrophin	?1.92	Cell Proliferation
+RBP2	NM_004164	Homo sapiens retinol binding protein 2	2.46	Cell Proliferation
+RRP22	NM_001007279	RAS-related on chromosome 22	1.70	Cell Proliferation
+SPRED1	NM_152594	Sprouty-related, EVH1 domain containing 1	?1.59	Cell Proliferation
+SPRY2	NM_005842	Sprouty homolog 2	?2.43	Cell Proliferation
+SPRY4	NM_030964	Sprouty homolog 4	?3.97	Cell Proliferation
+SST	NM_001048	Somatostatin	3.91	Cell Proliferation
+TFF1	NM_003225	Trefoil factor 1	?1.71	Cell Proliferation
+WISP2	NM_003881	WNT1 inducible signaling pathway protein 2	2.17	Cell Proliferation
+APAF1	NM_181861	Apoptotic peptidase activating factor	1.66	Cell Death
+BIRC4BP	NM_017523	XIAP associated factor-1	?2.90	Cell Death
+BIRC7	NM_022161	Baculoviral IAP repeat-containing 7	?3.07	Cell Death
+CASP9	NM_001229	Caspase 9	2.01	Cell Death
+CLU	NM_203339	Clusterin	?1.50	Cell Death
+CRYAB	NM_001885	Crystallin, alpha B	?1.82	Cell Death
+FAIM3	NM_005449	Fas apoptotic inhibitory molecule 3	?1.95	Cell Death
+IER3	NM_003897	Immediate early response 3	?2.92	Cell Death
+IGFBP3	NM_001013398	Insulin-like growth factor binding protein 3	?1.69	Cell Death
+P53AIP1	NM_022112	p53-regulated apoptosis-inducing protein 1	1.81	Cell Death
+SULF1	NM_015170	Sulfatase 1	2.85	Cell Death
+TGFB1	NM_000358	Transforming growth factor, beta-induced	?1.92	Cell Death
+TP53I11	NM_006034	Tumor protein p53 inducible protein11	1.82	Cell Death
+TP53INP1	NM_033285	Tumor protein p53 inducible nuclear protein 1	?2.92	Cell Death
+AJAP1	NM_018836	Adherens junction associated protein 1	?2.19	Cell Adhesion/Cell Motility
+CD22	AK026467	CD22 molecule	?1.84	Cell Adhesion/Cell Motility
+CD33	NM_001772	CD33 molecule	?2.17	Cell Adhesion/Cell Motility
+CEACAM1	NM_001024912	Carcino embryonic antigen-related celladhesion molecule 1	?2.75	Cell Adhesion/Cell Motility
+CLDN10	NM_182848	Claudin 10	1.67	Cell Adhesion/Cell Motility
+CYR61	NM_001554	Cysteine-rich, angiogenic inducer, 61	1.69	Cell Adhesion/Cell Motility
+DLGAP1	NM_004746	Discs, large homolog-associated protein 1	2.72	Cell Adhesion/Cell Motility
+EDNRB	NM_003991	Endothelin receptor type B	1.86	Cell Adhesion/Cell Motility
+FAT4	AK026709	FAT tumor suppressor homolog 4	?1.78	Cell Adhesion/Cell Motility
+MMP7	NM_002423	Homo sapiens matrix metallopeptidase 7 (matrilysin)	2.91	Cell Adhesion/Cell Motility
+MMP12	NM_002426	Homo sapiens matrix metallopeptidase 12	1.84	Cell Adhesion/Cell Motility
+MMP19	NM_002429	Homo sapiens matrix metallopeptidase 19	2.09	Cell Adhesion/Cell Motility
+MYLK	NM_053025	Myosin,light polypeptide kinase	2.52	Cell Adhesion/Cell Motility
+PECAM1	NM_000442	Platelet/ endothelial cell adhesion molecule	1.93	Cell Adhesion/Cell Motility
+S100P	NM_005980	S100 calcium binding protein P	1.79	Cell Adhesion/Cell Motility
+SLIT2	AW268902	Slit homolog 2	?1.64	Cell Adhesion/Cell Motility
+SPON2	NM_012445	Spondin 2	?1.62	Cell Adhesion/Cell Motility
+TGM2	NM_004613	Transglutaminase 2	?3.13	Cell Adhesion/Cell Motility
+THBS1	NM_003246	Thrombospondin 1	?2.48	Cell Adhesion/Cell Motility
+TNC	NM_002160	Tenascin C	?4.84	Cell Adhesion/Cell Motility
+ANXA3	NM_005139	AnnexinA3	1.86	Cell Communication
+ARHGAP9	NM_032496	Rho GTPase activating protein9	?1.81	Cell Communication
+BAI2	NM_001703	Brain-specific angiogenesis inhibitor 2	?2.26	Cell Communication
+BDKRB1	NM_000710	Bradykinin receptor B1	3.74	Cell Communication
+BDKRB2	NM_000623	Bradykinin receptor B2	2.43	Cell Communication
+CRABP2	NM_001878	Cellular retinoic acid binding protein 2	?2.10	Cell Communication
+FGF12	NM_004113	Fibro blast growth factor 12	1.81	Cell Communication
+FZD10	NM_007197	Frizzled homolog 10	?3.83	Cell Communication
+IL1B	NM_000576	Interleukin1, beta	2.06	Cell Communication
+INSL4	NM_002195	Insulin-like 4	1.95	Cell Communication
+KREMEN2	NM_172229	Kringle containing transmembrane protein 2	-1.54	Cell Communication
+PRICKLE1	NM_153026	Homo sapiens prickle-like 1	1.63	Cell Communication
+PRKCB1	NM_002738	Protein kinase C, beta1	1.67	Cell Communication
+RASL11A	NM_206827	RAS-like, family 11, member A	1.67	Cell Communication
+RICS	NM_014715	Rho GTPase-activating protein	2.02	Cell Communication
+TBXA2R	NM_201636	Thromboxane A2 receptor	1.55	Cell Communication
+TGFBR1	NM_004612	Transforming growth factor, beta receptor I	1.71	Cell Communication
+VAV1	NM_005428	Vav 1 oncogene	2.03	Cell Communication

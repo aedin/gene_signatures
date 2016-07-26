@@ -1,0 +1,279 @@
+rank according to univariate p value	p value	FoldChange (>1 in mt)	Probe set	Description	Gene symbol	Entrez Gene ID	Coeffic	Cytoband
+17	0.0001	1.46	212415_at	septin 6	40062	23157	1	Xq24
+767	0.01	-1.32	213353_at	ATP-binding cassette, sub-family A (ABC1), member 5	ABCA5	23461	-1	17q24.3
+421	0.01	1.36	218322_s_at	acyl-CoA synthetase long-chain family member 5	ACSL5	51703	1	10q25.1-q25.2
+871	0.02	-1.35	205013_s_at	adenosine A2a receptor	ADORA2A	135	-1	22q11.23
+1672	0.04	1.46	212543_at	absent in melanoma 1	AIM1	202	1	6q21
+1637	0.04	-1.35	204348_s_at	adenylate kinase 3-like 1	AK3L1	205	-1	1p31.3
+711	0.01	-1.44	203608_at	aldehyde dehydrogenase 5 family, member A1 (succinate-semialdehyde dehydrogenase)	ALDH5A1	7915	-1	6p22.2-p22.3
+963	0.02	1.41	204446_s_at	arachidonate 5-lipoxygenase	ALOX5	240	1	10q11.2
+103	0.0013	-1.42	202630_at	amyloid beta precursor protein (cytoplasmic tail) binding protein 2	APPBP2	10513	-1	17q21-q23
+156	0.0019	1.34	211621_at		AR	367	1	Xq11.2-q12
+480	0.01	1.42	211110_s_at	androgen receptor (dihydrotestosterone receptor; testicular feminization; spinal and bulbar muscular atrophy; Kennedy disease)	AR	367	1	Xq11.2-q12
+30	0.0003	1.49	201288_at	Rho GDP dissociation inhibitor (GDI) beta	ARHGDIB	397	1	12p12.3
+1032	0.02	1.49	202986_at	aryl-hydrocarbon receptor nuclear translocator 2	ARNT2	9915	1	15q24
+56	0.0006	-1.31	214553_s_at	cyclic AMP phosphoprotein, 19 kD	ARPP-19	10776	-1	15q21.2
+221	0.0028	1.34	209788_s_at	type 1 tumor necrosis factor receptor shedding aminopeptidase regulator	ARTS-1	51752	1	5q15
+574	0.01	-1.34	205047_s_at	asparagine synthetase	ASNS	440	-1	7q21.3
+1125	0.02	1.38	201242_s_at	ATPase, Na+/K+ transporting, beta 1 polypeptide	ATP1B1	481	1	1q24
+51	0.0005	-1.36	201171_at	ATPase, H+ transporting, lysosomal 9kDa, V0 subunit e	ATP6V0E	8992	-1	5q35.1
+428	0.01	1.32	211944_at	BAT2 domain containing 1	BAT2D1	23215	1	1q23.3
+1238	0.02	-1.37	203685_at	B-cell CLL/lymphoma 2	BCL2	596	-1	18q21.33|18q21.3
+392	0.01	1.98	202357_s_at	B-factor, properdin	BF	629	1	6p21.3
+1894	0.04	1.32	210538_s_at	baculoviral IAP repeat-containing 3	BIRC3	330	1	11q22
+92	0.0011	-1.43	218732_at	Bcl-2 inhibitor of transcription	BIT1	51651	-1	17q23.1
+1594	0.03	1.42	201641_at	bone marrow stromal cell antigen 2	BST2	684	1	19p13.2
+1288	0.03	1.32	38241_at	butyrophilin, subfamily 3, member A3	BTN3A3	10384	1	6p21.3
+130	0.0015	-1.35	218597_s_at	chromosome 10 open reading frame 70	C10orf70	55847	-1	10q21.1
+1231	0.02	1.50	217966_s_at	chromosome 1 open reading frame 24	C1orf24	116496	1	1q25
+1358	0.03	1.56	217967_s_at	chromosome 1 open reading frame 24	C1orf24	116496	1	1q25
+396	0.01	1.38	212875_s_at	chromosome 21 open reading frame 25	C21orf25	25966	1	21q22.3
+102	0.0013	1.36	205248_at	chromosome 21 open reading frame 5	C21orf5	9980	1	21q22.2
+1655	0.04	1.39	204365_s_at	chromosome 2 open reading frame 23	C2orf23	65055	1	2p11.2
+391	0.01	1.76	204364_s_at	chromosome 2 open reading frame 23	C2orf23	65055	1	2p11.2
+179	0.0023	1.84	214428_x_at	complement component 4A /// complement component 4B /// complement component 4B, telomeric	C4A /// C4B	720	1	6p21.3
+193	0.0025	1.92	208451_s_at	complement component 4A /// complement component 4B /// complement component 4B, telomeric	C4A /// C4B	721	1	6p21.3
+2099	0.05	-1.49	218541_s_at	chromosome 8 open reading frame 4	C8orf4	56892	-1	8p11.2
+1340	0.03	-1.35	205308_at	chromosome 8 open reading frame 70	C8orf70	51101	-1	8q21.12
+328	0.0045	2.12	220414_at	calmodulin-like 5	CALML5	51806	1	10p15.1
+1840	0.04	1.43	212551_at	CAP, adenylate cyclase-associated protein, 2 (yeast)	CAP2	10486	1	6p22.3
+100	0.0013	1.40	208683_at	calpain 2, (m/II) large subunit	CAPN2	824	1	1q41-q42
+49	0.0005	1.41	220066_at	caspase recruitment domain family, member 15	CARD15	64127	1	16q21
+976	0.02	1.35	211366_x_at	caspase 1, apoptosis-related cysteine peptidase (interleukin 1, beta, convertase)	CASP1	834	1	11q23
+769	0.01	1.37	209970_x_at	caspase 1, apoptosis-related cysteine peptidase (interleukin 1, beta, convertase)	CASP1	834	1	11q23
+964	0.02	1.40	211368_s_at	caspase 1, apoptosis-related cysteine peptidase (interleukin 1, beta, convertase)	CASP1	834	1	11q23
+317	0.0043	1.41	206011_at	caspase 1, apoptosis-related cysteine peptidase (interleukin 1, beta, convertase)	CASP1	834	1	11q23
+824	0.01	1.35	205379_at	carbonyl reductase 3	CBR3	874	1	21q22.2
+843	0.01	-1.39	212816_s_at	cystathionine-beta-synthase	CBS	875	-1	21q22.3
+1630	0.03	1.49	1405_i_at	chemokine (C-C motif) ligand 5	CCL5	6352	1	17q11.2-q12
+477	0.01	-1.34	201946_s_at	chaperonin containing TCP1, subunit 2 (beta)	CCT2	10576	-1	12q15
+232	0.0030	1.47	209619_at	CD74 antigen (invariant polypeptide of major histocompatibility complex, class II antigen-associated)	CD74	972	1	5q32
+143	0.0017	1.39	218451_at	CUB domain containing protein 1	CDCP1	64866	1	3p21.31
+614	0.01	2.16	201884_at	carcinoembryonic antigen-related cell adhesion molecule 5	CEACAM5	1048	1	19q13.1-q13.2
+541	0.01	2.34	211657_at	carcinoembryonic antigen-related cell adhesion molecule 6 (non-specific cross reacting antigen) /// carcinoembryonic antigen-related cell adhesion molecule 6 (non-specific cross reacting antigen)	CEACAM6	4680	1	19q13.2
+911	0.02	2.34	203757_s_at	carcinoembryonic antigen-related cell adhesion molecule 6 (non-specific cross reacting antigen)	CEACAM6	4680	1	19q13.2
+370	0.01	-2.16	204637_at	glycoprotein hormones, alpha polypeptide	CGA	1081	-1	6q12-q21
+348	0.0048	1.36	221042_s_at	calmin (calponin-like, transmembrane)	CLMN	79789	1	14q32.13
+811	0.01	-1.48	201116_s_at	carboxypeptidase E	CPE	1363	-1	4q32.3
+1411	0.03	-1.32	201117_s_at	carboxypeptidase E	CPE	1363	-1	4q32.3
+1957	0.04	1.35	209522_s_at	carnitine acetyltransferase	CRAT	1384	1	9q34.1
+1437	0.03	-1.33	201161_s_at	cold shock domain protein A	CSDA	8531	-1	12p13.1
+5	0.0000	1.96	206994_at	cystatin S	CST4	1472	1	20p11.21
+481	0.01	1.33	210835_s_at	C-terminal binding protein 2	CTBP2	1488	1	10q26.13
+591	0.01	-1.40	209617_s_at	catenin (cadherin-associated protein), delta 2 (neural plakophilin-related arm-repeat protein)	CTNND2	1501	-1	5p15.2
+1140	0.02	1.47	205472_s_at	dachshund homolog 1 (Drosophila)	DACH1	1602	1	13q22
+1462	0.03	1.57	205471_s_at	dachshund homolog 1 (Drosophila)	DACH1	1602	1	13q22
+1017	0.02	-1.33	212690_at	DDHD domain containing 2	DDHD2	23259	-1	8p11.23
+148	0.0018	1.35	209916_at	dehydrogenase E1 and transketolase domain containing 1	DHTKD1	55526	1	10p14
+828	0.01	-1.32	218277_s_at	DEAH (Asp-Glu-Ala-His) box polypeptide 40	DHX40	79665	-1	17q23.1
+2023	0.05	1.44	200606_at	desmoplakin	DSP	1832	1	6p24
+639	0.01	-1.36	205741_s_at	dystrobrevin, alpha	DTNA	1837	-1	18q12
+38	0.0004	-1.41	221586_s_at	E2F transcription factor 5, p130-binding	E2F5	1875	-1	8q21.2
+1922	0.04	-1.33	219974_x_at	enoyl Coenzyme A hydratase domain containing 1	ECHDC1	55862	-1	6q22.33
+106	0.0013	1.80	219850_s_at	ets homologous factor	EHF	26298	1	11p12
+1420	0.03	-1.33	205321_at	eukaryotic translation initiation factor 2, subunit 3 gamma, 52kDa	EIF2S3	1968	-1	Xp22.2-p22.1
+1173	0.02	1.35	201340_s_at	ectodermal-neural cortex (with BTB-like domain)	ENC1	8507	1	5q12-q13.3
+1081	0.02	1.38	204160_s_at	ectonucleotide pyrophosphatase/phosphodiesterase 4 (putative function)	ENPP4	22875	1	6p21.1
+1374	0.03	1.40	206191_at	ectonucleoside triphosphate diphosphohydrolase 3	ENTPD3	956	1	3p21.3
+734	0.01	1.32	205757_at	ectonucleoside triphosphate diphosphohydrolase 5	ENTPD5	957	1	14q24
+936	0.02	-1.60	206070_s_at	EPH receptor A3	EPHA3	2042	-1	3p11.2
+386	0.01	1.46	202017_at	epoxide hydrolase 1, microsomal (xenobiotic)	EPHX1	2052	1	1q42.1
+948	0.02	1.40	205225_at	estrogen receptor 1	ESR1	2099	1	6q25.1
+1484	0.03	1.33	217838_s_at	Enah/Vasp-like	EVL	51466	1	14q32.2
+1695	0.04	-1.34	220147_s_at	family with sequence similarity 60, member A	FAM60A	58516	-1	12p11
+7	0.0001	-1.35	208229_at	fibroblast growth factor receptor 2 (bacteria-expressed kinase, keratinocyte growth factor receptor, craniofacial dysostosis 1, Crouzon syndrome, Pfeiffer syndrome, Jackson-Weiss syndrome)	FGFR2	2263	-1	10q26
+590	0.01	-1.31	218514_at	hypothetical protein FLJ10587	FLJ10587	55181	-1	17q22
+1613	0.03	-1.34	220145_at	ASAP	FLJ21159	79884	-1	4q32.1
+2028	0.05	1.36	202709_at	fibromodulin	FMOD	2331	1	1q32
+1018	0.02	1.40	208006_at	forkhead box I1	FOXI1	2299	1	5q34
+168	0.0021	1.45	218084_x_at	FXYD domain containing ion transport regulator 5	FXYD5	53827	1	19q12-q13.1
+89	0.0011	-1.78	203987_at	frizzled homolog 6 (Drosophila)	FZD6	8323	-1	8q22.3-q23.1
+821	0.01	1.53	205278_at	glutamate decarboxylase 1 (brain, 67kDa)	GAD1	2571	1	2q31
+556	0.01	1.32	212256_at	UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 10 (GalNAc-T10)	GALNT10	55568	1	5q33.2
+32	0.0003	1.38	217787_s_at	UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 2 (GalNAc-T2)	GALNT2	2590	1	1q41-q42
+709	0.01	1.32	218313_s_at	UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 7 (GalNAc-T7)	GALNT7	51809	1	4q31.1
+1067	0.02	-1.58	205280_at	glycine receptor, beta	GLRB	2743	-1	4q31.3
+1322	0.03	-1.49	205279_s_at	glycine receptor, beta	GLRB	2743	-1	4q31.3
+393	0.01	1.33	206662_at	glutaredoxin (thioltransferase)	GLRX	2745	1	5q14
+1346	0.03	1.35	209276_s_at	glutaredoxin (thioltransferase)	GLRX	2745	1	5q14
+423	0.01	1.36	204875_s_at	GDP-mannose 4,6-dehydratase	GMDS	2762	1	6p25
+950	0.02	1.40	220108_at	guanine nucleotide binding protein (G protein), alpha 14	GNA14	9630	1	9q21
+28	0.0003	1.82	217771_at	golgi phosphoprotein 2	GOLPH2	51280	1	9q21.33
+356	0.00	1.48	204983_s_at	glypican 4	GPC4	2239	1	Xq26.1
+144	0.0017	1.62	204984_at	glypican 4	GPC4	2239	1	Xq26.1
+1343	0.03	2.15	206204_at	growth factor receptor-bound protein 14	GRB14	2888	1	2q22-q24
+1009	0.02	-1.34	210761_s_at	growth factor receptor-bound protein 7	GRB7	2886	-1	17q12
+321	0.0044	1.54	200824_at	glutathione S-transferase pi	GSTP1	2950	1	11q13
+1137	0.02	-1.36	204237_at	GULP, engulfment adaptor PTB domain containing 1	GULP1	51454	-1	2q32.3-q33
+1902	0.04	-1.34	204235_s_at	GULP, engulfment adaptor PTB domain containing 1	GULP1	51454	-1	2q32.3-q33
+1471	0.03	-1.31	213548_s_at	hypothetical protein H41	H41	55573	-1	3q22.1
+250	0.0033	-1.41	209526_s_at	hepatoma-derived growth factor, related protein 3	HDGFRP3	50810	-1	15q25.2
+930	0.02	-1.31	216693_x_at	hepatoma-derived growth factor, related protein 3	HDGFRP3	50810	-1	15q25.2
+1730	0.04	-1.49	214469_at	histone 1, H2ae	HIST1H2AE	3012	-1	6p22.2-p21.1
+621	0.01	-1.62	207156_at	histone 1, H2ag	HIST1H2AG	8969	-1	6p22.1
+1206	0.02	-1.66	206110_at	histone 1, H3h	HIST1H3H	3109	-1	---
+1646	0.04	-1.45	218280_x_at	histone 2, H2aa	HIST2H2AA	8337	-1	1q21.2
+1555	0.03	-1.44	214290_s_at	histone 2, H2aa	HIST2H2AA	8337	-1	1q21.2
+1763	0.04	-1.46	202708_s_at	histone 2, H2be	HIST2H2BE	8349	-1	1q21-q23
+582	0.01	-1.70	221582_at	histone 3, H2a	HIST3H2A	92815	-1	1q42.13
+820	0.01	1.31	208729_x_at	major histocompatibility complex, class I, B	HLA-B	3106	1	6p21.3
+1382	0.03	1.34	217478_s_at	major histocompatibility complex, class II, DM alpha	HLA-DMA	3108	1	6p21.3
+891	0.02	1.32	215536_at	major histocompatibility complex, class II, DQ beta 2	HLA-DQB2	3120	1	6p21
+476	0.01	2.23	204607_at	3-hydroxy-3-methylglutaryl-Coenzyme A synthase 2 (mitochondrial)	HMGCS2	3158	1	1p13-p12
+1172	0.02	-1.41	213793_s_at	homer homolog 1 (Drosophila)	HOMER1	9456	-1	5q14.2
+354	0.0049	-1.75	211548_s_at	hydroxyprostaglandin dehydrogenase 15-(NAD)	HPGD	3248	-1	4q34-q35
+537	0.01	-1.74	203914_x_at	hydroxyprostaglandin dehydrogenase 15-(NAD)	HPGD	3248	-1	4q34-q35
+1290	0.03	-1.53	203913_s_at	hydroxyprostaglandin dehydrogenase 15-(NAD)	HPGD	3248	-1	4q34-q35
+336	0.0047	-1.32	205543_at	heat shock 70kDa protein 4-like	HSPA4L	22824	-1	4q28
+297	0.0039	1.39	213418_at	heat shock 70kDa protein 6 (HSP70B)	HSPA6	3310	1	1q23
+247	0.0033	1.36	202638_s_at	intercellular adhesion molecule 1 (CD54), human rhinovirus receptor	ICAM1	3383	1	19p13.3-p13.2
+487	0.01	1.34	213931_at	inhibitor of DNA binding 2, dominant negative helix-loop-helix protein /// inhibitor of DNA binding 2B, dominant negative helix-loop-helix protein	ID2 /// ID2B	3398	1	2p25 /// 3p14.2
+1757	0.04	-1.36	209292_at	Inhibitor of DNA binding 4, dominant negative helix-loop-helix protein	ID4	3400	-1	6p22-p21
+10	0.0001	-1.34	211406_at	immediate early response 3 interacting protein 1	IER3IP1	51124	-1	18q12
+208	0.0027	1.35	202421_at	immunoglobulin superfamily, member 3	IGSF3	3321	1	1p13
+1788	0.04	1.35	203474_at	IQ motif containing GTPase activating protein 2	IQGAP2	10788	1	5q13.3
+34	0.0003	-1.63	209185_s_at	insulin receptor substrate 2	IRS2	8660	-1	13q34
+202	0.0026	-1.49	209184_s_at	insulin receptor substrate 2	IRS2	8660	-1	13q34
+1258	0.02	1.36	204017_at	KDEL (Lys-Asp-Glu-Leu) endoplasmic reticulum protein retention receptor 3	KDELR3	11015	1	22q13.1
+1927	0.04	1.41	214295_at	KIAA0485 protein	KIAA0485	57235	1	---
+1454	0.03	1.32	213478_at	kazrin	KIAA1026	23254	1	1p36.21
+342	0.0047	1.55	212325_at	KIAA1102 protein	KIAA1102	22998	1	4p13
+151	0.0018	1.70	212327_at	KIAA1102 protein	KIAA1102	22998	1	4p13
+167	0.0021	1.71	212328_at	KIAA1102 protein	KIAA1102	22998	1	4p13
+827	0.01	1.39	202962_at	kinesin family member 13B	KIF13B	23303	1	8p12
+1116	0.02	1.49	221841_s_at	Kruppel-like factor 4 (gut)	KLF4	9314	1	9q31
+1469	0.03	1.75	209016_s_at	keratin 7	KRT7	3855	1	12q12-q13
+417	0.01	-1.46	201030_x_at	lactate dehydrogenase B	LDHB	3945	-1	12p12.2-p12.1
+558	0.01	-1.44	213564_x_at	lactate dehydrogenase B	LDHB	3945	-1	12p12.2-p12.1
+1151	0.02	1.42	221558_s_at	lymphoid enhancer-binding factor 1	LEF1	51176	1	4q23-q25
+495	0.01	1.37	208949_s_at	lectin, galactoside-binding, soluble, 3 (galectin 3) /// galectin-3 internal gene	LGALS3 /// GALIG	3958	1	14q21-q22
+529	0.01	1.37	210732_s_at	lectin, galactoside-binding, soluble, 8 (galectin 8)	LGALS8	3964	1	1q42-q43
+119	0.0014	1.32	203236_s_at	lectin, galactoside-binding, soluble, 9 (galectin 9)	LGALS9	3965	1	17q11.2
+923	0.02	-1.38	221194_s_at	PTD016 protein	LOC51136	51136	-1	17q23.1
+219	0.0028	1.47	214791_at	hypothetical protein BC004921	LOC93349	93349	1	2q37.1
+949	0.02	1.32	216250_s_at	leupaxin	LPXN	9404	1	11q12.1
+244	0.0032	1.97	219759_at	leukocyte-derived arginine aminopeptidase	LRAP	64167	1	5q15
+258	0.0034	3.23	202018_s_at	lactotransferrin	LTF	4057	1	3p21.31
+1533	0.03	1.39	205668_at	lymphocyte antigen 75	LY75	4065	1	2q24
+715	0.01	-1.35	36711_at	v-maf musculoaponeurotic fibrosarcoma oncogene homolog F (avian)	MAFF	23764	-1	22q13.1
+341	0.0047	1.44	218918_at	mannosidase, alpha, class 1C, member 1	MAN1C1	57134	1	1p35
+1160	0.02	-1.40	203510_at	met proto-oncogene (hepatocyte growth factor receptor)	MET	4233	-1	7q31
+24	0.0002	-1.70	214051_at	hypothetical protein MGC39900	MGC39900	286527	-1	Xq22.2
+933	0.02	-1.38	203414_at	monocyte to macrophage differentiation-associated	MMD	23531	-1	17q
+60	0.0006	-1.32	203565_s_at	menage a trois 1 (CAK assembly factor)	MNAT1	4331	-1	14q23
+1908	0.04	1.37	210319_x_at	msh homeo box homolog 2 (Drosophila)	MSX2	4488	1	5q34-q35
+1050	0.02	-1.42	212859_x_at	metallothionein 1E (functional)	MT1E	4493	-1	16q13
+172	0.0021	1.84	213693_s_at	mucin 1, transmembrane	MUC1	4582	1	1q21
+260	0.0034	1.90	207847_s_at	mucin 1, transmembrane	MUC1	4582	1	1q21
+16	0.0001	-1.78	202431_s_at	v-myc myelocytomatosis viral oncogene homolog (avian)	MYC	4609	-1	8q24.21
+1451	0.03	1.36	201976_s_at	myosin X	MYO10	4651	1	5p15.1-p14.3
+1538	0.03	1.71	214440_at	N-acetyltransferase 1 (arylamine N-acetyltransferase)	NAT1	9	1	8p23.1-p21.3
+2127	0.05	1.32	202149_at	neural precursor cell expressed, developmentally down-regulated 9	NEDD9	4739	1	6p25-p24
+82	0.0010	-1.57	217963_s_at	nerve growth factor receptor (TNFRSF16) associated protein 1	NGFRAP1	27018	-1	Xq22.2
+117	0.0014	2.01	209706_at	NK3 transcription factor related, locus 1 (Drosophila)	NKX3-1	4824	1	8p21
+8	0.0001	1.36	212377_s_at	Notch homolog 2 (Drosophila)	NOTCH2	4853	1	1p13-p11
+327	0.0045	1.37	213462_at	neuronal PAS domain protein 2	NPAS2	4862	1	2q11.2
+561	0.01	1.41	39549_at	neuronal PAS domain protein 2	NPAS2	4862	1	2q11.2
+372	0.01	1.60	204972_at	2-5-oligoadenylate synthetase 2, 69/71kDa	OAS2	4939	1	12q24.2
+436	0.01	1.34	222075_s_at	ornithine decarboxylase antizyme 3	OAZ3	51686	1	1q21.3
+762	0.01	-1.68	218730_s_at	osteoglycin (osteoinductive factor, mimecan)	OGN	4969	-1	9q22
+13	0.0001	-1.33	211212_s_at	origin recognition complex, subunit 5-like (yeast)	ORC5L	5001	-1	7q22.1
+1472	0.03	-1.41	206825_at	oxytocin receptor	OXTR	5021	-1	3p25
+798	0.01	1.36	202336_s_at	peptidylglycine alpha-amidating monooxygenase	PAM	5066	1	5q14-q21
+551	0.01	1.39	214130_s_at	phosphodiesterase 4D interacting protein (myomegalin)	PDE4DIP	9659	1	1q12
+236	0.0031	1.41	214129_at	Phosphodiesterase 4D interacting protein (myomegalin)	PDE4DIP	9659	1	1q12
+265	0.0035	1.74	219630_at	PDZK1 interacting protein 1	PDZK1IP1	10158	1	1p33
+325	0.0045	-1.91	209242_at	paternally expressed 3	PEG3	5178	-1	19q13.4
+1666	0.04	1.38	217744_s_at	PERP, TP53 apoptosis effector	PERP	64065	1	6q24
+184	0.0024	-1.32	205361_s_at	prefoldin 4	PFDN4	5203	-1	20q13.2
+309	0.0041	-1.37	210976_s_at	phosphofructokinase, muscle	PFKM	5213	-1	12q13.3
+9	0.0001	-1.73	204992_s_at	profilin 2	PFN2	5217	-1	3q25.1-q25.2
+1884	0.04	-1.33	221521_s_at	DNA replication complex GINS protein PSF2	Pfs2	51659	-1	16q24.1
+273	0.0036	-1.31	205078_at	phosphatidylinositol glycan, class F	PIGF	5281	-1	2p21-p16
+2004	0.05	1.34	212240_s_at	phosphoinositide-3-kinase, regulatory subunit 1 (p85 alpha)	PIK3R1	5295	1	5q13.1
+467	0.01	1.39	212249_at	phosphoinositide-3-kinase, regulatory subunit 1 (p85 alpha)	PIK3R1	5295	1	5q13.1
+20	0.0002	1.47	202743_at	phosphoinositide-3-kinase, regulatory subunit 3 (p55, gamma)	PIK3R3	8503	1	1p34.1
+59	0.0006	1.54	208502_s_at	paired-like homeodomain transcription factor 1	PITX1	5307	1	5q31
+530	0.01	1.63	203649_s_at	phospholipase A2, group IIA (platelets, synovial fluid)	PLA2G2A	5320	1	1p35
+736	0.01	1.73	201860_s_at	plasminogen activator, tissue	PLAT	5327	1	8p12
+779	0.01	-1.57	203895_at	phospholipase C, beta 4	PLCB4	5332	-1	20p12
+201	0.0026	-1.51	204939_s_at	phospholamban	PLN	5350	-1	6q22.1
+299	0.0040	-1.31	204940_at	phospholamban	PLN	5350	-1	6q22.1
+150	0.0018	-1.66	202620_s_at	procollagen-lysine, 2-oxoglutarate 5-dioxygenase 2	PLOD2	5352	-1	3q23-q24
+267	0.0035	-1.58	202619_s_at	procollagen-lysine, 2-oxoglutarate 5-dioxygenase 2	PLOD2	5352	-1	3q23-q24
+534	0.01	1.35	210139_s_at	peripheral myelin protein 22	PMP22	5376	1	17p12-p11.2
+482	0.01	1.34	212841_s_at	PTPRF interacting protein, binding protein 2 (liprin beta 2)	PPFIBP2	8495	1	11p15.4
+183	0.0024	-1.51	204566_at	protein phosphatase 1D magnesium-dependent, delta isoform	PPM1D	8493	-1	17q23.2
+306	0.0041	1.43	218273_s_at	protein phosphatase 2C, magnesium-dependent, catalytic subunit	PPM2C	54704	1	8q22.1
+90	0.0011	1.32	207291_at	proline rich Gla (G-carboxyglutamic acid) 4 (transmembrane)	PRRG4	79056	1	11p13
+1748	0.04	1.57	203354_s_at	pleckstrin and Sec7 domain containing 3	PSD3	23362	1	8pter-p23.3
+1328	0.03	1.59	218613_at	pleckstrin and Sec7 domain containing 3	PSD3	23362	1	8pter-p23.3
+1514	0.03	1.72	203355_s_at	pleckstrin and Sec7 domain containing 3	PSD3	23362	1	8pter-p23.3
+230	0.0030	-1.33	205961_s_at	PC4 and SFRS1 interacting protein 1	PSIP1	11168	-1	9p22.3
+414	0.01	-1.35	202353_s_at	proteasome (prosome, macropain) 26S subunit, non-ATPase, 12	PSMD12	5718	-1	17q24.2
+85	0.0010	1.63	221666_s_at	PYD and CARD domain containing	PYCARD	29108	1	16p12-p11.2
+110	0.0013	1.44	201482_at	quiescin Q6	QSCN6	5768	1	1q24
+1370	0.03	-1.39	200607_s_at	RAD21 homolog (S. pombe)	RAD21	5885	-1	8q24
+745	0.01	-1.33	209849_s_at	RAD51 homolog C (S. cerevisiae)	RAD51C	5889	-1	17q22-q23
+2084	0.05	-1.42	204916_at	receptor (calcitonin) activity modifying protein 1	RAMP1	10267	-1	2q36-q37.1
+86	0.0011	1.70	204070_at	retinoic acid receptor responder (tazarotene induced) 3	RARRES3	5920	1	11q23
+2130	0.05	1.33	209488_s_at	RNA binding protein with multiple splicing	RBPMS	11030	1	8p12-p11
+862	0.02	1.50	205645_at	RALBP1 associated Eps domain containing 2	REPS2	9185	1	Xp22.2-p22.13
+803	0.01	1.41	205879_x_at	ret proto-oncogene (multiple endocrine neoplasia and medullary thyroid carcinoma 1, Hirschsprung disease)	RET	5979	1	10q11.2
+1419	0.03	-1.37	214519_s_at	relaxin 2	RLN2	6019	-1	9p24.1
+4	0.0000	-1.34	219138_at	ribosomal protein L14	RPL14	9045	-1	3p22-p21.2
+87	0.0011	-1.31	221943_x_at	Ribosomal protein L38	RPL38	6169	-1	17q23-q25
+319	0.0043	-1.43	211578_s_at	ribosomal protein S6 kinase, 70kDa, polypeptide 1	RPS6KB1	6198	-1	17q23.1
+1077	0.02	-1.34	221523_s_at	Ras-related GTP binding D	RRAGD	58528	-1	6q15-q16
+196	0.0026	-1.40	208456_s_at	related RAS viral (r-ras) oncogene homolog 2	RRAS2	22800	-1	11p15.2
+516	0.01	-1.40	212590_at	related RAS viral (r-ras) oncogene homolog 2	RRAS2	22800	-1	11p15.2
+729	0.01	1.38	41644_at	SAM and SH3 domain containing 1	SASH1	23328	1	6q24.3
+719	0.01	1.45	213236_at	SAM and SH3 domain containing 1	SASH1	23328	1	6q24.3
+37	0.0003	4.47	206799_at	secretoglobin, family 1D, member 2	SCGB1D2	10647	1	11q13
+6	0.0001	5.19	206378_at	secretoglobin, family 2A, member 2	SCGB2A2	4250	1	11q13
+1128	0.02	-1.41	212589_at	Sterol carrier protein 2	SCP2	22800	-1	11p15.2
+1742	0.04	-1.43	212154_at	syndecan 2 (heparan sulfate proteoglycan 1, cell surface-associated, fibroglycan)	SDC2	6383	-1	8q22-q23
+1456	0.03	1.53	202376_at	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 3	SERPINA3	12	1	14q32.1
+207	0.0027	-1.71	204688_at	sarcoglycan, epsilon	SGCE	8910	-1	7q21-q22
+290	0.0039	1.39	222258_s_at	SH3-domain binding protein 4	SH3BP4	23677	1	2q37.1-q37.2
+511	0.01	1.40	213308_at	SH3 and multiple ankyrin repeat domains 2	SHANK2	22941	1	11q13.3-q13.4
+72	0.0009	1.35	221041_s_at	solute carrier family 17 (anion/sugar transporter), member 5	SLC17A5	26503	1	6q14-q15
+1259	0.02	1.31	218788_s_at	SET and MYND domain containing 3	SMYD3	64754	1	1q44
+1254	0.02	-1.36	208078_s_at	SNF1-like kinase /// SNF1-like kinase	SNF1LK	150094	-1	21q22.3
+1207	0.02	-1.32	205573_s_at	sorting nexin 7	SNX7	51375	-1	1p21.3
+701	0.01	1.34	203509_at	sortilin-related receptor, L(DLR class) A repeats-containing	SORL1	6653	1	11q23.2-q24.2
+248	0.0033	-1.79	219109_at	sperm associated antigen 16	SPAG16	79582	-1	2q34
+35	0.0003	1.35	203128_at	serine palmitoyltransferase, long chain base subunit 2	SPTLC2	9517	1	14q24.3-q31
+533	0.01	-1.41	213562_s_at	squalene epoxidase	SQLE	6713	-1	8q24.1
+753	0.01	-1.36	208920_at	sorcin	SRI	6717	-1	7q21.1
+479	0.01	1.47	202286_s_at	tumor-associated calcium signal transducer 2	TACSTD2	4070	1	1p32-p31
+986	0.02	1.37	204654_s_at	transcription factor AP-2 alpha (activating enhancer binding protein 2 alpha)	TFAP2A	7020	1	6p24
+449	0.01	1.31	203888_at	thrombomodulin	THBD	7056	1	20p11.2
+1233	0.02	1.36	203887_s_at	thrombomodulin	THBD	7056	1	20p11.2
+998	0.02	1.43	203221_at	transducin-like enhancer of split 1 (E(sp1) homolog, Drosophila)	TLE1	7088	1	9q21.32
+758	0.01	1.35	204137_at	transmembrane 7 superfamily member 1 (upregulated in kidney)	TM7SF1	7107	1	1q42-q43
+1656	0.04	1.70	220177_s_at	transmembrane protease, serine 3	TMPRSS3	64699	1	21q22.3
+892	0.02	1.45	214329_x_at	Tumor necrosis factor (ligand) superfamily, member 10 /// Tumor necrosis factor (ligand) superfamily, member 10	TNFSF10	8743	1	3q26
+967	0.02	1.58	202687_s_at	tumor necrosis factor (ligand) superfamily, member 10 /// tumor necrosis factor (ligand) superfamily, member 10	TNFSF10	8743	1	3q26
+291	0.0039	1.62	202688_at	tumor necrosis factor (ligand) superfamily, member 10 /// tumor necrosis factor (ligand) superfamily, member 10	TNFSF10	8743	1	3q26
+22	0.0002	1.43	213109_at	TRAF2 and NCK interacting kinase	TNIK	23043	1	3q26.2-q26.31
+613	0.01	1.49	213107_at	TRAF2 and NCK interacting kinase	TNIK	23043	1	3q26.2-q26.31
+46	0.0004	1.67	211828_s_at	TRAF2 and NCK interacting kinase	TNIK	23043	1	3q26.2-q26.31
+1475	0.03	1.62	214774_x_at	trinucleotide repeat containing 9	TNRC9	27324	1	16q12.1
+1549	0.03	1.51	210372_s_at	tumor protein D52-like 1	TPD52L1	7164	1	6q22-q23
+817	0.01	1.56	203786_s_at	tumor protein D52-like 1	TPD52L1	7164	1	6q22-q23
+249	0.0033	1.47	204352_at	TNF receptor-associated factor 5	TRAF5	7188	1	1q32
+968	0.02	-1.35	202342_s_at	tripartite motif-containing 2	TRIM2	23321	-1	4q31.3
+251	0.0033	-1.37	210389_x_at	tubulin, delta 1	TUBD1	51174	-1	17q23.1
+228	0.0030	-1.33	221326_s_at	tubulin, delta 1	TUBD1	51174	-1	17q23.1
+41	0.0004	-1.39	216609_at	Thioredoxin	TXN	7295	-1	9q31
+416	0.01	1.42	208997_s_at	uncoupling protein 2 (mitochondrial, proton carrier)	UCP2	7351	1	11q13
+126	0.0015	1.55	208998_at	uncoupling protein 2 (mitochondrial, proton carrier)	UCP2	7351	1	11q13
+454	0.01	-1.47	204042_at	WAS protein family, member 3	WASF3	10810	-1	13q12
+662	0.01	-1.35	217975_at	WW domain binding protein 5	WBP5	51186	-1	Xq22.2
+776	0.01	1.57	205990_s_at	wingless-type MMTV integration site family, member 5A	WNT5A	7474	1	3p21-p14
+994	0.02	-1.41	219312_s_at	zinc finger and BTB domain containing 10	ZBTB10	65986	-1	8q13-q21.1
+610	0.01	1.40	211965_at	zinc finger protein 36, C3H type-like 1	ZFP36L1	677	1	14q22-q24
+403	0.01	1.34	201367_s_at	zinc finger protein 36, C3H type-like 2	ZFP36L2	678	1	2p22.3-p21
+999	0.02	1.37	201369_s_at	zinc finger protein 36, C3H type-like 2	ZFP36L2	678	1	2p22.3-p21
+23	0.0002	-1.37	202028_s_at			6169	-1	17q23-q25

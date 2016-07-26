@@ -1,0 +1,27 @@
+Function	Gene Id	Description	Gene name	10 ?M; Fold change	10 ?M; SD	10 ?M; t-Test p-Values	20 ?M; Fold change	20 ?M; SD	20 ?M; t-Test p-Values	Gene Expression
+ Heat shock proteins	  NM_005345	Heat shock 70 kDa protein 1A	HSPA1A	1.33	0.04	0.14	11.77	0.98	0.05	Increased
+ Heat shock proteins	  NM_002155	Heat shock 70 kDa protein 6 (HSP70B’)	HSPA6	1.32	0.25	0.32	3.9	1.71	0.04	Increased
+ Heat shock proteins	  NM_006644	Heat shock 105 kDa/110 kDa protein 1	HSPH1	0.92	0.8	0.79	1.51	0.37	0.79	Increased
+ Apoptosis signaling	  NM_001229	Caspase-9	CASP9	1.05	0.63	0.88	1.68	0.71	0.82	Increased
+ Apoptosis signaling	  NM_001230	Caspase-10	CASP10	1.23	0.82	0.9	1.96	0.85	0.49	Increased
+ Apoptosis signaling	  NM_001228	Caspase-8	CASP8	2.04	0.08	0.42	2.77	0.08	0.2	Increased
+ DNA-damage response, cell cycle regulators, serine thr kinase	  NM_004083	DNA-damage-inducible transcript 3	DDIT3	1.07	0.05	0.17	1.84	0.03	0.01	Increased
+ DNA-damage response, cell cycle regulators, serine thr kinase	  NM_000051	Ataxia telangiectasia mutated (includes complementation groups A, C and D)	ATM	1.04	0.17	0.88	1.69	0.28	0.19	Increased
+ DNA-damage response, cell cycle regulators, serine thr kinase	  NM_004327	Breakpoint Cluster Region	BCR	1.28	0.49	0.11	1.55	1.51	0.17	Increased
+ Phase I enzymes	  NM_002021	Flavin containing monooxygenase 1	FMO1	0.92	0.06	0.84	1.77	0.19	0.43	Increased
+ Phase I enzymes	  NM_002022	Flavin containing monooxygenase 4	FMO4	1.02	0.11	0.97	3.27	0.66	0.21	Increased
+ Phase II enzymes and regulators	  NM_001621	Aryl hydrocarbon receptor	AHR	1.12	0.52	0.76	3.03	1.2	0.38	Increased
+ Phase II enzymes and regulators	  NM_000903	NAD(P)H dehydrogenase, quinone 1	NQO1	1.5	0.03	0.5	1.93	0.09	0.1	Increased
+ Phase II enzymes and regulators	  NM_004832	Glutathione S-transferase omega 1	GSTO1	1.01	1.62	0.97	1.56	8.37	0.45	Increased
+ Phase III, drug transporter	  NM_004827	ATP-binding cassette, subfamily G (WHITE), member 2	ABCG2	1.2	0.09	0.64	1.99	0.28	0.4	Increased
+ Oxidoreductases	  NM_002574	Peroxiredoxin 1	PRDX1	1.09	2.98	0.76	1.85	15.87	0.39	Increased
+ Regulator of cell growth and proliferation	  NM_002178	Insulin-like growth factor binding protein 6	IGFBP6	1.4	0.13	0.31	1.57	0.07	0.16	Increased
+ Transcription factor or regulator, Negative regulator of cell growth and proliferation	  NM_004064	Cyclin-dependent kinase inhibitor 1B (p27, Kip1)	CDKN1B	0.71	0.59	0.6	0.65	0.02	0.54	Decreased
+ Transcription factor or regulator, Negative regulator of cell growth and proliferation	  NM_001800	Cyclin-dependent kinase inhibitor 2D (p19, inhibits CDK4)	CDKN2D	0.7	0.08	0.01	0.54	0.09	0.01	Decreased
+ Transcription factor or regulator, Negative regulator of cell growth and proliferation	  NM_003998	Nuclear factor of kappa light polypeptide gene enhancer in B-cells	NFKB1	0.87	0.2	0.46	0.65	0.06	0.06	Decreased
+ Nuclear receptors	  NM_005122	Nuclear receptor subfamily 1, group I, member 3	NR1I3	1.04	0.06	0.62	0.65	0.19	0.11	Decreased
+ Nuclear receptors	  NM_021976	Retinoid X receptor, beta	RXRB	0.87	0.25	0.57	0.64	0.06	0.03	Decreased
+ Oxidative stress	  NM_000454	Superoxide dismutase 1, soluble amyotrophic lateral sclerosis 1	SOD1	1.36	4.14	0.34	1.43	0.38	0.3	No change
+ Oxidative stress	  NM_000636	Superoxide dismutase 2, mitochondrial	SOD2	1.4	0.15	0.6	1.4	0.34	0.79	No change
+ Housekeeping	  NM_002046	Glyceraldehyde-3-phosphate dehydrogenase	GAPDH	0.96	4.38	0.93	1.3	1.43	0.49	No change
+ Housekeeping	  NM_004048	Beta-2-microglobulin		1.12	1.78	0.58	1.48	2.22	0.15	No change

@@ -1,0 +1,292 @@
+ID	Symbol	Name	Synonyms	Chromosome
+915	CD3D	CD3d molecule, delta (CD3-TCR complex)	CD3-DELTA|T3D	11
+916	CD3E	CD3e molecule, epsilon (CD3-TCR complex)	FLJ18683|T3E|TCRE	11
+917	CD3G	CD3g molecule, gamma (CD3-TCR complex)	CD3-GAMMA|FLJ17620|FLJ17664|FLJ79544|FLJ94613|MGC138597|T3G	11
+919	CD247	CD247 molecule	CD3-ZETA|CD3H|CD3Q|CD3Z|T3Z|TCRZ	1
+920	CD4	CD4 molecule	CD4mut	12
+925	CD8A	CD8a molecule	CD8|Leu2|MAL|p32	2
+926	CD8B	CD8b molecule	CD8B1|LYT3|Leu2|Ly3|MGC119115	2
+5788	PTPRC	protein tyrosine phosphatase, receptor type, C	B220|CD45|CD45R|GP180|LCA|LY5|T200	1
+3932	LCK	lymphocyte-specific protein tyrosine kinase	YT16|p56lck|pp58lck	1
+2534	FYN	FYN oncogene related to SRC, FGR, YES	MGC45350|SLK|SYN	6
+7535	ZAP70	zeta-chain (TCR) associated protein kinase 70kDa	FLJ17670|FLJ17679|SRK|STD|TZK|ZAP-70	2
+3937	LCP2	lymphocyte cytosolic protein 2 (SH2 domain containing leukocyte protein of 76kDa)	SLP-76|SLP76	5
+27040	LAT	linker for activation of T cells	LAT1|pp36	16
+3702	ITK	IL2-inducible T-cell kinase	EMT|LYK|MGC126257|MGC126258|PSCTK2	5
+7006	TEC	tec protein tyrosine kinase	MGC126760|MGC126762|PSCTK4	4
+4690	NCK1	NCK adaptor protein 1	MGC12668|NCK|NCKalpha	3
+8440	NCK2	NCK adaptor protein 2	GRB4|NCKbeta	2
+10451	VAV3	vav 3 guanine nucleotide exchange factor	FLJ40431	1
+7409	VAV1	vav 1 guanine nucleotide exchange factor	VAV	19
+7410	VAV2	vav 2 guanine nucleotide exchange factor	-	9
+9402	GRAP2	GRB2-related adaptor protein 2	GADS|GRAP-2|GRB2L|GRBLG|GRID|GRPL|GrbX|Grf40|Mona|P38	22
+2885	GRB2	growth factor receptor-bound protein 2	ASH|EGFRBP-GRB2|Grb3-3|MST084|MSTP084	17
+5058	PAK1	p21 protein (Cdc42/Rac)-activated kinase 1	MGC130000|MGC130001|PAKalpha	11
+5062	PAK2	p21 protein (Cdc42/Rac)-activated kinase 2	PAK65|PAKgamma	3
+5063	PAK3	p21 protein (Cdc42/Rac)-activated kinase 3	CDKN1A|MRX30|MRX47|OPHN3|PAK3beta|bPAK|hPAK3	X
+10298	PAK4	p21 protein (Cdc42/Rac)-activated kinase 4	-	19
+56924	PAK6	p21 protein (Cdc42/Rac)-activated kinase 6	PAK5	15
+57144	PAK7	p21 protein (Cdc42/Rac)-activated kinase 7	KIAA1264|MGC26232|PAK5	20
+387	RHOA	ras homolog gene family, member A	ARH12|ARHA|RHO12|RHOH12	3
+998	CDC42	cell division cycle 42 (GTP binding protein, 25kDa)	CDC42Hs|G25K	1
+5530	PPP3CA	protein phosphatase 3 (formerly 2B), catalytic subunit, alpha isoform	CALN|CALNA|CALNA1|CCN1|CNA1|PPP2B	4
+5532	PPP3CB	protein phosphatase 3 (formerly 2B), catalytic subunit, beta isoform	CALNA2|CALNB	10
+5533	PPP3CC	protein phosphatase 3 (formerly 2B), catalytic subunit, gamma isoform	CALNA3	8
+11261	CHP	calcium binding protein P22	SLC9A1BP	15
+5534	PPP3R1	protein phosphatase 3 (formerly 2B), regulatory subunit B, alpha isoform	CALNB1|CNB|CNB1	2
+5535	PPP3R2	protein phosphatase 3 (formerly 2B), regulatory subunit B, beta isoform	PPP3RL	9
+63928	CHP2	calcineurin B homologous protein 2	-	16
+10725	NFAT5	nuclear factor of activated T-cells 5, tonicity-responsive	KIAA0827|NF-AT5|NFATL1|NFATZ|OREBP|TONEBP	16
+4772	NFATC1	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 1	MGC138448|NF-ATC|NFAT2|NFATc	18
+4773	NFATC2	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 2	NFAT1|NFATP	20
+4775	NFATC3	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 3	NFAT4|NFATX	16
+4776	NFATC4	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 4	NF-ATc4|NFAT3	14
+6654	SOS1	son of sevenless homolog 1 (Drosophila)	GF1|GGF1|GINGF|HGF|NS4	2
+6655	SOS2	son of sevenless homolog 2 (Drosophila)	FLJ25596	14
+3265	HRAS	v-Ha-ras Harvey rat sarcoma viral oncogene homolog	C-BAS/HAS|C-H-RAS|C-HA-RAS1|CTLO|H-RASIDX|HAMSV|HRAS1|K-RAS|N-RAS|RASH1	11
+3845	KRAS	v-Ki-ras2 Kirsten rat sarcoma viral oncogene homolog	C-K-RAS|K-RAS2A|K-RAS2B|K-RAS4A|K-RAS4B|KI-RAS|KRAS1|KRAS2|NS3|RASK2	12
+4893	NRAS	neuroblastoma RAS viral (v-ras) oncogene homolog	ALPS4|N-ras|NRAS1	1
+2353	FOS	v-fos FBJ murine osteosarcoma viral oncogene homolog	AP-1|C-FOS	14
+3725	JUN	jun oncogene	AP-1|AP1|c-Jun	1
+84433	CARD11	caspase recruitment domain family, member 11	BIMP3|CARMA1|MGC133069	7
+8915	BCL10	B-cell CLL/lymphoma 10	CARMEN|CIPER|CLAP|c-E10|mE10	1
+10892	MALT1	mucosa associated lymphoid tissue lymphoma translocation gene 1	DKFZp434L132|MLT|MLT1	18
+1147	CHUK	conserved helix-loop-helix ubiquitous kinase	IKBKA|IKK-alpha|IKK1|IKKA|NFKBIKA|TCF16	10
+3551	IKBKB	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase beta	FLJ40509|IKK-beta|IKK2|IKKB|MGC131801|NFKBIKB	8
+8517	IKBKG	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase gamma	AMCBX1|FIP-3|FIP3|Fip3p|IKK-gamma|IP|IP1|IP2|IPD2|NEMO	X
+4790	NFKB1	nuclear factor of kappa light polypeptide gene enhancer in B-cells 1	DKFZp686C01211|EBP-1|KBF1|MGC54151|NF-kappa-B|NFKB-p105|NFKB-p50|p105|p50	4
+5970	RELA	v-rel reticuloendotheliosis viral oncogene homolog A (avian)	MGC131774|NFKB3|p65	11
+4792	NFKBIA	nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, alpha	IKBA|MAD-3|NFKBI	14
+4793	NFKBIB	nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, beta	IKBB|TRIP9	19
+4794	NFKBIE	nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, epsilon	IKBE	6
+940	CD28	CD28 molecule	MGC138290|Tp44	2
+29851	ICOS	inducible T-cell co-stimulator	AILIM|CD278|MGC39850	2
+959	CD40LG	CD40 ligand	CD154|CD40L|HIGM1|IGM|IMD3|T-BAM|TNFSF5|TRAP|gp39|hCD40L	X
+23533	PIK3R5	phosphoinositide-3-kinase, regulatory subunit 5	F730038I15Rik|FOAP-2|P101-PI3K|p101	17
+5295	PIK3R1	phosphoinositide-3-kinase, regulatory subunit 1 (alpha)	GRB1|p85|p85-ALPHA	5
+5296	PIK3R2	phosphoinositide-3-kinase, regulatory subunit 2 (beta)	P85B|p85|p85-BETA	19
+8503	PIK3R3	phosphoinositide-3-kinase, regulatory subunit 3 (gamma)	DKFZp686P05226|FLJ41892|p55|p55-GAMMA	1
+5290	PIK3CA	phosphoinositide-3-kinase, catalytic, alpha polypeptide	MGC142161|MGC142163|PI3K|p110-alpha	3
+5291	PIK3CB	phosphoinositide-3-kinase, catalytic, beta polypeptide	DKFZp779K1237|MGC133043|PI3K|PI3KCB|PI3Kbeta|PIK3C1|p110-BETA	3
+5293	PIK3CD	phosphoinositide-3-kinase, catalytic, delta polypeptide	p110D	1
+5294	PIK3CG	phosphoinositide-3-kinase, catalytic, gamma polypeptide	PI3CG|PI3K|PI3Kgamma|PIK3	7
+10000	AKT3	v-akt murine thymoma viral oncogene homolog 3 (protein kinase B, gamma)	DKFZp434N0250|PKB-GAMMA|PKBG|PRKBG|RAC-PK-gamma|RAC-gamma|STK-2	1
+207	AKT1	v-akt murine thymoma viral oncogene homolog 1	AKT|MGC99656|PKB|PKB-ALPHA|PRKBA|RAC|RAC-ALPHA	14
+208	AKT2	v-akt murine thymoma viral oncogene homolog 2	PKBB|PKBBETA|PRKBB|RAC-BETA	19
+1326	MAP3K8	mitogen-activated protein kinase kinase kinase 8	COT|EST|ESTF|FLJ10486|TPL2|Tpl-2|c-COT	10
+9020	MAP3K14	mitogen-activated protein kinase kinase kinase 14	FTDCR1B|HS|HSNIK|NIK	17
+5133	PDCD1	programmed cell death 1	CD279|PD1|SLEB2|hPD-1|hPD-l	2
+1493	CTLA4	cytotoxic T-lymphocyte-associated protein 4	CD|CD152|CELIAC3|CTLA-4|GSE|ICOS|IDDM12	2
+5777	PTPN6	protein tyrosine phosphatase, non-receptor type 6	HCP|HCPH|HPTP1C|PTP-1C|SH-PTP1|SHP-1|SHP-1L|SHP1	12
+23624	CBLC	Cas-Br-M (murine) ecotropic retroviral transforming sequence c	CBL-3|CBL-SL|RNF57	19
+867	CBL	Cas-Br-M (murine) ecotropic retroviral transforming sequence	C-CBL|CBL2|RNF55	11
+868	CBLB	Cas-Br-M (murine) ecotropic retroviral transforming sequence b	DKFZp686J10223|DKFZp779A0729|DKFZp779F1443|FLJ36865|FLJ41152|Nbla00127|RNF56	3
+3558	IL2	interleukin 2	IL-2|TCGF|lymphokine	4
+3565	IL4	interleukin 4	BCGF-1|BCGF1|BSF1|IL-4|MGC79402	5
+3567	IL5	interleukin 5 (colony-stimulating factor, eosinophil)	EDF|IL-5|TRF	5
+3586	IL10	interleukin 10	CSIF|IL-10|IL10A|MGC126450|MGC126451|TGIF	1
+3458	IFNG	interferon, gamma	IFG|IFI	12
+1437	CSF2	colony stimulating factor 2 (granulocyte-macrophage)	GMCSF|MGC131935|MGC138897	5
+7124	TNF	tumor necrosis factor (TNF superfamily, member 2)	DIF|TNF-alpha|TNFA|TNFSF2	6
+1019	CDK4	cyclin-dependent kinase 4	CMM3|MGC14458|PSK-J3	12
+10125	RASGRP1	RAS guanyl releasing protein 1 (calcium and DAG-regulated)	CALDAG-GEFI|CALDAG-GEFII|MGC129998|MGC129999|RASGRP|V|hRasGRP1	15
+5163	PDK1	pyruvate dehydrogenase kinase, isozyme 1	-	2
+5335	PLCG1	phospholipase C, gamma 1	PLC-II|PLC1|PLC148|PLCgamma1	20
+5588	PRKCQ	protein kinase C, theta	MGC126514|MGC141919|PRKCT|nPKC-theta	10
+28755	TRAC	T cell receptor alpha constant	-	14
+28754	TRAJ1	T cell receptor alpha joining 1 (non-functional)	-	14
+28753	TRAJ2	T cell receptor alpha joining 2 (non-functional)	-	14
+28752	TRAJ3	T cell receptor alpha joining 3	-	14
+28751	TRAJ4	T cell receptor alpha joining 4	-	14
+28750	TRAJ5	T cell receptor alpha joining 5	-	14
+28749	TRAJ6	T cell receptor alpha joining 6	-	14
+28748	TRAJ7	T cell receptor alpha joining 7	-	14
+28747	TRAJ8	T cell receptor alpha joining 8	-	14
+28746	TRAJ9	T cell receptor alpha joining 9	-	14
+28745	TRAJ10	T cell receptor alpha joining 10	-	14
+28744	TRAJ11	T cell receptor alpha joining 11	-	14
+28743	TRAJ12	T cell receptor alpha joining 12	-	14
+28742	TRAJ13	T cell receptor alpha joining 13	-	14
+28741	TRAJ14	T cell receptor alpha joining 14	-	14
+28740	TRAJ15	T cell receptor alpha joining 15	-	14
+28739	TRAJ16	T cell receptor alpha joining 16	-	14
+28738	TRAJ17	T cell receptor alpha joining 17	-	14
+28737	TRAJ18	T cell receptor alpha joining 18	-	14
+28736	TRAJ19	T cell receptor alpha joining 19 (non-functional)	-	14
+28735	TRAJ20	T cell receptor alpha joining 20	-	14
+28734	TRAJ21	T cell receptor alpha joining 21	-	14
+28733	TRAJ22	T cell receptor alpha joining 22	-	14
+28732	TRAJ23	T cell receptor alpha joining 23	-	14
+28731	TRAJ24	T cell receptor alpha joining 24	-	14
+28730	TRAJ25	T cell receptor alpha joining 25 (non-functional)	-	14
+28729	TRAJ26	T cell receptor alpha joining 26	-	14
+28728	TRAJ27	T cell receptor alpha joining 27	-	14
+28727	TRAJ28	T cell receptor alpha joining 28	-	14
+28726	TRAJ29	T cell receptor alpha joining 29	-	14
+28725	TRAJ30	T cell receptor alpha joining 30	-	14
+28724	TRAJ31	T cell receptor alpha joining 31	-	14
+28723	TRAJ32	T cell receptor alpha joining 32	-	14
+28722	TRAJ33	T cell receptor alpha joining 33	-	14
+28721	TRAJ34	T cell receptor alpha joining 34	-	14
+28720	TRAJ35	T cell receptor alpha joining 35 (non-functional)	-	14
+28719	TRAJ36	T cell receptor alpha joining 36	-	14
+28718	TRAJ37	T cell receptor alpha joining 37	-	14
+28717	TRAJ38	T cell receptor alpha joining 38	-	14
+28716	TRAJ39	T cell receptor alpha joining 39	-	14
+28715	TRAJ40	T cell receptor alpha joining 40	-	14
+28714	TRAJ41	T cell receptor alpha joining 41	-	14
+28713	TRAJ42	T cell receptor alpha joining 42	-	14
+28712	TRAJ43	T cell receptor alpha joining 43	-	14
+28711	TRAJ44	T cell receptor alpha joining 44	-	14
+28710	TRAJ45	T cell receptor alpha joining 45	-	14
+28709	TRAJ46	T cell receptor alpha joining 46	-	14
+28708	TRAJ47	T cell receptor alpha joining 47	-	14
+28707	TRAJ48	T cell receptor alpha joining 48	-	14
+28706	TRAJ49	T cell receptor alpha joining 49	-	14
+28705	TRAJ50	T cell receptor alpha joining 50	-	14
+28703	TRAJ52	T cell receptor alpha joining 52	-	14
+28702	TRAJ53	T cell receptor alpha joining 53	-	14
+28701	TRAJ54	T cell receptor alpha joining 54	-	14
+28699	TRAJ56	T cell receptor alpha joining 56	-	14
+28698	TRAJ57	T cell receptor alpha joining 57	-	14
+28697	TRAJ58	T cell receptor alpha joining 58 (non-functional)	-	14
+28696	TRAJ59	T cell receptor alpha joining 59 (non-functional)	-	14
+28694	TRAJ61	T cell receptor alpha joining 61 (non-functional)	-	14
+28693	TRAV1-1	T cell receptor alpha variable 1-1	TCRAV1S1|TCRAV7S1|TRAV11	14
+28692	TRAV1-2	T cell receptor alpha variable 1-2	TCRAV1S2|TCRAV7S2|TRAV12	14
+28691	TRAV2	T cell receptor alpha variable 2	TCRAV11S1|TCRAV2S1	14
+28690	TRAV3	T cell receptor alpha variable 3 (gene/pseudogene)	TCRAV16S1|TCRAV3S1	14
+28689	TRAV4	T cell receptor alpha variable 4	TCRAV20S1|TCRAV4S1	14
+28688	TRAV5	T cell receptor alpha variable 5	TCRAV15S1|TCRAV5S1	14
+28686	TRAV7	T cell receptor alpha variable 7	TCRAV7S1	14
+28685	TRAV8-1	T cell receptor alpha variable 8-1	TCRAV1S1|TCRAV8S1|TRAV81	14
+28684	TRAV8-2	T cell receptor alpha variable 8-2	TCRAV1S5|TCRAV8S2|TRAV82	14
+28683	TRAV8-3	T cell receptor alpha variable 8-3	TCRAV1S4|TCRAV8S3|TRAV83	14
+28682	TRAV8-4	T cell receptor alpha variable 8-4	TCRAV1S2|TCRAV8S4|TRAV84	14
+28680	TRAV8-6	T cell receptor alpha variable 8-6	TCRAV1S3|TCRAV8S6|TRAV86	14
+28679	TRAV8-7	T cell receptor alpha variable 8-7 (non-functional)	TCRAV8S7|TRAV87	14
+28678	TRAV9-1	T cell receptor alpha variable 9-1	TCRAV9S1|TRAV91	14
+28677	TRAV9-2	T cell receptor alpha variable 9-2	TCRAV22S1|TCRAV9S2|TRAV92	14
+28676	TRAV10	T cell receptor alpha variable 10	TCRAV10S1|TCRAV24S1	14
+28674	TRAV12-1	T cell receptor alpha variable 12-1	TCRAV12S1|TCRAV2S3|TRAV121	14
+28673	TRAV12-2	T cell receptor alpha variable 12-2	TCRAV12S2|TCRAV2S1|TRAV122	14
+28672	TRAV12-3	T cell receptor alpha variable 12-3	TCRAV12S3|TCRAV2S2|TRAV123	14
+28671	TRAV13-1	T cell receptor alpha variable 13-1	TCRAV13S1|TCRAV8S1|TRAV131	14
+28670	TRAV13-2	T cell receptor alpha variable 13-2	TCRAV13S2|TCRAV8S2|TRAV132	14
+28669	TRAV14DV4	T cell receptor alpha variable 14/delta variable 4	TCRAV6S1-hDV104S1|TRAV14/DV4|hADV14S1	14
+28667	TRAV16	T cell receptor alpha variable 16	TCRAV16S1|TCRAV9S1	14
+28666	TRAV17	T cell receptor alpha variable 17	TCRAV17S1|TCRAV3S1	14
+28665	TRAV18	T cell receptor alpha variable 18	TCRAV18S1	14
+28664	TRAV19	T cell receptor alpha variable 19	TCRAV12S1|TCRAV19S1	14
+28663	TRAV20	T cell receptor alpha variable 20	TCRAV20S1|TCRAV30S1	14
+28662	TRAV21	T cell receptor alpha variable 21	TCRAV21S1|TCRAV23S1	14
+28661	TRAV22	T cell receptor alpha variable 22	TCRAV13S1|TCRAV22S1	14
+28660	TRAV23DV6	T cell receptor alpha variable 23/delta variable 6	TCRAV17S1|TRAV23/DV6|hADV23S1	14
+28659	TRAV24	T cell receptor alpha variable 24	TCRAV18S1|TCRAV24S1	14
+28658	TRAV25	T cell receptor alpha variable 25	TCRAV25S1|TCRAV32S1	14
+28657	TRAV26-1	T cell receptor alpha variable 26-1	TCRAV26S1|TCRAV4S2|TRAV261	14
+28656	TRAV26-2	T cell receptor alpha variable 26-2	TCRAV26S2|TCRAV4S1|TRAV262	14
+28655	TRAV27	T cell receptor alpha variable 27	TCRAV10S1|TCRAV27S1	14
+28653	TRAV29DV5	T cell receptor alpha variable 29/delta variable 5 (gene/pseudogene)	TCRAV21S1|TRAV29/DV5|hADV29S1	14
+28652	TRAV30	T cell receptor alpha variable 30	TCRAV29S1|TCRAV30S1	14
+28648	TRAV34	T cell receptor alpha variable 34	TCRAV26S1|TCRAV34S1	14
+28647	TRAV35	T cell receptor alpha variable 35	TCRAV25S1|TCRAV35S1	14
+28646	TRAV36DV7	T cell receptor alpha variable 36/delta variable 7	TCRAV28S1|TRAV36/DV7|hADV36S1	14
+28644	TRAV38-1	T cell receptor alpha variable 38-1	TCRAV14S2|TCRAV38S1|TRAV381	14
+28643	TRAV38-2DV8	T cell receptor alpha variable 38-2/delta variable 8	TCRAV14S1|TRAV382DV8|hADV38S2	14
+28642	TRAV39	T cell receptor alpha variable 39	TCRAV27S1|TCRAV39S1	14
+28641	TRAV40	T cell receptor alpha variable 40	TCRAV31S1|TCRAV40S1	14
+28640	TRAV41	T cell receptor alpha variable 41	TCRAV19S1|TCRAV41S1	14
+28639	TRBC1	T cell receptor beta constant 1	BV05S1J2.2|MGC88817|TCRBC1	7
+28638	TRBC2	T cell receptor beta constant 2	TCRBC2	7
+28637	TRBD1	T cell receptor beta diversity 1	TCRBD1	7
+28636	TRBD2	T cell receptor beta diversity 2	TCRBD2	7
+28635	TRBJ1-1	T cell receptor beta joining 1-1	TCRBJ1S1|TRBJ11	7
+28634	TRBJ1-2	T cell receptor beta joining 1-2	TCRBJ1S2|TRBJ12	7
+28633	TRBJ1-3	T cell receptor beta joining 1-3	TCRBJ1S3|TRBJ13	7
+28632	TRBJ1-4	T cell receptor beta joining 1-4	TCRBJ1S4|TRBJ14	7
+28631	TRBJ1-5	T cell receptor beta joining 1-5	TCRBJ1S5|TRBJ15	7
+28630	TRBJ1-6	T cell receptor beta joining 1-6	TCRBJ1S6|TRBJ16	7
+28629	TRBJ2-1	T cell receptor beta joining 2-1	TCRBJ2S1|TRBJ21	7
+28628	TRBJ2-2	T cell receptor beta joining 2-2	TCRBJ2S2|TRBJ22	7
+28626	TRBJ2-3	T cell receptor beta joining 2-3	TCRBJ2S3|TRBJ23	7
+28625	TRBJ2-4	T cell receptor beta joining 2-4	TCRBJ2S4|TRBJ24	7
+28624	TRBJ2-5	T cell receptor beta joining 2-5	TCRBJ2S5|TRBJ25	7
+28623	TRBJ2-6	T cell receptor beta joining 2-6	TCRBJ2S6|TRBJ26	7
+28622	TRBJ2-7	T cell receptor beta joining 2-7	TCRBJ2S7|TRBJ27	7
+28620	TRBV2	T cell receptor beta variable 2	TCRBV22S1A2N1T|TCRBV2S1	7
+28619	TRBV3-1	T cell receptor beta variable 3-1	TCRBV3S1|TCRBV9S1A1T|TRBV31	7
+28617	TRBV4-1	T cell receptor beta variable 4-1	BV07S1J2.7|TCRBV4S1|TCRBV7S1A1N2T|TRBV41	7
+28616	TRBV4-2	T cell receptor beta variable 4-2	TCRBV4S2|TCRBV7S3A2T|TRBV42	7
+28615	TRBV4-3	T cell receptor beta variable 4-3	TCRBV4S3|TCRBV7S2A1N4T|TRBV43	7
+28614	TRBV5-1	T cell receptor beta variable 5-1	TCRBV5S1|TCRBV5S1A1T|TRBV51	7
+28611	TRBV5-4	T cell receptor beta variable 5-4	TCRBV5S4|TCRBV5S6A3N2T|TRBV54	7
+28610	TRBV5-5	T cell receptor beta variable 5-5	TCRBV5S3A2T|TCRBV5S5|TRBV55	7
+28609	TRBV5-6	T cell receptor beta variable 5-6	TCRBV5S2|TCRBV5S6|TRBV56	7
+28608	TRBV5-7	T cell receptor beta variable 5-7 (non-functional)	TCRBV5S7|TCRBV5S7P|TRBV57	7
+28607	TRBV5-8	T cell receptor beta variable 5-8	TCRBV5S4A2T|TCRBV5S8|TRBV58	7
+28606	TRBV6-1	T cell receptor beta variable 6-1	TCRBV13S3|TCRBV6S1|TRBV61	7
+28605	TRBV6-2	T cell receptor beta variable 6-2 (gene/pseudogene)	TCRBV13S2A1T|TCRBV6S2|TRBV62	7
+28604	TRBV6-3	T cell receptor beta variable 6-3	TCRBV13S9/13S2A1T|TCRBV6S3|TRBV63	7
+28603	TRBV6-4	T cell receptor beta variable 6-4	TCRBV13S5|TCRBV6S4|TRBV64	7
+28602	TRBV6-5	T cell receptor beta variable 6-5	TCRBV13S1|TCRBV6S5|TRBV65	7
+28601	TRBV6-6	T cell receptor beta variable 6-6	TCRBV13S6A2T|TCRBV6S6|TRBV66	7
+28600	TRBV6-7	T cell receptor beta variable 6-7 (non-functional)	TCRBV13S8P|TCRBV6S7|TRBV67	7
+28599	TRBV6-8	T cell receptor beta variable 6-8	TCRBV13S7P|TCRBV6S8|TRBV68	7
+28598	TRBV6-9	T cell receptor beta variable 6-9	TCRBV13S4|TCRBV6S9|TRBV69	7
+28596	TRBV7-2	T cell receptor beta variable 7-2	MGC117435|TCRBV6S5A1N1|TCRBV7S2|TRBV72	7
+28595	TRBV7-3	T cell receptor beta variable 7-3	TCRBV6S1A1N1|TCRBV7S3|TRBV73	7
+28594	TRBV7-4	T cell receptor beta variable 7-4 (gene/pseudogene)	TCRBV6S8A2T|TCRBV7S4|TRBV74	7
+28592	TRBV7-6	T cell receptor beta variable 7-6	TCRBV6S3A1N1T|TCRBV7S6|TRBV76	7
+28591	TRBV7-7	T cell receptor beta variable 7-7	TCRBV6S6A2T|TCRBV7S7|TRBV77	7
+28590	TRBV7-8	T cell receptor beta variable 7-8	TCRBV6S2A1N1T|TCRBV7S8|TRBV78	7
+28589	TRBV7-9	T cell receptor beta variable 7-9	TCRBV6S4A1|TCRBV7S9|TRBV79	7
+28586	TRBV9	T cell receptor beta variable 9	TCRBV1S1A1N1|TCRBV9S1	7
+28585	TRBV10-1	T cell receptor beta variable 10-1(gene/pseudogene)	TCRBV10S1|TCRBV12S2|TCRBV12S2A1T|TRBV101	7
+28584	TRBV10-2	T cell receptor beta variable 10-2	TCRBV10S2|TCRBV12S3|TRBV102	7
+28583	TRBV10-3	T cell receptor beta variable 10-3	TCRBV10S3|TCRBV12S1A1N2|TRBV103	7
+28582	TRBV11-1	T cell receptor beta variable 11-1	TCRBV11S1|TCRBV21S1|TRBV111	7
+28581	TRBV11-2	T cell receptor beta variable 11-2	TCRBV11S2|TCRBV21S3A2N2T|TRBV112	7
+28580	TRBV11-3	T cell receptor beta variable 11-3	TCRBV11S3|TCRBV21S2A2|TRBV113	7
+28577	TRBV12-3	T cell receptor beta variable 12-3	TCRBV12S3|TCRBV8S1|TRBV123	7
+28576	TRBV12-4	T cell receptor beta variable 12-4	TCRBV12S4|TCRBV8S2A1T|TRBV124	7
+28575	TRBV12-5	T cell receptor beta variable 12-5	TCRBV12S5|TCRBV8S3|TRBV125	7
+28574	TRBV13	T cell receptor beta variable 13	TCRBV13S1|TCRBV23S1A2T	7
+28573	TRBV14	T cell receptor beta variable 14	TCRBV14S1|TCRBV16S1A1N1	7
+28572	TRBV15	T cell receptor beta variable 15	TCRBV15S1|TCRBV24S1A3T	7
+28571	TRBV16	T cell receptor beta variable 16 (gene/pseudogene)	TCRBV16S1|TCRBV25S1A2PT	7
+28570	TRBV17	T cell receptor beta variable 17 (non-functional)	TCRBV17S1|TCRBV26S1P	7
+28569	TRBV18	T cell receptor beta variable 18	TCRBV18S1	7
+28568	TRBV19	T cell receptor beta variable 19	TCRBV17S1A1T|TCRBV19S1	7
+28567	TRBV20-1	T cell receptor beta variable 20-1	TCRBV20S1|TCRBV2S1|TRBV201	7
+28563	TRBV24-1	T cell receptor beta variable 24-1	TCRBV15S1|TCRBV24S1|TRBV241	7
+28562	TRBV25-1	T cell receptor beta variable 25-1	TCRBV11S1A1T|TCRBV25S1|TRBV251	7
+28560	TRBV27	T cell receptor beta variable 27	FLJ35984|TCRBV14S1|TCRBV27S1	7
+28559	TRBV28	T cell receptor beta variable 28	TCRBV28S1|TCRBV3S1	7
+28558	TRBV29-1	T cell receptor beta variable 29-1	TCRBV29S1|TCRBV4S1A1T|TRBV291	7
+28557	TRBV30	T cell receptor beta variable 30 (gene/pseudogene)	TCRBV20S1A1N2|TCRBV30S1	7
+28526	TRDC	T cell receptor delta constant	-	14
+28525	TRDD1	T cell receptor delta diversity 1	-	14
+28524	TRDD2	T cell receptor delta diversity 2	-	14
+28523	TRDD3	T cell receptor delta diversity 3	TCRD	14
+28522	TRDJ1	T cell receptor delta joining 1	TCRD	14
+28521	TRDJ2	T cell receptor delta joining 2	-	14
+28520	TRDJ3	T cell receptor delta joining 3	-	14
+28519	TRDJ4	T cell receptor delta joining 4	-	14
+28518	TRDV1	T cell receptor delta variable 1	hDV101S1	14
+28517	TRDV2	T cell receptor delta variable 2	MGC117421|hDV102S1	14
+28516	TRDV3	T cell receptor delta variable 3	hDV103S1	14
+6983	TRGV9	T cell receptor gamma variable 9	MGC47828|TCRGV9|V2	7
+6982	TRGV8	T cell receptor gamma variable 8	TCRGV8|V1S8	7
+6978	TRGV5	T cell receptor gamma variable 5	TCRGV5|V1S5	7
+6977	TRGV4	T cell receptor gamma variable 4	TCRGV4|V1S4	7
+6976	TRGV3	T cell receptor gamma variable 3	TCRGV3|V1S3	7
+6974	TRGV2	T cell receptor gamma variable 2	MGC42817|TCRGV2|VIS2	7
+6972	TRGJP2	T cell receptor gamma joining P2	JP2|TCRGJP2	7
+6971	TRGJP1	T cell receptor gamma joining P1	JP1|TCRGJP1	7
+6970	TRGJP	T cell receptor gamma joining P	JP|TCRGJP	7
+6969	TRGJ2	T cell receptor gamma joining 2	J2|TCRGJ2	7
+6968	TRGJ1	T cell receptor gamma joining 1	J1|TCRGJ1	7
+6967	TRGC2	T cell receptor gamma constant 2	TCRGC2|TRGC2(2X)|TRGC2(3X)	7
+6966	TRGC1	T cell receptor gamma constant 1	C1|TCRGC1	7
+6956	TRAV6	T cell receptor alpha variable 6	TCRAV5S1|TCRAV6S1	14

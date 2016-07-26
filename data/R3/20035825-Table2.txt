@@ -1,0 +1,24 @@
+GOcategory	p-Value(GO)	Genesymbol	Commonname	EntrezID	Foldchange	p-Value	Regulation
+Musclecontraction	3.78E-11	Ttn	Titin	22138	2.41	0.0497	Up-regulatedgenes
+Musclecontraction	3.78E-11	Ttn	Titin	22138	2.171	0.0014	Up-regulatedgenes
+Musclecontraction	3.78E-11	Atp2a2	ATPase,Ca++transporting,cardiacmuscle,slowtwitch2	11938	2.059	0.0021	Up-regulatedgenes
+Musclecontraction	3.78E-11	Myh8	Myosin,heavypolypeptide8,skeletalmuscle,perinatal	17885	2.038	0.0041	Up-regulatedgenes
+Musclecontraction	3.78E-11	Myl7	Myosin,lightpolypeptide7,regulatory	17898	2.017	0.002	Up-regulatedgenes
+Musclecontraction	3.78E-11	Myh6	Myosin,heavypolypeptide6,cardiacmuscle,alpha	17888	1.978	0.0027	Up-regulatedgenes
+Musclecontraction	3.78E-11	Tnnt2	TroponinT2,cardiac	21956	1.878	0.0039	Up-regulatedgenes
+Muscledevelopment	2.28E-04	Myh6	Myosin,heavypolypeptide6,cardiacmuscle,alpha	17888	1.978	0.0027	Up-regulatedgenes
+Muscledevelopment	2.28E-04	Ttn	Titin	22138	2.41	0.0497	Up-regulatedgenes
+Muscledevelopment	2.28E-04	Ttn	Titin	22138	2.171	0.0014	Up-regulatedgenes
+Muscledevelopment	2.28E-04	Tcap	Titin-cap	21393	1.957	0.0034	Up-regulatedgenes
+Acuteinflammatoryresponse	6.05E-03	Saa3	SerumamyloidA3	20210	-3.12	0.0011	Down-regulatedgenes
+Acuteinflammatoryresponse	6.05E-03	Ptger3	ProstaglandinEreceptor3(subtypeEP3)	19218	-1.85	0.0082	Down-regulatedgenes
+Acuteinflammatoryresponse	6.05E-03	C1qa	Complementcomponent1,qsubcomponent,alphapolypeptide	12259	-1.81	0.0041	Down-regulatedgenes
+Regulationoftranslation	4.58E-02	Eif2s3x	Eukaryotictranslationinitiationfactor2,subunit3,structuralgeneX-linked	26905	-2.06	0.0043	Down-regulatedgenes
+Regulationoftranslation	4.58E-02	Ireb2	Ironresponsiveelementbindingprotein2	64602	-1.82	0.0139	Down-regulatedgenes
+Enzyme linked receptor protein signaling pathway	3.11E-02	Plat	Plasminogenactivator,tissue	18791	-2.05	0.0041	Down-regulatedgenes
+Enzyme linked receptor protein signaling pathway	3.11E-02	Angpt1	Angiopoietin1	11600	-1.93	0.0073	Down-regulatedgenes
+Enzyme linked receptor protein signaling pathway	3.11E-02	D0H4S114	DNAsegment,humanD4S114	27528	-1.93	0.0054	Down-regulatedgenes
+Enzyme linked receptor protein signaling pathway	3.11E-02	Bmp5	Bonemorphogeneticprotein5	12160	-1.86	0.0121	Down-regulatedgenes
+Inorganicaniontransport	4.25E-02	Fcna	FicolinA	14133	-2.06	0.0033	Down-regulatedgenes
+Inorganicaniontransport	4.25E-02	Ptger3	ProstaglandinEreceptor3(subtypeEP3)	19218	-1.85	0.0082	Down-regulatedgenes
+Inorganicaniontransport	4.25E-02	C1qa	Complementcomponent1,qsubcomponent,alphapolypeptide	12259	-1.81	0.0041	Down-regulatedgenes

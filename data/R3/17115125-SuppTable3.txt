@@ -1,0 +1,25 @@
+Category	Gene	Gene symbol	Expressed in the small airways of non-smokers	Expressed in the small airways of smokers	SMO vs NS-fold change	p value SMO vs NS
+Cytokine / innate immunity	interferon receptor 2	IFNAR2	Yes	Yes	2.33	0.002
+Cytokine / innate immunity	chemokine (C-X3-C motif) ligand 1	CX3CL1	Yes	No	-2.97	0.04
+Cytokine / innate immunity	interleukin 8	IL8	Yes	Yes	-2.61	0.048
+Cytokine / innate immunity	chemokine (C-X-C motif) ligand 3	CXCL3	Yes	No	-2.3	0.035
+Apoptosis	pirin	PIR	Yes	Yes	2.78	<0.001
+Apoptosis	growth arrest and DNA-damage-inducible, beta	GADD45B	Yes	Yes	-2.25	0.043
+Profibrotic	fibroblast growth factor receptor 2	FGFR2	Yes	Yes	-2.72	0.033
+Profibrotic	angiopoietin 1	ANGPT1	Yes	No	-2.26	0.028
+Response to oxidants and xenobiotics	cytochrome P450, family 1, subfamily B, polypeptide 1	CYP1B1	Yes	Yes	17.69	<0.001
+Response to oxidants and xenobiotics	aldo-keto reductase family 1, member B10	AKR1B10	No	Yes	11.73	<0.001
+Response to oxidants and xenobiotics	aldo-keto reductase family 1, member C1 and, member C2	AKR1C1-C2	Yes	Yes	9.06	0.001
+Response to oxidants and xenobiotics	cytochrome P450, family 1, subfamily A, polypeptide 1	CYP1A1	No	Yes	7.48	0.01
+Response to oxidants and xenobiotics	aldehyde dehydrogenase 3 family, memberA1	ALDH3A1	Yes	Yes	6.63	<0.001
+Response to oxidants and xenobiotics	alcohol dehydrogenase 7	ADH7	Yes	Yes	6.24	<0.001
+Response to oxidants and xenobiotics	glutathione peroxidase 2	GPX2	Yes	Yes	5.16	<0.001
+Response to oxidants and xenobiotics	cytochrome P450, family 4, subfamily F, polypetide 11	CYP4F11	No	Yes	4.87	0.002
+Response to oxidants and xenobiotics	NAD(P)H dehydrogenase, quinone 1	NQO1	Yes	Yes	4.41	<0.001
+Response to oxidants and xenobiotics	carbonyl reductase 1	CBR1	Yes	Yes	3.82	<0.001
+Response to oxidants and xenobiotics	aldo-keto reductase family 1, member C3	AKR1C3	Yes	Yes	3.09	0.001
+Anti-proteases	serine (or cysteine) proteinase inhibitor, clade B (ovalbumin), member 4	SERPINB4	Yes	Yes	-2.02	0.006
+General cellular processes	ATPase, H+ transporting, lysosomal 9kDa, V0 subunit epsilon	ATP6V0E	No	Yes	2.54	0.004
+General cellular processes	ubiquitin carboxyl-terminal esterase L1	UCHL1	No	Yes	11.75	0.001
+General cellular processes	iduronate 2-sulfatase	IDS	No	Yes	5.61	0.005
+General cellular processes	homogentisate 1,2-dioxygenase	HGD	No	Yes	5.47	0.007

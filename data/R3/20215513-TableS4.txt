@@ -1,0 +1,182 @@
+Symbol	Entrez ID	Consistent sub-cluster differential expression across panels?	Data set showing strongest trend	Probeset ID(s)	Expression pattern	‘MEK-functional-activation’ or ‘compensatory-resistance’	Signature rationale
+DUSP4	1846	Yes	Both	204014_at; 204015_s_at	Down in resistant cell line subset	MEK	interaction, canonical and transcriptome
+ELF1	1997	Yes	Both	212418_at; 212420_at	Down in resistant cell line subset	MEK	interaction
+LGALS3	3958, 81625	Yes	Both	208949_s_at	Down in resistant cell line subset	MEK	interaction and transcriptome
+ANKRD15	23189	Yes	Melanoma	213005_s_at	Down in resistant cell line subset	MEK	expression
+TRIB2	28951	Yes	Melanoma	202478_at; 202479_s_at	Down in resistant cell line subset	MEK	transcriptome
+ETV4	2118	Yes	CrossTumor	1554576_a_at; 211603_s_at	Down in resistant cell line subset	MEK	transcriptome
+ETV5	2119	Yes	CrossTumor	203349_s_at; 203348_s_at	Down in resistant cell line subset	MEK	canonical and transcriptome
+MAP2K3	5606	Yes	CrossTumor	207667_s_at; 215498_s_at; 215499_at	Down in resistant cell line subset	MEK	transcriptome
+SPRY2	10253	Yes	CrossTumor	204011_at	Down in resistant cell line subset	MEK	canonical and transcriptome
+LZTS1	11178	No	Melanoma	219042_at; 47550_at	Down in resistant cell line subset	MEK	transcriptome
+PROS1	5627	No	Melanoma	207808_s_at	Down in resistant cell line subset	MEK	transcriptome
+ZFP106	64397	No	Melanoma	217781_s_at; 222407_s_at	Down in resistant cell line subset	MEK	expression
+DUSP6	1848	No	CrossTumor	208891_at; 208892_s_at; 208893_s_at	Down in resistant cell line subset	MEK	interaction and transcriptome
+PHLDA1	22822	No	CrossTumor	217997_at; 225842_at; 218000_s_at; 217999_s_at; 217996_at	Down in resistant cell line subset	MEK	transcriptome
+S100A6	6277, 400825, 50713	No	CrossTumor	217728_at	Down in resistant cell line subset	MEK	transcriptome
+SERPINB1	1992	No	CrossTumor	228726_at; 213572_s_at; 212268_at	Down in resistant cell line subset	MEK	transcriptome
+SLCO4A1	28231, 51737	No	CrossTumor	219911_s_at	Down in resistant cell line subset	MEK	transcriptome
+FXYD5	53827, 29077	No	CrossTumor	224252_s_at; 218084_x_at	Down in resistant cell line subset	MEK	expression
+CLU	1191	Yes	Both	208791_at; 208792_s_at	Up in resistant cell line subset	CR	interaction and transcriptome
+BASP1	10409	Yes	Both	202391_at	Up in resistant cell line subset	CR	transcriptome
+COL12A1	1303, 1304	Yes	Both	231766_s_at; 225664_at	Up in resistant cell line subset	CR	transcriptome
+CRIM1	51232, 10839	Yes	Both	202551_s_at; 202552_s_at	Up in resistant cell line subset	CR	transcriptome
+GPR176	11245	Yes	Both	227846_at	Up in resistant cell line subset	CR	expression
+STAC	6769	Yes	Both	205743_at	Up in resistant cell line subset	CR	expression
+FZD2	2535	Yes	Melanoma	238129_s_at	Up in resistant cell line subset	CR	transcriptome
+COL5A1	1289	Yes	CrossTumor	212488_at; 203325_s_at; 212489_at	Up in resistant cell line subset	CR	transcriptome
+LOX	4015, 133925	Yes	CrossTumor	215446_s_at	Up in resistant cell line subset	CR	transcriptome
+SERPINE1	5054	No	Melanoma	202627_s_at; 202628_s_at	Up in resistant cell line subset	CR	canonical
+CD274	29126	No	Melanoma	223834_at; 227458_at	Up in resistant cell line subset	CR	transcriptome
+G0S2	50486	No	Melanoma	213524_s_at	Up in resistant cell line subset	CR	transcriptome
+IL6	3569	No	Melanoma	205207_at	Up in resistant cell line subset	CR	transcriptome
+ANXA4	307	Yes	Both	201301_s_at; 201302_at	Down in resistant cell line subset
+BEX1	55859, 30969	Yes	Both	218332_at	Up in resistant cell line subset
+BNIP3	664	Yes	Both	201849_at; 201848_s_at	Down in sensitive cell line subset
+CYR61	3491	Yes	Both	210764_s_at; 201289_at	Down in sensitive cell line subset
+ERBB3	2065, 619500	Yes	Both	202454_s_at; 226213_at	Down in resistant cell line subset
+FAM89A	375061	Yes	Both	226448_at	Down in resistant cell line subset
+HEG1	57493	Yes	Both	212822_at; 213069_at	Up in resistant cell line subset
+SLIT2	9353	Yes	Both	209897_s_at; 228850_s_at	Up in resistant cell line subset
+STCH	6782	Yes	Both	202557_at; 202558_s_at	Up in resistant cell line subset
+AMOTL2	51421, 23156, 154816	Yes	Melanoma	203002_at	Down in sensitive cell line subset
+ARHGAP29	9411	Yes	Melanoma	203910_at	Down in sensitive cell line subset
+BACE2	25825, 23599	Yes	Melanoma	217867_x_at; 222446_s_at	Down in resistant cell line subset
+BIN3	55909, 53636	Yes	Melanoma	222199_s_at	Down in resistant cell line subset
+BTN2A1	11120	Yes	Melanoma	203944_x_at; 211256_x_at; 215493_x_at	Down in sensitive cell line subset
+C17orf80	55028	Yes	Melanoma	223351_at	Down in sensitive cell line subset
+CRYL1	51084	Yes	Melanoma	220753_s_at	Up in sensitive cell line subset
+CSNK1D	1453	Yes	Melanoma	208774_at	Down in sensitive cell line subset
+CUL4B	8450, 114050	Yes	Melanoma	202213_s_at; 202214_s_at; 210257_x_at	Down in sensitive cell line subset
+DERA	51071	Yes	Melanoma	218102_at	Down in resistant cell line subset
+KCNMA1	3778, 142955, 142954	Yes	Melanoma	221584_s_at	Down in sensitive cell line subset
+LARP6	55323	Yes	Melanoma	218651_s_at	Down in sensitive cell line subset
+LEF1	51176, 3951	Yes	Melanoma	221558_s_at	Down in resistant cell line subset
+MBNL3	55796	Yes	Melanoma	229498_at	Down in resistant cell line subset
+MIPEP	4285	Yes	Melanoma	204305_at; 36830_at	Up in sensitive cell line subset
+MYLK	4638, 50483, 255263	Yes	Melanoma	224823_at	Down in sensitive cell line subset
+NHSL1	57224, 254076	Yes	Melanoma	226490_at	Down in resistant cell line subset
+NRP1	8829	Yes	Melanoma	212298_at; 210510_s_at	Up in resistant cell line subset
+PHF13	148479	Yes	Melanoma	225005_at	Down in sensitive cell line subset
+RPRC1	55700	Yes	Melanoma	217943_s_at	Down in sensitive cell line subset
+TCF4	6925	Yes	Melanoma	203753_at; 222146_s_at	Up in resistant cell line subset
+TFE3	7030, 8244	Yes	Melanoma	206649_s_at; 212457_at	Up in resistant cell line subset
+TRAM2	9697	Yes	Melanoma	202368_s_at; 202369_s_at; 1554383_a_at	Down in sensitive cell line subset
+TRIM2	23321	Yes	Melanoma	202341_s_at; 202342_s_at; 215945_s_at	Down in resistant cell line subset
+TSC22D2	9819	Yes	Melanoma	204094_s_at	Up in resistant cell line subset
+VPS36	51028	Yes	Melanoma	222478_at	Down in resistant cell line subset
+ZNF639	51193	Yes	Melanoma	222623_s_at	Down in sensitive cell line subset
+ZRANB1	54764	Yes	Melanoma	225131_at; 225138_at	Up in resistant cell line subset
+CITED2	10370	Yes	CrossTumor	207980_s_at; 209357_at	Down in sensitive cell line subset
+ETFA	2108	Yes	CrossTumor	201931_at	Down in resistant cell line subset
+FGFR1	2260, 51033, 84151, 3731	Yes	CrossTumor	211535_s_at	Up in resistant cell line subset
+GDF15	9518	Yes	CrossTumor	221577_x_at	Down in resistant cell line subset
+INA	9118, 84813, 4743	Yes	CrossTumor	204465_s_at	Up in resistant cell line subset
+KIF1B	23095, 1249, 57598	Yes	CrossTumor	226968_at; 225878_at	Up in resistant cell line subset
+LTBP1	4052	Yes	CrossTumor	202729_s_at	Down in sensitive cell line subset
+NCK1	4690	Yes	CrossTumor	211063_s_at	Down in sensitive cell line subset
+SMARCA3	6596	Yes	CrossTumor	202983_at	Down in sensitive cell line subset
+STAT6	6778	Yes	CrossTumor	201331_s_at	Down in resistant cell line subset
+TMEM87A	25963	Yes	CrossTumor	212204_at	Up in sensitive cell line subset
+TUBB6	84617	Yes	CrossTumor	209191_at	Down in sensitive cell line subset
+ARPC1B	10095, 653888	No	Melanoma	201954_at	Up in sensitive cell line subset
+CDK5R1	8851	No	Melanoma	204995_at	Down in resistant cell line subset
+CEBPG	1054	No	Melanoma	204203_at	Up in resistant cell line subset
+COPG2	26958, 80038	No	Melanoma	223457_at	Up in sensitive cell line subset
+CXCL2	2920	No	Melanoma	209774_x_at	Up in resistant cell line subset
+DAAM1	23002	No	Melanoma	216060_s_at; 226666_at	Down in resistant cell line subset
+DKK1	22943	No	Melanoma	204602_at	Down in sensitive cell line subset
+DNMBP	23268	No	Melanoma	212838_at	Up in resistant cell line subset
+DUSP5	1847	No	Melanoma	209457_at	Up in resistant cell line subset
+EDNRB	1910, 3282	No	Melanoma	204271_s_at; 204273_at; 206701_x_at	Down in resistant cell line subset
+FOSL2	2355, 79579	No	Melanoma	218881_s_at; 225262_at; 228188_at; 218880_at	Down in sensitive cell line subset
+GALNT11	63917	No	Melanoma	219013_at	Down in resistant cell line subset
+GPNMB	10457	No	Melanoma	1554018_at; 201141_at	Down in resistant cell line subset
+GREM1	26585, 29784	No	Melanoma	218468_s_at; 218469_at	Up in resistant cell line subset
+HDDC2	51020	No	Melanoma	203259_s_at	Down in resistant cell line subset
+HMCN1	83872, 404	No	Melanoma	235944_at	Down in resistant cell line subset
+IL1B	3553	No	Melanoma	39402_at; 205067_at	Up in resistant cell line subset
+IL6R	3570	No	Melanoma	205945_at; 226333_at	Up in sensitive cell line subset
+IRAK2	3656	No	Melanoma	231779_at	Up in resistant cell line subset
+LONRF1	91694	No	Melanoma	226038_at	Down in resistant cell line subset
+MAP2K1	5604	No	Melanoma	202670_at	Up in resistant cell line subset
+MAP3K14	9020	No	Melanoma	205192_at	Up in resistant cell line subset
+MAPK8	5599, 50656	No	Melanoma	226046_at; 226048_at	Down in sensitive cell line subset
+MTR	4548, 149448	No	Melanoma	203774_at	Up in sensitive cell line subset
+NGFRAP1L1	340542	No	Melanoma	229963_at	Up in resistant cell line subset
+PHLDB2	90102, 257068	No	Melanoma	225688_s_at	Down in sensitive cell line subset
+PIK3C2B	5287, 730254	No	Melanoma	204484_at	Up in sensitive cell line subset
+PIM1	5292	No	Melanoma	209193_at	Down in sensitive cell line subset
+PLAUR	5329	No	Melanoma	214866_at; 210845_s_at; 211924_s_at	Down in sensitive cell line subset
+RAB21	23011	No	Melanoma	203885_at	Down in sensitive cell line subset
+RASSF3	283349, 64500	No	Melanoma	227167_s_at	Down in resistant cell line subset
+RIPK5	25778	No	Melanoma	211515_s_at; 214663_at; 229017_s_at	Up in sensitive cell line subset
+RRAGD	58528	No	Melanoma	221524_s_at; 221523_s_at	Down in resistant cell line subset
+SETDB2	83852	No	Melanoma	235338_s_at	Up in sensitive cell line subset
+SLC10A3	8273	No	Melanoma	204928_s_at	Down in sensitive cell line subset
+SLC7A8	23428	No	Melanoma	202752_x_at; 216092_s_at	Up in sensitive cell line subset
+SOX9	6662	No	Melanoma	202935_s_at; 202936_s_at	Up in resistant cell line subset
+STXBP1	6812	No	Melanoma	202260_s_at	Up in sensitive cell line subset
+TRIM8	81603	No	Melanoma	221012_s_at; 223132_s_at	Down in sensitive cell line subset
+TRIO	7204, 100131749	No	Melanoma	208178_x_at; 209011_at	Down in sensitive cell line subset
+TUBB3|MC1R	10381, 4157	No	Melanoma	205458_at	Up in sensitive cell line subset
+TYR	7299	No	Melanoma	206630_at; 1555505_a_at	Down in resistant cell line subset
+VEGF	7422	No	Melanoma	210512_s_at; 210513_s_at; 211527_x_at; 212171_x_at	Up in resistant cell line subset
+VIL2	7430, 51553	No	Melanoma	217234_s_at; 208621_s_at; 208622_s_at; 208623_s_at	Down in sensitive cell line subset
+WDR51B	83752, 282809	No	Melanoma	223098_s_at; 223099_s_at	Up in sensitive cell line subset
+ZNF606	80095, 64331	No	Melanoma	219635_at	Up in resistant cell line subset
+ZNFX1	57169, 55792	No	Melanoma	225076_s_at	Up in resistant cell line subset
+ABCB1	5243	No	CrossTumor	209993_at	Up in resistant cell line subset
+ABCF1	23	No	CrossTumor	200045_at	Up in resistant cell line subset
+ABCG2	9429	No	CrossTumor	209735_at	Up in resistant cell line subset
+ABHD2	11057, 654057, 653254	No	CrossTumor	63825_at; 225337_at; 205566_at	Up in resistant cell line subset
+AGR2	10551	No	CrossTumor	228969_at	Up in sensitive cell line subset
+ANKRD22	118932	No	CrossTumor	239196_at	Up in sensitive cell line subset
+ARHGAP12	94134, 55767	No	CrossTumor	207606_s_at	Down in resistant cell line subset
+ARHGEF1	9138, 729151, 732027	No	CrossTumor	203055_s_at	Down in resistant cell line subset
+CBX1	10951	No	CrossTumor	201518_at	Down in sensitive cell line subset
+CDKN2C	1031, 653587, 654235	No	CrossTumor	204159_at	Up in resistant cell line subset
+CEACAM5	1048	No	CrossTumor	201884_at	Up in sensitive cell line subset
+CENTA1	90639, 11033	No	CrossTumor	219150_s_at; 90265_at	Up in sensitive cell line subset
+CFTR	1080	No	CrossTumor	205043_at	Up in sensitive cell line subset
+CSK	1445	No	CrossTumor	202329_at	Down in resistant cell line subset
+EPS8L3	79574	No	CrossTumor	219404_at	Up in sensitive cell line subset
+FBN2	2201, 877	No	CrossTumor	203184_at	Up in resistant cell line subset
+FHL1	2273	No	CrossTumor	214505_s_at; 210298_x_at; 201540_at	Up in resistant cell line subset
+FOXA2	3170	No	CrossTumor	210103_s_at; 40284_at	Up in sensitive cell line subset
+FUT3	2525	No	CrossTumor	214088_s_at	Up in sensitive cell line subset
+GAMT	2593	No	CrossTumor	1552474_a_at	Down in sensitive cell line subset
+GCNT3	9245	No	CrossTumor	219508_at	Up in sensitive cell line subset
+GPX2	2877	No	CrossTumor	202831_at	Up in sensitive cell line subset
+INPP1	3628	No	CrossTumor	202794_at	Down in resistant cell line subset
+ITPR3	3710	No	CrossTumor	201189_s_at	Down in resistant cell line subset
+KCNAB2	8514	No	CrossTumor	203402_at	Up in sensitive cell line subset
+KLK11	11012	No	CrossTumor	205470_s_at	Up in sensitive cell line subset
+LFNG	3955	No	CrossTumor	228762_at	Up in sensitive cell line subset
+LGALS3BP	3959	No	CrossTumor	200923_at	Down in resistant cell line subset
+LGALS4	3960	No	CrossTumor	204272_at	Up in sensitive cell line subset
+LONRF3	79836	No	CrossTumor	242931_at	Down in resistant cell line subset
+LYZ	4069	No	CrossTumor	213975_s_at	Up in sensitive cell line subset
+MAP3K2	10746	No	CrossTumor	226979_at	Down in sensitive cell line subset
+MAPK13	5603	No	CrossTumor	210059_s_at; 210058_at	Down in resistant cell line subset
+MUC13	56667, 54804, 65118	No	CrossTumor	218687_s_at; 222712_s_at	Up in sensitive cell line subset
+NALP2	55655	No	CrossTumor	221690_s_at	Up in resistant cell line subset
+PARP12	64761	No	CrossTumor	218543_s_at	Down in resistant cell line subset
+PEA15	8682	No	CrossTumor	200788_s_at; 200787_s_at	Down in sensitive cell line subset
+PKIG	11142	No	CrossTumor	202732_at	Down in sensitive cell line subset
+PPAP2C	8612	No	CrossTumor	209529_at	Down in resistant cell line subset
+PPP1R1B	84152, 5503	No	CrossTumor	225165_at	Up in sensitive cell line subset
+RAB6IP1	23258	No	CrossTumor	212561_at	Down in sensitive cell line subset
+RDX	5962, 23716	No	CrossTumor	212398_at; 212397_at	Down in sensitive cell line subset
+SLC38A5	92745	No	CrossTumor	234973_at	Up in sensitive cell line subset
+SLC7A1	6541, 2084	No	CrossTumor	212290_at; 212295_s_at	Up in sensitive cell line subset
+SNTB1	6641	No	CrossTumor	226438_at	Up in sensitive cell line subset
+SP100	6672	No	CrossTumor	202864_s_at	Down in resistant cell line subset
+SPRY4	81848	No	CrossTumor	221489_s_at	Down in resistant cell line subset
+TFF3	7033	No	CrossTumor	204623_at	Up in sensitive cell line subset
+TNRC9	27324	No	CrossTumor	216623_x_at; 214774_x_at	Up in sensitive cell line subset
+TRIB1	10221, 80272	No	CrossTumor	202241_at	Down in resistant cell line subset
+TUBA1	7846, 10377, 95407	No	CrossTumor	209118_s_at	Down in sensitive cell line subset
+TXNDC4	23071	No	CrossTumor	208959_s_at	Down in resistant cell line subset
+VRK3	51231	No	CrossTumor	218022_at	Down in resistant cell line subset
+ZMYM4	9202	No	CrossTumor	202049_s_at	Up in resistant cell line subset

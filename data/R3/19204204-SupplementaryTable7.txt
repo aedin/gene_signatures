@@ -1,0 +1,307 @@
+probe	UGCluster	EntrezGene.ID	NAME	LumB	LumA	Normal	Basal	Her2
+AGI_HUM1_OLIGO_A_23_P52761	Hs.2256	4316	matrix metalloproteinase 7 (matrilysin, uterine)	-0.729	-0.812	0.538	2.23	-0.402
+AGI_HUM1_OLIGO_A_23_P117882	Hs.346950	NA	cellular retinoic acid binding protein 1	0.006	-0.191	0.298	1.363	0.594
+AGI_HUM1_OLIGO_A_23_P252832	Hs.256697	NA	histidine triad nucleotide binding protein 1	0.091	0.01	-0.101	-0.171	0.012
+AGI_HUM1_OLIGO_A_23_P157371	Hs.434053	NA	family with sequence similarity 3, member C	-0.232	-0.251	-0.026	0.317	-0.039
+AGI_HUM1_OLIGO_A_23_P146220	Hs.194726	9530	BCL2-associated athanogene 4	0.643	0.149	0.337	-0.178	-0.329
+AGI_HUM1_OLIGO_A_23_P113221	Hs.74624	5799	protein tyrosine phosphatase, receptor type, N polypeptide 2	1.053	0.232	0.372	-0.113	-0.314
+AGI_HUM1_OLIGO_A_23_P118815	Hs.1578	NA	baculoviral IAP repeat-containing 5 (survivin)	0.646	-0.564	-0.797	0.677	0.103
+AGI_HUM1_OLIGO_A_23_P166360	Hs.30743	23532	preferentially expressed antigen in melanoma	1.192	-0.246	0.161	1.741	0.371
+AGI_HUM1_OLIGO_A_23_P73801	Hs.95243	9338	transcription elongation factor A (SII)-like 1	0.429	0.41	0.269	-0.629	-0.031
+AGI_HUM1_OLIGO_A_23_P18684	Hs.86368	1047	calmegin	0.116	0.548	-0.219	-0.523	-0.177
+AGI_HUM1_OLIGO_A_23_P83438	Hs.369120	65264	hypothetical protein FLJ13855	0.014	-0.021	-0.209	-0.103	0.269
+AGI_HUM1_OLIGO_A_23_P25121	Hs.438695	NA	FK506 binding protein 11, 19 kDa	-0.064	-0.051	0.055	-0.023	0.029
+AGI_HUM1_OLIGO_A_23_P12572	Hs.9216	840	caspase 7, apoptosis-related cysteine protease	-0.041	0.068	0.361	-0.156	-0.038
+AGI_HUM1_OLIGO_A_23_P112159	Hs.449415	27161	eukaryotic translation initiation factor 2C, 2	0.072	-0.383	-0.145	0.379	0.025
+AGI_HUM1_OLIGO_A_23_P200404	Hs.294008	204	adenylate kinase 2	-0.036	-0.058	0.155	0.239	-0.232
+AGI_HUM1_OLIGO_A_23_P86959	Hs.289107	329	baculoviral IAP repeat-containing 2	-0.449	0.042	0.046	0.078	-0.256
+AGI_HUM1_OLIGO_A_23_P204406	Hs.76272	5927	retinoblastoma binding protein 2	-0.096	-0.026	0.165	0.06	-0.063
+AGI_HUM1_OLIGO_A_23_P110253	Hs.81665	3815	v-kit Hardy-Zuckerman 4 feline sarcoma viral oncogene homolog	-0.706	0.028	2.209	0.974	-0.103
+AGI_HUM1_OLIGO_A_23_P7732	Hs.128073	1070	centrin, EF-hand protein, 3 (CDC31 homolog, yeast)	0.206	0.198	-0.074	-0.432	-0.226
+AGI_HUM1_OLIGO_A_23_P169137	Hs.11342	4814	ninjurin 1	-0.026	0.195	-0.151	-0.501	-0.155
+AGI_HUM1_OLIGO_A_23_P101494	Hs.127826	NA	erythropoietin receptor	-0.012	0.263	0.165	-0.191	-0.353
+AGI_HUM1_OLIGO_A_23_P50096	Hs.87491	7298	thymidylate synthetase	0.017	-0.198	-0.486	0.112	-0.161
+AGI_HUM1_OLIGO_A_23_P134176	Hs.384944	NA	superoxide dismutase 2, mitochondrial	-0.337	-0.613	0.013	1.038	-0.262
+AGI_HUM1_OLIGO_A_23_P122304	Hs.3352	3066	histone deacetylase 2	-0.224	-0.426	-0.294	0.531	0.04
+AGI_HUM1_OLIGO_A_23_P390504	Hs.348883	2296	forkhead box C1	-0.26	-0.263	0.82	1.857	-0.289
+AGI_HUM1_OLIGO_A_23_P124200	Hs.397465	2899	homeodomain interacting protein kinase 2	-0.178	0.21	0.283	-0.085	-0.198
+AGI_HUM1_OLIGO_A_23_P1691	Hs.83169	4312	matrix metalloproteinase 1 (interstitial collagenase)	-0.143	-0.467	-0.678	1.063	0.533
+AGI_HUM1_OLIGO_A_23_P12874	Hs.215766	2356	GTP binding protein 4	-0.059	-0.354	-0.316	0.612	-0.118
+AGI_HUM1_OLIGO_A_23_P200989	Hs.75216	NA	protein tyrosine phosphatase, receptor type, F	-0.299	0.101	-0.157	0.009	0.018
+AGI_HUM1_OLIGO_A_23_P72737	Hs.458414	8519	interferon induced transmembrane protein 1 (9-27)	0.194	-0.009	-0.104	-0.084	0.025
+AGI_HUM1_OLIGO_A_23_P10182	Hs.9795	8309	acyl-Coenzyme A oxidase 2, branched chain	0.763	0.573	0.652	-0.207	-0.234
+AGI_HUM1_OLIGO_A_23_P309739	Hs.1657	NA	estrogen receptor 1	1.324	1.687	-0.214	-2.52	-1.385
+AGI_HUM1_OLIGO_A_23_P20193	Hs.433506	1009	actin related protein 2/3 complex, subunit 1B, 41kDa	-0.026	-0.153	0.059	0.362	-0.116
+AGI_HUM1_OLIGO_A_23_P129204	Hs.5337	3418	isocitrate dehydrogenase 2 (NADP+), mitochondrial	-0.077	-0.358	-0.034	0.128	0.019
+AGI_HUM1_OLIGO_A_23_P161439	Hs.511763	10974	adipose specific 2	0.341	0.307	0.976	-1.11	-0.038
+AGI_HUM1_OLIGO_A_23_P137525	Hs.75093	535	procollagen-lysine, 2-oxoglutarate 5-dioxygenase (lysine hydroxylase, Ehlers-Danlos syndrome type VI)	-0.08	-0.164	0.11	0.32	-0.145
+AGI_HUM1_OLIGO_A_23_P12343	Hs.2006	2947	glutathione S-transferase M3 (brain)	0.221	0.515	0.65	-0.768	0.168
+AGI_HUM1_OLIGO_A_23_P89941	Hs.435051	1032	cyclin-dependent kinase inhibitor 2D (p19, inhibits CDK4)	0.05	-0.297	-0.326	0.158	-0.2
+AGI_HUM1_OLIGO_A_23_P54663	Hs.282975	8824	carboxylesterase 2 (intestine, liver)	0.092	-0.029	0.168	-0.185	-0.014
+AGI_HUM1_OLIGO_A_23_P117494	Hs.435974	4522	methylenetetrahydrofolate dehydrogenase (NADP+ dependent), methenyltetrahydrofolate cyclohydrolase, formyltetrahydrofolate synthetase	-0.021	-0.273	0.126	-0.022	0.021
+AGI_HUM1_OLIGO_A_23_P105553	Hs.17483	920	CD4 antigen (p55)	-0.215	-0.004	-0.131	0.023	-0.08
+AGI_HUM1_OLIGO_A_23_P52058	Hs.151518	6894	TAR (HIV) RNA binding protein 1	-0.138	0.243	-0.491	0.209	-0.72
+AGI_HUM1_OLIGO_A_23_P138507	Hs.334562	983	cell division cycle 2, G1 to S and G2 to M	0.265	-0.964	-1.621	0.715	0.344
+AGI_HUM1_OLIGO_A_23_P50081	Hs.5753	3613	inositol(myo)-1(or 4)-monophosphatase 2	-0.135	-0.652	-0.532	0.77	-0.218
+AGI_HUM1_OLIGO_A_23_P8452	Hs.159142	3955	lunatic fringe homolog (Drosophila)	-0.023	0.104	0.534	-0.39	0.14
+AGI_HUM1_OLIGO_A_23_P200222	Hs.410784	NA	low density lipoprotein receptor-related protein 8, apolipoprotein e receptor	0.248	-0.768	-1.036	0.534	0.218
+AGI_HUM1_OLIGO_A_23_P53176	Hs.73769	NA	folate receptor 1 (adult)	-0.195	-0.172	1.031	0.507	-0.269
+AGI_HUM1_OLIGO_A_23_P150035	Hs.412842	NA	chromosome 10 open reading frame 7	-0.144	-0.267	-0.337	0.374	0.164
+AGI_HUM1_OLIGO_A_23_P167328	Hs.174944	NA	CD38 antigen (p45)	-0.298	-0.443	0.059	0.214	0.09
+AGI_HUM1_OLIGO_A_23_P81121	Hs.91728	5393	polymyositis/scleroderma autoantigen 1, 75kDa	0.079	-0.395	-0.257	0.268	0.02
+AGI_HUM1_OLIGO_A_23_P59426	Hs.443881	2297	PAX transcription activation domain interacting protein 1 like	0.012	0.238	-0.198	-0.15	-0.439
+AGI_HUM1_OLIGO_A_23_P19219	Hs.292316	25842	ASF1 anti-silencing function 1 homolog A (S. cerevisiae)	-0.429	0.631	-0.078	-0.33	-0.318
+AGI_HUM1_OLIGO_A_23_P130824	Hs.369279	55655	NACHT, LRR and PYD containing protein 2	0.687	-0.377	0.502	0.494	0.026
+AGI_HUM1_OLIGO_A_23_P139575	Hs.132977	NA	DKFZp564J157 protein	0.087	0.137	0.249	-0.362	-0.122
+AGI_HUM1_OLIGO_A_23_P11543	Hs.576	NA	fucosidase, alpha-L- 1, tissue	-0.334	0.524	0.357	-0.538	-0.357
+AGI_HUM1_OLIGO_A_23_P156687	Hs.69771	629	B-factor, properdin	0.164	0.707	-1.169	-0.348	-0.848
+AGI_HUM1_OLIGO_A_23_P202978	Hs.2490	NA	caspase 1, apoptosis-related cysteine protease (interleukin 1, beta, convertase)	-0.66	-0.252	0.265	0.396	0.107
+AGI_HUM1_OLIGO_A_23_P253524	Hs.75573	1062	centromere protein E, 312kDa	0.019	-0.338	-0.557	0.17	0.038
+AGI_HUM1_OLIGO_A_23_P143657	Hs.8128	2376	phosphatidylserine decarboxylase	0.265	0.099	0.448	-0.224	-0.096
+AGI_HUM1_OLIGO_A_23_P112784	Hs.6111	9915	aryl-hydrocarbon receptor nuclear translocator 2	0.11	0.466	-0.49	-0.271	-0.621
+AGI_HUM1_OLIGO_A_23_P14432	Hs.118722	NA	fucosyltransferase 8 (alpha (1,6) fucosyltransferase)	0.152	0.404	0.07	-0.588	0.004
+AGI_HUM1_OLIGO_A_23_P71727	Hs.83758	1164	CDC28 protein kinase regulatory subunit 2	0.135	-0.409	-0.89	0.368	0.096
+AGI_HUM1_OLIGO_A_23_P153745	Hs.14623	NA	interferon, gamma-inducible protein 30	-0.06	-0.255	-0.956	0.187	0.121
+AGI_HUM1_OLIGO_A_23_P257296	Hs.82961	7033	trefoil factor 3 (intestinal)	1.11	1.069	0.171	-3.035	0.902
+AGI_HUM1_OLIGO_A_23_P10121	Hs.7306	6422	secreted frizzled-related protein 1	-0.505	-0.014	1.103	0.624	-0.328
+AGI_HUM1_OLIGO_A_23_P118543	Hs.187416	1213	clathrin, heavy polypeptide (Hc)	0.102	-0.229	0.025	-0.146	0.518
+AGI_HUM1_OLIGO_A_23_P160148	Hs.76057	NA	galactose-4-epimerase, UDP-	-0.109	-0.032	-0.029	-0.196	-0.186
+AGI_HUM1_OLIGO_A_23_P42664	Hs.333495	7979	split hand/foot malformation (ectrodactyly) type 1	-0.059	-0.205	-0.267	0.192	-0.149
+AGI_HUM1_OLIGO_A_23_P7873	Hs.179565	4172	MCM3 minichromosome maintenance deficient 3 (S. cerevisiae)	-0.084	-0.18	-0.382	0.425	-0.005
+AGI_HUM1_OLIGO_A_23_P50167	Hs.79136	25800	solute carrier family 39 (metal ion transporter), member 6	1.945	2.189	-0.224	-1.828	-0.93
+AGI_HUM1_OLIGO_A_23_P19543	Hs.369358	673	SFRS protein kinase 1	-0.151	-0.355	-0.442	0.614	0.046
+AGI_HUM1_OLIGO_A_23_P143184	Hs.179718	4605	v-myb myeloblastosis viral oncogene homolog (avian)-like 2	0.096	-1.031	-0.839	0.591	0.3
+AGI_HUM1_OLIGO_A_23_P147431	Hs.80887	4067	v-yes-1 Yamaguchi sarcoma viral related oncogene homolog	-0.285	-0.384	0.492	0.553	-0.154
+AGI_HUM1_OLIGO_A_23_P48669	Hs.84113	1033	cyclin-dependent kinase inhibitor 3 (CDK2-associated dual specificity phosphatase)	0.185	-0.723	-0.832	0.316	0.065
+AGI_HUM1_OLIGO_A_23_P43095	Hs.458973	7977	zinc finger homeodomain 4	-0.191	0.203	0.46	-0.235	-0.169
+AGI_HUM1_OLIGO_A_23_P17392	Hs.90073	1434	CSE1 chromosome segregation 1-like (yeast)	0.028	-0.224	-0.279	0.061	0.024
+AGI_HUM1_OLIGO_A_23_P213237	Hs.512793	848	hypothetical protein FLJ14431	0.011	0.185	-0.233	-0.416	0.09
+AGI_HUM1_OLIGO_A_23_P206680	Hs.315485	NA	Nedd-4-like ubiquitin-protein ligase	-0.149	-0.087	0.343	-0.011	-0.055
+AGI_HUM1_OLIGO_A_23_P64129	Hs.90753	1055	HIV-1 Tat interactive protein 2, 30kDa	0.074	-0.19	-0.402	0.333	-0.064
+AGI_HUM1_OLIGO_A_23_P92441	Hs.79078	NA	MAD2 mitotic arrest deficient-like 1 (yeast)	0.4	-0.716	-0.999	0.408	0.251
+AGI_HUM1_OLIGO_A_23_P44139	Hs.440603	NA	primase, polypeptide 2A, 58kDa	0.214	-0.222	-0.216	0.319	-0.082
+AGI_HUM1_OLIGO_A_23_P85604	Hs.406339	8023	WD repeat domain 26	-0.341	0.078	-0.152	-0.283	0.04
+AGI_HUM1_OLIGO_A_23_P75056	Hs.169946	2625	GATA binding protein 3	0.358	1.408	-0.505	-2.976	-1.032
+AGI_HUM1_OLIGO_A_23_P26843	Hs.2316	NA	SRY (sex determining region Y)-box 9 (campomelic dysplasia, autosomal sex-reversal)	-0.698	0.064	0.048	0.416	-0.289
+AGI_HUM1_OLIGO_A_23_P66682	Hs.98428	NA	homeo box B6	-0.029	0.485	-0.057	-0.068	-0.018
+AGI_HUM1_OLIGO_A_23_P169117	Hs.432330	10670	Ras-related GTP binding A	-0.133	0.122	0.095	-0.364	-0.147
+AGI_HUM1_OLIGO_A_23_P89249	Hs.446352	2064	v-erb-b2 erythroblastic leukemia viral oncogene homolog 2, neuro/glioblastoma derived oncogene homolog (avian)	0.115	-0.206	0.553	0.271	4.092
+AGI_HUM1_OLIGO_A_23_P159390	Hs.91417	NA	topoisomerase (DNA) II binding protein	-0.049	-0.086	-0.612	0.218	-0.413
+AGI_HUM1_OLIGO_A_23_P152516	Hs.180877	3021	H3 histone, family 3B (H3.3B)	0.134	-0.139	-0.049	-0.004	-0.006
+AGI_HUM1_OLIGO_A_23_P140301	Hs.246240	5684	proteasome (prosome, macropain) subunit, alpha type, 3	-0.174	-0.08	-0.169	-0.215	0.049
+AGI_HUM1_OLIGO_A_23_P59375	Hs.391392	3400	inhibitor of DNA binding 4, dominant negative helix-loop-helix protein	-0.651	-0.054	0.99	0.734	-0.199
+AGI_HUM1_OLIGO_A_23_P1021	Hs.389137	4237	microfibrillar-associated protein 2	-0.487	0.028	0.407	0.043	-0.273
+AGI_HUM1_OLIGO_A_23_P49928	Hs.433871	3860	keratin 13	0.172	-0.119	1.482	0.31	0.122
+AGI_HUM1_OLIGO_A_23_P86917	Hs.86131	8772	Fas (TNFRSF6)-associated via death domain	0.424	-0.044	-0.103	-0.083	0.291
+AGI_HUM1_OLIGO_A_23_P137196	Hs.285115	3597	interleukin 13 receptor, alpha 1	-0.185	0.275	0.29	-0.436	0.063
+AGI_HUM1_OLIGO_A_23_P57306	Hs.75238	820	chromatin assembly factor 1, subunit B (p60)	0.143	-0.383	-0.554	0.489	-0.065
+AGI_HUM1_OLIGO_A_23_P52031	Hs.1869	NA	phosphoglucomutase 1	-0.183	-0.16	0.274	0.331	-0.112
+AGI_HUM1_OLIGO_A_23_P71148	Hs.435726	NA	biliverdin reductase A	0.291	0.233	-0.231	-0.665	0.186
+AGI_HUM1_OLIGO_A_23_P19938	Hs.446645	1101	KDEL (Lys-Asp-Glu-Leu) endoplasmic reticulum protein retention receptor 2	-0.199	-0.076	-0.176	-0.023	0.01
+AGI_HUM1_OLIGO_A_23_P206359	Hs.194657	999	cadherin 1, type 1, E-cadherin (epithelial)	0.139	-0.181	-0.665	-0.26	0.467
+AGI_HUM1_OLIGO_A_23_P3221	Hs.435468	58472	sulfide quinone reductase-like (yeast)	-0.417	0.249	-0.325	-0.431	0.193
+AGI_HUM1_OLIGO_A_23_P60296	Hs.47011	26578	osteoclast stimulating factor 1	-0.059	-0.091	-0.052	-0.06	0.106
+AGI_HUM1_OLIGO_A_23_P85903	Hs.114408	7100	toll-like receptor 5	-0.204	0.125	-0.148	0.035	-0.324
+AGI_HUM1_OLIGO_A_23_P129064	Hs.75335	NA	glycine amidinotransferase (L-arginine:glycine amidinotransferase)	-0.215	0.631	0.392	-0.329	0.143
+AGI_HUM1_OLIGO_A_23_P259172	Hs.409223	6748	signal sequence receptor, delta (translocon-associated protein delta)	0.125	-0.198	-0.349	0.025	0.056
+AGI_HUM1_OLIGO_A_23_P32404	Hs.105434	3669	interferon stimulated gene 20kDa	-0.091	-0.328	-0.661	0.405	0.686
+AGI_HUM1_OLIGO_A_23_P201400	Hs.376314	5498	protoporphyrinogen oxidase	0	0.209	-0.297	-0.095	-0.122
+AGI_HUM1_OLIGO_A_23_P142698	Hs.169910	9654	KIAA0173 gene product	0.047	-0.308	-0.385	0.565	-0.107
+AGI_HUM1_OLIGO_A_23_P107644	Hs.86948	6632	small nuclear ribonucleoprotein D1 polypeptide 16kDa	0.113	-0.229	-0.241	0.19	-0.087
+AGI_HUM1_OLIGO_A_23_P132956	Hs.76118	7345	ubiquitin carboxyl-terminal esterase L1 (ubiquitin thiolesterase)	-0.079	-0.138	0.379	0.764	0.016
+AGI_HUM1_OLIGO_A_23_P118142	Hs.75249	23204	ADP-ribosylation factor-like 6 interacting protein	0.308	0.05	-0.454	-0.124	-0.007
+AGI_HUM1_OLIGO_A_23_P92410	Hs.141125	836	caspase 3, apoptosis-related cysteine protease	-0.247	-0.028	-0.348	-0.085	0.202
+AGI_HUM1_OLIGO_A_23_P68488	Hs.170195	655	bone morphogenetic protein 7 (osteogenic protein 1)	0.23	-0.278	0.041	0.087	0.303
+AGI_HUM1_OLIGO_A_23_P215051	Hs.437091	55862	uncharacterized hypothalamus protein HCDASE	-0.401	-0.173	0.442	0.368	-0.314
+AGI_HUM1_OLIGO_A_23_P128930	Hs.156171	5706	proteasome (prosome, macropain) 26S subunit, ATPase, 6	-0.014	-0.031	-0.367	-0.229	-0.051
+AGI_HUM1_OLIGO_A_23_P63402	Hs.278338	NA	LGN protein	-0.049	-0.367	-0.607	0.462	-0.196
+AGI_HUM1_OLIGO_A_23_P108200	Hs.27744	5864	RAB3A, member RAS oncogene family	0.06	-0.091	0.113	-0.02	-0.053
+AGI_HUM1_OLIGO_A_23_P108303	Hs.19561	4701	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 7, 14.5kDa	0.377	0.073	-0.277	-0.344	-0.209
+AGI_HUM1_OLIGO_A_23_P145541	Hs.419998	989	Sac domain-containing inositol phosphatase 3	-0.183	0.155	0.247	-0.253	-0.142
+AGI_HUM1_OLIGO_A_23_P18196	Hs.35120	5984	replication factor C (activator 1) 4, 37kDa	-0.014	-0.335	-0.666	0.552	-0.084
+AGI_HUM1_OLIGO_A_23_P32294	Hs.446534	23196	chromosome 9 open reading frame 10	-0.06	0.197	0.089	-0.319	-0.261
+AGI_HUM1_OLIGO_A_23_P104492	Hs.274230	9060	3-phosphoadenosine 5-phosphosulfate synthase 2	-0.137	-0.118	0.501	0.116	0.558
+AGI_HUM1_OLIGO_A_23_P811	Hs.458485	9636	interferon, alpha-inducible protein (clone IFI-15K)	0.905	-0.483	-1.064	0.572	0.885
+AGI_HUM1_OLIGO_A_23_P252335	Hs.49932	NA	chromosome 21 open reading frame 45	0.156	-0.346	-0.748	0.073	0.111
+AGI_HUM1_OLIGO_A_23_P211007	Hs.155017	8204	nuclear receptor interacting protein 1	0.092	0.162	0.333	-0.419	-0.131
+AGI_HUM1_OLIGO_A_23_P141484	Hs.295909	5573	hypothetical protein FLJ10700	0.011	0.065	-0.273	0.151	0.803
+AGI_HUM1_OLIGO_A_23_P19944	Hs.5372	1364	claudin 4	0.12	-0.266	-0.028	0.17	0.21
+AGI_HUM1_OLIGO_A_23_P254944	Hs.268573	NA	glutathione S-transferase theta 1	-0.105	-0.129	-0.155	-0.487	-0.526
+AGI_HUM1_OLIGO_A_23_P35205	Hs.129319	NA	Down syndrome critical region gene 1-like 2	-0.15	-0.021	0.144	0.068	-0.263
+AGI_HUM1_OLIGO_A_23_P250701	Hs.275999	65125	protein kinase, lysine deficient 1	0.029	-0.036	0.005	-0.116	-0.283
+AGI_HUM1_OLIGO_A_23_P158143	Hs.352962	NA	HIV-1 Rev binding protein	0.015	-0.168	-0.164	0.253	0.24
+AGI_HUM1_OLIGO_A_23_P201110	Hs.4113	NA	S-adenosylhomocysteine hydrolase-like 1	-0.171	0.43	0.036	-0.276	-0.234
+AGI_HUM1_OLIGO_A_23_P39814	Hs.89421	NA	CBF1 interacting corepressor	-0.21	0.055	-0.055	-0.057	-0.276
+AGI_HUM1_OLIGO_A_23_P151106	Hs.444499	11331	repressor of estrogen receptor activity	-0.176	-0.013	0.301	0.021	-0.273
+AGI_HUM1_OLIGO_A_23_P28886	Hs.78996	5111	proliferating cell nuclear antigen	0.202	-0.257	-0.754	0.164	-0.163
+AGI_HUM1_OLIGO_A_23_P201083	Hs.286221	375	ADP-ribosylation factor 1	-0.139	-0.019	-0.527	-0.098	-0.178
+AGI_HUM1_OLIGO_A_23_P207507	Hs.90786	8714	ATP-binding cassette, sub-family C (CFTR/MRP), member 3	-0.126	-0.151	0.16	0.056	1.595
+AGI_HUM1_OLIGO_A_23_P92794	Hs.508741	NA	chromosome 5 open reading frame 13	-0.226	0.048	0.193	-0.197	-0.173
+AGI_HUM1_OLIGO_A_23_P147845	Hs.439211	23042	KIAA0251 protein	-0.124	0.041	-0.326	-0.179	-0.232
+AGI_HUM1_OLIGO_A_23_P53630	Hs.487883	NA	ring finger protein 10	0.022	0.014	0.137	-0.208	-0.038
+AGI_HUM1_OLIGO_A_23_P75839	Hs.444556	7251	tumor susceptibility gene 101	0.141	0.137	-0.134	-0.266	-0.228
+AGI_HUM1_OLIGO_A_23_P44724	Hs.10526	1466	cysteine and glycine-rich protein 2	-0.349	-0.257	0.121	0.837	-0.103
+AGI_HUM1_OLIGO_A_23_P130020	Hs.441503	51096	CGI-48 protein	0.251	-0.175	-0.234	-0.043	0.414
+AGI_HUM1_OLIGO_A_23_P202658	Hs.411509	2950	glutathione S-transferase pi	-0.651	-0.267	0.763	0.512	-0.413
+AGI_HUM1_OLIGO_A_23_P108394	Hs.268012	2181	fatty-acid-Coenzyme A ligase, long-chain 3	-0.379	0.21	-0.035	-0.254	0.147
+AGI_HUM1_OLIGO_A_23_P211550	Hs.373992	9978	ring-box 1	-0.114	-0.086	-0.435	0.007	-0.205
+AGI_HUM1_OLIGO_A_23_P211661	Hs.356523	23542	mitogen-activated protein kinase 8 interacting protein 2	0.338	0.095	-0.23	-0.074	-0.028
+AGI_HUM1_OLIGO_A_23_P82499	Hs.137476	NA	paternally expressed 10	0.108	-0.329	0.641	0.279	0.88
+AGI_HUM1_OLIGO_A_23_P211727	Hs.343809	2257	fibroblast growth factor 12	0.099	-0.143	0.492	-0.119	-0.041
+AGI_HUM1_OLIGO_A_23_P210540	Hs.202494	6484	solute carrier family 13 (sodium-dependent dicarboxylate transporter), member 3	-0.225	-0.208	-0.214	0.196	0.342
+AGI_HUM1_OLIGO_A_23_P250462	Hs.6551	537	ATPase, H+ transporting, lysosomal accessory protein 1	0.551	-0.04	-0.199	-0.195	-0.03
+AGI_HUM1_OLIGO_A_23_P200780	Hs.342874	7049	transforming growth factor, beta receptor III (betaglycan, 300kDa)	-0.204	0.273	1.465	0.043	-0.428
+AGI_HUM1_OLIGO_A_23_P31073	Hs.407830	4602	v-myb myeloblastosis viral oncogene homolog (avian)	-0.07	0.754	0.566	-1.189	-0.453
+AGI_HUM1_OLIGO_A_23_P134139	Hs.26770	NA	fatty acid binding protein 7, brain	-0.442	-0.68	0.38	2.367	-0.456
+AGI_HUM1_OLIGO_A_23_P13524	Hs.108338	8423	hypothetical protein DKFZp586C1924	-0.228	0.099	-0.064	-0.103	-0.18
+AGI_HUM1_OLIGO_A_23_P137856	Hs.89603	4582	mucin 1, transmembrane	-0.317	1.2	-0.92	-1.121	-0.147
+AGI_HUM1_OLIGO_A_23_P164235	Hs.80986	516	ATP synthase, H+ transporting, mitochondrial F0 complex, subunit c (subunit 9), isoform 1	0.107	-0.13	-0.377	-0.014	0.147
+AGI_HUM1_OLIGO_A_23_P117852	Hs.81892	9768	KIAA0101 gene product	0.114	-0.499	-0.808	0.256	0.217
+AGI_HUM1_OLIGO_A_23_P40025	Hs.369761	NA	DAZ associated protein 2	-0.03	0.409	0.534	-0.512	-0.014
+AGI_HUM1_OLIGO_A_23_P127220	Hs.260720	565	J domain containing protein 1	0.739	0.896	-0.349	-0.698	-0.279
+AGI_HUM1_OLIGO_A_23_P116202	Hs.334360	56912	hypothetical protein FLJ21827	-0.096	0.58	0.419	-0.442	-0.238
+AGI_HUM1_OLIGO_A_23_P133424	Hs.171626	6500	S-phase kinase-associated protein 1A (p19A)	-0.024	0.256	0.113	-0.312	-0.204
+AGI_HUM1_OLIGO_A_23_P251992	Hs.209846	NA	LPS-responsive vesicle trafficking, beach and anchor containing	0.149	0.676	-0.227	-1.149	-0.071
+AGI_HUM1_OLIGO_A_23_P100653	Hs.35096	57659	KAISO-like zinc finger protein 1	-0.069	0.462	0.628	-0.389	-0.335
+AGI_HUM1_OLIGO_A_23_P89780	Hs.83450	3909	laminin, alpha 3	0.025	0.385	1.077	-0.291	-0.142
+AGI_HUM1_OLIGO_A_23_P152593	Hs.396783	NA	solute carrier family 9 (sodium/hydrogen exchanger), isoform 3 regulatory factor 1	1.241	0.237	-0.315	-0.818	0.475
+AGI_HUM1_OLIGO_A_23_P138072	Hs.156324	5567	protein kinase, cAMP-dependent, catalytic, beta	0.381	0.636	0.28	-0.172	0.108
+AGI_HUM1_OLIGO_A_23_P109185	Hs.89584	3642	insulinoma-associated 1	0.864	0.047	0.035	0.186	-0.116
+AGI_HUM1_OLIGO_A_23_P111452	Hs.249728	11698	centaurin, gamma 3	-0.092	0.012	0.078	-0.039	-0.11
+AGI_HUM1_OLIGO_A_23_P20045	Hs.164682	5189	peroxisome biogenesis factor 1	-0.028	0.068	-0.026	-0.131	-0.176
+AGI_HUM1_OLIGO_A_23_P82176	Hs.357901	6659	SRY (sex determining region Y)-box 4	-0.064	-0.196	0.014	0.206	0.085
+AGI_HUM1_OLIGO_A_23_P99324	Hs.406013	NA	keratin 18	0.468	0.064	-0.167	-0.811	0.265
+AGI_HUM1_OLIGO_A_23_P18392	Hs.496511	5584	protein kinase C, iota	-0.16	0.199	-0.151	0.044	0.002
+AGI_HUM1_OLIGO_A_23_P75523	Hs.278573	NA	CD59 antigen p18-20 (antigen identified by monoclonal antibodies 16.3A5, EJ16, EJ30, EL32 and G344)	-0.567	0.002	0.392	0.167	-0.268
+AGI_HUM1_OLIGO_A_23_P57848	Hs.19236	4711	NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 5, 16kDa	0.025	0.018	-0.156	-0.045	-0.077
+AGI_HUM1_OLIGO_A_23_P71017	Hs.25640	1365	claudin 3	0.641	-0.136	-0.01	0.005	-0.061
+AGI_HUM1_OLIGO_A_23_P202750	Hs.8360	NA	PTD012 protein	-0.144	0.151	0.501	-0.156	-0.046
+AGI_HUM1_OLIGO_A_23_P171249	Hs.3631	3476	immunoglobulin (CD79A) binding protein 1	-0.105	0.114	0.46	-0.389	-0.208
+AGI_HUM1_OLIGO_A_23_P49155	Hs.191842	NA	cadherin 3, type 1, P-cadherin (placental)	-0.775	-0.413	0.864	0.921	0.347
+AGI_HUM1_OLIGO_A_23_P49972	Hs.405958	NA	CDC6 cell division cycle 6 homolog (S. cerevisiae)	0.29	-0.497	-0.783	0.437	0.54
+AGI_HUM1_OLIGO_A_23_P46306	Hs.196769	1104	chromosome condensation 1	0.013	-0.223	-0.142	0.028	0.099
+AGI_HUM1_OLIGO_A_23_P118834	Hs.156346	NA	topoisomerase (DNA) II alpha 170kDa	0.234	-0.827	-0.857	0.358	0.166
+AGI_HUM1_OLIGO_A_23_P122001	Hs.42674	NA	mutS homolog 3 (E. coli)	-0.061	0.106	-0.136	-0.261	-0.239
+AGI_HUM1_OLIGO_A_23_P53856	Hs.131727	1044	hypothetical protein from BCRA2 region	-0.107	0.137	0.316	-0.362	-0.09
+AGI_HUM1_OLIGO_A_23_P163989	Hs.86859	2886	growth factor receptor-bound protein 7	0.115	-0.435	0.044	0.535	3.827
+AGI_HUM1_OLIGO_A_23_P31503	Hs.390667	3731	glutathione S-transferase subunit 13 homolog	-0.189	0.012	0.136	0.01	-0.218
+AGI_HUM1_OLIGO_A_23_P147388	Hs.15711	NA	kinesin family member 13B	0.194	0.496	0.3	-0.369	-0.168
+AGI_HUM1_OLIGO_A_23_P256455	Hs.1608	6119	replication protein A3, 14kDa	0.115	-0.005	-0.495	-0.174	0.092
+AGI_HUM1_OLIGO_A_23_P109143	Hs.438582	5621	prion protein (p27-30) (Creutzfeld-Jakob disease, Gerstmann-Strausler-Scheinker syndrome, fatal familial insomnia)	-0.509	-0.441	0.862	0.677	-0.224
+AGI_HUM1_OLIGO_A_23_P3402	Hs.169919	2108	electron-transfer-flavoprotein, alpha polypeptide (glutaric aciduria II)	-0.567	0.19	0.088	0.192	0.664
+AGI_HUM1_OLIGO_A_23_P12523	Hs.44585	7159	tumor protein p53 binding protein, 2	-0.495	0.036	-0.224	0.339	-0.257
+AGI_HUM1_OLIGO_A_23_P87899	Hs.439530	8798	dual-specificity tyrosine-(Y)-phosphorylation regulated kinase 4	-0.143	-0.046	0.104	0.197	-0.209
+AGI_HUM1_OLIGO_A_23_P134935	Hs.417962	NA	dual specificity phosphatase 4	0.135	0.395	-0.045	-0.486	0.695
+AGI_HUM1_OLIGO_A_23_P201459	Hs.287721	2537	interferon, alpha-inducible protein (clone IFI-6-16)	0.542	-0.799	-0.882	0.314	0.225
+AGI_HUM1_OLIGO_A_23_P139134	Hs.82240	6809	syntaxin 3A	-0.113	-0.024	0.242	-0.095	0.191
+AGI_HUM1_OLIGO_A_23_P51397	Hs.446693	5574	enabled homolog (Drosophila)	-0.138	0.118	-0.166	-0.169	0.054
+AGI_HUM1_OLIGO_A_23_P119943	Hs.433326	3485	insulin-like growth factor binding protein 2, 36kDa	0.537	0.098	-0.046	-0.6	-0.323
+AGI_HUM1_OLIGO_A_23_P137672	Hs.382202	1116	chitinase 3-like 1 (cartilage glycoprotein-39)	-0.415	-0.364	0.867	1.241	0.131
+AGI_HUM1_OLIGO_A_23_P401	Hs.77204	1063	centromere protein F, 350/400ka (mitosin)	0.077	-0.681	-0.994	0.498	0.176
+AGI_HUM1_OLIGO_A_23_P104116	Hs.10283	9939	RNA binding motif protein 8A	0.114	-0.089	-0.073	0.049	-0.008
+AGI_HUM1_OLIGO_A_23_P47226	Hs.446445	10897	Yip1 interacting factor homolog (S. cerevisiae)	0.138	-0.199	-0.055	-0.076	-0.015
+AGI_HUM1_OLIGO_A_23_P27490	Hs.202672	1786	DNA (cytosine-5-)-methyltransferase 1	-0.201	-0.001	-0.127	0.143	0.154
+AGI_HUM1_OLIGO_A_23_P152020	Hs.77793	1445	c-src tyrosine kinase	-0.026	0.106	0.264	0.025	0.034
+AGI_HUM1_OLIGO_A_23_P42800	Hs.93659	9601	protein disulfide isomerase related protein (calcium-binding protein, intestinal-related)	-0.149	0.087	0.333	-0.023	-0.257
+AGI_HUM1_OLIGO_A_23_P161399	Hs.118630	4601	MAX interacting protein 1	-0.441	0.081	0.599	-0.135	-0.276
+AGI_HUM1_OLIGO_A_23_P40309	Hs.280378	6629	small nuclear ribonucleoprotein polypeptide B	0.008	-0.13	-0.261	-0.104	-0.071
+AGI_HUM1_OLIGO_A_23_P56630	Hs.21486	6772	signal transducer and activator of transcription 1, 91kDa	-0.264	-0.205	-0.888	0.269	0.206
+AGI_HUM1_OLIGO_A_23_P137057	Hs.79172	4422	solute carrier family 25 (mitochondrial carrier; adenine nucleotide translocator), member 5	-0.17	-0.32	-0.119	0.047	0.137
+AGI_HUM1_OLIGO_A_23_P49499	Hs.288215	10610	sialyltransferase	0.158	0.43	-0.294	-0.471	0.399
+AGI_HUM1_OLIGO_A_23_P79842	Hs.437388	51604	phosphatidyl inositol glycan class T	0.261	0.246	-0.001	-0.589	-0.397
+AGI_HUM1_OLIGO_A_23_P150807	Hs.12953	8495	PTPRF interacting protein, binding protein 2 (liprin beta 2)	-0.478	0.244	0.364	-0.024	0.063
+AGI_HUM1_OLIGO_A_23_P71241	Hs.9950	2348	Sec61 gamma	0.163	-0.437	-0.24	0.545	0.172
+AGI_HUM1_OLIGO_A_23_P20683	Hs.443866	9933	minor histocompatibility antigen HA-8	-0.272	-0.13	0.012	0.371	-0.323
+AGI_HUM1_OLIGO_A_23_P145904	Hs.301005	94239	histone H2A.F/Z variant	-0.192	0.17	0.24	-0.208	-0.07
+AGI_HUM1_OLIGO_A_23_P112756	Hs.239370	2608	activator of G-protein signaling 3	0.046	-0.027	0.286	0.032	-0.256
+AGI_HUM1_OLIGO_A_23_P138985	Hs.95327	915	CD3D antigen, delta polypeptide (TiT3 complex)	-0.243	-0.252	0.087	0.358	-0.086
+AGI_HUM1_OLIGO_A_23_P50608	Hs.443831	9141	programmed cell death 5	0.004	-0.268	-0.166	0.055	-0.242
+AGI_HUM1_OLIGO_A_23_P124417	Hs.287472	699	BUB1 budding uninhibited by benzimidazoles 1 homolog (yeast)	0.103	-0.677	-0.374	0.605	0.062
+AGI_HUM1_OLIGO_A_23_P42279	Hs.150833	721	complement component 4A	-0.344	1.285	0.663	-1.523	-0.076
+AGI_HUM1_OLIGO_A_23_P32384	Hs.289271	NA	cytochrome c-1	0.319	-0.143	-0.23	-0.02	0.003
+AGI_HUM1_OLIGO_A_23_P254441	Hs.407782	NA	hypothetical protein LOC155060	0.145	0.072	0.326	-0.07	-0.012
+AGI_HUM1_OLIGO_A_23_P70938	Hs.13467	8393	STARD3 N-terminal like	0.019	-0.065	-0.198	-0.064	0.038
+AGI_HUM1_OLIGO_A_23_P128174	Hs.103267	1171	RAB3A interacting protein (rabin3)	0.137	-0.04	-0.117	-0.041	-0.034
+AGI_HUM1_OLIGO_A_23_P7636	Hs.350966	2625	pituitary tumor-transforming 1	0.325	-0.548	-0.85	0.529	0.134
+AGI_HUM1_OLIGO_A_23_P65442	Hs.1706	1037	interferon-stimulated transcription factor 3, gamma 48kDa	0.083	-0.087	-0.772	-0.091	-0.128
+AGI_HUM1_OLIGO_A_23_P18325	Hs.424619	1123	programmed cell death 10	-0.122	-0.093	-0.401	0.161	-0.205
+AGI_HUM1_OLIGO_A_23_P154235	Hs.54483	9111	N-myc (and STAT) interactor	-0.559	-0.146	-0.018	0.462	0.041
+AGI_HUM1_OLIGO_A_23_P211528	Hs.414343	9145	synaptogyrin 1	0.591	-0.178	0.436	-0.165	0.219
+AGI_HUM1_OLIGO_A_23_P48585	Hs.416358	6297	sal-like 2 (Drosophila)	0.023	0.231	0.395	-0.524	-0.116
+AGI_HUM1_OLIGO_A_23_P92842	Hs.279582	5112	GTP-binding protein Sara	0.045	0.208	-0.41	-0.401	0.154
+AGI_HUM1_OLIGO_A_23_P121095	Hs.282346	7155	topoisomerase (DNA) II beta 180kDa	-0.336	0.211	-0.098	-0.181	-0.268
+AGI_HUM1_OLIGO_A_23_P12082	Hs.154138	1117	chitinase 3-like 2	-0.379	0.216	0.037	1.107	-0.414
+AGI_HUM1_OLIGO_A_23_P45917	Hs.374378	NA	CDC28 protein kinase regulatory subunit 1B	0.056	-0.475	-0.611	0.543	0.079
+AGI_HUM1_OLIGO_A_23_P152804	Hs.118638	4830	non-metastatic cells 1, protein (NM23A) expressed in	0.627	-0.291	-0.499	0.184	0.916
+AGI_HUM1_OLIGO_A_23_P259413	Hs.283690	55573	hypothetical protein H41	-0.178	-0.011	0.196	-0.065	-0.161
+AGI_HUM1_OLIGO_A_23_P252118	Hs.180107	5423	polymerase (DNA directed), beta	0.287	-0.022	-0.335	-0.122	-0.166
+AGI_HUM1_OLIGO_A_23_P213458	Hs.446567	689	basic transcription factor 3	0.058	0.772	0.193	-0.71	-0.23
+AGI_HUM1_OLIGO_A_23_P120845	Hs.437638	7494	X-box binding protein 1	0.27	1.178	-0.583	-2.826	-0.046
+AGI_HUM1_OLIGO_A_23_P80098	Hs.82285	2618	phosphoribosylglycinamide formyltransferase, phosphoribosylglycinamide synthetase, phosphoribosylaminoimidazole synthetase	-0.179	-0.156	-0.181	0.295	0.1
+AGI_HUM1_OLIGO_A_23_P251095	Hs.1023	5160	pyruvate dehydrogenase (lipoamide) alpha 1	-0.085	-0.333	-0.007	0.3	-0.187
+AGI_HUM1_OLIGO_A_23_P161446	Hs.56845	NA	GDP dissociation inhibitor 2	-0.295	-0.132	-0.053	0.253	0.065
+AGI_HUM1_OLIGO_A_23_P82950	Hs.348501	5108	pericentriolar material 1	-0.202	0.544	0.141	-0.402	-0.206
+AGI_HUM1_OLIGO_A_23_P202104	Hs.381072	1010	peptidylprolyl isomerase F (cyclophilin F)	-0.202	0.003	0.017	0.103	-0.087
+AGI_HUM1_OLIGO_A_23_P163697	Hs.258326	51760	B/K protein	-0.051	0.314	-0.179	-0.305	0.226
+AGI_HUM1_OLIGO_A_23_P18559	Hs.153687	8821	inositol polyphosphate-4-phosphatase, type II, 105kDa	-0.092	0.405	0.385	-0.662	0.344
+AGI_HUM1_OLIGO_A_23_P139704	Hs.298654	NA	dual specificity phosphatase 6	-0.632	0.049	1.215	-0.105	0.953
+AGI_HUM1_OLIGO_A_23_P141005	Hs.295137	267	autocrine motility factor receptor	0.523	0.133	-0.005	-0.325	0.285
+AGI_HUM1_OLIGO_A_23_P147647	Hs.131380	6444	sarcoglycan, delta (35kDa dystrophin-associated glycoprotein)	-0.143	0.304	0.779	-0.331	-0.15
+AGI_HUM1_OLIGO_A_23_P132718	Hs.82222	7869	sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3B	0.3	0.015	0.057	-0.163	-0.027
+AGI_HUM1_OLIGO_A_23_P29257	Hs.226117	300	H1 histone family, member 0	0.045	0.241	0.128	-0.297	0.303
+AGI_HUM1_OLIGO_A_23_P208049	Hs.173911	NA	zinc finger protein 24 (KOX 17)	0.01	0.325	0.189	-0.211	-0.112
+AGI_HUM1_OLIGO_A_23_P69084	Hs.282557	8434	ceruloplasmin (ferroxidase)	0.106	-0.921	-0.062	2.164	0.043
+AGI_HUM1_OLIGO_A_23_P20384	Hs.425311	NA	LSM1 homolog, U6 small nuclear RNA associated (S. cerevisiae)	1.104	0.015	0.152	0.035	-0.491
+AGI_HUM1_OLIGO_A_23_P138308	Hs.75626	965	CD58 antigen, (lymphocyte function-associated antigen 3)	-0.183	-0.05	-0.135	0.117	-0.088
+AGI_HUM1_OLIGO_A_23_P140817	Hs.112933	50855	par-6 partitioning defective 6 homolog alpha (C.elegans)	0.196	-0.107	-0.245	-0.121	0.288
+AGI_HUM1_OLIGO_A_23_P252371	Hs.437224	5932	retinoblastoma binding protein 8	0.009	0.386	0	-0.021	-0.592
+AGI_HUM1_OLIGO_A_23_P15937	Hs.110741	4087	MAD, mothers against decapentaplegic homolog 2 (Drosophila)	-0.204	-0.006	0.218	0.018	-0.189
+AGI_HUM1_OLIGO_A_23_P146946	Hs.139389	1474	cystatin E/M	0.05	-0.099	0.709	-0.055	-0.033
+AGI_HUM1_OLIGO_A_23_P8834	Hs.212088	2053	epoxide hydrolase 2, cytoplasmic	-0.011	0.745	0.836	-0.379	-0.539
+AGI_HUM1_OLIGO_A_23_P256432	Hs.155079	5525	protein phosphatase 2, regulatory subunit B (B56), alpha isoform	-0.127	0.269	-0.091	-0.405	-0.276
+AGI_HUM1_OLIGO_A_23_P206510	Hs.78979	2734	golgi apparatus protein 1	-0.241	-0.196	0.336	0.07	-0.132
+AGI_HUM1_OLIGO_A_23_P206441	Hs.284153	2175	Fanconi anemia, complementation group A	0.047	-0.319	-0.475	0.447	-0.147
+AGI_HUM1_OLIGO_A_23_P110122	Hs.13291	901	cyclin G2	-0.333	1.083	0.256	-0.812	0.24
+AGI_HUM1_OLIGO_A_23_P58647	Hs.254321	NA	catenin (cadherin-associated protein), alpha 1, 102kDa	-0.053	0.197	0.028	-0.477	0.113
+AGI_HUM1_OLIGO_A_23_P103328	Hs.27860	NA	prostaglandin E receptor 3 (subtype EP3)	0.166	0.83	0.914	-0.366	-0.231
+AGI_HUM1_OLIGO_A_23_P15653	Hs.8375	9618	TNF receptor-associated factor 4	0.026	-0.125	-0.385	0.129	0.939
+AGI_HUM1_OLIGO_A_23_P208961	Hs.454758	84939	melanoma ubiquitous mutated protein	0.432	0.126	-0.188	-0.024	-0.254
+AGI_HUM1_OLIGO_A_23_P93629	Hs.183858	880	transcriptional intermediary factor 1	-0.168	-0.142	-0.333	0.119	-0.095
+AGI_HUM1_OLIGO_A_23_P208801	Hs.2227	1054	CCAAT/enhancer binding protein (C/EBP), gamma	-0.024	-0.229	-0.016	0.09	-0.046
+AGI_HUM1_OLIGO_A_23_P407628	Hs.93231	NA	MYST histone acetyltransferase (monocytic leukemia) 3	0.34	0.097	0.319	-0.239	-0.373
+AGI_HUM1_OLIGO_A_23_P78158	Hs.390163	9135	rabaptin, RAB GTPase binding effector protein 1	0.256	1.245	0.396	-0.861	-0.464
+AGI_HUM1_OLIGO_A_23_P129786	Hs.426528	6720	sterol regulatory element binding transcription factor 1	0.405	0.188	0.338	-0.631	-0.073
+AGI_HUM1_OLIGO_A_23_P84259	Hs.401903	NA	cytochrome c oxidase subunit Va	0.033	-0.271	-0.263	-0.024	0.03
+AGI_HUM1_OLIGO_A_23_P166246	Hs.282326	1827	Down syndrome critical region gene 1	-0.125	-0.217	0.33	0.555	-0.113
+AGI_HUM1_OLIGO_A_23_P78888	Hs.99853	209	fibrillarin	-0.196	-0.243	0.203	0.173	-0.294
+AGI_HUM1_OLIGO_A_23_P151970	Hs.362733	1011	fem-1 homolog b (C. elegans)	-0.173	0.232	-0.033	-0.355	0.004
+AGI_HUM1_OLIGO_A_23_P152415	Hs.222171	23199	KIAA0182 protein	0.033	-0.08	-0.125	-0.339	0.29
+AGI_HUM1_OLIGO_A_23_P253177	Hs.168913	8428	serine/threonine kinase 24 (STE20 homolog, yeast)	-0.317	-0.015	0.328	0.215	-0.121
+AGI_HUM1_OLIGO_A_23_P127014	Hs.214039	6934	transcription factor 7-like 2 (T-cell specific, HMG-box)	-0.623	-0.102	0.665	0.161	-0.038
+AGI_HUM1_OLIGO_A_23_P66347	Hs.85266	3691	integrin, beta 4	-0.315	-0.175	0.529	0.342	0.361
+AGI_HUM1_OLIGO_A_23_P144249	Hs.16297	10063	popeye domain containing 2	0.47	-0.011	-0.272	-0.283	-0.314
+AGI_HUM1_OLIGO_A_23_P258862	Hs.257697	27250	programmed cell death 4 (neoplastic transformation inhibitor)	0.026	1.012	0.355	-0.634	-0.355
+AGI_HUM1_OLIGO_A_23_P30338	Hs.514	902	cyclin H	-0.053	0.156	0.04	-0.272	-0.142
+AGI_HUM1_OLIGO_A_23_P255952	Hs.118483	4646	myosin VI	-0.094	0.299	-0.39	-0.518	-0.452
+AGI_HUM1_OLIGO_A_23_P67708	Hs.371282	6929	transcription factor 3 (E2A immunoglobulin enhancer binding factors E12/E47)	-0.166	-0.247	0.032	0.14	-0.219
+AGI_HUM1_OLIGO_A_23_P207400	Hs.194143	672	breast cancer 1, early onset	0.288	-0.31	-0.449	-0.119	-0.282
+AGI_HUM1_OLIGO_A_23_P18452	Hs.77367	NA	chemokine (C-X-C motif) ligand 9	-0.543	-0.463	-0.354	1.331	0.836
+AGI_HUM1_OLIGO_A_23_P13183	Hs.75334	2132	exostoses (multiple) 2	-0.07	-0.115	0.183	0.005	-0.121
+AGI_HUM1_OLIGO_A_23_P256473	Hs.171921	1051	sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3C	-0.566	0.712	1.045	-0.9	-0.208
+AGI_HUM1_OLIGO_A_23_P212617	Hs.185726	7037	transferrin receptor (p90, CD71)	-0.108	-0.16	-0.234	0.088	0.136
+AGI_HUM1_OLIGO_A_23_P163929	Hs.78921	81	A kinase (PRKA) anchor protein 1	0.022	-0.075	0.18	0.066	-0.185
+AGI_HUM1_OLIGO_A_23_P37727	Hs.80420	NA	chemokine (C-X3-C motif) ligand 1	-1.118	-0.459	1.681	1.237	0.548
+AGI_HUM1_OLIGO_A_23_P116371	Hs.438040	931	membrane-spanning 4-domains, subfamily A, member 1	-0.095	-0.149	-0.116	0.204	0.103
+AGI_HUM1_OLIGO_A_23_P151075	Hs.292738	397	Rho GDP dissociation inhibitor (GDI) beta	-0.273	0.484	0.138	-0.256	0.048
+AGI_HUM1_OLIGO_A_23_P166269	Hs.20415	5409	family with sequence similarity 3, member B	0.848	-0.072	0.469	0.138	-0.226
+AGI_HUM1_OLIGO_A_23_P115919	Hs.172887	5264	phytanoyl-CoA hydroxylase (Refsum disease)	-0.022	-0.182	-0.147	0.195	-0.071
+AGI_HUM1_OLIGO_A_23_P45699	Hs.118962	8880	far upstream element (FUSE) binding protein 1	-0.146	0.118	-0.186	-0.019	-0.041
+AGI_HUM1_OLIGO_A_23_P131866	Hs.250822	6790	serine/threonine kinase 6	0.618	-0.815	-1.18	0.412	0.37
+AGI_HUM1_OLIGO_A_23_P143748	Hs.82563	NA	KIAA0153 protein	-0.117	-0.03	-0.107	-0.047	0.124
+AGI_HUM1_OLIGO_A_23_P202316	Hs.418533	9184	BUB3 budding uninhibited by benzimidazoles 3 homolog (yeast)	-0.155	0.421	-0.297	-0.354	-0.211
+AGI_HUM1_OLIGO_A_23_P141405	Hs.433416	4831	non-metastatic cells 2, protein (NM23B) expressed in	0.224	-0.096	-0.097	-0.024	0.323
+AGI_HUM1_OLIGO_A_23_P130347	Hs.436348	2842	hypothetical protein MGC2628	-0.114	-0.194	0.205	-0.094	0.13
+AGI_HUM1_OLIGO_A_23_P62605	Hs.388664	6135	ribosomal protein L11	-0.469	0.167	0.313	-0.26	-0.234
+AGI_HUM1_OLIGO_A_23_P216448	Hs.302690	4781	nuclear factor I/B	-0.77	-0.856	0.985	1.229	-0.008
+AGI_HUM1_OLIGO_A_23_P82361	Hs.293885	2617	glycyl-tRNA synthetase	-0.097	-0.422	-0.136	0.341	0.18
+AGI_HUM1_OLIGO_A_23_P16944	Hs.82109	6382	syndecan 1	-0.342	-0.616	-0.006	0.008	0.737

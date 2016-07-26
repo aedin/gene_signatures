@@ -1,0 +1,39 @@
+Nr	Clone ID	Gene Symbol	Gene name	ENTREZ Gene ID	Location	Gene function	Ratio aGU / dGS	Ratio aGU / aGS	?-value aGU / dGS	?-value aGU / aGS
+1	62144	CCNE1	CCNE1 - cyclin E1	898	19q12	Overexpression is known for many tumors and results in chromosome instability.	2.23	2.34	0.0479	0.0407
+2	520342	EVL	EVL - Enah/Vasp-like	51466	14q32.32	Cytoskeletal regulator activity and cell surface receptor linked signal transduction.	0.28	0.39	0.0478	0.0431
+3	522991	SUSD3	SUSD3	203328	9q22.32	Sushi domain containing 3	0.27	0.35	0.0463	0.0405
+4	606609	VAV3	VAV3 - vav 3 oncogene	10451	1p13.3	Function in signal transduction. Deregulation leads to marked cytoskeletal changes and cell division alterations.	0.39	0.39	0.043	0.0459
+5	644989	RERG	RERG - Ras-like	85004	12p13.1	Estrogen-regulated, growth inhibitor	0.32	0.26	0.0464	0.0482
+6	690231	CCL18	CCL18 - chemokine (C-C motif) ligand 18 (pulmonary and activation-regulated)	6362	17q11.2	Chemotactic activity for naive T cells, CD4+ and CD8+ T cells and nonactivated lymphocytes. It may play a role in humoral and cell-mediated immunity responses.	4.25	6.34	0.0481	0.0439
+7	1394835	HOOK2	HOOK2 - hook homolog 2	29911	19p13.13	Attachment to microtubules and binding to organelles.	0.47	0.4	0.0464	0.0458
+8	1453049	SCNN1A	SCNN1A	6337	12p13	Sodium channel, nonvoltage-gated 1 alpha	0.25	0.2	0.0456	0.0402
+9	1646030	PTD008	PTD008	51398	19p13.13	PTD008 protein	0.47	0.46	0.0424	0.0465
+10	1662893	C18orf1	C18orf1	753	18p11.2	Chromosome 18 open reading frame 1	0.4	0.37	0.0462	0.0432
+11	1672574	PACE4	PACE4 - proprotein convertase subtilisin/kexin type 6	5046	15q26	One of its substrates is the transforming growth factor beta related protein. This gene plays a role in tumor progression.	0.36	0.37	0.0495	0.0452
+12	1698713	ERBB3	ERBB3 - v-erb-b2 erythroblastic leukemia viral oncogene homolog 3 (avian)	2065	12q13	Encodes a member of the epidermal growth factor receptor (EGFR) family. Function in cell proliferation or differentiation. Amplification of this gene and/or overexpression of its protein have been reported also in breast tumors.	0.38	0.42	0.0457	0.0426
+13	1711594	FOXA1	FOXA1 - forkhead box A1	3169	14q12-q13	HNF3alpha is amplified and overexpressed in esophageal and lung adenocarcinomas.	0.16	0.14	0.043	0.0443
+14	1734634	NaN	NaN		NaN		0.31	0.27	0.0491	0.0454
+15	1749102	INDO	INDO -indoleamine-pyrrole2,3dioxygenase	3620	8p12-p11	Antiproliferative effect on many tumor cells and inhibits intracellular pathogens.	3.2	4.5	0.0464	0.0428
+16	1755193	FLJ20366	FLJ20366	55638	8q23.2	Hypothetical protein FLJ20366	0.32	0.3	0.0435	0.0476
+17	1793853	ALCAM	ALCAM	214	3q13.1	Activated leukocyte cell adhesion molecule	0.38	0.37	0.0478	0.0439
+18	1808121	KIAA1324	KIAA1324	57535	1p13.3-p13.2		0.31	0.3	0.0491	0.0478
+19	1844691	ARMCX2	ARMCX2	9823	Xq21.33-q22.2	Potential role in tumor suppression.	0.4	0.41	0.0455	0.0419
+20	1861614	CREB3L4	CREB3L4	148327	1q21.3	cAMP response element-binding (CREB) proteins are transcription activators.	0.41	0.42	0.0475	0.0463
+21	1922038	SYT17	SYT17	51760	16p13.11	Synaptotagmin XVII	0.4	0.37	0.0463	0.0416
+22	1998428	AGR2	AGR2 - anterior gradient 2 homolog (Xenopus laevis)	10551	7p21.3	Involvement in differentiation, associated with oestrogen receptor-positive breast tumours and interacts with metastasis gene C4.4a and dystroglycan.	0.23	0.25	0.0437	0.0444
+23	1998792	DNALI1	DNALI1	7802	1p35.1	Potential candidate for the immotile cilia syndrome (ICS).	0.34	0.4	0.0448	0.0448
+24	2026332	NaN	NaN		NaN		0.25	0.3	0.0462	0.0447
+25	2106441	ASAH1	ASAH1	427	8p22-p21.3	Mutations are associated with a lysosomal storage disorder (Farber disease).	0.33	0.32	0.0468	0.0452
+26	2190664	KIAA0882	KIAA0882	23158	4q31.21	Membrane-associated protein.	0.22	0.26	0.0495	0.0463
+27	2230088	MGC18216	MGC18216	145815	15q26.3	Hypothetical protein MGC18216.	0.35	0.31	0.0463	0.0438
+28	2242817	TFF3	TFF3 - trefoil factor 3 (intestinal)	7033	21q22.3	May protect the mucosa from insults, stabilize the mucus layer and affect healing of the epithelium. Expressed in goblet cells of the intestines and colon.	0.34	0.17	0.048	0.0446
+29	2366522	TMEM101	TMEM101	84336	17q21.31	Transmembrane protein 101	0.33	0.35	0.0478	0.0454
+30	2555590	MYB	MYB	4602	6q22-q23	V-myb myeloblastosis viral oncogene homolog	0.27	0.2	0.0482	0.0418
+31	2591494	SELENBP1	SELENBP1 - selenium binding protein 1	8991	1q21-q22	Effects of selenium in preventing cancer and neurologic diseases may be mediated by selenium-binding proteins.	0.41	0.34	0.0453	0.0451
+32	2617968	ShrmL	ShrmL - shroom		4q21.22	F-actin-binding protein	0.51	0.44	0.0469	0.0479
+33	2708596	KIF13B	KIF13B	23303	8p12	Kinesin family member 13B	0.33	0.42	0.0463	0.045
+34	2740665	NaN	NaN		NaN		0.34	0.26	0.045	0.0431
+35	2823476	STC2	STC2 - stanniocalcin 2	8614	5q35.1	Expression is induced by estrogen and altered in some breast cancers.	0.34	0.35	0.0441	0.0451
+36	3094261	GREB1	GREB1 - GREB1 protein	9687	2p25.1	Estrogen-responsive; plays important role in hormone-responsive tissues and cancer.	0.53	0.33	0.0487	0.0457
+37	3123244	NaN	NaN		15q22.32		0.17	0.21	0.0487	0.042
+38	4256950	NPHP1	NPHP1 - nephronophthisis 1	4867	2q13	Signal transduction, cell-cell adhesion, actin cytoskeleton organization and biogenesis.	0.37	0.22	0.0469	0.0455

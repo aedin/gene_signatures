@@ -1,0 +1,841 @@
+Rank	GO category	GO term	GO description	Unique id	Annotations	Description	GB acc	UG cluster	Gene symbol	Map Location	Parametric p-value	Geom mean of ratios in class 1	Geom mean of ratios in class 2	Ratio of geom means
+1	5581	CC	collagen	A_23_P131614	Info	COL6A3; collagen, type VI, alpha 3	NM_004369	Hs.233240	COL6A3	chr2 (238,519,411-238,609,570)	0.002916	3.267	1.821	1.794
+2	5581	CC	collagen	A_23_P211212	Info	COL18A1; collagen, type XVIII, alpha 1	NM_030582	Hs.413175	COL18A1	chr21 (45,731,605-45,789,835)	0.0195094	1.277	0.617	2.07
+3	5581	CC	collagen	A_32_P32254	Info	COL6A1; collagen, type VI, alpha 1	NM_001848	Hs.415997	COL6A1	chr21 (46,257,853-46,281,164)	0.0379555	1.996	1.07	1.865
+4	5581	CC	collagen	A_23_P207520	Info	COL1A1; collagen, type I, alpha 1	NM_000088	Hs.172928	COL1A1	chr17 (48,735,288-48,753,674)	0.0474576	7.234	4.033	1.794
+5	5581	CC	collagen	A_24_P277934	Info	COL1A2; collagen, type I, alpha 2	NM_000089	Hs.232115	COL1A2	chr7 (93,635,983-93,672,639)	0.0550882	9.795	4.231	2.315
+6	5581	CC	collagen	A_23_P99063	Info	LUM; lumican	NM_002345	Hs.406475	LUM	chr12 (89,999,794-90,008,078)	0.0688856	4.404	2.174	2.026
+7	5581	CC	collagen	A_23_P65240	Info	COL4A1; collagen, type IV, alpha 1	NM_001845	Hs.437173	COL4A1	chr13 (108,499,310-108,657,505)	0.1070614	3.853	2.577	1.495
+8	5581	CC	collagen	A_23_P211233	Info	COL6A2; collagen, type VI, alpha 2	NM_001849	Hs.420269	COL6A2	chr21 (46,374,214-46,408,981)	0.144013	0.869	0.553	1.571
+9	5581	CC	collagen	A_23_P160318	Info	COL16A1; collagen, type XVI, alpha 1	NM_001856	Hs.26208	COL16A1	chr1 (31,620,321-31,672,400)	0.1549549	3.343	2.049	1.632
+10	5581	CC	collagen	A_23_P310956	Info	COL6A2; collagen, type VI, alpha 2	NM_058175	Hs.420269	COL6A2	chr21 (46,374,244-46,405,921)	0.1667522	0.88	0.657	1.339
+11	5581	CC	collagen	A_23_P33196	Info	COL5A2; collagen, type V, alpha 2	NM_000393	Hs.283393	COL5A2	chr2 (190,099,161-190,247,140)	0.1684387	4.635	2.687	1.725
+12	5581	CC	collagen	A_23_P214168	Info	COL12A1; collagen, type XII, alpha 1	NM_004370	Hs.101302	COL12A1	chr6 (75,789,640-75,911,220)	0.1832721	5.991	3.36	1.783
+13	5581	CC	collagen	A_23_P112554	Info	COL15A1; collagen, type XV, alpha 1	NM_001855	Hs.409034	COL15A1	chr9 (97,086,028-97,213,309)	0.1952232	2.854	2.199	1.298
+14	5581	CC	collagen	A_23_P158593	Info	COL5A1; collagen, type V, alpha 1	NM_000093	Hs.528321	COL5A1	chr9 (132,972,977-133,174,868)	0.2193455	1.405	1.012	1.388
+15	5581	CC	collagen	A_23_P214144	Info	COL10A1; collagen, type X, alpha 1(Schmid metaphyseal chondrodysplasia)	NM_000493	Hs.179729	COL10A1	chr6 (116,485,643-116,492,866)	0.314874	3.792	2.332	1.626
+16	5581	CC	collagen	A_23_P10391	Info	COL5A2; collagen, type V, alpha 2	Y14690	Hs.283393	COL5A2	chr2 (190,099,161-190,247,140)	0.3352506	3.363	2.34	1.437
+17	5581	CC	collagen	A_23_P205031	Info	COL4A2; collagen, type IV, alpha 2	NM_001846	Hs.407912	COL4A2	chr13 (108,657,632-108,863,556)	0.3451776	3.156	2.479	1.273
+18	5581	CC	collagen	A_23_P500464	Info	COL2A1; collagen, type II, alpha 1 (primary osteoarthritis, spondyloepiphyseal dysplasia, congenital)	NM_001844	Hs.408182	COL2A1	chr12 (46,652,966-46,684,528)	0.3643498	0.966	0.704	1.372
+19	5581	CC	collagen	A_24_P935491	Info		AF130082		COL3A1		0.3902298	36.214	26.094	1.388
+20	5581	CC	collagen	A_23_P69030	Info	COL8A1; collagen, type VIII, alpha 1	NM_001850	Hs.114599	COL8A1	chr3 (100,678,355-100,836,059)	0.4069178	2.391	1.721	1.389
+21	5581	CC	collagen	A_23_P1331	Info	COL13A1; collagen, type XIII, alpha 1	NM_005203	Hs.211933	COL13A1	chr10 (70,906,247-71,063,506)	0.4740476	0.968	0.865	1.119
+22	5581	CC	collagen	A_23_P40108	Info	COL9A3; collagen, type IX, alpha 3	NM_001853	Hs.126248	COL9A3	chr20 (62,174,728-62,219,325)	0.5080345	0.201	0.153	1.314
+23	5581	CC	collagen	A_23_P142533	Info		X01742		COL3A1	chr2 (190,041,588-190,080,016)	0.6700631	56.153	49.05	1.145
+24	5581	CC	collagen	A_23_P11806	Info	COL11A1; collagen, type XI, alpha 1	NM_080629	Hs.439168	COL11A1	chr1 (102,805,918-103,036,975)	0.7508401	5.679	4.528	1.254
+25	5581	CC	collagen	A_23_P45365	Info	COL4A5; collagen, type IV, alpha 5 (Alport syndrome)	NM_033380	Hs.169825	COL4A5	chrX (106,455,011-106,712,641)	0.9049948	0.699	0.669	1.045
+26	44420	CC	extracellular matrix part	A_23_P131614	Info	COL6A3; collagen, type VI, alpha 3	NM_004369	Hs.233240	COL6A3	chr2 (238,519,411-238,609,570)	0.002916	3.267	1.821	1.794
+27	44420	CC	extracellular matrix part	A_23_P94030	Info	LAMB1; laminin, beta 1	NM_002291	Hs.122645	LAMB1	chr7 (107,124,571-107,204,335)	0.0132621	1.254	0.547	2.293
+28	44420	CC	extracellular matrix part	A_23_P211212	Info	COL18A1; collagen, type XVIII, alpha 1	NM_030582	Hs.413175	COL18A1	chr21 (45,731,605-45,789,835)	0.0195094	1.277	0.617	2.07
+29	44420	CC	extracellular matrix part	A_23_P163087	Info	NID2; nidogen 2 (osteonidogen)	NM_007361	Hs.147697	NID2	chr14 (50,461,462-50,525,852)	0.0213484	1.151	0.532	2.164
+30	44420	CC	extracellular matrix part	A_32_P32254	Info	COL6A1; collagen, type VI, alpha 1	NM_001848	Hs.415997	COL6A1	chr21 (46,257,853-46,281,164)	0.0379555	1.996	1.07	1.865
+31	44420	CC	extracellular matrix part	A_23_P207520	Info	COL1A1; collagen, type I, alpha 1	NM_000088	Hs.172928	COL1A1	chr17 (48,735,288-48,753,674)	0.0474576	7.234	4.033	1.794
+32	44420	CC	extracellular matrix part	A_24_P277934	Info	COL1A2; collagen, type I, alpha 2	NM_000089	Hs.232115	COL1A2	chr7 (93,635,983-93,672,639)	0.0550882	9.795	4.231	2.315
+33	44420	CC	extracellular matrix part	A_23_P99063	Info	LUM; lumican	NM_002345	Hs.406475	LUM	chr12 (89,999,794-90,008,078)	0.0688856	4.404	2.174	2.026
+34	44420	CC	extracellular matrix part	A_23_P65240	Info	COL4A1; collagen, type IV, alpha 1	NM_001845	Hs.437173	COL4A1	chr13 (108,499,310-108,657,505)	0.1070614	3.853	2.577	1.495
+35	44420	CC	extracellular matrix part	A_23_P164057	Info	MFAP4; microfibrillar-associated protein 4	NM_002404	Hs.296049	MFAP4	chr17 (19,443,096-19,452,531)	0.1106133	1.438	0.623	2.308
+36	44420	CC	extracellular matrix part	A_23_P70719	Info	LAMA2; laminin, alpha 2 (merosin, congenital muscular dystrophy)	NM_000426	Hs.445120	LAMA2	chr6 (129,184,912-129,818,286)	0.1168695	2.039	1.456	1.4
+37	44420	CC	extracellular matrix part	A_23_P203920	Info	SSPN; sarcospan (Kras oncogene-associated gene)	NM_005086	Hs.183428	SSPN	chr12 (26,239,789-26,277,447)	0.1271198	2.785	2.002	1.391
+38	44420	CC	extracellular matrix part	A_23_P254626	Info	SGCE; sarcoglycan, epsilon	NM_003919	Hs.409798	SGCE	chr7 (93,826,563-93,897,552)	0.1382578	1.075	1.417	0.759
+39	44420	CC	extracellular matrix part	A_23_P211233	Info	COL6A2; collagen, type VI, alpha 2	NM_001849	Hs.420269	COL6A2	chr21 (46,374,214-46,408,981)	0.144013	0.869	0.553	1.571
+40	44420	CC	extracellular matrix part	A_23_P160318	Info	COL16A1; collagen, type XVI, alpha 1	NM_001856	Hs.26208	COL16A1	chr1 (31,620,321-31,672,400)	0.1549549	3.343	2.049	1.632
+41	44420	CC	extracellular matrix part	A_23_P133656	Info	LAMA4; laminin, alpha 4	NM_002290	Hs.437536	LAMA4	chr6 (112,475,526-112,621,372)	0.1595078	2.235	1.324	1.688
+42	44420	CC	extracellular matrix part	A_23_P310956	Info	COL6A2; collagen, type VI, alpha 2	NM_058175	Hs.420269	COL6A2	chr21 (46,374,244-46,405,921)	0.1667522	0.88	0.657	1.339
+43	44420	CC	extracellular matrix part	A_23_P33196	Info	COL5A2; collagen, type V, alpha 2	NM_000393	Hs.283393	COL5A2	chr2 (190,099,161-190,247,140)	0.1684387	4.635	2.687	1.725
+44	44420	CC	extracellular matrix part	A_23_P214168	Info	COL12A1; collagen, type XII, alpha 1	NM_004370	Hs.101302	COL12A1	chr6 (75,789,640-75,911,220)	0.1832721	5.991	3.36	1.783
+45	44420	CC	extracellular matrix part	A_23_P112554	Info	COL15A1; collagen, type XV, alpha 1	NM_001855	Hs.409034	COL15A1	chr9 (97,086,028-97,213,309)	0.1952232	2.854	2.199	1.298
+46	44420	CC	extracellular matrix part	A_23_P158593	Info	COL5A1; collagen, type V, alpha 1	NM_000093	Hs.528321	COL5A1	chr9 (132,972,977-133,174,868)	0.2193455	1.405	1.012	1.388
+47	44420	CC	extracellular matrix part	A_24_P251599	Info	CAV3; caveolin 3	NM_001234	Hs.98303	CAV3	chr3 (8,750,496-8,763,455)	0.2623611	0.726	0.447	1.624
+48	44420	CC	extracellular matrix part	A_23_P7642	Info	SPARC; secreted protein, acidic, cysteine-rich (osteonectin)	NM_003118	Hs.111779	SPARC	chr5 (151,070,197-151,095,241)	0.2635992	3.772	2.339	1.613
+49	44420	CC	extracellular matrix part	A_23_P214144	Info	COL10A1; collagen, type X, alpha 1(Schmid metaphyseal chondrodysplasia)	NM_000493	Hs.179729	COL10A1	chr6 (116,485,643-116,492,866)	0.314874	3.792	2.332	1.626
+50	44420	CC	extracellular matrix part	A_23_P10391	Info	COL5A2; collagen, type V, alpha 2	Y14690	Hs.283393	COL5A2	chr2 (190,099,161-190,247,140)	0.3352506	3.363	2.34	1.437
+51	44420	CC	extracellular matrix part	A_23_P205031	Info	COL4A2; collagen, type IV, alpha 2	NM_001846	Hs.407912	COL4A2	chr13 (108,657,632-108,863,556)	0.3451776	3.156	2.479	1.273
+52	44420	CC	extracellular matrix part	A_23_P415510	Info	LAD1; ladinin 1	NM_005558	Hs.18141	LAD1	chr1 (198,637,729-198,656,994)	0.3488591	1.435	2.299	0.624
+53	44420	CC	extracellular matrix part	A_23_P500464	Info	COL2A1; collagen, type II, alpha 1 (primary osteoarthritis, spondyloepiphyseal dysplasia, congenital)	NM_001844	Hs.408182	COL2A1	chr12 (46,652,966-46,684,528)	0.3643498	0.966	0.704	1.372
+54	44420	CC	extracellular matrix part	A_23_P201636	Info	LAMC2; laminin, gamma 2	NM_005562	Hs.54451	LAMC2	chr1 (180,394,753-180,453,737)	0.3772785	2.282	3.089	0.739
+55	44420	CC	extracellular matrix part	A_24_P365975	Info	COL8A2; collagen, type VIII, alpha 2	NM_005202	Hs.353001	COL8A2	chr1 (35,988,490-35,993,512)	0.3826913	9.291	6.439	1.443
+56	44420	CC	extracellular matrix part	A_24_P935491	Info		AF130082		COL3A1		0.3902298	36.214	26.094	1.388
+57	44420	CC	extracellular matrix part	A_23_P69030	Info	COL8A1; collagen, type VIII, alpha 1	NM_001850	Hs.114599	COL8A1	chr3 (100,678,355-100,836,059)	0.4069178	2.391	1.721	1.389
+58	44420	CC	extracellular matrix part	A_23_P95029	Info	SNTB1; syntrophin, beta 1 (dystrophin-associated protein A1, 59kDa, basic component 1)	NM_021021	Hs.432544	SNTB1	chr8 (121,505,872-121,781,802)	0.433358	0.861	0.979	0.879
+59	44420	CC	extracellular matrix part	A_23_P33444	Info	SNTB2; syntrophin, beta 2 (dystrophin-associated protein A1, 59kDa, basic component 2)	NM_006750	Hs.42219	SNTB2	chr16 (68,997,214-69,111,072)	0.4653273	0.851	0.972	0.876
+60	44420	CC	extracellular matrix part	A_23_P1331	Info	COL13A1; collagen, type XIII, alpha 1	NM_005203	Hs.211933	COL13A1	chr10 (70,906,247-71,063,506)	0.4740476	0.968	0.865	1.119
+61	44420	CC	extracellular matrix part	A_23_P40108	Info	COL9A3; collagen, type IX, alpha 3	NM_001853	Hs.126248	COL9A3	chr20 (62,174,728-62,219,325)	0.5080345	0.201	0.153	1.314
+62	44420	CC	extracellular matrix part	A_23_P201628	Info	LAMC1; laminin, gamma 1 (formerly LAMB2)	NM_002293	Hs.432855	LAMC1	chr1 (180,231,974-180,354,414)	0.5085795	0.894	0.786	1.137
+63	44420	CC	extracellular matrix part	A_23_P92928	Info	C6; complement component 6	NM_000065	Hs.1282	C6	chr5 (41,187,836-41,259,113)	0.5245636	1.306	1.124	1.162
+64	44420	CC	extracellular matrix part	A_23_P142533	Info		X01742		COL3A1	chr2 (190,041,588-190,080,016)	0.6700631	56.153	49.05	1.145
+65	44420	CC	extracellular matrix part	A_23_P213857	Info	C7; complement component 7	NM_000587	Hs.78065	C7	chr5 (40,955,021-41,028,544)	0.7312723	1.611	1.507	1.069
+66	44420	CC	extracellular matrix part	A_23_P11806	Info	COL11A1; collagen, type XI, alpha 1	NM_080629	Hs.439168	COL11A1	chr1 (102,805,918-103,036,975)	0.7508401	5.679	4.528	1.254
+67	44420	CC	extracellular matrix part	A_23_P71855	Info	C5; complement component 5	NM_001735	Hs.1281	C5	chr9 (119,090,602-119,188,600)	0.7559012	0.201	0.192	1.047
+68	44420	CC	extracellular matrix part	A_23_P86012	Info	LAMB3; laminin, beta 3	NM_000228	Hs.436983	LAMB3	chr1 (206,867,360-206,905,299)	0.7803471	0.609	0.706	0.863
+69	44420	CC	extracellular matrix part	A_24_P185854	Info	DMD; dystrophin (muscular dystrophy, Duchenne and Becker types)	NM_000109	Hs.169470	DMD		0.8231486	1.39	1.252	1.11
+70	44420	CC	extracellular matrix part	A_23_P45365	Info	COL4A5; collagen, type IV, alpha 5 (Alport syndrome)	NM_033380	Hs.169825	COL4A5	chrX (106,455,011-106,712,641)	0.9049948	0.699	0.669	1.045
+71	44420	CC	extracellular matrix part	A_23_P251104	Info	SGCB; sarcoglycan, beta (43kDa dystrophin-associated glycoprotein)	NM_000232	Hs.438953	SGCB		0.93577	0.739	0.725	1.019
+72	44420	CC	extracellular matrix part	A_23_P89780	Info	LAMA3; laminin, alpha 3	NM_000227	Hs.83450	LAMA3	chr18 (19,704,977-19,787,022)	0.9404808	1.775	1.741	1.02
+73	6817	BP	phosphate transport	A_23_P131614	Info	COL6A3; collagen, type VI, alpha 3	NM_004369	Hs.233240	COL6A3	chr2 (238,519,411-238,609,570)	0.002916	3.267	1.821	1.794
+74	6817	BP	phosphate transport	A_24_P211565	Info	C1QTNF6; C1q and tumor necrosis factor related protein 6	NM_031910	Hs.22011	C1QTNF6	chr22 (35,819,245-35,827,371)	0.0166647	0.835	0.482	1.732
+75	6817	BP	phosphate transport	A_23_P211212	Info	COL18A1; collagen, type XVIII, alpha 1	NM_030582	Hs.413175	COL18A1	chr21 (45,731,605-45,789,835)	0.0195094	1.277	0.617	2.07
+76	6817	BP	phosphate transport	A_32_P32254	Info	COL6A1; collagen, type VI, alpha 1	NM_001848	Hs.415997	COL6A1	chr21 (46,257,853-46,281,164)	0.0379555	1.996	1.07	1.865
+77	6817	BP	phosphate transport	A_23_P207520	Info	COL1A1; collagen, type I, alpha 1	NM_000088	Hs.172928	COL1A1	chr17 (48,735,288-48,753,674)	0.0474576	7.234	4.033	1.794
+78	6817	BP	phosphate transport	A_24_P277934	Info	COL1A2; collagen, type I, alpha 2	NM_000089	Hs.232115	COL1A2	chr7 (93,635,983-93,672,639)	0.0550882	9.795	4.231	2.315
+79	6817	BP	phosphate transport	A_23_P65240	Info	COL4A1; collagen, type IV, alpha 1	NM_001845	Hs.437173	COL4A1	chr13 (108,499,310-108,657,505)	0.1070614	3.853	2.577	1.495
+80	6817	BP	phosphate transport	A_23_P111888	Info	CTHRC1; collagen triple helix repeat containing 1	NM_138455	Hs.283713	CTHRC1	chr8 (104,340,301-104,351,819)	0.1104428	4.409	1.842	2.394
+81	6817	BP	phosphate transport	A_23_P211233	Info	COL6A2; collagen, type VI, alpha 2	NM_001849	Hs.420269	COL6A2	chr21 (46,374,214-46,408,981)	0.144013	0.869	0.553	1.571
+82	6817	BP	phosphate transport	A_23_P160318	Info	COL16A1; collagen, type XVI, alpha 1	NM_001856	Hs.26208	COL16A1	chr1 (31,620,321-31,672,400)	0.1549549	3.343	2.049	1.632
+83	6817	BP	phosphate transport	A_23_P310956	Info	COL6A2; collagen, type VI, alpha 2	NM_058175	Hs.420269	COL6A2	chr21 (46,374,244-46,405,921)	0.1667522	0.88	0.657	1.339
+84	6817	BP	phosphate transport	A_23_P33196	Info	COL5A2; collagen, type V, alpha 2	NM_000393	Hs.283393	COL5A2	chr2 (190,099,161-190,247,140)	0.1684387	4.635	2.687	1.725
+85	6817	BP	phosphate transport	A_23_P214168	Info	COL12A1; collagen, type XII, alpha 1	NM_004370	Hs.101302	COL12A1	chr6 (75,789,640-75,911,220)	0.1832721	5.991	3.36	1.783
+86	6817	BP	phosphate transport	A_23_P112554	Info	COL15A1; collagen, type XV, alpha 1	NM_001855	Hs.409034	COL15A1	chr9 (97,086,028-97,213,309)	0.1952232	2.854	2.199	1.298
+87	6817	BP	phosphate transport	A_23_P158593	Info	COL5A1; collagen, type V, alpha 1	NM_000093	Hs.528321	COL5A1	chr9 (132,972,977-133,174,868)	0.2193455	1.405	1.012	1.388
+88	6817	BP	phosphate transport	A_23_P122068	Info	C1QTNF3; C1q and tumor necrosis factor related protein 3	NM_030945	Hs.171929	C1QTNF3	chr5 (34,065,036-34,088,819)	0.2207338	1.589	1.183	1.343
+89	6817	BP	phosphate transport	A_23_P122067	Info	C1QTNF3; C1q and tumor necrosis factor related protein 3	NM_030945	Hs.171929	C1QTNF3	chr5 (34,065,036-34,088,819)	0.2515906	1.447	1.161	1.246
+90	6817	BP	phosphate transport	A_23_P165848	Info	EMILIN1; elastin microfibril interfacer 1	NM_007046	Hs.63348	EMILIN1	chr2 (27,276,469-27,283,799)	0.304136	1.149	0.956	1.202
+91	6817	BP	phosphate transport	A_23_P214144	Info	COL10A1; collagen, type X, alpha 1(Schmid metaphyseal chondrodysplasia)	NM_000493	Hs.179729	COL10A1	chr6 (116,485,643-116,492,866)	0.314874	3.792	2.332	1.626
+92	6817	BP	phosphate transport	A_23_P10391	Info	COL5A2; collagen, type V, alpha 2	Y14690	Hs.283393	COL5A2	chr2 (190,099,161-190,247,140)	0.3352506	3.363	2.34	1.437
+93	6817	BP	phosphate transport	A_23_P205031	Info	COL4A2; collagen, type IV, alpha 2	NM_001846	Hs.407912	COL4A2	chr13 (108,657,632-108,863,556)	0.3451776	3.156	2.479	1.273
+94	6817	BP	phosphate transport	A_23_P52323	Info	COL17A1; collagen, type XVII, alpha 1	NM_000494	Hs.117938	COL17A1	chr10 (105,455,623-105,510,225)	0.3636983	0.898	0.716	1.254
+95	6817	BP	phosphate transport	A_23_P500464	Info	COL2A1; collagen, type II, alpha 1 (primary osteoarthritis, spondyloepiphyseal dysplasia, congenital)	NM_001844	Hs.408182	COL2A1	chr12 (46,652,966-46,684,528)	0.3643498	0.966	0.704	1.372
+96	6817	BP	phosphate transport	A_24_P365975	Info	COL8A2; collagen, type VIII, alpha 2	NM_005202	Hs.353001	COL8A2	chr1 (35,988,490-35,993,512)	0.3826913	9.291	6.439	1.443
+97	6817	BP	phosphate transport	A_24_P935491	Info		AF130082		COL3A1		0.3902298	36.214	26.094	1.388
+98	6817	BP	phosphate transport	A_23_P69030	Info	COL8A1; collagen, type VIII, alpha 1	NM_001850	Hs.114599	COL8A1	chr3 (100,678,355-100,836,059)	0.4069178	2.391	1.721	1.389
+99	6817	BP	phosphate transport	A_23_P1331	Info	COL13A1; collagen, type XIII, alpha 1	NM_005203	Hs.211933	COL13A1	chr10 (70,906,247-71,063,506)	0.4740476	0.968	0.865	1.119
+100	6817	BP	phosphate transport	A_23_P501010	Info	COL17A1; collagen, type XVII, alpha 1	NM_130778	Hs.117938	COL17A1	chr10 (105,455,628-105,510,254)	0.4808001	3.998	7.159	0.558
+101	6817	BP	phosphate transport	A_23_P27306	Info	COLEC12; collectin sub-family member 12	NM_030781	Hs.29423	COLEC12	chr18 (309,568-470,766)	0.5054161	0.483	0.396	1.22
+102	6817	BP	phosphate transport	A_23_P40108	Info	COL9A3; collagen, type IX, alpha 3	NM_001853	Hs.126248	COL9A3	chr20 (62,174,728-62,219,325)	0.5080345	0.201	0.153	1.314
+103	6817	BP	phosphate transport	A_23_P142533	Info		X01742		COL3A1	chr2 (190,041,588-190,080,016)	0.6700631	56.153	49.05	1.145
+104	6817	BP	phosphate transport	A_23_P137366	Info	C1QB; complement component 1, q subcomponent, beta polypeptide	NM_000491	Hs.8986	C1QB	chr1 (22,448,949-22,457,611)	0.7100311	12.614	11.319	1.114
+105	6817	BP	phosphate transport	A_24_P222655	Info	C1QA; complement component 1, q subcomponent, alpha polypeptide	NM_015991	Hs.9641	C1QA		0.7444099	9.712	9.095	1.068
+106	6817	BP	phosphate transport	A_23_P11806	Info	COL11A1; collagen, type XI, alpha 1	NM_080629	Hs.439168	COL11A1	chr1 (102,805,918-103,036,975)	0.7508401	5.679	4.528	1.254
+107	6817	BP	phosphate transport	A_23_P94921	Info	SLC20A2; solute carrier family 20 (phosphate transporter), member 2	NM_006749	Hs.347527	SLC20A2	chr8 (42,291,350-42,425,295)	0.7787722	1.334	1.431	0.932
+108	6817	BP	phosphate transport	A_23_P120125	Info	COLEC11; collectin sub-family member 11	NM_024027	Hs.32603	COLEC11	chr2 (3,207,147-3,256,747)	0.8123399	0.984	1.035	0.951
+109	6817	BP	phosphate transport	A_23_P101992	Info	MARCO; macrophage receptor with collagenous structure	NM_006770	Hs.67726	MARCO	chr2 (119,794,886-119,847,390)	0.8691375	3.066	3.248	0.944
+110	6817	BP	phosphate transport	A_23_P45365	Info	COL4A5; collagen, type IV, alpha 5 (Alport syndrome)	NM_033380	Hs.169825	COL4A5	chrX (106,455,011-106,712,641)	0.9049948	0.699	0.669	1.045
+111	6817	BP	phosphate transport	A_24_P372223	Info	MSR1; macrophage scavenger receptor 1	NM_138715	Hs.436887	MSR1	chr8 (15,975,756-16,060,590)	0.9312767	5.332	5.196	1.026
+112	5201	MF	extracellular matrix structural constituent	A_23_P211212	Info	COL18A1; collagen, type XVIII, alpha 1	NM_030582	Hs.413175	COL18A1	chr21 (45,731,605-45,789,835)	0.0195094	1.277	0.617	2.07
+113	5201	MF	extracellular matrix structural constituent	A_32_P32254	Info	COL6A1; collagen, type VI, alpha 1	NM_001848	Hs.415997	COL6A1	chr21 (46,257,853-46,281,164)	0.0379555	1.996	1.07	1.865
+114	5201	MF	extracellular matrix structural constituent	A_23_P207520	Info	COL1A1; collagen, type I, alpha 1	NM_000088	Hs.172928	COL1A1	chr17 (48,735,288-48,753,674)	0.0474576	7.234	4.033	1.794
+115	5201	MF	extracellular matrix structural constituent	A_24_P277934	Info	COL1A2; collagen, type I, alpha 2	NM_000089	Hs.232115	COL1A2	chr7 (93,635,983-93,672,639)	0.0550882	9.795	4.231	2.315
+116	5201	MF	extracellular matrix structural constituent	A_23_P99063	Info	LUM; lumican	NM_002345	Hs.406475	LUM	chr12 (89,999,794-90,008,078)	0.0688856	4.404	2.174	2.026
+117	5201	MF	extracellular matrix structural constituent	A_23_P90436	Info	COMP; cartilage oligomeric matrix protein	NM_000095	Hs.1584	COMP	chr19 (18,754,559-18,763,151)	0.0779189	2.548	1.365	1.867
+118	5201	MF	extracellular matrix structural constituent	A_24_P264943	Info	COMP; cartilage oligomeric matrix protein	NM_000095	Hs.1584	COMP	chr19 (18,754,559-18,763,151)	0.0955536	8.643	4.082	2.117
+119	5201	MF	extracellular matrix structural constituent	A_23_P65240	Info	COL4A1; collagen, type IV, alpha 1	NM_001845	Hs.437173	COL4A1	chr13 (108,499,310-108,657,505)	0.1070614	3.853	2.577	1.495
+120	5201	MF	extracellular matrix structural constituent	A_23_P34126	Info	BGN; biglycan	NM_001711	Hs.821	BGN	chrX (151,228,241-151,242,910)	0.1331481	1.598	1.319	1.212
+121	5201	MF	extracellular matrix structural constituent	A_23_P371824	Info	TUFT1; tuftelin 1	NM_020127	Hs.283009	TUFT1	chr1 (148,729,363-148,772,640)	0.1331736	1.034	1.51	0.685
+122	5201	MF	extracellular matrix structural constituent	A_23_P211233	Info	COL6A2; collagen, type VI, alpha 2	NM_001849	Hs.420269	COL6A2	chr21 (46,374,214-46,408,981)	0.144013	0.869	0.553	1.571
+123	5201	MF	extracellular matrix structural constituent	A_23_P133656	Info	LAMA4; laminin, alpha 4	NM_002290	Hs.437536	LAMA4	chr6 (112,475,526-112,621,372)	0.1595078	2.235	1.324	1.688
+124	5201	MF	extracellular matrix structural constituent	A_23_P310956	Info	COL6A2; collagen, type VI, alpha 2	NM_058175	Hs.420269	COL6A2	chr21 (46,374,244-46,405,921)	0.1667522	0.88	0.657	1.339
+125	5201	MF	extracellular matrix structural constituent	A_23_P33196	Info	COL5A2; collagen, type V, alpha 2	NM_000393	Hs.283393	COL5A2	chr2 (190,099,161-190,247,140)	0.1684387	4.635	2.687	1.725
+126	5201	MF	extracellular matrix structural constituent	A_23_P204286	Info	MGP; matrix Gla protein	NM_000900	Hs.365706	MGP	chr12 (14,925,183-14,930,172)	0.1764576	13.206	7.533	1.753
+127	5201	MF	extracellular matrix structural constituent	A_23_P214168	Info	COL12A1; collagen, type XII, alpha 1	NM_004370	Hs.101302	COL12A1	chr6 (75,789,640-75,911,220)	0.1832721	5.991	3.36	1.783
+128	5201	MF	extracellular matrix structural constituent	A_23_P112554	Info	COL15A1; collagen, type XV, alpha 1	NM_001855	Hs.409034	COL15A1	chr9 (97,086,028-97,213,309)	0.1952232	2.854	2.199	1.298
+129	5201	MF	extracellular matrix structural constituent	A_24_P119745	Info	FN1; fibronectin 1	NM_002026	Hs.418138	FN1	chr2 (216,428,128-216,503,335)	0.2074821	1.216	0.561	2.168
+130	5201	MF	extracellular matrix structural constituent	A_23_P158593	Info	COL5A1; collagen, type V, alpha 1	NM_000093	Hs.528321	COL5A1	chr9 (132,972,977-133,174,868)	0.2193455	1.405	1.012	1.388
+131	5201	MF	extracellular matrix structural constituent	A_23_P393620	Info	TFPI2; tissue factor pathway inhibitor 2	NM_006528	Hs.438231	TFPI2	chr7 (93,127,470-93,132,232)	0.2329235	0.048	0.027	1.778
+132	5201	MF	extracellular matrix structural constituent	A_23_P165848	Info	EMILIN1; elastin microfibril interfacer 1	NM_007046	Hs.63348	EMILIN1	chr2 (27,276,469-27,283,799)	0.304136	1.149	0.956	1.202
+133	5201	MF	extracellular matrix structural constituent	A_23_P27315	Info	EMILIN2; elastin microfibril interfacer 2	NM_032048	Hs.270143	EMILIN2	chr18 (2,837,028-2,904,090)	0.3197544	2.708	1.966	1.377
+134	5201	MF	extracellular matrix structural constituent	A_23_P10391	Info	COL5A2; collagen, type V, alpha 2	Y14690	Hs.283393	COL5A2	chr2 (190,099,161-190,247,140)	0.3352506	3.363	2.34	1.437
+135	5201	MF	extracellular matrix structural constituent	A_24_P85539	Info	FN1; fibronectin 1	U42594	Hs.418138	FN1	chr2 (216,436,934-216,461,893)	0.3430905	0.647	0.44	1.47
+136	5201	MF	extracellular matrix structural constituent	A_23_P205031	Info	COL4A2; collagen, type IV, alpha 2	NM_001846	Hs.407912	COL4A2	chr13 (108,657,632-108,863,556)	0.3451776	3.156	2.479	1.273
+137	5201	MF	extracellular matrix structural constituent	A_23_P500464	Info	COL2A1; collagen, type II, alpha 1 (primary osteoarthritis, spondyloepiphyseal dysplasia, congenital)	NM_001844	Hs.408182	COL2A1	chr12 (46,652,966-46,684,528)	0.3643498	0.966	0.704	1.372
+138	5201	MF	extracellular matrix structural constituent	A_24_P365975	Info	COL8A2; collagen, type VIII, alpha 2	NM_005202	Hs.353001	COL8A2	chr1 (35,988,490-35,993,512)	0.3826913	9.291	6.439	1.443
+139	5201	MF	extracellular matrix structural constituent	A_24_P935491	Info		AF130082		COL3A1		0.3902298	36.214	26.094	1.388
+140	5201	MF	extracellular matrix structural constituent	A_23_P137665	Info	CHI3L1; chitinase 3-like 1 (cartilage glycoprotein-39)	NM_001276	Hs.382202	CHI3L1	chr1 (200,436,186-200,444,145)	0.4468571	3.158	2.487	1.27
+141	5201	MF	extracellular matrix structural constituent	A_23_P1331	Info	COL13A1; collagen, type XIII, alpha 1	NM_005203	Hs.211933	COL13A1	chr10 (70,906,247-71,063,506)	0.4740476	0.968	0.865	1.119
+142	5201	MF	extracellular matrix structural constituent	A_23_P143981	Info	FBLN2; fibulin 2	NM_001998	Hs.198862	FBLN2	chr3 (13,565,598-13,654,922)	0.5697148	2.696	2.228	1.21
+143	5201	MF	extracellular matrix structural constituent	A_23_P142533	Info		X01742		COL3A1	chr2 (190,041,588-190,080,016)	0.6700631	56.153	49.05	1.145
+144	5201	MF	extracellular matrix structural constituent	A_23_P102058	Info	MATN3; matrilin 3	NM_002381	Hs.278461	MATN3	chr2 (20,176,318-20,196,967)	0.7038557	0.485	0.448	1.083
+145	5201	MF	extracellular matrix structural constituent	A_23_P11806	Info	COL11A1; collagen, type XI, alpha 1	NM_080629	Hs.439168	COL11A1	chr1 (102,805,918-103,036,975)	0.7508401	5.679	4.528	1.254
+146	5201	MF	extracellular matrix structural constituent	A_24_P274111	Info	CHI3L1; chitinase 3-like 1 (cartilage glycoprotein-39)	M80927	Hs.382202	CHI3L1	chr1 (200,436,186-200,444,145)	0.7621525	1.867	1.967	0.949
+147	5201	MF	extracellular matrix structural constituent	A_23_P429950	Info	KAL1; Kallmann syndrome 1 sequence	NM_000216	Hs.380850	KAL1	chrX (7,908,249-8,111,645)	0.8257956	1.713	1.801	0.951
+148	5201	MF	extracellular matrix structural constituent	A_23_P45365	Info	COL4A5; collagen, type IV, alpha 5 (Alport syndrome)	NM_033380	Hs.169825	COL4A5	chrX (106,455,011-106,712,641)	0.9049948	0.699	0.669	1.045
+149	5201	MF	extracellular matrix structural constituent	A_23_P119916	Info	WNT6; wingless-type MMTV integration site family, member 6	NM_006522	Hs.29764	WNT6	chr2 (219,927,035-219,941,505)	0.9664902	1.274	1.289	0.988
+150	5201	MF	extracellular matrix structural constituent	A_24_P208513	Info	WNT6; wingless-type MMTV integration site family, member 6	NM_006522	Hs.29764	WNT6	chr2 (219,927,035-219,941,505)	0.9919745	0.873	0.875	0.998
+151	30934	CC	anchoring collagen	A_23_P131614	Info	COL6A3; collagen, type VI, alpha 3	NM_004369	Hs.233240	COL6A3	chr2 (238,519,411-238,609,570)	0.002916	3.267	1.821	1.794
+152	30934	CC	anchoring collagen	A_32_P32254	Info	COL6A1; collagen, type VI, alpha 1	NM_001848	Hs.415997	COL6A1	chr21 (46,257,853-46,281,164)	0.0379555	1.996	1.07	1.865
+153	30934	CC	anchoring collagen	A_23_P160318	Info	COL16A1; collagen, type XVI, alpha 1	NM_001856	Hs.26208	COL16A1	chr1 (31,620,321-31,672,400)	0.1549549	3.343	2.049	1.632
+154	30934	CC	anchoring collagen	A_23_P214168	Info	COL12A1; collagen, type XII, alpha 1	NM_004370	Hs.101302	COL12A1	chr6 (75,789,640-75,911,220)	0.1832721	5.991	3.36	1.783
+155	30934	CC	anchoring collagen	A_23_P40108	Info	COL9A3; collagen, type IX, alpha 3	NM_001853	Hs.126248	COL9A3	chr20 (62,174,728-62,219,325)	0.5080345	0.201	0.153	1.314
+156	15698	BP	inorganic anion transport	A_23_P131614	Info	COL6A3; collagen, type VI, alpha 3	NM_004369	Hs.233240	COL6A3	chr2 (238,519,411-238,609,570)	0.002916	3.267	1.821	1.794
+157	15698	BP	inorganic anion transport	A_24_P211565	Info	C1QTNF6; C1q and tumor necrosis factor related protein 6	NM_031910	Hs.22011	C1QTNF6	chr22 (35,819,245-35,827,371)	0.0166647	0.835	0.482	1.732
+158	15698	BP	inorganic anion transport	A_23_P211212	Info	COL18A1; collagen, type XVIII, alpha 1	NM_030582	Hs.413175	COL18A1	chr21 (45,731,605-45,789,835)	0.0195094	1.277	0.617	2.07
+159	15698	BP	inorganic anion transport	A_32_P32254	Info	COL6A1; collagen, type VI, alpha 1	NM_001848	Hs.415997	COL6A1	chr21 (46,257,853-46,281,164)	0.0379555	1.996	1.07	1.865
+160	15698	BP	inorganic anion transport	A_23_P45456	Info	CLIC2; chloride intracellular channel 2	NM_001289	Hs.54570	CLIC2	chrX (152,928,198-152,986,330)	0.0423605	1.527	0.932	1.638
+161	15698	BP	inorganic anion transport	A_23_P207520	Info	COL1A1; collagen, type I, alpha 1	NM_000088	Hs.172928	COL1A1	chr17 (48,735,288-48,753,674)	0.0474576	7.234	4.033	1.794
+162	15698	BP	inorganic anion transport	A_24_P277934	Info	COL1A2; collagen, type I, alpha 2	NM_000089	Hs.232115	COL1A2	chr7 (93,635,983-93,672,639)	0.0550882	9.795	4.231	2.315
+163	15698	BP	inorganic anion transport	A_23_P65240	Info	COL4A1; collagen, type IV, alpha 1	NM_001845	Hs.437173	COL4A1	chr13 (108,499,310-108,657,505)	0.1070614	3.853	2.577	1.495
+164	15698	BP	inorganic anion transport	A_23_P111888	Info	CTHRC1; collagen triple helix repeat containing 1	NM_138455	Hs.283713	CTHRC1	chr8 (104,340,301-104,351,819)	0.1104428	4.409	1.842	2.394
+165	15698	BP	inorganic anion transport	A_24_P217489	Info	GLRB; glycine receptor, beta	NM_000824	Hs.32973	GLRB	chr4 (158,574,836-158,670,911)	0.1241117	0.85	1.228	0.692
+166	15698	BP	inorganic anion transport	A_23_P211233	Info	COL6A2; collagen, type VI, alpha 2	NM_001849	Hs.420269	COL6A2	chr21 (46,374,214-46,408,981)	0.144013	0.869	0.553	1.571
+167	15698	BP	inorganic anion transport	A_23_P160318	Info	COL16A1; collagen, type XVI, alpha 1	NM_001856	Hs.26208	COL16A1	chr1 (31,620,321-31,672,400)	0.1549549	3.343	2.049	1.632
+168	15698	BP	inorganic anion transport	A_23_P310956	Info	COL6A2; collagen, type VI, alpha 2	NM_058175	Hs.420269	COL6A2	chr21 (46,374,244-46,405,921)	0.1667522	0.88	0.657	1.339
+169	15698	BP	inorganic anion transport	A_23_P33196	Info	COL5A2; collagen, type V, alpha 2	NM_000393	Hs.283393	COL5A2	chr2 (190,099,161-190,247,140)	0.1684387	4.635	2.687	1.725
+170	15698	BP	inorganic anion transport	A_23_P214168	Info	COL12A1; collagen, type XII, alpha 1	NM_004370	Hs.101302	COL12A1	chr6 (75,789,640-75,911,220)	0.1832721	5.991	3.36	1.783
+171	15698	BP	inorganic anion transport	A_23_P112554	Info	COL15A1; collagen, type XV, alpha 1	NM_001855	Hs.409034	COL15A1	chr9 (97,086,028-97,213,309)	0.1952232	2.854	2.199	1.298
+172	15698	BP	inorganic anion transport	A_23_P158593	Info	COL5A1; collagen, type V, alpha 1	NM_000093	Hs.528321	COL5A1	chr9 (132,972,977-133,174,868)	0.2193455	1.405	1.012	1.388
+173	15698	BP	inorganic anion transport	A_23_P122068	Info	C1QTNF3; C1q and tumor necrosis factor related protein 3	NM_030945	Hs.171929	C1QTNF3	chr5 (34,065,036-34,088,819)	0.2207338	1.589	1.183	1.343
+174	15698	BP	inorganic anion transport	A_23_P122067	Info	C1QTNF3; C1q and tumor necrosis factor related protein 3	NM_030945	Hs.171929	C1QTNF3	chr5 (34,065,036-34,088,819)	0.2515906	1.447	1.161	1.246
+175	15698	BP	inorganic anion transport	A_23_P165848	Info	EMILIN1; elastin microfibril interfacer 1	NM_007046	Hs.63348	EMILIN1	chr2 (27,276,469-27,283,799)	0.304136	1.149	0.956	1.202
+176	15698	BP	inorganic anion transport	A_23_P214144	Info	COL10A1; collagen, type X, alpha 1(Schmid metaphyseal chondrodysplasia)	NM_000493	Hs.179729	COL10A1	chr6 (116,485,643-116,492,866)	0.314874	3.792	2.332	1.626
+177	15698	BP	inorganic anion transport	A_23_P10391	Info	COL5A2; collagen, type V, alpha 2	Y14690	Hs.283393	COL5A2	chr2 (190,099,161-190,247,140)	0.3352506	3.363	2.34	1.437
+178	15698	BP	inorganic anion transport	A_23_P205031	Info	COL4A2; collagen, type IV, alpha 2	NM_001846	Hs.407912	COL4A2	chr13 (108,657,632-108,863,556)	0.3451776	3.156	2.479	1.273
+179	15698	BP	inorganic anion transport	A_23_P132285	Info	MPST; mercaptopyruvate sulfurtransferase	NM_021126	Hs.248267	MPST	chr22 (35,658,747-35,668,923)	0.3593966	0.729	0.84	0.868
+180	15698	BP	inorganic anion transport	A_23_P52323	Info	COL17A1; collagen, type XVII, alpha 1	NM_000494	Hs.117938	COL17A1	chr10 (105,455,623-105,510,225)	0.3636983	0.898	0.716	1.254
+181	15698	BP	inorganic anion transport	A_23_P500464	Info	COL2A1; collagen, type II, alpha 1 (primary osteoarthritis, spondyloepiphyseal dysplasia, congenital)	NM_001844	Hs.408182	COL2A1	chr12 (46,652,966-46,684,528)	0.3643498	0.966	0.704	1.372
+182	15698	BP	inorganic anion transport	A_24_P365975	Info	COL8A2; collagen, type VIII, alpha 2	NM_005202	Hs.353001	COL8A2	chr1 (35,988,490-35,993,512)	0.3826913	9.291	6.439	1.443
+183	15698	BP	inorganic anion transport	A_24_P935491	Info		AF130082		COL3A1		0.3902298	36.214	26.094	1.388
+184	15698	BP	inorganic anion transport	A_23_P69030	Info	COL8A1; collagen, type VIII, alpha 1	NM_001850	Hs.114599	COL8A1	chr3 (100,678,355-100,836,059)	0.4069178	2.391	1.721	1.389
+185	15698	BP	inorganic anion transport	A_23_P254654	Info	CLIC3; chloride intracellular channel 3	NM_004669	Hs.64746	CLIC3	chr9 (135,246,350-135,248,549)	0.4461735	0.927	0.708	1.309
+186	15698	BP	inorganic anion transport	A_23_P108216	Info	FXYD1; FXYD domain containing ion transport regulator 1 (phospholemman)	NM_005031	Hs.442498	FXYD1	chr19 (40,322,196-40,325,802)	0.46183	1.343	1.087	1.236
+187	15698	BP	inorganic anion transport	A_23_P1331	Info	COL13A1; collagen, type XIII, alpha 1	NM_005203	Hs.211933	COL13A1	chr10 (70,906,247-71,063,506)	0.4740476	0.968	0.865	1.119
+188	15698	BP	inorganic anion transport	A_23_P501010	Info	COL17A1; collagen, type XVII, alpha 1	NM_130778	Hs.117938	COL17A1	chr10 (105,455,628-105,510,254)	0.4808001	3.998	7.159	0.558
+189	15698	BP	inorganic anion transport	A_24_P293192	Info	FXYD3; FXYD domain containing ion transport regulator 3	NM_005971	Hs.301350	FXYD3	chr19 (40,298,476-40,307,067)	0.4831326	1.415	1.853	0.764
+190	15698	BP	inorganic anion transport	A_23_P27306	Info	COLEC12; collectin sub-family member 12	NM_030781	Hs.29423	COLEC12	chr18 (309,568-470,766)	0.5054161	0.483	0.396	1.22
+191	15698	BP	inorganic anion transport	A_23_P40108	Info	COL9A3; collagen, type IX, alpha 3	NM_001853	Hs.126248	COL9A3	chr20 (62,174,728-62,219,325)	0.5080345	0.201	0.153	1.314
+192	15698	BP	inorganic anion transport	A_23_P385067	Info	CLIC6; chloride intracellular channel 6	NM_053277	Hs.353146	CLIC6	chr21 (34,962,084-35,010,927)	0.5789027	2.717	3.292	0.825
+193	15698	BP	inorganic anion transport	A_23_P61688	Info	SLC12A7; solute carrier family 12 (potassium/chloride transporters), member 7	NM_006598	Hs.172613	SLC12A7	chr5 (1,103,229-1,164,869)	0.5830948	1.649	1.84	0.896
+194	15698	BP	inorganic anion transport	A_23_P127995	Info	CLNS1A; chloride channel, nucleotide-sensitive, 1A	NM_001293	Hs.417369	CLNS1A	chr11 (77,053,504-77,075,181)	0.6026729	0.712	0.825	0.863
+195	15698	BP	inorganic anion transport	A_23_P142533	Info		X01742		COL3A1	chr2 (190,041,588-190,080,016)	0.6700631	56.153	49.05	1.145
+196	15698	BP	inorganic anion transport	A_23_P29248	Info	TST; thiosulfate sulfurtransferase (rhodanese)	NM_003312	Hs.351863	TST	chr22 (35,649,946-35,658,611)	0.680314	0.841	0.764	1.101
+197	15698	BP	inorganic anion transport	A_23_P137366	Info	C1QB; complement component 1, q subcomponent, beta polypeptide	NM_000491	Hs.8986	C1QB	chr1 (22,448,949-22,457,611)	0.7100311	12.614	11.319	1.114
+198	15698	BP	inorganic anion transport	A_24_P222655	Info	C1QA; complement component 1, q subcomponent, alpha polypeptide	NM_015991	Hs.9641	C1QA		0.7444099	9.712	9.095	1.068
+199	15698	BP	inorganic anion transport	A_23_P11806	Info	COL11A1; collagen, type XI, alpha 1	NM_080629	Hs.439168	COL11A1	chr1 (102,805,918-103,036,975)	0.7508401	5.679	4.528	1.254
+200	15698	BP	inorganic anion transport	A_23_P94921	Info	SLC20A2; solute carrier family 20 (phosphate transporter), member 2	NM_006749	Hs.347527	SLC20A2	chr8 (42,291,350-42,425,295)	0.7787722	1.334	1.431	0.932
+201	15698	BP	inorganic anion transport	A_23_P120125	Info	COLEC11; collectin sub-family member 11	NM_024027	Hs.32603	COLEC11	chr2 (3,207,147-3,256,747)	0.8123399	0.984	1.035	0.951
+202	15698	BP	inorganic anion transport	A_23_P135494	Info	CLIC4; chloride intracellular channel 4	NM_013943	Hs.25035	CLIC4	chr1 (24,422,972-24,521,983)	0.8393464	1.375	1.304	1.054
+203	15698	BP	inorganic anion transport	A_23_P101992	Info	MARCO; macrophage receptor with collagenous structure	NM_006770	Hs.67726	MARCO	chr2 (119,794,886-119,847,390)	0.8691375	3.066	3.248	0.944
+204	15698	BP	inorganic anion transport	A_23_P45365	Info	COL4A5; collagen, type IV, alpha 5 (Alport syndrome)	NM_033380	Hs.169825	COL4A5	chrX (106,455,011-106,712,641)	0.9049948	0.699	0.669	1.045
+205	15698	BP	inorganic anion transport	A_24_P372223	Info	MSR1; macrophage scavenger receptor 1	NM_138715	Hs.436887	MSR1	chr8 (15,975,756-16,060,590)	0.9312767	5.332	5.196	1.026
+206	5819	CC	spindle	A_23_P88083	Info	CDC16; CDC16 cell division cycle 16 homolog (S. cerevisiae)	NM_003903	Hs.1592	CDC16	chr13 (112,918,467-112,956,261)	0.0017066	0.645	1.145	0.563
+207	5819	CC	spindle	A_24_P96780	Info	CENPF; centromere protein F, 350/400ka (mitosin)	AF118076	Hs.77204	CENPF		0.0550126	0.401	0.629	0.638
+208	5819	CC	spindle	A_23_P344555	Info	NEDD9; neural precursor cell expressed, developmentally down-regulated 9	NM_006403	Hs.388589	NEDD9	chr6 (11,291,509-11,340,914)	0.1181194	0.837	1.012	0.827
+209	5819	CC	spindle	A_23_P162120	Info	NUMA1; nuclear mitotic apparatus protein 1	NM_006185	Hs.332115	NUMA1	chr11 (71,441,229-71,473,297)	0.1296593	0.548	0.631	0.868
+210	5819	CC	spindle	A_23_P259586	Info	TTK; TTK protein kinase	NM_003318	Hs.169840	TTK	chr6 (80,709,071-80,747,836)	0.1343616	0.284	0.516	0.55
+211	5819	CC	spindle	A_23_P206059	Info	PRC1; protein regulator of cytokinesis 1	NM_003981	Hs.344037	PRC1	chr15 (89,239,036-89,267,528)	0.221483	0.41	0.544	0.754
+212	5819	CC	spindle	A_23_P401	Info	CENPF; centromere protein F, 350/400ka (mitosin)	NM_016343	Hs.77204	CENPF	chr1 (211,833,324-211,894,429)	0.3320637	0.244	0.378	0.646
+213	5819	CC	spindle	A_23_P124417	Info	BUB1; BUB1 budding uninhibited by benzimidazoles 1 homolog (yeast)	NM_004336	Hs.287472	BUB1	chr2 (111,490,405-111,530,828)	0.3817371	0.202	0.261	0.774
+214	5819	CC	spindle	A_23_P52278	Info	KIF11; kinesin family member 11	X85137	Hs.8878	KIF11	chr10 (94,017,378-94,079,733)	0.4197775	0.255	0.337	0.757
+215	5819	CC	spindle	A_23_P127150	Info	TUBGCP2; tubulin, gamma complex associated protein 2	NM_006659	Hs.372093	TUBGCP2	chr10 (134,566,424-134,595,963)	0.485422	0.678	0.743	0.913
+216	5819	CC	spindle	A_23_P136817	Info	KNTC1; kinetochore associated 1	NM_014708	Hs.300559	KNTC1	chr12 (121,449,335-121,548,472)	0.962444	0.353	0.356	0.992
+217	6820	BP	anion transport	A_23_P131614	Info	COL6A3; collagen, type VI, alpha 3	NM_004369	Hs.233240	COL6A3	chr2 (238,519,411-238,609,570)	0.002916	3.267	1.821	1.794
+218	6820	BP	anion transport	A_23_P72912	Info	SLC4A8; solute carrier family 4, sodium bicarbonate cotransporter, member 8	NM_004858	Hs.370636	SLC4A8	chr12 (50,105,024-50,177,920)	0.0060581	1.464	1.033	1.417
+219	6820	BP	anion transport	A_24_P211565	Info	C1QTNF6; C1q and tumor necrosis factor related protein 6	NM_031910	Hs.22011	C1QTNF6	chr22 (35,819,245-35,827,371)	0.0166647	0.835	0.482	1.732
+220	6820	BP	anion transport	A_23_P211212	Info	COL18A1; collagen, type XVIII, alpha 1	NM_030582	Hs.413175	COL18A1	chr21 (45,731,605-45,789,835)	0.0195094	1.277	0.617	2.07
+221	6820	BP	anion transport	A_32_P32254	Info	COL6A1; collagen, type VI, alpha 1	NM_001848	Hs.415997	COL6A1	chr21 (46,257,853-46,281,164)	0.0379555	1.996	1.07	1.865
+222	6820	BP	anion transport	A_23_P45456	Info	CLIC2; chloride intracellular channel 2	NM_001289	Hs.54570	CLIC2	chrX (152,928,198-152,986,330)	0.0423605	1.527	0.932	1.638
+223	6820	BP	anion transport	A_23_P207520	Info	COL1A1; collagen, type I, alpha 1	NM_000088	Hs.172928	COL1A1	chr17 (48,735,288-48,753,674)	0.0474576	7.234	4.033	1.794
+224	6820	BP	anion transport	A_24_P277934	Info	COL1A2; collagen, type I, alpha 2	NM_000089	Hs.232115	COL1A2	chr7 (93,635,983-93,672,639)	0.0550882	9.795	4.231	2.315
+225	6820	BP	anion transport	A_23_P65240	Info	COL4A1; collagen, type IV, alpha 1	NM_001845	Hs.437173	COL4A1	chr13 (108,499,310-108,657,505)	0.1070614	3.853	2.577	1.495
+226	6820	BP	anion transport	A_23_P111888	Info	CTHRC1; collagen triple helix repeat containing 1	NM_138455	Hs.283713	CTHRC1	chr8 (104,340,301-104,351,819)	0.1104428	4.409	1.842	2.394
+227	6820	BP	anion transport	A_24_P217489	Info	GLRB; glycine receptor, beta	NM_000824	Hs.32973	GLRB	chr4 (158,574,836-158,670,911)	0.1241117	0.85	1.228	0.692
+228	6820	BP	anion transport	A_23_P211233	Info	COL6A2; collagen, type VI, alpha 2	NM_001849	Hs.420269	COL6A2	chr21 (46,374,214-46,408,981)	0.144013	0.869	0.553	1.571
+229	6820	BP	anion transport	A_23_P160318	Info	COL16A1; collagen, type XVI, alpha 1	NM_001856	Hs.26208	COL16A1	chr1 (31,620,321-31,672,400)	0.1549549	3.343	2.049	1.632
+230	6820	BP	anion transport	A_23_P310956	Info	COL6A2; collagen, type VI, alpha 2	NM_058175	Hs.420269	COL6A2	chr21 (46,374,244-46,405,921)	0.1667522	0.88	0.657	1.339
+231	6820	BP	anion transport	A_23_P33196	Info	COL5A2; collagen, type V, alpha 2	NM_000393	Hs.283393	COL5A2	chr2 (190,099,161-190,247,140)	0.1684387	4.635	2.687	1.725
+232	6820	BP	anion transport	A_23_P214168	Info	COL12A1; collagen, type XII, alpha 1	NM_004370	Hs.101302	COL12A1	chr6 (75,789,640-75,911,220)	0.1832721	5.991	3.36	1.783
+233	6820	BP	anion transport	A_23_P112554	Info	COL15A1; collagen, type XV, alpha 1	NM_001855	Hs.409034	COL15A1	chr9 (97,086,028-97,213,309)	0.1952232	2.854	2.199	1.298
+234	6820	BP	anion transport	A_23_P158593	Info	COL5A1; collagen, type V, alpha 1	NM_000093	Hs.528321	COL5A1	chr9 (132,972,977-133,174,868)	0.2193455	1.405	1.012	1.388
+235	6820	BP	anion transport	A_23_P122068	Info	C1QTNF3; C1q and tumor necrosis factor related protein 3	NM_030945	Hs.171929	C1QTNF3	chr5 (34,065,036-34,088,819)	0.2207338	1.589	1.183	1.343
+236	6820	BP	anion transport	A_23_P122067	Info	C1QTNF3; C1q and tumor necrosis factor related protein 3	NM_030945	Hs.171929	C1QTNF3	chr5 (34,065,036-34,088,819)	0.2515906	1.447	1.161	1.246
+237	6820	BP	anion transport	A_23_P165848	Info	EMILIN1; elastin microfibril interfacer 1	NM_007046	Hs.63348	EMILIN1	chr2 (27,276,469-27,283,799)	0.304136	1.149	0.956	1.202
+238	6820	BP	anion transport	A_23_P214144	Info	COL10A1; collagen, type X, alpha 1(Schmid metaphyseal chondrodysplasia)	NM_000493	Hs.179729	COL10A1	chr6 (116,485,643-116,492,866)	0.314874	3.792	2.332	1.626
+239	6820	BP	anion transport	A_23_P10391	Info	COL5A2; collagen, type V, alpha 2	Y14690	Hs.283393	COL5A2	chr2 (190,099,161-190,247,140)	0.3352506	3.363	2.34	1.437
+240	6820	BP	anion transport	A_23_P205031	Info	COL4A2; collagen, type IV, alpha 2	NM_001846	Hs.407912	COL4A2	chr13 (108,657,632-108,863,556)	0.3451776	3.156	2.479	1.273
+241	6820	BP	anion transport	A_23_P132285	Info	MPST; mercaptopyruvate sulfurtransferase	NM_021126	Hs.248267	MPST	chr22 (35,658,747-35,668,923)	0.3593966	0.729	0.84	0.868
+242	6820	BP	anion transport	A_23_P52323	Info	COL17A1; collagen, type XVII, alpha 1	NM_000494	Hs.117938	COL17A1	chr10 (105,455,623-105,510,225)	0.3636983	0.898	0.716	1.254
+243	6820	BP	anion transport	A_23_P500464	Info	COL2A1; collagen, type II, alpha 1 (primary osteoarthritis, spondyloepiphyseal dysplasia, congenital)	NM_001844	Hs.408182	COL2A1	chr12 (46,652,966-46,684,528)	0.3643498	0.966	0.704	1.372
+244	6820	BP	anion transport	A_24_P365975	Info	COL8A2; collagen, type VIII, alpha 2	NM_005202	Hs.353001	COL8A2	chr1 (35,988,490-35,993,512)	0.3826913	9.291	6.439	1.443
+245	6820	BP	anion transport	A_23_P158725	Info	SLC16A3; solute carrier family 16 (monocarboxylic acid transporters), member 3	NM_004207	Hs.386678	SLC16A3	chr17 (80,865,673-80,876,187)	0.3838158	0.339	0.243	1.395
+246	6820	BP	anion transport	A_24_P935491	Info		AF130082		COL3A1		0.3902298	36.214	26.094	1.388
+247	6820	BP	anion transport	A_23_P154688	Info	SLC4A11; solute carrier family 4, sodium bicarbonate transporter-like, member 11	NM_032034	Hs.105607	SLC4A11	chr20 (3,202,668-3,213,812)	0.3953132	0.715	0.537	1.331
+248	6820	BP	anion transport	A_23_P69030	Info	COL8A1; collagen, type VIII, alpha 1	NM_001850	Hs.114599	COL8A1	chr3 (100,678,355-100,836,059)	0.4069178	2.391	1.721	1.389
+249	6820	BP	anion transport	A_23_P159125	Info	SLC16A5; solute carrier family 16 (monocarboxylic acid transporters), member 5	NM_004695	Hs.90911	SLC16A5	chr17 (73,681,159-73,699,372)	0.4332095	1.379	1.065	1.295
+250	6820	BP	anion transport	A_23_P254654	Info	CLIC3; chloride intracellular channel 3	NM_004669	Hs.64746	CLIC3	chr9 (135,246,350-135,248,549)	0.4461735	0.927	0.708	1.309
+251	6820	BP	anion transport	A_23_P75268	Info	VDAC2; voltage-dependent anion channel 2	NM_003375	Hs.355927	VDAC2	chr10 (76,314,515-76,336,036)	0.4481426	0.766	0.674	1.136
+252	6820	BP	anion transport	A_23_P108216	Info	FXYD1; FXYD domain containing ion transport regulator 1 (phospholemman)	NM_005031	Hs.442498	FXYD1	chr19 (40,322,196-40,325,802)	0.46183	1.343	1.087	1.236
+253	6820	BP	anion transport	A_23_P1331	Info	COL13A1; collagen, type XIII, alpha 1	NM_005203	Hs.211933	COL13A1	chr10 (70,906,247-71,063,506)	0.4740476	0.968	0.865	1.119
+254	6820	BP	anion transport	A_23_P501010	Info	COL17A1; collagen, type XVII, alpha 1	NM_130778	Hs.117938	COL17A1	chr10 (105,455,628-105,510,254)	0.4808001	3.998	7.159	0.558
+255	6820	BP	anion transport	A_24_P293192	Info	FXYD3; FXYD domain containing ion transport regulator 3	NM_005971	Hs.301350	FXYD3	chr19 (40,298,476-40,307,067)	0.4831326	1.415	1.853	0.764
+256	6820	BP	anion transport	A_23_P27306	Info	COLEC12; collectin sub-family member 12	NM_030781	Hs.29423	COLEC12	chr18 (309,568-470,766)	0.5054161	0.483	0.396	1.22
+257	6820	BP	anion transport	A_23_P40108	Info	COL9A3; collagen, type IX, alpha 3	NM_001853	Hs.126248	COL9A3	chr20 (62,174,728-62,219,325)	0.5080345	0.201	0.153	1.314
+258	6820	BP	anion transport	A_23_P153266	Info	TOMM40; translocase of outer mitochondrial membrane 40 homolog (yeast)	NM_006114	Hs.310542	TOMM40	chr19 (50,086,322-50,098,776)	0.5284801	0.477	0.427	1.117
+259	6820	BP	anion transport	A_23_P385067	Info	CLIC6; chloride intracellular channel 6	NM_053277	Hs.353146	CLIC6	chr21 (34,962,084-35,010,927)	0.5789027	2.717	3.292	0.825
+260	6820	BP	anion transport	A_23_P61688	Info	SLC12A7; solute carrier family 12 (potassium/chloride transporters), member 7	NM_006598	Hs.172613	SLC12A7	chr5 (1,103,229-1,164,869)	0.5830948	1.649	1.84	0.896
+261	6820	BP	anion transport	A_23_P127995	Info	CLNS1A; chloride channel, nucleotide-sensitive, 1A	NM_001293	Hs.417369	CLNS1A	chr11 (77,053,504-77,075,181)	0.6026729	0.712	0.825	0.863
+262	6820	BP	anion transport	A_23_P142533	Info		X01742		COL3A1	chr2 (190,041,588-190,080,016)	0.6700631	56.153	49.05	1.145
+263	6820	BP	anion transport	A_23_P117059	Info	SLC16A7; solute carrier family 16 (monocarboxylic acid transporters), member 7	AF058056	Hs.439643	SLC16A7	chr12 (58,369,388-58,462,366)	0.6717864	1.066	0.939	1.135
+264	6820	BP	anion transport	A_23_P29248	Info	TST; thiosulfate sulfurtransferase (rhodanese)	NM_003312	Hs.351863	TST	chr22 (35,649,946-35,658,611)	0.680314	0.841	0.764	1.101
+265	6820	BP	anion transport	A_23_P137366	Info	C1QB; complement component 1, q subcomponent, beta polypeptide	NM_000491	Hs.8986	C1QB	chr1 (22,448,949-22,457,611)	0.7100311	12.614	11.319	1.114
+266	6820	BP	anion transport	A_23_P60069	Info	VDAC3; voltage-dependent anion channel 3	NM_005662	Hs.439253	VDAC3	chr8 (42,266,686-42,280,822)	0.7369099	0.849	0.781	1.087
+267	6820	BP	anion transport	A_24_P222655	Info	C1QA; complement component 1, q subcomponent, alpha polypeptide	NM_015991	Hs.9641	C1QA		0.7444099	9.712	9.095	1.068
+268	6820	BP	anion transport	A_23_P11806	Info	COL11A1; collagen, type XI, alpha 1	NM_080629	Hs.439168	COL11A1	chr1 (102,805,918-103,036,975)	0.7508401	5.679	4.528	1.254
+269	6820	BP	anion transport	A_23_P94921	Info	SLC20A2; solute carrier family 20 (phosphate transporter), member 2	NM_006749	Hs.347527	SLC20A2	chr8 (42,291,350-42,425,295)	0.7787722	1.334	1.431	0.932
+270	6820	BP	anion transport	A_23_P120125	Info	COLEC11; collectin sub-family member 11	NM_024027	Hs.32603	COLEC11	chr2 (3,207,147-3,256,747)	0.8123399	0.984	1.035	0.951
+271	6820	BP	anion transport	A_23_P135494	Info	CLIC4; chloride intracellular channel 4	NM_013943	Hs.25035	CLIC4	chr1 (24,422,972-24,521,983)	0.8393464	1.375	1.304	1.054
+272	6820	BP	anion transport	A_23_P101992	Info	MARCO; macrophage receptor with collagenous structure	NM_006770	Hs.67726	MARCO	chr2 (119,794,886-119,847,390)	0.8691375	3.066	3.248	0.944
+273	6820	BP	anion transport	A_24_P235316	Info	VDAC3; voltage-dependent anion channel 3	NM_005662	Hs.439253	VDAC3	chr8 (42,266,686-42,280,822)	0.8774277	0.795	0.826	0.962
+274	6820	BP	anion transport	A_23_P39647	Info	SLC4A3; solute carrier family 4, anion exchanger, member 3	NM_005070	Hs.1176	SLC4A3	chr2 (220,695,243-220,709,224)	0.8889837	1.197	1.235	0.969
+275	6820	BP	anion transport	A_23_P45365	Info	COL4A5; collagen, type IV, alpha 5 (Alport syndrome)	NM_033380	Hs.169825	COL4A5	chrX (106,455,011-106,712,641)	0.9049948	0.699	0.669	1.045
+276	6820	BP	anion transport	A_24_P372223	Info	MSR1; macrophage scavenger receptor 1	NM_138715	Hs.436887	MSR1	chr8 (15,975,756-16,060,590)	0.9312767	5.332	5.196	1.026
+277	5021	MF	vascular endothelial growth factor receptor activity	A_23_P14798	Info	NEO1; neogenin homolog 1 (chicken)	NM_002499	Hs.388613	NEO1	chr15 (71,060,692-71,311,903)	0.0122176	0.822	1.19	0.691
+278	5021	MF	vascular endothelial growth factor receptor activity	A_23_P421401	Info	PDGFRB; platelet-derived growth factor receptor, beta polypeptide	NM_002609	Hs.307783	PDGFRB	chr5 (149,521,886-149,563,917)	0.0405169	8.085	4.372	1.849
+279	5021	MF	vascular endothelial growth factor receptor activity	A_23_P300033	Info	PDGFRA; platelet-derived growth factor receptor, alpha polypeptide	NM_006206	Hs.74615	PDGFRA	chr4 (55,011,053-55,076,981)	0.0684279	1.438	0.919	1.565
+280	5021	MF	vascular endothelial growth factor receptor activity	A_23_P110253	Info	KIT; v-kit Hardy-Zuckerman 4 feline sarcoma viral oncogene homolog	NM_000222	Hs.81665	KIT	chr4 (55,439,643-55,522,397)	0.2348697	1.257	2.174	0.578
+281	5021	MF	vascular endothelial growth factor receptor activity	A_24_P135322	Info	NRP1; neuropilin 1	BC007533	Hs.173548	NRP1	chr10 (33,470,413-33,627,604)	0.5171928	1.17	0.976	1.199
+282	5001	MF	transmembrane receptor protein tyrosine phosphatase activity	A_23_P200984	Info	PTPRF; protein tyrosine phosphatase, receptor type, F	BC029466	Hs.75216	PTPRF	chr1 (43,499,512-43,502,078)	0.0004604	1.127	2.156	0.523
+283	5001	MF	transmembrane receptor protein tyrosine phosphatase activity	A_24_P385313	Info	PTPRF; protein tyrosine phosphatase, receptor type, F	NM_002840	Hs.75216	PTPRF	chr1 (43,409,841-43,503,445)	0.0335206	2.259	4.108	0.55
+284	5001	MF	transmembrane receptor protein tyrosine phosphatase activity	A_23_P53390	Info	PTPRB; protein tyrosine phosphatase, receptor type, B	NM_002837	Hs.434375	PTPRB	chr12 (69,200,990-69,317,458)	0.1026781	2.89	1.734	1.667
+285	5001	MF	transmembrane receptor protein tyrosine phosphatase activity	A_32_P99100	Info	PTPRK; protein tyrosine phosphatase, receptor type, K	NM_002844	Hs.354262	PTPRK	chr6 (128,270,490-128,822,329)	0.1413545	1.195	1.824	0.655
+286	5001	MF	transmembrane receptor protein tyrosine phosphatase activity	A_23_P125451	Info	PTPRC; protein tyrosine phosphatase, receptor type, C	NM_002838	Hs.444324	PTPRC	chr1 (195,896,425-196,014,864)	0.224932	4.512	3.053	1.478
+287	5001	MF	transmembrane receptor protein tyrosine phosphatase activity	A_32_P79434	Info	PTPRN2; protein tyrosine phosphatase, receptor type, N polypeptide 2	NM_002847	Hs.74624	PTPRN2		0.3298326	0.535	0.423	1.265
+288	5001	MF	transmembrane receptor protein tyrosine phosphatase activity	A_23_P138495	Info	PTPRE; protein tyrosine phosphatase, receptor type, E	NM_006504	Hs.437980	PTPRE	chr10 (129,179,718-129,356,833)	0.9017207	1.938	2	0.969
+289	5001	MF	transmembrane receptor protein tyrosine phosphatase activity	A_24_P235248	Info	PTPRZ1; protein tyrosine phosphatase, receptor-type, Z polypeptide 1	NM_002851	Hs.78867	PTPRZ1	chr7 (121,067,683-121,256,884)	0.934593	0.512	0.521	0.983
+290	5001	MF	transmembrane receptor protein tyrosine phosphatase activity	A_24_P213494	Info	PTPRE; protein tyrosine phosphatase, receptor type, E	AF406557	Hs.437980	PTPRE	chr10 (129,179,718-129,356,833)	0.9436477	3.446	3.501	0.984
+291	19198	MF	transmembrane receptor protein phosphatase activity	A_23_P200984	Info	PTPRF; protein tyrosine phosphatase, receptor type, F	BC029466	Hs.75216	PTPRF	chr1 (43,499,512-43,502,078)	0.0004604	1.127	2.156	0.523
+292	19198	MF	transmembrane receptor protein phosphatase activity	A_24_P385313	Info	PTPRF; protein tyrosine phosphatase, receptor type, F	NM_002840	Hs.75216	PTPRF	chr1 (43,409,841-43,503,445)	0.0335206	2.259	4.108	0.55
+293	19198	MF	transmembrane receptor protein phosphatase activity	A_23_P53390	Info	PTPRB; protein tyrosine phosphatase, receptor type, B	NM_002837	Hs.434375	PTPRB	chr12 (69,200,990-69,317,458)	0.1026781	2.89	1.734	1.667
+294	19198	MF	transmembrane receptor protein phosphatase activity	A_32_P99100	Info	PTPRK; protein tyrosine phosphatase, receptor type, K	NM_002844	Hs.354262	PTPRK	chr6 (128,270,490-128,822,329)	0.1413545	1.195	1.824	0.655
+295	19198	MF	transmembrane receptor protein phosphatase activity	A_23_P125451	Info	PTPRC; protein tyrosine phosphatase, receptor type, C	NM_002838	Hs.444324	PTPRC	chr1 (195,896,425-196,014,864)	0.224932	4.512	3.053	1.478
+296	19198	MF	transmembrane receptor protein phosphatase activity	A_32_P79434	Info	PTPRN2; protein tyrosine phosphatase, receptor type, N polypeptide 2	NM_002847	Hs.74624	PTPRN2		0.3298326	0.535	0.423	1.265
+297	19198	MF	transmembrane receptor protein phosphatase activity	A_23_P138495	Info	PTPRE; protein tyrosine phosphatase, receptor type, E	NM_006504	Hs.437980	PTPRE	chr10 (129,179,718-129,356,833)	0.9017207	1.938	2	0.969
+298	19198	MF	transmembrane receptor protein phosphatase activity	A_24_P235248	Info	PTPRZ1; protein tyrosine phosphatase, receptor-type, Z polypeptide 1	NM_002851	Hs.78867	PTPRZ1	chr7 (121,067,683-121,256,884)	0.934593	0.512	0.521	0.983
+299	19198	MF	transmembrane receptor protein phosphatase activity	A_24_P213494	Info	PTPRE; protein tyrosine phosphatase, receptor type, E	AF406557	Hs.437980	PTPRE	chr10 (129,179,718-129,356,833)	0.9436477	3.446	3.501	0.984
+300	7185	BP	transmembrane receptor protein tyrosine phosphatase signaling pathway	A_23_P200984	Info	PTPRF; protein tyrosine phosphatase, receptor type, F	BC029466	Hs.75216	PTPRF	chr1 (43,499,512-43,502,078)	0.0004604	1.127	2.156	0.523
+301	7185	BP	transmembrane receptor protein tyrosine phosphatase signaling pathway	A_24_P385313	Info	PTPRF; protein tyrosine phosphatase, receptor type, F	NM_002840	Hs.75216	PTPRF	chr1 (43,409,841-43,503,445)	0.0335206	2.259	4.108	0.55
+302	7185	BP	transmembrane receptor protein tyrosine phosphatase signaling pathway	A_23_P303087	Info	PTN; pleiotrophin (heparin binding growth factor 8, neurite growth-promoting factor 1)	NM_002825	Hs.44	PTN	chr7 (136,328,122-136,444,642)	0.5820492	1.264	0.911	1.387
+303	7185	BP	transmembrane receptor protein tyrosine phosphatase signaling pathway	A_23_P425880	Info	TRIO; triple functional domain (PTPRF interacting)	NM_007118	Hs.367689	TRIO	chr5 (14,196,548-14,562,649)	0.7462962	0.914	0.882	1.036
+304	7185	BP	transmembrane receptor protein tyrosine phosphatase signaling pathway	A_23_P170551	Info	PTN; pleiotrophin (heparin binding growth factor 8, neurite growth-promoting factor 1)	NM_002825	Hs.44	PTN	chr7 (136,328,122-136,444,642)	0.9911332	1.591	1.599	0.995
+305	31072	MF	heat shock protein binding	A_24_P402064	Info	SEC63; SEC63-like (S. cerevisiae)	BC023598	Hs.330767	SEC63	chr6 (108,237,089-108,324,964)	0.0061324	1.223	2.175	0.562
+306	31072	MF	heat shock protein binding	A_24_P192183	Info	SEC63; SEC63-like (S. cerevisiae)	BC023598	Hs.330767	SEC63	chr6 (108,237,089-108,324,964)	0.0107723	1.32	2.146	0.615
+307	31072	MF	heat shock protein binding	A_24_P63827	Info	DNAJB6; DnaJ (Hsp40) homolog, subfamily B, member 6	NM_005494	Hs.181195	DNAJB6	chr11 (127,347,705-127,349,361)	0.0340934	0.871	1.385	0.629
+308	31072	MF	heat shock protein binding	A_32_P229746	Info	DNAJB6; DnaJ (Hsp40) homolog, subfamily B, member 6	NM_005494	Hs.181195	DNAJB6	chr11 (127,347,705-127,349,361)	0.0613227	1.117	1.678	0.666
+309	31072	MF	heat shock protein binding	A_23_P15090	Info	DNAJA2; DnaJ (Hsp40) homolog, subfamily A, member 2	NM_005880	Hs.368078	DNAJA2	chr16 (46,770,358-46,788,714)	0.065477	0.719	0.856	0.84
+310	31072	MF	heat shock protein binding	A_23_P215227	Info	DNAJB6; DnaJ (Hsp40) homolog, subfamily B, member 6	NM_005494	Hs.181195	DNAJB6	chr11 (127,347,705-127,349,361)	0.10029	1.011	1.452	0.696
+311	31072	MF	heat shock protein binding	A_23_P214977	Info	SEC63; SEC63-like (S. cerevisiae)	NM_007214	Hs.330767	SEC63	chr6 (108,237,089-108,324,964)	0.2134029	1.233	1.531	0.805
+312	31072	MF	heat shock protein binding	A_23_P127128	Info	DNAJC1; DnaJ (Hsp40) homolog, subfamily C, member 1	NM_022365	Hs.13015	DNAJC1	chr10 (22,049,473-22,296,690)	0.2490499	1.169	1.485	0.787
+313	31072	MF	heat shock protein binding	A_23_P51339	Info	DNAJB4; DnaJ (Hsp40) homolog, subfamily B, member 4	NM_007034	Hs.380282	DNAJB4	chr1 (77,893,194-77,906,244)	0.3143874	1.352	1.066	1.268
+314	31072	MF	heat shock protein binding	A_23_P385063	Info	DNAJB6; DnaJ (Hsp40) homolog, subfamily B, member 6	NM_058246	Hs.181195	DNAJB6	chr7 (156,546,504-156,627,300)	0.3218648	1.214	1.411	0.86
+315	31072	MF	heat shock protein binding	A_24_P393958	Info	DNAJB4; DnaJ (Hsp40) homolog, subfamily B, member 4	NM_007034	Hs.380282	DNAJB4	chr1 (77,893,194-77,906,244)	0.3273699	1.711	1.258	1.36
+316	31072	MF	heat shock protein binding	A_23_P155700	Info	GAK; cyclin G associated kinase	NM_005255	Hs.153227	GAK	chr4 (832,896-916,005)	0.575673	0.633	0.685	0.924
+317	31072	MF	heat shock protein binding	A_23_P60479	Info	DNAJA1; DnaJ (Hsp40) homolog, subfamily A, member 1	NM_001539	Hs.388392	DNAJA1	chr9 (33,015,160-33,029,903)	0.6486608	0.994	0.884	1.124
+318	31072	MF	heat shock protein binding	A_24_P9671	Info	DNAJA1; DnaJ (Hsp40) homolog, subfamily A, member 1	NM_001539	Hs.388392	DNAJA1	chr9 (33,015,160-33,029,903)	0.7123874	0.991	0.903	1.097
+319	31072	MF	heat shock protein binding	A_23_P206140	Info	DNAJA4; DnaJ (Hsp40) homolog, subfamily A, member 4	NM_018602	Hs.76853	DNAJA4	chr15 (76,272,306-76,290,355) chr15 (76,278,178-76,288,706)	0.7662279	1.908	1.801	1.059
+320	31072	MF	heat shock protein binding	A_24_P397150	Info	GAK; cyclin G associated kinase	AK092587	Hs.153227	GAK	chr4 (832,890-835,172)	0.9176136	0.692	0.683	1.013
+321	31072	MF	heat shock protein binding	A_23_P104372	Info	DNAJC9; DnaJ (Hsp40) homolog, subfamily C, member 9	NM_015190	Hs.400676	DNAJC9	chr10 (74,346,287-74,352,806)	0.9609546	0.695	0.703	0.989
+322	31072	MF	heat shock protein binding	A_23_P166899	Info	DNAJB11; DnaJ (Hsp40) homolog, subfamily B, member 11	NM_016306	Hs.317192	DNAJB11	chr3 (187,606,100-187,624,501)	0.981973	0.742	0.739	1.004
+323	7167	BP	enzyme linked receptor protein signaling pathway	A_23_P200984	Info	PTPRF; protein tyrosine phosphatase, receptor type, F	BC029466	Hs.75216	PTPRF	chr1 (43,499,512-43,502,078)	0.0004604	1.127	2.156	0.523
+324	7167	BP	enzyme linked receptor protein signaling pathway	A_24_P304636	Info	RPS6KA5; ribosomal protein S6 kinase, 90kDa, polypeptide 5	AF074393	Hs.109058	RPS6KA5	chr14 (89,327,213-89,517,000)	0.0046269	1.087	1.675	0.649
+325	7167	BP	enzyme linked receptor protein signaling pathway	A_23_P90359	Info	NRTN; neurturin	NM_004558	Hs.234775	NRTN	chr19 (5,756,064-5,779,338)	0.0171517	0.304	0.571	0.532
+326	7167	BP	enzyme linked receptor protein signaling pathway	A_24_P385313	Info	PTPRF; protein tyrosine phosphatase, receptor type, F	NM_002840	Hs.75216	PTPRF	chr1 (43,409,841-43,503,445)	0.0335206	2.259	4.108	0.55
+327	7167	BP	enzyme linked receptor protein signaling pathway	A_23_P69958	Info	AP3S1; adaptor-related protein complex 3, sigma 1 subunit	NM_001284	Hs.406191	AP3S1	chr5 (115,243,229-115,326,016)	0.0361674	1.568	1.025	1.53
+328	7167	BP	enzyme linked receptor protein signaling pathway	A_23_P421401	Info	PDGFRB; platelet-derived growth factor receptor, beta polypeptide	NM_002609	Hs.307783	PDGFRB	chr5 (149,521,886-149,563,917)	0.0405169	8.085	4.372	1.849
+329	7167	BP	enzyme linked receptor protein signaling pathway	A_23_P95060	Info	EPHB3; EphB3	NM_004443	Hs.2913	EPHB3	chr3 (185,600,462-185,621,118)	0.0594061	2.511	4.269	0.588
+330	7167	BP	enzyme linked receptor protein signaling pathway	A_23_P251387	Info	REPS2; RALBP1 associated Eps domain containing 2	NM_004726	Hs.334168	REPS2	chrX (16,326,240-16,527,793)	0.0663184	0.979	1.335	0.733
+331	7167	BP	enzyme linked receptor protein signaling pathway	A_23_P300033	Info	PDGFRA; platelet-derived growth factor receptor, alpha polypeptide	NM_006206	Hs.74615	PDGFRA	chr4 (55,011,053-55,076,981)	0.0684279	1.438	0.919	1.565
+332	7167	BP	enzyme linked receptor protein signaling pathway	A_23_P30547	Info	LCP2; lymphocyte cytosolic protein 2 (SH2 domain containing leukocyte protein of 76kDa)	NM_005565	Hs.2488	LCP2	chr5 (169,655,975-169,706,137)	0.0941657	2.532	1.85	1.369
+333	7167	BP	enzyme linked receptor protein signaling pathway	A_23_P167468	Info	PRLR; prolactin receptor	NM_000949	Hs.212892	PRLR	chr5 (35,109,728-35,276,105)	0.1078558	1.626	2.561	0.635
+334	7167	BP	enzyme linked receptor protein signaling pathway	A_23_P374695	Info	TEK; TEK tyrosine kinase, endothelial (venous malformations, multiple cutaneous and mucosal)	NM_000459	Hs.89640	TEK	chr9 (27,099,236-27,220,178)	0.1100204	1.972	1.18	1.671
+335	7167	BP	enzyme linked receptor protein signaling pathway	A_23_P61810	Info	BAIAP2; BAI1-associated protein 2	NM_017450	Hs.128316	BAIAP2	chr17 (79,709,174-79,782,917)	0.1575111	1.055	0.724	1.457
+336	7167	BP	enzyme linked receptor protein signaling pathway	A_24_P235266	Info	GRB10; growth factor receptor-bound protein 10	NM_005311	Hs.512118	GRB10	chr7 (50,401,988-50,592,013)	0.2032678	1.18	0.952	1.239
+337	7167	BP	enzyme linked receptor protein signaling pathway	A_24_P79054	Info	TGFB1; transforming growth factor, beta 1 (Camurati-Engelmann disease)	NM_000660	Hs.1103	TGFB1	chr19 (46,527,920-46,551,826)	0.2062943	0.477	0.399	1.195
+338	7167	BP	enzyme linked receptor protein signaling pathway	A_23_P168443	Info	EPHB4; EphB4	NM_004444	Hs.437008	EPHB4	chr7 (100,011,584-100,036,570)	0.2117456	0.922	1.152	0.8
+339	7167	BP	enzyme linked receptor protein signaling pathway	A_23_P66219	Info	PDPK1; 3-phosphoinositide dependent protein kinase-1	NM_002613	Hs.154729	PDPK1	chr16 (2,527,519-2,587,908)	0.2120497	0.902	0.794	1.136
+340	7167	BP	enzyme linked receptor protein signaling pathway	A_23_P110253	Info	KIT; v-kit Hardy-Zuckerman 4 feline sarcoma viral oncogene homolog	NM_000222	Hs.81665	KIT	chr4 (55,439,643-55,522,397)	0.2348697	1.257	2.174	0.578
+341	7167	BP	enzyme linked receptor protein signaling pathway	A_23_P77847	Info		NM_025199		GRB2	chr17 (73,911,281-73,998,930)	0.2650063	1.298	1.029	1.261
+342	7167	BP	enzyme linked receptor protein signaling pathway	A_23_P24926	Info	FNTA; farnesyltransferase, CAAX box, alpha	NM_002027	Hs.356463	FNTA	chr8 (42,928,420-42,958,304)	0.3274421	1.298	1.494	0.869
+343	7167	BP	enzyme linked receptor protein signaling pathway	A_23_P79221	Info	ACVR1; activin A receptor, type I	NM_001105	Hs.150402	ACVR1	chr2 (158,795,311-158,934,168)	0.3320299	1.348	1.176	1.146
+344	7167	BP	enzyme linked receptor protein signaling pathway	A_23_P301304	Info	FGFR1; fibroblast growth factor receptor 1 (fms-related tyrosine kinase 2, Pfeiffer syndrome)	NM_000604	Hs.748	FGFR1	chr8 (38,287,090-38,343,531)	0.4013537	0.751	0.542	1.386
+345	7167	BP	enzyme linked receptor protein signaling pathway	A_23_P110791	Info	CSF1R; colony stimulating factor 1 receptor, formerly McDonough feline sarcoma viral (v-fms) oncogene homolog	NM_005211	Hs.174142	CSF1R	chr5 (149,461,154-149,521,453)	0.4285066	14.685	12.541	1.171
+346	7167	BP	enzyme linked receptor protein signaling pathway	A_23_P145024	Info	ADRB2; adrenergic, beta-2-, receptor, surface	NM_000024	Hs.2551	ADRB2	chr5 (148,234,683-148,236,706)	0.4299205	1.281	1.069	1.198
+347	7167	BP	enzyme linked receptor protein signaling pathway	A_23_P61406	Info	SHC3; src homology 2 domain containing transforming protein C3	NM_016848	Hs.151123	SHC3	chr9 (87,117,543-87,283,731)	0.4306054	1.022	0.915	1.117
+348	7167	BP	enzyme linked receptor protein signaling pathway	A_23_P200443	Info	SHC1; SHC (Src homology 2 domain containing) transforming protein 1	NM_003029	Hs.433795	SHC1	chr1 (152,151,481-152,160,000) chr1 (152,151,567-152,163,672)	0.4425948	0.856	0.764	1.12
+349	7167	BP	enzyme linked receptor protein signaling pathway	A_32_P163247	Info	CD8A; CD8 antigen, alpha polypeptide (p32)	NM_001768	Hs.85258	CD8A	chr2 (86,986,263-87,010,279)	0.4466339	2.789	2.274	1.226
+350	7167	BP	enzyme linked receptor protein signaling pathway	A_23_P347632	Info	MTSS1; metastasis suppressor 1	NM_014751	Hs.77694	MTSS1	chr8 (125,519,618-125,697,295) chr8 (125,519,619-125,528,429)	0.4630633	2.159	2.679	0.806
+351	7167	BP	enzyme linked receptor protein signaling pathway	A_24_P123601	Info	DDR1; discoidin domain receptor family, member 1	NM_013994	Hs.423573	DDR1	chr6 (30,962,418-30,974,188)	0.4690592	2.046	2.785	0.735
+352	7167	BP	enzyme linked receptor protein signaling pathway	A_23_P89249	Info	ERBB2; v-erb-b2 erythroblastic leukemia viral oncogene homolog 2, neuro/glioblastoma derived oncogene homolog (avian)	NM_004448	Hs.446352	ERBB2	chr17 (38,231,256-38,260,161)	0.4873523	2.47	1.707	1.447
+353	7167	BP	enzyme linked receptor protein signaling pathway	A_23_P312150	Info	EDN2; endothelin 2	NM_001956	Hs.1407	EDN2	chr1 (41,357,736-41,363,624)	0.516936	1.459	1.768	0.825
+354	7167	BP	enzyme linked receptor protein signaling pathway	A_24_P242391	Info	MPZL1; myelin protein zero-like 1	AF092424	Hs.14891	MPZL1	chr1 (164,878,604-164,948,129)	0.5222694	1.215	1.412	0.86
+355	7167	BP	enzyme linked receptor protein signaling pathway	A_23_P303087	Info	PTN; pleiotrophin (heparin binding growth factor 8, neurite growth-promoting factor 1)	NM_002825	Hs.44	PTN	chr7 (136,328,122-136,444,642)	0.5820492	1.264	0.911	1.387
+356	7167	BP	enzyme linked receptor protein signaling pathway	A_23_P12363	Info	ROR1; receptor tyrosine kinase-like orphan receptor 1	NM_005012	Hs.274243	ROR1	chr1 (63,844,403-64,014,629)	0.6041884	0.462	0.4	1.155
+357	7167	BP	enzyme linked receptor protein signaling pathway	A_23_P255785	Info	NCK1; NCK adaptor protein 1	NM_006153	Hs.54589	NCK1	chr3 (137,901,968-137,988,881)	0.6079272	1.221	1.315	0.929
+358	7167	BP	enzyme linked receptor protein signaling pathway	A_23_P200780	Info	TGFBR3; transforming growth factor, beta receptor III (betaglycan, 300kDa)	NM_003243	Hs.342874	TGFBR3	chr1 (91,619,775-91,823,467)	0.6275679	1.617	1.369	1.181
+359	7167	BP	enzyme linked receptor protein signaling pathway	A_24_P156781	Info	PIK3R3; phosphoinositide-3-kinase, regulatory subunit, polypeptide 3 (p55, gamma)	NM_003629	Hs.372548	PIK3R3	chr1 (45,875,723-45,967,962)	0.6445961	1.274	1.096	1.162
+360	7167	BP	enzyme linked receptor protein signaling pathway	A_23_P11874	Info	MPZL1; myelin protein zero-like 1	NM_003953	Hs.14891	MPZL1	chr1 (164,878,604-164,948,129)	0.6865261	1.093	1.197	0.913
+361	7167	BP	enzyme linked receptor protein signaling pathway	A_23_P114883	Info	FMOD; fibromodulin	NM_002023	Hs.442844	FMOD	chr1 (200,598,003-200,608,865)	0.7174004	19.406	16.994	1.142
+362	7167	BP	enzyme linked receptor protein signaling pathway	A_23_P19829	Info	PILRB; paired immunoglobin-like type 2 receptor beta	NM_175047	Hs.349256	PILRB	chr7 (99,560,663-99,576,752) chr7 (99,545,129-99,576,853)	0.7337575	1.925	1.785	1.078
+363	7167	BP	enzyme linked receptor protein signaling pathway	A_23_P215790	Info	EGFR; epidermal growth factor receptor (erythroblastic leukemia viral (v-erb-b) oncogene homolog, avian)	NM_005228	Hs.77432	EGFR	chr7 (54,828,533-55,017,074)	0.7339032	0.954	1.085	0.879
+364	7167	BP	enzyme linked receptor protein signaling pathway	A_23_P425880	Info	TRIO; triple functional domain (PTPRF interacting)	NM_007118	Hs.367689	TRIO	chr5 (14,196,548-14,562,649)	0.7462962	0.914	0.882	1.036
+365	7167	BP	enzyme linked receptor protein signaling pathway	A_23_P202388	Info	SORBS1; sorbin and SH3 domain containing 1	NM_006434	Hs.108924	SORBS1	chr10 (96,739,403-96,985,717)	0.7984123	2.147	2.312	0.929
+366	7167	BP	enzyme linked receptor protein signaling pathway	A_23_P108501	Info	EPHA4; EphA4	NM_004438	Hs.73964	EPHA4	chr2 (222,492,495-222,639,560)	0.829802	1.058	1.011	1.046
+367	7167	BP	enzyme linked receptor protein signaling pathway	A_24_P317907	Info	SORBS1; sorbin and SH3 domain containing 1	NM_015385	Hs.108924	SORBS1	chr10 (96,739,403-96,861,909)	0.8345512	2.489	2.251	1.106
+368	7167	BP	enzyme linked receptor protein signaling pathway	A_23_P169819	Info	EPHA3; EphA3	NM_005233	Hs.123642	EPHA3	chr3 (89,077,575-89,451,582)	0.8352008	0.656	0.632	1.038
+369	7167	BP	enzyme linked receptor protein signaling pathway	A_23_P35617	Info	PLCE1; phospholipase C, epsilon 1	NM_016341	Hs.103417	PLCE1	chr10 (95,418,333-95,753,171)	0.8393188	0.979	0.941	1.04
+370	7167	BP	enzyme linked receptor protein signaling pathway	A_23_P500501	Info	FGFR3; fibroblast growth factor receptor 3 (achondroplasia, thanatophoric dwarfism)	NM_000142	Hs.1420	FGFR3	chr4 (1,757,262-1,772,237)	0.8546903	0.213	0.236	0.903
+371	7167	BP	enzyme linked receptor protein signaling pathway	A_23_P169756	Info	HIPK2; homeodomain interacting protein kinase 2	NM_022740	Hs.397465	HIPK2	chr7 (138,671,048-138,884,807)	0.8627285	1.655	1.732	0.956
+372	7167	BP	enzyme linked receptor protein signaling pathway	A_24_P403244	Info	PILRB; paired immunoglobin-like type 2 receptor beta	NM_175047	Hs.349256	PILRB	chr7 (99,560,663-99,576,752) chr7 (99,545,129-99,576,853)	0.8639302	1.23	1.276	0.964
+373	7167	BP	enzyme linked receptor protein signaling pathway	A_23_P136347	Info	EPS8; epidermal growth factor receptor pathway substrate 8	NM_004447	Hs.2132	EPS8	chr12 (15,664,336-15,833,650)	0.8685758	1.654	1.721	0.961
+374	7167	BP	enzyme linked receptor protein signaling pathway	A_23_P5601	Info	DOK1; docking protein 1, 62kDa (downstream of tyrosine kinase 1)	NM_001381	Hs.103854	DOK1	chr2 (74,756,355-74,759,233)	0.8696723	1.239	1.203	1.03
+375	7167	BP	enzyme linked receptor protein signaling pathway	A_23_P349416	Info	ERBB3; v-erb-b2 erythroblastic leukemia viral oncogene homolog 3 (avian)	NM_001982	Hs.306251	ERBB3	chr12 (54,760,154-54,783,019)	0.9790758	1.092	1.096	0.996
+376	7167	BP	enzyme linked receptor protein signaling pathway	A_23_P170551	Info	PTN; pleiotrophin (heparin binding growth factor 8, neurite growth-promoting factor 1)	NM_002825	Hs.44	PTN	chr7 (136,328,122-136,444,642)	0.9911332	1.591	1.599	0.995
+377	15662	MF	ATPase activity\, coupled to transmembrane movement of ions\, phosphorylative mechanism	A_23_P128319	Info	ATP2B1; ATPase, Ca++ transporting, plasma membrane 1	NM_001682	Hs.20952	ATP2B1	chr12 (88,484,287-88,552,355)	0.0071359	0.676	0.459	1.473
+378	15662	MF	ATPase activity\, coupled to transmembrane movement of ions\, phosphorylative mechanism	A_23_P142815	Info	ATP6V1B1; ATPase, H+ transporting, lysosomal 56/58kDa, V1 subunit B, isoform 1 (Renal tubular acidosis with deafness)	NM_001692	Hs.64173	ATP6V1B1	chr2 (71,137,527-71,167,105)	0.0087132	0.786	1.451	0.542
+379	15662	MF	ATPase activity\, coupled to transmembrane movement of ions\, phosphorylative mechanism	A_23_P31844	Info	ATP6V1B2; ATPase, H+ transporting, lysosomal 56/58kDa, V1 subunit B, isoform 2	NM_001693	Hs.295917	ATP6V1B2	chr8 (20,064,977-20,089,491)	0.1170167	0.59	0.984	0.6
+380	15662	MF	ATPase activity\, coupled to transmembrane movement of ions\, phosphorylative mechanism	A_23_P27472	Info	ATP1A3; ATPase, Na+/K+ transporting, alpha 3 polypeptide	NM_152296	Hs.380447	ATP1A3	chr19 (47,162,573-47,190,185)	0.1672952	0.579	0.782	0.74
+381	15662	MF	ATPase activity\, coupled to transmembrane movement of ions\, phosphorylative mechanism	A_23_P143916	Info	ATP2C1; ATPase, Ca++ transporting, type 2C, member 1	NM_014382	Hs.106778	ATP2C1	chr3 (131,933,751-132,041,755)	0.2632599	1.654	2.041	0.81
+382	15662	MF	ATPase activity\, coupled to transmembrane movement of ions\, phosphorylative mechanism	A_23_P148879	Info	ATP1A2; ATPase, Na+/K+ transporting, alpha 2 (+) polypeptide	NM_000702	Hs.34114	ATP1A2	chr1 (157,300,962-157,330,367)	0.2667875	1.809	0.848	2.133
+383	15662	MF	ATPase activity\, coupled to transmembrane movement of ions\, phosphorylative mechanism	A_23_P207632	Info	ATP2A3; ATPase, Ca++ transporting, ubiquitous	NM_174953	Hs.5541	ATP2A3	chr17 (4,033,759-4,074,326)	0.3080404	0.96	0.852	1.127
+384	15662	MF	ATPase activity\, coupled to transmembrane movement of ions\, phosphorylative mechanism	A_23_P1072	Info	ATP1A1; ATPase, Na+/K+ transporting, alpha 1 polypeptide	NM_000701	Hs.371889	ATP1A1	chr1 (116,262,194-116,294,165)	0.3830648	0.881	1.073	0.821
+385	15662	MF	ATPase activity\, coupled to transmembrane movement of ions\, phosphorylative mechanism	A_23_P146943	Info	ATP1B1; ATPase, Na+/K+ transporting, beta 1 polypeptide	NM_001677	Hs.78629	ATP1B1	chr1 (166,263,318-166,289,948)	0.5700685	0.865	1.071	0.808
+386	15662	MF	ATPase activity\, coupled to transmembrane movement of ions\, phosphorylative mechanism	A_23_P68007	Info	ATP1B3; ATPase, Na+/K+ transporting, beta 3 polypeptide	NM_001679	Hs.76941	ATP1B3	chr3 (142,916,301-142,966,291)	0.6548458	0.678	0.621	1.092
+387	15662	MF	ATPase activity\, coupled to transmembrane movement of ions\, phosphorylative mechanism	A_23_P62932	Info	ATP1B1; ATPase, Na+/K+ transporting, beta 1 polypeptide	NM_001677	Hs.78629	ATP1B1	chr1 (166,263,318-166,289,948)	0.7999421	1.251	1.419	0.882
+388	50767	BP	regulation of neurogenesis	A_24_P77432	Info	ROBO1; roundabout, axon guidance receptor, homolog 1 (Drosophila)	NM_133631	Hs.301198	ROBO1	chr3 (78,567,285-78,989,475)	0.0409047	0.575	0.286	2.01
+389	50767	BP	regulation of neurogenesis	A_23_P164650	Info	APOE; apolipoprotein E	NM_000041	Hs.110675	APOE	chr19 (50,100,890-50,104,762)	0.0461937	2.479	1.236	2.006
+390	50767	BP	regulation of neurogenesis	A_23_P144348	Info	SLIT2; slit homolog 2 (Drosophila)	NM_004787	Hs.29802	SLIT2	chr4 (20,005,704-20,371,676)	0.0503232	4.456	2.35	1.896
+391	50767	BP	regulation of neurogenesis	A_23_P156284	Info	DBN1; drebrin 1	NM_080881	Hs.89434	DBN1	chr5 (176,864,466-176,881,564)	0.1246843	0.726	0.868	0.836
+392	50767	BP	regulation of neurogenesis	A_23_P100660	Info	SERPINF1; serine (or cysteine) proteinase inhibitor, clade F (alpha-2 antiplasmin, pigment epithelium derived factor), member 1	NM_002615	Hs.173594	SERPINF1	chr17 (1,871,891-1,887,456)	0.2231799	2.181	1.406	1.551
+393	50767	BP	regulation of neurogenesis	A_23_P56933	Info	RTN4; reticulon 4	AJ251383	Hs.436349	RTN4	chr2 (55,173,859-55,252,214)	0.6611862	1.375	1.202	1.144
+394	5813	CC	centrosome	A_23_P88083	Info	CDC16; CDC16 cell division cycle 16 homolog (S. cerevisiae)	NM_003903	Hs.1592	CDC16	chr13 (112,918,467-112,956,261)	0.0017066	0.645	1.145	0.563
+395	5813	CC	centrosome	A_23_P82950	Info	PCM1; pericentriolar material 1	NM_006197	Hs.348501	PCM1	chr8 (17,790,617-17,895,537)	0.0579939	0.677	0.985	0.687
+396	5813	CC	centrosome	A_24_P319613	Info	NEK2; NIMA (never in mitosis gene a)-related kinase 2	AY045701	Hs.153704	NEK2	chr1 (208,918,744-208,928,293)	0.063383	0.553	0.875	0.632
+397	5813	CC	centrosome	A_23_P207400	Info	BRCA1; breast cancer 1, early onset	NM_007294	Hs.194143	BRCA1	chr17 (41,569,473-41,650,665)	0.1317039	0.241	0.176	1.369
+398	5813	CC	centrosome	A_23_P35219	Info	NEK2; NIMA (never in mitosis gene a)-related kinase 2	NM_002497	Hs.153704	NEK2	chr1 (208,915,494-208,928,360)	0.1356627	0.302	0.505	0.598
+399	5813	CC	centrosome	A_23_P73493	Info	CETN2; centrin, EF-hand protein, 2	NM_004344	Hs.82794	CETN2	chrX (150,613,081-150,616,968)	0.1533023	0.955	1.263	0.756
+400	5813	CC	centrosome	A_24_P411899	Info	RNF19; ring finger protein 19	NM_015435	Hs.439660	RNF19	chr8 (101,225,667-101,278,935)	0.1965194	1.794	1.477	1.215
+401	5813	CC	centrosome	A_32_P228775	Info		AJ271448		PPP4R2	chr5 (339,950-345,083)	0.3275696	0.823	0.961	0.856
+402	5813	CC	centrosome	A_23_P215070	Info	TSGA14; testis specific, 14	NM_018718	Hs.282386	TSGA14	chr7 (129,588,957-129,634,081)	0.3330642	0.379	0.479	0.791
+403	5813	CC	centrosome	A_23_P143906	Info	MLF1; myeloid leukemia factor 1	NM_022443	Hs.85195	MLF1	chr3 (159,609,783-159,645,168)	0.3777675	0.906	1.267	0.715
+404	5813	CC	centrosome	A_24_P188941	Info	NPM1; nucleophosmin (nucleolar phosphoprotein B23, numatrin)	NM_002520	Hs.411098	NPM1	chr5 (93,092,033-93,093,674)	0.6253628	0.624	0.564	1.106
+405	5813	CC	centrosome	A_23_P214037	Info	NPM1; nucleophosmin (nucleolar phosphoprotein B23, numatrin)	NM_002520	Hs.411098	NPM1	chr5 (93,092,033-93,093,674)	0.6820483	0.488	0.444	1.099
+406	5813	CC	centrosome	A_23_P7732	Info	CETN3; centrin, EF-hand protein, 3 (CDC31 homolog, yeast)	NM_004365	Hs.528302	CETN3	chr5 (89,773,227-89,789,698)	0.7342853	0.394	0.367	1.074
+407	5813	CC	centrosome	A_32_P49423	Info	NPM1; nucleophosmin (nucleolar phosphoprotein B23, numatrin)	NM_002520	Hs.411098	NPM1	chr5 (93,092,033-93,093,674)	0.7520466	0.408	0.378	1.079
+408	5813	CC	centrosome	A_23_P309261	Info	AKAP9; A kinase (PRKA) anchor protein (yotiao) 9	NM_147171	Hs.58103	AKAP9	chr7 (91,182,221-91,352,018)	0.8264747	1.438	1.377	1.044
+409	51094	BP	positive regulation of development	A_24_P77432	Info	ROBO1; roundabout, axon guidance receptor, homolog 1 (Drosophila)	NM_133631	Hs.301198	ROBO1	chr3 (78,567,285-78,989,475)	0.0409047	0.575	0.286	2.01
+410	51094	BP	positive regulation of development	A_23_P144348	Info	SLIT2; slit homolog 2 (Drosophila)	NM_004787	Hs.29802	SLIT2	chr4 (20,005,704-20,371,676)	0.0503232	4.456	2.35	1.896
+411	51094	BP	positive regulation of development	A_23_P128215	Info	SOCS2; suppressor of cytokine signaling 2	NM_003877	Hs.405946	SOCS2	chr12 (92,466,066-92,472,784)	0.0818828	0.662	0.487	1.359
+412	51094	BP	positive regulation of development	A_23_P46482	Info	IL20; interleukin 20	NM_018724	Hs.272373	IL20	chr1 (204,122,398-204,126,266)	0.1376844	1.165	0.913	1.276
+413	51094	BP	positive regulation of development	A_23_P100660	Info	SERPINF1; serine (or cysteine) proteinase inhibitor, clade F (alpha-2 antiplasmin, pigment epithelium derived factor), member 1	NM_002615	Hs.173594	SERPINF1	chr17 (1,871,891-1,887,456)	0.2231799	2.181	1.406	1.551
+414	51094	BP	positive regulation of development	A_23_P132611	Info	VHL; von Hippel-Lindau syndrome	NM_000551	Hs.421597	VHL	chr3 (10,158,319-10,168,744)	0.7057533	1.161	1.085	1.07
+415	30693	MF	caspase activity	A_23_P209408	Info	CASP10; caspase 10, apoptosis-related cysteine protease	NM_032977	Hs.5353	CASP10	chr2 (202,250,388-202,287,346)	0.0260328	1.449	1.029	1.408
+416	30693	MF	caspase activity	A_23_P12572	Info	CASP7; caspase 7, apoptosis-related cysteine protease	NM_033338	Hs.9216	CASP7	chr10 (115,104,105-115,155,249)	0.0688098	1.767	1.273	1.388
+417	30693	MF	caspase activity	A_23_P35906	Info	CASP4; caspase 4, apoptosis-related cysteine protease	AL050391	Hs.74122	CASP4	chr11 (104,351,312-104,377,010)	0.1116932	1.572	1.207	1.302
+418	30693	MF	caspase activity	A_23_P35912	Info	CASP4; caspase 4, apoptosis-related cysteine protease	NM_033306	Hs.74122	CASP4	chr11 (104,351,312-104,377,011)	0.168186	1.666	1.215	1.371
+419	30693	MF	caspase activity	A_23_P47304	Info	CASP5; caspase 5, apoptosis-related cysteine protease	NM_004347	Hs.213327	CASP5	chr11 (104,402,681-104,417,417)	0.1733394	1.57	1.202	1.306
+420	30693	MF	caspase activity	A_24_P157087	Info	CASP8; caspase 8, apoptosis-related cysteine protease	NM_033356	Hs.243491	CASP8	chr2 (202,327,765-202,355,386)	0.1834265	0.631	0.385	1.639
+421	30693	MF	caspase activity	A_23_P500799	Info	CASP6; caspase 6, apoptosis-related cysteine protease	NM_001226	Hs.3280	CASP6	chr4 (111,068,605-111,083,449)	0.3628221	0.89	1.05	0.848
+422	30693	MF	caspase activity	A_23_P202978	Info	CASP1; caspase 1, apoptosis-related cysteine protease (interleukin 1, beta, convertase)	NM_033292	Hs.2490	CASP1	chr11 (104,433,963-104,443,615)	0.769893	2.057	2.219	0.927
+423	42623	MF	ATPase activity\, coupled	A_23_P15511	Info	DDX5; DEAD (Asp-Glu-Ala-Asp) box polypeptide 5	NM_004396	Hs.279806	DDX5	chr17 (63,045,398-63,052,911)	0.0027812	1.891	1.109	1.705
+424	42623	MF	ATPase activity\, coupled	A_23_P128319	Info	ATP2B1; ATPase, Ca++ transporting, plasma membrane 1	NM_001682	Hs.20952	ATP2B1	chr12 (88,484,287-88,552,355)	0.0071359	0.676	0.459	1.473
+425	42623	MF	ATPase activity\, coupled	A_23_P142815	Info	ATP6V1B1; ATPase, H+ transporting, lysosomal 56/58kDa, V1 subunit B, isoform 1 (Renal tubular acidosis with deafness)	NM_001692	Hs.64173	ATP6V1B1	chr2 (71,137,527-71,167,105)	0.0087132	0.786	1.451	0.542
+426	42623	MF	ATPase activity\, coupled	A_23_P54816	Info	ATP6V0C; ATPase, H+ transporting, lysosomal 16kDa, V0 subunit c	NM_001694	Hs.389107	ATP6V0C	chr16 (2,503,267-2,509,775)	0.0186871	1.292	0.894	1.445
+427	42623	MF	ATPase activity\, coupled	A_23_P143551	Info	ATP6V1E1; ATPase, H+ transporting, lysosomal 31kDa, V1 subunit E isoform 1	NM_001696	Hs.77805	ATP6V1E1	chr22 (16,449,479-16,486,154)	0.0563566	0.879	1.14	0.771
+428	42623	MF	ATPase activity\, coupled	A_23_P31844	Info	ATP6V1B2; ATPase, H+ transporting, lysosomal 56/58kDa, V1 subunit B, isoform 2	NM_001693	Hs.295917	ATP6V1B2	chr8 (20,064,977-20,089,491)	0.1170167	0.59	0.984	0.6
+429	42623	MF	ATPase activity\, coupled	A_23_P93690	Info	MCM7; MCM7 minichromosome maintenance deficient 7 (S. cerevisiae)	NM_005916	Hs.438720	MCM7	chr7 (99,301,640-99,310,824)	0.1319578	0.363	0.474	0.766
+430	42623	MF	ATPase activity\, coupled	A_23_P156445	Info	DDX43; DEAD (Asp-Glu-Ala-Asp) box polypeptide 43	NM_018665	Hs.125507	DDX43	chr6 (74,074,410-74,122,880)	0.1375473	0.504	0.343	1.469
+431	42623	MF	ATPase activity\, coupled	A_23_P258221	Info	ABCC5; ATP-binding cassette, sub-family C (CFTR/MRP), member 5	NM_005688	Hs.34744	ABCC5	chr3 (184,958,630-185,056,671)	0.1432332	1.844	1.236	1.492
+432	42623	MF	ATPase activity\, coupled	A_24_P1929	Info	DDX52; DEAD (Asp-Glu-Ala-Asp) box polypeptide 52	AK093661	Hs.380430	DDX52	chr17 (36,175,362-36,199,025)	0.1600424	0.826	1.032	0.8
+433	42623	MF	ATPase activity\, coupled	A_23_P27472	Info	ATP1A3; ATPase, Na+/K+ transporting, alpha 3 polypeptide	NM_152296	Hs.380447	ATP1A3	chr19 (47,162,573-47,190,185)	0.1672952	0.579	0.782	0.74
+434	42623	MF	ATPase activity\, coupled	A_23_P16573	Info	DDX49; DEAD (Asp-Glu-Ala-Asp) box polypeptide 49	NM_019070	Hs.143187	DDX49	chr19 (18,891,492-18,900,446)	0.1721174	0.652	0.834	0.782
+435	42623	MF	ATPase activity\, coupled	A_23_P129133	Info	OCA2; oculocutaneous albinism II (pink-eye dilution homolog, mouse)	NM_000275	Hs.82027	OCA2	chr15 (25,602,392-25,946,825)	0.1732762	0.332	0.524	0.634
+436	42623	MF	ATPase activity\, coupled	A_23_P77818	Info	ATP5H; ATP synthase, H+ transporting, mitochondrial F0 complex, subunit d	NM_006356	Hs.155728	ATP5H		0.1748883	1.088	0.815	1.335
+437	42623	MF	ATPase activity\, coupled	A_24_P197196	Info	ABCB6; ATP-binding cassette, sub-family B (MDR/TAP), member 6	NM_005689	Hs.107911	ABCB6	chr2 (220,277,033-220,286,326)	0.1804518	0.901	0.725	1.243
+438	42623	MF	ATPase activity\, coupled	A_23_P143047	Info	ATP6V1E2; ATPase, H+ transporting, lysosomal 31kDa, V1 subunit E isoform 2	NM_080653	Hs.437691	ATP6V1E2	chr2 (46,713,518-46,721,672)	0.1992105	0.702	0.88	0.798
+439	42623	MF	ATPase activity\, coupled	A_23_P5441	Info	ABCB6; ATP-binding cassette, sub-family B (MDR/TAP), member 6	NM_005689	Hs.107911	ABCB6	chr2 (220,277,033-220,286,326)	0.2121514	0.534	0.4	1.335
+440	42623	MF	ATPase activity\, coupled	A_23_P143916	Info	ATP2C1; ATPase, Ca++ transporting, type 2C, member 1	NM_014382	Hs.106778	ATP2C1	chr3 (131,933,751-132,041,755)	0.2632599	1.654	2.041	0.81
+441	42623	MF	ATPase activity\, coupled	A_23_P148879	Info	ATP1A2; ATPase, Na+/K+ transporting, alpha 2 (+) polypeptide	NM_000702	Hs.34114	ATP1A2	chr1 (157,300,962-157,330,367)	0.2667875	1.809	0.848	2.133
+442	42623	MF	ATPase activity\, coupled	A_32_P23624	Info	ABCB10; ATP-binding cassette, sub-family B (MDR/TAP), member 10	NM_012089	Hs.1710	ABCB10	chr1 (226,613,534-226,655,683)	0.2710968	0.723	0.851	0.85
+443	42623	MF	ATPase activity\, coupled	A_23_P252322	Info	ATP5E; ATP synthase, H+ transporting, mitochondrial F1 complex, epsilon subunit	NM_006886	Hs.177530	ATP5E		0.2718186	1.375	1.079	1.274
+444	42623	MF	ATPase activity\, coupled	A_23_P157478	Info	ATP6V1H; ATPase, H+ transporting, lysosomal 50/57kDa, V1 subunit H	NM_015941	Hs.19575	ATP6V1H	chr8 (54,677,981-54,805,782)	0.2746604	1.034	0.84	1.231
+445	42623	MF	ATPase activity\, coupled	A_23_P137103	Info	EIF4A1; eukaryotic translation initiation factor 4A, isoform 1	NM_001416	Hs.129673	EIF4A1	chr17 (7,678,056-7,682,522)	0.2856799	0.692	0.574	1.206
+446	42623	MF	ATPase activity\, coupled	A_24_P283225	Info	MYO6; myosin VI	NM_004999	Hs.118483	MYO6	chr6 (76,454,522-76,621,927)	0.291654	1.916	2.605	0.736
+447	42623	MF	ATPase activity\, coupled	A_23_P63655	Info	ATP5C1; ATP synthase, H+ transporting, mitochondrial F1 complex, gamma polypeptide 1	NM_005174	Hs.155433	ATP5C1	chr10 (7,834,064-7,853,784)	0.2986366	0.727	0.902	0.806
+448	42623	MF	ATPase activity\, coupled	A_23_P255952	Info	MYO6; myosin VI	NM_004999	Hs.118483	MYO6	chr6 (76,454,522-76,621,927)	0.3021379	1.907	2.575	0.741
+449	42623	MF	ATPase activity\, coupled	A_23_P207632	Info	ATP2A3; ATPase, Ca++ transporting, ubiquitous	NM_174953	Hs.5541	ATP2A3	chr17 (4,033,759-4,074,326)	0.3080404	0.96	0.852	1.127
+450	42623	MF	ATPase activity\, coupled	A_23_P317657	Info	DDX3X; DEAD (Asp-Glu-Ala-Asp) box polypeptide 3, X-linked	NM_024005	Hs.380774	DDX3X	chrX (40,223,413-40,254,662)	0.3231558	0.563	0.659	0.854
+451	42623	MF	ATPase activity\, coupled	A_23_P117654	Info	MYO5A; myosin VA (heavy polypeptide 12, myoxin)	NM_000259	Hs.21213	MYO5A	chr15 (50,320,529-50,537,308)	0.3318899	0.802	0.632	1.269
+452	42623	MF	ATPase activity\, coupled	A_24_P168456	Info	ATP5D; ATP synthase, H+ transporting, mitochondrial F1 complex, delta subunit	NM_001687	Hs.418668	ATP5D		0.3555092	0.505	0.421	1.2
+453	42623	MF	ATPase activity\, coupled	A_32_P13728	Info	HSPA8; heat shock 70kDa protein 8	NM_006597	Hs.180414	HSPA8	chr11 (122,465,752-122,470,552)	0.3637893	0.992	0.827	1.2
+454	42623	MF	ATPase activity\, coupled	A_24_P390793	Info	EIF4A1; eukaryotic translation initiation factor 4A, isoform 1	NM_001416	Hs.129673	EIF4A1	chr17 (7,678,056-7,682,522)	0.3650389	0.605	0.508	1.191
+455	42623	MF	ATPase activity\, coupled	A_23_P1072	Info	ATP1A1; ATPase, Na+/K+ transporting, alpha 1 polypeptide	NM_000701	Hs.371889	ATP1A1	chr1 (116,262,194-116,294,165)	0.3830648	0.881	1.073	0.821
+456	42623	MF	ATPase activity\, coupled	A_23_P97161	Info	TTF2; transcription termination factor, RNA polymerase II	NM_003594	Hs.201774	TTF2	chr1 (116,949,305-116,991,615)	0.4025388	0.497	0.575	0.864
+457	42623	MF	ATPase activity\, coupled	A_23_P39110	Info	RUVBL2; RuvB-like 2 (E. coli)	NM_006666	Hs.6455	RUVBL2	chr19 (54,189,834-54,211,053)	0.4029027	0.255	0.283	0.901
+458	42623	MF	ATPase activity\, coupled	A_23_P78664	Info	DDX39; DEAD (Asp-Glu-Ala-Asp) box polypeptide 39	NM_138998	Hs.311609	DDX39	chr19 (14,380,633-14,391,171)	0.410058	0.591	0.499	1.184
+459	42623	MF	ATPase activity\, coupled	A_23_P26865	Info	MYH3; myosin, heavy polypeptide 3, skeletal muscle, embryonic	NM_002470	Hs.440895	MYH3	chr17 (10,732,412-10,760,048)	0.4159979	1.125	0.942	1.194
+460	42623	MF	ATPase activity\, coupled	A_23_P24774	Info	ABCC8; ATP-binding cassette, sub-family C (CFTR/MRP), member 8	NM_000352	Hs.54470	ABCC8	chr11 (17,378,723-17,462,758)	0.4187846	1	1.2	0.833
+461	42623	MF	ATPase activity\, coupled	A_23_P390343	Info	DHX40; DEAH (Asp-Glu-Ala-His) box polypeptide 40	AK095681	Hs.29403	DHX40		0.4346498	0.62	0.543	1.142
+462	42623	MF	ATPase activity\, coupled	A_23_P50156	Info	VPS4B; vacuolar protein sorting 4B (yeast)	AF038960	Hs.126550	VPS4B	chr18 (59,205,392-59,238,729)	0.436755	0.782	0.876	0.893
+463	42623	MF	ATPase activity\, coupled	A_24_P287129	Info	HSPA8; heat shock 70kDa protein 8	NM_006597	Hs.180414	HSPA8	chr11 (122,465,752-122,470,552)	0.4436078	1.078	0.913	1.181
+464	42623	MF	ATPase activity\, coupled	A_23_P7873	Info	MCM3; MCM3 minichromosome maintenance deficient 3 (S. cerevisiae)	NM_002388	Hs.179565	MCM3	chr6 (52,175,640-52,197,456)	0.4525288	0.448	0.539	0.831
+465	42623	MF	ATPase activity\, coupled	A_23_P160940	Info	ABCA4; ATP-binding cassette, sub-family A (ABC1), member 4	NM_000350	Hs.416707	ABCA4	chr1 (93,930,185-94,058,506)	0.4988207	1.553	1.222	1.271
+466	42623	MF	ATPase activity\, coupled	A_23_P59005	Info	TAP1; transporter 1, ATP-binding cassette, sub-family B (MDR/TAP)	NM_000593	Hs.352018	TAP1	chr6 (32,859,787-32,869,073)	0.5102778	3.204	2.536	1.263
+467	42623	MF	ATPase activity\, coupled	A_23_P24594	Info	HSPA8; heat shock 70kDa protein 8	NM_006597	Hs.180414	HSPA8	chr11 (122,465,752-122,470,552)	0.5129658	1.018	0.886	1.149
+468	42623	MF	ATPase activity\, coupled	A_23_P141076	Info	ABCC11; ATP-binding cassette, sub-family C (CFTR/MRP), member 11	NM_033151	Hs.335891	ABCC11	chr16 (47,978,779-48,047,062)	0.5338308	1.559	1.24	1.257
+469	42623	MF	ATPase activity\, coupled	A_23_P207507	Info	ABCC3; ATP-binding cassette, sub-family C (CFTR/MRP), member 3	NM_003786	Hs.90786	ABCC3	chr17 (49,186,866-49,243,700)	0.5471843	1.075	0.9	1.194
+470	42623	MF	ATPase activity\, coupled	A_23_P30075	Info	ATP8A1; ATPase, aminophospholipid transporter (APLT), Class I, type 8A, member 1	NM_006095	Hs.291385	ATP8A1	chr4 (42,329,619-42,574,506)	0.5552066	0.798	0.699	1.142
+471	42623	MF	ATPase activity\, coupled	A_23_P42144	Info	PEX6; peroxisomal biogenesis factor 6	NM_000287	Hs.301636	PEX6	chr6 (42,978,463-42,993,831)	0.5588723	0.722	0.646	1.118
+472	42623	MF	ATPase activity\, coupled	A_23_P146943	Info	ATP1B1; ATPase, Na+/K+ transporting, beta 1 polypeptide	NM_001677	Hs.78629	ATP1B1	chr1 (166,263,318-166,289,948)	0.5700685	0.865	1.071	0.808
+473	42623	MF	ATPase activity\, coupled	A_23_P88731	Info	RAD51; RAD51 homolog (RecA homolog, E. coli) (S. cerevisiae)	NM_002875	Hs.446554	RAD51	chr15 (38,703,424-38,740,410)	0.571299	0.43	0.479	0.898
+474	42623	MF	ATPase activity\, coupled	A_23_P56680	Info	ATP5G3; ATP synthase, H+ transporting, mitochondrial F0 complex, subunit c (subunit 9) isoform 3	NM_001689	Hs.429	ATP5G3	chr2 (176,244,934-176,248,931)	0.5740813	0.917	1.029	0.891
+475	42623	MF	ATPase activity\, coupled	A_24_P215765	Info		I_1000537		ATP10A	chr15 (23,469,781-23,656,231)	0.5793952	2.634	2.942	0.895
+476	42623	MF	ATPase activity\, coupled	A_23_P164228	Info	ATP5G1; ATP synthase, H+ transporting, mitochondrial F0 complex, subunit c (subunit 9), isoform 1	NM_005175	Hs.80986	ATP5G1	chr17 (47,444,801-47,447,875)	0.5926078	0.629	0.568	1.107
+477	42623	MF	ATPase activity\, coupled	A_23_P16908	Info		NM_145646		DHX57	chr2 (38,999,408-39,062,876)	0.6026672	1.125	1.228	0.916
+478	42623	MF	ATPase activity\, coupled	A_23_P154832	Info	ATP5J; ATP synthase, H+ transporting, mitochondrial F0 complex, subunit F6	NM_001685	Hs.246310	ATP5J	chr21 (26,018,683-26,029,862)	0.6122114	0.624	0.691	0.903
+479	42623	MF	ATPase activity\, coupled	A_24_P363679	Info	ATP6V1H; ATPase, H+ transporting, lysosomal 50/57kDa, V1 subunit H	AF125105	Hs.19575	ATP6V1H	chr8 (54,718,782-54,805,096)	0.6311278	0.807	0.718	1.124
+480	42623	MF	ATPase activity\, coupled	A_23_P158976	Info	ABCC2; ATP-binding cassette, sub-family C (CFTR/MRP), member 2	NM_000392	Hs.193852	ABCC2	chr10 (101,207,050-101,276,920)	0.6342812	0.209	0.189	1.106
+481	42623	MF	ATPase activity\, coupled	A_23_P68007	Info	ATP1B3; ATPase, Na+/K+ transporting, beta 3 polypeptide	NM_001679	Hs.76941	ATP1B3	chr3 (142,916,301-142,966,291)	0.6548458	0.678	0.621	1.092
+482	42623	MF	ATPase activity\, coupled	A_23_P125420	Info	ATP5I; ATP synthase, H+ transporting, mitochondrial F0 complex, subunit e	NM_007100	Hs.85539	ATP5I		0.6596065	1.428	1.313	1.088
+483	42623	MF	ATPase activity\, coupled	A_23_P201918	Info	ABCB10; ATP-binding cassette, sub-family B (MDR/TAP), member 10	NM_012089	Hs.1710	ABCB10	chr1 (226,613,534-226,655,683)	0.6640268	0.7	0.751	0.932
+484	42623	MF	ATPase activity\, coupled	A_23_P71558	Info	RECQL4; RecQ protein-like 4	NM_004260	Hs.31442	RECQL4	chr8 (145,741,468-145,748,042)	0.6725223	0.399	0.454	0.879
+485	42623	MF	ATPase activity\, coupled	A_32_P121424	Info	ATP6V0D2; ATPase, H+ transporting, lysosomal 38kDa, V0 subunit d isoform 2	NM_152565	Hs.436360	ATP6V0D2	chr8 (87,067,588-87,123,049)	0.6766642	1.381	1.271	1.087
+486	42623	MF	ATPase activity\, coupled	A_24_P96527	Info	ATP5L; ATP synthase, H+ transporting, mitochondrial F0 complex, subunit g	NM_006476	Hs.107476	ATP5L	chr11 (117,809,906-117,818,213)	0.7052624	0.826	0.904	0.914
+487	42623	MF	ATPase activity\, coupled	A_23_P102876	Info	CCT8; chaperonin containing TCP1, subunit 8 (theta)	NM_006585	Hs.416211	CCT8	chr21 (29,350,306-29,366,455)	0.7289808	0.39	0.415	0.94
+488	42623	MF	ATPase activity\, coupled	A_32_P93149	Info	DDX10; DEAD (Asp-Glu-Ala-Asp) box polypeptide 10	NM_004398	Hs.41706	DDX10	chr11 (108,073,428-108,349,305)	0.7465218	1.159	1.084	1.069
+489	42623	MF	ATPase activity\, coupled	A_23_P146058	Info	ATP6V1C1; ATPase, H+ transporting, lysosomal 42kDa, V1 subunit C, isoform 1	NM_001695	Hs.86905	ATP6V1C1	chr8 (103,989,826-104,038,587)	0.7578048	1.011	1.105	0.915
+490	42623	MF	ATPase activity\, coupled	A_23_P62932	Info	ATP1B1; ATPase, Na+/K+ transporting, beta 1 polypeptide	NM_001677	Hs.78629	ATP1B1	chr1 (166,263,318-166,289,948)	0.7999421	1.251	1.419	0.882
+491	42623	MF	ATPase activity\, coupled	A_24_P302998	Info	ATP5I; ATP synthase, H+ transporting, mitochondrial F0 complex, subunit e	NM_007100	Hs.85539	ATP5I		0.8532726	1.175	1.141	1.03
+492	42623	MF	ATPase activity\, coupled	A_23_P25215	Info	RECQL; RecQ protein-like (DNA helicase Q1-like)	NM_032941	Hs.235069	RECQL	chr12 (21,513,696-21,545,819)	0.8844783	0.643	0.626	1.027
+493	42623	MF	ATPase activity\, coupled	A_23_P140876	Info	ABCA3; ATP-binding cassette, sub-family A (ABC1), member 3	NM_001089	Hs.26630	ABCA3	chr16 (2,265,797-2,319,800)	0.908158	0.979	0.961	1.019
+494	42623	MF	ATPase activity\, coupled	A_23_P370989	Info	MCM4; MCM4 minichromosome maintenance deficient 4 (S. cerevisiae)	NM_005914	Hs.460184	MCM4	chr8 (48,922,825-48,940,126)	0.9220561	0.325	0.316	1.028
+495	42623	MF	ATPase activity\, coupled	A_23_P90612	Info	MCM6; MCM6 minichromosome maintenance deficient 6 (MIS5 homolog, S. pombe) (S. cerevisiae)	NM_005915	Hs.444118	MCM6	chr2 (136,807,965-136,844,761)	0.9548746	0.357	0.353	1.011
+496	42623	MF	ATPase activity\, coupled	A_24_P305556	Info	MCM8; MCM8 minichromosome maintenance deficient 8 (S. cerevisiae)	NM_032485	Hs.528694	MCM8	chr20 (5,926,298-5,973,870)	0.9775197	0.37	0.368	1.005
+497	6928	BP	cell motility	A_23_P14798	Info	NEO1; neogenin homolog 1 (chicken)	NM_002499	Hs.388613	NEO1	chr15 (71,060,692-71,311,903)	0.0122176	0.822	1.19	0.691
+498	6928	BP	cell motility	A_23_P121533	Info	SPON2; spondin 2, extracellular matrix protein	NM_012445	Hs.435953	SPON2	chr4 (1,150,544-1,156,831)	0.0162924	5.012	2.083	2.406
+499	6928	BP	cell motility	A_23_P213562	Info	F2R; coagulation factor II (thrombin) receptor	NM_001992	Hs.128087	F2R	chr5 (76,095,824-76,115,667)	0.0176519	0.863	0.553	1.561
+500	6928	BP	cell motility	A_23_P215461	Info	LIMK1; LIM domain kinase 1	NM_002314	Hs.36566	LIMK1	chr7 (72,910,253-72,949,038)	0.0294524	2.155	1.409	1.529
+501	6928	BP	cell motility	A_23_P252471	Info	PECAM1; platelet/endothelial cell adhesion molecule (CD31 antigen)	NM_000442	Hs.78146	PECAM1	chr17 (62,873,201-62,937,382)	0.0328886	19.854	12.559	1.581
+502	6928	BP	cell motility	A_23_P144348	Info	SLIT2; slit homolog 2 (Drosophila)	NM_004787	Hs.29802	SLIT2	chr4 (20,005,704-20,371,676)	0.0503232	4.456	2.35	1.896
+503	6928	BP	cell motility	A_23_P210763	Info	JAG1; jagged 1 (Alagille syndrome)	NM_000214	Hs.409202	JAG1	chr20 (10,613,332-10,649,755)	0.0743507	2.055	1.279	1.607
+504	6928	BP	cell motility	A_24_P116805	Info	STAT3; signal transducer and activator of transcription 3 (acute-phase response factor)	BC000627	Hs.421342	STAT3	chr17 (40,838,503-40,913,688)	0.0759483	0.859	1.112	0.772
+505	6928	BP	cell motility	A_23_P502312	Info	CD97; CD97 antigen	NM_078481	Hs.3107	CD97	chr19 (14,353,182-14,380,533)	0.1006393	0.874	0.629	1.39
+506	6928	BP	cell motility	A_23_P70719	Info	LAMA2; laminin, alpha 2 (merosin, congenital muscular dystrophy)	NM_000426	Hs.445120	LAMA2	chr6 (129,184,912-129,818,286)	0.1168695	2.039	1.456	1.4
+507	6928	BP	cell motility	A_23_P133656	Info	LAMA4; laminin, alpha 4	NM_002290	Hs.437536	LAMA4	chr6 (112,475,526-112,621,372)	0.1595078	2.235	1.324	1.688
+508	6928	BP	cell motility	A_24_P252945	Info	BLR1; Burkitt lymphoma receptor 1, GTP binding protein (chemokine (C-X-C motif) receptor 5)	NM_032966	Hs.113916	BLR1	chr11 (118,292,213-118,316,969)	0.1620577	2.831	1.814	1.561
+509	6928	BP	cell motility	A_23_P27472	Info	ATP1A3; ATPase, Na+/K+ transporting, alpha 3 polypeptide	NM_152296	Hs.380447	ATP1A3	chr19 (47,162,573-47,190,185)	0.1672952	0.579	0.782	0.74
+510	6928	BP	cell motility	A_23_P114299	Info	CXCR3; chemokine (C-X-C motif) receptor 3	NM_001504	Hs.198252	CXCR3	chrX (69,702,551-69,705,158)	0.1757145	1.455	1.19	1.223
+511	6928	BP	cell motility	A_23_P70060	Info	PPAP2A; phosphatidic acid phosphatase type 2A	NM_176895	Hs.528702	PPAP2A	chr5 (54,619,466-54,846,768)	0.1790518	2.517	1.586	1.587
+512	6928	BP	cell motility	A_23_P21976	Info	CSPG4; chondroitin sulfate proteoglycan 4 (melanoma-associated)	NM_001897	Hs.436301	CSPG4	chr15 (73,682,478-73,720,994)	0.1905573	0.499	0.361	1.382
+513	6928	BP	cell motility	A_23_P417753	Info	OPHN1; oligophrenin 1	NM_002547	Hs.128824	OPHN1	chrX (66,135,018-66,520,547)	0.1945228	1.534	2.019	0.76
+514	6928	BP	cell motility	A_24_P119745	Info	FN1; fibronectin 1	NM_002026	Hs.418138	FN1	chr2 (216,428,128-216,503,335)	0.2074821	1.216	0.561	2.168
+515	6928	BP	cell motility	A_23_P138706	Info	ADRA2A; adrenergic, alpha-2A-, receptor	NM_000681	Hs.249159	ADRA2A	chr10 (112,501,508-112,505,247)	0.2462697	3.455	2.047	1.688
+516	6928	BP	cell motility	A_23_P19663	Info	CTGF; connective tissue growth factor	NM_001901	Hs.410037	CTGF	chr6 (132,249,385-132,253,111)	0.2645871	2.867	2.06	1.392
+517	6928	BP	cell motility	A_23_P148879	Info	ATP1A2; ATPase, Na+/K+ transporting, alpha 2 (+) polypeptide	NM_000702	Hs.34114	ATP1A2	chr1 (157,300,962-157,330,367)	0.2667875	1.809	0.848	2.133
+518	6928	BP	cell motility	A_23_P118061	Info	CKLF; chemokine-like factor	NM_181641	Hs.15159	CKLF	chr16 (66,362,791-66,376,291)	0.2700413	0.55	0.649	0.847
+519	6928	BP	cell motility	A_23_P340698	Info	MMP12; matrix metalloproteinase 12 (macrophage elastase)	NM_002426	Hs.1695	MMP12	chr11 (102,271,180-102,283,460)	0.2723867	1.636	2.587	0.632
+520	6928	BP	cell motility	A_32_P210642	Info	EGFL7; EGF-like-domain, multiple 7	NM_016215	Hs.91481	EGFL7	chr9 (134,914,620-134,924,423)	0.2829179	0.572	0.441	1.297
+521	6928	BP	cell motility	A_24_P260443	Info	THBS4; thrombospondin 4	NM_003248	Hs.415041	THBS4	chr5 (79,415,064-79,463,187)	0.2891749	4.878	2.97	1.642
+522	6928	BP	cell motility	A_23_P123608	Info	JAK2; Janus kinase 2 (a protein tyrosine kinase)	NM_004972	Hs.434374	JAK2	chr9 (4,974,915-5,118,182)	0.30586	2.08	1.598	1.302
+523	6928	BP	cell motility	A_23_P49338	Info	TNFRSF12A; tumor necrosis factor receptor superfamily, member 12A	NM_016639	Hs.355899	TNFRSF12A	chr16 (3,070,589-3,072,681)	0.3264765	0.466	0.365	1.277
+524	6928	BP	cell motility	A_23_P366376	Info	TDGF1; teratocarcinoma-derived growth factor 1	NM_003212	Hs.385870	TDGF1	chr3 (46,579,733-46,584,549)	0.3323116	0.243	0.281	0.865
+525	6928	BP	cell motility	A_24_P85539	Info	FN1; fibronectin 1	U42594	Hs.418138	FN1	chr2 (216,436,934-216,461,893)	0.3430905	0.647	0.44	1.47
+526	6928	BP	cell motility	A_24_P215804	Info	CKLF; chemokine-like factor	NM_016326	Hs.15159	CKLF	chr16 (66,362,791-66,376,289)	0.3438221	0.557	0.641	0.869
+527	6928	BP	cell motility	A_23_P208126	Info		I_960544		SERPINB5	chr18 (59,293,110-59,321,296)	0.3537389	1.032	1.363	0.757
+528	6928	BP	cell motility	A_24_P175519	Info	TXN; thioredoxin	NM_003329	Hs.395309	TXN	chr9 (108,385,928-108,398,792)	0.3555422	0.75	0.933	0.804
+529	6928	BP	cell motility	A_23_P202881	Info	FEZ1; fasciculation and elongation protein zeta 1 (zygin I)	NM_005103	Hs.79226	FEZ1	chr11 (124,852,859-124,903,850)	0.3572652	0.429	0.345	1.243
+530	6928	BP	cell motility	A_23_P31041	Info	MYLIP; myosin regulatory light chain interacting protein	NM_013262	Hs.443793	MYLIP		0.3619384	0.665	0.765	0.869
+531	6928	BP	cell motility	A_23_P206396	Info	CKLF; chemokine-like factor	NM_016951	Hs.15159	CKLF	chr16 (66,362,552-66,376,298)	0.3692396	0.691	0.796	0.868
+532	6928	BP	cell motility	A_24_P279203	Info	C16orf3; chromosome 16 open reading frame 3	NM_001481	Hs.431792	GAS8	chr16 (89,831,187-89,853,598)	0.3736593	0.874	1.073	0.815
+533	6928	BP	cell motility	A_23_P157580	Info	SDCBP; syndecan binding protein (syntenin)	NM_005625	Hs.164067	SDCBP	chr8 (59,515,689-59,545,380)	0.3740196	1.021	0.809	1.262
+534	6928	BP	cell motility	A_23_P1072	Info	ATP1A1; ATPase, Na+/K+ transporting, alpha 1 polypeptide	NM_000701	Hs.371889	ATP1A1	chr1 (116,262,194-116,294,165)	0.3830648	0.881	1.073	0.821
+535	6928	BP	cell motility	A_23_P73589	Info	MSN; moesin	NM_002444	Hs.170328	MSN	chrX (63,754,280-63,828,589)	0.3839595	0.841	0.651	1.292
+536	6928	BP	cell motility	A_24_P319364	Info	F11R; F11 receptor	NM_144503	Hs.506845	F11R	chr1 (158,182,777-158,207,803)	0.4020877	2.11	2.795	0.755
+537	6928	BP	cell motility	A_23_P78867	Info	RYR1; ryanodine receptor 1 (skeletal)	NM_000540	Hs.195101	RYR1	chr19 (43,616,180-43,770,012)	0.4070131	1.205	1.684	0.716
+538	6928	BP	cell motility	A_23_P94501	Info	ANXA1; annexin A1	NM_000700	Hs.287558	ANXA1	chr9 (71,223,744-71,242,482)	0.4102023	1.68	1.128	1.489
+539	6928	BP	cell motility	A_24_P319369	Info	F11R; F11 receptor	NM_144503	Hs.506845	F11R	chr1 (158,182,777-158,207,803)	0.4201701	1.347	1.708	0.789
+540	6928	BP	cell motility	A_24_P408704	Info	DOCK2; dedicator of cytokinesis 2	NM_004946	Hs.17211	DOCK2	chr5 (169,045,188-169,491,508)	0.4459229	0.887	0.779	1.139
+541	6928	BP	cell motility	A_24_P398572	Info	IGF1; insulin-like growth factor 1 (somatomedin C)	NM_000618	Hs.308053	IGF1	chr12 (101,297,970-101,376,811)	0.4624848	7.539	11.126	0.678
+542	6928	BP	cell motility	A_23_P347632	Info	MTSS1; metastasis suppressor 1	NM_014751	Hs.77694	MTSS1	chr8 (125,519,618-125,697,295) chr8 (125,519,619-125,528,429)	0.4630633	2.159	2.679	0.806
+543	6928	BP	cell motility	A_23_P60248	Info	TXN; thioredoxin	NM_003329	Hs.395309	TXN	chr9 (108,385,928-108,398,792)	0.4718853	0.649	0.758	0.856
+544	6928	BP	cell motility	A_23_P167096	Info	VEGFC; vascular endothelial growth factor C	NM_005429	Hs.79141	VEGFC	chr4 (178,300,572-178,409,785)	0.4859438	0.59	0.52	1.135
+545	6928	BP	cell motility	A_23_P13382	Info	LSP1; lymphocyte-specific protein 1	NM_002339	Hs.56729	LSP1	chr11 (1,838,500-1,877,843)	0.4904238	1.64	1.376	1.192
+546	6928	BP	cell motility	A_24_P303091	Info	CXCL10; chemokine (C-X-C motif) ligand 10	NM_001565	Hs.413924	CXCL10	chr4 (77,400,659-77,403,272)	0.4937422	6.72	5.099	1.318
+547	6928	BP	cell motility	A_23_P152838	Info	CCL5; chemokine (C-C motif) ligand 5	NM_002985	Hs.489044	CCL5	chr17 (34,343,995-34,353,050)	0.4948769	2.533	2.146	1.18
+548	6928	BP	cell motility	A_23_P140427	Info	EVL; Enah/Vasp-like	NM_016337	Hs.241471	EVL	chr14 (98,521,703-98,600,615)	0.5006602	1.152	0.961	1.199
+549	6928	BP	cell motility	A_23_P103522	Info	SELL; selectin L (lymphocyte adhesion molecule 1)	BC020758	Hs.82848	SELL	chr1 (166,847,176-166,868,219)	0.5056104	1.827	1.484	1.231
+550	6928	BP	cell motility	A_24_P135322	Info	NRP1; neuropilin 1	BC007533	Hs.173548	NRP1	chr10 (33,470,413-33,627,604)	0.5171928	1.17	0.976	1.199
+551	6928	BP	cell motility	A_23_P73593	Info	MSN; moesin	NM_002444	Hs.170328	MSN	chrX (63,754,280-63,828,589)	0.5342585	0.993	0.88	1.128
+552	6928	BP	cell motility	A_23_P122724	Info	VNN2; vanin 2	NM_004665	Hs.293130	VNN2	chr6 (133,045,573-133,059,661)	0.5504561	2.155	1.876	1.149
+553	6928	BP	cell motility	A_24_P941441	Info	GNA13; guanine nucleotide binding protein (G protein), alpha 13	NM_006572	Hs.9691	GNA13	chr17 (63,555,478-63,602,952)	0.6173878	0.81	0.743	1.09
+554	6928	BP	cell motility	A_23_P141005	Info	AMFR; autocrine motility factor receptor	NM_001144	Hs.295137	AMFR	chr16 (56,170,850-56,234,745)	0.6592715	1.027	0.928	1.107
+555	6928	BP	cell motility	A_24_P135444	Info	AMFR; autocrine motility factor receptor	NM_001144	Hs.295137	AMFR	chr16 (56,170,850-56,234,745)	0.6722753	1.014	0.938	1.081
+556	6928	BP	cell motility	A_23_P96568	Info	FLNA; filamin A, alpha (actin binding protein 280)	NM_001456	Hs.195464	FLNA	chrX (152,044,801-152,070,827)	0.6726809	0.528	0.582	0.907
+557	6928	BP	cell motility	A_23_P329573	Info	ITGB2; integrin, beta 2 (antigen CD18 (p95), lymphocyte function-associated antigen 1; macrophage antigen 1 (mac-1) beta subunit)	NM_000211	Hs.375957	ITGB2	chr21 (45,162,056-45,204,835)	0.6817425	7.302	6.414	1.138
+558	6928	BP	cell motility	A_23_P373017	Info	CCL3; chemokine (C-C motif) ligand 3	NM_002983	Hs.73817	CCL3	chr17 (34,561,109-34,563,060)	0.6930081	3.21	2.903	1.106
+559	6928	BP	cell motility	A_23_P37727	Info	CX3CL1; chemokine (C-X3-C motif) ligand 1	NM_002996	Hs.80420	CX3CL1	chr16 (57,181,772-57,194,360)	0.6942494	2.266	2.719	0.833
+560	6928	BP	cell motility	A_23_P160377	Info	DNALI1; dynein, axonemal, light intermediate polypeptide 1	NM_003462	Hs.406050	DNALI1	chr1 (37,450,182-37,489,230)	0.6989184	2.458	2.053	1.197
+561	6928	BP	cell motility	A_23_P306203	Info	SAA2; serum amyloid A2	NM_030754	Hs.1955	SAA2	chr11 (18,231,078-18,234,526)	0.7546869	11.836	10.178	1.163
+562	6928	BP	cell motility	A_23_P16469	Info	PLAUR; plasminogen activator, urokinase receptor	NM_002659	Hs.179657	PLAUR	chr19 (48,844,561-48,866,539)	0.7604096	0.589	0.55	1.071
+563	6928	BP	cell motility	A_23_P307940	Info	CAPZA2; capping protein (actin filament) muscle Z-line, alpha 2	NM_006136	Hs.369579	CAPZA2	chr7 (116,057,064-116,113,902)	0.7737109	0.844	0.891	0.947
+564	6928	BP	cell motility	A_23_P206212	Info	THBS1; thrombospondin 1	X04665	Hs.164226	THBS1	chr15 (37,589,186-37,605,723)	0.8021483	2.414	2.55	0.947
+565	6928	BP	cell motility	A_23_P76364	Info	CD9; CD9 antigen (p24)	NM_001769	Hs.387579	CD9	chr12 (6,179,757-6,217,740)	0.8074901	1.072	1.161	0.923
+566	6928	BP	cell motility	A_23_P207564	Info	CCL4; chemokine (C-C motif) ligand 4	NM_002984	Hs.75703	CCL4	chr17 (34,576,632-34,578,623)	0.808628	4.854	4.483	1.083
+567	6928	BP	cell motility	A_23_P429950	Info	KAL1; Kallmann syndrome 1 sequence	NM_000216	Hs.380850	KAL1	chrX (7,908,249-8,111,645)	0.8257956	1.713	1.801	0.951
+568	6928	BP	cell motility	A_23_P132718	Info	SEMA3B; sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3B	NM_004636	Hs.82222	SEMA3B	chr3 (50,264,009-50,273,996)	0.846466	0.374	0.35	1.069
+569	6928	BP	cell motility	A_24_P234921	Info	CCR6; chemokine (C-C motif) receptor 6	NM_031409	Hs.46468	CCR6	chr6 (167,445,545-167,462,472)	0.8547459	1.285	1.233	1.042
+570	6928	BP	cell motility	A_23_P7313	Info	SPP1; secreted phosphoprotein 1 (osteopontin, bone sialoprotein I, early T-lymphocyte activation 1)	NM_000582	Hs.313	SPP1	chr4 (89,355,218-89,362,958)	0.8752571	1.431	1.639	0.873
+571	6928	BP	cell motility	A_24_P231513	Info	ACTR3; ARP3 actin-related protein 3 homolog (yeast)	NM_005721	Hs.433512	ACTR3	chr2 (114,742,682-114,811,574)	0.8883217	1.285	1.251	1.027
+572	6928	BP	cell motility	A_23_P27795	Info	SPINT2; serine protease inhibitor, Kunitz type, 2	NM_021102	Hs.31439	SPINT2	chr19 (43,446,782-43,474,948)	0.8917967	3.622	3.852	0.94
+573	6928	BP	cell motility	A_24_P105771	Info	ACTR3; ARP3 actin-related protein 3 homolog (yeast)	NM_005721	Hs.433512	ACTR3	chr2 (114,742,682-114,811,574)	0.898271	1.236	1.266	0.976
+574	6928	BP	cell motility	A_23_P67391	Info	KPTN; kaptin (actin binding protein)	NM_007059	Hs.25441	KPTN	chr19 (52,670,209-52,679,314)	0.9193935	0.654	0.664	0.985
+575	6928	BP	cell motility	A_23_P89780	Info	LAMA3; laminin, alpha 3	NM_000227	Hs.83450	LAMA3	chr18 (19,704,977-19,787,022)	0.9404808	1.775	1.741	1.02
+576	6928	BP	cell motility	A_24_P79403	Info	PF4; platelet factor 4 (chemokine (C-X-C motif) ligand 4)	NM_002619	Hs.81564	PF4	chr4 (75,313,041-75,314,093)	0.9714157	1.405	1.423	0.987
+577	40011	BP	locomotion	A_23_P14798	Info	NEO1; neogenin homolog 1 (chicken)	NM_002499	Hs.388613	NEO1	chr15 (71,060,692-71,311,903)	0.0122176	0.822	1.19	0.691
+578	40011	BP	locomotion	A_23_P121533	Info	SPON2; spondin 2, extracellular matrix protein	NM_012445	Hs.435953	SPON2	chr4 (1,150,544-1,156,831)	0.0162924	5.012	2.083	2.406
+579	40011	BP	locomotion	A_23_P213562	Info	F2R; coagulation factor II (thrombin) receptor	NM_001992	Hs.128087	F2R	chr5 (76,095,824-76,115,667)	0.0176519	0.863	0.553	1.561
+580	40011	BP	locomotion	A_23_P215461	Info	LIMK1; LIM domain kinase 1	NM_002314	Hs.36566	LIMK1	chr7 (72,910,253-72,949,038)	0.0294524	2.155	1.409	1.529
+581	40011	BP	locomotion	A_23_P252471	Info	PECAM1; platelet/endothelial cell adhesion molecule (CD31 antigen)	NM_000442	Hs.78146	PECAM1	chr17 (62,873,201-62,937,382)	0.0328886	19.854	12.559	1.581
+582	40011	BP	locomotion	A_23_P144348	Info	SLIT2; slit homolog 2 (Drosophila)	NM_004787	Hs.29802	SLIT2	chr4 (20,005,704-20,371,676)	0.0503232	4.456	2.35	1.896
+583	40011	BP	locomotion	A_23_P210763	Info	JAG1; jagged 1 (Alagille syndrome)	NM_000214	Hs.409202	JAG1	chr20 (10,613,332-10,649,755)	0.0743507	2.055	1.279	1.607
+584	40011	BP	locomotion	A_24_P116805	Info	STAT3; signal transducer and activator of transcription 3 (acute-phase response factor)	BC000627	Hs.421342	STAT3	chr17 (40,838,503-40,913,688)	0.0759483	0.859	1.112	0.772
+585	40011	BP	locomotion	A_23_P502312	Info	CD97; CD97 antigen	NM_078481	Hs.3107	CD97	chr19 (14,353,182-14,380,533)	0.1006393	0.874	0.629	1.39
+586	40011	BP	locomotion	A_23_P70719	Info	LAMA2; laminin, alpha 2 (merosin, congenital muscular dystrophy)	NM_000426	Hs.445120	LAMA2	chr6 (129,184,912-129,818,286)	0.1168695	2.039	1.456	1.4
+587	40011	BP	locomotion	A_23_P133656	Info	LAMA4; laminin, alpha 4	NM_002290	Hs.437536	LAMA4	chr6 (112,475,526-112,621,372)	0.1595078	2.235	1.324	1.688
+588	40011	BP	locomotion	A_24_P252945	Info	BLR1; Burkitt lymphoma receptor 1, GTP binding protein (chemokine (C-X-C motif) receptor 5)	NM_032966	Hs.113916	BLR1	chr11 (118,292,213-118,316,969)	0.1620577	2.831	1.814	1.561
+589	40011	BP	locomotion	A_23_P27472	Info	ATP1A3; ATPase, Na+/K+ transporting, alpha 3 polypeptide	NM_152296	Hs.380447	ATP1A3	chr19 (47,162,573-47,190,185)	0.1672952	0.579	0.782	0.74
+590	40011	BP	locomotion	A_23_P114299	Info	CXCR3; chemokine (C-X-C motif) receptor 3	NM_001504	Hs.198252	CXCR3	chrX (69,702,551-69,705,158)	0.1757145	1.455	1.19	1.223
+591	40011	BP	locomotion	A_23_P70060	Info	PPAP2A; phosphatidic acid phosphatase type 2A	NM_176895	Hs.528702	PPAP2A	chr5 (54,619,466-54,846,768)	0.1790518	2.517	1.586	1.587
+592	40011	BP	locomotion	A_23_P21976	Info	CSPG4; chondroitin sulfate proteoglycan 4 (melanoma-associated)	NM_001897	Hs.436301	CSPG4	chr15 (73,682,478-73,720,994)	0.1905573	0.499	0.361	1.382
+593	40011	BP	locomotion	A_23_P417753	Info	OPHN1; oligophrenin 1	NM_002547	Hs.128824	OPHN1	chrX (66,135,018-66,520,547)	0.1945228	1.534	2.019	0.76
+594	40011	BP	locomotion	A_24_P119745	Info	FN1; fibronectin 1	NM_002026	Hs.418138	FN1	chr2 (216,428,128-216,503,335)	0.2074821	1.216	0.561	2.168
+595	40011	BP	locomotion	A_23_P138706	Info	ADRA2A; adrenergic, alpha-2A-, receptor	NM_000681	Hs.249159	ADRA2A	chr10 (112,501,508-112,505,247)	0.2462697	3.455	2.047	1.688
+596	40011	BP	locomotion	A_23_P19663	Info	CTGF; connective tissue growth factor	NM_001901	Hs.410037	CTGF	chr6 (132,249,385-132,253,111)	0.2645871	2.867	2.06	1.392
+597	40011	BP	locomotion	A_23_P148879	Info	ATP1A2; ATPase, Na+/K+ transporting, alpha 2 (+) polypeptide	NM_000702	Hs.34114	ATP1A2	chr1 (157,300,962-157,330,367)	0.2667875	1.809	0.848	2.133
+598	40011	BP	locomotion	A_23_P118061	Info	CKLF; chemokine-like factor	NM_181641	Hs.15159	CKLF	chr16 (66,362,791-66,376,291)	0.2700413	0.55	0.649	0.847
+599	40011	BP	locomotion	A_23_P340698	Info	MMP12; matrix metalloproteinase 12 (macrophage elastase)	NM_002426	Hs.1695	MMP12	chr11 (102,271,180-102,283,460)	0.2723867	1.636	2.587	0.632
+600	40011	BP	locomotion	A_32_P210642	Info	EGFL7; EGF-like-domain, multiple 7	NM_016215	Hs.91481	EGFL7	chr9 (134,914,620-134,924,423)	0.2829179	0.572	0.441	1.297
+601	40011	BP	locomotion	A_24_P260443	Info	THBS4; thrombospondin 4	NM_003248	Hs.415041	THBS4	chr5 (79,415,064-79,463,187)	0.2891749	4.878	2.97	1.642
+602	40011	BP	locomotion	A_23_P123608	Info	JAK2; Janus kinase 2 (a protein tyrosine kinase)	NM_004972	Hs.434374	JAK2	chr9 (4,974,915-5,118,182)	0.30586	2.08	1.598	1.302
+603	40011	BP	locomotion	A_23_P49338	Info	TNFRSF12A; tumor necrosis factor receptor superfamily, member 12A	NM_016639	Hs.355899	TNFRSF12A	chr16 (3,070,589-3,072,681)	0.3264765	0.466	0.365	1.277
+604	40011	BP	locomotion	A_23_P366376	Info	TDGF1; teratocarcinoma-derived growth factor 1	NM_003212	Hs.385870	TDGF1	chr3 (46,579,733-46,584,549)	0.3323116	0.243	0.281	0.865
+605	40011	BP	locomotion	A_24_P85539	Info	FN1; fibronectin 1	U42594	Hs.418138	FN1	chr2 (216,436,934-216,461,893)	0.3430905	0.647	0.44	1.47
+606	40011	BP	locomotion	A_24_P215804	Info	CKLF; chemokine-like factor	NM_016326	Hs.15159	CKLF	chr16 (66,362,791-66,376,289)	0.3438221	0.557	0.641	0.869
+607	40011	BP	locomotion	A_23_P208126	Info		I_960544		SERPINB5	chr18 (59,293,110-59,321,296)	0.3537389	1.032	1.363	0.757
+608	40011	BP	locomotion	A_24_P175519	Info	TXN; thioredoxin	NM_003329	Hs.395309	TXN	chr9 (108,385,928-108,398,792)	0.3555422	0.75	0.933	0.804
+609	40011	BP	locomotion	A_23_P202881	Info	FEZ1; fasciculation and elongation protein zeta 1 (zygin I)	NM_005103	Hs.79226	FEZ1	chr11 (124,852,859-124,903,850)	0.3572652	0.429	0.345	1.243
+610	40011	BP	locomotion	A_23_P31041	Info	MYLIP; myosin regulatory light chain interacting protein	NM_013262	Hs.443793	MYLIP		0.3619384	0.665	0.765	0.869
+611	40011	BP	locomotion	A_23_P206396	Info	CKLF; chemokine-like factor	NM_016951	Hs.15159	CKLF	chr16 (66,362,552-66,376,298)	0.3692396	0.691	0.796	0.868
+612	40011	BP	locomotion	A_24_P279203	Info	C16orf3; chromosome 16 open reading frame 3	NM_001481	Hs.431792	GAS8	chr16 (89,831,187-89,853,598)	0.3736593	0.874	1.073	0.815
+613	40011	BP	locomotion	A_23_P157580	Info	SDCBP; syndecan binding protein (syntenin)	NM_005625	Hs.164067	SDCBP	chr8 (59,515,689-59,545,380)	0.3740196	1.021	0.809	1.262
+614	40011	BP	locomotion	A_23_P1072	Info	ATP1A1; ATPase, Na+/K+ transporting, alpha 1 polypeptide	NM_000701	Hs.371889	ATP1A1	chr1 (116,262,194-116,294,165)	0.3830648	0.881	1.073	0.821
+615	40011	BP	locomotion	A_23_P73589	Info	MSN; moesin	NM_002444	Hs.170328	MSN	chrX (63,754,280-63,828,589)	0.3839595	0.841	0.651	1.292
+616	40011	BP	locomotion	A_24_P319364	Info	F11R; F11 receptor	NM_144503	Hs.506845	F11R	chr1 (158,182,777-158,207,803)	0.4020877	2.11	2.795	0.755
+617	40011	BP	locomotion	A_23_P78867	Info	RYR1; ryanodine receptor 1 (skeletal)	NM_000540	Hs.195101	RYR1	chr19 (43,616,180-43,770,012)	0.4070131	1.205	1.684	0.716
+618	40011	BP	locomotion	A_23_P94501	Info	ANXA1; annexin A1	NM_000700	Hs.287558	ANXA1	chr9 (71,223,744-71,242,482)	0.4102023	1.68	1.128	1.489
+619	40011	BP	locomotion	A_24_P319369	Info	F11R; F11 receptor	NM_144503	Hs.506845	F11R	chr1 (158,182,777-158,207,803)	0.4201701	1.347	1.708	0.789
+620	40011	BP	locomotion	A_24_P408704	Info	DOCK2; dedicator of cytokinesis 2	NM_004946	Hs.17211	DOCK2	chr5 (169,045,188-169,491,508)	0.4459229	0.887	0.779	1.139
+621	40011	BP	locomotion	A_24_P398572	Info	IGF1; insulin-like growth factor 1 (somatomedin C)	NM_000618	Hs.308053	IGF1	chr12 (101,297,970-101,376,811)	0.4624848	7.539	11.126	0.678
+622	40011	BP	locomotion	A_23_P347632	Info	MTSS1; metastasis suppressor 1	NM_014751	Hs.77694	MTSS1	chr8 (125,519,618-125,697,295) chr8 (125,519,619-125,528,429)	0.4630633	2.159	2.679	0.806
+623	40011	BP	locomotion	A_23_P60248	Info	TXN; thioredoxin	NM_003329	Hs.395309	TXN	chr9 (108,385,928-108,398,792)	0.4718853	0.649	0.758	0.856
+624	40011	BP	locomotion	A_23_P167096	Info	VEGFC; vascular endothelial growth factor C	NM_005429	Hs.79141	VEGFC	chr4 (178,300,572-178,409,785)	0.4859438	0.59	0.52	1.135
+625	40011	BP	locomotion	A_23_P13382	Info	LSP1; lymphocyte-specific protein 1	NM_002339	Hs.56729	LSP1	chr11 (1,838,500-1,877,843)	0.4904238	1.64	1.376	1.192
+626	40011	BP	locomotion	A_24_P303091	Info	CXCL10; chemokine (C-X-C motif) ligand 10	NM_001565	Hs.413924	CXCL10	chr4 (77,400,659-77,403,272)	0.4937422	6.72	5.099	1.318
+627	40011	BP	locomotion	A_23_P152838	Info	CCL5; chemokine (C-C motif) ligand 5	NM_002985	Hs.489044	CCL5	chr17 (34,343,995-34,353,050)	0.4948769	2.533	2.146	1.18
+628	40011	BP	locomotion	A_23_P140427	Info	EVL; Enah/Vasp-like	NM_016337	Hs.241471	EVL	chr14 (98,521,703-98,600,615)	0.5006602	1.152	0.961	1.199
+629	40011	BP	locomotion	A_23_P103522	Info	SELL; selectin L (lymphocyte adhesion molecule 1)	BC020758	Hs.82848	SELL	chr1 (166,847,176-166,868,219)	0.5056104	1.827	1.484	1.231
+630	40011	BP	locomotion	A_24_P135322	Info	NRP1; neuropilin 1	BC007533	Hs.173548	NRP1	chr10 (33,470,413-33,627,604)	0.5171928	1.17	0.976	1.199
+631	40011	BP	locomotion	A_23_P73593	Info	MSN; moesin	NM_002444	Hs.170328	MSN	chrX (63,754,280-63,828,589)	0.5342585	0.993	0.88	1.128
+632	40011	BP	locomotion	A_23_P122724	Info	VNN2; vanin 2	NM_004665	Hs.293130	VNN2	chr6 (133,045,573-133,059,661)	0.5504561	2.155	1.876	1.149
+633	40011	BP	locomotion	A_24_P941441	Info	GNA13; guanine nucleotide binding protein (G protein), alpha 13	NM_006572	Hs.9691	GNA13	chr17 (63,555,478-63,602,952)	0.6173878	0.81	0.743	1.09
+634	40011	BP	locomotion	A_23_P141005	Info	AMFR; autocrine motility factor receptor	NM_001144	Hs.295137	AMFR	chr16 (56,170,850-56,234,745)	0.6592715	1.027	0.928	1.107
+635	40011	BP	locomotion	A_24_P135444	Info	AMFR; autocrine motility factor receptor	NM_001144	Hs.295137	AMFR	chr16 (56,170,850-56,234,745)	0.6722753	1.014	0.938	1.081
+636	40011	BP	locomotion	A_23_P96568	Info	FLNA; filamin A, alpha (actin binding protein 280)	NM_001456	Hs.195464	FLNA	chrX (152,044,801-152,070,827)	0.6726809	0.528	0.582	0.907
+637	40011	BP	locomotion	A_23_P329573	Info	ITGB2; integrin, beta 2 (antigen CD18 (p95), lymphocyte function-associated antigen 1; macrophage antigen 1 (mac-1) beta subunit)	NM_000211	Hs.375957	ITGB2	chr21 (45,162,056-45,204,835)	0.6817425	7.302	6.414	1.138
+638	40011	BP	locomotion	A_23_P373017	Info	CCL3; chemokine (C-C motif) ligand 3	NM_002983	Hs.73817	CCL3	chr17 (34,561,109-34,563,060)	0.6930081	3.21	2.903	1.106
+639	40011	BP	locomotion	A_23_P37727	Info	CX3CL1; chemokine (C-X3-C motif) ligand 1	NM_002996	Hs.80420	CX3CL1	chr16 (57,181,772-57,194,360)	0.6942494	2.266	2.719	0.833
+640	40011	BP	locomotion	A_23_P160377	Info	DNALI1; dynein, axonemal, light intermediate polypeptide 1	NM_003462	Hs.406050	DNALI1	chr1 (37,450,182-37,489,230)	0.6989184	2.458	2.053	1.197
+641	40011	BP	locomotion	A_23_P306203	Info	SAA2; serum amyloid A2	NM_030754	Hs.1955	SAA2	chr11 (18,231,078-18,234,526)	0.7546869	11.836	10.178	1.163
+642	40011	BP	locomotion	A_23_P16469	Info	PLAUR; plasminogen activator, urokinase receptor	NM_002659	Hs.179657	PLAUR	chr19 (48,844,561-48,866,539)	0.7604096	0.589	0.55	1.071
+643	40011	BP	locomotion	A_23_P307940	Info	CAPZA2; capping protein (actin filament) muscle Z-line, alpha 2	NM_006136	Hs.369579	CAPZA2	chr7 (116,057,064-116,113,902)	0.7737109	0.844	0.891	0.947
+644	40011	BP	locomotion	A_23_P206212	Info	THBS1; thrombospondin 1	X04665	Hs.164226	THBS1	chr15 (37,589,186-37,605,723)	0.8021483	2.414	2.55	0.947
+645	40011	BP	locomotion	A_23_P76364	Info	CD9; CD9 antigen (p24)	NM_001769	Hs.387579	CD9	chr12 (6,179,757-6,217,740)	0.8074901	1.072	1.161	0.923
+646	40011	BP	locomotion	A_23_P207564	Info	CCL4; chemokine (C-C motif) ligand 4	NM_002984	Hs.75703	CCL4	chr17 (34,576,632-34,578,623)	0.808628	4.854	4.483	1.083
+647	40011	BP	locomotion	A_23_P429950	Info	KAL1; Kallmann syndrome 1 sequence	NM_000216	Hs.380850	KAL1	chrX (7,908,249-8,111,645)	0.8257956	1.713	1.801	0.951
+648	40011	BP	locomotion	A_23_P132718	Info	SEMA3B; sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3B	NM_004636	Hs.82222	SEMA3B	chr3 (50,264,009-50,273,996)	0.846466	0.374	0.35	1.069
+649	40011	BP	locomotion	A_24_P234921	Info	CCR6; chemokine (C-C motif) receptor 6	NM_031409	Hs.46468	CCR6	chr6 (167,445,545-167,462,472)	0.8547459	1.285	1.233	1.042
+650	40011	BP	locomotion	A_23_P7313	Info	SPP1; secreted phosphoprotein 1 (osteopontin, bone sialoprotein I, early T-lymphocyte activation 1)	NM_000582	Hs.313	SPP1	chr4 (89,355,218-89,362,958)	0.8752571	1.431	1.639	0.873
+651	40011	BP	locomotion	A_24_P231513	Info	ACTR3; ARP3 actin-related protein 3 homolog (yeast)	NM_005721	Hs.433512	ACTR3	chr2 (114,742,682-114,811,574)	0.8883217	1.285	1.251	1.027
+652	40011	BP	locomotion	A_23_P27795	Info	SPINT2; serine protease inhibitor, Kunitz type, 2	NM_021102	Hs.31439	SPINT2	chr19 (43,446,782-43,474,948)	0.8917967	3.622	3.852	0.94
+653	40011	BP	locomotion	A_24_P105771	Info	ACTR3; ARP3 actin-related protein 3 homolog (yeast)	NM_005721	Hs.433512	ACTR3	chr2 (114,742,682-114,811,574)	0.898271	1.236	1.266	0.976
+654	40011	BP	locomotion	A_23_P67391	Info	KPTN; kaptin (actin binding protein)	NM_007059	Hs.25441	KPTN	chr19 (52,670,209-52,679,314)	0.9193935	0.654	0.664	0.985
+655	40011	BP	locomotion	A_23_P89780	Info	LAMA3; laminin, alpha 3	NM_000227	Hs.83450	LAMA3	chr18 (19,704,977-19,787,022)	0.9404808	1.775	1.741	1.02
+656	40011	BP	locomotion	A_24_P79403	Info	PF4; platelet factor 4 (chemokine (C-X-C motif) ligand 4)	NM_002619	Hs.81564	PF4	chr4 (75,313,041-75,314,093)	0.9714157	1.405	1.423	0.987
+657	51674	BP	localization of cell	A_23_P14798	Info	NEO1; neogenin homolog 1 (chicken)	NM_002499	Hs.388613	NEO1	chr15 (71,060,692-71,311,903)	0.0122176	0.822	1.19	0.691
+658	51674	BP	localization of cell	A_23_P121533	Info	SPON2; spondin 2, extracellular matrix protein	NM_012445	Hs.435953	SPON2	chr4 (1,150,544-1,156,831)	0.0162924	5.012	2.083	2.406
+659	51674	BP	localization of cell	A_23_P213562	Info	F2R; coagulation factor II (thrombin) receptor	NM_001992	Hs.128087	F2R	chr5 (76,095,824-76,115,667)	0.0176519	0.863	0.553	1.561
+660	51674	BP	localization of cell	A_23_P215461	Info	LIMK1; LIM domain kinase 1	NM_002314	Hs.36566	LIMK1	chr7 (72,910,253-72,949,038)	0.0294524	2.155	1.409	1.529
+661	51674	BP	localization of cell	A_23_P252471	Info	PECAM1; platelet/endothelial cell adhesion molecule (CD31 antigen)	NM_000442	Hs.78146	PECAM1	chr17 (62,873,201-62,937,382)	0.0328886	19.854	12.559	1.581
+662	51674	BP	localization of cell	A_23_P144348	Info	SLIT2; slit homolog 2 (Drosophila)	NM_004787	Hs.29802	SLIT2	chr4 (20,005,704-20,371,676)	0.0503232	4.456	2.35	1.896
+663	51674	BP	localization of cell	A_23_P210763	Info	JAG1; jagged 1 (Alagille syndrome)	NM_000214	Hs.409202	JAG1	chr20 (10,613,332-10,649,755)	0.0743507	2.055	1.279	1.607
+664	51674	BP	localization of cell	A_24_P116805	Info	STAT3; signal transducer and activator of transcription 3 (acute-phase response factor)	BC000627	Hs.421342	STAT3	chr17 (40,838,503-40,913,688)	0.0759483	0.859	1.112	0.772
+665	51674	BP	localization of cell	A_23_P502312	Info	CD97; CD97 antigen	NM_078481	Hs.3107	CD97	chr19 (14,353,182-14,380,533)	0.1006393	0.874	0.629	1.39
+666	51674	BP	localization of cell	A_23_P70719	Info	LAMA2; laminin, alpha 2 (merosin, congenital muscular dystrophy)	NM_000426	Hs.445120	LAMA2	chr6 (129,184,912-129,818,286)	0.1168695	2.039	1.456	1.4
+667	51674	BP	localization of cell	A_23_P133656	Info	LAMA4; laminin, alpha 4	NM_002290	Hs.437536	LAMA4	chr6 (112,475,526-112,621,372)	0.1595078	2.235	1.324	1.688
+668	51674	BP	localization of cell	A_24_P252945	Info	BLR1; Burkitt lymphoma receptor 1, GTP binding protein (chemokine (C-X-C motif) receptor 5)	NM_032966	Hs.113916	BLR1	chr11 (118,292,213-118,316,969)	0.1620577	2.831	1.814	1.561
+669	51674	BP	localization of cell	A_23_P27472	Info	ATP1A3; ATPase, Na+/K+ transporting, alpha 3 polypeptide	NM_152296	Hs.380447	ATP1A3	chr19 (47,162,573-47,190,185)	0.1672952	0.579	0.782	0.74
+670	51674	BP	localization of cell	A_23_P114299	Info	CXCR3; chemokine (C-X-C motif) receptor 3	NM_001504	Hs.198252	CXCR3	chrX (69,702,551-69,705,158)	0.1757145	1.455	1.19	1.223
+671	51674	BP	localization of cell	A_23_P70060	Info	PPAP2A; phosphatidic acid phosphatase type 2A	NM_176895	Hs.528702	PPAP2A	chr5 (54,619,466-54,846,768)	0.1790518	2.517	1.586	1.587
+672	51674	BP	localization of cell	A_23_P21976	Info	CSPG4; chondroitin sulfate proteoglycan 4 (melanoma-associated)	NM_001897	Hs.436301	CSPG4	chr15 (73,682,478-73,720,994)	0.1905573	0.499	0.361	1.382
+673	51674	BP	localization of cell	A_23_P417753	Info	OPHN1; oligophrenin 1	NM_002547	Hs.128824	OPHN1	chrX (66,135,018-66,520,547)	0.1945228	1.534	2.019	0.76
+674	51674	BP	localization of cell	A_24_P119745	Info	FN1; fibronectin 1	NM_002026	Hs.418138	FN1	chr2 (216,428,128-216,503,335)	0.2074821	1.216	0.561	2.168
+675	51674	BP	localization of cell	A_23_P138706	Info	ADRA2A; adrenergic, alpha-2A-, receptor	NM_000681	Hs.249159	ADRA2A	chr10 (112,501,508-112,505,247)	0.2462697	3.455	2.047	1.688
+676	51674	BP	localization of cell	A_23_P19663	Info	CTGF; connective tissue growth factor	NM_001901	Hs.410037	CTGF	chr6 (132,249,385-132,253,111)	0.2645871	2.867	2.06	1.392
+677	51674	BP	localization of cell	A_23_P148879	Info	ATP1A2; ATPase, Na+/K+ transporting, alpha 2 (+) polypeptide	NM_000702	Hs.34114	ATP1A2	chr1 (157,300,962-157,330,367)	0.2667875	1.809	0.848	2.133
+678	51674	BP	localization of cell	A_23_P118061	Info	CKLF; chemokine-like factor	NM_181641	Hs.15159	CKLF	chr16 (66,362,791-66,376,291)	0.2700413	0.55	0.649	0.847
+679	51674	BP	localization of cell	A_23_P340698	Info	MMP12; matrix metalloproteinase 12 (macrophage elastase)	NM_002426	Hs.1695	MMP12	chr11 (102,271,180-102,283,460)	0.2723867	1.636	2.587	0.632
+680	51674	BP	localization of cell	A_32_P210642	Info	EGFL7; EGF-like-domain, multiple 7	NM_016215	Hs.91481	EGFL7	chr9 (134,914,620-134,924,423)	0.2829179	0.572	0.441	1.297
+681	51674	BP	localization of cell	A_24_P260443	Info	THBS4; thrombospondin 4	NM_003248	Hs.415041	THBS4	chr5 (79,415,064-79,463,187)	0.2891749	4.878	2.97	1.642
+682	51674	BP	localization of cell	A_23_P123608	Info	JAK2; Janus kinase 2 (a protein tyrosine kinase)	NM_004972	Hs.434374	JAK2	chr9 (4,974,915-5,118,182)	0.30586	2.08	1.598	1.302
+683	51674	BP	localization of cell	A_23_P49338	Info	TNFRSF12A; tumor necrosis factor receptor superfamily, member 12A	NM_016639	Hs.355899	TNFRSF12A	chr16 (3,070,589-3,072,681)	0.3264765	0.466	0.365	1.277
+684	51674	BP	localization of cell	A_23_P366376	Info	TDGF1; teratocarcinoma-derived growth factor 1	NM_003212	Hs.385870	TDGF1	chr3 (46,579,733-46,584,549)	0.3323116	0.243	0.281	0.865
+685	51674	BP	localization of cell	A_24_P85539	Info	FN1; fibronectin 1	U42594	Hs.418138	FN1	chr2 (216,436,934-216,461,893)	0.3430905	0.647	0.44	1.47
+686	51674	BP	localization of cell	A_24_P215804	Info	CKLF; chemokine-like factor	NM_016326	Hs.15159	CKLF	chr16 (66,362,791-66,376,289)	0.3438221	0.557	0.641	0.869
+687	51674	BP	localization of cell	A_23_P208126	Info		I_960544		SERPINB5	chr18 (59,293,110-59,321,296)	0.3537389	1.032	1.363	0.757
+688	51674	BP	localization of cell	A_24_P175519	Info	TXN; thioredoxin	NM_003329	Hs.395309	TXN	chr9 (108,385,928-108,398,792)	0.3555422	0.75	0.933	0.804
+689	51674	BP	localization of cell	A_23_P202881	Info	FEZ1; fasciculation and elongation protein zeta 1 (zygin I)	NM_005103	Hs.79226	FEZ1	chr11 (124,852,859-124,903,850)	0.3572652	0.429	0.345	1.243
+690	51674	BP	localization of cell	A_23_P31041	Info	MYLIP; myosin regulatory light chain interacting protein	NM_013262	Hs.443793	MYLIP		0.3619384	0.665	0.765	0.869
+691	51674	BP	localization of cell	A_23_P206396	Info	CKLF; chemokine-like factor	NM_016951	Hs.15159	CKLF	chr16 (66,362,552-66,376,298)	0.3692396	0.691	0.796	0.868
+692	51674	BP	localization of cell	A_24_P279203	Info	C16orf3; chromosome 16 open reading frame 3	NM_001481	Hs.431792	GAS8	chr16 (89,831,187-89,853,598)	0.3736593	0.874	1.073	0.815
+693	51674	BP	localization of cell	A_23_P157580	Info	SDCBP; syndecan binding protein (syntenin)	NM_005625	Hs.164067	SDCBP	chr8 (59,515,689-59,545,380)	0.3740196	1.021	0.809	1.262
+694	51674	BP	localization of cell	A_23_P1072	Info	ATP1A1; ATPase, Na+/K+ transporting, alpha 1 polypeptide	NM_000701	Hs.371889	ATP1A1	chr1 (116,262,194-116,294,165)	0.3830648	0.881	1.073	0.821
+695	51674	BP	localization of cell	A_23_P73589	Info	MSN; moesin	NM_002444	Hs.170328	MSN	chrX (63,754,280-63,828,589)	0.3839595	0.841	0.651	1.292
+696	51674	BP	localization of cell	A_24_P319364	Info	F11R; F11 receptor	NM_144503	Hs.506845	F11R	chr1 (158,182,777-158,207,803)	0.4020877	2.11	2.795	0.755
+697	51674	BP	localization of cell	A_23_P78867	Info	RYR1; ryanodine receptor 1 (skeletal)	NM_000540	Hs.195101	RYR1	chr19 (43,616,180-43,770,012)	0.4070131	1.205	1.684	0.716
+698	51674	BP	localization of cell	A_23_P94501	Info	ANXA1; annexin A1	NM_000700	Hs.287558	ANXA1	chr9 (71,223,744-71,242,482)	0.4102023	1.68	1.128	1.489
+699	51674	BP	localization of cell	A_24_P319369	Info	F11R; F11 receptor	NM_144503	Hs.506845	F11R	chr1 (158,182,777-158,207,803)	0.4201701	1.347	1.708	0.789
+700	51674	BP	localization of cell	A_24_P408704	Info	DOCK2; dedicator of cytokinesis 2	NM_004946	Hs.17211	DOCK2	chr5 (169,045,188-169,491,508)	0.4459229	0.887	0.779	1.139
+701	51674	BP	localization of cell	A_24_P398572	Info	IGF1; insulin-like growth factor 1 (somatomedin C)	NM_000618	Hs.308053	IGF1	chr12 (101,297,970-101,376,811)	0.4624848	7.539	11.126	0.678
+702	51674	BP	localization of cell	A_23_P347632	Info	MTSS1; metastasis suppressor 1	NM_014751	Hs.77694	MTSS1	chr8 (125,519,618-125,697,295) chr8 (125,519,619-125,528,429)	0.4630633	2.159	2.679	0.806
+703	51674	BP	localization of cell	A_23_P60248	Info	TXN; thioredoxin	NM_003329	Hs.395309	TXN	chr9 (108,385,928-108,398,792)	0.4718853	0.649	0.758	0.856
+704	51674	BP	localization of cell	A_23_P167096	Info	VEGFC; vascular endothelial growth factor C	NM_005429	Hs.79141	VEGFC	chr4 (178,300,572-178,409,785)	0.4859438	0.59	0.52	1.135
+705	51674	BP	localization of cell	A_23_P13382	Info	LSP1; lymphocyte-specific protein 1	NM_002339	Hs.56729	LSP1	chr11 (1,838,500-1,877,843)	0.4904238	1.64	1.376	1.192
+706	51674	BP	localization of cell	A_24_P303091	Info	CXCL10; chemokine (C-X-C motif) ligand 10	NM_001565	Hs.413924	CXCL10	chr4 (77,400,659-77,403,272)	0.4937422	6.72	5.099	1.318
+707	51674	BP	localization of cell	A_23_P152838	Info	CCL5; chemokine (C-C motif) ligand 5	NM_002985	Hs.489044	CCL5	chr17 (34,343,995-34,353,050)	0.4948769	2.533	2.146	1.18
+708	51674	BP	localization of cell	A_23_P140427	Info	EVL; Enah/Vasp-like	NM_016337	Hs.241471	EVL	chr14 (98,521,703-98,600,615)	0.5006602	1.152	0.961	1.199
+709	51674	BP	localization of cell	A_23_P103522	Info	SELL; selectin L (lymphocyte adhesion molecule 1)	BC020758	Hs.82848	SELL	chr1 (166,847,176-166,868,219)	0.5056104	1.827	1.484	1.231
+710	51674	BP	localization of cell	A_24_P135322	Info	NRP1; neuropilin 1	BC007533	Hs.173548	NRP1	chr10 (33,470,413-33,627,604)	0.5171928	1.17	0.976	1.199
+711	51674	BP	localization of cell	A_23_P73593	Info	MSN; moesin	NM_002444	Hs.170328	MSN	chrX (63,754,280-63,828,589)	0.5342585	0.993	0.88	1.128
+712	51674	BP	localization of cell	A_23_P122724	Info	VNN2; vanin 2	NM_004665	Hs.293130	VNN2	chr6 (133,045,573-133,059,661)	0.5504561	2.155	1.876	1.149
+713	51674	BP	localization of cell	A_24_P941441	Info	GNA13; guanine nucleotide binding protein (G protein), alpha 13	NM_006572	Hs.9691	GNA13	chr17 (63,555,478-63,602,952)	0.6173878	0.81	0.743	1.09
+714	51674	BP	localization of cell	A_23_P141005	Info	AMFR; autocrine motility factor receptor	NM_001144	Hs.295137	AMFR	chr16 (56,170,850-56,234,745)	0.6592715	1.027	0.928	1.107
+715	51674	BP	localization of cell	A_24_P135444	Info	AMFR; autocrine motility factor receptor	NM_001144	Hs.295137	AMFR	chr16 (56,170,850-56,234,745)	0.6722753	1.014	0.938	1.081
+716	51674	BP	localization of cell	A_23_P96568	Info	FLNA; filamin A, alpha (actin binding protein 280)	NM_001456	Hs.195464	FLNA	chrX (152,044,801-152,070,827)	0.6726809	0.528	0.582	0.907
+717	51674	BP	localization of cell	A_23_P329573	Info	ITGB2; integrin, beta 2 (antigen CD18 (p95), lymphocyte function-associated antigen 1; macrophage antigen 1 (mac-1) beta subunit)	NM_000211	Hs.375957	ITGB2	chr21 (45,162,056-45,204,835)	0.6817425	7.302	6.414	1.138
+718	51674	BP	localization of cell	A_23_P373017	Info	CCL3; chemokine (C-C motif) ligand 3	NM_002983	Hs.73817	CCL3	chr17 (34,561,109-34,563,060)	0.6930081	3.21	2.903	1.106
+719	51674	BP	localization of cell	A_23_P37727	Info	CX3CL1; chemokine (C-X3-C motif) ligand 1	NM_002996	Hs.80420	CX3CL1	chr16 (57,181,772-57,194,360)	0.6942494	2.266	2.719	0.833
+720	51674	BP	localization of cell	A_23_P160377	Info	DNALI1; dynein, axonemal, light intermediate polypeptide 1	NM_003462	Hs.406050	DNALI1	chr1 (37,450,182-37,489,230)	0.6989184	2.458	2.053	1.197
+721	51674	BP	localization of cell	A_23_P306203	Info	SAA2; serum amyloid A2	NM_030754	Hs.1955	SAA2	chr11 (18,231,078-18,234,526)	0.7546869	11.836	10.178	1.163
+722	51674	BP	localization of cell	A_23_P16469	Info	PLAUR; plasminogen activator, urokinase receptor	NM_002659	Hs.179657	PLAUR	chr19 (48,844,561-48,866,539)	0.7604096	0.589	0.55	1.071
+723	51674	BP	localization of cell	A_23_P307940	Info	CAPZA2; capping protein (actin filament) muscle Z-line, alpha 2	NM_006136	Hs.369579	CAPZA2	chr7 (116,057,064-116,113,902)	0.7737109	0.844	0.891	0.947
+724	51674	BP	localization of cell	A_23_P206212	Info	THBS1; thrombospondin 1	X04665	Hs.164226	THBS1	chr15 (37,589,186-37,605,723)	0.8021483	2.414	2.55	0.947
+725	51674	BP	localization of cell	A_23_P76364	Info	CD9; CD9 antigen (p24)	NM_001769	Hs.387579	CD9	chr12 (6,179,757-6,217,740)	0.8074901	1.072	1.161	0.923
+726	51674	BP	localization of cell	A_23_P207564	Info	CCL4; chemokine (C-C motif) ligand 4	NM_002984	Hs.75703	CCL4	chr17 (34,576,632-34,578,623)	0.808628	4.854	4.483	1.083
+727	51674	BP	localization of cell	A_23_P429950	Info	KAL1; Kallmann syndrome 1 sequence	NM_000216	Hs.380850	KAL1	chrX (7,908,249-8,111,645)	0.8257956	1.713	1.801	0.951
+728	51674	BP	localization of cell	A_23_P132718	Info	SEMA3B; sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3B	NM_004636	Hs.82222	SEMA3B	chr3 (50,264,009-50,273,996)	0.846466	0.374	0.35	1.069
+729	51674	BP	localization of cell	A_24_P234921	Info	CCR6; chemokine (C-C motif) receptor 6	NM_031409	Hs.46468	CCR6	chr6 (167,445,545-167,462,472)	0.8547459	1.285	1.233	1.042
+730	51674	BP	localization of cell	A_23_P7313	Info	SPP1; secreted phosphoprotein 1 (osteopontin, bone sialoprotein I, early T-lymphocyte activation 1)	NM_000582	Hs.313	SPP1	chr4 (89,355,218-89,362,958)	0.8752571	1.431	1.639	0.873
+731	51674	BP	localization of cell	A_24_P231513	Info	ACTR3; ARP3 actin-related protein 3 homolog (yeast)	NM_005721	Hs.433512	ACTR3	chr2 (114,742,682-114,811,574)	0.8883217	1.285	1.251	1.027
+732	51674	BP	localization of cell	A_23_P27795	Info	SPINT2; serine protease inhibitor, Kunitz type, 2	NM_021102	Hs.31439	SPINT2	chr19 (43,446,782-43,474,948)	0.8917967	3.622	3.852	0.94
+733	51674	BP	localization of cell	A_24_P105771	Info	ACTR3; ARP3 actin-related protein 3 homolog (yeast)	NM_005721	Hs.433512	ACTR3	chr2 (114,742,682-114,811,574)	0.898271	1.236	1.266	0.976
+734	51674	BP	localization of cell	A_23_P67391	Info	KPTN; kaptin (actin binding protein)	NM_007059	Hs.25441	KPTN	chr19 (52,670,209-52,679,314)	0.9193935	0.654	0.664	0.985
+735	51674	BP	localization of cell	A_23_P89780	Info	LAMA3; laminin, alpha 3	NM_000227	Hs.83450	LAMA3	chr18 (19,704,977-19,787,022)	0.9404808	1.775	1.741	1.02
+736	51674	BP	localization of cell	A_24_P79403	Info	PF4; platelet factor 4 (chemokine (C-X-C motif) ligand 4)	NM_002619	Hs.81564	PF4	chr4 (75,313,041-75,314,093)	0.9714157	1.405	1.423	0.987
+737	16887	MF	ATPase activity	A_23_P15511	Info	DDX5; DEAD (Asp-Glu-Ala-Asp) box polypeptide 5	NM_004396	Hs.279806	DDX5	chr17 (63,045,398-63,052,911)	0.0027812	1.891	1.109	1.705
+738	16887	MF	ATPase activity	A_23_P128319	Info	ATP2B1; ATPase, Ca++ transporting, plasma membrane 1	NM_001682	Hs.20952	ATP2B1	chr12 (88,484,287-88,552,355)	0.0071359	0.676	0.459	1.473
+739	16887	MF	ATPase activity	A_23_P142815	Info	ATP6V1B1; ATPase, H+ transporting, lysosomal 56/58kDa, V1 subunit B, isoform 1 (Renal tubular acidosis with deafness)	NM_001692	Hs.64173	ATP6V1B1	chr2 (71,137,527-71,167,105)	0.0087132	0.786	1.451	0.542
+740	16887	MF	ATPase activity	A_23_P54816	Info	ATP6V0C; ATPase, H+ transporting, lysosomal 16kDa, V0 subunit c	NM_001694	Hs.389107	ATP6V0C	chr16 (2,503,267-2,509,775)	0.0186871	1.292	0.894	1.445
+741	16887	MF	ATPase activity	A_23_P143551	Info	ATP6V1E1; ATPase, H+ transporting, lysosomal 31kDa, V1 subunit E isoform 1	NM_001696	Hs.77805	ATP6V1E1	chr22 (16,449,479-16,486,154)	0.0563566	0.879	1.14	0.771
+742	16887	MF	ATPase activity	A_23_P31844	Info	ATP6V1B2; ATPase, H+ transporting, lysosomal 56/58kDa, V1 subunit B, isoform 2	NM_001693	Hs.295917	ATP6V1B2	chr8 (20,064,977-20,089,491)	0.1170167	0.59	0.984	0.6
+743	16887	MF	ATPase activity	A_23_P93690	Info	MCM7; MCM7 minichromosome maintenance deficient 7 (S. cerevisiae)	NM_005916	Hs.438720	MCM7	chr7 (99,301,640-99,310,824)	0.1319578	0.363	0.474	0.766
+744	16887	MF	ATPase activity	A_23_P156445	Info	DDX43; DEAD (Asp-Glu-Ala-Asp) box polypeptide 43	NM_018665	Hs.125507	DDX43	chr6 (74,074,410-74,122,880)	0.1375473	0.504	0.343	1.469
+745	16887	MF	ATPase activity	A_23_P258221	Info	ABCC5; ATP-binding cassette, sub-family C (CFTR/MRP), member 5	NM_005688	Hs.34744	ABCC5	chr3 (184,958,630-185,056,671)	0.1432332	1.844	1.236	1.492
+746	16887	MF	ATPase activity	A_24_P1929	Info	DDX52; DEAD (Asp-Glu-Ala-Asp) box polypeptide 52	AK093661	Hs.380430	DDX52	chr17 (36,175,362-36,199,025)	0.1600424	0.826	1.032	0.8
+747	16887	MF	ATPase activity	A_23_P27472	Info	ATP1A3; ATPase, Na+/K+ transporting, alpha 3 polypeptide	NM_152296	Hs.380447	ATP1A3	chr19 (47,162,573-47,190,185)	0.1672952	0.579	0.782	0.74
+748	16887	MF	ATPase activity	A_23_P16573	Info	DDX49; DEAD (Asp-Glu-Ala-Asp) box polypeptide 49	NM_019070	Hs.143187	DDX49	chr19 (18,891,492-18,900,446)	0.1721174	0.652	0.834	0.782
+749	16887	MF	ATPase activity	A_23_P129133	Info	OCA2; oculocutaneous albinism II (pink-eye dilution homolog, mouse)	NM_000275	Hs.82027	OCA2	chr15 (25,602,392-25,946,825)	0.1732762	0.332	0.524	0.634
+750	16887	MF	ATPase activity	A_23_P77818	Info	ATP5H; ATP synthase, H+ transporting, mitochondrial F0 complex, subunit d	NM_006356	Hs.155728	ATP5H		0.1748883	1.088	0.815	1.335
+751	16887	MF	ATPase activity	A_24_P197196	Info	ABCB6; ATP-binding cassette, sub-family B (MDR/TAP), member 6	NM_005689	Hs.107911	ABCB6	chr2 (220,277,033-220,286,326)	0.1804518	0.901	0.725	1.243
+752	16887	MF	ATPase activity	A_23_P500400	Info	ABCA6; ATP-binding cassette, sub-family A (ABC1), member 6	NM_080284	Hs.15780	ABCA6	chr17 (67,671,966-67,735,138)	0.1861309	7.706	4.255	1.811
+753	16887	MF	ATPase activity	A_23_P143047	Info	ATP6V1E2; ATPase, H+ transporting, lysosomal 31kDa, V1 subunit E isoform 2	NM_080653	Hs.437691	ATP6V1E2	chr2 (46,713,518-46,721,672)	0.1992105	0.702	0.88	0.798
+754	16887	MF	ATPase activity	A_23_P5441	Info	ABCB6; ATP-binding cassette, sub-family B (MDR/TAP), member 6	NM_005689	Hs.107911	ABCB6	chr2 (220,277,033-220,286,326)	0.2121514	0.534	0.4	1.335
+755	16887	MF	ATPase activity	A_23_P143916	Info	ATP2C1; ATPase, Ca++ transporting, type 2C, member 1	NM_014382	Hs.106778	ATP2C1	chr3 (131,933,751-132,041,755)	0.2632599	1.654	2.041	0.81
+756	16887	MF	ATPase activity	A_23_P148879	Info	ATP1A2; ATPase, Na+/K+ transporting, alpha 2 (+) polypeptide	NM_000702	Hs.34114	ATP1A2	chr1 (157,300,962-157,330,367)	0.2667875	1.809	0.848	2.133
+757	16887	MF	ATPase activity	A_32_P23624	Info	ABCB10; ATP-binding cassette, sub-family B (MDR/TAP), member 10	NM_012089	Hs.1710	ABCB10	chr1 (226,613,534-226,655,683)	0.2710968	0.723	0.851	0.85
+758	16887	MF	ATPase activity	A_23_P252322	Info	ATP5E; ATP synthase, H+ transporting, mitochondrial F1 complex, epsilon subunit	NM_006886	Hs.177530	ATP5E		0.2718186	1.375	1.079	1.274
+759	16887	MF	ATPase activity	A_23_P157478	Info	ATP6V1H; ATPase, H+ transporting, lysosomal 50/57kDa, V1 subunit H	NM_015941	Hs.19575	ATP6V1H	chr8 (54,677,981-54,805,782)	0.2746604	1.034	0.84	1.231
+760	16887	MF	ATPase activity	A_23_P137103	Info	EIF4A1; eukaryotic translation initiation factor 4A, isoform 1	NM_001416	Hs.129673	EIF4A1	chr17 (7,678,056-7,682,522)	0.2856799	0.692	0.574	1.206
+761	16887	MF	ATPase activity	A_24_P283225	Info	MYO6; myosin VI	NM_004999	Hs.118483	MYO6	chr6 (76,454,522-76,621,927)	0.291654	1.916	2.605	0.736
+762	16887	MF	ATPase activity	A_23_P63655	Info	ATP5C1; ATP synthase, H+ transporting, mitochondrial F1 complex, gamma polypeptide 1	NM_005174	Hs.155433	ATP5C1	chr10 (7,834,064-7,853,784)	0.2986366	0.727	0.902	0.806
+763	16887	MF	ATPase activity	A_23_P255952	Info	MYO6; myosin VI	NM_004999	Hs.118483	MYO6	chr6 (76,454,522-76,621,927)	0.3021379	1.907	2.575	0.741
+764	16887	MF	ATPase activity	A_23_P207632	Info	ATP2A3; ATPase, Ca++ transporting, ubiquitous	NM_174953	Hs.5541	ATP2A3	chr17 (4,033,759-4,074,326)	0.3080404	0.96	0.852	1.127
+765	16887	MF	ATPase activity	A_23_P118615	Info	ABCA8; ATP-binding cassette, sub-family A (ABC1), member 8	NM_007168	Hs.58351	ABCA8	chr17 (67,460,549-67,548,615)	0.3114912	2.252	1.722	1.308
+766	16887	MF	ATPase activity	A_23_P317657	Info	DDX3X; DEAD (Asp-Glu-Ala-Asp) box polypeptide 3, X-linked	NM_024005	Hs.380774	DDX3X	chrX (40,223,413-40,254,662)	0.3231558	0.563	0.659	0.854
+767	16887	MF	ATPase activity	A_23_P117654	Info	MYO5A; myosin VA (heavy polypeptide 12, myoxin)	NM_000259	Hs.21213	MYO5A	chr15 (50,320,529-50,537,308)	0.3318899	0.802	0.632	1.269
+768	16887	MF	ATPase activity	A_24_P168456	Info	ATP5D; ATP synthase, H+ transporting, mitochondrial F1 complex, delta subunit	NM_001687	Hs.418668	ATP5D		0.3555092	0.505	0.421	1.2
+769	16887	MF	ATPase activity	A_32_P13728	Info	HSPA8; heat shock 70kDa protein 8	NM_006597	Hs.180414	HSPA8	chr11 (122,465,752-122,470,552)	0.3637893	0.992	0.827	1.2
+770	16887	MF	ATPase activity	A_24_P390793	Info	EIF4A1; eukaryotic translation initiation factor 4A, isoform 1	NM_001416	Hs.129673	EIF4A1	chr17 (7,678,056-7,682,522)	0.3650389	0.605	0.508	1.191
+771	16887	MF	ATPase activity	A_24_P295412	Info	VCP; valosin-containing protein	NM_007126	Hs.408723	VCP	chr9 (35,046,065-35,063,210)	0.3754643	0.508	0.439	1.157
+772	16887	MF	ATPase activity	A_23_P1072	Info	ATP1A1; ATPase, Na+/K+ transporting, alpha 1 polypeptide	NM_000701	Hs.371889	ATP1A1	chr1 (116,262,194-116,294,165)	0.3830648	0.881	1.073	0.821
+773	16887	MF	ATPase activity	A_23_P56369	Info	ABCA12; ATP-binding cassette, sub-family A (ABC1), member 12	AY033486	Hs.134585	ABCA12	chr2 (215,998,809-216,205,693)	0.3903193	0.542	0.447	1.213
+774	16887	MF	ATPase activity	A_23_P97161	Info	TTF2; transcription termination factor, RNA polymerase II	NM_003594	Hs.201774	TTF2	chr1 (116,949,305-116,991,615)	0.4025388	0.497	0.575	0.864
+775	16887	MF	ATPase activity	A_23_P39110	Info	RUVBL2; RuvB-like 2 (E. coli)	NM_006666	Hs.6455	RUVBL2	chr19 (54,189,834-54,211,053)	0.4029027	0.255	0.283	0.901
+776	16887	MF	ATPase activity	A_23_P78664	Info	DDX39; DEAD (Asp-Glu-Ala-Asp) box polypeptide 39	NM_138998	Hs.311609	DDX39	chr19 (14,380,633-14,391,171)	0.410058	0.591	0.499	1.184
+777	16887	MF	ATPase activity	A_23_P26865	Info	MYH3; myosin, heavy polypeptide 3, skeletal muscle, embryonic	NM_002470	Hs.440895	MYH3	chr17 (10,732,412-10,760,048)	0.4159979	1.125	0.942	1.194
+778	16887	MF	ATPase activity	A_23_P24774	Info	ABCC8; ATP-binding cassette, sub-family C (CFTR/MRP), member 8	NM_000352	Hs.54470	ABCC8	chr11 (17,378,723-17,462,758)	0.4187846	1	1.2	0.833
+779	16887	MF	ATPase activity	A_23_P355289	Info	AFG3L1; AFG3 ATPase family gene 3-like 1 (yeast)	NM_001132	Hs.337620	AFG3L1	chr16 (89,779,255-89,805,210)	0.4197257	0.775	0.855	0.906
+780	16887	MF	ATPase activity	A_23_P390343	Info	DHX40; DEAH (Asp-Glu-Ala-His) box polypeptide 40	AK095681	Hs.29403	DHX40		0.4346498	0.62	0.543	1.142
+781	16887	MF	ATPase activity	A_23_P50156	Info	VPS4B; vacuolar protein sorting 4B (yeast)	AF038960	Hs.126550	VPS4B	chr18 (59,205,392-59,238,729)	0.436755	0.782	0.876	0.893
+782	16887	MF	ATPase activity	A_24_P287129	Info	HSPA8; heat shock 70kDa protein 8	NM_006597	Hs.180414	HSPA8	chr11 (122,465,752-122,470,552)	0.4436078	1.078	0.913	1.181
+783	16887	MF	ATPase activity	A_23_P7873	Info	MCM3; MCM3 minichromosome maintenance deficient 3 (S. cerevisiae)	NM_002388	Hs.179565	MCM3	chr6 (52,175,640-52,197,456)	0.4525288	0.448	0.539	0.831
+784	16887	MF	ATPase activity	A_23_P160940	Info	ABCA4; ATP-binding cassette, sub-family A (ABC1), member 4	NM_000350	Hs.416707	ABCA4	chr1 (93,930,185-94,058,506)	0.4988207	1.553	1.222	1.271
+785	16887	MF	ATPase activity	A_23_P256716	Info	SMARCA5; SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 5	NM_003601	Hs.135705	SMARCA5	chr4 (145,011,836-145,053,834)	0.5012378	0.589	0.513	1.148
+786	16887	MF	ATPase activity	A_23_P59005	Info	TAP1; transporter 1, ATP-binding cassette, sub-family B (MDR/TAP)	NM_000593	Hs.352018	TAP1	chr6 (32,859,787-32,869,073)	0.5102778	3.204	2.536	1.263
+787	16887	MF	ATPase activity	A_23_P24594	Info	HSPA8; heat shock 70kDa protein 8	NM_006597	Hs.180414	HSPA8	chr11 (122,465,752-122,470,552)	0.5129658	1.018	0.886	1.149
+788	16887	MF	ATPase activity	A_23_P141076	Info	ABCC11; ATP-binding cassette, sub-family C (CFTR/MRP), member 11	NM_033151	Hs.335891	ABCC11	chr16 (47,978,779-48,047,062)	0.5338308	1.559	1.24	1.257
+789	16887	MF	ATPase activity	A_24_P91310	Info	PSMC4; proteasome (prosome, macropain) 26S subunit, ATPase, 4	NM_006503	Hs.211594	PSMC4	chr19 (45,168,753-45,179,510)	0.5347595	0.484	0.535	0.905
+790	16887	MF	ATPase activity	A_23_P207507	Info	ABCC3; ATP-binding cassette, sub-family C (CFTR/MRP), member 3	NM_003786	Hs.90786	ABCC3	chr17 (49,186,866-49,243,700)	0.5471843	1.075	0.9	1.194
+791	16887	MF	ATPase activity	A_23_P30075	Info	ATP8A1; ATPase, aminophospholipid transporter (APLT), Class I, type 8A, member 1	NM_006095	Hs.291385	ATP8A1	chr4 (42,329,619-42,574,506)	0.5552066	0.798	0.699	1.142
+792	16887	MF	ATPase activity	A_23_P42144	Info	PEX6; peroxisomal biogenesis factor 6	NM_000287	Hs.301636	PEX6	chr6 (42,978,463-42,993,831)	0.5588723	0.722	0.646	1.118
+793	16887	MF	ATPase activity	A_23_P146943	Info	ATP1B1; ATPase, Na+/K+ transporting, beta 1 polypeptide	NM_001677	Hs.78629	ATP1B1	chr1 (166,263,318-166,289,948)	0.5700685	0.865	1.071	0.808
+794	16887	MF	ATPase activity	A_23_P88731	Info	RAD51; RAD51 homolog (RecA homolog, E. coli) (S. cerevisiae)	NM_002875	Hs.446554	RAD51	chr15 (38,703,424-38,740,410)	0.571299	0.43	0.479	0.898
+795	16887	MF	ATPase activity	A_23_P56680	Info	ATP5G3; ATP synthase, H+ transporting, mitochondrial F0 complex, subunit c (subunit 9) isoform 3	NM_001689	Hs.429	ATP5G3	chr2 (176,244,934-176,248,931)	0.5740813	0.917	1.029	0.891
+796	16887	MF	ATPase activity	A_24_P215765	Info		I_1000537		ATP10A	chr15 (23,469,781-23,656,231)	0.5793952	2.634	2.942	0.895
+797	16887	MF	ATPase activity	A_23_P164228	Info	ATP5G1; ATP synthase, H+ transporting, mitochondrial F0 complex, subunit c (subunit 9), isoform 1	NM_005175	Hs.80986	ATP5G1	chr17 (47,444,801-47,447,875)	0.5926078	0.629	0.568	1.107
+798	16887	MF	ATPase activity	A_23_P16908	Info		NM_145646		DHX57	chr2 (38,999,408-39,062,876)	0.6026672	1.125	1.228	0.916
+799	16887	MF	ATPase activity	A_23_P154832	Info	ATP5J; ATP synthase, H+ transporting, mitochondrial F0 complex, subunit F6	NM_001685	Hs.246310	ATP5J	chr21 (26,018,683-26,029,862)	0.6122114	0.624	0.691	0.903
+800	16887	MF	ATPase activity	A_24_P363679	Info	ATP6V1H; ATPase, H+ transporting, lysosomal 50/57kDa, V1 subunit H	AF125105	Hs.19575	ATP6V1H	chr8 (54,718,782-54,805,096)	0.6311278	0.807	0.718	1.124
+801	16887	MF	ATPase activity	A_23_P158976	Info	ABCC2; ATP-binding cassette, sub-family C (CFTR/MRP), member 2	NM_000392	Hs.193852	ABCC2	chr10 (101,207,050-101,276,920)	0.6342812	0.209	0.189	1.106
+802	16887	MF	ATPase activity	A_23_P68007	Info	ATP1B3; ATPase, Na+/K+ transporting, beta 3 polypeptide	NM_001679	Hs.76941	ATP1B3	chr3 (142,916,301-142,966,291)	0.6548458	0.678	0.621	1.092
+803	16887	MF	ATPase activity	A_23_P125420	Info	ATP5I; ATP synthase, H+ transporting, mitochondrial F0 complex, subunit e	NM_007100	Hs.85539	ATP5I		0.6596065	1.428	1.313	1.088
+804	16887	MF	ATPase activity	A_23_P201918	Info	ABCB10; ATP-binding cassette, sub-family B (MDR/TAP), member 10	NM_012089	Hs.1710	ABCB10	chr1 (226,613,534-226,655,683)	0.6640268	0.7	0.751	0.932
+805	16887	MF	ATPase activity	A_23_P71558	Info	RECQL4; RecQ protein-like 4	NM_004260	Hs.31442	RECQL4	chr8 (145,741,468-145,748,042)	0.6725223	0.399	0.454	0.879
+806	16887	MF	ATPase activity	A_32_P121424	Info	ATP6V0D2; ATPase, H+ transporting, lysosomal 38kDa, V0 subunit d isoform 2	NM_152565	Hs.436360	ATP6V0D2	chr8 (87,067,588-87,123,049)	0.6766642	1.381	1.271	1.087
+807	16887	MF	ATPase activity	A_23_P78018	Info	ABCA5; ATP-binding cassette, sub-family A (ABC1), member 5	NM_018672	Hs.421474	ABCA5	chr17 (67,839,915-67,909,051)	0.6949983	1.251	1.122	1.115
+808	16887	MF	ATPase activity	A_24_P96527	Info	ATP5L; ATP synthase, H+ transporting, mitochondrial F0 complex, subunit g	NM_006476	Hs.107476	ATP5L	chr11 (117,809,906-117,818,213)	0.7052624	0.826	0.904	0.914
+809	16887	MF	ATPase activity	A_23_P102876	Info	CCT8; chaperonin containing TCP1, subunit 8 (theta)	NM_006585	Hs.416211	CCT8	chr21 (29,350,306-29,366,455)	0.7289808	0.39	0.415	0.94
+810	16887	MF	ATPase activity	A_32_P93149	Info	DDX10; DEAD (Asp-Glu-Ala-Asp) box polypeptide 10	NM_004398	Hs.41706	DDX10	chr11 (108,073,428-108,349,305)	0.7465218	1.159	1.084	1.069
+811	16887	MF	ATPase activity	A_23_P146058	Info	ATP6V1C1; ATPase, H+ transporting, lysosomal 42kDa, V1 subunit C, isoform 1	NM_001695	Hs.86905	ATP6V1C1	chr8 (103,989,826-104,038,587)	0.7578048	1.011	1.105	0.915
+812	16887	MF	ATPase activity	A_23_P62932	Info	ATP1B1; ATPase, Na+/K+ transporting, beta 1 polypeptide	NM_001677	Hs.78629	ATP1B1	chr1 (166,263,318-166,289,948)	0.7999421	1.251	1.419	0.882
+813	16887	MF	ATPase activity	A_24_P302998	Info	ATP5I; ATP synthase, H+ transporting, mitochondrial F0 complex, subunit e	NM_007100	Hs.85539	ATP5I		0.8532726	1.175	1.141	1.03
+814	16887	MF	ATPase activity	A_24_P235429	Info	ABCA1; ATP-binding cassette, sub-family A (ABC1), member 1	NM_005502	Hs.147259	ABCA1	chr9 (102,926,280-103,070,356)	0.861724	2.531	2.66	0.952
+815	16887	MF	ATPase activity	A_23_P25215	Info	RECQL; RecQ protein-like (DNA helicase Q1-like)	NM_032941	Hs.235069	RECQL	chr12 (21,513,696-21,545,819)	0.8844783	0.643	0.626	1.027
+816	16887	MF	ATPase activity	A_23_P250404	Info		Z75311		RAD50	chr5 (131,968,846-132,055,809)	0.8861457	0.609	0.595	1.024
+817	16887	MF	ATPase activity	A_23_P140876	Info	ABCA3; ATP-binding cassette, sub-family A (ABC1), member 3	NM_001089	Hs.26630	ABCA3	chr16 (2,265,797-2,319,800)	0.908158	0.979	0.961	1.019
+818	16887	MF	ATPase activity	A_23_P370989	Info	MCM4; MCM4 minichromosome maintenance deficient 4 (S. cerevisiae)	NM_005914	Hs.460184	MCM4	chr8 (48,922,825-48,940,126)	0.9220561	0.325	0.316	1.028
+819	16887	MF	ATPase activity	A_23_P90612	Info	MCM6; MCM6 minichromosome maintenance deficient 6 (MIS5 homolog, S. pombe) (S. cerevisiae)	NM_005915	Hs.444118	MCM6	chr2 (136,807,965-136,844,761)	0.9548746	0.357	0.353	1.011
+820	16887	MF	ATPase activity	A_24_P305556	Info	MCM8; MCM8 minichromosome maintenance deficient 8 (S. cerevisiae)	NM_032485	Hs.528694	MCM8	chr20 (5,926,298-5,973,870)	0.9775197	0.37	0.368	1.005
+821	7389	BP	pattern specification	A_23_P365614	Info	NOTCH4; Notch homolog 4 (Drosophila)	NM_004557	Hs.436100	NOTCH4	chr6 (32,234,050-32,263,336)	0.199484	4.444	3.119	1.425
+822	7389	BP	pattern specification	A_23_P314115	Info	COMMD3; COMM domain containing 3	NM_005180	Hs.380403	BMI1	chr10 (22,614,092-22,624,228)	0.2085122	1.321	1.792	0.737
+823	7389	BP	pattern specification	A_24_P197964	Info	TRIM14; tripartite motif-containing 14	NM_033219	Hs.370530	TRIM14	chr9 (96,226,467-96,261,318)	0.2305426	1.495	1.051	1.422
+824	7389	BP	pattern specification	A_23_P216655	Info	TRIM14; tripartite motif-containing 14	NM_014788	Hs.370530	TRIM14	chr9 (96,226,467-96,261,318)	0.2402987	1.252	0.964	1.299
+825	7389	BP	pattern specification	A_23_P366376	Info	TDGF1; teratocarcinoma-derived growth factor 1	NM_003212	Hs.385870	TDGF1	chr3 (46,579,733-46,584,549)	0.3323116	0.243	0.281	0.865
+826	7389	BP	pattern specification	A_23_P170037	Info	MID1; midline 1 (Opitz/BBB syndrome)	NM_033290	Hs.27695	MID1	chrX (9,827,665-10,000,148)	0.3751567	0.603	0.793	0.76
+827	226	BP	microtubule cytoskeleton organization and biogenesis	A_23_P114879	Info	HOOK1; hook homolog 1 (Drosophila)	NM_015888	Hs.528640	HOOK1	chr1 (59,650,450-59,708,644)	0.0939713	1.191	1.652	0.721
+828	226	BP	microtubule cytoskeleton organization and biogenesis	A_23_P259586	Info	TTK; TTK protein kinase	NM_003318	Hs.169840	TTK	chr6 (80,709,071-80,747,836)	0.1343616	0.284	0.516	0.55
+829	226	BP	microtubule cytoskeleton organization and biogenesis	A_23_P314216	Info		AF241830		HOOK3	chr8 (42,769,128-42,892,639)	0.1799678	1.233	1.026	1.202
+830	226	BP	microtubule cytoskeleton organization and biogenesis	A_24_P411899	Info	RNF19; ring finger protein 19	NM_015435	Hs.439660	RNF19	chr8 (101,225,667-101,278,935)	0.1965194	1.794	1.477	1.215
+831	226	BP	microtubule cytoskeleton organization and biogenesis	A_23_P206059	Info	PRC1; protein regulator of cytokinesis 1	NM_003981	Hs.344037	PRC1	chr15 (89,239,036-89,267,528)	0.221483	0.41	0.544	0.754
+832	226	BP	microtubule cytoskeleton organization and biogenesis	A_23_P211816	Info	MAP4; microtubule-associated protein 4	NM_002375	Hs.31095	MAP4	chr3 (47,853,642-48,090,992)	0.2836363	0.567	0.685	0.828
+833	226	BP	microtubule cytoskeleton organization and biogenesis	A_24_P98021	Info	MAP7; microtubule-associated protein 7	NM_003980	Hs.254605	MAP7	chr6 (136,644,695-136,852,527)	0.2989099	0.865	1.227	0.705
+834	226	BP	microtubule cytoskeleton organization and biogenesis	A_23_P153441	Info	HOOK2; hook homolog 2 (Drosophila)	NM_013312	Hs.30792	HOOK2	chr19 (12,733,872-12,747,391)	0.3596341	1.145	1.352	0.847
+835	226	BP	microtubule cytoskeleton organization and biogenesis	A_23_P170037	Info	MID1; midline 1 (Opitz/BBB syndrome)	NM_033290	Hs.27695	MID1	chrX (9,827,665-10,000,148)	0.3751567	0.603	0.793	0.76
+836	226	BP	microtubule cytoskeleton organization and biogenesis	A_23_P52278	Info	KIF11; kinesin family member 11	X85137	Hs.8878	KIF11	chr10 (94,017,378-94,079,733)	0.4197775	0.255	0.337	0.757
+837	226	BP	microtubule cytoskeleton organization and biogenesis	A_24_P224488	Info	MAPT; microtubule-associated protein tau	NM_173727	Hs.101174	MAPT	chr17 (44,578,608-44,578,985)	0.4683272	1.167	1.575	0.741
+838	226	BP	microtubule cytoskeleton organization and biogenesis	A_23_P127150	Info	TUBGCP2; tubulin, gamma complex associated protein 2	NM_006659	Hs.372093	TUBGCP2	chr10 (134,566,424-134,595,963)	0.485422	0.678	0.743	0.913
+839	226	BP	microtubule cytoskeleton organization and biogenesis	A_24_P226355	Info	RANBP9; RAN binding protein 9	NM_005493	Hs.306242	RANBP9	chr6 (13,723,275-13,820,075)	0.4891343	1.289	1.43	0.901
+840	226	BP	microtubule cytoskeleton organization and biogenesis	A_24_P47547	Info	RAN; RAN, member RAS oncogene family	AL357616	Hs.10842	RAN		0.9637585	0.461	0.466	0.989

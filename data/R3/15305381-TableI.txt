@@ -1,0 +1,36 @@
+Ensembl ID	Gene	Product	Subcellular location	Biological function	Average ratio	t-test p-value	Reference	SAGE
+ENSG00000106541	AGR2	Anterior gradient 2 homologue	Secreted	Regulation of receptor adhesion and functioning	9.6	< 0.001	36	confirmed
+ENSG00000023445	BIRC3	Baculoviral IAP repeat containing 3	Cytoplasmic	Antiapoptosis	4.9	< 0.001	31	confirmed
+ENSG00000125378	BMP4	Bone morphogenic protein 4	Secreted	Mesoderm development	116.8	< 0.01		confirmed
+ENSG00000038427	CSPG2	Chontroitin sulfate proteoglycan 2	Extracellular matrix	Heterophilic cell adhesion	24.2	< 0.05	31	confirmed
+ENSG00000014914	CRA2	Cisplatin resistance associated beta protein	Integral membrane		3.9	< 0.001	37	confirmed
+Homologous to	CLDN32	Claudin 3	Integral membrane	Promotes activation of pro-MMP2	22.3	< 0.001	36	confirmed
+Homologous to	CLDN42	Claudin 4	Integral membrane	Promotes activation of pro-MMP2	17.3	< 0.001	[36][39]	confirmed
+ENSG00000184113	CLDN5	Claudin 5	Integral membrane	Promotes activation of pro-MMP2	6.7	< 0.001		Not confirmed
+Homologous to	CRIP13	Cystein-rich intestinal protein 1	Cytoplasmic	Cell proliferation	12.3	< 0.001	36	confirmed
+ENSG00000129654	FOXJ1	Forkhead box J1	Nuclear	Regulation of transcription, DNA-dependent	29.6	< 0.05		Not confirmed
+ENSG00000131981	LGALS3	Galectin-3	Nuclear/ cytoplasmic	Heterophilic cell adhesion	3.2	< 0.001	39	confirmed
+ENSG00000115738	ID2	Id-2	Nuclear	Cell proliferation	18.8	< 0.001	39	Not confirmed
+ENSG00000146674	IGFBP3	Insulin-like growth factor binding protein 3	Secreted	Regulation of cell growth	63.7	< 0.01	[37][38]	confirmed
+ENSG00000141753	IGFBP4	Insulin-like growth factor binding protein 4	Secreted	Regulation of cell growth	3.6	< 0.001	37	confirmed
+ENSG00000167779	IGFBP6	Insulin-like growth factor binding protein 6	Secreted	Regulation of cell growth	3.1	< 0.001		Not confirmed
+ENSG00000082781	ITGB5	Integrin, beta 5	Membrane	Integrin-mediated signaling pathway	4.4	< 0.001	35	confirmed
+ENSG00000167755	KLK6	Kallikrein 6	Secreted	Proteolysis and peptidolysis	23.7	< 0.01		confirmed
+ENSG00000148346	LCN2	Lipocalin 2	Cytoplasmic	Transport of small lipophilic substances	11.7	< 0.001	[31][38][39]	confirmed
+ENSG00000175130	MLP	MARCKS-like protein	Cytoplasmic	Coupling the protein kinase c and calmodulin signal transduction	4.4	< 0.001	37	Not confirmed
+ENSG00000163460	MUC1	Mucin 1	Membrane	Cell-cell interactions	61.9	< 0.01	37	confirmed
+ENSG00000166741	NNMT	Nicotinamide N methyltransferase	Cytoplasmic	Biotransformation of many drugs	29.1	< 0.05	31	confirmed
+ENSG00000104368	PLAT	Plasminogen activator	Secreted	Proteolysis and peptidolysis	5.7	< 0.01	31	confirmed
+ENSG00000167653	PSCA	Prostate stem cell antigen	Membrane	Tumor antigen	25.2	< 0.001	31	confirmed
+ENSG00000118849	RARRES1	Retinoic acid receptor responder 1	Membrane	Negative regulation of cell proliferation	43	< 0.01		Not confirmed
+ENSG00000160673	S100A4	S100 calcium-binding protein A4	Cytoplasmic	Invasive growth	181.5	< 0.01	36	confirmed
+ENSG00000163993	S100P	S100 calcium-binding protein P	Cytoplasmic	Cell life, proliferation/growth	13.9	< 0.001	[31][35][37][38][39]	confirmed
+ENSG00000118785	SPP1	Secreted phosphoprotein 1 (osteopontin)	Extracellular matrix	Antiapoptosis	16.2	< 0.01	31	confirmed
+ENSG00000131171	SH3BGRL	SH3 domain binding glutamic acid-rich-like	Cytoplasmic	Protooncogene	4.4	< 0.001		Not confirmed
+ENSG00000155465	SLC7A7	Solute carrier family 7, member 7	Integral membrane	Protein complex assembly	13.1	< 0.01	31	Not confirmed
+ENSG0000035862	TIMP2	Tissue inhibitor of metalloproteinase 2	Extracellular matrix	Complexes with metalloproteinases	4.3	< 0.001		confirmed
+ENSG00000101418	TGM2	Transglutaminase 2	Membrane	Protein modification	41	< 0.001	[31][38]	confirmed
+ENSG00000160182	TFF1	Trefoil factor 1	Secreted	Cell growth and/or maintenance	6.7	< 0.01	39	confirmed
+ENSG00000160181	TFF2	Trefoil factor 2 (spasmolytic protein1)	Secreted	Stimulator of cell motility	30.1	< 0.01	39	confirmed
+ENSG00000026025	VIM	Vimentin	Kinesin complex		21.7	< 0.01	35	confirmed
+ENSG00000101443	WFDC2	WAP 4 disulfide domain 2/HE4	Secreted	Proteolysis and peptidolysis	35.2	< 0.001		confirmed

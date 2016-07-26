@@ -1,0 +1,27 @@
+Cluster	Cluster name	Probe set ID	Gene description	Fold increase over unexposed 6h	Fold increase over unexposed 18h	Fold increase over unexposed90h
+27	Stressresponse	103344_at	DnaJ (Hsp40) homolog, subfamilyC, member1	0.26	0.35	0.32
+28	Stressresponse	102847_s_at	Cytochrome P450, 2a4	0.66	0.61	0.37
+38	Stressresponse	96594_at	Hsp70RY	0.49	1.02	1.36
+26	Inflammation	98406_at	Chemokine (C-C motif) ligand5	0.46	0.37	0.63
+27	Inflammation	93086_at	Immuno globulin kappa chain variable 28 (V28)	0.45	0.57	0.64
+30	Inflammation	102940_at	Lymphotoxin B	0.24	0.73	0.72
+35	Inflammation	104597_at	Guanylate nucleotide binding protein 2	0.28	0.52	1.05
+35	Inflammation	96172_at	Immune-associated nucleotide 1	0.43	0.82	0.92
+35	Inflammation	92316_f_at	Immunoglobulin lambda chain	0.35	0.7	0.78
+35	Inflammation	98974_at	Immunoglobulin heavy chain 6 (IgM)	0.37	0.63	0.78
+36	Inflammation	100311_f_at	EosinophiL-associated ribonuclease 1	0.62	0.34	1.26
+36	Inflammation	103240_f_at	EosinophiL-associated ribonuclease 2	0.73	0.44	1.37
+38	Inflammation	104606_at	CD52 antigen	0.35	0.74	1.13
+38	Inflammation	93397_at	Chemokine (C-C) receptor 2	0.16	0.94	1.88
+27	Signaltransduction	97844_at	Regulator of G-protein signaling 2	0.49	0.52	0.59
+30	Signaltransduction	102778_at	Immunoglobulin-associated alpha	0.4	0.86	0.82
+31	Signaltransduction	93492_at	Pleckstrin homology, Sec7 and coiled/coil domains 2	0.08	1.17	1.19
+35	Signaltransduction	101048_at	Protein tyrosine phosphatase, receptor type, C	0.42	0.54	1.15
+38	Signaltransduction	104265_at	Kinase insert domain protein receptor (Flk-1)	0.44	1.08	1.39
+27	Transcription	98086_r_at	RNA polymerase 1-1 (40 kDa subunit)	0.44	0.59	0.48
+28	Transcription	160841_at	D site albumin promoter binding protein	0.42	0.11	0.08
+38	Transcription	103050_at	Transcription factor 21	0.46	0.9	1.25
+38	Transcription	97354_at	Transcription factor IIC1	0.47	0.85	1.31
+31	Cytoskeleton	92838_at	Fascin homolog 1, actin bundling protein	0.28	1.39	1.07
+38	Cytoskeleton	94278_at	Lymphocyte cytosolic protein 1	0.47	0.94	1.49
+38	Cytoskeleton	95466_at	Coactosin-like 1 (Dictyostelium)	0.32	1.15	1.82

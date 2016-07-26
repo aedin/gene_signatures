@@ -1,0 +1,29 @@
+Gene	Name	Accession No.	Functions	Mean difference	P value	Type of genes
+CCRL2	Chemokine (C-C motif) receptor-like 2	AF014958	Transmembrane protein related to CCR1	-1.03	0.001	Chemokine-related genes
+CCL13	Chemokine (C-C motif) ligand 13	AJ001634	Accumulation of leukocytes during inflammation	-1.07	0.005	Chemokine-related genes
+CCL18	Chemokine (C-C motif) ligand 18 (pulmonary and activation-regulated)	Y13710	Attracts naïve T-cells to dendritic cells and activated macrophages in lymph nodes	-1.11	0.017	Chemokine-related genes
+FY	Duffy blood group	X85785	Facilitates movement of chemokines across endothelium	-1.08	0.002	Chemokine-related genes
+AREG	Amphiregulin (schwannoma-derived growth factor)	M30704	EGF family protein, cell-signaling, growth factor activity	1.45	0.036	Cytokine related genes
+IL10RA	Interleukin 10 receptor, alpha	U00672	Survival of progenitor myeloid cells through the insulin receptor substrate-2/PI 3-kinase/AKT pathway	-1.08	0.003	Cytokine related genes
+IL9R	Interleukin 9 receptor	L39064	JAK/STAT activation after ligand binding	-1.04	0.001	Cytokine related genes
+LILRB5	Leukocyte immunoglobulin-like receptor, subfamily B (with TM and ITIM domains), member 5	AF025534	Immunoglobulin superfamily member	-1.13	0.016	Cytokine related genes
+SLC9A2	Solute carrier family 9 (sodium/hydrogen exchanger), isoform 2	S81591	Ion transport, pH regulation	-1.07	0.01	Transporters
+ABCB1	ATP-binding cassette, sub-family B (MDR/TAP), member 1	M14758	Encodes P-glycoprotein drug efflux pump	-1.33	0.002	Transporters
+TMP21	Transmembrane trafficking protein	L40397	Protein carrier integral to plasma membrane, involved in ER to Golgi transport	1.25	0.024	Transporters
+		L40391	Sodium ion, and possible calcium ion, transporter	1.19	0.005	Transporters
+SCN9A	Sodium channel, voltage-gated, type IX, alpha polypeptide	X82835	GPI-anchored plasma membrane-bound	1.21	0.048	Transporters
+FOLR1	Folate receptor 1 (adult)	U20391	receptor, folic acid endocytosis	-1.13	0.002	Transporters
+DJ971N18	Hypothetical protein DJ971N18	AL021396	Membrane electron transport	1.19	0.029	Transporters
+P5	Protein disulfide isomerase-related protein	D49489	Substrate-specific chaperone activity	1.17	0.001	Transporters
+FTHP1	Ferritin, heavy polypeptide 1	J04755	Intracellular iron ion transport and storage, part of the ferritin complex	1.14	0.011	Transporters
+ATP4A	ATPase, H+/K+  exchanging, alpha polypeptide	M63962	Small molecule transport, ATPase activity	-1.01	0.001	Transporters
+FADS1	Fatty acid desaturase 1	AC_004770	Possible electron transport	-1.1	0.002	Transporters
+SPN	Sialophorin (gpl 115, leukosialin, CD43)	J04168	Negative regulator of cell adhesion, chemotaxis, cell polarity, possible T- cell activation	1.42	0.017	Adhesion
+ALCAM	Activated leukocyte cell adhesion molecule	Y10183	Signal transduction, down regulated in high grade prostate tumors, may have a role in progression	1.24	0.019	Adhesion
+CDH2	Cadherin 2, type 1, N-cadherin (neuronal)	M34064	Cell–cell adhesion, calcium dependent, plasma membrane glycoprotein	1.17	0.04	Adhesion
+CTNND2	Catenin (cadherin-associated protein), delta 2 (neural plakophilin-related arm-repeat protein)	U96136	Neuronal cell adhesion, deletion associated with cri-du-chat syndrome	-1.01	0.003	Adhesion
+CSPG2	Chondroitin sulphate proteoglycan 2 (versican)	X15998	Binds hyaluronic acid, heterophilic cell adhesion, melanoma progression	-1.04	0.01	Adhesion
+CD99	CD99 antigen	M16279	Engagement triggers exocytosis of ganglioside GM1 and reorganization of actin cytoskeleton	-1.04	0.004	Adhesion
+DCN	Decorin	M14219	Small matrix proteoglycan, connective tissue component, binds type I collagen	1.3	0.002	Adhesion
+VIM	Vimentin	Z19554	Linked to motility, metastasis and invasive phenotype, promoter is a target of the beta-catenin/TCF pathway	1.27	0.01	Adhesion
+GAGE5	G antigen 5	U19146	Cancer testis antigen	-1.02	0.003	Other membrane genes

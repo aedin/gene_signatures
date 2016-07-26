@@ -1,0 +1,111 @@
+Gene symbol	Gene name	Reference	Fold change	P-value	NF-kB target	Color
+MARCKS	Myristoylated alanine-rich protein kinase C substrate	Wright et al., 2003	49.422	2.18E-35	No	Pink
+IRF4	Interferon regulatory factor 4	Wright et al., 2003/Shipp et al., 2002/Feuerhake et al., 2005	32.201	?E-46	Yes	Pink
+CD44	CD44 molecule (Indian blood group)	Alizadeh et al., 2000 /Shipp et al., 2002/Feuerhake et al., 2005	26.322	8.24E-40	Yes	Pink
+CCL22	Homo sapiens chemokine (C-C motif) ligand 22	Shipp et al., 2002/Feuerkhake et al., 2005/Ngo et al., 2006	20.656	?E-46	Yes	Pink
+BCL2	B-cell CLL/lymphoma 2	Wright et al., 2003/Shipp et al., 2002/Feuerhake et al., 2005	13.589	?E-46	Yes	Pink
+CCR7	Chemokine (C-C motif) receptor 7	Kalaitzidis et al., 2002	6.7862	7.93E-41	Yes	Pink
+TRAF1	TNF-receptor associated factor 1	Kalaitzidis et al., 2002	4.9714	1.18E-16	Yes	Pink
+BIC / miR155	BIC transcript (BIC) on chromosome 21	Ngo et al., 2006	3.54559	?E-46	Yes	Pink
+FLJ42287	CDNA FLJ42287 fis, clone TLIVE2005866	Ngo et al., 2006	3.3313	?E-46	No	Pink
+CD83	Activated B lymphocytes, immunoglobulin superfamily	Kalaitzidis et al., 2002	3.3096	7.95E-14	Yes	Pink
+NFKBIZ	Molecule possessing ankyrin repeats induced by lipopolysaccharide (MAIL), homolog of mouse	Ngo et al., 2006	3.1408	1.70E-26	Yes	Pink
+BCL2A1	BCL2-related protein A1	Kalaitzidis et al., 2002	2.7843	1.19E-27	Yes	Pink
+LITAF	Lipopolysaccharide-induced TNF factor	Shipp et al., 2002/Feuerkhake et al., 2005	2.6319	1.40E-12	No	Pink
+FLIP / CFLAR	CASP8 and FADD-like apoptosis regulator	Alizadeh et al., 2000/Shipp et al., 2002/Feuerhake et al., 2005	2.4753	1.28E-33	Yes	Pink
+ENTPD1	Ectonucleoside triphosphate diphosphohydrolase 1	Wright et al., 2003	2.3873	9.75E-35	No	Pink
+BCL2L1	BCL2-like 1, nuclear gene encoding mitochondrial protein	Kalaitzidis et al., 2002	2.2602	9.55E-26	Yes	Pink
+BATF	Basic leucine zipper transcription factor, ATF-like	Wright et al., 2003/Ngo et al., 2006	2.1511	2.21E-29	No	Pink
+BMI1	B lymphoma Mo-MLV insertion region (mouse)	Alizadeh et al., 2000	2.0915	2.15E-31	No	Pink
+ICAM1	Intercellular adhesion molecule 1 (CD54), human rhinovirus receptor	Kalaitzidis et al., 2002	1.9896	5.90E-17	Yes	Pink
+GADD34 / PPP1R15A	Protein phosphatase 1, regulatory (inhibitor) subunit 15A	Alizadeh et al., 2000	1.9464	3.35E-29	 No	Pink
+EGR1	Homo sapiens early growth response 1	Shipp et al., 2002/Feuerkhake et al., 2005	1.8045	0.0519	Yes	None
+KIAA1217	KIAA1217	Ngo et al., 2006	1.7114	0.0044	No	Pink
+FLJ22662	Hypothetical protein FLJ22662	Ngo et al., 2006	1.6434	0.4797	No	None
+CCDC50	Coiled-coil domain containing 50	Wright et al., 2003	1.5768	2.51E-07	No	Pink
+PIM2	Pim-2 oncogene	Wright et al., 2003/Ngo et al., 2006	1.5729	6.76E-07	No	Pink
+ARHGAP17	Homolog of rat nadrin	Ngo et al., 2006	1.5039	1.32E-08	No	Pink
+LTA	Lymphotoxin alpha	Kalaitzidis et al., 2002	1.5025	7.12E-13	Yes	Pink
+PTPN2	Protein tyrosine phosphatase, non-receptor type 2	Alizadeh et al., 2000, Shipp et al., 2002/Feuerkhake et al., 2005	1.4776	0.0014	No	Pink
+PBEF1	Pre-B-cell colony enhancing factor 1, transcript variant 1	Alizadeh et al., 2000	1.46154	5.00E-05	 No	Pink
+CD40	CD40 molecule, TNF receptor superfamily 5	Kalaitzidis et al., 2002	1.4479	8.97E-11	Yes	Pink
+EDG1	Endothelial differentiation, sphingolipid G-protein-coupled receptor, 1	Alizadeh et al., 2000	1.4157	0.6022	No	None
+PARVB	Parvin, beta	Ngo et al., 2006	1.4077	0.6078	No	None
+BMF	Bcl2 modifying factor	Wright et al., 2003	1.38	0.0008	No	Pink
+NCF2	Homo sapiens neutrophil cytosolic factor 2 (65kDa, chronic granulomatous disease, autosomal 2)	Shipp et al., 2002/Feuerkhake et al., 2005	1.371	0.0283	No	None
+NFKB2	Nuclear factor of kappa light polypeptide gene enhancer in B-cells 2 (p49/p100)	Kalaitzidis et al., 2002/Alizadeh et al., 2000	1.3708	0.0001	Yes	Pink
+DRIL1 / ARID3A	AT-rich interactive domain 3A	Alizadeh et al., 2000/Ngo et al., 2006	1.3065	0.0487	No	None
+CSNK1E	Casein kinase 1, epsilon	Wright et al., 2003	1.3061	0.0055	No	None
+TGFBR2	Transforming growth factor beta receptor II	Alizadeh et al., 2000	1.2682	0.0304	No	None
+NFKBIA	Nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, alpha	Kalaitzidis et al., 2002	1.2641	0.0021	Yes	Pink
+DCTD	Deoxcytidylate deaminase	Alizadeh et al., 2000	1.2342	0.0059	No	None
+ACP1	Acid phosphatase 1, soluble	Wright et al., 2003	1.1716	0.0189	No	None
+SEC11L3	SEC11-like 3 (S. cerevisiae)	Ngo et al., 2006	1.1695	0.0201	No	None
+SLC2A5 (GLUT5)	Solute carrier family 2 (facilitated glucose/fructose transporter), member 5	Shipp et al., 2002/Feuerkhake et al., 2005	1.1611	0.5719	No	None
+MZF1 / ZFP42	Zinc finger protein 42	Alizadeh et al., 2000	1.1519	0.8062	No	None
+c-myc	V-myc myelocytomatosis viral oncogene homolog (avian)	Alizadeh et al., 2000	1.14565	0.498	Yes	None
+PAK1	p21-activated protein kinase	Alizadeh et al., 2000	1.1379	0.1992	No	None
+GPR54	G protein-coupled receptor 54	Ngo et al., 2006	1.1295	0.1773	No	None
+TNFRSF1B / TNFR2	Tumor necrosis factor receptor superfamily, member 1B	Alizadeh et al., 2000	1.12465	0.5027	No	None
+SMAD4	Mothers against DPP homolog 4 (Drosophila)	Alizadeh et al., 2000	1.1219	0.1378	No	None
+CCND2	Cyclin D2	Wright et al., 2003/Shipp et al., 2002/Feuerhake et al., 2005	1.1203	0.3774	Yes	None
+TSC / TSC1	Tuberous sclerosis 1,transcript variant 1	Ngo et al., 2006	1.1134	0.3267	No	None
+IL10RA	Interleukin 10 receptor, alpha	Ngo et al., 2006	1.1069	0.8575	No	None
+TNFA	Tumor necrosis factor (TNF superfamily, member 2)	Kalaitzidis et al., 2002	1.10012	0.5107	Yes	None
+C4orf9	Gene near HD on 4p16.3 with homology to hypothetical S. pombe gene	Shipp et al., 2002/ Feuerhake et al., 2005	1.0924	0.4003	No	None
+CDC37	CDC37 homolog= subunit of Hsp90	Alizadeh et al., 2000	1.0892	0.1632	No	None
+FOXP1	Forkhead box P1	Wright et al., 2003	1.0868	0.1593	No	None
+MAP3K14	Mitogen-activated protein kinase kinase kinase 14	Alizadeh et al., 2000	1.08184	0.1199	No	None
+ETV6	Ets variant gene 6 (TEL oncogene)	Wright et al., 2003	1.0783	0.411	No	None
+TBL1XR1	Transducin (beta)-like 1X-linked receptor 1	Ngo et al., 2006	1.0723	0.7527	No	None
+IL10RB	Interleukin 10 receptor, beta	Alizadeh et al., 2000	1.05359	0.6652	No	None
+PIM1	Pim-1 oncogene	Wright et al., 2003	1.0492	0.5809	Yes	None
+GOT2	Glutamic-oxaloacetic transaminase 2, mitochondrial (aspartate aminotransferase 2)	Wright et al., 2003	1.0487	0.3483	No	None
+BAK1 / BAK	BCL2-antagonist/killer 1	Alizadeh et al., 2000	1.04157	0.548	No	None
+CYB5R2	Cytochrome b5 reductase b5R.2 (CYB5R2), transcript variant 1, mRNA [NM_016229]	Ngo et al., 2006	1.0392	0.9421	No	None
+TRAF2	TNF receptor-associated factor 2	Kalaitzidis et al., 2002	1.0379	0.7158	Yes	None
+PTPN1	Protein tyrosine phosphatase, non-receptor type 1	Wright et al., 2003/Lu et al., 2005/Ngo et al., 2006	1.0326	0.8173	No	None
+PDIA2 / PDIR	Protein disulfide isomerase related protein	Alizadeh et al., 2000	1.0219	0.8606	No	None
+FOXC1	Forkhead box C1	Ngo et al., 2006	1.0166	0.9743	No	None
+PRKCB1	Protein kinase C, beta 1	Wright et al., 2003	1.0147	0.7838	No	None
+ARHGAP24	Hypothetical protein DKFZp564B1162	Ngo et al., 2006	1.0099	0.9276	No	None
+IL2RA	Interleukin 2 receptor, alpha	Shipp et al., 2002/Feuerkhake et al., 2005	1	1	Yes	None
+MGST1	Microsomal glutathione S-transferase 1	Ngo et al., 2006	1	1	No	None
+PDE4B	Phosphodiesterase 4B, cAMP-specific (phosphodiesterase E4 dunce homolog, Drosophila)	Ngo et al., 2006	-1.003	0.9957	No	None
+pM5 / NOMO1	pM5 homology to conerved regions of the collagenase gene family	Alizadeh et al., 2000	-1.012	0.8681	No	None
+MAPKAPK3	Homo sapiens mitogen-activated protein kinase-activated protein kinase 3 (MAPKAPK3), mRNA [NM_004635]	Alizadeh et al., 2000	-1.05	0.6233	No	None
+ZNF406	Zinc finger protein 406 (ZNF406)	Ngo et al., 2006	-1.067	0.2468	No	None
+LOC96597	Hypothetical protein LOC96597	Wright et al., 2003/Ngo et al., 2006	-1.069	0.8839	No	None
+TRA1	Heat shock protein 90kDa beta (Grp94), member 1	Ngo et al., 2006	-1.077	0.7963	No	None
+SLA / SLAP	Src-like-adaptor	Wright et al., 2003/Ngo et al., 2006/Alizadeh et al., 2000	-1.095	0.4899	No	None
+SPIB	Spi-B transcription factor (Spi-1/PU.1 related)	Wright et al., 2003	-1.107	0.2839	No	None
+A20 / TNFAIP3	Tumor necrosis factor, alpha-induced protein 3	Kalaitzidis et al., 2002	-1.109	0.2214	Yes	None
+FUT8	Fucosyltransferase 8 (alpha (1,6) fucosyltransferase)	Wright et al., 2003	-1.124	0.445	No	None
+IGHG1	Immunoglobulin heavy constant gamma 1 (G1m marker)	Wright et al., 2003	-1.125	0.0469	Yes	None
+SH3BP5	SH3-domain binding protein 5 (BTK-associated)	Wright et al., 2003	-1.144	0.304	No	None
+TCF4	Transcription factor 4	Wright et al., 2003/Ngo et al., 2006	-1.156	0.0052	No	None
+STEAP	Six transmembrane epithelial antigen of the prostate	Ngo et al., 2006	-1.161	0.6864	No	None
+TICAM2	Toll-like receptor adaptor molecule 2	Ngo et al., 2006	-1.176	0.0041	No	Green
+MCL1	Myeloid cell differentiation protein	Alizadeh et al., 2000	-1.255	3.00E-05	No	Green
+MAP2K5	Mitogen-activated protein kinase kinase 5	Alizadeh et al., 2000	-1.2641	0.0001	No	Green
+RUNX1	Core binding factor alpha1b subunit=CBF	Alizadeh et al., 2000	-1.287	5.78E-06	No	Green
+STAT3	Signal transducer and activator of transcription 3 (acute-phase response factor)	Shipp et al., 2002/Ngo et al., 2006/Feuerkhake et al., 2005	-1.297	0.1929	No	None
+BLNK	B-cell linker	Wright et al., 2003	-1.363	0.0007	Yes	Green
+SP140	SP140 nuclear body protein	Wright et al., 2003	-1.366	0.0275	No	None
+IQCG	IQ motif containing G	Ngo et al., 2006	-1.367	1.00E-05	No	Green
+PDE2A	3 5 cyclic AMP phosphodiesterase	Alizadeh et al., 2000	-1.399	3.00E-05	No	Green
+IL16	Interleukin 16 (lymphocyte chemoattractant factor)	Wright et al., 2003	-1.488	0.0016	No	Green
+EHHADH	Enoyl-Coenzyme A, hydratase/3-hydroxyacyl Coenzyme A dehydrogenase (EHHADH), mRNA [NM_001966]	Ngo et al., 2006	-1.587	0.0136	No	None
+PHACTR2	Phosphatase and actin regulator 2	Ngo et al., 2006	-1.683	4.75E-18	No	Green
+MAPK4	Extracellular signal-related kinase 3	Alizadeh et al., 2000	-1.803	0.089	Yes	None
+IL6	Interleukin 6 (interferon, beta 2)	Shipp et al., 2002/Feuerkhake et al., 2005	-2.006	1.05E-12	Yes	Green
+C6orf105	Chromosome 6 open reading frame 105	Ngo et al., 2006	-2.628	5.56E-13	No	Green
+IL7	Interleukin 7	Ngo et al., 2006	-8.263	?E-46	No	Green
+FLJ34077	Weakly similar to zinc finger protein 195	Wright et al., 2003	not in array		No	None
+SLC2A1	Solute carrier family 2 (facilitated glucose transporter), member 1	Shipp et al., 2002/Feuerkhake et al., 2005	not in array		No	None
+KCNA3	Potassium voltage-gated channel, shaker-related subfamily, member 3	Alizadeh et al., 2000	not in array		No	None
+SFRS17A	B-lymphocyte surface protein	Alizadeh et al., 2000	not in array		No	None
+PTP1B	Protein tyrosine phosphatase 1B	Alizadeh et al., 2000	not in array		No	None
+FLJ25559	cDNA FLJ25559 fis, clone JTH02834	Ngo et al., 2006	not in array		No	None
+FLJ40837	cDNA FLJ40837 fis, clone TRACH2013495	Ngo et al., 2006	not in array		No	None
+APR	mRNA for ATL-derived PMA-responsive peptide	Alizadeh et al., 2000	not in array		No	None

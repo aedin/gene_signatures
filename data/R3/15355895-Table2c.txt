@@ -1,0 +1,9 @@
+Gene	Name	Accession No.	Functions	Mean difference	P value	Type of genes
+CASP2	Caspase 2, apoptosis-related cysteine protease	U13021	Apoptotic program, activation induced by variety of apoptotic stimuli	-1.22	0.001	Apoptosis
+DEDD	Death effector domain containing	AF043733	DEDs are shared by adaptors, regulators and executors of apoptosis pathway, overexpression can induce weak apoptosis	-1.01	0.001	Apoptosis
+FOXO3A	Forkhead box O3A	AF032886	Transcription factor for genes necessary for cell death	1.18	0.008	Apoptosis
+HDAC1	Histone deacetylase 1	U50079	Interacts with retinoblastoma protein; cell proliferation, and differentiation control; deacetylates and modulates the effects of p53 associated with MTA2	-1.07	0.004	Apoptosis
+IER3	Immediate early response 3	S81914	Protection against Fas- or TNFalpha-induced apoptosis	-1.16	0.001	Apoptosis
+DUSP10	Dual specificity phosphatase 10	AB026436	Negative regulator of MAPK family members	1.24	0.004	Stress
+MAPK14	Mitogen-activated protein kinase 14	L35263	Activated by stress, stress related transcription and genotoxic stress response	-1.19	0.002	Stress
+CASP2	Caspase 2, apoptosis-related cysteine protease	U13021	Regulator of apoptosis, can be activated by cytotoxic stress	-1.22	0.001	Stress

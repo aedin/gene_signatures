@@ -1,0 +1,17 @@
+Gene	Class	S0305+	S0305–	S0705+	S0705–	T0305	T0705	U87MG	U251
+DPF2	apoptosis	0.49		2.2
+CASP8	apoptosis	3.16		0.3	2.41	3.34			2.04
+BCL2	apoptosis		0.06		3.321	0.05	3.26	2.53	0.204
+MMP7	collagen catabolism	0.12			0.081	0.23	0.13
+TOB2	cell cycle
+MGP	differentiation		2.12		0.381	0.07		3.01	5.76
+FLNB	differentiation	0.45						7.72	3.81
+MLF1	differentiation	0.23		9.37			2.36	6.68	3.91
+SSR1	proliferation		2.84	4.18	3.09			2.93	5.22
+ERBB4	proliferation		0.07
+EMP1	proliferation	0.02	0.16	0.27		0.17	0.24	6.11	0.78
+CHPT1	proliferation		2.1	4.11	3.7			3	2.31
+LRPAP1	proliferation	0.4		2.75			0.41	2.68	2.32
+STK39	protein kinase			2.62				2.77
+WEE1	protein kinase	0.29				0.49	0.21
+PAK2	protein kinase	0.18					0.17	3.54	3.43

@@ -1,0 +1,73 @@
+GO category	p-value (GO)	GeneSymbol	Common Name	EntrezID	Fold Change	p-value
+cellular respiration	6.46E-04	DLST	dihydrolipoamide S-succinyltransferase (E2 component of 2-oxo-glutarate complex)	1743	-2.8	0.0275
+cellular respiration	6.46E-04	DLSTP	dihydrolipoamide S-succinyltransferase pseudogene (E2 component of 2-oxo-glutarate complex)	1744	-2.53	0.0444
+cellular respiration	6.46E-04	CYCS	cytochrome c, somatic	54205	-2.01	0.0257
+regulation of apoptosis	8.13E-03	DPF1	D4, zinc and double PHD fingers family 1	8193	-2.45	0.0285
+regulation of apoptosis	8.13E-03	BAX	BCL2-associated X protein	581	-2.34	0.0273
+regulation of apoptosis	8.13E-03	ZNF443	zinc finger protein 443	10224	-2.06	0.0483
+regulation of apoptosis	8.13E-03	CYCS	cytochrome c, somatic	54205	-2.01	0.0257
+regulation of apoptosis	8.13E-03	CFLAR	CASP8 and FADD-like apoptosis regulator	8837	-1.85	0.0299
+regulation of apoptosis	8.13E-03	CASP2	caspase 2, apoptosis-related cysteine peptidase (neural precursor cell expressed, developmentally down-regulated 2)	835	-1.81	0.0459
+negative regulation of apoptosis	3.24E-02	BAX	BCL2-associated X protein	581	-2.34	0.0273
+negative regulation of apoptosis	3.24E-02	CFLAR	CASP8 and FADD-like apoptosis regulator	8837	-1.85	0.0299
+negative regulation of apoptosis	3.24E-02	CASP2	caspase 2, apoptosis-related cysteine peptidase (neural precursor cell expressed, developmentally down-regulated 2)	835	-1.81	0.0459
+positive regulation of apoptosis	9.24E-03	DPF1	D4, zinc and double PHD fingers family 1	8193	-2.45	0.0285
+positive regulation of apoptosis	9.24E-03	BAX	BCL2-associated X protein	581	-2.34	0.0273
+positive regulation of apoptosis	9.24E-03	ZNF443	zinc finger protein 443	10224	-2.06	0.0483
+positive regulation of apoptosis	9.24E-03	CFLAR	CASP8 and FADD-like apoptosis regulator	8837	-1.85	0.0299
+metabolism	9.06E-03	SNRPN	small nuclear ribonucleoprotein polypeptide N	6638	-26.18	0.0382
+metabolism	9.06E-03	EYA4	eyes absent homolog 4 (Drosophila)	2070	-7.25	0.0069
+metabolism	9.06E-03	DLST	dihydrolipoamide S-succinyltransferase (E2 component of 2-oxo-glutarate complex)	1743	-2.8	0.0275
+metabolism	9.06E-03	DLSTP	dihydrolipoamide S-succinyltransferase pseudogene (E2 component of 2-oxo-glutarate complex)	1744	-2.53	0.0444
+metabolism	9.06E-03	DPF1	D4, zinc and double PHD fingers family 1	8193	-2.45	0.0285
+metabolism	9.06E-03	AOF1	amine oxidase (flavin containing) domain 1	221656	-2.4	0.0494
+metabolism	9.06E-03	PANK2	pantothenate kinase 2 (Hallervorden-Spatz syndrome)	80025	-2.37	0.0188
+metabolism	9.06E-03	NDE1	nudE nuclear distribution gene E homolog 1 (A. nidulans)	54820	-2.31	0.0408
+metabolism	9.06E-03	QPCTL	glutaminyl-peptide cyclotransferase-like	54814	-2.25	0.0484
+metabolism	9.06E-03	AP2B1	adaptor-related protein complex 2, beta 1 subunit	163	-2.21	0.0104
+metabolism	9.06E-03	USP47	ubiquitin specific peptidase 47	55031	-2.2	0.0449
+metabolism	9.06E-03	ZNF426	zinc finger protein 426	79088	-2.18	0.0205
+metabolism	9.06E-03	BAG5	BCL2-associated athanogene 5	9529	-2.16	0.0383
+metabolism	9.06E-03	TNKS2	tankyrase, TRF1-interacting ankyrin-related ADP-ribose polymerase 2	80351	-2.12	0.0212
+metabolism	9.06E-03	ZNF714	zinc finger protein 714	148206	-2.11	0.0144
+metabolism	9.06E-03	ZNF443	zinc finger protein 443	10224	-2.06	0.0483
+metabolism	9.06E-03	GRLF1	glucocorticoid receptor DNA binding factor 1	2909	-2.05	0.0268
+metabolism	9.06E-03	UBQLN1	ubiquilin 1	29979	-2.02	0.024
+metabolism	9.06E-03	DNAJC21	DnaJ (Hsp40) homolog, subfamily C, member 21	134218	-2.01	0.0332
+metabolism	9.06E-03	CYCS	cytochrome c, somatic	54205	-2.01	0.0257
+metabolism	9.06E-03	ONECUT2	one cut domain, family member 2	9480	-2	0.0166
+metabolism	9.06E-03	POLE	polymerase (DNA directed), epsilon	5426	-1.99	0.0259
+metabolism	9.06E-03	MIDN	midnolin	90007	-1.98	0.0259
+metabolism	9.06E-03	ZNF282	zinc finger protein 282	8427	-1.96	0.0274
+metabolism	9.06E-03	ZNF588	zinc finger protein 588	51427	-1.95	0.0338
+metabolism	9.06E-03	TYK2	tyrosine kinase 2	7297	-1.95	0.0267
+metabolism	9.06E-03	EPB49	erythrocyte membrane protein band 4.9 (dematin)	2039	-1.93	0.0268
+metabolism	9.06E-03	GBA2	glucosidase, beta (bile acid) 2	57704	-1.93	0.0274
+metabolism	9.06E-03	PTPRU	protein tyrosine phosphatase, receptor type, U	10076	-1.92	0.0292
+metabolism	9.06E-03	TXNRD2	thioredoxin reductase 2	10587	-1.91	0.0237
+metabolism	9.06E-03	U2AF2	U2 small nuclear RNA auxiliary factor 2	11338	-1.89	0.0189
+metabolism	9.06E-03	CBX6	chromobox homolog 6	23466	-1.88	0.0281
+metabolism	9.06E-03	PLEKHM2	pleckstrin homology domain containing, family M (with RUN domain) member 2	23207	-1.87	0.0168
+metabolism	9.06E-03	PTRF	polymerase I and transcript release factor	284119	-1.87	0.0288
+metabolism	9.06E-03	NPR1	natriuretic peptide receptor A/guanylate cyclase A (atrionatriuretic peptide receptor A)	4881	-1.86	0.0318
+metabolism	9.06E-03	CFLAR	CASP8 and FADD-like apoptosis regulator	8837	-1.85	0.0299
+metabolism	9.06E-03	SCYL1	SCY1-like 1 (S. cerevisiae)	57410	-1.84	0.018
+metabolism	9.06E-03	CTDP1	CTD (carboxy-terminal domain, RNA polymerase II, polypeptide A) phosphatase, subunit 1	9150	-1.82	0.0335
+metabolism	9.06E-03	DDR1	discoidin domain receptor family, member 1	780	-1.82	0.0308
+metabolism	9.06E-03	ACSS1	acyl-CoA synthetase short-chain family member 1	84532	-1.82	0.0355
+metabolism	9.06E-03	CASP2	caspase 2, apoptosis-related cysteine peptidase (neural precursor cell expressed, developmentally down-regulated 2)	835	-1.81	0.0459
+metabolism	9.06E-03	AP1B1	adaptor-related protein complex 1, beta 1 subunit	162	-1.8	0.0323
+metabolism	9.06E-03	STK11	serine/threonine kinase 11	6794	-1.8	0.0316
+metabolism	9.06E-03	EP400	E1A binding protein p400	57634	-1.8	0.0492
+mitochondrion	1.28E-02	DLST	dihydrolipoamide S-succinyltransferase (E2 component of 2-oxo-glutarate complex)	1743	-2.8	0.0275
+mitochondrion	1.28E-02	DLSTP	dihydrolipoamide S-succinyltransferase pseudogene (E2 component of 2-oxo-glutarate complex)	1744	-2.53	0.0444
+mitochondrion	1.28E-02	PANK2	pantothenate kinase 2 (Hallervorden-Spatz syndrome)	80025	-2.37	0.0188
+mitochondrion	1.28E-02	COX18	COX18 cytochrome c oxidase assembly homolog (S. cerevisiae)	285521	-2.26	0.0365
+mitochondrion	1.28E-02	SLC25A25	solute carrier family 25 (mitochondrial carrier; phosphate carrier), member 25	114789	-2.07	0.0258
+mitochondrion	1.28E-02	CYCS	cytochrome c, somatic	54205	-2.01	0.0257
+mitochondrion	1.28E-02	TXNRD2	thioredoxin reductase 2	10587	-1.91	0.0237
+mitochondrion	1.28E-02	ACSS1	acyl-CoA synthetase short-chain family member 1	84532	-1.82	0.0355
+clathrin coat of trans-Golgi network vesicle	5.70E-05	AP1S1	adaptor-related protein complex 1, sigma 1 subunit	1174	-2.22	0.0193
+clathrin coat of trans-Golgi network vesicle	5.70E-05	AP2B1	adaptor-related protein complex 2, beta 1 subunit	163	-2.21	0.0104
+clathrin coat of trans-Golgi network vesicle	5.70E-05	AP1S1	adaptor-related protein complex 1, sigma 1 subunit	1174	-1.88	0.0297
+clathrin coat of trans-Golgi network vesicle	5.70E-05	AP1B1	adaptor-related protein complex 1, beta 1 subunit	162	-1.8	0.0323

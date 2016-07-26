@@ -1,0 +1,953 @@
+Category	Term	Count in Selected Genes	Count in Total Population	P-value	Gene	Title
+GO	nucleolus	8	54	1.61928E-06	10514	MYB binding protein (P160) 1a
+GO	nucleolus	8	54	1.61928E-06	10528	nucleolar protein 5A (56kDa with KKE/D repeat)
+GO	nucleolus	8	54	1.61928E-06	1736	dyskeratosis congenita 1, dyskerin
+GO	nucleolus	8	54	1.61928E-06	23481	pescadillo homolog 1, containing BRCT domain (zebrafish)
+GO	nucleolus	8	54	1.61928E-06	4839	nucleolar protein 1, 120kDa
+GO	nucleolus	8	54	1.61928E-06	65083	nucleolar protein family 6 (RNA-associated)
+GO	nucleolus	8	54	1.61928E-06	9188	DEAD (Asp-Glu-Ala-Asp) box polypeptide 21
+GO	nucleolus	8	54	1.61928E-06	9221	nucleolar and coiled-body phosphoprotein 1
+GO	rRNA processing	7	39	1.93786E-06	10528	nucleolar protein 5A (56kDa with KKE/D repeat)
+GO	rRNA processing	7	39	1.93786E-06	1736	dyskeratosis congenita 1, dyskerin
+GO	rRNA processing	7	39	1.93786E-06	22984	programmed cell death 11
+GO	rRNA processing	7	39	1.93786E-06	23076	KIAA0179
+GO	rRNA processing	7	39	1.93786E-06	23404	exosome component 2
+GO	rRNA processing	7	39	1.93786E-06	9136	RNA, U3 small nucleolar interacting protein 2
+GO	rRNA processing	7	39	1.93786E-06	9221	nucleolar and coiled-body phosphoprotein 1
+GO	ribosome biogenesis	5	15	2.23867E-06	23212	RRS1 ribosome biogenesis regulator homolog (S. cerevisiae)
+GO	ribosome biogenesis	5	15	2.23867E-06	51154	chromosome 1 open reading frame 33
+GO	ribosome biogenesis	5	15	2.23867E-06	51388	comparative gene identification transcript 37
+GO	ribosome biogenesis	5	15	2.23867E-06	55299	brix domain containing 2
+GO	ribosome biogenesis	5	15	2.23867E-06	65083	nucleolar protein family 6 (RNA-associated)
+GO	rRNA metabolism	7	41	2.7593E-06	10528	nucleolar protein 5A (56kDa with KKE/D repeat)
+GO	rRNA metabolism	7	41	2.7593E-06	1736	dyskeratosis congenita 1, dyskerin
+GO	rRNA metabolism	7	41	2.7593E-06	22984	programmed cell death 11
+GO	rRNA metabolism	7	41	2.7593E-06	23076	KIAA0179
+GO	rRNA metabolism	7	41	2.7593E-06	23404	exosome component 2
+GO	rRNA metabolism	7	41	2.7593E-06	9136	RNA, U3 small nucleolar interacting protein 2
+GO	rRNA metabolism	7	41	2.7593E-06	9221	nucleolar and coiled-body phosphoprotein 1
+GO	RNA metabolism	18	330	3.691E-06	10528	nucleolar protein 5A (56kDa with KKE/D repeat)
+GO	RNA metabolism	18	330	3.691E-06	10785	WD repeat domain 4
+GO	RNA metabolism	18	330	3.691E-06	10799	ribonuclease P 40kDa subunit
+GO	RNA metabolism	18	330	3.691E-06	1736	dyskeratosis congenita 1, dyskerin
+GO	RNA metabolism	18	330	3.691E-06	2193	phenylalanine-tRNA synthetase-like, alpha subunit
+GO	RNA metabolism	18	330	3.691E-06	22984	programmed cell death 11
+GO	RNA metabolism	18	330	3.691E-06	23076	KIAA0179
+GO	RNA metabolism	18	330	3.691E-06	23404	exosome component 2
+GO	RNA metabolism	18	330	3.691E-06	3035	histidyl-tRNA synthetase
+GO	RNA metabolism	18	330	3.691E-06	3184	heterogeneous nuclear ribonucleoprotein D (AU-rich element RNA binding protein 1, 37kDa)
+GO	RNA metabolism	18	330	3.691E-06	4234	methyltransferase like 1
+GO	RNA metabolism	18	330	3.691E-06	56342	peter pan homolog (Drosophila)
+GO	RNA metabolism	18	330	3.691E-06	58517	RNA binding motif protein 25
+GO	RNA metabolism	18	330	3.691E-06	6432	splicing factor, arginine/serine-rich 7, 35kDa
+GO	RNA metabolism	18	330	3.691E-06	80324	pseudouridylate synthase 1
+GO	RNA metabolism	18	330	3.691E-06	80746	tRNA splicing endonuclease 2 homolog (SEN2, S. cerevisiae)
+GO	RNA metabolism	18	330	3.691E-06	9136	RNA, U3 small nucleolar interacting protein 2
+GO	RNA metabolism	18	330	3.691E-06	9221	nucleolar and coiled-body phosphoprotein 1
+GO	RNA processing	16	269	4.37534E-06	10528	nucleolar protein 5A (56kDa with KKE/D repeat)
+GO	RNA processing	16	269	4.37534E-06	10785	WD repeat domain 4
+GO	RNA processing	16	269	4.37534E-06	10799	ribonuclease P 40kDa subunit
+GO	RNA processing	16	269	4.37534E-06	1736	dyskeratosis congenita 1, dyskerin
+GO	RNA processing	16	269	4.37534E-06	22984	programmed cell death 11
+GO	RNA processing	16	269	4.37534E-06	23076	KIAA0179
+GO	RNA processing	16	269	4.37534E-06	23404	exosome component 2
+GO	RNA processing	16	269	4.37534E-06	3184	heterogeneous nuclear ribonucleoprotein D (AU-rich element RNA binding protein 1, 37kDa)
+GO	RNA processing	16	269	4.37534E-06	4234	methyltransferase like 1
+GO	RNA processing	16	269	4.37534E-06	56342	peter pan homolog (Drosophila)
+GO	RNA processing	16	269	4.37534E-06	58517	RNA binding motif protein 25
+GO	RNA processing	16	269	4.37534E-06	6432	splicing factor, arginine/serine-rich 7, 35kDa
+GO	RNA processing	16	269	4.37534E-06	80324	pseudouridylate synthase 1
+GO	RNA processing	16	269	4.37534E-06	80746	tRNA splicing endonuclease 2 homolog (SEN2, S. cerevisiae)
+GO	RNA processing	16	269	4.37534E-06	9136	RNA, U3 small nucleolar interacting protein 2
+GO	RNA processing	16	269	4.37534E-06	9221	nucleolar and coiled-body phosphoprotein 1
+GO	sterol biosynthesis	5	24	2.82875E-05	1595	cytochrome P450, family 51, subfamily A, polypeptide 1
+GO	sterol biosynthesis	5	24	2.82875E-05	3156	3-hydroxy-3-methylglutaryl-Coenzyme A reductase
+GO	sterol biosynthesis	5	24	2.82875E-05	3157	3-hydroxy-3-methylglutaryl-Coenzyme A synthase 1 (soluble)
+GO	sterol biosynthesis	5	24	2.82875E-05	3422	isopentenyl-diphosphate delta isomerase 1
+GO	sterol biosynthesis	5	24	2.82875E-05	6307	sterol-C4-methyl oxidase-like
+GO	tRNA metabolism	7	59	3.3091E-05	10785	WD repeat domain 4
+GO	tRNA metabolism	7	59	3.3091E-05	10799	ribonuclease P 40kDa subunit
+GO	tRNA metabolism	7	59	3.3091E-05	2193	phenylalanine-tRNA synthetase-like, alpha subunit
+GO	tRNA metabolism	7	59	3.3091E-05	3035	histidyl-tRNA synthetase
+GO	tRNA metabolism	7	59	3.3091E-05	4234	methyltransferase like 1
+GO	tRNA metabolism	7	59	3.3091E-05	80324	pseudouridylate synthase 1
+GO	tRNA metabolism	7	59	3.3091E-05	80746	tRNA splicing endonuclease 2 homolog (SEN2, S. cerevisiae)
+GO	tRNA processing	5	29	7.42175E-05	10785	WD repeat domain 4
+GO	tRNA processing	5	29	7.42175E-05	10799	ribonuclease P 40kDa subunit
+GO	tRNA processing	5	29	7.42175E-05	4234	methyltransferase like 1
+GO	tRNA processing	5	29	7.42175E-05	80324	pseudouridylate synthase 1
+GO	tRNA processing	5	29	7.42175E-05	80746	tRNA splicing endonuclease 2 homolog (SEN2, S. cerevisiae)
+GO	cholesterol biosynthesis	4	19	0.000180031	1595	cytochrome P450, family 51, subfamily A, polypeptide 1
+GO	cholesterol biosynthesis	4	19	0.000180031	3156	3-hydroxy-3-methylglutaryl-Coenzyme A reductase
+GO	cholesterol biosynthesis	4	19	0.000180031	3157	3-hydroxy-3-methylglutaryl-Coenzyme A synthase 1 (soluble)
+GO	cholesterol biosynthesis	4	19	0.000180031	3422	isopentenyl-diphosphate delta isomerase 1
+GO	intracellular organelle	80	3825	0.000963792	10105	peptidylprolyl isomerase F (cyclophilin F)
+GO	intracellular organelle	80	3825	0.000963792	10439	olfactomedin 1
+GO	intracellular organelle	80	3825	0.000963792	10440	translocase of inner mitochondrial membrane 17 homolog A (yeast)
+GO	intracellular organelle	80	3825	0.000963792	10514	MYB binding protein (P160) 1a
+GO	intracellular organelle	80	3825	0.000963792	10528	nucleolar protein 5A (56kDa with KKE/D repeat)
+GO	intracellular organelle	80	3825	0.000963792	10799	ribonuclease P 40kDa subunit
+GO	intracellular organelle	80	3825	0.000963792	10915	transcription elongation regulator 1
+GO	intracellular organelle	80	3825	0.000963792	11015	KDEL (Lys-Asp-Glu-Leu) endoplasmic reticulum protein retention receptor 3
+GO	intracellular organelle	80	3825	0.000963792	11033	centaurin, alpha 1
+GO	intracellular organelle	80	3825	0.000963792	1434	CSE1 chromosome segregation 1-like (yeast)
+GO	intracellular organelle	80	3825	0.000963792	1465	cysteine and glycine-rich protein 1
+GO	intracellular organelle	80	3825	0.000963792	1627	drebrin 1
+GO	intracellular organelle	80	3825	0.000963792	1678	translocase of inner mitochondrial membrane 8 homolog A (yeast)
+GO	intracellular organelle	80	3825	0.000963792	1736	dyskeratosis congenita 1, dyskerin
+GO	intracellular organelle	80	3825	0.000963792	1743	dihydrolipoamide S-succinyltransferase (E2 component of 2-oxo-glutarate complex)
+GO	intracellular organelle	80	3825	0.000963792	1876	E2F transcription factor 6
+GO	intracellular organelle	80	3825	0.000963792	1959	early growth response 2 (Krox-20 homolog, Drosophila)
+GO	intracellular organelle	80	3825	0.000963792	1960	early growth response 3
+GO	intracellular organelle	80	3825	0.000963792	204	adenylate kinase 2
+GO	intracellular organelle	80	3825	0.000963792	2119	ets variant gene 5 (ets-related molecule)
+GO	intracellular organelle	80	3825	0.000963792	2274	four and a half LIM domains 2
+GO	intracellular organelle	80	3825	0.000963792	22984	programmed cell death 11
+GO	intracellular organelle	80	3825	0.000963792	23076	KIAA0179
+GO	intracellular organelle	80	3825	0.000963792	23210	phosphatidylserine receptor
+GO	intracellular organelle	80	3825	0.000963792	23212	RRS1 ribosome biogenesis regulator homolog (S. cerevisiae)
+GO	intracellular organelle	80	3825	0.000963792	23404	exosome component 2
+GO	intracellular organelle	80	3825	0.000963792	23481	pescadillo homolog 1, containing BRCT domain (zebrafish)
+GO	intracellular organelle	80	3825	0.000963792	25888	zinc finger protein 473
+GO	intracellular organelle	80	3825	0.000963792	26515	fracture callus 1 homolog (rat)
+GO	intracellular organelle	80	3825	0.000963792	29095	ORM1-like 2 (S. cerevisiae)
+GO	intracellular organelle	80	3825	0.000963792	29107	NTF2-like export factor 1
+GO	intracellular organelle	80	3825	0.000963792	3156	3-hydroxy-3-methylglutaryl-Coenzyme A reductase
+GO	intracellular organelle	80	3825	0.000963792	3163	heme oxygenase (decycling) 2
+GO	intracellular organelle	80	3825	0.000963792	3184	heterogeneous nuclear ribonucleoprotein D (AU-rich element RNA binding protein 1, 37kDa)
+GO	intracellular organelle	80	3825	0.000963792	3422	isopentenyl-diphosphate delta isomerase 1
+GO	intracellular organelle	80	3825	0.000963792	3954	leucine zipper-EF-hand containing transmembrane protein 1
+GO	intracellular organelle	80	3825	0.000963792	4175	MCM6 minichromosome maintenance deficient 6 (MIS5 homolog, S. pombe) (S. cerevisiae)
+GO	intracellular organelle	80	3825	0.000963792	4487	msh homeo box homolog 1 (Drosophila)
+GO	intracellular organelle	80	3825	0.000963792	4552	5-methyltetrahydrofolate-homocysteine methyltransferase reductase
+GO	intracellular organelle	80	3825	0.000963792	4839	nucleolar protein 1, 120kDa
+GO	intracellular organelle	80	3825	0.000963792	51042	zinc finger protein 593
+GO	intracellular organelle	80	3825	0.000963792	51154	chromosome 1 open reading frame 33
+GO	intracellular organelle	80	3825	0.000963792	51373	mitochondrial ribosomal protein S17
+GO	intracellular organelle	80	3825	0.000963792	51388	comparative gene identification transcript 37
+GO	intracellular organelle	80	3825	0.000963792	51491	hypothetical protein HSPC111
+GO	intracellular organelle	80	3825	0.000963792	51651	Bcl-2 inhibitor of transcription
+GO	intracellular organelle	80	3825	0.000963792	5411	pinin, desmosome associated protein
+GO	intracellular organelle	80	3825	0.000963792	54475	notchless homolog 1 (Drosophila)
+GO	intracellular organelle	80	3825	0.000963792	55299	brix domain containing 2
+GO	intracellular organelle	80	3825	0.000963792	56342	peter pan homolog (Drosophila)
+GO	intracellular organelle	80	3825	0.000963792	59	actin, alpha 2, smooth muscle, aorta
+GO	intracellular organelle	80	3825	0.000963792	6059	ATP-binding cassette, sub-family E (OABP), member 1
+GO	intracellular organelle	80	3825	0.000963792	6183	mitochondrial ribosomal protein S12
+GO	intracellular organelle	80	3825	0.000963792	6307	sterol-C4-methyl oxidase-like
+GO	intracellular organelle	80	3825	0.000963792	64318	nucleolar complex associated 3 homolog (S. cerevisiae)
+GO	intracellular organelle	80	3825	0.000963792	6432	splicing factor, arginine/serine-rich 7, 35kDa
+GO	intracellular organelle	80	3825	0.000963792	65083	nucleolar protein family 6 (RNA-associated)
+GO	intracellular organelle	80	3825	0.000963792	6624	fascin homolog 1, actin-bundling protein (Strongylocentrotus purpuratus)
+GO	intracellular organelle	80	3825	0.000963792	6722	serum response factor (c-fos serum response element-binding transcription factor)
+GO	intracellular organelle	80	3825	0.000963792	7168	tropomyosin 1 (alpha)
+GO	intracellular organelle	80	3825	0.000963792	72	actin, gamma 2, smooth muscle, enteric
+GO	intracellular organelle	80	3825	0.000963792	7414	vinculin
+GO	intracellular organelle	80	3825	0.000963792	7421	vitamin D (1,25- dihydroxyvitamin D3) receptor
+GO	intracellular organelle	80	3825	0.000963792	7851	mal, T-cell differentiation protein-like
+GO	intracellular organelle	80	3825	0.000963792	79751	solute carrier family 25 (mitochondrial carrier: glutamate), member 22
+GO	intracellular organelle	80	3825	0.000963792	79954	nucleolar protein 10
+GO	intracellular organelle	80	3825	0.000963792	80324	pseudouridylate synthase 1
+GO	intracellular organelle	80	3825	0.000963792	81875	interferon stimulated exonuclease gene 20kDa-like 2
+GO	intracellular organelle	80	3825	0.000963792	8260	ARD1 homolog A, N-acetyltransferase (S. cerevisiae)
+GO	intracellular organelle	80	3825	0.000963792	85377	MICAL-like 1
+GO	intracellular organelle	80	3825	0.000963792	8555	CDC14 cell division cycle 14 homolog B (S. cerevisiae)
+GO	intracellular organelle	80	3825	0.000963792	8880	far upstream element (FUSE) binding protein 1
+GO	intracellular organelle	80	3825	0.000963792	896	cyclin D3
+GO	intracellular organelle	80	3825	0.000963792	9134	cyclin E2
+GO	intracellular organelle	80	3825	0.000963792	9188	DEAD (Asp-Glu-Ala-Asp) box polypeptide 21
+GO	intracellular organelle	80	3825	0.000963792	9221	nucleolar and coiled-body phosphoprotein 1
+GO	intracellular organelle	80	3825	0.000963792	9355	LIM homeobox 2
+GO	intracellular organelle	80	3825	0.000963792	9933	KIAA0020
+GO	intracellular organelle	80	3825	0.000963792	9948	WD repeat domain 1
+GO	intracellular organelle	80	3825	0.000963792	9986	RCE1 homolog, prenyl protein peptidase (S. cerevisiae)
+GO	organelle	80	3826	0.00097195	10105	peptidylprolyl isomerase F (cyclophilin F)
+GO	organelle	80	3826	0.00097195	10439	olfactomedin 1
+GO	organelle	80	3826	0.00097195	10440	translocase of inner mitochondrial membrane 17 homolog A (yeast)
+GO	organelle	80	3826	0.00097195	10514	MYB binding protein (P160) 1a
+GO	organelle	80	3826	0.00097195	10528	nucleolar protein 5A (56kDa with KKE/D repeat)
+GO	organelle	80	3826	0.00097195	10799	ribonuclease P 40kDa subunit
+GO	organelle	80	3826	0.00097195	10915	transcription elongation regulator 1
+GO	organelle	80	3826	0.00097195	11015	KDEL (Lys-Asp-Glu-Leu) endoplasmic reticulum protein retention receptor 3
+GO	organelle	80	3826	0.00097195	11033	centaurin, alpha 1
+GO	organelle	80	3826	0.00097195	1434	CSE1 chromosome segregation 1-like (yeast)
+GO	organelle	80	3826	0.00097195	1465	cysteine and glycine-rich protein 1
+GO	organelle	80	3826	0.00097195	1627	drebrin 1
+GO	organelle	80	3826	0.00097195	1678	translocase of inner mitochondrial membrane 8 homolog A (yeast)
+GO	organelle	80	3826	0.00097195	1736	dyskeratosis congenita 1, dyskerin
+GO	organelle	80	3826	0.00097195	1743	dihydrolipoamide S-succinyltransferase (E2 component of 2-oxo-glutarate complex)
+GO	organelle	80	3826	0.00097195	1876	E2F transcription factor 6
+GO	organelle	80	3826	0.00097195	1959	early growth response 2 (Krox-20 homolog, Drosophila)
+GO	organelle	80	3826	0.00097195	1960	early growth response 3
+GO	organelle	80	3826	0.00097195	204	adenylate kinase 2
+GO	organelle	80	3826	0.00097195	2119	ets variant gene 5 (ets-related molecule)
+GO	organelle	80	3826	0.00097195	2274	four and a half LIM domains 2
+GO	organelle	80	3826	0.00097195	22984	programmed cell death 11
+GO	organelle	80	3826	0.00097195	23076	KIAA0179
+GO	organelle	80	3826	0.00097195	23210	phosphatidylserine receptor
+GO	organelle	80	3826	0.00097195	23212	RRS1 ribosome biogenesis regulator homolog (S. cerevisiae)
+GO	organelle	80	3826	0.00097195	23404	exosome component 2
+GO	organelle	80	3826	0.00097195	23481	pescadillo homolog 1, containing BRCT domain (zebrafish)
+GO	organelle	80	3826	0.00097195	25888	zinc finger protein 473
+GO	organelle	80	3826	0.00097195	26515	fracture callus 1 homolog (rat)
+GO	organelle	80	3826	0.00097195	29095	ORM1-like 2 (S. cerevisiae)
+GO	organelle	80	3826	0.00097195	29107	NTF2-like export factor 1
+GO	organelle	80	3826	0.00097195	3156	3-hydroxy-3-methylglutaryl-Coenzyme A reductase
+GO	organelle	80	3826	0.00097195	3163	heme oxygenase (decycling) 2
+GO	organelle	80	3826	0.00097195	3184	heterogeneous nuclear ribonucleoprotein D (AU-rich element RNA binding protein 1, 37kDa)
+GO	organelle	80	3826	0.00097195	3422	isopentenyl-diphosphate delta isomerase 1
+GO	organelle	80	3826	0.00097195	3954	leucine zipper-EF-hand containing transmembrane protein 1
+GO	organelle	80	3826	0.00097195	4175	MCM6 minichromosome maintenance deficient 6 (MIS5 homolog, S. pombe) (S. cerevisiae)
+GO	organelle	80	3826	0.00097195	4487	msh homeo box homolog 1 (Drosophila)
+GO	organelle	80	3826	0.00097195	4552	5-methyltetrahydrofolate-homocysteine methyltransferase reductase
+GO	organelle	80	3826	0.00097195	4839	nucleolar protein 1, 120kDa
+GO	organelle	80	3826	0.00097195	51042	zinc finger protein 593
+GO	organelle	80	3826	0.00097195	51154	chromosome 1 open reading frame 33
+GO	organelle	80	3826	0.00097195	51373	mitochondrial ribosomal protein S17
+GO	organelle	80	3826	0.00097195	51388	comparative gene identification transcript 37
+GO	organelle	80	3826	0.00097195	51491	hypothetical protein HSPC111
+GO	organelle	80	3826	0.00097195	51651	Bcl-2 inhibitor of transcription
+GO	organelle	80	3826	0.00097195	5411	pinin, desmosome associated protein
+GO	organelle	80	3826	0.00097195	54475	notchless homolog 1 (Drosophila)
+GO	organelle	80	3826	0.00097195	55299	brix domain containing 2
+GO	organelle	80	3826	0.00097195	56342	peter pan homolog (Drosophila)
+GO	organelle	80	3826	0.00097195	59	actin, alpha 2, smooth muscle, aorta
+GO	organelle	80	3826	0.00097195	6059	ATP-binding cassette, sub-family E (OABP), member 1
+GO	organelle	80	3826	0.00097195	6183	mitochondrial ribosomal protein S12
+GO	organelle	80	3826	0.00097195	6307	sterol-C4-methyl oxidase-like
+GO	organelle	80	3826	0.00097195	64318	nucleolar complex associated 3 homolog (S. cerevisiae)
+GO	organelle	80	3826	0.00097195	6432	splicing factor, arginine/serine-rich 7, 35kDa
+GO	organelle	80	3826	0.00097195	65083	nucleolar protein family 6 (RNA-associated)
+GO	organelle	80	3826	0.00097195	6624	fascin homolog 1, actin-bundling protein (Strongylocentrotus purpuratus)
+GO	organelle	80	3826	0.00097195	6722	serum response factor (c-fos serum response element-binding transcription factor)
+GO	organelle	80	3826	0.00097195	7168	tropomyosin 1 (alpha)
+GO	organelle	80	3826	0.00097195	72	actin, gamma 2, smooth muscle, enteric
+GO	organelle	80	3826	0.00097195	7414	vinculin
+GO	organelle	80	3826	0.00097195	7421	vitamin D (1,25- dihydroxyvitamin D3) receptor
+GO	organelle	80	3826	0.00097195	7851	mal, T-cell differentiation protein-like
+GO	organelle	80	3826	0.00097195	79751	solute carrier family 25 (mitochondrial carrier: glutamate), member 22
+GO	organelle	80	3826	0.00097195	79954	nucleolar protein 10
+GO	organelle	80	3826	0.00097195	80324	pseudouridylate synthase 1
+GO	organelle	80	3826	0.00097195	81875	interferon stimulated exonuclease gene 20kDa-like 2
+GO	organelle	80	3826	0.00097195	8260	ARD1 homolog A, N-acetyltransferase (S. cerevisiae)
+GO	organelle	80	3826	0.00097195	85377	MICAL-like 1
+GO	organelle	80	3826	0.00097195	8555	CDC14 cell division cycle 14 homolog B (S. cerevisiae)
+GO	organelle	80	3826	0.00097195	8880	far upstream element (FUSE) binding protein 1
+GO	organelle	80	3826	0.00097195	896	cyclin D3
+GO	organelle	80	3826	0.00097195	9134	cyclin E2
+GO	organelle	80	3826	0.00097195	9188	DEAD (Asp-Glu-Ala-Asp) box polypeptide 21
+GO	organelle	80	3826	0.00097195	9221	nucleolar and coiled-body phosphoprotein 1
+GO	organelle	80	3826	0.00097195	9355	LIM homeobox 2
+GO	organelle	80	3826	0.00097195	9933	KIAA0020
+GO	organelle	80	3826	0.00097195	9948	WD repeat domain 1
+GO	organelle	80	3826	0.00097195	9986	RCE1 homolog, prenyl protein peptidase (S. cerevisiae)
+GO	steroid biosynthesis	5	57	0.001843616	1595	cytochrome P450, family 51, subfamily A, polypeptide 1
+GO	steroid biosynthesis	5	57	0.001843616	3156	3-hydroxy-3-methylglutaryl-Coenzyme A reductase
+GO	steroid biosynthesis	5	57	0.001843616	3157	3-hydroxy-3-methylglutaryl-Coenzyme A synthase 1 (soluble)
+GO	steroid biosynthesis	5	57	0.001843616	3422	isopentenyl-diphosphate delta isomerase 1
+GO	steroid biosynthesis	5	57	0.001843616	6307	sterol-C4-methyl oxidase-like
+GO	pseudouridylate synthase activity	2	5	0.00231283	1736	dyskeratosis congenita 1, dyskerin
+GO	pseudouridylate synthase activity	2	5	0.00231283	80324	pseudouridylate synthase 1
+GO	protein targeting to mitochondrion	3	18	0.002512567	10440	translocase of inner mitochondrial membrane 17 homolog A (yeast)
+GO	protein targeting to mitochondrion	3	18	0.002512567	1678	translocase of inner mitochondrial membrane 8 homolog A (yeast)
+GO	protein targeting to mitochondrion	3	18	0.002512567	26515	fracture callus 1 homolog (rat)
+GO	cytoplasm	22	751	0.002965354	10514	MYB binding protein (P160) 1a
+GO	cytoplasm	22	751	0.002965354	10808	heat shock 105kDa/110kDa protein 1
+GO	cytoplasm	22	751	0.002965354	11033	centaurin, alpha 1
+GO	cytoplasm	22	751	0.002965354	1434	CSE1 chromosome segregation 1-like (yeast)
+GO	cytoplasm	22	751	0.002965354	1627	drebrin 1
+GO	cytoplasm	22	751	0.002965354	2193	phenylalanine-tRNA synthetase-like, alpha subunit
+GO	cytoplasm	22	751	0.002965354	23404	exosome component 2
+GO	cytoplasm	22	751	0.002965354	2618	phosphoribosylglycinamide formyltransferase, phosphoribosylglycinamide synthetase, phosphoribosylaminoimidazole synthetase
+GO	cytoplasm	22	751	0.002965354	29107	NTF2-like export factor 1
+GO	cytoplasm	22	751	0.002965354	3035	histidyl-tRNA synthetase
+GO	cytoplasm	22	751	0.002965354	3157	3-hydroxy-3-methylglutaryl-Coenzyme A synthase 1 (soluble)
+GO	cytoplasm	22	751	0.002965354	3184	heterogeneous nuclear ribonucleoprotein D (AU-rich element RNA binding protein 1, 37kDa)
+GO	cytoplasm	22	751	0.002965354	5373	phosphomannomutase 2
+GO	cytoplasm	22	751	0.002965354	55803	centaurin, alpha 2
+GO	cytoplasm	22	751	0.002965354	57019	cytokine induced apoptosis inhibitor 1
+GO	cytoplasm	22	751	0.002965354	705	bystin-like
+GO	cytoplasm	22	751	0.002965354	8260	ARD1 homolog A, N-acetyltransferase (S. cerevisiae)
+GO	cytoplasm	22	751	0.002965354	84617	tubulin, beta 6
+GO	cytoplasm	22	751	0.002965354	8880	far upstream element (FUSE) binding protein 1
+GO	cytoplasm	22	751	0.002965354	8891	eukaryotic translation initiation factor 2B, subunit 3 gamma, 58kDa
+GO	cytoplasm	22	751	0.002965354	9221	nucleolar and coiled-body phosphoprotein 1
+GO	cytoplasm	22	751	0.002965354	9830	tripartite motif-containing 14
+GO	sterol metabolism	5	64	0.003077359	1595	cytochrome P450, family 51, subfamily A, polypeptide 1
+GO	sterol metabolism	5	64	0.003077359	3156	3-hydroxy-3-methylglutaryl-Coenzyme A reductase
+GO	sterol metabolism	5	64	0.003077359	3157	3-hydroxy-3-methylglutaryl-Coenzyme A synthase 1 (soluble)
+GO	sterol metabolism	5	64	0.003077359	3422	isopentenyl-diphosphate delta isomerase 1
+GO	sterol metabolism	5	64	0.003077359	6307	sterol-C4-methyl oxidase-like
+GO	mitochondrial intermembrane space protein transporter complex	2	6	0.003433925	1678	translocase of inner mitochondrial membrane 8 homolog A (yeast)
+GO	mitochondrial intermembrane space protein transporter complex	2	6	0.003433925	26515	fracture callus 1 homolog (rat)
+GO	protein import into mitochondrial inner membrane	2	6	0.003433925	1678	translocase of inner mitochondrial membrane 8 homolog A (yeast)
+GO	protein import into mitochondrial inner membrane	2	6	0.003433925	26515	fracture callus 1 homolog (rat)
+GO	inner mitochondrial membrane organization and biogenesis	2	7	0.004758613	1678	translocase of inner mitochondrial membrane 8 homolog A (yeast)
+GO	inner mitochondrial membrane organization and biogenesis	2	7	0.004758613	26515	fracture callus 1 homolog (rat)
+GO	intracellular non-membrane-bound organelle	18	604	0.005934468	10514	MYB binding protein (P160) 1a
+GO	intracellular non-membrane-bound organelle	18	604	0.005934468	10528	nucleolar protein 5A (56kDa with KKE/D repeat)
+GO	intracellular non-membrane-bound organelle	18	604	0.005934468	1627	drebrin 1
+GO	intracellular non-membrane-bound organelle	18	604	0.005934468	1736	dyskeratosis congenita 1, dyskerin
+GO	intracellular non-membrane-bound organelle	18	604	0.005934468	23481	pescadillo homolog 1, containing BRCT domain (zebrafish)
+GO	intracellular non-membrane-bound organelle	18	604	0.005934468	4839	nucleolar protein 1, 120kDa
+GO	intracellular non-membrane-bound organelle	18	604	0.005934468	51373	mitochondrial ribosomal protein S17
+GO	intracellular non-membrane-bound organelle	18	604	0.005934468	59	actin, alpha 2, smooth muscle, aorta
+GO	intracellular non-membrane-bound organelle	18	604	0.005934468	6183	mitochondrial ribosomal protein S12
+GO	intracellular non-membrane-bound organelle	18	604	0.005934468	65083	nucleolar protein family 6 (RNA-associated)
+GO	intracellular non-membrane-bound organelle	18	604	0.005934468	6624	fascin homolog 1, actin-bundling protein (Strongylocentrotus purpuratus)
+GO	intracellular non-membrane-bound organelle	18	604	0.005934468	7168	tropomyosin 1 (alpha)
+GO	intracellular non-membrane-bound organelle	18	604	0.005934468	72	actin, gamma 2, smooth muscle, enteric
+GO	intracellular non-membrane-bound organelle	18	604	0.005934468	7414	vinculin
+GO	intracellular non-membrane-bound organelle	18	604	0.005934468	85377	MICAL-like 1
+GO	intracellular non-membrane-bound organelle	18	604	0.005934468	9188	DEAD (Asp-Glu-Ala-Asp) box polypeptide 21
+GO	intracellular non-membrane-bound organelle	18	604	0.005934468	9221	nucleolar and coiled-body phosphoprotein 1
+GO	intracellular non-membrane-bound organelle	18	604	0.005934468	9948	WD repeat domain 1
+GO	non-membrane-bound organelle	18	604	0.005934468	10514	MYB binding protein (P160) 1a
+GO	non-membrane-bound organelle	18	604	0.005934468	10528	nucleolar protein 5A (56kDa with KKE/D repeat)
+GO	non-membrane-bound organelle	18	604	0.005934468	1627	drebrin 1
+GO	non-membrane-bound organelle	18	604	0.005934468	1736	dyskeratosis congenita 1, dyskerin
+GO	non-membrane-bound organelle	18	604	0.005934468	23481	pescadillo homolog 1, containing BRCT domain (zebrafish)
+GO	non-membrane-bound organelle	18	604	0.005934468	4839	nucleolar protein 1, 120kDa
+GO	non-membrane-bound organelle	18	604	0.005934468	51373	mitochondrial ribosomal protein S17
+GO	non-membrane-bound organelle	18	604	0.005934468	59	actin, alpha 2, smooth muscle, aorta
+GO	non-membrane-bound organelle	18	604	0.005934468	6183	mitochondrial ribosomal protein S12
+GO	non-membrane-bound organelle	18	604	0.005934468	65083	nucleolar protein family 6 (RNA-associated)
+GO	non-membrane-bound organelle	18	604	0.005934468	6624	fascin homolog 1, actin-bundling protein (Strongylocentrotus purpuratus)
+GO	non-membrane-bound organelle	18	604	0.005934468	7168	tropomyosin 1 (alpha)
+GO	non-membrane-bound organelle	18	604	0.005934468	72	actin, gamma 2, smooth muscle, enteric
+GO	non-membrane-bound organelle	18	604	0.005934468	7414	vinculin
+GO	non-membrane-bound organelle	18	604	0.005934468	85377	MICAL-like 1
+GO	non-membrane-bound organelle	18	604	0.005934468	9188	DEAD (Asp-Glu-Ala-Asp) box polypeptide 21
+GO	non-membrane-bound organelle	18	604	0.005934468	9221	nucleolar and coiled-body phosphoprotein 1
+GO	non-membrane-bound organelle	18	604	0.005934468	9948	WD repeat domain 1
+GO	tRNA-specific ribonuclease activity	2	10	0.009889893	10799	ribonuclease P 40kDa subunit
+GO	tRNA-specific ribonuclease activity	2	10	0.009889893	80746	tRNA splicing endonuclease 2 homolog (SEN2, S. cerevisiae)
+GO	mitochondrial membrane organization and biogenesis	2	10	0.009889893	1678	translocase of inner mitochondrial membrane 8 homolog A (yeast)
+GO	mitochondrial membrane organization and biogenesis	2	10	0.009889893	26515	fracture callus 1 homolog (rat)
+GO	mitochondrion	13	416	0.012796001	10105	peptidylprolyl isomerase F (cyclophilin F)
+GO	mitochondrion	13	416	0.012796001	10440	translocase of inner mitochondrial membrane 17 homolog A (yeast)
+GO	mitochondrion	13	416	0.012796001	1678	translocase of inner mitochondrial membrane 8 homolog A (yeast)
+GO	mitochondrion	13	416	0.012796001	1743	dihydrolipoamide S-succinyltransferase (E2 component of 2-oxo-glutarate complex)
+GO	mitochondrion	13	416	0.012796001	204	adenylate kinase 2
+GO	mitochondrion	13	416	0.012796001	26515	fracture callus 1 homolog (rat)
+GO	mitochondrion	13	416	0.012796001	3954	leucine zipper-EF-hand containing transmembrane protein 1
+GO	mitochondrion	13	416	0.012796001	4552	5-methyltetrahydrofolate-homocysteine methyltransferase reductase
+GO	mitochondrion	13	416	0.012796001	51373	mitochondrial ribosomal protein S17
+GO	mitochondrion	13	416	0.012796001	51651	Bcl-2 inhibitor of transcription
+GO	mitochondrion	13	416	0.012796001	6059	ATP-binding cassette, sub-family E (OABP), member 1
+GO	mitochondrion	13	416	0.012796001	6183	mitochondrial ribosomal protein S12
+GO	mitochondrion	13	416	0.012796001	79751	solute carrier family 25 (mitochondrial carrier: glutamate), member 22
+GO	cholesterol metabolism	4	59	0.013075017	1595	cytochrome P450, family 51, subfamily A, polypeptide 1
+GO	cholesterol metabolism	4	59	0.013075017	3156	3-hydroxy-3-methylglutaryl-Coenzyme A reductase
+GO	cholesterol metabolism	4	59	0.013075017	3157	3-hydroxy-3-methylglutaryl-Coenzyme A synthase 1 (soluble)
+GO	cholesterol metabolism	4	59	0.013075017	3422	isopentenyl-diphosphate delta isomerase 1
+GO	intramolecular transferase activity	2	12	0.014213349	5373	phosphomannomutase 2
+GO	intramolecular transferase activity	2	12	0.014213349	80324	pseudouridylate synthase 1
+GO	NLS-dependent protein nuclear import complex	1	1	0.015482553	10514	MYB binding protein (P160) 1a
+GO	acylglycerol lipase activity	1	1	0.015482553	11343	monoglyceride lipase
+GO	importin-alpha export receptor activity	1	1	0.015482553	1434	CSE1 chromosome segregation 1-like (yeast)
+GO	sterol 14-demethylase activity	1	1	0.015482553	1595	cytochrome P450, family 51, subfamily A, polypeptide 1
+GO	actomyosin	1	1	0.015482553	1627	drebrin 1
+GO	dihydrolipoyllysine-residue succinyltransferase activity	1	1	0.015482553	1743	dihydrolipoamide S-succinyltransferase (E2 component of 2-oxo-glutarate complex)
+GO	S-succinyltransferase activity	1	1	0.015482553	1743	dihydrolipoamide S-succinyltransferase (E2 component of 2-oxo-glutarate complex)
+GO	phosphoribosylamine-glycine ligase activity	1	1	0.015482553	2618	phosphoribosylglycinamide formyltransferase, phosphoribosylglycinamide synthetase, phosphoribosylaminoimidazole synthetase
+GO	phosphoribosylformylglycinamidine cyclo-ligase activity	1	1	0.015482553	2618	phosphoribosylglycinamide formyltransferase, phosphoribosylglycinamide synthetase, phosphoribosylaminoimidazole synthetase
+GO	phosphoribosylglycinamide formyltransferase activity	1	1	0.015482553	2618	phosphoribosylglycinamide formyltransferase, phosphoribosylglycinamide synthetase, phosphoribosylaminoimidazole synthetase
+GO	adenosylmethionine decarboxylase activity	1	1	0.015482553	262	adenosylmethionine decarboxylase 1
+GO	spermine biosynthesis	1	1	0.015482553	262	adenosylmethionine decarboxylase 1
+GO	spermine metabolism	1	1	0.015482553	262	adenosylmethionine decarboxylase 1
+GO	hydroxymethylglutaryl-CoA reductase (NADPH) activity	1	1	0.015482553	3156	3-hydroxy-3-methylglutaryl-Coenzyme A reductase
+GO	carotenoid biosynthesis	1	1	0.015482553	3422	isopentenyl-diphosphate delta isomerase 1
+GO	carotenoid metabolism	1	1	0.015482553	3422	isopentenyl-diphosphate delta isomerase 1
+GO	isopentenyl-diphosphate delta-isomerase activity	1	1	0.015482553	3422	isopentenyl-diphosphate delta isomerase 1
+GO	polyisoprenoid biosynthesis	1	1	0.015482553	3422	isopentenyl-diphosphate delta isomerase 1
+GO	polyisoprenoid metabolism	1	1	0.015482553	3422	isopentenyl-diphosphate delta isomerase 1
+GO	terpene biosynthesis	1	1	0.015482553	3422	isopentenyl-diphosphate delta isomerase 1
+GO	terpene metabolism	1	1	0.015482553	3422	isopentenyl-diphosphate delta isomerase 1
+GO	terpenoid biosynthesis	1	1	0.015482553	3422	isopentenyl-diphosphate delta isomerase 1
+GO	terpenoid metabolism	1	1	0.015482553	3422	isopentenyl-diphosphate delta isomerase 1
+GO	tetraterpenoid biosynthesis	1	1	0.015482553	3422	isopentenyl-diphosphate delta isomerase 1
+GO	tetraterpenoid metabolism	1	1	0.015482553	3422	isopentenyl-diphosphate delta isomerase 1
+GO	positive regulation of survival gene product activity	1	1	0.015482553	3560	interleukin 2 receptor, beta
+GO	tRNA (guanine-N7-)-methyltransferase activity	1	1	0.015482553	4234	methyltransferase like 1
+GO	[methionine synthase] reductase activity	1	1	0.015482553	4552	5-methyltetrahydrofolate-homocysteine methyltransferase reductase
+GO	oxidoreductase activity, oxidizing metal ions, NAD or NADP as acceptor	1	1	0.015482553	4552	5-methyltetrahydrofolate-homocysteine methyltransferase reductase
+GO	NADPH dehydrogenase (quinone) activity	1	1	0.015482553	4835	NAD(P)H dehydrogenase, quinone 2
+GO	aminoacyl-tRNA hydrolase activity	1	1	0.015482553	51651	Bcl-2 inhibitor of transcription
+GO	U-plasminogen activator receptor activity	1	1	0.015482553	5329	plasminogen activator, urokinase receptor
+GO	GDP-mannose biosynthesis	1	1	0.015482553	5373	phosphomannomutase 2
+GO	GDP-mannose metabolism	1	1	0.015482553	5373	phosphomannomutase 2
+GO	nucleotide-sugar biosynthesis	1	1	0.015482553	5373	phosphomannomutase 2
+GO	inositol 1,3,4,5 tetrakisphosphate binding	1	1	0.015482553	55803	centaurin, alpha 2
+GO	ethanolamine-phosphate cytidylyltransferase activity	1	1	0.015482553	5833	phosphate cytidylyltransferase 2, ethanolamine
+GO	C-4 methylsterol oxidase activity	1	1	0.015482553	6307	sterol-C4-methyl oxidase-like
+GO	mevalonate transporter activity	1	1	0.015482553	6566	solute carrier family 16 (monocarboxylic acid transporters), member 1
+GO	mevalonate transport	1	1	0.015482553	6566	solute carrier family 16 (monocarboxylic acid transporters), member 1
+GO	methotrexate transporter activity	1	1	0.015482553	6573	solute carrier family 19 (folate transporter), member 1
+GO	vitamin D3 receptor activity	1	1	0.015482553	7421	vitamin D (1,25- dihydroxyvitamin D3) receptor
+GO	apolipoprotein E receptor activity	1	1	0.015482553	7804	low density lipoprotein receptor-related protein 8, apolipoprotein e receptor
+GO	apolipoprotein receptor activity	1	1	0.015482553	7804	low density lipoprotein receptor-related protein 8, apolipoprotein e receptor
+GO	tRNA-pseudouridine synthase activity	1	1	0.015482553	80324	pseudouridylate synthase 1
+GO	negative regulation of glucose import	1	1	0.015482553	8682	phosphoprotein enriched in astrocytes 15
+GO	D-erythro-sphingosine kinase activity	1	1	0.015482553	8877	sphingosine kinase 1
+GO	positive regulation of mitotic cell cycle	1	1	0.015482553	8877	sphingosine kinase 1
+GO	positive regulation of muscle contraction	1	1	0.015482553	8877	sphingosine kinase 1
+GO	positive regulation of smooth muscle contraction	1	1	0.015482553	8877	sphingosine kinase 1
+GO	sphingosine metabolism	1	1	0.015482553	8877	sphingosine kinase 1
+GO	prenyl-dependent CAAX protease activity	1	1	0.015482553	9986	RCE1 homolog, prenyl protein peptidase (S. cerevisiae)
+GO	isomerase activity	5	97	0.017312726	10105	peptidylprolyl isomerase F (cyclophilin F)
+GO	isomerase activity	5	97	0.017312726	1736	dyskeratosis congenita 1, dyskerin
+GO	isomerase activity	5	97	0.017312726	3422	isopentenyl-diphosphate delta isomerase 1
+GO	isomerase activity	5	97	0.017312726	5373	phosphomannomutase 2
+GO	isomerase activity	5	97	0.017312726	80324	pseudouridylate synthase 1
+GO	biosynthesis	18	686	0.019973479	1503	CTP synthase
+GO	biosynthesis	18	686	0.019973479	1595	cytochrome P450, family 51, subfamily A, polypeptide 1
+GO	biosynthesis	18	686	0.019973479	2193	phenylalanine-tRNA synthetase-like, alpha subunit
+GO	biosynthesis	18	686	0.019973479	2618	phosphoribosylglycinamide formyltransferase, phosphoribosylglycinamide synthetase, phosphoribosylaminoimidazole synthetase
+GO	biosynthesis	18	686	0.019973479	262	adenosylmethionine decarboxylase 1
+GO	biosynthesis	18	686	0.019973479	3035	histidyl-tRNA synthetase
+GO	biosynthesis	18	686	0.019973479	3156	3-hydroxy-3-methylglutaryl-Coenzyme A reductase
+GO	biosynthesis	18	686	0.019973479	3157	3-hydroxy-3-methylglutaryl-Coenzyme A synthase 1 (soluble)
+GO	biosynthesis	18	686	0.019973479	3422	isopentenyl-diphosphate delta isomerase 1
+GO	biosynthesis	18	686	0.019973479	4552	5-methyltetrahydrofolate-homocysteine methyltransferase reductase
+GO	biosynthesis	18	686	0.019973479	51373	mitochondrial ribosomal protein S17
+GO	biosynthesis	18	686	0.019973479	5373	phosphomannomutase 2
+GO	biosynthesis	18	686	0.019973479	5833	phosphate cytidylyltransferase 2, ethanolamine
+GO	biosynthesis	18	686	0.019973479	6183	mitochondrial ribosomal protein S12
+GO	biosynthesis	18	686	0.019973479	6307	sterol-C4-methyl oxidase-like
+GO	biosynthesis	18	686	0.019973479	7965	JTV1 gene
+GO	biosynthesis	18	686	0.019973479	80308	Fad1, flavin adenine dinucleotide synthetase, homolog (yeast)
+GO	biosynthesis	18	686	0.019973479	8891	eukaryotic translation initiation factor 2B, subunit 3 gamma, 58kDa
+GO	ligase activity, forming phosphoric ester bonds	3	38	0.020723192	10061	ATP-binding cassette, sub-family F (GCN20), member 2
+GO	ligase activity, forming phosphoric ester bonds	3	38	0.020723192	2193	phenylalanine-tRNA synthetase-like, alpha subunit
+GO	ligase activity, forming phosphoric ester bonds	3	38	0.020723192	3035	histidyl-tRNA synthetase
+GO	mitochondrion organization and biogenesis	2	15	0.021935332	1678	translocase of inner mitochondrial membrane 8 homolog A (yeast)
+GO	mitochondrion organization and biogenesis	2	15	0.021935332	26515	fracture callus 1 homolog (rat)
+GO	cytokine and chemokine mediated signaling pathway	2	15	0.021935332	3560	interleukin 2 receptor, beta
+GO	cytokine and chemokine mediated signaling pathway	2	15	0.021935332	7804	low density lipoprotein receptor-related protein 8, apolipoprotein e receptor
+GO	cellular_component	98	5417	0.024314721	10061	ATP-binding cassette, sub-family F (GCN20), member 2
+GO	cellular_component	98	5417	0.024314721	10105	peptidylprolyl isomerase F (cyclophilin F)
+GO	cellular_component	98	5417	0.024314721	10439	olfactomedin 1
+GO	cellular_component	98	5417	0.024314721	10440	translocase of inner mitochondrial membrane 17 homolog A (yeast)
+GO	cellular_component	98	5417	0.024314721	10514	MYB binding protein (P160) 1a
+GO	cellular_component	98	5417	0.024314721	10528	nucleolar protein 5A (56kDa with KKE/D repeat)
+GO	cellular_component	98	5417	0.024314721	10785	WD repeat domain 4
+GO	cellular_component	98	5417	0.024314721	10799	ribonuclease P 40kDa subunit
+GO	cellular_component	98	5417	0.024314721	10915	transcription elongation regulator 1
+GO	cellular_component	98	5417	0.024314721	11007	hepatitis delta antigen-interacting protein A
+GO	cellular_component	98	5417	0.024314721	11015	KDEL (Lys-Asp-Glu-Leu) endoplasmic reticulum protein retention receptor 3
+GO	cellular_component	98	5417	0.024314721	11033	centaurin, alpha 1
+GO	cellular_component	98	5417	0.024314721	1434	CSE1 chromosome segregation 1-like (yeast)
+GO	cellular_component	98	5417	0.024314721	1465	cysteine and glycine-rich protein 1
+GO	cellular_component	98	5417	0.024314721	1627	drebrin 1
+GO	cellular_component	98	5417	0.024314721	1678	translocase of inner mitochondrial membrane 8 homolog A (yeast)
+GO	cellular_component	98	5417	0.024314721	1736	dyskeratosis congenita 1, dyskerin
+GO	cellular_component	98	5417	0.024314721	1743	dihydrolipoamide S-succinyltransferase (E2 component of 2-oxo-glutarate complex)
+GO	cellular_component	98	5417	0.024314721	1876	E2F transcription factor 6
+GO	cellular_component	98	5417	0.024314721	1959	early growth response 2 (Krox-20 homolog, Drosophila)
+GO	cellular_component	98	5417	0.024314721	1960	early growth response 3
+GO	cellular_component	98	5417	0.024314721	204	adenylate kinase 2
+GO	cellular_component	98	5417	0.024314721	2119	ets variant gene 5 (ets-related molecule)
+GO	cellular_component	98	5417	0.024314721	2274	four and a half LIM domains 2
+GO	cellular_component	98	5417	0.024314721	22984	programmed cell death 11
+GO	cellular_component	98	5417	0.024314721	23076	KIAA0179
+GO	cellular_component	98	5417	0.024314721	23210	phosphatidylserine receptor
+GO	cellular_component	98	5417	0.024314721	23212	RRS1 ribosome biogenesis regulator homolog (S. cerevisiae)
+GO	cellular_component	98	5417	0.024314721	23404	exosome component 2
+GO	cellular_component	98	5417	0.024314721	23481	pescadillo homolog 1, containing BRCT domain (zebrafish)
+GO	cellular_component	98	5417	0.024314721	25888	zinc finger protein 473
+GO	cellular_component	98	5417	0.024314721	262	adenosylmethionine decarboxylase 1
+GO	cellular_component	98	5417	0.024314721	26515	fracture callus 1 homolog (rat)
+GO	cellular_component	98	5417	0.024314721	27346	hypothetical protein MAC30
+GO	cellular_component	98	5417	0.024314721	2817	glypican 1
+GO	cellular_component	98	5417	0.024314721	29095	ORM1-like 2 (S. cerevisiae)
+GO	cellular_component	98	5417	0.024314721	29107	NTF2-like export factor 1
+GO	cellular_component	98	5417	0.024314721	3156	3-hydroxy-3-methylglutaryl-Coenzyme A reductase
+GO	cellular_component	98	5417	0.024314721	3163	heme oxygenase (decycling) 2
+GO	cellular_component	98	5417	0.024314721	3184	heterogeneous nuclear ribonucleoprotein D (AU-rich element RNA binding protein 1, 37kDa)
+GO	cellular_component	98	5417	0.024314721	3422	isopentenyl-diphosphate delta isomerase 1
+GO	cellular_component	98	5417	0.024314721	3954	leucine zipper-EF-hand containing transmembrane protein 1
+GO	cellular_component	98	5417	0.024314721	4016	lysyl oxidase-like 1
+GO	cellular_component	98	5417	0.024314721	402055	similar to SRR1-like protein
+GO	cellular_component	98	5417	0.024314721	4175	MCM6 minichromosome maintenance deficient 6 (MIS5 homolog, S. pombe) (S. cerevisiae)
+GO	cellular_component	98	5417	0.024314721	4234	methyltransferase like 1
+GO	cellular_component	98	5417	0.024314721	4487	msh homeo box homolog 1 (Drosophila)
+GO	cellular_component	98	5417	0.024314721	4552	5-methyltetrahydrofolate-homocysteine methyltransferase reductase
+GO	cellular_component	98	5417	0.024314721	4839	nucleolar protein 1, 120kDa
+GO	cellular_component	98	5417	0.024314721	51042	zinc finger protein 593
+GO	cellular_component	98	5417	0.024314721	51154	chromosome 1 open reading frame 33
+GO	cellular_component	98	5417	0.024314721	51373	mitochondrial ribosomal protein S17
+GO	cellular_component	98	5417	0.024314721	51388	comparative gene identification transcript 37
+GO	cellular_component	98	5417	0.024314721	51491	hypothetical protein HSPC111
+GO	cellular_component	98	5417	0.024314721	51651	Bcl-2 inhibitor of transcription
+GO	cellular_component	98	5417	0.024314721	5411	pinin, desmosome associated protein
+GO	cellular_component	98	5417	0.024314721	54475	notchless homolog 1 (Drosophila)
+GO	cellular_component	98	5417	0.024314721	55299	brix domain containing 2
+GO	cellular_component	98	5417	0.024314721	56342	peter pan homolog (Drosophila)
+GO	cellular_component	98	5417	0.024314721	5833	phosphate cytidylyltransferase 2, ethanolamine
+GO	cellular_component	98	5417	0.024314721	58517	RNA binding motif protein 25
+GO	cellular_component	98	5417	0.024314721	59	actin, alpha 2, smooth muscle, aorta
+GO	cellular_component	98	5417	0.024314721	6059	ATP-binding cassette, sub-family E (OABP), member 1
+GO	cellular_component	98	5417	0.024314721	6183	mitochondrial ribosomal protein S12
+GO	cellular_component	98	5417	0.024314721	6307	sterol-C4-methyl oxidase-like
+GO	cellular_component	98	5417	0.024314721	64318	nucleolar complex associated 3 homolog (S. cerevisiae)
+GO	cellular_component	98	5417	0.024314721	6432	splicing factor, arginine/serine-rich 7, 35kDa
+GO	cellular_component	98	5417	0.024314721	65083	nucleolar protein family 6 (RNA-associated)
+GO	cellular_component	98	5417	0.024314721	6624	fascin homolog 1, actin-bundling protein (Strongylocentrotus purpuratus)
+GO	cellular_component	98	5417	0.024314721	6722	serum response factor (c-fos serum response element-binding transcription factor)
+GO	cellular_component	98	5417	0.024314721	7168	tropomyosin 1 (alpha)
+GO	cellular_component	98	5417	0.024314721	72	actin, gamma 2, smooth muscle, enteric
+GO	cellular_component	98	5417	0.024314721	7414	vinculin
+GO	cellular_component	98	5417	0.024314721	7421	vitamin D (1,25- dihydroxyvitamin D3) receptor
+GO	cellular_component	98	5417	0.024314721	7851	mal, T-cell differentiation protein-like
+GO	cellular_component	98	5417	0.024314721	79751	solute carrier family 25 (mitochondrial carrier: glutamate), member 22
+GO	cellular_component	98	5417	0.024314721	79954	nucleolar protein 10
+GO	cellular_component	98	5417	0.024314721	80324	pseudouridylate synthase 1
+GO	cellular_component	98	5417	0.024314721	80746	tRNA splicing endonuclease 2 homolog (SEN2, S. cerevisiae)
+GO	cellular_component	98	5417	0.024314721	81688	chromosome 6 open reading frame 62
+GO	cellular_component	98	5417	0.024314721	81875	interferon stimulated exonuclease gene 20kDa-like 2
+GO	cellular_component	98	5417	0.024314721	8260	ARD1 homolog A, N-acetyltransferase (S. cerevisiae)
+GO	cellular_component	98	5417	0.024314721	84617	tubulin, beta 6
+GO	cellular_component	98	5417	0.024314721	85377	MICAL-like 1
+GO	cellular_component	98	5417	0.024314721	8555	CDC14 cell division cycle 14 homolog B (S. cerevisiae)
+GO	cellular_component	98	5417	0.024314721	8682	phosphoprotein enriched in astrocytes 15
+GO	cellular_component	98	5417	0.024314721	8880	far upstream element (FUSE) binding protein 1
+GO	cellular_component	98	5417	0.024314721	896	cyclin D3
+GO	cellular_component	98	5417	0.024314721	9134	cyclin E2
+GO	cellular_component	98	5417	0.024314721	9136	RNA, U3 small nucleolar interacting protein 2
+GO	cellular_component	98	5417	0.024314721	9188	DEAD (Asp-Glu-Ala-Asp) box polypeptide 21
+GO	cellular_component	98	5417	0.024314721	9221	nucleolar and coiled-body phosphoprotein 1
+GO	cellular_component	98	5417	0.024314721	9277	WD repeat domain 46
+GO	cellular_component	98	5417	0.024314721	9355	LIM homeobox 2
+GO	cellular_component	98	5417	0.024314721	9454	homer homolog 3 (Drosophila)
+GO	cellular_component	98	5417	0.024314721	9933	KIAA0020
+GO	cellular_component	98	5417	0.024314721	9948	WD repeat domain 1
+GO	cellular_component	98	5417	0.024314721	9986	RCE1 homolog, prenyl protein peptidase (S. cerevisiae)
+GO	telomere maintenance	2	17	0.027843499	1736	dyskeratosis congenita 1, dyskerin
+GO	telomere maintenance	2	17	0.027843499	3184	heterogeneous nuclear ribonucleoprotein D (AU-rich element RNA binding protein 1, 37kDa)
+GO	actin filament	2	17	0.027843499	59	actin, alpha 2, smooth muscle, aorta
+GO	actin filament	2	17	0.027843499	72	actin, gamma 2, smooth muscle, enteric
+GO	ribonuclease activity	3	43	0.028667269	10799	ribonuclease P 40kDa subunit
+GO	ribonuclease activity	3	43	0.028667269	23404	exosome component 2
+GO	ribonuclease activity	3	43	0.028667269	80746	tRNA splicing endonuclease 2 homolog (SEN2, S. cerevisiae)
+GO	mitochondrial membrane	4	76	0.030143502	10061	ATP-binding cassette, sub-family F (GCN20), member 2
+GO	mitochondrial membrane	4	76	0.030143502	55803	centaurin, alpha 2
+GO	mitochondrial membrane	4	76	0.030143502	79751	solute carrier family 25 (mitochondrial carrier: glutamate), member 22
+GO	mitochondrial membrane	4	76	0.030143502	9673	KIAA0446 gene product
+GO	nucleocytoplasmic shuttling complex	1	2	0.030726594	10514	MYB binding protein (P160) 1a
+GO	prenylated protein tyrosine phosphatase activity	1	2	0.030726594	11156	protein tyrosine phosphatase type IVA, member 3
+GO	CTP synthase activity	1	2	0.030726594	1503	CTP synthase
+GO	oxoglutarate dehydrogenase complex	1	2	0.030726594	1743	dihydrolipoamide S-succinyltransferase (E2 component of 2-oxo-glutarate complex)
+GO	phenylalanine-tRNA ligase activity	1	2	0.030726594	2193	phenylalanine-tRNA synthetase-like, alpha subunit
+GO	phenylalanyl-tRNA aminoacylation	1	2	0.030726594	2193	phenylalanine-tRNA synthetase-like, alpha subunit
+GO	nucleolar preribosome, small subunit precursor	1	2	0.030726594	23076	KIAA0179
+GO	nucleolar preribosome	1	2	0.030726594	23076	KIAA0179
+GO	preribosome	1	2	0.030726594	23076	KIAA0179
+GO	cyclo-ligase activity	1	2	0.030726594	2618	phosphoribosylglycinamide formyltransferase, phosphoribosylglycinamide synthetase, phosphoribosylaminoimidazole synthetase
+GO	histidine-tRNA ligase activity	1	2	0.030726594	3035	histidyl-tRNA synthetase
+GO	histidyl-tRNA aminoacylation	1	2	0.030726594	3035	histidyl-tRNA synthetase
+GO	hydroxymethylglutaryl-CoA synthase activity	1	2	0.030726594	3157	3-hydroxy-3-methylglutaryl-Coenzyme A synthase 1 (soluble)
+GO	heme oxidation	1	2	0.030726594	3163	heme oxygenase (decycling) 2
+GO	heme oxygenase (decyclizing) activity	1	2	0.030726594	3163	heme oxygenase (decycling) 2
+GO	NAD(P)H dehydrogenase (quinone) activity	1	2	0.030726594	4835	NAD(P)H dehydrogenase, quinone 2
+GO	mannose biosynthesis	1	2	0.030726594	5373	phosphomannomutase 2
+GO	phosphomannomutase activity	1	2	0.030726594	5373	phosphomannomutase 2
+GO	phosphatidylinositol-3,4,5-triphosphate binding	1	2	0.030726594	55803	centaurin, alpha 2
+GO	reduced folate carrier activity	1	2	0.030726594	6573	solute carrier family 19 (folate transporter), member 1
+GO	pseudouridine synthase activity	1	2	0.030726594	80324	pseudouridylate synthase 1
+GO	RNA splicing, via endonucleolytic cleavage and ligation	1	2	0.030726594	80746	tRNA splicing endonuclease 2 homolog (SEN2, S. cerevisiae)
+GO	tRNA splicing	1	2	0.030726594	80746	tRNA splicing endonuclease 2 homolog (SEN2, S. cerevisiae)
+GO	tRNA-intron endonuclease activity	1	2	0.030726594	80746	tRNA splicing endonuclease 2 homolog (SEN2, S. cerevisiae)
+GO	tRNA-intron endonuclease complex	1	2	0.030726594	80746	tRNA splicing endonuclease 2 homolog (SEN2, S. cerevisiae)
+GO	internal protein amino acid acetylation	1	2	0.030726594	8260	ARD1 homolog A, N-acetyltransferase (S. cerevisiae)
+GO	positive regulation of fibroblast proliferation	1	2	0.030726594	8877	sphingosine kinase 1
+GO	regulation of fibroblast proliferation	1	2	0.030726594	8877	sphingosine kinase 1
+GO	sphinganine kinase activity	1	2	0.030726594	8877	sphingosine kinase 1
+GO	sphingoid catabolism	1	2	0.030726594	8877	sphingosine kinase 1
+GO	sodium-dependent multivitamin transporter activity	1	2	0.030726594	8884	solute carrier family 5 (sodium-dependent vitamin transporter), member 6
+GO	bicarbonate transport	1	2	0.030726594	9497	solute carrier family 4, sodium bicarbonate cotransporter, member 7
+GO	actin filament organization	2	18	0.031009866	1627	drebrin 1
+GO	actin filament organization	2	18	0.031009866	6624	fascin homolog 1, actin-bundling protein (Strongylocentrotus purpuratus)
+GO	electrochemical potential-driven transporter activity	6	155	0.03350416	6566	solute carrier family 16 (monocarboxylic acid transporters), member 1
+GO	electrochemical potential-driven transporter activity	6	155	0.03350416	6573	solute carrier family 19 (folate transporter), member 1
+GO	electrochemical potential-driven transporter activity	6	155	0.03350416	79751	solute carrier family 25 (mitochondrial carrier: glutamate), member 22
+GO	electrochemical potential-driven transporter activity	6	155	0.03350416	8682	phosphoprotein enriched in astrocytes 15
+GO	electrochemical potential-driven transporter activity	6	155	0.03350416	8884	solute carrier family 5 (sodium-dependent vitamin transporter), member 6
+GO	electrochemical potential-driven transporter activity	6	155	0.03350416	9497	solute carrier family 4, sodium bicarbonate cotransporter, member 7
+GO	porter activity	6	155	0.03350416	6566	solute carrier family 16 (monocarboxylic acid transporters), member 1
+GO	porter activity	6	155	0.03350416	6573	solute carrier family 19 (folate transporter), member 1
+GO	porter activity	6	155	0.03350416	79751	solute carrier family 25 (mitochondrial carrier: glutamate), member 22
+GO	porter activity	6	155	0.03350416	8682	phosphoprotein enriched in astrocytes 15
+GO	porter activity	6	155	0.03350416	8884	solute carrier family 5 (sodium-dependent vitamin transporter), member 6
+GO	porter activity	6	155	0.03350416	9497	solute carrier family 4, sodium bicarbonate cotransporter, member 7
+GO	rhythmic process	2	19	0.034311036	1960	early growth response 3
+GO	rhythmic process	2	19	0.034311036	402055	similar to SRR1-like protein
+GO	anti-apoptosis	4	80	0.035452029	3560	interleukin 2 receptor, beta
+GO	anti-apoptosis	4	80	0.035452029	57019	cytokine induced apoptosis inhibitor 1
+GO	anti-apoptosis	4	80	0.035452029	8682	phosphoprotein enriched in astrocytes 15
+GO	anti-apoptosis	4	80	0.035452029	8877	sphingosine kinase 1
+GO	lipid biosynthesis	6	158	0.036279871	1595	cytochrome P450, family 51, subfamily A, polypeptide 1
+GO	lipid biosynthesis	6	158	0.036279871	3156	3-hydroxy-3-methylglutaryl-Coenzyme A reductase
+GO	lipid biosynthesis	6	158	0.036279871	3157	3-hydroxy-3-methylglutaryl-Coenzyme A synthase 1 (soluble)
+GO	lipid biosynthesis	6	158	0.036279871	3422	isopentenyl-diphosphate delta isomerase 1
+GO	lipid biosynthesis	6	158	0.036279871	5833	phosphate cytidylyltransferase 2, ethanolamine
+GO	lipid biosynthesis	6	158	0.036279871	6307	sterol-C4-methyl oxidase-like
+GO	intracellular membrane-bound organelle	64	3379	0.036449173	10105	peptidylprolyl isomerase F (cyclophilin F)
+GO	intracellular membrane-bound organelle	64	3379	0.036449173	10439	olfactomedin 1
+GO	intracellular membrane-bound organelle	64	3379	0.036449173	10440	translocase of inner mitochondrial membrane 17 homolog A (yeast)
+GO	intracellular membrane-bound organelle	64	3379	0.036449173	10799	ribonuclease P 40kDa subunit
+GO	intracellular membrane-bound organelle	64	3379	0.036449173	10915	transcription elongation regulator 1
+GO	intracellular membrane-bound organelle	64	3379	0.036449173	11015	KDEL (Lys-Asp-Glu-Leu) endoplasmic reticulum protein retention receptor 3
+GO	intracellular membrane-bound organelle	64	3379	0.036449173	11033	centaurin, alpha 1
+GO	intracellular membrane-bound organelle	64	3379	0.036449173	1434	CSE1 chromosome segregation 1-like (yeast)
+GO	intracellular membrane-bound organelle	64	3379	0.036449173	1465	cysteine and glycine-rich protein 1
+GO	intracellular membrane-bound organelle	64	3379	0.036449173	1678	translocase of inner mitochondrial membrane 8 homolog A (yeast)
+GO	intracellular membrane-bound organelle	64	3379	0.036449173	1743	dihydrolipoamide S-succinyltransferase (E2 component of 2-oxo-glutarate complex)
+GO	intracellular membrane-bound organelle	64	3379	0.036449173	1876	E2F transcription factor 6
+GO	intracellular membrane-bound organelle	64	3379	0.036449173	1959	early growth response 2 (Krox-20 homolog, Drosophila)
+GO	intracellular membrane-bound organelle	64	3379	0.036449173	1960	early growth response 3
+GO	intracellular membrane-bound organelle	64	3379	0.036449173	204	adenylate kinase 2
+GO	intracellular membrane-bound organelle	64	3379	0.036449173	2119	ets variant gene 5 (ets-related molecule)
+GO	intracellular membrane-bound organelle	64	3379	0.036449173	2274	four and a half LIM domains 2
+GO	intracellular membrane-bound organelle	64	3379	0.036449173	22984	programmed cell death 11
+GO	intracellular membrane-bound organelle	64	3379	0.036449173	23076	KIAA0179
+GO	intracellular membrane-bound organelle	64	3379	0.036449173	23210	phosphatidylserine receptor
+GO	intracellular membrane-bound organelle	64	3379	0.036449173	23212	RRS1 ribosome biogenesis regulator homolog (S. cerevisiae)
+GO	intracellular membrane-bound organelle	64	3379	0.036449173	23404	exosome component 2
+GO	intracellular membrane-bound organelle	64	3379	0.036449173	25888	zinc finger protein 473
+GO	intracellular membrane-bound organelle	64	3379	0.036449173	26515	fracture callus 1 homolog (rat)
+GO	intracellular membrane-bound organelle	64	3379	0.036449173	29095	ORM1-like 2 (S. cerevisiae)
+GO	intracellular membrane-bound organelle	64	3379	0.036449173	29107	NTF2-like export factor 1
+GO	intracellular membrane-bound organelle	64	3379	0.036449173	3156	3-hydroxy-3-methylglutaryl-Coenzyme A reductase
+GO	intracellular membrane-bound organelle	64	3379	0.036449173	3163	heme oxygenase (decycling) 2
+GO	intracellular membrane-bound organelle	64	3379	0.036449173	3184	heterogeneous nuclear ribonucleoprotein D (AU-rich element RNA binding protein 1, 37kDa)
+GO	intracellular membrane-bound organelle	64	3379	0.036449173	3422	isopentenyl-diphosphate delta isomerase 1
+GO	intracellular membrane-bound organelle	64	3379	0.036449173	3954	leucine zipper-EF-hand containing transmembrane protein 1
+GO	intracellular membrane-bound organelle	64	3379	0.036449173	4175	MCM6 minichromosome maintenance deficient 6 (MIS5 homolog, S. pombe) (S. cerevisiae)
+GO	intracellular membrane-bound organelle	64	3379	0.036449173	4487	msh homeo box homolog 1 (Drosophila)
+GO	intracellular membrane-bound organelle	64	3379	0.036449173	4552	5-methyltetrahydrofolate-homocysteine methyltransferase reductase
+GO	intracellular membrane-bound organelle	64	3379	0.036449173	51042	zinc finger protein 593
+GO	intracellular membrane-bound organelle	64	3379	0.036449173	51154	chromosome 1 open reading frame 33
+GO	intracellular membrane-bound organelle	64	3379	0.036449173	51373	mitochondrial ribosomal protein S17
+GO	intracellular membrane-bound organelle	64	3379	0.036449173	51388	comparative gene identification transcript 37
+GO	intracellular membrane-bound organelle	64	3379	0.036449173	51491	hypothetical protein HSPC111
+GO	intracellular membrane-bound organelle	64	3379	0.036449173	51651	Bcl-2 inhibitor of transcription
+GO	intracellular membrane-bound organelle	64	3379	0.036449173	5411	pinin, desmosome associated protein
+GO	intracellular membrane-bound organelle	64	3379	0.036449173	54475	notchless homolog 1 (Drosophila)
+GO	intracellular membrane-bound organelle	64	3379	0.036449173	55299	brix domain containing 2
+GO	intracellular membrane-bound organelle	64	3379	0.036449173	56342	peter pan homolog (Drosophila)
+GO	intracellular membrane-bound organelle	64	3379	0.036449173	6059	ATP-binding cassette, sub-family E (OABP), member 1
+GO	intracellular membrane-bound organelle	64	3379	0.036449173	6183	mitochondrial ribosomal protein S12
+GO	intracellular membrane-bound organelle	64	3379	0.036449173	6307	sterol-C4-methyl oxidase-like
+GO	intracellular membrane-bound organelle	64	3379	0.036449173	64318	nucleolar complex associated 3 homolog (S. cerevisiae)
+GO	intracellular membrane-bound organelle	64	3379	0.036449173	6432	splicing factor, arginine/serine-rich 7, 35kDa
+GO	intracellular membrane-bound organelle	64	3379	0.036449173	6722	serum response factor (c-fos serum response element-binding transcription factor)
+GO	intracellular membrane-bound organelle	64	3379	0.036449173	7421	vitamin D (1,25- dihydroxyvitamin D3) receptor
+GO	intracellular membrane-bound organelle	64	3379	0.036449173	7851	mal, T-cell differentiation protein-like
+GO	intracellular membrane-bound organelle	64	3379	0.036449173	79751	solute carrier family 25 (mitochondrial carrier: glutamate), member 22
+GO	intracellular membrane-bound organelle	64	3379	0.036449173	79954	nucleolar protein 10
+GO	intracellular membrane-bound organelle	64	3379	0.036449173	80324	pseudouridylate synthase 1
+GO	intracellular membrane-bound organelle	64	3379	0.036449173	81875	interferon stimulated exonuclease gene 20kDa-like 2
+GO	intracellular membrane-bound organelle	64	3379	0.036449173	8260	ARD1 homolog A, N-acetyltransferase (S. cerevisiae)
+GO	intracellular membrane-bound organelle	64	3379	0.036449173	8555	CDC14 cell division cycle 14 homolog B (S. cerevisiae)
+GO	intracellular membrane-bound organelle	64	3379	0.036449173	8880	far upstream element (FUSE) binding protein 1
+GO	intracellular membrane-bound organelle	64	3379	0.036449173	896	cyclin D3
+GO	intracellular membrane-bound organelle	64	3379	0.036449173	9134	cyclin E2
+GO	intracellular membrane-bound organelle	64	3379	0.036449173	9355	LIM homeobox 2
+GO	intracellular membrane-bound organelle	64	3379	0.036449173	9933	KIAA0020
+GO	intracellular membrane-bound organelle	64	3379	0.036449173	9986	RCE1 homolog, prenyl protein peptidase (S. cerevisiae)
+GO	membrane-bound organelle	64	3380	0.036655349	10105	peptidylprolyl isomerase F (cyclophilin F)
+GO	membrane-bound organelle	64	3380	0.036655349	10439	olfactomedin 1
+GO	membrane-bound organelle	64	3380	0.036655349	10440	translocase of inner mitochondrial membrane 17 homolog A (yeast)
+GO	membrane-bound organelle	64	3380	0.036655349	10799	ribonuclease P 40kDa subunit
+GO	membrane-bound organelle	64	3380	0.036655349	10915	transcription elongation regulator 1
+GO	membrane-bound organelle	64	3380	0.036655349	11015	KDEL (Lys-Asp-Glu-Leu) endoplasmic reticulum protein retention receptor 3
+GO	membrane-bound organelle	64	3380	0.036655349	11033	centaurin, alpha 1
+GO	membrane-bound organelle	64	3380	0.036655349	1434	CSE1 chromosome segregation 1-like (yeast)
+GO	membrane-bound organelle	64	3380	0.036655349	1465	cysteine and glycine-rich protein 1
+GO	membrane-bound organelle	64	3380	0.036655349	1678	translocase of inner mitochondrial membrane 8 homolog A (yeast)
+GO	membrane-bound organelle	64	3380	0.036655349	1743	dihydrolipoamide S-succinyltransferase (E2 component of 2-oxo-glutarate complex)
+GO	membrane-bound organelle	64	3380	0.036655349	1876	E2F transcription factor 6
+GO	membrane-bound organelle	64	3380	0.036655349	1959	early growth response 2 (Krox-20 homolog, Drosophila)
+GO	membrane-bound organelle	64	3380	0.036655349	1960	early growth response 3
+GO	membrane-bound organelle	64	3380	0.036655349	204	adenylate kinase 2
+GO	membrane-bound organelle	64	3380	0.036655349	2119	ets variant gene 5 (ets-related molecule)
+GO	membrane-bound organelle	64	3380	0.036655349	2274	four and a half LIM domains 2
+GO	membrane-bound organelle	64	3380	0.036655349	22984	programmed cell death 11
+GO	membrane-bound organelle	64	3380	0.036655349	23076	KIAA0179
+GO	membrane-bound organelle	64	3380	0.036655349	23210	phosphatidylserine receptor
+GO	membrane-bound organelle	64	3380	0.036655349	23212	RRS1 ribosome biogenesis regulator homolog (S. cerevisiae)
+GO	membrane-bound organelle	64	3380	0.036655349	23404	exosome component 2
+GO	membrane-bound organelle	64	3380	0.036655349	25888	zinc finger protein 473
+GO	membrane-bound organelle	64	3380	0.036655349	26515	fracture callus 1 homolog (rat)
+GO	membrane-bound organelle	64	3380	0.036655349	29095	ORM1-like 2 (S. cerevisiae)
+GO	membrane-bound organelle	64	3380	0.036655349	29107	NTF2-like export factor 1
+GO	membrane-bound organelle	64	3380	0.036655349	3156	3-hydroxy-3-methylglutaryl-Coenzyme A reductase
+GO	membrane-bound organelle	64	3380	0.036655349	3163	heme oxygenase (decycling) 2
+GO	membrane-bound organelle	64	3380	0.036655349	3184	heterogeneous nuclear ribonucleoprotein D (AU-rich element RNA binding protein 1, 37kDa)
+GO	membrane-bound organelle	64	3380	0.036655349	3422	isopentenyl-diphosphate delta isomerase 1
+GO	membrane-bound organelle	64	3380	0.036655349	3954	leucine zipper-EF-hand containing transmembrane protein 1
+GO	membrane-bound organelle	64	3380	0.036655349	4175	MCM6 minichromosome maintenance deficient 6 (MIS5 homolog, S. pombe) (S. cerevisiae)
+GO	membrane-bound organelle	64	3380	0.036655349	4487	msh homeo box homolog 1 (Drosophila)
+GO	membrane-bound organelle	64	3380	0.036655349	4552	5-methyltetrahydrofolate-homocysteine methyltransferase reductase
+GO	membrane-bound organelle	64	3380	0.036655349	51042	zinc finger protein 593
+GO	membrane-bound organelle	64	3380	0.036655349	51154	chromosome 1 open reading frame 33
+GO	membrane-bound organelle	64	3380	0.036655349	51373	mitochondrial ribosomal protein S17
+GO	membrane-bound organelle	64	3380	0.036655349	51388	comparative gene identification transcript 37
+GO	membrane-bound organelle	64	3380	0.036655349	51491	hypothetical protein HSPC111
+GO	membrane-bound organelle	64	3380	0.036655349	51651	Bcl-2 inhibitor of transcription
+GO	membrane-bound organelle	64	3380	0.036655349	5411	pinin, desmosome associated protein
+GO	membrane-bound organelle	64	3380	0.036655349	54475	notchless homolog 1 (Drosophila)
+GO	membrane-bound organelle	64	3380	0.036655349	55299	brix domain containing 2
+GO	membrane-bound organelle	64	3380	0.036655349	56342	peter pan homolog (Drosophila)
+GO	membrane-bound organelle	64	3380	0.036655349	6059	ATP-binding cassette, sub-family E (OABP), member 1
+GO	membrane-bound organelle	64	3380	0.036655349	6183	mitochondrial ribosomal protein S12
+GO	membrane-bound organelle	64	3380	0.036655349	6307	sterol-C4-methyl oxidase-like
+GO	membrane-bound organelle	64	3380	0.036655349	64318	nucleolar complex associated 3 homolog (S. cerevisiae)
+GO	membrane-bound organelle	64	3380	0.036655349	6432	splicing factor, arginine/serine-rich 7, 35kDa
+GO	membrane-bound organelle	64	3380	0.036655349	6722	serum response factor (c-fos serum response element-binding transcription factor)
+GO	membrane-bound organelle	64	3380	0.036655349	7421	vitamin D (1,25- dihydroxyvitamin D3) receptor
+GO	membrane-bound organelle	64	3380	0.036655349	7851	mal, T-cell differentiation protein-like
+GO	membrane-bound organelle	64	3380	0.036655349	79751	solute carrier family 25 (mitochondrial carrier: glutamate), member 22
+GO	membrane-bound organelle	64	3380	0.036655349	79954	nucleolar protein 10
+GO	membrane-bound organelle	64	3380	0.036655349	80324	pseudouridylate synthase 1
+GO	membrane-bound organelle	64	3380	0.036655349	81875	interferon stimulated exonuclease gene 20kDa-like 2
+GO	membrane-bound organelle	64	3380	0.036655349	8260	ARD1 homolog A, N-acetyltransferase (S. cerevisiae)
+GO	membrane-bound organelle	64	3380	0.036655349	8555	CDC14 cell division cycle 14 homolog B (S. cerevisiae)
+GO	membrane-bound organelle	64	3380	0.036655349	8880	far upstream element (FUSE) binding protein 1
+GO	membrane-bound organelle	64	3380	0.036655349	896	cyclin D3
+GO	membrane-bound organelle	64	3380	0.036655349	9134	cyclin E2
+GO	membrane-bound organelle	64	3380	0.036655349	9355	LIM homeobox 2
+GO	membrane-bound organelle	64	3380	0.036655349	9933	KIAA0020
+GO	membrane-bound organelle	64	3380	0.036655349	9986	RCE1 homolog, prenyl protein peptidase (S. cerevisiae)
+GO	alcohol metabolism	7	204	0.039522294	1595	cytochrome P450, family 51, subfamily A, polypeptide 1
+GO	alcohol metabolism	7	204	0.039522294	3156	3-hydroxy-3-methylglutaryl-Coenzyme A reductase
+GO	alcohol metabolism	7	204	0.039522294	3157	3-hydroxy-3-methylglutaryl-Coenzyme A synthase 1 (soluble)
+GO	alcohol metabolism	7	204	0.039522294	3422	isopentenyl-diphosphate delta isomerase 1
+GO	alcohol metabolism	7	204	0.039522294	5373	phosphomannomutase 2
+GO	alcohol metabolism	7	204	0.039522294	6307	sterol-C4-methyl oxidase-like
+GO	alcohol metabolism	7	204	0.039522294	8877	sphingosine kinase 1
+GO	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD or NADH as one donor, and incorporation of one atom of oxygen	2	21	0.041298355	1595	cytochrome P450, family 51, subfamily A, polypeptide 1
+GO	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD or NADH as one donor, and incorporation of one atom of oxygen	2	21	0.041298355	6307	sterol-C4-methyl oxidase-like
+GO	RNA binding	12	444	0.043521203	10528	nucleolar protein 5A (56kDa with KKE/D repeat)
+GO	RNA binding	12	444	0.043521203	1736	dyskeratosis congenita 1, dyskerin
+GO	RNA binding	12	444	0.043521203	22984	programmed cell death 11
+GO	RNA binding	12	444	0.043521203	23404	exosome component 2
+GO	RNA binding	12	444	0.043521203	3184	heterogeneous nuclear ribonucleoprotein D (AU-rich element RNA binding protein 1, 37kDa)
+GO	RNA binding	12	444	0.043521203	51388	comparative gene identification transcript 37
+GO	RNA binding	12	444	0.043521203	58517	RNA binding motif protein 25
+GO	RNA binding	12	444	0.043521203	6432	splicing factor, arginine/serine-rich 7, 35kDa
+GO	RNA binding	12	444	0.043521203	65083	nucleolar protein family 6 (RNA-associated)
+GO	RNA binding	12	444	0.043521203	9136	RNA, U3 small nucleolar interacting protein 2
+GO	RNA binding	12	444	0.043521203	9188	DEAD (Asp-Glu-Ala-Asp) box polypeptide 21
+GO	RNA binding	12	444	0.043521203	9933	KIAA0020
+GO	steroid metabolism	5	124	0.043529157	1595	cytochrome P450, family 51, subfamily A, polypeptide 1
+GO	steroid metabolism	5	124	0.043529157	3156	3-hydroxy-3-methylglutaryl-Coenzyme A reductase
+GO	steroid metabolism	5	124	0.043529157	3157	3-hydroxy-3-methylglutaryl-Coenzyme A synthase 1 (soluble)
+GO	steroid metabolism	5	124	0.043529157	3422	isopentenyl-diphosphate delta isomerase 1
+GO	steroid metabolism	5	124	0.043529157	6307	sterol-C4-methyl oxidase-like
+GO	methyltransferase activity	4	86	0.0443676	2618	phosphoribosylglycinamide formyltransferase, phosphoribosylglycinamide synthetase, phosphoribosylaminoimidazole synthetase
+GO	methyltransferase activity	4	86	0.0443676	4234	methyltransferase like 1
+GO	methyltransferase activity	4	86	0.0443676	4839	nucleolar protein 1, 120kDa
+GO	methyltransferase activity	4	86	0.0443676	57019	cytokine induced apoptosis inhibitor 1
+GO	ARF GTPase activator activity	1	3	0.04573578	11033	centaurin, alpha 1
+GO	regulation of dendrite morphogenesis	1	3	0.04573578	1627	drebrin 1
+GO	regulation of neuronal synaptic plasticity	1	3	0.04573578	1627	drebrin 1
+GO	telomerase activity	1	3	0.04573578	1736	dyskeratosis congenita 1, dyskerin
+GO	succinyltransferase activity	1	3	0.04573578	1743	dihydrolipoamide S-succinyltransferase (E2 component of 2-oxo-glutarate complex)
+GO	7S RNA binding	1	3	0.04573578	23404	exosome component 2
+GO	de novo IMP biosynthesis	1	3	0.04573578	2618	phosphoribosylglycinamide formyltransferase, phosphoribosylglycinamide synthetase, phosphoribosylaminoimidazole synthetase
+GO	spermidine biosynthesis	1	3	0.04573578	262	adenosylmethionine decarboxylase 1
+GO	germ cell migration	1	3	0.04573578	3156	3-hydroxy-3-methylglutaryl-Coenzyme A reductase
+GO	interleukin-2 binding	1	3	0.04573578	3560	interleukin 2 receptor, beta
+GO	interleukin-2 receptor activity	1	3	0.04573578	3560	interleukin 2 receptor, beta
+GO	tRNA (guanine) methyltransferase activity	1	3	0.04573578	4234	methyltransferase like 1
+GO	tRNA modification	1	3	0.04573578	4234	methyltransferase like 1
+GO	oxidoreductase activity, oxidizing metal ions	1	3	0.04573578	4552	5-methyltetrahydrofolate-homocysteine methyltransferase reductase
+GO	negative regulation of DNA replication	1	3	0.04573578	51053	geminin, DNA replication inhibitor
+GO	N-acetylgalactosaminyl-proteoglycan 3-beta-glucuronosyltransferase activity	1	3	0.04573578	54480	chondroitin sulfate glucuronyltransferase
+GO	phosphatidylinositol-4,5-bisphosphate binding	1	3	0.04573578	55803	centaurin, alpha 2
+GO	folic acid transporter activity	1	3	0.04573578	6573	solute carrier family 19 (folate transporter), member 1
+GO	muscle thin filament tropomyosin	1	3	0.04573578	7168	tropomyosin 1 (alpha)
+GO	contributes_to ribosome binding	1	3	0.04573578	8260	ARD1 homolog A, N-acetyltransferase (S. cerevisiae)
+GO	N-terminal protein amino acid acetylation	1	3	0.04573578	8260	ARD1 homolog A, N-acetyltransferase (S. cerevisiae)
+GO	regulation of glucose import	1	3	0.04573578	8682	phosphoprotein enriched in astrocytes 15
+GO	beta-N-acetylglucosaminylglycopeptide beta-1,4-galactosyltransferase activity	1	3	0.04573578	8704	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 2
+GO	positive regulation of cell migration	1	3	0.04573578	8877	sphingosine kinase 1
+GO	positive regulation of cell motility	1	3	0.04573578	8877	sphingosine kinase 1
+GO	positive regulation of locomotion	1	3	0.04573578	8877	sphingosine kinase 1
+GO	sodium:bicarbonate symporter activity	1	3	0.04573578	9497	solute carrier family 4, sodium bicarbonate cotransporter, member 7
+GO	compartment specification	1	3	0.04573578	9830	tripartite motif-containing 14
+GO	transferase activity, transferring one-carbon groups	4	88	0.047594032	2618	phosphoribosylglycinamide formyltransferase, phosphoribosylglycinamide synthetase, phosphoribosylaminoimidazole synthetase
+GO	transferase activity, transferring one-carbon groups	4	88	0.047594032	4234	methyltransferase like 1
+GO	transferase activity, transferring one-carbon groups	4	88	0.047594032	4839	nucleolar protein 1, 120kDa
+GO	transferase activity, transferring one-carbon groups	4	88	0.047594032	57019	cytokine induced apoptosis inhibitor 1
+GO	secondary metabolism	2	23	0.048767753	3163	heme oxygenase (decycling) 2
+GO	secondary metabolism	2	23	0.048767753	3422	isopentenyl-diphosphate delta isomerase 1
+GO	nucleotidyltransferase activity	4	89	0.049254876	10514	MYB binding protein (P160) 1a
+GO	nucleotidyltransferase activity	4	89	0.049254876	1736	dyskeratosis congenita 1, dyskerin
+GO	nucleotidyltransferase activity	4	89	0.049254876	5833	phosphate cytidylyltransferase 2, ethanolamine
+GO	nucleotidyltransferase activity	4	89	0.049254876	8891	eukaryotic translation initiation factor 2B, subunit 3 gamma, 58kDa
+GO	symporter activity	4	91	0.052671543	6566	solute carrier family 16 (monocarboxylic acid transporters), member 1
+GO	symporter activity	4	91	0.052671543	79751	solute carrier family 25 (mitochondrial carrier: glutamate), member 22
+GO	symporter activity	4	91	0.052671543	8884	solute carrier family 5 (sodium-dependent vitamin transporter), member 6
+GO	symporter activity	4	91	0.052671543	9497	solute carrier family 4, sodium bicarbonate cotransporter, member 7
+GO	mRNA binding	2	24	0.052671945	3184	heterogeneous nuclear ribonucleoprotein D (AU-rich element RNA binding protein 1, 37kDa)
+GO	mRNA binding	2	24	0.052671945	58517	RNA binding motif protein 25
+GO	regulation of muscle contraction	2	24	0.052671945	7168	tropomyosin 1 (alpha)
+GO	regulation of muscle contraction	2	24	0.052671945	8877	sphingosine kinase 1
+GO	negative regulation of apoptosis	4	92	0.054427224	3560	interleukin 2 receptor, beta
+GO	negative regulation of apoptosis	4	92	0.054427224	57019	cytokine induced apoptosis inhibitor 1
+GO	negative regulation of apoptosis	4	92	0.054427224	8682	phosphoprotein enriched in astrocytes 15
+GO	negative regulation of apoptosis	4	92	0.054427224	8877	sphingosine kinase 1
+GO	protein targeting	4	93	0.056214356	10440	translocase of inner mitochondrial membrane 17 homolog A (yeast)
+GO	protein targeting	4	93	0.056214356	1678	translocase of inner mitochondrial membrane 8 homolog A (yeast)
+GO	protein targeting	4	93	0.056214356	26515	fracture callus 1 homolog (rat)
+GO	protein targeting	4	93	0.056214356	9454	homer homolog 3 (Drosophila)
+GO	small ribosomal subunit	2	25	0.056683332	51373	mitochondrial ribosomal protein S17
+GO	small ribosomal subunit	2	25	0.056683332	6183	mitochondrial ribosomal protein S12
+GO	negative regulation of programmed cell death	4	94	0.058032842	3560	interleukin 2 receptor, beta
+GO	negative regulation of programmed cell death	4	94	0.058032842	57019	cytokine induced apoptosis inhibitor 1
+GO	negative regulation of programmed cell death	4	94	0.058032842	8682	phosphoprotein enriched in astrocytes 15
+GO	negative regulation of programmed cell death	4	94	0.058032842	8877	sphingosine kinase 1
+GO	telomerase holoenzyme complex	1	4	0.06051371	1736	dyskeratosis congenita 1, dyskerin
+GO	carboxylic acid binding	1	4	0.06051371	1743	dihydrolipoamide S-succinyltransferase (E2 component of 2-oxo-glutarate complex)
+GO	lipoic acid binding	1	4	0.06051371	1743	dihydrolipoamide S-succinyltransferase (E2 component of 2-oxo-glutarate complex)
+GO	purine base biosynthesis	1	4	0.06051371	2618	phosphoribosylglycinamide formyltransferase, phosphoribosylglycinamide synthetase, phosphoribosylaminoimidazole synthetase
+GO	spermidine metabolism	1	4	0.06051371	262	adenosylmethionine decarboxylase 1
+GO	protein-lysine 6-oxidase activity	1	4	0.06051371	4016	lysyl oxidase-like 1
+GO	tRNA methyltransferase activity	1	4	0.06051371	4234	methyltransferase like 1
+GO	negative regulation of DNA metabolism	1	4	0.06051371	51053	geminin, DNA replication inhibitor
+GO	imprinting	1	4	0.06051371	7262	pleckstrin homology-like domain, family A, member 2
+GO	N-terminal protein amino acid modification	1	4	0.06051371	8260	ARD1 homolog A, N-acetyltransferase (S. cerevisiae)
+GO	peptide or protein amino-terminal blocking	1	4	0.06051371	8260	ARD1 homolog A, N-acetyltransferase (S. cerevisiae)
+GO	N-acetyllactosamine synthase activity	1	4	0.06051371	8704	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 2
+GO	positive regulation of cell growth	1	4	0.06051371	8877	sphingosine kinase 1
+GO	positive regulation of progression through cell cycle	1	4	0.06051371	8877	sphingosine kinase 1
+GO	apoptosis	7	228	0.064361718	1434	CSE1 chromosome segregation 1-like (yeast)
+GO	apoptosis	7	228	0.064361718	22984	programmed cell death 11
+GO	apoptosis	7	228	0.064361718	27242	tumor necrosis factor receptor superfamily, member 21
+GO	apoptosis	7	228	0.064361718	51651	Bcl-2 inhibitor of transcription
+GO	apoptosis	7	228	0.064361718	57019	cytokine induced apoptosis inhibitor 1
+GO	apoptosis	7	228	0.064361718	7262	pleckstrin homology-like domain, family A, member 2
+GO	apoptosis	7	228	0.064361718	9141	programmed cell death 5
+GO	programmed cell death	7	228	0.064361718	1434	CSE1 chromosome segregation 1-like (yeast)
+GO	programmed cell death	7	228	0.064361718	22984	programmed cell death 11
+GO	programmed cell death	7	228	0.064361718	27242	tumor necrosis factor receptor superfamily, member 21
+GO	programmed cell death	7	228	0.064361718	51651	Bcl-2 inhibitor of transcription
+GO	programmed cell death	7	228	0.064361718	57019	cytokine induced apoptosis inhibitor 1
+GO	programmed cell death	7	228	0.064361718	7262	pleckstrin homology-like domain, family A, member 2
+GO	programmed cell death	7	228	0.064361718	9141	programmed cell death 5
+GO	acetyl-CoA metabolism	2	27	0.065010925	1743	dihydrolipoamide S-succinyltransferase (E2 component of 2-oxo-glutarate complex)
+GO	acetyl-CoA metabolism	2	27	0.065010925	3157	3-hydroxy-3-methylglutaryl-Coenzyme A synthase 1 (soluble)
+GO	nucleobase, nucleoside, nucleotide and nucleic acid metabolism	36	1815	0.067769738	10061	ATP-binding cassette, sub-family F (GCN20), member 2
+GO	nucleobase, nucleoside, nucleotide and nucleic acid metabolism	36	1815	0.067769738	10514	MYB binding protein (P160) 1a
+GO	nucleobase, nucleoside, nucleotide and nucleic acid metabolism	36	1815	0.067769738	10528	nucleolar protein 5A (56kDa with KKE/D repeat)
+GO	nucleobase, nucleoside, nucleotide and nucleic acid metabolism	36	1815	0.067769738	10785	WD repeat domain 4
+GO	nucleobase, nucleoside, nucleotide and nucleic acid metabolism	36	1815	0.067769738	10799	ribonuclease P 40kDa subunit
+GO	nucleobase, nucleoside, nucleotide and nucleic acid metabolism	36	1815	0.067769738	10915	transcription elongation regulator 1
+GO	nucleobase, nucleoside, nucleotide and nucleic acid metabolism	36	1815	0.067769738	1503	CTP synthase
+GO	nucleobase, nucleoside, nucleotide and nucleic acid metabolism	36	1815	0.067769738	1736	dyskeratosis congenita 1, dyskerin
+GO	nucleobase, nucleoside, nucleotide and nucleic acid metabolism	36	1815	0.067769738	1876	E2F transcription factor 6
+GO	nucleobase, nucleoside, nucleotide and nucleic acid metabolism	36	1815	0.067769738	1959	early growth response 2 (Krox-20 homolog, Drosophila)
+GO	nucleobase, nucleoside, nucleotide and nucleic acid metabolism	36	1815	0.067769738	1960	early growth response 3
+GO	nucleobase, nucleoside, nucleotide and nucleic acid metabolism	36	1815	0.067769738	204	adenylate kinase 2
+GO	nucleobase, nucleoside, nucleotide and nucleic acid metabolism	36	1815	0.067769738	2193	phenylalanine-tRNA synthetase-like, alpha subunit
+GO	nucleobase, nucleoside, nucleotide and nucleic acid metabolism	36	1815	0.067769738	22984	programmed cell death 11
+GO	nucleobase, nucleoside, nucleotide and nucleic acid metabolism	36	1815	0.067769738	23076	KIAA0179
+GO	nucleobase, nucleoside, nucleotide and nucleic acid metabolism	36	1815	0.067769738	23404	exosome component 2
+GO	nucleobase, nucleoside, nucleotide and nucleic acid metabolism	36	1815	0.067769738	2618	phosphoribosylglycinamide formyltransferase, phosphoribosylglycinamide synthetase, phosphoribosylaminoimidazole synthetase
+GO	nucleobase, nucleoside, nucleotide and nucleic acid metabolism	36	1815	0.067769738	3035	histidyl-tRNA synthetase
+GO	nucleobase, nucleoside, nucleotide and nucleic acid metabolism	36	1815	0.067769738	3184	heterogeneous nuclear ribonucleoprotein D (AU-rich element RNA binding protein 1, 37kDa)
+GO	nucleobase, nucleoside, nucleotide and nucleic acid metabolism	36	1815	0.067769738	4175	MCM6 minichromosome maintenance deficient 6 (MIS5 homolog, S. pombe) (S. cerevisiae)
+GO	nucleobase, nucleoside, nucleotide and nucleic acid metabolism	36	1815	0.067769738	4234	methyltransferase like 1
+GO	nucleobase, nucleoside, nucleotide and nucleic acid metabolism	36	1815	0.067769738	51042	zinc finger protein 593
+GO	nucleobase, nucleoside, nucleotide and nucleic acid metabolism	36	1815	0.067769738	5373	phosphomannomutase 2
+GO	nucleobase, nucleoside, nucleotide and nucleic acid metabolism	36	1815	0.067769738	5411	pinin, desmosome associated protein
+GO	nucleobase, nucleoside, nucleotide and nucleic acid metabolism	36	1815	0.067769738	56342	peter pan homolog (Drosophila)
+GO	nucleobase, nucleoside, nucleotide and nucleic acid metabolism	36	1815	0.067769738	58517	RNA binding motif protein 25
+GO	nucleobase, nucleoside, nucleotide and nucleic acid metabolism	36	1815	0.067769738	6432	splicing factor, arginine/serine-rich 7, 35kDa
+GO	nucleobase, nucleoside, nucleotide and nucleic acid metabolism	36	1815	0.067769738	6722	serum response factor (c-fos serum response element-binding transcription factor)
+GO	nucleobase, nucleoside, nucleotide and nucleic acid metabolism	36	1815	0.067769738	7262	pleckstrin homology-like domain, family A, member 2
+GO	nucleobase, nucleoside, nucleotide and nucleic acid metabolism	36	1815	0.067769738	7421	vitamin D (1,25- dihydroxyvitamin D3) receptor
+GO	nucleobase, nucleoside, nucleotide and nucleic acid metabolism	36	1815	0.067769738	80324	pseudouridylate synthase 1
+GO	nucleobase, nucleoside, nucleotide and nucleic acid metabolism	36	1815	0.067769738	80746	tRNA splicing endonuclease 2 homolog (SEN2, S. cerevisiae)
+GO	nucleobase, nucleoside, nucleotide and nucleic acid metabolism	36	1815	0.067769738	8260	ARD1 homolog A, N-acetyltransferase (S. cerevisiae)
+GO	nucleobase, nucleoside, nucleotide and nucleic acid metabolism	36	1815	0.067769738	8880	far upstream element (FUSE) binding protein 1
+GO	nucleobase, nucleoside, nucleotide and nucleic acid metabolism	36	1815	0.067769738	9136	RNA, U3 small nucleolar interacting protein 2
+GO	nucleobase, nucleoside, nucleotide and nucleic acid metabolism	36	1815	0.067769738	9221	nucleolar and coiled-body phosphoprotein 1
+GO	endoribonuclease activity	2	28	0.069319005	10799	ribonuclease P 40kDa subunit
+GO	endoribonuclease activity	2	28	0.069319005	80746	tRNA splicing endonuclease 2 homolog (SEN2, S. cerevisiae)
+GO	regulation of GTPase activity	2	28	0.069319005	11033	centaurin, alpha 1
+GO	regulation of GTPase activity	2	28	0.069319005	55803	centaurin, alpha 2
+GO	DNA ligase (ATP) activity	1	5	0.07506393	10061	ATP-binding cassette, sub-family F (GCN20), member 2
+GO	DNA ligase activity	1	5	0.07506393	10061	ATP-binding cassette, sub-family F (GCN20), member 2
+GO	nucleolar ribonuclease P complex	1	5	0.07506393	10799	ribonuclease P 40kDa subunit
+GO	ribonuclease P complex	1	5	0.07506393	10799	ribonuclease P 40kDa subunit
+GO	dendrite	1	5	0.07506393	1627	drebrin 1
+GO	profilin binding	1	5	0.07506393	1627	drebrin 1
+GO	RNA-directed DNA polymerase activity	1	5	0.07506393	1736	dyskeratosis congenita 1, dyskerin
+GO	S-acyltransferase activity	1	5	0.07506393	1743	dihydrolipoamide S-succinyltransferase (E2 component of 2-oxo-glutarate complex)
+GO	mechanosensory behavior	1	5	0.07506393	1959	early growth response 2 (Krox-20 homolog, Drosophila)
+GO	adenylate kinase activity	1	5	0.07506393	204	adenylate kinase 2
+GO	hydroxymethyl-, formyl- and related transferase activity	1	5	0.07506393	2618	phosphoribosylglycinamide formyltransferase, phosphoribosylglycinamide synthetase, phosphoribosylaminoimidazole synthetase
+GO	nucleobase biosynthesis	1	5	0.07506393	2618	phosphoribosylglycinamide formyltransferase, phosphoribosylglycinamide synthetase, phosphoribosylaminoimidazole synthetase
+GO	purine base metabolism	1	5	0.07506393	2618	phosphoribosylglycinamide formyltransferase, phosphoribosylglycinamide synthetase, phosphoribosylaminoimidazole synthetase
+GO	transferase activity, transferring acyl groups, acyl groups converted into alkyl on transfer	1	5	0.07506393	3157	3-hydroxy-3-methylglutaryl-Coenzyme A synthase 1 (soluble)
+GO	regulation of survival gene product activity	1	5	0.07506393	3560	interleukin 2 receptor, beta
+GO	methionine biosynthesis	1	5	0.07506393	4552	5-methyltetrahydrofolate-homocysteine methyltransferase reductase
+GO	monocarboxylate porter activity	1	5	0.07506393	6566	solute carrier family 16 (monocarboxylic acid transporters), member 1
+GO	folic acid transport	1	5	0.07506393	6573	solute carrier family 19 (folate transporter), member 1
+GO	vitamin transporter activity	1	5	0.07506393	6573	solute carrier family 19 (folate transporter), member 1
+GO	negative regulation of Ras protein signal transduction	1	5	0.07506393	7168	tropomyosin 1 (alpha)
+GO	cholesterol homeostasis	1	5	0.07506393	7851	mal, T-cell differentiation protein-like
+GO	molybdopterin cofactor metabolism	1	5	0.07506393	80308	Fad1, flavin adenine dinucleotide synthetase, homolog (yeast)
+GO	Mo-molybdopterin cofactor biosynthesis	1	5	0.07506393	80308	Fad1, flavin adenine dinucleotide synthetase, homolog (yeast)
+GO	Mo-molybdopterin cofactor metabolism	1	5	0.07506393	80308	Fad1, flavin adenine dinucleotide synthetase, homolog (yeast)
+GO	metabotropic glutamate receptor signaling pathway	1	5	0.07506393	9454	homer homolog 3 (Drosophila)
+GO	nuclease activity	4	104	0.077913575	10799	ribonuclease P 40kDa subunit
+GO	nuclease activity	4	104	0.077913575	23404	exosome component 2
+GO	nuclease activity	4	104	0.077913575	80746	tRNA splicing endonuclease 2 homolog (SEN2, S. cerevisiae)
+GO	nuclease activity	4	104	0.077913575	81875	interferon stimulated exonuclease gene 20kDa-like 2
+GO	organelle membrane	6	192	0.07809194	10061	ATP-binding cassette, sub-family F (GCN20), member 2
+GO	organelle membrane	6	192	0.07809194	3156	3-hydroxy-3-methylglutaryl-Coenzyme A reductase
+GO	organelle membrane	6	192	0.07809194	55803	centaurin, alpha 2
+GO	organelle membrane	6	192	0.07809194	7851	mal, T-cell differentiation protein-like
+GO	organelle membrane	6	192	0.07809194	79751	solute carrier family 25 (mitochondrial carrier: glutamate), member 22
+GO	organelle membrane	6	192	0.07809194	9673	KIAA0446 gene product
+GO	protein import	2	30	0.078204168	1678	translocase of inner mitochondrial membrane 8 homolog A (yeast)
+GO	protein import	2	30	0.078204168	26515	fracture callus 1 homolog (rat)
+GO	ligase activity, forming aminoacyl-tRNA and related compounds	2	31	0.082773715	2193	phenylalanine-tRNA synthetase-like, alpha subunit
+GO	ligase activity, forming aminoacyl-tRNA and related compounds	2	31	0.082773715	3035	histidyl-tRNA synthetase
+GO	ligase activity, forming carbon-oxygen bonds	2	31	0.082773715	2193	phenylalanine-tRNA synthetase-like, alpha subunit
+GO	ligase activity, forming carbon-oxygen bonds	2	31	0.082773715	3035	histidyl-tRNA synthetase
+GO	RNA ligase activity	2	31	0.082773715	2193	phenylalanine-tRNA synthetase-like, alpha subunit
+GO	RNA ligase activity	2	31	0.082773715	3035	histidyl-tRNA synthetase
+GO	tRNA ligase activity	2	31	0.082773715	2193	phenylalanine-tRNA synthetase-like, alpha subunit
+GO	tRNA ligase activity	2	31	0.082773715	3035	histidyl-tRNA synthetase
+GO	amino acid activation	2	32	0.08742304	2193	phenylalanine-tRNA synthetase-like, alpha subunit
+GO	amino acid activation	2	32	0.08742304	3035	histidyl-tRNA synthetase
+GO	tRNA aminoacylation for protein translation	2	32	0.08742304	2193	phenylalanine-tRNA synthetase-like, alpha subunit
+GO	tRNA aminoacylation for protein translation	2	32	0.08742304	3035	histidyl-tRNA synthetase
+GO	tRNA aminoacylation	2	32	0.08742304	2193	phenylalanine-tRNA synthetase-like, alpha subunit
+GO	tRNA aminoacylation	2	32	0.08742304	3035	histidyl-tRNA synthetase
+GO	lysophospholipase activity	1	6	0.089389931	11343	monoglyceride lipase
+GO	regulation of synaptic plasticity	1	6	0.089389931	1627	drebrin 1
+GO	regulation of synaptic transmission	1	6	0.089389931	1627	drebrin 1
+GO	oxidoreductase activity, acting on superoxide radicals as acceptor	1	6	0.089389931	23076	KIAA0179
+GO	superoxide dismutase activity	1	6	0.089389931	23076	KIAA0179
+GO	polyamine biosynthesis	1	6	0.089389931	262	adenosylmethionine decarboxylase 1
+GO	aspartate family amino acid biosynthesis	1	6	0.089389931	4552	5-methyltetrahydrofolate-homocysteine methyltransferase reductase
+GO	negative regulation of small GTPase mediated signal transduction	1	6	0.089389931	7168	tropomyosin 1 (alpha)
+GO	L-glutamate transporter activity	1	6	0.089389931	79751	solute carrier family 25 (mitochondrial carrier: glutamate), member 22
+GO	positive regulation of angiogenesis	1	6	0.089389931	8877	sphingosine kinase 1
+GO	positive regulation of growth	1	6	0.089389931	8877	sphingosine kinase 1
+GO	regulation of smooth muscle contraction	1	6	0.089389931	8877	sphingosine kinase 1
+GO	anion exchanger activity	1	6	0.089389931	9497	solute carrier family 4, sodium bicarbonate cotransporter, member 7
+GO	bicarbonate transporter activity	1	6	0.089389931	9497	solute carrier family 4, sodium bicarbonate cotransporter, member 7
+GO	inorganic anion exchanger activity	1	6	0.089389931	9497	solute carrier family 4, sodium bicarbonate cotransporter, member 7
+GO	inner membrane	2	33	0.092148606	1678	translocase of inner mitochondrial membrane 8 homolog A (yeast)
+GO	inner membrane	2	33	0.092148606	26515	fracture callus 1 homolog (rat)
+GO	actin cytoskeleton	3	71	0.097495382	1627	drebrin 1
+GO	actin cytoskeleton	3	71	0.097495382	6624	fascin homolog 1, actin-bundling protein (Strongylocentrotus purpuratus)
+GO	actin cytoskeleton	3	71	0.097495382	7414	vinculin

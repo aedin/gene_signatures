@@ -1,0 +1,54 @@
+Subgroup	Probe Set	Gene Symbol	Gene ID	P	Kinase Specificity	Function
+T-ALL	228771_at	ADRBK2	157	0.000138	NA	Signal transduction
+T-ALL	241871_at	CAMK4	814	NA	STK	Calcium signaling
+T-ALL	226888_at	CSNK1G1	53944	1.15E-09	STK	Growth and morphogenesis of eukaryotic cells
+T-ALL	204718_at	EPHB6	2051	1.03E-08	RTK	Nervous system development; thymocyte differentiation
+T-ALL	211535_s_at	FGFR1	2260	2.20E-08	RTK	Fibroblast growth factor receptor activity
+T-ALL	209945_s_at	GSK3B	2932	1.79E-10	STK	Glycogen metabolism
+T-ALL	211339_s_at	ITK	3702	0	TK	T-cell differentiation and proliferation
+T-ALL	227677_at	JAK3	3718	1.75E-05	TK	Signal transduction
+T-ALL	204890_s_at	LCK	3932	0	SFK	TCR signaling
+T-ALL	207121_s_at	MAPK6	5597	0	STK	MAPK cascade
+T-ALL	229664_at	MAPK8	5599	2.11E-08	STK	MAPK cascade
+T-ALL	227255_at	PDIK1L	149420	3.13E-08	STK	ATP binding
+T-ALL	210038_at	PRKCQ	5588	0	STK	Signal transduction
+T-ALL	202853_s_at	RYK	6259	0	RTK	Growth factor receptor
+T-ALL	202693_s_at	STK17A	9263	1.40E-05	STK	Proapoptosis
+T-ALL	203181_x_at	SRPK2	6733	7.59E-10	STK and TK	RNA processing
+T-ALL	214032_at	ZAP-70	7535	0	TK	TCR signaling
+T-ALL	229029_at	Unknown	Unknown	1.23E-10	NA	NA
+E2A/PBX	210934_at	BLK	640	1.83E-07	SFK	Signal transduction
+E2A/PBX	204510_at	CDC7	8317	1.06E-07	STK	Cell cycle regulation
+E2A/PBX	212897_at	CDC2L6	23097	0.000608	STK	Transcription regulation
+E2A/PBX	205393_s_at	CHEK1	1111	7.95E-07	STK	Cell cycle regulation
+E2A/PBX	212801_at	CIT	11113	0.000795	STK	Cell cycle regulation
+E2A/PBX	211913_s_at	MERTK	10461	0	RTK	Cell-cell signaling
+E2A/PBX	204569_at	ICK	22858	9.25E-10	STK and TK	Cell proliferation regulation
+E2A/PBX	201461_s_at	MAPKAPK2	9261	0.000288	STK	p38 cascade
+E2A/PBX	202555_s_at	MYLK	4638	4.77E-05	STK	Regulation of myosin activity
+E2A/PBX	219148_at	PBK	55872	5.79E-06	STK	Lymphoid cells activation
+E2A/PBX	202178_at	PRKCZ	5590	2.79E-50	STK	Antiapoptosis
+E2A/PBX	202786_at	STK39	27347	3.50E-07	STK	Response to stress
+E2A/PBX	202951_at	STK38	11329	0	STK	Cell division and morphology regulation
+E2A/PBX	209011_at	TRIO	7204	1.40E-08	STK	Rho signaling
+E2A/PBX	203839_s_at	TNK2	10188	1.24E-16	TK	Cytoskeleton regulation
+ALL1/AF4	223460_at	CAMK2A	84254	0.000149	STK	Calcium signaling
+ALL1/AF4	206674_at	FLT3	2322	0	RTK	Cell proliferation regulation
+ALL1/AF4	201234_at	ILK	3611	0.000618	STK and TK	Integrin-mediatedsignaltransduction
+ALL1/AF4	207106_s_at	LTK	4058	0	STK and RTK	Signal transduction
+ALL1/AF4	203836_s_at	MAP3K5	4217	1.02E-10	STK	MAPK cascade
+ALL1/AF4	200906_s_at	PALLD	23022	2.19E-10	NA	Cytoskeleton component
+ALL1/AF4	214797_s_at	PCTK3	5129	5.01E-05	STK	ATP binding
+ALL1/AF4	204604_at	PFTK1	5218	7.93E-09	STK	ATP binding
+ALL1/AF4	226102_at	PRKCE	5581	1.97E-07	STK	Intracellular signaling cascade
+ALL1/AF4	225662_at	ZAK	51776	1.95E-08	STK	Cell cycle checkpoint regulation
+ALL1/AF4	211828_s_at	TNIK	23043	9.23E-06	STK	Cytoskeleton regulation
+ALL1/AF4	235085_at	DKFZp761P0423	157285	3.25E-06	NA	NA
+ALL1/AF4	223519_at	Unknown	NA	1.79E-07	NA	NA
+BCR/ABL	202123_s_at	ABL1	25	0	TK	Proto-oncogene
+BCR/ABL	226853_at	BMP2K	55589	0.000647	STK	Skeletal development
+BCR/ABL	202552_s_at	CRIM1	51232	0	NA	Motor neuron differentiation
+BCR/ABL	216033_s_at	FYN	2534	1.69E-05	SFK	Signal transduction
+BCR/ABL	222565_s_at	PRKD3	23683	6.61E-06	STK	BCR signaling
+BCR/ABL	226190_at	RPL4	6124	1.79E-05	STK and TK	Protein biosynthesis
+BCR/ABL	209012_at	TRIO	7204	0.000268	STK	Rho signaling

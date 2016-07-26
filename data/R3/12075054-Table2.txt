@@ -1,0 +1,18 @@
+Gene Expression Variable	No. of Microarray Features in Signature (N=7399)	No. of Microarray Features Significantly Associated (P<0.01) with a Good Outcome (N=162)	No. of Microarray Features Significantly Associated (P<0.01) with a Bad Outcome (N=508)	Representative Genes	GenBank Accession No.	P-value preliminary group	P-value validation group	P-value all patients	Relative risk of death among all patients (95% CI)	Outcome
+Germinal center B-cell signature	151	15	0	bcl-6	U00115	<0.001	<0.009	<0.001	.69 (.59-.81)	Favorable
+Germinal center B-cell signature				IMAGE 1134260	AA805575
+Germinal center B-cell signature				IMAGE 814662	AA236080
+MHC class II signature	37	35	0	HLA-DPa	X00457	<0.001	0.11	<0.001	.69 (.57-.82)	Favorable
+MHC class II signature				HLA-DQa	X00452
+MHC class II signature				HLA-DRa	K01171
+MHC class II signature				HLA-DRB	M20430
+Lymph-node signature	357	30	2	a-Actinin	X15804	<0.001	0.04	<0.001	.72 (.62-.85)	Favorable
+Lymph-node signature				Collagen type III a 1	X14420
+Lymph-node signature				Connective tissue growth factor	M54995
+Lymph-node signature				Fibronectin	X02761
+Lymph-node signature				KIAA0233	D87071
+Lymph-node signature				Urokinase plasminogen activator	D00244
+Proliferation signature	1333	6	287	c-myc	V00568	<0.001	0.05	<0.001	1.63 (1.27-2.09)	Poor
+Proliferation signature				E21G3	NM_014366
+Proliferation signature				NPM3	AF081280
+Other	5521	76	219	BMP6	M60315	0.005	0.08	0.003	1.36 (1.11-1.65)	Poor

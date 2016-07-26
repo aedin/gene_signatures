@@ -1,0 +1,67 @@
+Function	GenBank Accession No.	Gene Symbol	Gene Name	Expression Ratio (JP-8/control)	P Value
+Cell growth	L13619	CL-6	Growth response protein (CL-6)	1.6	0.014
+Cell growth	X54400	Hgf	Hepatocyte growth factor (Hgf)	0.6	0.029
+Cell growth	AF023087	NGFI-A	Nerve growth factor–induced factor A (NGFI-A)	0.5	0.013
+Cell surface	L18948	S100a9	S100 calcium-binding protein A9 (S100a9)	1.8	0.024
+Cell surface	AF089817	Rgs19ip1	G-protein signaling 19 interacting protein 1 (Rgs19ip1)	0.6	0.012
+Cell surface	U38653	InsP3R1	IP3 receptor; ligand-gated calcium channel (InsP3R1)	0.1	0.001
+Antioxidant-related	AI235747	Gsta1	Glutathione-S-transferase, alpha type (Ya) (Gsta1)	2.4	0.046
+Antioxidant-related	D00512	Acat1	Mitochondrial acetoacetyl-CoA thiolase precursor (Acat1)	1.8	0.038
+Antioxidant-related	M82855	CYP2C13	Rat cytochrome P450IIC13 gene, exon 9 (CYP2C13)	1.7	0.03
+Antioxidant-related	S72506	GstaYc2	Glutathione S-transferase Yc2 subunit (GstaYc2)	1.6	0.02
+Antioxidant-related	AF056333	Cyp2e1	Rattus norvegicus cytochrome P450 2E1 (Cyp2e1)	1.6	0.043
+Antioxidant-related	U07181	Ldhb	Lactate dehydrogenease B (Ldhb)	1.6	0.019
+Antioxidant-related	X74593	Sord	Sorbitol dehydrogenase (Sord)	1.6	0.011
+Antioxidant-related	AA892258	Nox4	NADPH oxidase 4 (Nox4)	0.6	0.016
+Extracellular matrix, cytoskeleton	X15939	Myh7	Myosin heavy chain, polypeptide 7 (Myh7)	3	0.04
+Extracellular matrix, cytoskeleton	X06801		Alpha-actin; rat mRNA for vascular -actin	1.7	0.012
+Extracellular matrix, cytoskeleton	Beta-Actin3		Rat Beta-actin 3	1.7	0.028
+Extracellular matrix, cytoskeleton	S74265	HMW;MAP2	High molecular weight microtubule protein (HMW MAP2)	0.3	0.026
+Cell signaling, ligands	X86789	Sncg	Synuclein, gamma (Sncg)	5.5	0.001
+Cell signaling, ligands	L14462	Aes	Amino-terminal enhancer of split (Aes)	1.6	0.029
+Cell signaling, ligands	U77880	Pde7a	Phosphodiesterase 7A (Pde7a)	0.6	0.016
+Cell signaling, ligands	Z36276	Prkg2	Protein kinase, cGMP- dependent, type 2 (Prkg2)	0.5	0.016
+Cell signaling, ligands	X60290		Rattus norvegicus immunoglobulin heavy chain variable region	0.5	0.024
+Cell signaling, ligands	AF071204	LOC60427	Stem cell factor KL-1 precursor (LOC60427)	0.5	0.007
+Cell signaling, ligands	L07408	IGKV	Immunoglobulin rearranged kappa-chain variable region (IGKV)	0.5	0.009
+Synthases	AI180442	Fdps	Farensyl diphosphate synthase (Fdps)	2	0.038
+Synthases	X52625	Hmgcs1	3-hydroxy-3-methylglutaryl-Coenzyme A synthase 1 (Hmgcs1)	1.8	0.013
+Transcription factors	Z46374	Met	R norvegicus mRNA for c-met (Met)	0.6	0.001
+Transcription factors	U17254	Nr4a1	Transcription factor NGFI-B (Nr4a1)	0.5	0.005
+Transferases	Z36276	Prkg2	Protein kinase, cGMP-dependent, type 2 (Prkg2)	0.5	0.016
+Transferases	S76489	Ste	Estrogen sulfotransferase isoform 3 (Ste)	0.5	0.013
+Transporters	M58758	Atp6n1a	ATPase, H+ transporting (Atp6n1a)	1.6	0.022
+Transporters	X67948	Aqp1	Aquaporin 1 (Aqp1)	1.6	0.003
+Transporters	U00926	Atp5d	ATP synthase, H+ transporting, delta subunit (Atp5d)	1.6	0.004
+Transporters	U59246	Atp7a	ATPase, Cu++ transporting, alpha polypeptide (Atp7a)	0.6	0.045
+Transporters	U17133	Slc30a1	Solute carrier family 30, member 1 (Slc30a1)	0.5	0.004
+Transporters	U14007	Aqp4	Aquaporin 4 (Aqp4)	0.5	0.025
+Transporters	AF086758	Nkcc1	Na-K-2Cl cotransporter (Nkcc1)	0.5	0.021
+Unclassified	M27440	Apob	Apolipoprotein B (Apob)	4	0.023
+Unclassified	AA963449		ESTs	1.8	0.008
+Unclassified	U12568	Arl3	ADP-ribosylation-like 3 (Arl3)	1.8	0.021
+Unclassified	AA944177	Hmgb1	High mobility group box 1 (Hmgb1)	1.7	0.039
+Unclassified	AI639451		EST	1.7	0.044
+Unclassified	U24489	Tnxa	Tenascin X (Tnxa)	1.7	0.001
+Unclassified	AA893032		ESTs	1.6	0.003
+Unclassified	M33025	Ptms	Parathymosin (Ptms)	1.6	0.022
+Unclassified	AA859980	Tcp1	T-complex 1 (Tcp1)	1.6	0.002
+Unclassified	AA891943		ESTs	0.6	0.008
+Unclassified	AA874856		ESTs, highly similar to T00268 hypothetical protein KIAA0597	0.6	0.019
+Unclassified	AA945907	Npr3	Natriuretic peptide receptor 3 (Npr3)	0.6	0.022
+Unclassified	D50558	Cd86	CD86 antigen (Cd86)	0.6	0.046
+Unclassified	M77184	LOC56813	Parathyroid hormone receptor (LOC56813)	0.6	0.006
+Unclassified	AA891595		ESTs	0.6	0.015
+Unclassified	AA859626		ESTs, moderately similar to hypothetical gene MGC19595	0.6	0.035
+Unclassified	AA800680		ESTs, moderately similar to Notch-regulated ankyrin protein	0.6	0.015
+Unclassified	AI045794		ESTs, highly similar to JH0304 histone H3.2-mouse	0.6	0.028
+Unclassified	AF020211	DLP1	Dynamin-like protein 1 (DLP1)	0.6	0.014
+Unclassified	U75397UTR	Krox-24	Rattus norvegicus Krox-24 (Krox-24)	0.6	0.048
+Unclassified	AI228025	Calcrl	Calcitonin receptor-like receptor (Calcrl)	0.5	0.022
+Unclassified	X55812	Cnr1	Cannabinoid receptor 1 (Cnr1)	0.5	0.001
+Unclassified	AF063102	Cirl2	Calcium-independent -latrotoxin receptor homolog 2 (Cirl2)	0.5	0.049
+Unclassified	AF075383	Cish3	Cytokine inducible SH2-containing protein 3 (Cish3)	0.5	0.006
+Unclassified	U61266	Rock1	Rho-associated kinase ß (Rock1)	0.5	0.004
+Unclassified	AA875198		ESTs	0.5	0.029
+Unclassified	DLP4		Dynein-like protein 4.	0.5	0.005
+Unclassified	AI639432	Rx01413s	Rx01413s	0.5	0.004

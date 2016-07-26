@@ -1,0 +1,43 @@
+Symbol/category	GenBank no.	Name	Chr#	Specific/other categories	Fold change	Function
+BCL2L11	AF032457	BCL2-like 11	2	induction of apoptosis	5.5	Apoptosis
+FOXO1A	AF032885	forkhead box O1A (rhabdomyosarcoma)	13	anti-apoptosis, cell cycle, cell maintenance, nuc. metabolism, reg. of transcription pol II/DNA	5.7	Apoptosis
+CDKN1A	U03106	cyclin-dependent kinase inhibitor 1A (p21, Cip1)	6	induction of apop. by intracell. signaling, cell cycle arrest, cell maintenance, negative reg. of cell prolif., reg. of biological process	5.5	Apoptosis
+CCNE2	AF091433	cyclin E2 maintenance, cytokinesis	8	cell prolif., cell cycle check point, cell	10.6	Cell cycle (list below +FOX01A, CDKN1A)
+CDKN2C	AF041248	cyclin-dep. kinase inhibitor 2C (p18, inhibitsCDK4)	1	neg. reg. of cell prolif., cell cycle arrest, cell maintenance, reg. of bio. process	8.6	Cell cycle (list below +FOX01A, CDKN1A)
+CCNE1	M74093	cyclin E1	19	cell prolif., cell maintenance cytokinesis, G1/S transition of mitotic cycle	6.5	Cell cycle (list below +FOX01A, CDKN1A)
+RRM2	X59618	ribonucleotide reductase M2 polypeptide	2	cell prolif., S phase of mitotic cycle, cell maintenance (DNA metabolism/replication chr. cycle)	5.1	Cell cycle (list below +FOX01A, CDKN1A)
+MYC	V00568	v-myc myelocytomatosis viral oncogene homolog (avian)	8	cell prolif., cell cycle arrest, nuc. metabolism, reg. of transcription pol II and DNA, cell maintenance, iron ion homeostasis	-7.2	Cell cycle (list below +FOX01A, CDKN1A)
+CHRNA7	X70297	cholinergic receptor, nicotinic, a polypeptide 7	15	activation of MAPKKK cascade, cell maintenance, transmission of nerve impulse ion transport	5.1	MAPKKK cascade/activity
+FGFR3	M64347	fibroblast growth factor receptor 3 (achondroplasia,  thanatophoric dwarfism)	4	(JAK-STAT)-MAPKKK cascade, cell growth, protein metabolism, development, morphogenesis, oncogenesis	22.6	MAPKKK cascade/activity
+MAP3K5	1327_s_at	mitogen-activated protein kinase kinase kinase 5		MAPKKK cascade, induction of apoptosis by extracell. signals, response to stress, activation of JUNK, ATP binding	6.3	MAPKKK cascade/activity
+BMP2	M22489	Bone morphogenetic protein 2	20	cell–cell signaling, skeletal development, morphogenesis, growth	16.6	Cell maintenance/growth (list below +FOX01A, CDKN1A, CCNE2, CDKN2C, CCNE1, RRM2, MYC, CHRNA7, FGFR3)
+INHBB	M31682	fibroblast growth factor receptor 3 (achondroplasia, thanatophoric dwarfism)	2	cell diff., cell–cell signal., immune response, macromol./cytokine biosynth., neg. and pos. reg. of follicle-stim. neg. reg. of hepatocyte growth factor, neg. reg. of hormone secretion, post-embryonic development, development, morphogenesis	24.3	Cell maintenance/growth (list below +FOX01A, CDKN1A, CCNE2, CDKN2C, CCNE1, RRM2, MYC, CHRNA7, FGFR3)
+MYB	M15024	v-myb myeloblastosis viral oncogene homolog (avian)	6	DNA binding	18.4	Cell maintenance/growth (list below +FOX01A, CDKN1A, CCNE2, CDKN2C, CCNE1, RRM2, MYC, CHRNA7, FGFR3)
+FOXA1	U39840	forkhead box A1	14	DNA dep., nuc. metabolism	46.9	Regulation of transcription (below list +FOX01A, MYC)
+FOXF2	U13220	forkhead box F2	6	pol II promoter and DNA depend., nuc. metabolism	19.7	Regulation of transcription (below list +FOX01A, MYC)
+DLX2	L07919	distal-less homeo box 2	2	DNA depend., nuc. metabolism, central nerv. system, brain dev., morphogenesis, neurogenesis	13	Regulation of transcription (below list +FOX01A, MYC)
+IRX5	U90304	iroquois homeobox protein 5	16	DNA depend. nuc. metabolism	5.1	Regulation of transcription (below list +FOX01A, MYC)
+TCF7	X59871	transcription factor 7 (T-cell specific, HMG-box)	5	pol II promoter/DNA depend., immune response, cell surface receptor-linked signal transduction, nuc. metabolism, Wnt receptor signaling pathway	9.2	Regulation of transcription (below list +FOX01A, MYC)
+LHX2	40528_at	LIM homeobox 2		DNA-dep.	16	Regulation of transcription (below list +FOX01A, MYC)
+EFNB2	AI765533	ephrin-B2	13	cell–cell signaling, development, morphogenesis, neurogenesis	8.6	Cell communication (below list +BMP2, INHBB, FGFR3, TCF7, CHRNA7, GCH1)
+OPHN1	AJ001189	oligophrenin 1	X	signal transduc., cell motility (exon guidance), dev., morphogen., neurogen., Rho GTPase activator	-5.9	Cell communication (below list +BMP2, INHBB, FGFR3, TCF7, CHRNA7, GCH1)
+SMA5	X83301	SMA5	5	carbohydrate, hydrolase activity	6.3	Metabolism (below list +FOXA1, INHBB, FGFR3, FOXF2, DLX2, IRX5, TCF7, FOX01A, RRM2, MYC)
+GCH1	U19523	GTP cyclohydrolase 1 (dopa-responsive dystonia)	14	l-phenylalanine catabolism, cell–cell signaling, transmission of nerve impulse, hydrolase activity	5.1	Metabolism (below list +FOXA1, INHBB, FGFR3, FOXF2, DLX2, IRX5, TCF7, FOX01A, RRM2, MYC)
+ATP2B4	W28589	ATPase, Ca2+ plasma membrane 4 transporting,	1	calcium-metal ion transport, calmodulin binding, ATP binding hydrolase activity	-5.1	Metabolism (below list +FOXA1, INHBB, FGFR3, FOXF2, DLX2, IRX5, TCF7, FOX01A, RRM2, MYC)
+HPGD	L76465	hydroxyprostaglandin dehydrogenase 15-(NAD)	4	Fatty acid–carbolic acid metabolism, NAD+ activity	8.3, 6.7	Metabolism (below list +FOXA1, INHBB, FGFR3, FOXF2, DLX2, IRX5, TCF7, FOX01A, RRM2, MYC)
+LOC254531	AF007155	PlSC domain containing hypothetical protein	15	transferase activity	10.9	Metabolism (below list +FOXA1, INHBB, FGFR3, FOXF2, DLX2, IRX5, TCF7, FOX01A, RRM2, MYC)
+CYP26A1	AF005418	cytochrome P450, family 26, subfamily A, polypeptide 1	10	electron transport	8.3	Metabolism (below list +FOXA1, INHBB, FGFR3, FOXF2, DLX2, IRX5, TCF7, FOX01A, RRM2, MYC)
+F3	J02931	coagulation factor III	1	hemostasis, blood coagulation, (thromboplastin, tissue factor)	7.5	Immune response (below list +INHBB, TCF7) cytokine receptor activity
+MAP2K5	1699_at	mitogen-activated protein kinase kinase 5			-12.6	Other genes with not certain category
+ABAT	33446_at	4-aminobutyrate aminotransferase		aminobutyrate transaminase activity, metabolism, elec. transport reg. of transcrip., DNA-dep. GENMAPP/KEGG pathway	-5.9	Other genes with not certain category
+FLJ90798	34303_at	hypothetical protein FLJ90798		elec. transport, reg. of transcrip., DNA dep./binding	-6.3	Other genes with not certain category
+NPTX2	35663_at	neuronal pentraxin II		heterophilic cell adhesion, reg. of synapse, sugar binding	7.7	Other genes with not certain category
+KIAA0895	36548_at	protein KIAA0895			8	Other genes with not certain category
+ProSAPiP1	38248_at	protein ProSAPiP1			20.4	Other genes with not certain category
+RNPC1	38661_at	RNA-binding region (RNP1, RRM) containing 1		RNA-binding rrm, nucleic acid binding	6.1	Other genes with not certain category
+39394_at	Homo sapiens clones 23568, 23621, 23795, 23873 and 23874 mRNA sequences			5.9	Other genes with not certain category
+PEG10	39696_at	paternally expressed 10		nucleic acid binding	7.5	Other genes with not certain category
+SYNGR3	40314_at	synaptogyrin 3		integral to plasma membrane myb_DNA-binding	8.3	Other genes with not certain category
+1473_s_at					5.9	Other genes with not certain category
+1474_s_at					5.9	Other genes with not certain category
+34930_at					-5.7	Other genes with not certain category

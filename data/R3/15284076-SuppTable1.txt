@@ -1,0 +1,153 @@
+p-rank	p-value	mean:ADL	mean:EML	mean:NML	AffyProbeset	Description 	GenbankID	ADL/ NML 	EML/ NML 	 
+1	5.60E-06	203.7	270.5	874.5	L17075_s_at	activin A receptor type II-like 1 	L17075	0.23	0.31	 
+2	3.31E-05	273.9	183.3	374.1	U76366_s_at	Treacher Collins-Franceschetti syndrome 1 	U76366	0.73	0.49	 
+3	4.54E-05	1238.4	1220.6	1913.9	L38932_at	"beclin 1 (coiled-coil, myosin-like BCL2 interacting protein) "	L38932	0.65	0.64	 
+4	5.15E-05	346.9	184	180	X83572_at	arylsulfatase D 	X83572	1.93	1.02	 
+5	7.09E-05	950.9	993.4	2042	L02426_at	"proteasome (prosome, macropain) 26S subunit, ATPase, 1 "	L02426	0.47	0.49	 
+6	7.10E-05	302.3	416.9	774.8	M25077_at	"Sjogren syndrome antigen A2 (60kDa, ribonucleoprotein autoantigen SS-A/Ro) "	M25077	0.39	0.54	 
+7	8.99E-05	1168.1	1258.6	1749.3	U51336_at	"inositol 1,3,4-triphosphate 5/6 kinase "	U51336	0.67	0.72	 
+8	0.00013	288.1	313.7	586.2	U59309_at	fumarate hydratase 	U59309	0.49	0.54	 
+9	0.000139	375.2	362.4	524.7	U09303_at	ephrin-B1 	U09303	0.72	0.69	 
+10	0.000146	267.9	382	668.8	L19183_at	hypothetical protein MAC30 	L19183	0.4	0.57	 
+11	0.000154	405.5	472.7	609.6	U43286_at	selenophosphate synthetase 2 	U43286	0.67	0.78	 
+12	0.000155	1588.4	1103.3	2243.8	U30999_at	activated leukocyte cell adhesion molecule 	U30999	0.71	0.49	 
+13	0.000171	1255.9	928.5	617.7	X98507_at	myosin IC 	X98507	2.03	1.5	 
+14	0.000206	1085.2	1365.8	1878.6	D14694_at	phosphatidylserine synthase 1 	D14694	0.58	0.73	 
+15	0.000218	263.5	265.2	417.5	U24266_at	"aldehyde dehydrogenase 4 family, member A1 "	U24266	0.63	0.64	 
+16	0.000233	1686.9	1642.6	2934.3	X91257_at	seryl-tRNA synthetase 	X91257	0.57	0.56	 
+17	0.000272	604.4	797.9	1160.9	M64992_at	"proteasome (prosome, macropain) subunit, alpha type, 1 "	M64992	0.52	0.69	 
+18	0.000279	329.8	377	767.8	L07758_at	 nuclear phosphoprotein similar to S. cerevisiae PWP1  	L07758	0.43	0.49	
+19	0.000293	295.6	432.3	461.7	HG511-HT511_at	 Ras Inhibitor Inf  	HG511;HT511	0.64	0.94	
+20	0.000324	658.6	768.1	957.1	U57877_at	" succinate dehydrogenase complex, subunit C, integral membrane protein, 15kDa  "	U57877	0.69	0.8	
+21	0.000333	690.1	842.8	1303.1	D44466_at	" proteasome (prosome, macropain) 26S subunit, non-ATPase, 1  "	D44466	0.53	0.65	
+22	0.000353	706.3	711.2	1167.3	M22632_at	" glutamic-oxaloacetic transaminase 2, mitochondrial (aspartate aminotransferase 2)  "	M22632	0.61	0.61	
+23	0.000353	1234.5	1360	2488.3	M29536_at	" eukaryotic translation initiation factor 2, subunit 2 beta, 38kDa  "	M29536	0.5	0.55	
+24	0.000374	316	252.3	440.6	U65928_at	 COP9 constitutive photomorphogenic homolog subunit 5 (Arabidopsis)  	U65928	0.72	0.57	
+25	0.000392	1587.4	1720.8	2345.2	M64571_at	 microtubule-associated protein 4  	M64571	0.68	0.73	
+26	0.000395	836.3	1053.3	1721	L76191_at	 interleukin-1 receptor-associated kinase 1  	L76191	0.49	0.61	
+27	0.000407	1865.7	1558	2801.2	L33075_at	 IQ motif containing GTPase activating protein 1  	L33075	0.67	0.56	
+28	0.000416	31	9.4	54.2	M58460_at	" polymyositis/scleroder ma autoantigen 1, 75kDa  "	M58460	0.57	0.17	
+29	0.000422	992.1	942	1403	D13641_at	 translocase of outer mitochondrial membrane 20 (yeast) homolog  	D13641	0.71	0.67	
+30	0.000437	2137.7	2344.5	3586.6	M75099_at	" FK506 binding protein 2, 13kDa  "	M75099	0.6	0.65	
+31	0.000449	1266.3	1231.4	1792.3	U20998_at	 signal recognition particle 9kDa  	U20998	0.71	0.69	
+32	0.000469	246.6	251.1	554.4	U73477_s_at	" acidic (leucine-rich) nuclear phosphoprotein 32 family, member A  "	U73477	0.44	0.45	
+33	5.00E-04	742.5	1262.1	1674.8	M22760_at	 cytochrome c oxidase subunit Va  	M22760	0.44	0.75	
+34	0.000503	196.9	209.6	345.1	M92439_at	 leucine-rich PPR-motif containing  	M92439	0.57	0.61	
+35	0.000516	5466.5	5429.1	8745.8	S65738_at	 destrin (actin depolymerizing factor)  	S65738	0.63	0.62	
+36	0.000522	1980.5	3501.4	4526.4	L42379_at	 quiescin Q6  	L42379	0.44	0.77	
+37	0.000534	445	550	795.8	U37022_rna1_at	 none  	U37022	0.56	0.69	
+38	0.000563	513.4	880.9	1343.2	D38048_at	" proteasome (prosome, macropain) subunit, beta type, 7  "	D38048	0.38	0.66	
+39	0.000591	988.4	1851.9	2383.5	M14200_rna1_at	 none  	M14200	0.41	0.78	
+40	0.000597	163.9	145.1	256.7	U56085_at	 PWP2 periodic tryptophan protein homolog (yeast)  	U56085	0.64	0.57	
+41	0.000619	1018.5	1374.2	940.7	D11086_at	" interleukin 2 receptor, gamma (severe combined immunodeficiency)  "	D11086	1.08	1.46	
+42	0.000623	595.2	478.6	784.3	U66879_at	 BCL2-antagonist of cell death  	U66879	0.76	0.61	
+43	0.000633	791.1	921.2	1707.4	HG4264-HT4534_s_at	 Guanine Nucleotide-Binding Protein Rab5c-Like Protein - Also Represents: U18420  	HG4264;HT4534	0.46	0.54	
+44	0.000655	583.3	752.2	1001.2	M37104_at	" ATP synthase, H+ transporting, mitochondrial F0 complex, subunit F6  "	M37104	0.58	0.75	
+45	0.000664	133.1	158.7	223.9	J03626_rna1_s_at	 uridine monophosphate synthetase (orotate phosphoribosyl transferase and orotidine-5'-decarboxylase)  	J03626	0.59	0.71	
+46	0.000667	13.8	6.2	42.1	Z49205_at	" purinergic receptor P2Y, G-protein coupled, 1  "	Z49205	0.33	0.15	
+47	0.000699	176.3	205.4	445.8	U75362_at	 ubiquitin specific protease 13 (isopeptidase T-3)  	U75362	0.4	0.46	
+48	0.00071	254.4	247.3	476.9	M15841_at	 small nuclear ribonucleoprotein polypeptide B''  	M15841	0.53	0.52	
+49	0.00072	575.3	582.3	1439.6	U09510_s_at	 glycyl-tRNA synthetase  	U09510	0.4	0.4	
+50	0.000749	5554.9	4996.9	6437.7	D25274_at	" ras-related C3 botulinum toxin substrate 1 (rho family, small GTP binding protein Rac1)  "	D25274	0.86	0.78	
+51	0.000754	71.5	156.6	164.7	J03258_at	" vitamin D (1,25-dihydroxyvitamin D3) receptor  "	J03258	0.43	0.95	
+52	0.000796	873	835.6	1364.7	M93651_at	 SET translocation (myeloid leukemia-associated)  	M93651	0.64	0.61	
+53	0.000827	1625.4	2221.3	3847.9	X13794_rna1_at	 none  	X13794	0.42	0.58	
+54	0.000849	346.2	327.5	489.4	D87444_at	 KIAA0255 gene product  	D87444	0.71	0.67	
+55	0.000907	1106.6	922.4	1582	U19247_rna1_s_at	 none  	U19247	0.7	0.58	
+56	0.000926	301.7	285.2	105.9	D10923_at	 putative chemokine receptor; GTP-binding protein  	D10923	2.85	2.69	
+57	0.000941	876.2	1030.3	1652.5	D32050_at	 alanyl-tRNA synthetase  	D32050	0.53	0.62	
+58	0.000955	2737.6	3008.2	4497.4	L10284_at	 calnexin  	L10284	0.61	0.67	
+59	0.000956	130.6	148.2	260.4	Y08612_at	 nucleoporin 88kDa  	Y08612	0.5	0.57	
+60	0.000964	1096.5	1662.3	2227	D23662_at	" neural precursor cell expressed, developmentally down-regulated 8  "	D23662	0.49	0.75	
+61	0.000984	361.9	413.7	509.5	U66618_at	" SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 2  "	U66618	0.71	0.81	
+62	0.00101	105.2	112.2	173.7	M94065_at	 dihydroorotate dehydrogenase  	M94065	0.61	0.65	
+63	0.001017	475.2	627.3	1123	M94556_at	 single-stranded DNA binding protein  	M94556	0.42	0.56	
+64	0.00102	223.8	230.5	355.2	L25931_s_at	 lamin B receptor  	L25931	0.63	0.65	
+65	0.001024	614.6	754.7	1039	J04501_at	 glycogen synthase 1 (muscle)  	J04501	0.59	0.73	
+66	0.001074	343.1	403	507.1	U56833_at	 von Hippel-Lindau binding protein 1  	U56833	0.68	0.79	
+67	0.00111	521.7	663.1	929.1	U24704_at	" proteasome (prosome, macropain) 26S subunit, non-ATPase, 4  "	U24704	0.56	0.71	
+68	0.001114	840.5	1247.4	2079.6	L33842_rna1_at	 none  	L33842	0.4	0.6	
+69	0.001121	294.2	309.2	475.3	X98001_at	" Rab geranylgeranyltransfer ase, beta subunit  "	X98001	0.62	0.65	
+70	0.001123	469.2	334.6	504.2	M80359_at	 MAP/microtubule affinity-regulating kinase 3  	M80359	0.93	0.66	
+71	0.001167	3871.5	6411.4	2184.3	HG1872-HT1907_at	" Major Histocompatibility Complex, Dg  "	HG1872;HT1907	1.77	2.94	
+72	0.001237	314.3	376.8	688.5	Z26653_at	" laminin, alpha 2 (merosin, congenital muscular dystrophy)  "	Z26653	0.46	0.55	
+73	0.001296	4621.8	6675.5	8971.6	J03592_at	" solute carrier family 25 (mitochondrial carrier; adenine nucleotide translocator), member 6  "	J03592	0.52	0.74	
+74	0.001309	268.3	361.1	714.4	U21090_at	" polymerase (DNA directed), delta 2, regulatory subunit 50kDa  "	U21090	0.38	0.51	
+75	0.00131	302.9	297.6	569.2	HG884-HT884_s_at	" Oncogene E6-Ap, Papillomavirus - Also Represents: U84404  "	HG884;HT884	0.53	0.52	
+76	0.001337	21.7	148.7	20.6	M87860_at	 none  	M87860	1.05	7.23	
+77	0.001339	280.5	338.3	450.8	D31886_at	 RAB3 GTPase-ACTIVATING PROTEIN  	D31886	0.62	0.75	
+78	0.001404	301.9	212.3	460.4	S77410_at	" angiotensin II receptor, type 1  "	S77410	0.66	0.46	
+79	0.001426	819.2	646.6	308.4	L22009_at	 heterogeneous nuclear ribonucleoprotein H1 (H)  	L22009	2.66	2.1	
+80	0.001444	3763.6	3581	6569.2	D11428_at	 peripheral myelin protein 22  	D11428	0.57	0.55	
+81	0.001451	3953.5	4306.4	6958.5	J03040_at	" secreted protein, acidic, cysteine-rich (osteonectin)  "	J03040	0.57	0.62	
+82	0.001492	346.2	479.9	235.6	X56741_at	 mel transforming oncogene (derived from cell line NK14)-RAB8 homolog  	X56741	1.47	2.04	
+83	0.001616	300	358.7	262.5	D29013_at	" polymerase (DNA directed), beta  "	D29013	1.14	1.37	
+84	0.001622	135.5	205.5	257.3	J04058_at	" electron-transfer-flavoprotein, alpha polypeptide (glutaric aciduria II)  "	J04058	0.53	0.8	
+85	0.001623	2057.9	2724.2	3118.6	J04173_at	 phosphoglycerate mutase 1 (brain)  	J04173	0.66	0.87	
+86	0.00167	682.5	692.7	1536.1	U70867_at	" solute carrier family 21 (prostaglandin transporter), member 2  "	U70867	0.44	0.45	
+87	0.001705	313.4	301.4	678.8	U86602_at	 EBNA1 binding protein 2  	U86602	0.46	0.44	
+88	0.001771	101.6	97.1	173.8	D13642_at	" splicing factor 3b, subunit 3, 130kDa  "	D13642	0.58	0.56	
+89	0.001796	286.1	332.3	1113.9	HG2614-HT2710_at	" Collagen, Type Viii, Alpha 1  "	HG2614;HT2710	0.26	0.3	
+90	0.001833	111.7	85.8	66.1	U82303_at	 none  	U82303	1.69	1.3	
+91	0.001897	66.6	9.2	58	HG4755-HT5203_s_at	 Spinal Muscular Atrophy 4 - Also Represents: X83300  	HG4755;HT5203	1.15	0.16	
+92	0.001939	825.1	1258.2	1826.5	D87433_at	 stabilin 1  	D87433	0.45	0.69	
+93	0.002036	1458.6	2653.5	2828.9	D55654_at	" malate dehydrogenase 1, NAD (soluble)  "	D55654	0.52	0.94	
+94	0.002071	614.5	696.5	916.9	M24899_at	" thyroid hormone receptor, alpha (erythroblastic leukemia viral (v-erb-a) oncogene homolog, avian)  "	M24899	0.67	0.76	
+95	0.002113	2992.9	5041	6004.7	J04823_rna1_at	 none  	J04823	0.5	0.84	
+96	0.002132	958.3	1303.7	2099.5	M22538_at	" NADH dehydrogenase (ubiquinone) flavoprotein 2, 24kDa  "	M22538	0.46	0.62	
+97	0.002135	519.4	556.4	882.9	U61397_s_at	 ubiquitin-like 1 (sentrin)  	U61397	0.59	0.63	
+98	0.002149	629	682.8	1064	D90084_at	 none  	D90084	0.59	0.64	
+99	0.002149	2850.8	4286.4	5961.4	D14710_at	" ATP synthase, H+ transporting, mitochondrial F1 complex, alpha subunit, isoform 1, cardiac muscle  "	D14710	0.48	0.72	
+100	0.002162	1197.7	1652.1	1917.8	M37583_at	" H2A histone family, member Z  "	M37583	0.62	0.86	
+101	0.002208	4129.6	3213.9	12335	U75272_s_at	 progastricsin (pepsinogen C)  	U75272	0.33	0.26	
+102	0.002208	1971.3	2665.5	3126.2	D21260_at	" clathrin, heavy polypeptide (Hc)  "	D21260	0.63	0.85	
+103	0.002212	154.9	174.6	272.6	U69141_at	 glutaryl-Coenzyme A dehydrogenase  	U69141	0.57	0.64	
+104	0.002236	849.9	1023.9	1235.1	Z49099_at	 spermine synthase  	Z49099	0.69	0.83	
+105	0.002243	1069.4	1186.9	1726.8	M88108_at	" KH domain containing, RNA binding, signal transduction associated 1  "	M88108	0.62	0.69	
+106	0.002246	3747.3	5269.5	7559.6	X53777_at	 ribosomal protein L17  	X53777	0.5	0.7	
+107	0.002249	936	1149.4	2254.4	L48513_at	 paraoxonase 2  	L48513	0.42	0.51	
+108	0.002273	3366.4	4176.2	6247.2	M31520_rna1_s_at	 ribosomal protein S24  	M31520	0.54	0.67	
+109	0.002305	640.8	533.4	979	M74719_at	 transcription factor 4  	M74719	0.65	0.54	
+110	0.002365	619.8	851.7	1273.8	M34079_at	" proteasome (prosome, macropain) 26S subunit, ATPase, 3  "	M34079	0.49	0.67	
+111	0.002377	340	407.5	626.4	HG4334-HT4604_s_at	 Glycogenin - Also Represents: U31525  	HG4334;HT4604	0.54	0.65	
+112	0.002412	577.2	664	1094.4	HG4312-HT4582_s_at	 Transcription Factor Iiia - Also Represents: D32257  	HG4312;HT4582	0.53	0.61	
+113	0.002458	296.3	209.8	96.8	U78876_at	 mitogen-activated protein kinase kinase kinase 3  	U78876	3.06	2.17	
+114	0.002492	790.6	423.9	317	U49973_xpt1_at	 none  	U49973	2.49	1.34	
+115	0.002665	1191.9	1809.7	981.1	Z49107_s_at	" lectin, galactoside-binding, soluble, 9 (galectin 9)  "	Z49107	1.21	1.84	
+116	0.00271	1245.9	1167.1	1700.2	M73547_at	" DNA segment, single copy probe LNS-CAI/LNS-CAII (deleted in polyposis  "	M73547	0.73	0.69	
+117	0.00276	413.1	511.1	748.1	J04605_at	 peptidase D  	J04605	0.55	0.68	
+118	0.002762	1704.2	1511.8	2215.6	HG4541-HT4946_s_at	 Transformation-Related Protein - Also Represents: D16431  	HG4541;HT4946	0.77	0.68	
+119	0.002771	282.1	353.5	460.7	D49396_at	 peroxiredoxin 3  	D49396	0.61	0.77	
+120	0.002787	3733	4891.1	7109.6	U25789_at	 ribosomal protein L21  	U25789	0.53	0.69	
+121	0.002814	331.9	427	585.3	L07548_at	 aminoacylase 1  	L07548	0.57	0.73	
+122	0.00293	1648.7	1584.9	2238.9	D87452_at	 inositol hexaphosphate kinase 1  	D87452	0.74	0.71	
+123	0.002946	517.1	705.6	1143.7	M36284_s_at	 glycophorin C (Gerbich blood group)  	M36284	0.45	0.62	
+124	0.002984	326.5	435.9	725.7	X79865_at	 mitochondrial ribosomal protein L12  	X79865	0.45	0.6	
+125	0.002991	315.7	332.6	480.2	M91585_at	" bromodomain and PHD finger containing, 1  "	M91585	0.66	0.69	
+126	0.003006	597.8	911.3	1139.9	X63422_at	" ATP synthase, H+ transporting, mitochondrial F1 complex, delta subunit  "	X63422	0.52	0.8	
+127	0.00304	1569.6	2647.5	2630.7	AF006084_at	" actin related protein 2/3 complex, subunit 1B, 41kDa  "	AF006084	0.6	1.01	
+128	0.003134	1341.6	1757.7	2980.1	U48959_at	" myosin, light polypeptide kinase  "	U48959	0.45	0.59	
+129	0.003251	5348.5	4506.4	2577.5	U60115_at	 four and a half LIM domains 1  	U60115	2.08	1.75	
+130	0.003279	3247.8	5712.4	2107.2	X62744_at	" major histocompatibility complex, class II, DM alpha  "	X62744	1.54	2.71	
+131	0.003336	1681.3	2115.2	2786.2	U94586_at	" NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 4, 9kDa  "	U94586	0.6	0.76	
+132	0.003342	2125.4	2380.9	1349	M95678_at	" phospholipase C, beta 2  "	M95678	1.58	1.76	
+133	0.003386	763.8	1110.1	655.8	M58285_at	 hematopoietic protein 1  	M58285	1.16	1.69	
+134	0.00351	1594.3	2182.6	1389.5	U31342_at	 none  	U31342	1.15	1.57	
+135	0.003571	49.5	17.2	69.9	U70862_at	 nuclear factor I/B  	U70862	0.71	0.25	
+136	0.003595	2866.9	3576.1	5048.8	U50523_at	" actin related protein 2/3 complex, subunit 2, 34kDa  "	U50523	0.57	0.71	
+137	0.003605	679.9	748.6	1063.5	M86737_at	 structure specific recognition protein 1  	M86737	0.64	0.7	
+138	0.00362	139.5	102.3	228.5	U42359_at	 none  	U42359	0.61	0.45	
+139	0.003645	2502.9	2941.3	4038	M34539_at	" FK506 binding protein 1A, 12kDa  "	M34539	0.62	0.73	
+140	0.003677	1761.2	2070.5	2656.3	M75126_at	 hexokinase 1  	M75126	0.66	0.78	
+141	0.00368	96.4	82.4	20.1	U10886_at	" protein tyrosine phosphatase, receptor type, J  "	U10886	4.79	4.09	
+142	0.00369	58.2	103.8	66.4	L34820_at	" aldehyde dehydrogenase 5 family, member A1 (succinate-semialdehyde dehydrogenase)  "	L34820	0.88	1.56	
+143	0.003695	238.7	259.6	343.9	L13761_rna1_at	 none  	L13761	0.69	0.75	
+144	0.003747	128.8	158.8	369.3	L11005_at	 aldehyde oxidase 1  	L11005	0.35	0.43	
+145	0.003778	59.4	36.5	27.4	L49209_s_at	 none  	L49209	2.16	1.33	
+146	0.003794	87	96.8	194.7	U41745_at	 PDGFA associated protein 1  	U41745	0.45	0.5	
+147	0.003802	2195.4	2911.7	3606.7	X13238_at	 cytochrome c oxidase subunit VIc  	X13238	0.61	0.81	
+148	0.003866	4151.5	2920.6	8801.2	X86693_at	" SPARC-like 1 (mast9, hevin)  "	X86693	0.47	0.33	
+						 NGFI-A binding  		 	 	
+149	0.003876	62.8	45.7	14.3	U47007_at	 protein 1 (EGR1  	U47007	4.4	3.2	
+						 binding protein 1)  		 	 	
+150	0.003902	381.7	501.6	636.7	X15525_rna1_at	 none  	X15525	0.6	0.79	

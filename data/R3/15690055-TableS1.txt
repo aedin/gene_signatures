@@ -1,0 +1,57 @@
+UniGene ID	Gene name	Symbol	GISTs with KIT mutation	GISTs with PDGFRA mutation†	p value	Function
+Hs.162	insulin-like growth factor binding protein 2 (36kD)	IGFBP2	0.28	2.1	0.007	signal transduction
+Hs.2962	S100 calcium binding protein P	S100P	0.48	0.19	0.007	signal transduction
+Hs.283016	phosphodiesterase 7B	PDE7B	1.03	2.29	0.008	signal transduction
+Hs.89605	cholinergic receptor, nicotinic, alpha polypeptide 3	CHRNA3	1.23	3.8	0.007	signal transduction
+Hs.203238	phosphodiesterase 1B, calmodulin-dependent	PDE1B	1.23	8.14	0.007	signal transduction
+Hs.2488	lymphocyte cytosolic protein 2 (SH2 domain-containing leukocyte protein of 76kD)	LCP2	1.3	2.63	0.008	signal transduction
+Hs.1516	insulin-like growth factor binding protein 4	IGFBP4	1.45	6.06	0.007	signal transduction
+Hs.234249	mitogen-activated protein kinase 8 interacting protein 1	MAPK8IP1	1.47	3.99	0.007	signal transduction
+Hs.182416	ankyrin repeat and SOCS box-containing 2	ASB2	1.68	13.89	0.007	signal transduction
+Hs.12337	kinase insert domain receptor (a type III receptor tyrosine kinase)	KDR	1.81	4.5	0.009	signal transduction
+Hs.149957	ribosomal protein S6 kinase, 90kD, polypeptide 1	RPS6KA1	1.83	0.81	0.007	signal transduction
+Hs.78877	inositol 1,4,5-trisphosphate 3-kinase B	ITPKB	2.22	7.12	0.007	signal transduction
+Hs.74615	platelet-derived growth factor receptor, alpha polypeptide	PDGFRA	4.46	22.39	0.007	signal transduction
+Hs.76391	myxovirus (influenza virus) resistance 1, interferon-inducible protein p78 (mouse)	MX1	5.01	19.35	0.007	signal transduction
+Hs.292707	S100 calcium binding protein A1	S100A1	12.44	3.2	0.007	signal transduction
+Hs.12246	reelin	RELN	0.32	2.58	0.007	development
+Hs.8025	angiopoietin-like 2	ANGPTL2	1.24	5.41	0.007	development
+Hs.200594	KIAA0605 gene product	KIAA0605	3.01	14.3	0.007	development
+Hs.38260	ubiquitin specific protease 18	USP18	0.79	2.41	0.008	protein metabolism
+Hs.833	interferon-stimulated protein, 15 kDa	ISG15	1.07	14.33	0.007	protein metabolism
+Hs.334691	splicing factor 3a, subunit 1, 120kD	SF3A1	1.08	2.56	0.007	protein metabolism
+Hs.334873	carboxypeptidase M	CPM	1.3	2.83	0.007	protein metabolism
+Hs.105468	hypothetical protein FLJ22690	FLJ22690	2.1	5.81	0.008	protein metabolism
+Hs.169756	complement component 1, s subcomponent	C1S	3.41	12.28	0.007	protein metabolism
+Hs.289114	hexabrachion (tenascin C, cytotactin)	HXB	0.15	1.12	< 0.01	cell adhesion
+Hs.74583	KIAA0275 gene product	KIAA0275	1.13	3.59	0.009	cell adhesion
+Hs.20709	tetraspan 5	TSPAN-5	1.99	0.92	< 0.01	cell adhesion
+Hs.5378	spondin 1, (f-spondin) extracellular matrix protein	SPON1	3.11	40.85	< 0.01	cell adhesion
+Hs.24395	small inducible cytokine subfamily B (Cys-X-Cys), member 14 (BRAK)	SCYB14	1.11	3.95	< 0.01	response to biotic stimulus
+Hs.2248	small inducible cytokine subfamily B (Cys-X-Cys), member 10	SCYB10	1.77	9.83	0.009	response to biotic stimulus
+Hs.20315	interferon-induced protein with tetratricopeptide repeats 1	IFIT1	1.82	8.87	0.007	response to biotic stimulus
+Hs.155530	interferon, gamma-inducible protein 16	IFI16	0.54	1.55	0.007	nucleobase, nucleoside, nucleotide and nucleic acid metabolism
+Hs.227457	apolipoprotein B mRNA editing enzyme, catalytic polypeptide-like 2	APOBEC2	1.6	5.83	0.008	nucleobase, nucleoside, nucleotide and nucleic acid metabolism
+Hs.14453	interferon consensus sequence binding protein 1	ICSBP1	1.84	4.34	0.007	nucleobase, nucleoside, nucleotide and nucleic acid metabolism
+Hs.76494	proline arginine-rich end leucine-rich repeat protein	PRELP	1.68	5.95	0.007	cell organization and biogenesis
+Hs.76506	lymphocyte cytosolic protein 1 (L-plastin)	LCP1	0.38	1.09	0.007	cell organization and biogenesis
+Hs.10432	KIAA0878 protein	KIAA0878	0.47	1.2	< 0.01	cell organization and biogenesis
+Hs.108705	protein phosphatase 2 (formerly 2A), regulatory subunit A (PR 65), beta isoform	PPP2R1B	0.84	3.9	0.007	phosphorus metabolism
+Hs.42676	KIAA0781 protein	KIAA0781	1.11	2.23	0.007	phosphorus metabolism
+Hs.223025	RAB31, member RAS oncogene family	RAB31	0.99	2.38	0.007	transport
+Hs.108923	RAB38, member RAS oncogene family	RAB38	1.27	3.44	0.008	transport
+Hs.125359	Thy-1 cell surface antigen	THY1	0.68	6.82	< 0.01	others
+Hs.277014	hypothetical gene FLJ13072	FLJ13072	0.73	1.54	0.007	others
+Hs.39384	four jointed box 1 (Drosophila)	FJX1	1.51	5.6	0.007	others
+Hs.239138	pre-B-cell colony-enhancing factor	PBEF	0.37	0.77	0.007	others
+Hs.4909	dickkopf homolog 3 (Xenopus laevis)	DKK3	0.44	1.04	< 0.01	others
+Hs.1104	bone morphogenetic protein 5	BMP5	0.88	2.96	< 0.01	others
+Hs.118787	transforming growth factor, beta-induced, 68kD	TGFBI	1.84	13.47	0.007	others
+Hs.75360	carboxypeptidase E	CPE	2.47	12.52	< 0.01	others
+Hs.64639	glioma pathogenesis-related protein	RTVP1	3.74	9.84	< 0.01	others
+Hs.7358	hypothetical protein FLJ13110	FLJ13110	2.28	8.18	0.007	others
+Hs.173717	phosphatidic acid phosphatase type 2B	PPAP2B	0.98	2.8	< 0.01	others
+Hs.174030	a disintegrin and metalloproteinase domain 28	ADAM28	1.4	6.79	0.007	others
+Hs.54443	chemokine (C-C motif) receptor 5	CCR5	1.52	3.07	< 0.01	others
+Hs.56874	heat shock 27kD protein family, member 7 (cardiovascular)	HSPB7	1.29	2.92	0.007	others
+Hs.154567	supervillin	SVIL	1.86	0.63	0.007	others

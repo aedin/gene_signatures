@@ -1,0 +1,31 @@
+Gene Symbol	UniGene Cluster	Description	Mean Ratios in the High-Risk Group	Mean Ratios in the Low-Risk Group	P Value	Function
+MT1B	Hs.36102	Metallothionein 1B	0.5	1	0.000001	Cellular transporter
+MT1E	Hs.433205	Metallothionein 1E	0.5	1.1	<.000001	Cellular transporter
+MT1L	Hs.380778	Metallothionein 1L	0.5	0.9	0.000005	Cellular transporter
+CP	Hs.296634	Ceruloplasmin	0.5	1.2	<.000001	Cellular transporter
+ABCA1	Hs.211562	ATP-binding cassette 1	0.5	0.7	<.000001	Cellular transporter
+CACNB3	Hs.250712	Calcium channel beta 3 subunit	0.6	1.2	<.000001	Cellular transporter
+PROS1	Hs.64016	Protein S	0.5	0.9	0.000003	Blood coagulation
+CPB2	Hs.75572	Carboxypeptidase B2	0.5	0.9	0.000002	Blood coagulation
+SERPINC1	Hs.75599	Antithrombin III	0.5	1.1	0.000005	Blood coagulation
+LACI	Hs.170279	Tissue factor inhibitor	0.7	1	0.000003	Blood coagulation
+MDK	Hs.82045	Midkine	2.1	1.5	0.000259	Immune response
+C6	Hs.1282	Complement component 6	0.4	0.7	0.000001	Immune response
+C9	Hs.1290	Complement component 9	0.3	0.8	<.000001	Immune response
+CD5L	Hs.52002	CD5 antigen-like	0.7	1.2	0.000001	Immune response
+GPR126	Hs.44197	G protein-coupled receptor 126	0.7	1.1	0.000006	Signaling pathway
+IL1RAP	Hs.173880	IL-1 receptor accessory protein	0.6	1	0.000004	Signaling pathway
+DYRK3	Hs.38018	Protein kinase, similar to sc. YAK1	0.6	1.1	<.000001	Signaling pathway
+PCDH17	Hs.106511	Protocadherin 17	1.4	1	<.000001	Cell adhesion
+TACSTD1	Hs.692	EpCAM	3.6	1.7	0.000016	Cell adhesion
+UAP1	Hs.21293	Sperm-associated antigen 2	0.7	1.2	<.000001	Miscellaneous
+C20orf3	Hs.22391	Unknown	0.5	0.7	<.000001	Miscellaneous
+CFL2	Hs.180141	Cofilin 2	0.6	0.9	<.000001	Miscellaneous
+FLJ12666	Hs.23767	Hypothetical protein FLJ12666	0.6	1	0.000006	Miscellaneous
+KIAA0843	Hs.26777	KIAA0843 protein	0.7	0.9	<.000001	Miscellaneous
+MRC1	Hs.75182	Mannose receptor, C type 1	0.7	1.4	0.000002	Miscellaneous
+NAT2	Hs.2	N-acetyltransferase 2	0.5	0.8	0.000001	Miscellaneous
+MYO1B	Hs.121576	Myosin IB	0.7	1.1	<.000001	Miscellaneous
+SIPL	Hs.64322	SIPL protein	0.7	1.1	<.000001	Miscellaneous
+SRD5A2	Hs.1989	Steroid-5-alpha-reductase 2	0.5	0.9	0.000004	Miscellaneous
+USP10	Hs.78829	Ubiquitin-specific protease 10	0.4	0.7	0.000003	Miscellaneous
